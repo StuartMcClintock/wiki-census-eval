@@ -1,0 +1,16 @@
+{
+  "article": "Monaca,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/50320/Monaca__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cc0deddf7bb813958598eec2c0d3dfcb97a3cfcd5e2e1007b1736dd3d16159b8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cc0deddf7bb813958598eec2c0d3dfcb97a3cfcd5e2e1007b1736dd3d16159b8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/50320/Monaca__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "50320",
+  "timestamp": "2026-05-25T00:08:08.283580Z",
+  "version": 1
+}

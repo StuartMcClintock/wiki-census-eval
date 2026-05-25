@@ -1,0 +1,16 @@
+{
+  "article": "Westmoreland,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/77200/Westmoreland__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fdf4f919f4d3765fc428b66e0e0b62325f3c3f1798570101ac7e9ed2f2c107ea",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fdf4f919f4d3765fc428b66e0e0b62325f3c3f1798570101ac7e9ed2f2c107ea",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/77200/Westmoreland__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "77200",
+  "timestamp": "2026-05-24T23:43:37.135618Z",
+  "version": 1
+}

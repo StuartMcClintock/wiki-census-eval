@@ -1,0 +1,16 @@
+{
+  "article": "Union_Bridge,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/79350/Union_Bridge__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b114c79928aefb9cc503d85912ac993d45b2da87f3f3dfba353af880bc7e6672",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b114c79928aefb9cc503d85912ac993d45b2da87f3f3dfba353af880bc7e6672",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/79350/Union_Bridge__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "79350",
+  "timestamp": "2026-05-24T23:47:35.809659Z",
+  "version": 1
+}

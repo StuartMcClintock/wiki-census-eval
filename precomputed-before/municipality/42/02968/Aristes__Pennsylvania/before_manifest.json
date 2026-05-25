@@ -1,0 +1,16 @@
+{
+  "article": "Aristes,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/02968/Aristes__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a05040144d738305e099f8047855eae30501e45957e3e8debe79ea7afd98e280",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a05040144d738305e099f8047855eae30501e45957e3e8debe79ea7afd98e280",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/02968/Aristes__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "02968",
+  "timestamp": "2026-05-25T00:06:09.132032Z",
+  "version": 1
+}

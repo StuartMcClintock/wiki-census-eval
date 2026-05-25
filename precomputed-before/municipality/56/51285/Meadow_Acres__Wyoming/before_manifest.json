@@ -1,0 +1,16 @@
+{
+  "article": "Meadow_Acres,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/51285/Meadow_Acres__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9e1af18b48aed933cfc4a46ca6bfbc7d819825474bb9fc9a7277566ae809e506",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9e1af18b48aed933cfc4a46ca6bfbc7d819825474bb9fc9a7277566ae809e506",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/51285/Meadow_Acres__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "51285",
+  "timestamp": "2026-05-25T00:23:18.979963Z",
+  "version": 1
+}

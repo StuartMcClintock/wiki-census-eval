@@ -1,0 +1,16 @@
+{
+  "article": "Buck_Run,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/09896/Buck_Run__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dc55275c288685b28a8f6d831a7168786d1a3119913a322884676cf1b6a82531",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dc55275c288685b28a8f6d831a7168786d1a3119913a322884676cf1b6a82531",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/09896/Buck_Run__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "09896",
+  "timestamp": "2026-05-25T00:06:23.152704Z",
+  "version": 1
+}

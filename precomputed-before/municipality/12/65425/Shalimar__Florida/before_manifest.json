@@ -1,0 +1,16 @@
+{
+  "article": "Shalimar,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/65425/Shalimar__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9e251985ee438394c8e4293634632366dc1368179822228a413b4bdb53e0f464",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9e251985ee438394c8e4293634632366dc1368179822228a413b4bdb53e0f464",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/65425/Shalimar__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "65425",
+  "timestamp": "2026-05-24T23:36:22.780830Z",
+  "version": 1
+}

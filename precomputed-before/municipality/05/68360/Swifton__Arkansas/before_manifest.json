@@ -1,0 +1,16 @@
+{
+  "article": "Swifton,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/68360/Swifton__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "007db529c16df77b1d6ed5dd714271547fee247c22ed63bcbcd34f06e993e744",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "007db529c16df77b1d6ed5dd714271547fee247c22ed63bcbcd34f06e993e744",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/68360/Swifton__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "68360",
+  "timestamp": "2026-05-24T23:34:10.601969Z",
+  "version": 1
+}

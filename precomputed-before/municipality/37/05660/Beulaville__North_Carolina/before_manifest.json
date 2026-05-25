@@ -1,0 +1,16 @@
+{
+  "article": "Beulaville,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/05660/Beulaville__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6ae8f1e70db1a3fb6b5a689b4e28cc831ce6222636785e523ab540757e15544f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6ae8f1e70db1a3fb6b5a689b4e28cc831ce6222636785e523ab540757e15544f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/05660/Beulaville__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "05660",
+  "timestamp": "2026-05-25T00:01:44.920960Z",
+  "version": 1
+}

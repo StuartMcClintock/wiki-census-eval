@@ -1,0 +1,16 @@
+{
+  "article": "East_Marion,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/22447/East_Marion__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7d8ad127b680ae410ca9a587bf039537ab76b9557481221f1a00eb3c15d35f4c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7d8ad127b680ae410ca9a587bf039537ab76b9557481221f1a00eb3c15d35f4c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/22447/East_Marion__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "22447",
+  "timestamp": "2026-05-25T00:00:41.358511Z",
+  "version": 1
+}

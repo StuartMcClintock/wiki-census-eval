@@ -1,0 +1,16 @@
+{
+  "article": "Archer,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/01920/Archer__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e79e05f9806ca229d72de96fe136d44bcbc8998668d83a8d067ebc6a9dbc92f1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e79e05f9806ca229d72de96fe136d44bcbc8998668d83a8d067ebc6a9dbc92f1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/01920/Archer__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "01920",
+  "timestamp": "2026-05-24T23:55:08.395487Z",
+  "version": 1
+}

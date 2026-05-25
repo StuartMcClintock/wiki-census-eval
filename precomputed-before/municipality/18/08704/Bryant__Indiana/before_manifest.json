@@ -1,0 +1,16 @@
+{
+  "article": "Bryant,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/08704/Bryant__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "14906a8e16a9f165277a6b45442ed815ee09c005304efd521a38f94e2bc8ac51",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "14906a8e16a9f165277a6b45442ed815ee09c005304efd521a38f94e2bc8ac51",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/08704/Bryant__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "08704",
+  "timestamp": "2026-05-24T23:39:27.410559Z",
+  "version": 1
+}

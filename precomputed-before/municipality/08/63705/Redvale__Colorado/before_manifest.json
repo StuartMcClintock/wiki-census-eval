@@ -1,0 +1,16 @@
+{
+  "article": "Redvale,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/63705/Redvale__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8638c9150c8004fd955191294fe270bcca2375fc05aeb9126f2124d85582a430",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8638c9150c8004fd955191294fe270bcca2375fc05aeb9126f2124d85582a430",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/63705/Redvale__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "63705",
+  "timestamp": "2026-05-24T23:35:38.276600Z",
+  "version": 1
+}

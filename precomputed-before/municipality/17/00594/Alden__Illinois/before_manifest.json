@@ -1,0 +1,16 @@
+{
+  "article": "Alden,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/00594/Alden__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c2c66f4936af09b073f95a332196312580ffb62f37fa0a6276dea9877e099376",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c2c66f4936af09b073f95a332196312580ffb62f37fa0a6276dea9877e099376",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/00594/Alden__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "00594",
+  "timestamp": "2026-05-24T23:37:31.557468Z",
+  "version": 1
+}

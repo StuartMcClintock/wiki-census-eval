@@ -1,0 +1,16 @@
+{
+  "article": "Martinsburg,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/47872/Martinsburg__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c2bd7b1e7d9d0903131be7c7e818693984ad200fd9a1535fa43deff62836b456",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c2bd7b1e7d9d0903131be7c7e818693984ad200fd9a1535fa43deff62836b456",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/47872/Martinsburg__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "47872",
+  "timestamp": "2026-05-25T00:08:02.364570Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Circle,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/14950/Circle__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "36ff5b28284e4bfe9a605035131e20623dc2d8be333a137d8890a86d3a7ea214",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "36ff5b28284e4bfe9a605035131e20623dc2d8be333a137d8890a86d3a7ea214",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/14950/Circle__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "14950",
+  "timestamp": "2026-05-24T23:54:18.938049Z",
+  "version": 1
+}

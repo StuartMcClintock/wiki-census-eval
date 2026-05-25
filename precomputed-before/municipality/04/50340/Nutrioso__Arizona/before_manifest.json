@@ -1,0 +1,16 @@
+{
+  "article": "Nutrioso,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/50340/Nutrioso__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "29630a90a8d28aa2e79d020238a689ef666e499825617dcd6aeb1d14543ddbdc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "29630a90a8d28aa2e79d020238a689ef666e499825617dcd6aeb1d14543ddbdc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/50340/Nutrioso__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "50340",
+  "timestamp": "2026-05-24T23:33:05.000113Z",
+  "version": 1
+}

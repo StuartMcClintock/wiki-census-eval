@@ -1,0 +1,16 @@
+{
+  "article": "Mehama,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/47300/Mehama__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1f72ab95714a46f61393e6b21bf6e2c9255a8027aa57f4ff8e3d33d2566f9aca",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1f72ab95714a46f61393e6b21bf6e2c9255a8027aa57f4ff8e3d33d2566f9aca",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/47300/Mehama__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "47300",
+  "timestamp": "2026-05-25T00:05:51.740237Z",
+  "version": 1
+}

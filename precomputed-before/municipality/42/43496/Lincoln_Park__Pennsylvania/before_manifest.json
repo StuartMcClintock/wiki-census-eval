@@ -1,0 +1,16 @@
+{
+  "article": "Lincoln_Park,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/43496/Lincoln_Park__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "480e894d07d959e473e74f4b313e81a9827fc5751adfe9f2f1212e0272b52d5c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "480e894d07d959e473e74f4b313e81a9827fc5751adfe9f2f1212e0272b52d5c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/43496/Lincoln_Park__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "43496",
+  "timestamp": "2026-05-25T00:07:52.393356Z",
+  "version": 1
+}

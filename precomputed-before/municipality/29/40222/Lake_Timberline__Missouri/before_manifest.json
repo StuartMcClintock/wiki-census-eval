@@ -1,0 +1,16 @@
+{
+  "article": "Lake_Timberline,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/40222/Lake_Timberline__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "76d7389f3ee8145123664678127c8752a432ca9662f01429f660d849447a25d5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "76d7389f3ee8145123664678127c8752a432ca9662f01429f660d849447a25d5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/40222/Lake_Timberline__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "40222",
+  "timestamp": "2026-05-24T23:53:25.325046Z",
+  "version": 1
+}

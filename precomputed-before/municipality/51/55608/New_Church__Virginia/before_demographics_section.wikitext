@@ -1,0 +1,78 @@
+==Demographics==
+{{US Census population
+| 2010=205
+| 2020=256
+|estyear=
+|estimate=
+|estref=
+|align-fn=center
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census/decade.html|title=Decennial Census by Decade|website=[[United States Census Bureau]]|access-date=}}</ref><br>
+2010<ref name=2010CensusVA>{{Cite web|title= 2010 Census of Population - Population and Housing Unit Counts - Virginia|url=https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-48.pdf|website=[[United States Census Bureau]]}}</ref> 2020<ref name=2020CensusP2/>
+}}
+
+New Church was first listed as a [[census designated place]] in the [[2010 U.S. census]].<ref name=2010CensusVA/>
+
+===2020 census===
+{| class="wikitable" style="text-align:center;"
+|+'''New Church CDP, Virginia – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2 Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) - New Church CDP, Virginia|url=https://data.census.gov/cedsci/table?g=1600000US5155608&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]]}}</ref>
+!Pop 2020<ref name=2020CensusP2>{{Cite web|title=P2 Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) - New Church CDP, Virginia|url=https://data.census.gov/cedsci/table?g=1600000US5155608&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]]}}</ref>
+!% 2010
+!% 2020
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|159
+|159
+|77.56%
+|62.11%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|34
+|63
+|16.59%
+|24.61%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|1
+|2
+|0.49%
+|0.78%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|2
+|10
+|0.98%
+|3.91%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|0
+|0.00%
+|0.00%
+|-
+|Some Other Race alone (NH)
+|0
+|0
+|0.00%
+|0.00%
+|-
+|[[Multiracial Americans|Mixed Race or Multi-Racial]] (NH)
+|1
+|17
+|0.49%
+|6.64%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|8
+|5
+|3.90%
+|1.95%
+|-
+|'''Total'''
+|'''205'''
+|'''256'''
+|'''100.00%'''
+|'''100.00%'''
+|}
+

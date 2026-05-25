@@ -1,0 +1,16 @@
+{
+  "article": "Hawkeye,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/35310/Hawkeye__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cdc351e4275b7ac58aeeedede234a2514b05decacd412f7b1d5b410430cc99bf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cdc351e4275b7ac58aeeedede234a2514b05decacd412f7b1d5b410430cc99bf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/35310/Hawkeye__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "35310",
+  "timestamp": "2026-05-24T23:41:10.406132Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Frankfort,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/30260/Frankfort__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "017b3262a49b7e837198f3ef13a9561c9e71440e872c5c053fcf86a9f86fae74",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "017b3262a49b7e837198f3ef13a9561c9e71440e872c5c053fcf86a9f86fae74",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/30260/Frankfort__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "30260",
+  "timestamp": "2026-05-24T23:47:55.605982Z",
+  "version": 1
+}

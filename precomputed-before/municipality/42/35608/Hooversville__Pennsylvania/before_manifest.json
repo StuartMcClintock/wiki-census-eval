@@ -1,0 +1,16 @@
+{
+  "article": "Hooversville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/35608/Hooversville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6ae50044b3f9eb36453949bca0e2a8da066d6745a1e1b50601c6a04674be4b91",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6ae50044b3f9eb36453949bca0e2a8da066d6745a1e1b50601c6a04674be4b91",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/35608/Hooversville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "35608",
+  "timestamp": "2026-05-25T00:07:27.303935Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Wenden,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/81550/Wenden__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9b3ec459344aa3b36021be58d261bfaa5326bc6a70a470221eae6b607b5aa412",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9b3ec459344aa3b36021be58d261bfaa5326bc6a70a470221eae6b607b5aa412",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/81550/Wenden__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "81550",
+  "timestamp": "2026-05-24T23:33:14.368391Z",
+  "version": 1
+}

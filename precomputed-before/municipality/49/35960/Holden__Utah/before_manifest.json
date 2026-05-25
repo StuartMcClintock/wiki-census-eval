@@ -1,0 +1,16 @@
+{
+  "article": "Holden,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/35960/Holden__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8c4504d8c2bc9daf17dfe53e47ffae793e66296a216d0df803362af4ab061a1e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8c4504d8c2bc9daf17dfe53e47ffae793e66296a216d0df803362af4ab061a1e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/35960/Holden__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "35960",
+  "timestamp": "2026-05-25T00:17:02.211627Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Jackson,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/24355/Jackson__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c19d3f835937e688179812f4888205b6d921963696e23edd02a851be5f35e87c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c19d3f835937e688179812f4888205b6d921963696e23edd02a851be5f35e87c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/24355/Jackson__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "24355",
+  "timestamp": "2026-05-24T23:55:34.787485Z",
+  "version": 1
+}

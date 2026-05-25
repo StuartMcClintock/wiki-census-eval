@@ -1,0 +1,16 @@
+{
+  "article": "Newell,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/58420/Newell__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "eef6a92e544c6c6d82d6bd25fb4bc3bdb595fdc5278f196fd700f0be677d8e76",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "eef6a92e544c6c6d82d6bd25fb4bc3bdb595fdc5278f196fd700f0be677d8e76",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/58420/Newell__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "58420",
+  "timestamp": "2026-05-25T00:21:19.085099Z",
+  "version": 1
+}

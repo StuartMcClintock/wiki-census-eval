@@ -1,0 +1,16 @@
+{
+  "article": "Shamokin_Dam,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/69616/Shamokin_Dam__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "17248c0a0b24a6de7ac12943468dc31651d955f07072f965792ff6fd247414d4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "17248c0a0b24a6de7ac12943468dc31651d955f07072f965792ff6fd247414d4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/69616/Shamokin_Dam__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "69616",
+  "timestamp": "2026-05-25T00:09:01.308849Z",
+  "version": 1
+}

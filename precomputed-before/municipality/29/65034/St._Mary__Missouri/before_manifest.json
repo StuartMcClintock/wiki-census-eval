@@ -1,0 +1,16 @@
+{
+  "article": "St._Mary,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/65034/St._Mary__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2eca06ffe614cfdafb5d5373dcd10030b864ab1ba4c0f7286cb7c38162016670",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2eca06ffe614cfdafb5d5373dcd10030b864ab1ba4c0f7286cb7c38162016670",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/65034/St._Mary__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "65034",
+  "timestamp": "2026-05-24T23:53:48.225702Z",
+  "version": 1
+}

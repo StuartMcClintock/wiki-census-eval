@@ -1,0 +1,16 @@
+{
+  "article": "Jefferson,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/41010/Jefferson__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "380f543e35d4dbc5f1ef23a55a56638c8797c551c43d306f254e3fedd8aba408",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "380f543e35d4dbc5f1ef23a55a56638c8797c551c43d306f254e3fedd8aba408",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/41010/Jefferson__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "41010",
+  "timestamp": "2026-05-25T00:21:13.406761Z",
+  "version": 1
+}

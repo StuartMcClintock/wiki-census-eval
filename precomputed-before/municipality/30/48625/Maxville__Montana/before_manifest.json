@@ -1,0 +1,16 @@
+{
+  "article": "Maxville,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/48625/Maxville__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c23ead9259302fbb1133a5ad5e8d67a3be4739cc7c394c360bb27719364238f8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c23ead9259302fbb1133a5ad5e8d67a3be4739cc7c394c360bb27719364238f8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/48625/Maxville__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "48625",
+  "timestamp": "2026-05-24T23:54:37.696146Z",
+  "version": 1
+}

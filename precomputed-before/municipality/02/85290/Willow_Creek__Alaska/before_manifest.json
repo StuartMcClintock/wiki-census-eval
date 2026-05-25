@@ -1,0 +1,16 @@
+{
+  "article": "Willow_Creek,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/85290/Willow_Creek__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e697aeb381f9e588d2fe9f807c38e972022922116b0f4de41ae617e999d708bb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e697aeb381f9e588d2fe9f807c38e972022922116b0f4de41ae617e999d708bb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/85290/Willow_Creek__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "85290",
+  "timestamp": "2026-05-24T23:32:46.363856Z",
+  "version": 1
+}

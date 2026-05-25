@@ -1,0 +1,16 @@
+{
+  "article": "Exeter,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/23122/Exeter__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b04253f7df74007482e871f43e1e8bb239211bbd30f4db71d380c28a0b1e4161",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b04253f7df74007482e871f43e1e8bb239211bbd30f4db71d380c28a0b1e4161",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/23122/Exeter__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "23122",
+  "timestamp": "2026-05-24T23:51:07.787214Z",
+  "version": 1
+}

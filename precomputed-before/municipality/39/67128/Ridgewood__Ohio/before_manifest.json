@@ -1,0 +1,16 @@
+{
+  "article": "Ridgewood,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/67128/Ridgewood__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "03dafebd20e2a11164ffe69427150d99d636e8c4f50b90c3bfb67c0874112c46",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "03dafebd20e2a11164ffe69427150d99d636e8c4f50b90c3bfb67c0874112c46",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/67128/Ridgewood__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "67128",
+  "timestamp": "2026-05-25T00:05:10.942874Z",
+  "version": 1
+}

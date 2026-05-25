@@ -1,0 +1,16 @@
+{
+  "article": "Paxtang,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/58504/Paxtang__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "31a7cb0cbb2c269dbdea7f89994cffeb6f8581b92537224f0cf606466865bb83",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "31a7cb0cbb2c269dbdea7f89994cffeb6f8581b92537224f0cf606466865bb83",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/58504/Paxtang__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "58504",
+  "timestamp": "2026-05-25T00:08:26.807899Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Flovilla,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/30312/Flovilla__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6401f2cd0dffe57342c9c59ef3cdcb7bf3fdc38c01fc5a73b8417ef8ebd00718",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6401f2cd0dffe57342c9c59ef3cdcb7bf3fdc38c01fc5a73b8417ef8ebd00718",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/30312/Flovilla__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "30312",
+  "timestamp": "2026-05-24T23:36:36.877985Z",
+  "version": 1
+}

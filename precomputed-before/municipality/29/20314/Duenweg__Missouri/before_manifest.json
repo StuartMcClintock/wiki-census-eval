@@ -1,0 +1,16 @@
+{
+  "article": "Duenweg,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/20314/Duenweg__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4076c0ebb73096e7fa96a2203e800e5d535eb850d99fdd7a355f6fa28070b27a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4076c0ebb73096e7fa96a2203e800e5d535eb850d99fdd7a355f6fa28070b27a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/20314/Duenweg__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "20314",
+  "timestamp": "2026-05-24T23:51:04.707526Z",
+  "version": 1
+}

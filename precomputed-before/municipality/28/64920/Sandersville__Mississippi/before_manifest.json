@@ -1,0 +1,16 @@
+{
+  "article": "Sandersville,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/64920/Sandersville__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "48524954743322ae4bc94df94acdb8453659e4e065cfe56cf27e7d4bce421d0c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "48524954743322ae4bc94df94acdb8453659e4e065cfe56cf27e7d4bce421d0c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/64920/Sandersville__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "64920",
+  "timestamp": "2026-05-24T23:50:22.844779Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Victor,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/80805/Victor__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5577eab124e1b6b9b823b74c12459bdfff09822618dd15115e75f13c9aecfa3d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5577eab124e1b6b9b823b74c12459bdfff09822618dd15115e75f13c9aecfa3d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/80805/Victor__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "80805",
+  "timestamp": "2026-05-24T23:42:08.479389Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Orchard,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/37210/Orchard__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6b3b8ab3facb3d8e87a4a933a75401be7be8994900a46596d43d0ec632e09497",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6b3b8ab3facb3d8e87a4a933a75401be7be8994900a46596d43d0ec632e09497",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/37210/Orchard__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "37210",
+  "timestamp": "2026-05-24T23:56:00.669011Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Hudson,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/35086/Hudson__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f7fe9e8d13d9b187e455fe678508a750f2d7f7bafb3bb03f23df7aba5b2ca03e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f7fe9e8d13d9b187e455fe678508a750f2d7f7bafb3bb03f23df7aba5b2ca03e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/35086/Hudson__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "35086",
+  "timestamp": "2026-05-24T23:39:39.510318Z",
+  "version": 1
+}

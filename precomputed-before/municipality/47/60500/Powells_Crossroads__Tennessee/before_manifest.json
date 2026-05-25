@@ -1,0 +1,16 @@
+{
+  "article": "Powells_Crossroads,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/60500/Powells_Crossroads__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ac441d5705367d74f1014d7ba338aa4a904be52e733766b5218458e39e2c9575",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ac441d5705367d74f1014d7ba338aa4a904be52e733766b5218458e39e2c9575",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/60500/Powells_Crossroads__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "60500",
+  "timestamp": "2026-05-25T00:14:51.495072Z",
+  "version": 1
+}

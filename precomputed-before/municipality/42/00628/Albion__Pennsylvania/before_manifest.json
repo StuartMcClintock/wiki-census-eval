@@ -1,0 +1,16 @@
+{
+  "article": "Albion,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/00628/Albion__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0b5ee59107c974e9a8b3f7613627e31e9eb72cafe2f41397850bf944e43585f7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0b5ee59107c974e9a8b3f7613627e31e9eb72cafe2f41397850bf944e43585f7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/00628/Albion__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "00628",
+  "timestamp": "2026-05-25T00:06:06.698329Z",
+  "version": 1
+}

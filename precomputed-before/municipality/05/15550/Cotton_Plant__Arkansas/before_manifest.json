@@ -1,0 +1,16 @@
+{
+  "article": "Cotton_Plant,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/15550/Cotton_Plant__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e4861aa3d2eb28c9e4aecdbff6956abf6adfb9868cfa9b743bffce947462f61e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e4861aa3d2eb28c9e4aecdbff6956abf6adfb9868cfa9b743bffce947462f61e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/15550/Cotton_Plant__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "15550",
+  "timestamp": "2026-05-24T23:33:25.926027Z",
+  "version": 1
+}

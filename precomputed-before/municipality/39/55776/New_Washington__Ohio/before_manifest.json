@@ -1,0 +1,16 @@
+{
+  "article": "New_Washington,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/55776/New_Washington__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "175630be362481ef4f6d62d1949f5b88a968065b9ceb3385cf923f136482ce8c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "175630be362481ef4f6d62d1949f5b88a968065b9ceb3385cf923f136482ce8c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/55776/New_Washington__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "55776",
+  "timestamp": "2026-05-25T00:04:53.991106Z",
+  "version": 1
+}

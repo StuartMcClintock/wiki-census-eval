@@ -1,0 +1,16 @@
+{
+  "article": "Schlater,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/66080/Schlater__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "09e0f93127f8ad779318460a187c4064b69a9f4d7c5058af1f1c59be3f6a2b0a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "09e0f93127f8ad779318460a187c4064b69a9f4d7c5058af1f1c59be3f6a2b0a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/66080/Schlater__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "66080",
+  "timestamp": "2026-05-24T23:50:23.147391Z",
+  "version": 1
+}

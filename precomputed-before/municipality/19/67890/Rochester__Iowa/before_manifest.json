@@ -1,0 +1,16 @@
+{
+  "article": "Rochester,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/67890/Rochester__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1ab34d7dbef72d4687d36ad6fdfc009371d9cbfd2bbcc177956ad7bfec255bb4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1ab34d7dbef72d4687d36ad6fdfc009371d9cbfd2bbcc177956ad7bfec255bb4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/67890/Rochester__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "67890",
+  "timestamp": "2026-05-24T23:41:43.574823Z",
+  "version": 1
+}

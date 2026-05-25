@@ -1,0 +1,16 @@
+{
+  "article": "Langley,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/40390/Langley__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7c306edf498d6c7c6cc525aa900bc3d0566a756f7e784de22133bc5c84686a20",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7c306edf498d6c7c6cc525aa900bc3d0566a756f7e784de22133bc5c84686a20",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/40390/Langley__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "40390",
+  "timestamp": "2026-05-25T00:10:09.984484Z",
+  "version": 1
+}

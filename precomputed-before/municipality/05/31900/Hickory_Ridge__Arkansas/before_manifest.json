@@ -1,0 +1,16 @@
+{
+  "article": "Hickory_Ridge,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/31900/Hickory_Ridge__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fd8aeb2a9cdb41c4e3b5bb6c8fdf407857b2ed7fd97f444710e5802accff7393",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fd8aeb2a9cdb41c4e3b5bb6c8fdf407857b2ed7fd97f444710e5802accff7393",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/31900/Hickory_Ridge__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "31900",
+  "timestamp": "2026-05-24T23:33:46.347871Z",
+  "version": 1
+}

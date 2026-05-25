@@ -1,0 +1,16 @@
+{
+  "article": "South_Connellsville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/72080/South_Connellsville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9710792360f1635f752a5be524c5ff00b7d0ccc8058a9ff399db6622ce42477a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9710792360f1635f752a5be524c5ff00b7d0ccc8058a9ff399db6622ce42477a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/72080/South_Connellsville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "72080",
+  "timestamp": "2026-05-25T00:09:07.674265Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Boyle,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/08180/Boyle__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "48d3e874f44bf3c832aac6d427c562fda101951a89e99e56c792e65eb1c24a27",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "48d3e874f44bf3c832aac6d427c562fda101951a89e99e56c792e65eb1c24a27",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/08180/Boyle__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "08180",
+  "timestamp": "2026-05-24T23:50:03.942645Z",
+  "version": 1
+}

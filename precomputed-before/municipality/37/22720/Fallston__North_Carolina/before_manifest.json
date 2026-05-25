@@ -1,0 +1,16 @@
+{
+  "article": "Fallston,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/22720/Fallston__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f800d5cb5767d9f6af714d79c968b0b5f4249bce823765bbe3027ebc04709508",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f800d5cb5767d9f6af714d79c968b0b5f4249bce823765bbe3027ebc04709508",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/22720/Fallston__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "22720",
+  "timestamp": "2026-05-25T00:01:55.890006Z",
+  "version": 1
+}

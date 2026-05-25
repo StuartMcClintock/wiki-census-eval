@@ -1,0 +1,16 @@
+{
+  "article": "Liberty_City,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/42616/Liberty_City__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c6761d72ca06c41cd6a116b82e613729c29e338d1f11af990000a55b63753589",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c6761d72ca06c41cd6a116b82e613729c29e338d1f11af990000a55b63753589",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/42616/Liberty_City__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "42616",
+  "timestamp": "2026-05-25T00:15:54.379815Z",
+  "version": 1
+}

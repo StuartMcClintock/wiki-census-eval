@@ -1,0 +1,16 @@
+{
+  "article": "Cloverdale,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/14200/Cloverdale__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f06660216ea77ee03487bc35a24dca178eb22523867ffe43e9b29241cd460730",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f06660216ea77ee03487bc35a24dca178eb22523867ffe43e9b29241cd460730",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/14200/Cloverdale__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "14200",
+  "timestamp": "2026-05-25T00:05:45.565838Z",
+  "version": 1
+}

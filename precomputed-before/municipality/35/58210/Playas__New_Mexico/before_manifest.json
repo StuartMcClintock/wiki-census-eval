@@ -1,0 +1,16 @@
+{
+  "article": "Playas,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/58210/Playas__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "05b3dbbd3b6f5d088bc5ca33847a0daa4058dde30e3550d1306f19c6bfd9ef37",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "05b3dbbd3b6f5d088bc5ca33847a0daa4058dde30e3550d1306f19c6bfd9ef37",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/58210/Playas__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "58210",
+  "timestamp": "2026-05-24T23:58:47.827929Z",
+  "version": 1
+}

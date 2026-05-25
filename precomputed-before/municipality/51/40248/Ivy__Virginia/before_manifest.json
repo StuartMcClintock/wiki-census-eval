@@ -1,0 +1,16 @@
+{
+  "article": "Ivy,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/40248/Ivy__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8b75c7117b69937adac0a6c75fb5648e5687d33539b5fe0c91ccf83f9a4f8322",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8b75c7117b69937adac0a6c75fb5648e5687d33539b5fe0c91ccf83f9a4f8322",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/40248/Ivy__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "40248",
+  "timestamp": "2026-05-25T00:19:19.445865Z",
+  "version": 1
+}

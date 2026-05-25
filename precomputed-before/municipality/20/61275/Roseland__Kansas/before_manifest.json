@@ -1,0 +1,16 @@
+{
+  "article": "Roseland,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/61275/Roseland__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "98156a0448a91f81d4b7f726c070a4b6ce835ce583ffc84522cb996eba18be23",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "98156a0448a91f81d4b7f726c070a4b6ce835ce583ffc84522cb996eba18be23",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/61275/Roseland__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "61275",
+  "timestamp": "2026-05-24T23:43:25.517648Z",
+  "version": 1
+}

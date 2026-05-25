@@ -1,0 +1,16 @@
+{
+  "article": "Eyers_Grove,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/24448/Eyers_Grove__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2b10b95f1b8b08a687df9021efad3c1fd1baa2d33efcd22b6912d69f746af1e3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2b10b95f1b8b08a687df9021efad3c1fd1baa2d33efcd22b6912d69f746af1e3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/24448/Eyers_Grove__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "24448",
+  "timestamp": "2026-05-25T00:07:06.447739Z",
+  "version": 1
+}

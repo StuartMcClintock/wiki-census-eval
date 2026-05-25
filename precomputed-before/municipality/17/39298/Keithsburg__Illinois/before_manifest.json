@@ -1,0 +1,16 @@
+{
+  "article": "Keithsburg,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/39298/Keithsburg__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a8f7a2199a2049d96b13a2f28edfd9044ed8412236c3bd0c86649b65ebd68c8c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a8f7a2199a2049d96b13a2f28edfd9044ed8412236c3bd0c86649b65ebd68c8c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/39298/Keithsburg__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "39298",
+  "timestamp": "2026-05-24T23:38:25.661105Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Cunningham,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/16775/Cunningham__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "94dc854c8d673508d3e9f23333503022074e5fd1f8a95ff22cb4199ee541a9eb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "94dc854c8d673508d3e9f23333503022074e5fd1f8a95ff22cb4199ee541a9eb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/16775/Cunningham__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "16775",
+  "timestamp": "2026-05-24T23:42:31.295991Z",
+  "version": 1
+}

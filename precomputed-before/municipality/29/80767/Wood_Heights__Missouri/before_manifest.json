@@ -1,0 +1,16 @@
+{
+  "article": "Wood_Heights,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/80767/Wood_Heights__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "22ada3cb50bca944a44a624b6d630b3bb5c82ec672de697dddc5009dada1ce0b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "22ada3cb50bca944a44a624b6d630b3bb5c82ec672de697dddc5009dada1ce0b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/80767/Wood_Heights__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "80767",
+  "timestamp": "2026-05-24T23:54:10.897317Z",
+  "version": 1
+}

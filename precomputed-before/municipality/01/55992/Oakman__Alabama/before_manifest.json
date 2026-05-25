@@ -1,0 +1,16 @@
+{
+  "article": "Oakman,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/55992/Oakman__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f05aa81e9af5f31b4e68400cb3a059cbaaa2960d0f14aa09e60eebee74787f83",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f05aa81e9af5f31b4e68400cb3a059cbaaa2960d0f14aa09e60eebee74787f83",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/55992/Oakman__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "55992",
+  "timestamp": "2026-05-24T23:32:07.387605Z",
+  "version": 1
+}

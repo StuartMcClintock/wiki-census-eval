@@ -1,0 +1,16 @@
+{
+  "article": "Paragonah,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/57960/Paragonah__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6944fdc6dd70be7ccda0c0d6496493c77d8416e63f6fbbd8352346e8750a109d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6944fdc6dd70be7ccda0c0d6496493c77d8416e63f6fbbd8352346e8750a109d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/57960/Paragonah__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "57960",
+  "timestamp": "2026-05-25T00:17:07.670507Z",
+  "version": 1
+}

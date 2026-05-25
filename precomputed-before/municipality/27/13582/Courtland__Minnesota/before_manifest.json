@@ -1,0 +1,16 @@
+{
+  "article": "Courtland,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/13582/Courtland__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6d3dee28f9f561d0a4bb8063ee3d3875b919bff5150104f6b13a13ea847cf5c2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6d3dee28f9f561d0a4bb8063ee3d3875b919bff5150104f6b13a13ea847cf5c2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/13582/Courtland__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "13582",
+  "timestamp": "2026-05-24T23:48:47.283792Z",
+  "version": 1
+}

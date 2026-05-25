@@ -1,0 +1,16 @@
+{
+  "article": "Muncy,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/52264/Muncy__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "47c87dff438e8a6b35bc9a84daa3552f7cf7211a43019c764096222fd4e5cf0c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "47c87dff438e8a6b35bc9a84daa3552f7cf7211a43019c764096222fd4e5cf0c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/52264/Muncy__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "52264",
+  "timestamp": "2026-05-25T00:08:12.572557Z",
+  "version": 1
+}

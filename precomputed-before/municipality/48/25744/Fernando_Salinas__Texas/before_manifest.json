@@ -1,0 +1,16 @@
+{
+  "article": "Fernando_Salinas,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/25744/Fernando_Salinas__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0e59a3b836e0d6d615f3206ab7021df34167e7485d2499a8ed07bbf40041b74c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0e59a3b836e0d6d615f3206ab7021df34167e7485d2499a8ed07bbf40041b74c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/25744/Fernando_Salinas__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "25744",
+  "timestamp": "2026-05-25T00:15:35.625081Z",
+  "version": 1
+}

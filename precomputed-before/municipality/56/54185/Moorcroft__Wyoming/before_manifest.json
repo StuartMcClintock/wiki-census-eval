@@ -1,0 +1,16 @@
+{
+  "article": "Moorcroft,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/54185/Moorcroft__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4651d4764293f6eda89cbe1f6b7e2b6cf265c189c1f858376232134b79c50ed1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4651d4764293f6eda89cbe1f6b7e2b6cf265c189c1f858376232134b79c50ed1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/54185/Moorcroft__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "54185",
+  "timestamp": "2026-05-25T00:23:19.548231Z",
+  "version": 1
+}

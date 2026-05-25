@@ -1,0 +1,16 @@
+{
+  "article": "Cygnet,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/19820/Cygnet__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f1e0bfa0aa36d3315901b9c79561d96649e64797cdb24f7b3011702788f8435f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f1e0bfa0aa36d3315901b9c79561d96649e64797cdb24f7b3011702788f8435f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/19820/Cygnet__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "19820",
+  "timestamp": "2026-05-25T00:04:02.854461Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Pennsbury_Village,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/59152/Pennsbury_Village__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f5b759b1b01e9ffa707036a41846e40fb138a8c0ec75112e7fae14a831e33da4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f5b759b1b01e9ffa707036a41846e40fb138a8c0ec75112e7fae14a831e33da4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/59152/Pennsbury_Village__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "59152",
+  "timestamp": "2026-05-25T00:08:27.638149Z",
+  "version": 1
+}

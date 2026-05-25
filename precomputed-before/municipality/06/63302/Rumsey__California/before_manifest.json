@@ -1,0 +1,16 @@
+{
+  "article": "Rumsey,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/63302/Rumsey__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7074cbe765b2a5635f2f709d60759b43cc7248793d40f6f754df2dc0092e2d38",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7074cbe765b2a5635f2f709d60759b43cc7248793d40f6f754df2dc0092e2d38",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/63302/Rumsey__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "63302",
+  "timestamp": "2026-05-24T23:35:02.751302Z",
+  "version": 1
+}

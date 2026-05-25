@@ -1,0 +1,16 @@
+{
+  "article": "Rolla,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/67820/Rolla__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0fce88e331a698274f6fc8227774c1e69fbd9195220578b8ae7d71a00a2a7ea2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0fce88e331a698274f6fc8227774c1e69fbd9195220578b8ae7d71a00a2a7ea2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/67820/Rolla__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "67820",
+  "timestamp": "2026-05-25T00:03:20.114321Z",
+  "version": 1
+}

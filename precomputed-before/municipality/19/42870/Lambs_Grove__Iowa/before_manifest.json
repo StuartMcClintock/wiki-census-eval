@@ -1,0 +1,16 @@
+{
+  "article": "Lambs_Grove,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/42870/Lambs_Grove__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8bf9cff5ec8b911e100354c88e5770f315b8e51c3baa7f5c06f79bcef275a730",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8bf9cff5ec8b911e100354c88e5770f315b8e51c3baa7f5c06f79bcef275a730",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/42870/Lambs_Grove__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "42870",
+  "timestamp": "2026-05-24T23:41:17.385328Z",
+  "version": 1
+}

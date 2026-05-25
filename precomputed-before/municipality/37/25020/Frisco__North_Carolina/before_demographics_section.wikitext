@@ -1,0 +1,43 @@
+==Demographics==
+{{US Census population
+|2020= 994
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=http://www.census.gov/prod/www/decennial.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2016}}</ref>
+}}
+
+===2020 census===
+{| class="wikitable" style="text-align:right"
+|+Frisco racial composition<ref>{{Cite web|title=Explore Census Data|url=https://data.census.gov/cedsci/table?g=1600000US3725020&tid=DECENNIALPL2020.P2|access-date=2021-12-21|website=data.census.gov}}</ref>
+!scope="col"| Race
+!scope="col"| Number
+!scope="col"| Percentage
+|-
+!scope="row"| [[White (U.S. Census)|White]] (non-Hispanic)
+| 924
+| 92.96%
+|-
+!scope="row"| [[African American (U.S. Census)|Black or African American]] (non-Hispanic)
+| 2
+| 0.2%
+|-
+!scope="row"| [[Native American (U.S. Census)|Native American]]
+| 5
+| 0.5%
+|-
+!scope="row"| [[Asian (U.S. Census)|Asian]]
+| 4
+| 0.4%
+|-
+!scope="row"| [[Pacific Islander (U.S. Census)|Pacific Islander]]
+| 1
+| 0.1%
+|-
+!scope="row"| [[Race (United States Census)|Other/Mixed]]
+| 18
+| 1.81%
+|-
+!scope="row"| [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]]
+| 40
+| 4.02%
+|}
+As of the [[2020 United States census]], there were 994 people, 76 households, and 28 families residing in the CDP.
+

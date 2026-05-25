@@ -1,0 +1,16 @@
+{
+  "article": "Linden,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/38360/Linden__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f7ae7f2cd8643376f4ce35888f4f9fe854dc98e93d5a90c23fd6e6b9e7e64375",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f7ae7f2cd8643376f4ce35888f4f9fe854dc98e93d5a90c23fd6e6b9e7e64375",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/38360/Linden__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "38360",
+  "timestamp": "2026-05-25T00:02:07.747213Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Rawson,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/65634/Rawson__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1ac1db502da12c21a4a52a0425ed87c7ea6f1f174f9ef8cc83aec9471fff2103",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1ac1db502da12c21a4a52a0425ed87c7ea6f1f174f9ef8cc83aec9471fff2103",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/65634/Rawson__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "65634",
+  "timestamp": "2026-05-25T00:05:09.484953Z",
+  "version": 1
+}

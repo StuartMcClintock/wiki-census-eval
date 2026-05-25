@@ -1,0 +1,16 @@
+{
+  "article": "Jewell,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/35475/Jewell__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "81ec59978652424c4e6421e8c040cf37dbcdfbce71b77bf00f48e6d830b2e05d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "81ec59978652424c4e6421e8c040cf37dbcdfbce71b77bf00f48e6d830b2e05d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/35475/Jewell__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "35475",
+  "timestamp": "2026-05-24T23:42:49.453996Z",
+  "version": 1
+}

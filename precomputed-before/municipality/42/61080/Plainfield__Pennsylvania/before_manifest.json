@@ -1,0 +1,16 @@
+{
+  "article": "Plainfield,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/61080/Plainfield__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "555a8f6746c4693a61ec620fe012f9b27dfd451007f499246ab51408d001f13d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "555a8f6746c4693a61ec620fe012f9b27dfd451007f499246ab51408d001f13d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/61080/Plainfield__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "61080",
+  "timestamp": "2026-05-25T00:08:29.805288Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Shady_Spring,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/73108/Shady_Spring__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "916c94e5029e63f5411583a4d4c934105dba0edd88374dba880bab5d9274195d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "916c94e5029e63f5411583a4d4c934105dba0edd88374dba880bab5d9274195d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/73108/Shady_Spring__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "73108",
+  "timestamp": "2026-05-25T00:21:25.029973Z",
+  "version": 1
+}

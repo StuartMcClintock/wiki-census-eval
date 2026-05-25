@@ -1,0 +1,16 @@
+{
+  "article": "Bicknell,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/05490/Bicknell__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "597bafd16f7a76fd2aced7b724517f8bb6e2ef3ee4a5f609600c02b0e0a4811d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "597bafd16f7a76fd2aced7b724517f8bb6e2ef3ee4a5f609600c02b0e0a4811d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/05490/Bicknell__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "05490",
+  "timestamp": "2026-05-25T00:16:53.864564Z",
+  "version": 1
+}

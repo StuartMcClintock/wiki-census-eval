@@ -1,0 +1,16 @@
+{
+  "article": "Donovan,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/20331/Donovan__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "54434679cb4da5b568307d46323f5d0ded48e73fa34f5caacb15f811439204c0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "54434679cb4da5b568307d46323f5d0ded48e73fa34f5caacb15f811439204c0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/20331/Donovan__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "20331",
+  "timestamp": "2026-05-24T23:38:07.066999Z",
+  "version": 1
+}

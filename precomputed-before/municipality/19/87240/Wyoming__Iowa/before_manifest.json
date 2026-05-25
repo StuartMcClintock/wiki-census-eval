@@ -1,0 +1,16 @@
+{
+  "article": "Wyoming,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/87240/Wyoming__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "43ab2ab24c372a938b68e68b3a96fb0522cde72233dc840c843c9840ab665af4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "43ab2ab24c372a938b68e68b3a96fb0522cde72233dc840c843c9840ab665af4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/87240/Wyoming__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "87240",
+  "timestamp": "2026-05-24T23:42:13.789533Z",
+  "version": 1
+}

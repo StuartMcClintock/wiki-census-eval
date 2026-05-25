@@ -1,0 +1,16 @@
+{
+  "article": "Jalapa,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/37674/Jalapa__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1332a2507bb4965fc8b0d8ab240fac9d24895a3ee7530be51873928b8e6179cc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1332a2507bb4965fc8b0d8ab240fac9d24895a3ee7530be51873928b8e6179cc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/37674/Jalapa__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "37674",
+  "timestamp": "2026-05-24T23:39:40.123311Z",
+  "version": 1
+}

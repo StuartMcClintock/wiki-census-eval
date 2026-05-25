@@ -1,0 +1,16 @@
+{
+  "article": "Nezperce,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/57250/Nezperce__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8f42d285c5d2e98b9f03291e8ac774263787cc335622a0cde66d7b25f54cf3ef",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8f42d285c5d2e98b9f03291e8ac774263787cc335622a0cde66d7b25f54cf3ef",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/57250/Nezperce__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "57250",
+  "timestamp": "2026-05-24T23:37:26.033995Z",
+  "version": 1
+}

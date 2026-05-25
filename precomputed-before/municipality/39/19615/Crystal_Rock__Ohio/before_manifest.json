@@ -1,0 +1,16 @@
+{
+  "article": "Crystal_Rock,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/19615/Crystal_Rock__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c23ead9259302fbb1133a5ad5e8d67a3be4739cc7c394c360bb27719364238f8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c23ead9259302fbb1133a5ad5e8d67a3be4739cc7c394c360bb27719364238f8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/19615/Crystal_Rock__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "19615",
+  "timestamp": "2026-05-25T00:04:02.335608Z",
+  "version": 1
+}

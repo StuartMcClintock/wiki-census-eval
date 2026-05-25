@@ -1,0 +1,16 @@
+{
+  "article": "Roseto,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/66168/Roseto__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "23a9670ddd4b589a7b2cf98cfec0dfb8888ecd005feaa962167166c52a32991b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "23a9670ddd4b589a7b2cf98cfec0dfb8888ecd005feaa962167166c52a32991b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/66168/Roseto__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "66168",
+  "timestamp": "2026-05-25T00:08:52.463125Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Firth,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/16935/Firth__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4947e6f113d75c5be7e95deb8a2a3b715a392192c2e7bd0d7203c826f6a04448",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4947e6f113d75c5be7e95deb8a2a3b715a392192c2e7bd0d7203c826f6a04448",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/16935/Firth__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "16935",
+  "timestamp": "2026-05-24T23:55:26.911225Z",
+  "version": 1
+}

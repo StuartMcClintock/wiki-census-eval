@@ -1,0 +1,16 @@
+{
+  "article": "Arnoldsville,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/03124/Arnoldsville__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8c84267ee15071718da27e83c57b3df6c0366c6a4aaa7dccbecc42a4efc2d870",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8c84267ee15071718da27e83c57b3df6c0366c6a4aaa7dccbecc42a4efc2d870",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/03124/Arnoldsville__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "03124",
+  "timestamp": "2026-05-24T23:36:27.423781Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Punta_de_Agua,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/60310/Punta_de_Agua__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9de21e081518c20ba455a10d182816095205838c7ae0b077059e9ca54ca910fa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9de21e081518c20ba455a10d182816095205838c7ae0b077059e9ca54ca910fa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/60310/Punta_de_Agua__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "60310",
+  "timestamp": "2026-05-24T23:58:49.210013Z",
+  "version": 1
+}

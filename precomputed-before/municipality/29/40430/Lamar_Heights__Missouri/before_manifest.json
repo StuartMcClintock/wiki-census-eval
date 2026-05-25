@@ -1,0 +1,16 @@
+{
+  "article": "Lamar_Heights,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/40430/Lamar_Heights__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "66968c8a88ed487c506de4e49537f8c54b8a7aa850bf9d188ef434f6e14d6960",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "66968c8a88ed487c506de4e49537f8c54b8a7aa850bf9d188ef434f6e14d6960",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/40430/Lamar_Heights__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "40430",
+  "timestamp": "2026-05-24T23:53:25.754857Z",
+  "version": 1
+}

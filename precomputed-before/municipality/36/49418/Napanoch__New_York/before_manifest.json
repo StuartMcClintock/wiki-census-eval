@@ -1,0 +1,16 @@
+{
+  "article": "Napanoch,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/49418/Napanoch__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cb9bb56f51b37336604ecd5b6e0f7f3e5c993af38836559420c24eb9eebd7e9f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cb9bb56f51b37336604ecd5b6e0f7f3e5c993af38836559420c24eb9eebd7e9f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/49418/Napanoch__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "49418",
+  "timestamp": "2026-05-25T00:00:56.012646Z",
+  "version": 1
+}

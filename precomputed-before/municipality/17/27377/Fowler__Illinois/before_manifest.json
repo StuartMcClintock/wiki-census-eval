@@ -1,0 +1,16 @@
+{
+  "article": "Fowler,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/27377/Fowler__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0eae408ea2affd15eca264fc94dff94b0f6d3da043b2050a964b47d254bb0287",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0eae408ea2affd15eca264fc94dff94b0f6d3da043b2050a964b47d254bb0287",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/27377/Fowler__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "27377",
+  "timestamp": "2026-05-24T23:38:13.963199Z",
+  "version": 1
+}

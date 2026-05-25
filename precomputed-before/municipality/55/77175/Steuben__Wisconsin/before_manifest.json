@@ -1,0 +1,16 @@
+{
+  "article": "Steuben,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/77175/Steuben__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "83c8188d56be12d6b7b05231c63a28fa67a1869898cff193fcc1cad554c82d6f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "83c8188d56be12d6b7b05231c63a28fa67a1869898cff193fcc1cad554c82d6f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/77175/Steuben__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "77175",
+  "timestamp": "2026-05-25T00:22:45.046228Z",
+  "version": 1
+}

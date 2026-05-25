@@ -1,0 +1,16 @@
+{
+  "article": "Harvel,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/33357/Harvel__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "20f89e4069b042f6099bef1d5be1a4defeb3bbf7ec55450a8b4926fed804e373",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "20f89e4069b042f6099bef1d5be1a4defeb3bbf7ec55450a8b4926fed804e373",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/33357/Harvel__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "33357",
+  "timestamp": "2026-05-24T23:38:19.304624Z",
+  "version": 1
+}

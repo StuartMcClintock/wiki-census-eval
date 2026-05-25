@@ -1,0 +1,16 @@
+{
+  "article": "Aspinwall,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/03320/Aspinwall__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b35807b21b560fd56f827847b4a21e21b7a6ddf2d78327ff910f8c165880b549",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b35807b21b560fd56f827847b4a21e21b7a6ddf2d78327ff910f8c165880b549",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/03320/Aspinwall__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "03320",
+  "timestamp": "2026-05-25T00:06:10.211472Z",
+  "version": 1
+}

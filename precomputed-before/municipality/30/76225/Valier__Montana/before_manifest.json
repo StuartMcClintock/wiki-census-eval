@@ -1,0 +1,16 @@
+{
+  "article": "Valier,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/76225/Valier__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "463999eb572509b718e3b7363626dcfdf710d9ae9a6beca8a514c1d217d818ce",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "463999eb572509b718e3b7363626dcfdf710d9ae9a6beca8a514c1d217d818ce",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/76225/Valier__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "76225",
+  "timestamp": "2026-05-24T23:55:01.988677Z",
+  "version": 1
+}

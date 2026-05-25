@@ -1,0 +1,16 @@
+{
+  "article": "New_Union,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/53240/New_Union__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cfe5dae75adb5309a628e5fc925d24ecac7cf973a788cbe1c8c579731e3af9f6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cfe5dae75adb5309a628e5fc925d24ecac7cf973a788cbe1c8c579731e3af9f6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/53240/New_Union__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "53240",
+  "timestamp": "2026-05-25T00:14:48.694865Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Lostant,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/44823/Lostant__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d197f81e17ce2e5acc4a7d56218bffd8acf6cd955b8e59aea14ec85fb4e23d5a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d197f81e17ce2e5acc4a7d56218bffd8acf6cd955b8e59aea14ec85fb4e23d5a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/44823/Lostant__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "44823",
+  "timestamp": "2026-05-24T23:38:30.823634Z",
+  "version": 1
+}

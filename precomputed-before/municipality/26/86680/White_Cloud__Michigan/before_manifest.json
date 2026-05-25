@@ -1,0 +1,16 @@
+{
+  "article": "White_Cloud,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/86680/White_Cloud__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9cba153a3b50b59672cf2dad00c39763fd86f40d58de18b0fbfdc73fba7f3c5c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9cba153a3b50b59672cf2dad00c39763fd86f40d58de18b0fbfdc73fba7f3c5c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/86680/White_Cloud__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "86680",
+  "timestamp": "2026-05-24T23:48:33.066946Z",
+  "version": 1
+}

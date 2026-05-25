@@ -1,0 +1,16 @@
+{
+  "article": "Coal_City,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/16516/Coal_City__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "67c4a9fce906d70ff6e541a7a852e4bd9e5f6a433110fce959acae0097efceb6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "67c4a9fce906d70ff6e541a7a852e4bd9e5f6a433110fce959acae0097efceb6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/16516/Coal_City__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "16516",
+  "timestamp": "2026-05-25T00:21:01.641400Z",
+  "version": 1
+}

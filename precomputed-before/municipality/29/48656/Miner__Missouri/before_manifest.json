@@ -1,0 +1,16 @@
+{
+  "article": "Miner,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/48656/Miner__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e25bf2a4c7938e56bc2d91f0491cac1b0a009a1f084ea7aad212a6b1af5623c6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e25bf2a4c7938e56bc2d91f0491cac1b0a009a1f084ea7aad212a6b1af5623c6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/48656/Miner__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "48656",
+  "timestamp": "2026-05-24T23:53:33.024810Z",
+  "version": 1
+}

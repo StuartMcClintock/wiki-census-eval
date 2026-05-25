@@ -1,0 +1,16 @@
+{
+  "article": "Hebron,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/34790/Hebron__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "313bffe53de597bbbfbbef46f2a1361a47125f8d91840e4e7e2765c67e723131",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "313bffe53de597bbbfbbef46f2a1361a47125f8d91840e4e7e2765c67e723131",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/34790/Hebron__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "34790",
+  "timestamp": "2026-05-25T00:04:16.999141Z",
+  "version": 1
+}

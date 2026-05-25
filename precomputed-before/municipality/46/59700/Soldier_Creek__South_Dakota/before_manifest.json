@@ -1,0 +1,16 @@
+{
+  "article": "Soldier_Creek,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/59700/Soldier_Creek__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1c427b5efbeb5bd6b1fc7ca9a62942a87f27e8ea5105bf5474b0f4271c4b771a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1c427b5efbeb5bd6b1fc7ca9a62942a87f27e8ea5105bf5474b0f4271c4b771a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/59700/Soldier_Creek__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "59700",
+  "timestamp": "2026-05-25T00:12:47.728253Z",
+  "version": 1
+}

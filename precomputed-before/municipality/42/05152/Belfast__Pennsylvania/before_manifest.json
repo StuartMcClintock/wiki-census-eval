@@ -1,0 +1,16 @@
+{
+  "article": "Belfast,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/05152/Belfast__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c3f4b185f1b7f02cd287e0c68b261220f81a051236ed9d546f60e1235817a4dd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c3f4b185f1b7f02cd287e0c68b261220f81a051236ed9d546f60e1235817a4dd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/05152/Belfast__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "05152",
+  "timestamp": "2026-05-25T00:06:14.819381Z",
+  "version": 1
+}

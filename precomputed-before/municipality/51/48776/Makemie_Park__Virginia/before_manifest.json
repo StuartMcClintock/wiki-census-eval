@@ -1,0 +1,16 @@
+{
+  "article": "Makemie_Park,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/48776/Makemie_Park__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "892fde8bdd40508887607d023428fc0cf8eb6d3b2f05d9164c92fb6333eae808",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "892fde8bdd40508887607d023428fc0cf8eb6d3b2f05d9164c92fb6333eae808",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/48776/Makemie_Park__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "48776",
+  "timestamp": "2026-05-25T00:19:23.854973Z",
+  "version": 1
+}

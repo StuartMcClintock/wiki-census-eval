@@ -1,0 +1,16 @@
+{
+  "article": "Bowmore,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/07400/Bowmore__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f1875c83009038484c0981877caabc05d9edb49e8e5737eb80f1b6cf36022cbc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f1875c83009038484c0981877caabc05d9edb49e8e5737eb80f1b6cf36022cbc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/07400/Bowmore__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "07400",
+  "timestamp": "2026-05-25T00:01:46.519067Z",
+  "version": 1
+}

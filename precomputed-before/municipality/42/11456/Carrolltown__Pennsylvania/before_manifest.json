@@ -1,0 +1,16 @@
+{
+  "article": "Carrolltown,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/11456/Carrolltown__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6121c58d87391c2cb431e951a08320fdfa924081b00b1f5bc24ad4412d9d190c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6121c58d87391c2cb431e951a08320fdfa924081b00b1f5bc24ad4412d9d190c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/11456/Carrolltown__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "11456",
+  "timestamp": "2026-05-25T00:06:26.000231Z",
+  "version": 1
+}

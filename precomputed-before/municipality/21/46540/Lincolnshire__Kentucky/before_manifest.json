@@ -1,0 +1,16 @@
+{
+  "article": "Lincolnshire,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/46540/Lincolnshire__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f8459d98e45304342a46a974f1121d7f29b249822e11f29f660ea128adf29a4c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f8459d98e45304342a46a974f1121d7f29b249822e11f29f660ea128adf29a4c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/46540/Lincolnshire__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "46540",
+  "timestamp": "2026-05-24T23:44:09.608856Z",
+  "version": 1
+}

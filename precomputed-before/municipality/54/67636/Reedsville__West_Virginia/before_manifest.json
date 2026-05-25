@@ -1,0 +1,16 @@
+{
+  "article": "Reedsville,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/67636/Reedsville__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "35c805dd806048ca438370b23b94860e440cf29883e8ce806379e061a1f88f42",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "35c805dd806048ca438370b23b94860e440cf29883e8ce806379e061a1f88f42",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/67636/Reedsville__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "67636",
+  "timestamp": "2026-05-25T00:21:23.164563Z",
+  "version": 1
+}

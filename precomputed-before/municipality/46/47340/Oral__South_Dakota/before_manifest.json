@@ -1,0 +1,16 @@
+{
+  "article": "Oral,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/47340/Oral__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "347d85a945ab37533eb5c1a9d351ccf48a4dd2232058e1c6741624620bb87ea0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "347d85a945ab37533eb5c1a9d351ccf48a4dd2232058e1c6741624620bb87ea0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/47340/Oral__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "47340",
+  "timestamp": "2026-05-25T00:11:07.209194Z",
+  "version": 1
+}

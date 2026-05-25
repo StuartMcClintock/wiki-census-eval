@@ -1,0 +1,16 @@
+{
+  "article": "Murrells_Inlet,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/48985/Murrells_Inlet__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "62f4889bd1554dcd14b445ce4455f27285ea17159c8467a7c3993df3c20309b4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "62f4889bd1554dcd14b445ce4455f27285ea17159c8467a7c3993df3c20309b4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/48985/Murrells_Inlet__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "48985",
+  "timestamp": "2026-05-25T00:10:14.200109Z",
+  "version": 1
+}

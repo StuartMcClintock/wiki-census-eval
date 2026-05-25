@@ -1,0 +1,16 @@
+{
+  "article": "Sawyer,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/63275/Sawyer__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4f34e02b6f3fbf99190547cba5ebd9984bda8ac4fc4ce1752f67d5ea5c94932d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4f34e02b6f3fbf99190547cba5ebd9984bda8ac4fc4ce1752f67d5ea5c94932d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/63275/Sawyer__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "63275",
+  "timestamp": "2026-05-24T23:43:27.281413Z",
+  "version": 1
+}

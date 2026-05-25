@@ -1,0 +1,16 @@
+{
+  "article": "Clara,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/13700/Clara__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1300ccf3e013b6b7041abe913bbdb536124b226b369ab45e15ab77f66713e280",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1300ccf3e013b6b7041abe913bbdb536124b226b369ab45e15ab77f66713e280",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/13700/Clara__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "13700",
+  "timestamp": "2026-05-24T23:50:05.392001Z",
+  "version": 1
+}

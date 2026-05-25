@@ -1,0 +1,16 @@
+{
+  "article": "Needmore,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/52872/Needmore__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8c32b0ff42e8a2e8d178813c1f0510b96c03ae61b2fff95062fc536482fe61bc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8c32b0ff42e8a2e8d178813c1f0510b96c03ae61b2fff95062fc536482fe61bc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/52872/Needmore__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "52872",
+  "timestamp": "2026-05-25T00:08:13.228515Z",
+  "version": 1
+}

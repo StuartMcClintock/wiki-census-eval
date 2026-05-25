@@ -1,0 +1,16 @@
+{
+  "article": "Autaugaville,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/03220/Autaugaville__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "66f6288d51fd2977c1978a2d0b87b87dde7111541c7f9f875fbc5963085b6fa7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "66f6288d51fd2977c1978a2d0b87b87dde7111541c7f9f875fbc5963085b6fa7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/03220/Autaugaville__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "03220",
+  "timestamp": "2026-05-24T23:31:48.242581Z",
+  "version": 1
+}

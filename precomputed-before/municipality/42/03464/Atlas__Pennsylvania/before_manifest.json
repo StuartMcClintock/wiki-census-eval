@@ -1,0 +1,16 @@
+{
+  "article": "Atlas,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/03464/Atlas__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a5463ee72c5d11ed2bd214f7f0c6de18a524869f4e6b94ea1f995e8afd3afd2b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a5463ee72c5d11ed2bd214f7f0c6de18a524869f4e6b94ea1f995e8afd3afd2b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/03464/Atlas__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "03464",
+  "timestamp": "2026-05-25T00:06:10.628261Z",
+  "version": 1
+}

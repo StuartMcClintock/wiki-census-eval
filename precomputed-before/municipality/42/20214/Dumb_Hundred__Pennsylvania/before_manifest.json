@@ -1,0 +1,16 @@
+{
+  "article": "Dumb_Hundred,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/20214/Dumb_Hundred__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "92c072e9a255d7bf292c9117b0fbc1c86bc4634e7bee8b4212d0bdbb8bf1dd6f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "92c072e9a255d7bf292c9117b0fbc1c86bc4634e7bee8b4212d0bdbb8bf1dd6f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/20214/Dumb_Hundred__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "20214",
+  "timestamp": "2026-05-25T00:06:53.683070Z",
+  "version": 1
+}

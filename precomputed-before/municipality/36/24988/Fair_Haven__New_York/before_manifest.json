@@ -1,0 +1,16 @@
+{
+  "article": "Fair_Haven,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/24988/Fair_Haven__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3bbc698ce8fdf34871c8a7c1d94b1a7b9e66fac351ecda631769cdba194fbdae",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3bbc698ce8fdf34871c8a7c1d94b1a7b9e66fac351ecda631769cdba194fbdae",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/24988/Fair_Haven__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "24988",
+  "timestamp": "2026-05-25T00:00:42.126461Z",
+  "version": 1
+}

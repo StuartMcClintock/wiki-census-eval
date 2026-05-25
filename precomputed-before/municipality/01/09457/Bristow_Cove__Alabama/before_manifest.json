@@ -1,0 +1,16 @@
+{
+  "article": "Bristow_Cove,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/09457/Bristow_Cove__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fabfe55721e2d1aef2caa4425fd496bae98d5b5977acd0ccfbad859541713b23",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fabfe55721e2d1aef2caa4425fd496bae98d5b5977acd0ccfbad859541713b23",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/09457/Bristow_Cove__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "09457",
+  "timestamp": "2026-05-24T23:31:50.570997Z",
+  "version": 1
+}

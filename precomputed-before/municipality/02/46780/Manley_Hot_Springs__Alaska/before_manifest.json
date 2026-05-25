@@ -1,0 +1,16 @@
+{
+  "article": "Manley_Hot_Springs,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/46780/Manley_Hot_Springs__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9a1831392cd0cb70b6b756d5c7bd4f7a7ce59dc608148d69492cb5ac37518055",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9a1831392cd0cb70b6b756d5c7bd4f7a7ce59dc608148d69492cb5ac37518055",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/46780/Manley_Hot_Springs__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "46780",
+  "timestamp": "2026-05-24T23:32:26.723736Z",
+  "version": 1
+}

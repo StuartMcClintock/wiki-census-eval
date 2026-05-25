@@ -1,0 +1,16 @@
+{
+  "article": "Scotia,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/70518/Scotia__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8ec6fb0ef840a1b05ca383d0367cf6ad8736ff90ff356b10477e03df4b5c95d8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8ec6fb0ef840a1b05ca383d0367cf6ad8736ff90ff356b10477e03df4b5c95d8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/70518/Scotia__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "70518",
+  "timestamp": "2026-05-24T23:35:04.436229Z",
+  "version": 1
+}

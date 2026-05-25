@@ -1,0 +1,16 @@
+{
+  "article": "Union_Center,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/81725/Union_Center__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2d990a33053c96514fe07ddc24fc0315003608829cd5bf46a09a5f55a5913b69",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2d990a33053c96514fe07ddc24fc0315003608829cd5bf46a09a5f55a5913b69",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/81725/Union_Center__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "81725",
+  "timestamp": "2026-05-25T00:22:48.334227Z",
+  "version": 1
+}

@@ -1,0 +1,107 @@
+==Demographics==
+{{US Census population
+|2000= 1713
+|2010= 1750
+|2020= 1052
+|align-fn=center
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census/decade.html|title=Decennial Census by Decade|publisher=[[US Census Bureau]]|access-date=}}</ref><br> 1850–1900<ref name=1900CensusTX>{{Cite web|title= 1900 Census of Population - Population of Texas By Counties And Minor Civil Divisions |url=https://www2.census.gov/library/publications/decennial/1900/bulletins/demographic/49-population-tx.pdf|website=[[United States Census Bureau]]}}</ref> 1910<ref name=1910CensusTX>{{Cite web|title=1910 Census of Population - Supplement for Texas|url=https://www2.census.gov/library/publications/decennial/1910/abstract/supplement-tx-p1.pdf|website=[[United States Census Bureau]]|access-date=July 13, 2024|archive-date=March 30, 2025|archive-url=https://web.archive.org/web/20250330000710/https://www2.census.gov/library/publications/decennial/1910/abstract/supplement-tx-p1.pdf|url-status=dead}}</ref><br> 1920<ref name=1920CensusTX>{{Cite web|title= 1920 Census of Population - Number of Inhabitants - Texas |url=https://www2.census.gov/library/publications/decennial/1920/bulletins/demographics/population-tx-number-of-inhabitants.pdf|website=[[United States Census Bureau]]}}</ref> 1930<ref name=1930CensusTX>{{Cite web|title= 1930 Census of Population - Number of Inhabitants - Texas |url=https://www2.census.gov/library/publications/decennial/1930/population-volume-1/03815512v1ch10.pdf|website=[[United States Census Bureau]]}}</ref> 1940<ref name=1940CensusTX>{{Cite web|title= 1940 Census of Population - Number of Inhabitants - Texas |url=https://www2.census.gov/library/publications/decennial/1940/population-volume-1/33973538v1ch09.pdf|website=[[United States Census Bureau]]}}</ref><br>
+1950<ref name=1950CensusTX>{{Cite web|title= 1950 Census of Population - Number of Inhabitants - Texas |url=https://www2.census.gov/library/publications/decennial/1950/population-volume-1/vol-01-46.pdf|website=[[United States Census Bureau]]}}</ref> 1960<ref name=1960CensusTX>{{Cite web|title= 1960 Census of Population - Number of Inhabitants - Texas |url=https://www2.census.gov/library/publications/decennial/1960/population-volume-1/33255142v1p45ch02.pdf|website=[[United States Census Bureau]]}}</ref> 1970<ref name=1970CensusTX>{{Cite web|title= 1970 Census of Population - Number of Inhabitants - Texas |url=https://www2.census.gov/prod2/decennial/documents/00496492v1p45s1ch02.pdf|website=[[United States Census Bureau]]}}</ref><br> 1980<ref name=1980CensusTX>{{Cite web|title= 1980 Census of Population - Number of Inhabitants - Texas |url=https://www2.census.gov/library/publications/decennial/1980/volume-1/texas/1980a_txab-01.pdf|website=[[United States Census Bureau]]}}</ref> 1990<ref name=1990CensusTX>{{Cite web|title=1990 Census of Population - Population and Housing Unit Counts - Texas |url=https://www2.census.gov/library/publications/decennial/1990/cph-2/cph-2-45.pdf|website=[[United States Census Bureau]]}}</ref> 2000<ref name=2000CensusTX>{{Cite web|title=2000 Census of Population - Population and Housing Unit Counts - Texas |url=https://www2.census.gov/library/publications/2003/dec/phc-3-45.pdf|website=[[United States Census Bureau]]}}</ref><br> 2010<ref name=2010CensusTX>{{Cite web|title=2010 Census of Population - Population and Housing Unit Counts - Texas |url=https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-45.pdf|website=[[United States Census Bureau]]}}</ref>
+}}
+
+Fort Hancock first appeared as a [[census designated place]] in the [[2000 U.S. census]].<ref name=2000CensusTX/>
+
+===2020 census===
+{| class="wikitable sortable" style="text-align:center;"
+|+'''Fort Hancock CDP, Texas – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Fort Hancock CDP, Texas|url=https://data.census.gov/table?g=160XX00US4826724&tid=DECENNIALSF12000.P004|website=[[United States Census Bureau]] |access-date= }}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Fort Hancock CDP, Texas|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US4826724&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!style="background-color: #ffffb3;" |Pop 2020<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Fort Hancock CDP, Texas|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US4826724&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!% 2000
+!% 2010
+!style="background-color: #ffffb3;" |% 2020
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|149
+|63
+|style='background: #ffffe6; |34
+|8.70%
+|3.60%
+|style='background: #ffffe6; |3.23%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|3
+|4
+|style='background: #ffffe6; |0
+|0.18%
+|0.23%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|0
+|5
+|style='background: #ffffe6; |0
+|0.00%
+|0.29%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Native Hawaiian]] or [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |1
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.10%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|5
+|9
+|style='background: #ffffe6; |1
+|0.29%
+|0.51%
+|style='background: #ffffe6; |0.10%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|1,556
+|1,669
+|style='background: #ffffe6; |1,016
+|90.83%
+|95.37%
+|style='background: #ffffe6; |96.58%
+|-
+|'''Total'''
+|'''1,713'''
+|'''1,750'''
+|style='background: #ffffe6; |'''1,052 '''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|} 
+
+As of the [[2020 United States census]], there were 1,052 people, 453 households, and 353 families residing in the CDP.
+
+===2019===
+As of the [[census]] of 2019, 1,213 people, 487 households, and 445 families resided in the CDP.<ref>{{Cite web|title=2019: ACS 5-Year Estimates Subject Tables|url=https://data.census.gov/cedsci/table?q=Fort%20Hancock%20CCD,%20Hudspeth%20County,%20Texas%20Families%20and%20Living%20Arrangements&tid=ACSST5Y2019.S1101}}</ref> The [[population density]] was 45.5 people/sq mi (17.6/km{{sup|2}}). The 579 housing units averaged 15.4/sq&nbsp;mi (5.9/km{{sup|2}}). The [[Race (United States Census)|racial makeup]] of the CDP was 94.51% White, 0.18% Native American, 4.03% from other races, and 1.28% from two or more races. Hispanics or Latinos of any race were 90.83% of the population.
+
+Of the 486 households, 58.6% had children under 18 living with them, 66.7% were married couples living together, 14.0% had a female householder with no husband present, and 16.5% were not families. About 15.2% of all households were made up of individuals, and 8.2% had someone living alone who was 65 years of age or older. The average household size was 3.52 and the average family size was 3.97.
+
+In the CDP, the population was distributed as 39.3% under 18, 9.3% from 18 to 24, 27.1% from 25 to 44, 16.3% from 45 to 64, and 7.9% who were 65 or older. The median age was 26 years. For every 100 females, there were 105.6 males. For every 100 females age 18 and over, there were 90.3 males.
+
+The median income for a household was $17,525, and for a family was $18,560. Males had a median income of $17,411 versus $13,281 for females. The [[per capita income]] for the CDP was $7,037. About 44.6% of families and 46.7% of the population were below the [[poverty line]], including 50.7% of those under age 18 and 57.6% of those age 65 or over.
+

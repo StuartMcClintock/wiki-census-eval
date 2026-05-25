@@ -1,0 +1,19 @@
+==Demographics==
+{{US Census population
+|1890= 302
+|1900= 266
+|1910= 257
+|1920= 271
+|1930= 369
+|1940= 408
+|1950= 296
+|1960= 314
+|1970= 362
+|1980= 404
+|1990= 303
+|2000= 226
+|2010= 196
+|2020= 200
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|access-date=June 4, 2015}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A45|title=Census Population API|publisher=United States Census Bureau|accessdate=October 15, 2022}}</ref>
+}}
+

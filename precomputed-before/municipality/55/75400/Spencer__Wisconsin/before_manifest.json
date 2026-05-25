@@ -1,0 +1,16 @@
+{
+  "article": "Spencer,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/75400/Spencer__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4b673de0fc31d2a2382b878e8832fd9c17e7839bd5b5b553bb325f3100908fbe",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4b673de0fc31d2a2382b878e8832fd9c17e7839bd5b5b553bb325f3100908fbe",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/75400/Spencer__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "75400",
+  "timestamp": "2026-05-25T00:22:44.220558Z",
+  "version": 1
+}

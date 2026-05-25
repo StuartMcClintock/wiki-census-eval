@@ -1,0 +1,16 @@
+{
+  "article": "Wortham,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/81088/Wortham__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c1ac9833b429d9d1710c27600fa910703e20f5696ce0db4a2d0cbf27937442e4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c1ac9833b429d9d1710c27600fa910703e20f5696ce0db4a2d0cbf27937442e4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/81088/Wortham__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "81088",
+  "timestamp": "2026-05-24T23:54:11.188144Z",
+  "version": 1
+}

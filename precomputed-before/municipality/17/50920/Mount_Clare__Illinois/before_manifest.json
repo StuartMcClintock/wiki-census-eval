@@ -1,0 +1,16 @@
+{
+  "article": "Mount_Clare,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/50920/Mount_Clare__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "31278aea61bfb4ea0341e4fb21099bbc64a2dcac9b9b8dbdb192b261e2fdae41",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "31278aea61bfb4ea0341e4fb21099bbc64a2dcac9b9b8dbdb192b261e2fdae41",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/50920/Mount_Clare__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "50920",
+  "timestamp": "2026-05-24T23:38:37.532924Z",
+  "version": 1
+}

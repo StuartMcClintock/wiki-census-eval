@@ -1,0 +1,16 @@
+{
+  "article": "Arcola,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/02248/Arcola__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "564e0e86d865673668e693e1438be1b42e897cf63feb8b4c20bdd08cc33368fa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "564e0e86d865673668e693e1438be1b42e897cf63feb8b4c20bdd08cc33368fa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/02248/Arcola__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "02248",
+  "timestamp": "2026-05-25T00:17:32.863484Z",
+  "version": 1
+}

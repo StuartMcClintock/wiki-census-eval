@@ -1,0 +1,16 @@
+{
+  "article": "Lafayette,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/41118/Lafayette__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9b7c7dd2ab282748875bc4722410a8d3b208b9ec21155077e3c102c57c5ff9be",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9b7c7dd2ab282748875bc4722410a8d3b208b9ec21155077e3c102c57c5ff9be",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/41118/Lafayette__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "41118",
+  "timestamp": "2026-05-25T00:04:34.925311Z",
+  "version": 1
+}

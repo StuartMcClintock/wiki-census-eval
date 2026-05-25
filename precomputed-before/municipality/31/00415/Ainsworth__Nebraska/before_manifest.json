@@ -1,0 +1,16 @@
+{
+  "article": "Ainsworth,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/00415/Ainsworth__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "547705041d1cb07d7bd8e6506e7dc48f2e6638f336b327f2a757d0343c61159b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "547705041d1cb07d7bd8e6506e7dc48f2e6638f336b327f2a757d0343c61159b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/00415/Ainsworth__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "00415",
+  "timestamp": "2026-05-24T23:55:06.909378Z",
+  "version": 1
+}

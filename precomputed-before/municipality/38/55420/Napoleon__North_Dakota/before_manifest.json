@@ -1,0 +1,16 @@
+{
+  "article": "Napoleon,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/55420/Napoleon__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bfa0130bb440c65d9004b87bbcbf498496b645101e908519c6f15fc8eaa02770",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bfa0130bb440c65d9004b87bbcbf498496b645101e908519c6f15fc8eaa02770",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/55420/Napoleon__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "55420",
+  "timestamp": "2026-05-25T00:03:13.729078Z",
+  "version": 1
+}

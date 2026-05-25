@@ -1,0 +1,16 @@
+{
+  "article": "Goose_Creek_Lake,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/27924/Goose_Creek_Lake__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bf96ca567742dbbc6dbf2884919f4e6a6cea884c8903a0c1292cd17a37802669",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bf96ca567742dbbc6dbf2884919f4e6a6cea884c8903a0c1292cd17a37802669",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/27924/Goose_Creek_Lake__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "27924",
+  "timestamp": "2026-05-24T23:53:14.117069Z",
+  "version": 1
+}

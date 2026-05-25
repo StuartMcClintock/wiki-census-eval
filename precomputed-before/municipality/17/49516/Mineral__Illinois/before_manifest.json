@@ -1,0 +1,16 @@
+{
+  "article": "Mineral,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/49516/Mineral__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6a0279670865ae84285224222c8204a499e8ce0a894d903abc764c6df38646f6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6a0279670865ae84285224222c8204a499e8ce0a894d903abc764c6df38646f6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/49516/Mineral__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "49516",
+  "timestamp": "2026-05-24T23:38:36.289663Z",
+  "version": 1
+}

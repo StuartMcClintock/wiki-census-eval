@@ -1,0 +1,16 @@
+{
+  "article": "Cumberland,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/18025/Cumberland__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3551ed7b4536f211ab3669cf8cdc01c3bb1ce0448a332a4a11946c45aa5e3d14",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3551ed7b4536f211ab3669cf8cdc01c3bb1ce0448a332a4a11946c45aa5e3d14",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/18025/Cumberland__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "18025",
+  "timestamp": "2026-05-25T00:21:46.109932Z",
+  "version": 1
+}

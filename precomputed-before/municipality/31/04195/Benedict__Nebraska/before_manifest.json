@@ -1,0 +1,16 @@
+{
+  "article": "Benedict,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/04195/Benedict__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e0bbf18c690d69815daa014cb3f4db2f67eb3a5c570985894dbe5b5f07d4cb44",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e0bbf18c690d69815daa014cb3f4db2f67eb3a5c570985894dbe5b5f07d4cb44",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/04195/Benedict__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "04195",
+  "timestamp": "2026-05-24T23:55:11.927029Z",
+  "version": 1
+}

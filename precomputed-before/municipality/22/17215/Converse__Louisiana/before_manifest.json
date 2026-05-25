@@ -1,0 +1,16 @@
+{
+  "article": "Converse,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/17215/Converse__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "647654dace7cc0fc40d42993d7499a1f37b7217ba66c00e6d3694b960afbac53",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "647654dace7cc0fc40d42993d7499a1f37b7217ba66c00e6d3694b960afbac53",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/17215/Converse__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "17215",
+  "timestamp": "2026-05-24T23:44:33.079454Z",
+  "version": 1
+}

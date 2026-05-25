@@ -1,0 +1,16 @@
+{
+  "article": "Pollock,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/58898/Pollock__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cd7f70c4d298bd1a4b72f5689bab5a98b36b412186a77ffcc449bd07ae8be3c7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cd7f70c4d298bd1a4b72f5689bab5a98b36b412186a77ffcc449bd07ae8be3c7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/58898/Pollock__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "58898",
+  "timestamp": "2026-05-24T23:53:42.806834Z",
+  "version": 1
+}

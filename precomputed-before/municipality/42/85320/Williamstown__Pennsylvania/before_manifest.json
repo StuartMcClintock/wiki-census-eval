@@ -1,0 +1,16 @@
+{
+  "article": "Williamstown,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/85320/Williamstown__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bb1c657c4bbf58681b7d84ec895dabfe2d0d06dca6cc6da48d4409ceb4322f77",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bb1c657c4bbf58681b7d84ec895dabfe2d0d06dca6cc6da48d4409ceb4322f77",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/85320/Williamstown__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "85320",
+  "timestamp": "2026-05-25T00:09:31.302105Z",
+  "version": 1
+}

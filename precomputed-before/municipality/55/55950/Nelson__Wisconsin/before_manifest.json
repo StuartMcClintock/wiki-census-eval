@@ -1,0 +1,16 @@
+{
+  "article": "Nelson,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/55950/Nelson__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "27b8f35e15c4a176fd009df4aa88fb4bf9462fdadacafcb457f1d31307a3cf4a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "27b8f35e15c4a176fd009df4aa88fb4bf9462fdadacafcb457f1d31307a3cf4a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/55950/Nelson__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "55950",
+  "timestamp": "2026-05-25T00:22:28.087790Z",
+  "version": 1
+}

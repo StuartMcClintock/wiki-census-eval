@@ -1,0 +1,16 @@
+{
+  "article": "Bulls_Gap,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/09560/Bulls_Gap__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b39bea4959e3feda5ef77d9f93775e6c7ebc69ce8c4da8be574f327e7160e904",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b39bea4959e3feda5ef77d9f93775e6c7ebc69ce8c4da8be574f327e7160e904",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/09560/Bulls_Gap__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "09560",
+  "timestamp": "2026-05-25T00:14:33.270789Z",
+  "version": 1
+}

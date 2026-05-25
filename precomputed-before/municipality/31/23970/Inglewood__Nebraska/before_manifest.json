@@ -1,0 +1,16 @@
+{
+  "article": "Inglewood,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/23970/Inglewood__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b88077b738a087257eb6ae7fe86e4de8abc0d372461c006b5181c7b8fee53353",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b88077b738a087257eb6ae7fe86e4de8abc0d372461c006b5181c7b8fee53353",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/23970/Inglewood__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "23970",
+  "timestamp": "2026-05-24T23:55:34.388970Z",
+  "version": 1
+}

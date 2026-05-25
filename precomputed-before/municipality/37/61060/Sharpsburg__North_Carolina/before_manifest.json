@@ -1,0 +1,16 @@
+{
+  "article": "Sharpsburg,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/61060/Sharpsburg__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d4d5e0052aab9284d5517adf3e3958d1d0c057b5eb6184c071e984761473b745",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d4d5e0052aab9284d5517adf3e3958d1d0c057b5eb6184c071e984761473b745",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/61060/Sharpsburg__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "61060",
+  "timestamp": "2026-05-25T00:02:22.738792Z",
+  "version": 1
+}

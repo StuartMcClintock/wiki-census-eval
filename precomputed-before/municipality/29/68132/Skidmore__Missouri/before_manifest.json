@@ -1,0 +1,16 @@
+{
+  "article": "Skidmore,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/68132/Skidmore__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e3b84e188577b4c9e5ef58411833d26ecdf90f871f0dba2e1541ecbfa90a8ee3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e3b84e188577b4c9e5ef58411833d26ecdf90f871f0dba2e1541ecbfa90a8ee3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/68132/Skidmore__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "68132",
+  "timestamp": "2026-05-24T23:53:49.878791Z",
+  "version": 1
+}

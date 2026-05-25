@@ -1,0 +1,16 @@
+{
+  "article": "Rozel,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/61600/Rozel__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3c8afec12be2a980e8c11b6441150af6697112477f4a9fb9a3cae0b1be5c8e79",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3c8afec12be2a980e8c11b6441150af6697112477f4a9fb9a3cae0b1be5c8e79",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/61600/Rozel__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "61600",
+  "timestamp": "2026-05-24T23:43:25.816193Z",
+  "version": 1
+}

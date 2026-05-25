@@ -1,0 +1,16 @@
+{
+  "article": "Seven_Springs,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/69336/Seven_Springs__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "75ece85bba33563fff634d8733618d361a9cb70b4e75e5e55adb03b8a06703b1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "75ece85bba33563fff634d8733618d361a9cb70b4e75e5e55adb03b8a06703b1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/69336/Seven_Springs__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "69336",
+  "timestamp": "2026-05-25T00:08:59.336678Z",
+  "version": 1
+}

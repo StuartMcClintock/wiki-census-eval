@@ -1,0 +1,16 @@
+{
+  "article": "Chevy_Chase_Section_Three,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/16730/Chevy_Chase_Section_Three__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a5a0d8020380e208b497b88f1c423e35b14da42a8f3353a5d6e560fcff851f06",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a5a0d8020380e208b497b88f1c423e35b14da42a8f3353a5d6e560fcff851f06",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/16730/Chevy_Chase_Section_Three__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "16730",
+  "timestamp": "2026-05-24T23:47:17.438511Z",
+  "version": 1
+}

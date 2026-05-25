@@ -1,0 +1,16 @@
+{
+  "article": "Crown,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/17440/Crown__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e3c251999e7f4ec5839db8667bb62af9d5645452627ba28a28c6a0e8c9373d28",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e3c251999e7f4ec5839db8667bb62af9d5645452627ba28a28c6a0e8c9373d28",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/17440/Crown__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "17440",
+  "timestamp": "2026-05-25T00:06:48.377941Z",
+  "version": 1
+}

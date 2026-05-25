@@ -1,0 +1,29 @@
+==Demographics==
+{{US Census population
+|align=left
+|1900= 312
+|1910= 184
+|1920= 172
+|1930= 212
+|1940= 175
+|1950= 157
+|1960= 138
+|1970= 157
+|1980= 164
+|1990= 123
+|2000= 153
+|2010= 120
+|2020= 148
+|estyear=2021
+|estimate=152
+|estref=<ref name="USCensusEst2020-2021"/> {{increase}}
+|footnote=Sources:<ref name="USDecennialCensus">{{cite web|title=Census of Population and Housing|url=https://www.census.gov/programs-surveys/decennial-census.html|publisher=U.S. Census Bureau|access-date=11 December 2013}}</ref><ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref><ref name=CensusPopEst>{{cite web|title=Incorporated Places and Minor Civil Divisions Datasets: Subcounty Resident Population Estimates: April 1, 2010 to July 1, 2012|url=https://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|work=Population Estimates|publisher=U.S. Census Bureau|access-date=11 December 2013|url-status=dead|archive-url=https://web.archive.org/web/20130611010502/http://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|archive-date=11 June 2013}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A42|title=Census Population API|publisher=United States Census Bureau|accessdate=Oct 12, 2022}}</ref>
+}}
+At the [[2010 United States Census|2010 census]],<ref name="GR8">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2011-05-14 |title=U.S. Census website }}</ref> there were 120 people, 62 households, and 41 families residing in the borough. The population density was {{convert|60|/mi2|/km2|disp=preunit|people&nbsp;|people}}. There were 382 housing units at an average density of {{convert|191|/mi2|/km2|disp=preunit|units&nbsp;|units|}}. The racial makeup of the borough was 99.2% White and 0.8% Asian. Hispanic or Latino of any race were 0.8% of the population.
+
+Of the 62 households, 8.1% had children under the age of 18 living with them, 59.7% were married couples living together, 4.8% had a female householder with no husband present, and 33.9% were non-families. 33.9% of households were one person, and 17.7% were one person aged 65 or older. The average household size was 1.94 and the average family size was 2.34.
+
+In the borough the population was spread out, with 7.5% under the age of 18, 51.7% from 18 to 64, and 40.8% 65 or older. The median age was 63.3 years.
+
+The median household income was $40,833 and the median family income was $63,750. Males had a median income of $36,250 versus $17,813 for females. The per capita income for the borough was $29,052. None of the families and 3.1% of the population were living below the [[poverty line]].
+

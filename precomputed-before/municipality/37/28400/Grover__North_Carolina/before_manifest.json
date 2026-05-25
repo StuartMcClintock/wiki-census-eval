@@ -1,0 +1,16 @@
+{
+  "article": "Grover,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/28400/Grover__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5bddbdc7cae72d698be7a7774505dfcb45e1f4ce86f7f4325ee9525a35b79f10",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5bddbdc7cae72d698be7a7774505dfcb45e1f4ce86f7f4325ee9525a35b79f10",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/28400/Grover__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "28400",
+  "timestamp": "2026-05-25T00:02:01.291802Z",
+  "version": 1
+}

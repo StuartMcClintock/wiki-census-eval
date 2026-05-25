@@ -1,0 +1,16 @@
+{
+  "article": "Fairfield,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/24410/Fairfield__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d92278ec3186776c3a2622698b6dd064d35aa17a8646e7fd6853327a1a2f7636",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d92278ec3186776c3a2622698b6dd064d35aa17a8646e7fd6853327a1a2f7636",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/24410/Fairfield__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "24410",
+  "timestamp": "2026-05-25T00:16:57.805268Z",
+  "version": 1
+}

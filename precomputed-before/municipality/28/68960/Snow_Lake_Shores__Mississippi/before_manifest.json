@@ -1,0 +1,16 @@
+{
+  "article": "Snow_Lake_Shores,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/68960/Snow_Lake_Shores__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f02337fae7bc7107e3821d73f9cdbb858816f7c7876e56c82f15de909abd9aaa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f02337fae7bc7107e3821d73f9cdbb858816f7c7876e56c82f15de909abd9aaa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/68960/Snow_Lake_Shores__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "68960",
+  "timestamp": "2026-05-24T23:50:25.314230Z",
+  "version": 1
+}

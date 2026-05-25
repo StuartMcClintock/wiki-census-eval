@@ -1,0 +1,16 @@
+{
+  "article": "Thornville,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/76680/Thornville__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f75cbbe645d34e05a03cc9c5df842753a94f2978ca958c6221d6dc392e7e1103",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f75cbbe645d34e05a03cc9c5df842753a94f2978ca958c6221d6dc392e7e1103",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/76680/Thornville__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "76680",
+  "timestamp": "2026-05-25T00:05:31.935835Z",
+  "version": 1
+}

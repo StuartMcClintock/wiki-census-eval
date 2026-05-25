@@ -1,0 +1,16 @@
+{
+  "article": "Leaf_River,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/42457/Leaf_River__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cbb4c84c3d50f91ba7b1c97ce26f50792f7b8c58adf72b2dec2a7814d812510d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cbb4c84c3d50f91ba7b1c97ce26f50792f7b8c58adf72b2dec2a7814d812510d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/42457/Leaf_River__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "42457",
+  "timestamp": "2026-05-24T23:38:28.106771Z",
+  "version": 1
+}

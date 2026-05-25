@@ -1,0 +1,16 @@
+{
+  "article": "Sellers,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/65005/Sellers__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2790e743e0ad7bd4841e4f31e99f3f23070735f1d8488cb2fb9904c06ae011da",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2790e743e0ad7bd4841e4f31e99f3f23070735f1d8488cb2fb9904c06ae011da",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/65005/Sellers__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "65005",
+  "timestamp": "2026-05-25T00:10:21.630414Z",
+  "version": 1
+}

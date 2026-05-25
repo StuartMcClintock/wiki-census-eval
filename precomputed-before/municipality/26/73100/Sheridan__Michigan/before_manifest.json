@@ -1,0 +1,16 @@
+{
+  "article": "Sheridan,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/73100/Sheridan__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1e91485dc5b758ab48862244ef0eb804847b4e62ed8ec9115295c2146b4340da",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1e91485dc5b758ab48862244ef0eb804847b4e62ed8ec9115295c2146b4340da",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/73100/Sheridan__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "73100",
+  "timestamp": "2026-05-24T23:48:27.899431Z",
+  "version": 1
+}

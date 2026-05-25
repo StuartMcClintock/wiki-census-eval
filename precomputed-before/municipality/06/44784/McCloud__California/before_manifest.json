@@ -1,0 +1,16 @@
+{
+  "article": "McCloud,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/44784/McCloud__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1dac57d37acc5ceecf5a68accc0bf322eb5065ab530521befdcf65f458948511",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1dac57d37acc5ceecf5a68accc0bf322eb5065ab530521befdcf65f458948511",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/44784/McCloud__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "44784",
+  "timestamp": "2026-05-24T23:34:36.518808Z",
+  "version": 1
+}

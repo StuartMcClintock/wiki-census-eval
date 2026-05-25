@@ -1,0 +1,16 @@
+{
+  "article": "Deerfield,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/21180/Deerfield__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e4189cde47ff4e481df11bb827bc4f83d25b9ecbb87aa8456160742cacf80674",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e4189cde47ff4e481df11bb827bc4f83d25b9ecbb87aa8456160742cacf80674",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/21180/Deerfield__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "21180",
+  "timestamp": "2026-05-24T23:47:51.504055Z",
+  "version": 1
+}

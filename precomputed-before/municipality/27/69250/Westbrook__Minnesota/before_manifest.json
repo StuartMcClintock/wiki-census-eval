@@ -1,0 +1,16 @@
+{
+  "article": "Westbrook,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/69250/Westbrook__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "89f3559a5ed8c9f60bec7039a1ff2ddec186b0242d64b5e71740d79040a60ccc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "89f3559a5ed8c9f60bec7039a1ff2ddec186b0242d64b5e71740d79040a60ccc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/69250/Westbrook__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "69250",
+  "timestamp": "2026-05-24T23:49:53.423213Z",
+  "version": 1
+}

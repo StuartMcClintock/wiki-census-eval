@@ -1,0 +1,16 @@
+{
+  "article": "Wellsburg,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/79081/Wellsburg__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "79c074e46a22868e17f34242a51f840a3711b922e2a9a4418c7f26affeb233cb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "79c074e46a22868e17f34242a51f840a3711b922e2a9a4418c7f26affeb233cb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/79081/Wellsburg__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "79081",
+  "timestamp": "2026-05-25T00:01:24.703978Z",
+  "version": 1
+}

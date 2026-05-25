@@ -1,0 +1,16 @@
+{
+  "article": "Hiko,_Nevada",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/32/32900/Hiko__Nevada/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2dcea416164643828c90ab7a1f82ea6c00fcbdaeec87230680ff2a53eaf60176",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2dcea416164643828c90ab7a1f82ea6c00fcbdaeec87230680ff2a53eaf60176",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/32/32900/Hiko__Nevada/manifest.json",
+  "state_fips": "32",
+  "status": "match",
+  "target_fips": "32900",
+  "timestamp": "2026-05-24T23:57:30.254854Z",
+  "version": 1
+}

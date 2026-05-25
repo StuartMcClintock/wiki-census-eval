@@ -1,0 +1,16 @@
+{
+  "article": "Mesa_Vista,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/47086/Mesa_Vista__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a83c952bb6f766434bc42ce4f64bbf19e650426887c8e8cb27502be00fb091e8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a83c952bb6f766434bc42ce4f64bbf19e650426887c8e8cb27502be00fb091e8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/47086/Mesa_Vista__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "47086",
+  "timestamp": "2026-05-24T23:34:38.675295Z",
+  "version": 1
+}

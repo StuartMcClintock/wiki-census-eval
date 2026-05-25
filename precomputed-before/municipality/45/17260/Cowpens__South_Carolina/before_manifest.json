@@ -1,0 +1,16 @@
+{
+  "article": "Cowpens,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/17260/Cowpens__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2a665cd3aee933936863b9419c22e84a2c34305f8056d6eaf86c5a878c13d723",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2a665cd3aee933936863b9419c22e84a2c34305f8056d6eaf86c5a878c13d723",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/17260/Cowpens__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "17260",
+  "timestamp": "2026-05-25T00:09:56.484164Z",
+  "version": 1
+}

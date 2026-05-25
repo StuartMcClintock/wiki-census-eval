@@ -1,0 +1,16 @@
+{
+  "article": "Jansen,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/24530/Jansen__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a0d039c417ab4c67eb069d5d11ddddbed84c022d3903757f1f25fb43c7849ff4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a0d039c417ab4c67eb069d5d11ddddbed84c022d3903757f1f25fb43c7849ff4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/24530/Jansen__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "24530",
+  "timestamp": "2026-05-24T23:55:34.918428Z",
+  "version": 1
+}

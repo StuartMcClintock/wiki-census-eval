@@ -1,0 +1,16 @@
+{
+  "article": "New_Auburn,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/56350/New_Auburn__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c6e1c73b1422b43c9483341b715c3e777e63ca39f66de8c3238f3b2f6d93eac5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c6e1c73b1422b43c9483341b715c3e777e63ca39f66de8c3238f3b2f6d93eac5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/56350/New_Auburn__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "56350",
+  "timestamp": "2026-05-25T00:22:28.762632Z",
+  "version": 1
+}

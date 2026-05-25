@@ -1,0 +1,16 @@
+{
+  "article": "Hunt,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/36156/Hunt__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "886b53db5b522580ed45459fdd37723ef8df2cfee255948f818c6ae649235815",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "886b53db5b522580ed45459fdd37723ef8df2cfee255948f818c6ae649235815",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/36156/Hunt__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "36156",
+  "timestamp": "2026-05-25T00:00:49.116005Z",
+  "version": 1
+}

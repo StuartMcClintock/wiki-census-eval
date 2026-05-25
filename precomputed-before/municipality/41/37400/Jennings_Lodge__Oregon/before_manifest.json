@@ -1,0 +1,16 @@
+{
+  "article": "Jennings_Lodge,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/37400/Jennings_Lodge__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7a5f2ee8a2e129f71a405e02d78302644eb979615fed82acc99dbd78505cc352",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7a5f2ee8a2e129f71a405e02d78302644eb979615fed82acc99dbd78505cc352",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/37400/Jennings_Lodge__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "37400",
+  "timestamp": "2026-05-25T00:05:49.617653Z",
+  "version": 1
+}

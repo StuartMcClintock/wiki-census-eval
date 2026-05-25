@@ -1,0 +1,16 @@
+{
+  "article": "Selma,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/66150/Selma__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fbc9297275411b5987f3f4af136dba3b8ab8595df84e73aa06c57b27b308f4a5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fbc9297275411b5987f3f4af136dba3b8ab8595df84e73aa06c57b27b308f4a5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/66150/Selma__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "66150",
+  "timestamp": "2026-05-25T00:06:02.279153Z",
+  "version": 1
+}

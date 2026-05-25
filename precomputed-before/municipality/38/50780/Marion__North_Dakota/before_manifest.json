@@ -1,0 +1,16 @@
+{
+  "article": "Marion,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/50780/Marion__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a133bbc864651823bbd810df665a4ef9bf0c02774fcbf1ae69a4298caac88ab9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a133bbc864651823bbd810df665a4ef9bf0c02774fcbf1ae69a4298caac88ab9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/50780/Marion__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "50780",
+  "timestamp": "2026-05-25T00:03:11.164108Z",
+  "version": 1
+}

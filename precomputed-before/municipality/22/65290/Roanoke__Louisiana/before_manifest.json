@@ -1,0 +1,16 @@
+{
+  "article": "Roanoke,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/65290/Roanoke__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3ee4cda14e31a2b84509e0f528f2235d9e4de5c26ee795295abd36e14f90c4ac",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3ee4cda14e31a2b84509e0f528f2235d9e4de5c26ee795295abd36e14f90c4ac",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/65290/Roanoke__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "65290",
+  "timestamp": "2026-05-24T23:45:06.922193Z",
+  "version": 1
+}

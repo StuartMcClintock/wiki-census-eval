@@ -1,0 +1,16 @@
+{
+  "article": "Coldstream,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/16395/Coldstream__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d9105554869ac69a9fd304b0b26f02588357584fbce2f1d7c7b3b2f0466fdc5a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d9105554869ac69a9fd304b0b26f02588357584fbce2f1d7c7b3b2f0466fdc5a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/16395/Coldstream__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "16395",
+  "timestamp": "2026-05-24T23:43:48.577217Z",
+  "version": 1
+}

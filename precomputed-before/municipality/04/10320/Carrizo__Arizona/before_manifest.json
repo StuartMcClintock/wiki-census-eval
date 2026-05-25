@@ -1,0 +1,16 @@
+{
+  "article": "Carrizo,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/10320/Carrizo__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6e086ed852edd62239021fb0ed7f3b7167b7f435026e133440885147bb8ad284",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6e086ed852edd62239021fb0ed7f3b7167b7f435026e133440885147bb8ad284",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/10320/Carrizo__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "10320",
+  "timestamp": "2026-05-24T23:32:49.949812Z",
+  "version": 1
+}

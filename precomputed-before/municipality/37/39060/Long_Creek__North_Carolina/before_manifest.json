@@ -1,0 +1,16 @@
+{
+  "article": "Long_Creek,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/39060/Long_Creek__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d79222a2d485a96d56b79f94bdb85444278702b5af3322d4aa65e03a06739e08",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d79222a2d485a96d56b79f94bdb85444278702b5af3322d4aa65e03a06739e08",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/39060/Long_Creek__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "39060",
+  "timestamp": "2026-05-25T00:02:08.049872Z",
+  "version": 1
+}

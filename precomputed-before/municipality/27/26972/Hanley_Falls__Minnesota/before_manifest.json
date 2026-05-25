@@ -1,0 +1,16 @@
+{
+  "article": "Hanley_Falls,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/26972/Hanley_Falls__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1ed6fbd77a658215e51a1493a4a206b974388ac4e6e047aa0d119e7a9af80020",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1ed6fbd77a658215e51a1493a4a206b974388ac4e6e047aa0d119e7a9af80020",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/26972/Hanley_Falls__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "26972",
+  "timestamp": "2026-05-24T23:49:05.980273Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Harper,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/32400/Harper__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "263dabdd12dfbefcad5ad14ebdf17239ea1def799a7e130638e184403f769253",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "263dabdd12dfbefcad5ad14ebdf17239ea1def799a7e130638e184403f769253",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/32400/Harper__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "32400",
+  "timestamp": "2026-05-25T00:05:48.910605Z",
+  "version": 1
+}

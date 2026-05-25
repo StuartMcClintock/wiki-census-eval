@@ -1,0 +1,16 @@
+{
+  "article": "Vinton,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/80178/Vinton__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "afbd60000f31c6d74a882f61dc7062f05f170507bb64849928c8df562c2ee26a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "afbd60000f31c6d74a882f61dc7062f05f170507bb64849928c8df562c2ee26a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/80178/Vinton__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "80178",
+  "timestamp": "2026-05-25T00:05:35.395292Z",
+  "version": 1
+}

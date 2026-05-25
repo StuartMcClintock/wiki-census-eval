@@ -1,0 +1,16 @@
+{
+  "article": "Woodlawn,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/75375/Woodlawn__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7942b4c2725a017a5defd02e3de76638c95e7a057bef31e58f92d8bc0a933062",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7942b4c2725a017a5defd02e3de76638c95e7a057bef31e58f92d8bc0a933062",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/75375/Woodlawn__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "75375",
+  "timestamp": "2026-05-25T00:02:30.618202Z",
+  "version": 1
+}

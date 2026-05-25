@@ -1,0 +1,16 @@
+{
+  "article": "Cathcart,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/10600/Cathcart__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "34366facbfc088e6f3def9cf8b42c830629efcb33c14e8d4b42290b4fcc221c6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "34366facbfc088e6f3def9cf8b42c830629efcb33c14e8d4b42290b4fcc221c6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/10600/Cathcart__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "10600",
+  "timestamp": "2026-05-25T00:20:04.970503Z",
+  "version": 1
+}

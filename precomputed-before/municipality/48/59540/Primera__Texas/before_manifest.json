@@ -1,0 +1,16 @@
+{
+  "article": "Primera,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/59540/Primera__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bcfe007d5e218a98fb4108baae95b7840d918191600c7d30a756f311335981ea",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bcfe007d5e218a98fb4108baae95b7840d918191600c7d30a756f311335981ea",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/59540/Primera__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "59540",
+  "timestamp": "2026-05-25T00:16:14.208159Z",
+  "version": 1
+}

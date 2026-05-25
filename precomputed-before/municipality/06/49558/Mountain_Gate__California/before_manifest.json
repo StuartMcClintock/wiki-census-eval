@@ -1,0 +1,16 @@
+{
+  "article": "Mountain_Gate,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/49558/Mountain_Gate__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "da49b72553e662b81c71567ebe63385297629536a6b420d4d0cda720c36d0d26",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "da49b72553e662b81c71567ebe63385297629536a6b420d4d0cda720c36d0d26",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/49558/Mountain_Gate__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "49558",
+  "timestamp": "2026-05-24T23:34:41.090802Z",
+  "version": 1
+}

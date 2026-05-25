@@ -1,0 +1,16 @@
+{
+  "article": "Spring_Mills,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/73288/Spring_Mills__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f27725e99902f5fdcb258e7ceda6b93073f890eb10c0540a4dff924147695f93",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f27725e99902f5fdcb258e7ceda6b93073f890eb10c0540a4dff924147695f93",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/73288/Spring_Mills__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "73288",
+  "timestamp": "2026-05-25T00:09:10.128974Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Coolville,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/18588/Coolville__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7e256b54d6e1c8149402fdc66cb491b75af08a119f6ee03adacc2fc60781d34a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7e256b54d6e1c8149402fdc66cb491b75af08a119f6ee03adacc2fc60781d34a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/18588/Coolville__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "18588",
+  "timestamp": "2026-05-25T00:04:01.200604Z",
+  "version": 1
+}

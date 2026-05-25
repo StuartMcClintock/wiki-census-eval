@@ -1,0 +1,16 @@
+{
+  "article": "West_Lafayette,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/83608/West_Lafayette__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6c70676253ddc77713af411294a45aa80fbb6bbe9ef0c0165ecd910cbbb82b35",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6c70676253ddc77713af411294a45aa80fbb6bbe9ef0c0165ecd910cbbb82b35",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/83608/West_Lafayette__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "83608",
+  "timestamp": "2026-05-25T00:05:37.376127Z",
+  "version": 1
+}

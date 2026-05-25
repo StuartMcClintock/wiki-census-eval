@@ -1,0 +1,16 @@
+{
+  "article": "Ruma,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/66287/Ruma__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "198558fd05c7b875e4dab6e6aaf263b47ce543f7d4b7ee5fc6591682870e1c98",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "198558fd05c7b875e4dab6e6aaf263b47ce543f7d4b7ee5fc6591682870e1c98",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/66287/Ruma__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "66287",
+  "timestamp": "2026-05-24T23:39:07.949711Z",
+  "version": 1
+}

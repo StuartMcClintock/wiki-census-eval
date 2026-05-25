@@ -1,0 +1,16 @@
+{
+  "article": "Dutch_John,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/20780/Dutch_John__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ce1882c9c238d9f1c4b8e1d87efbe5a9d3e634042ef59d40d39ed809a4b5f34c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ce1882c9c238d9f1c4b8e1d87efbe5a9d3e634042ef59d40d39ed809a4b5f34c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/20780/Dutch_John__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "20780",
+  "timestamp": "2026-05-25T00:16:56.928724Z",
+  "version": 1
+}

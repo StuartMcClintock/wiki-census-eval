@@ -1,0 +1,16 @@
+{
+  "article": "Mendon,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/48307/Mendon__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fe5cdacff3ffb2f2376fe3ab1d7a1563ce93b8777f19cd8cd2dd949a97edc64d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fe5cdacff3ffb2f2376fe3ab1d7a1563ce93b8777f19cd8cd2dd949a97edc64d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/48307/Mendon__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "48307",
+  "timestamp": "2026-05-24T23:38:34.735364Z",
+  "version": 1
+}

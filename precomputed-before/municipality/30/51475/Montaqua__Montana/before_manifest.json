@@ -1,0 +1,16 @@
+{
+  "article": "Montaqua,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/51475/Montaqua__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0599bad5ed12d0676375b99447e541b0b77642ccf90656f23af319ea809a7070",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0599bad5ed12d0676375b99447e541b0b77642ccf90656f23af319ea809a7070",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/51475/Montaqua__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "51475",
+  "timestamp": "2026-05-24T23:54:38.902550Z",
+  "version": 1
+}

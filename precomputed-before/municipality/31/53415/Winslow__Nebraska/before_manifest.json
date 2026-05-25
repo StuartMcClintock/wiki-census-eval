@@ -1,0 +1,16 @@
+{
+  "article": "Winslow,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/53415/Winslow__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5492fc2e3466e005c02c95bf8bed0577185c70146d129045447a9bf9d25613c4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5492fc2e3466e005c02c95bf8bed0577185c70146d129045447a9bf9d25613c4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/53415/Winslow__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "53415",
+  "timestamp": "2026-05-24T23:57:25.880006Z",
+  "version": 1
+}

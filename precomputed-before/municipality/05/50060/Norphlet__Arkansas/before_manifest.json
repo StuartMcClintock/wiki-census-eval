@@ -1,0 +1,16 @@
+{
+  "article": "Norphlet,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/50060/Norphlet__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5a64ff2488b967642288219d7c2d182937c36c80bf2a05e1dff5089abd038359",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5a64ff2488b967642288219d7c2d182937c36c80bf2a05e1dff5089abd038359",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/50060/Norphlet__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "50060",
+  "timestamp": "2026-05-24T23:34:00.708188Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "East_Brooklyn,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/21579/East_Brooklyn__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "20e934cf7b89e8b06991f1e14736ec06c51a62c47765290bca029a52ef6bebbe",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "20e934cf7b89e8b06991f1e14736ec06c51a62c47765290bca029a52ef6bebbe",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/21579/East_Brooklyn__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "21579",
+  "timestamp": "2026-05-24T23:38:08.083134Z",
+  "version": 1
+}

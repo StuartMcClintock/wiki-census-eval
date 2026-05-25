@@ -1,0 +1,16 @@
+{
+  "article": "Hope,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/38440/Hope__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "06459589dc52e5f0585ba09b226fc27fcab1424d801a3b8f4fb0752e42775879",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "06459589dc52e5f0585ba09b226fc27fcab1424d801a3b8f4fb0752e42775879",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/38440/Hope__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "38440",
+  "timestamp": "2026-05-24T23:37:22.164183Z",
+  "version": 1
+}

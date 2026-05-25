@@ -1,0 +1,10 @@
+==Demographics==
+As of the [[census]]<ref name="GR2">{{cite web|url=https://data.census.gov/table/DECENNIALPL2020.P1?q=Baileyville%20CDP,%20Pennsylvania|publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref> of 2020, there were 217 people, and 80 households in the CDP. The racial makeup of the CDP was 85.7% [[White (U.S. Census)|White]], 0% [[African American (U.S. Census)|Black or African American]], 0% [[Native American (U.S. Census)|Native American]], 1.8% [[Asian (U.S. Census)|Asian]], 1.3% from [[Race (United States Census)|other races]], and 11.1% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 3.6% of the population.
+
+12.0% of the population lives below the [[poverty line]].
+
+{{US Census population
+|2020= 217
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=http://www.census.gov/prod/www/decennial.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2016}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A42|title=Census Population API|publisher=United States Census Bureau|accessdate=Oct 12, 2022}}</ref>
+}}
+

@@ -1,0 +1,16 @@
+{
+  "article": "Rupert,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/66696/Rupert__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "64f421842a82141a6c0ce2fc6ab66cc16ff93191501d6bcb9175d03d882ad9d3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "64f421842a82141a6c0ce2fc6ab66cc16ff93191501d6bcb9175d03d882ad9d3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/66696/Rupert__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "66696",
+  "timestamp": "2026-05-25T00:08:54.430492Z",
+  "version": 1
+}

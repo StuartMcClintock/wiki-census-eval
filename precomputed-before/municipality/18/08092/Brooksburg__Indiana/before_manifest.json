@@ -1,0 +1,16 @@
+{
+  "article": "Brooksburg,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/08092/Brooksburg__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9b9029e847b52d2c27a3441968e1697a6be703d0c8d51ae18c5d8167b8a1690b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9b9029e847b52d2c27a3441968e1697a6be703d0c8d51ae18c5d8167b8a1690b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/08092/Brooksburg__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "08092",
+  "timestamp": "2026-05-24T23:39:27.204880Z",
+  "version": 1
+}

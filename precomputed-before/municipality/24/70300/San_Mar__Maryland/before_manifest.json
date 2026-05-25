@@ -1,0 +1,16 @@
+{
+  "article": "San_Mar,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/70300/San_Mar__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "457671b67e00fd9d55f6459f5e29ada5057e154113e99f1b1ea8656a187a5c6f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "457671b67e00fd9d55f6459f5e29ada5057e154113e99f1b1ea8656a187a5c6f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/70300/San_Mar__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "70300",
+  "timestamp": "2026-05-24T23:47:33.308216Z",
+  "version": 1
+}

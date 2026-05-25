@@ -1,0 +1,16 @@
+{
+  "article": "Cleveland,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/11872/Cleveland__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dbd4d8a6471eb0d99057390322a76fa73e56a857640a0768e8ad458c6c288db9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dbd4d8a6471eb0d99057390322a76fa73e56a857640a0768e8ad458c6c288db9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/11872/Cleveland__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "11872",
+  "timestamp": "2026-05-24T23:48:45.728778Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Pleasant_Hill,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/63534/Pleasant_Hill__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4a0e5359d915fa7492e24f48c70c50834193942ac133d4acf3dacd8de32e502e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4a0e5359d915fa7492e24f48c70c50834193942ac133d4acf3dacd8de32e502e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/63534/Pleasant_Hill__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "63534",
+  "timestamp": "2026-05-25T00:05:06.696966Z",
+  "version": 1
+}

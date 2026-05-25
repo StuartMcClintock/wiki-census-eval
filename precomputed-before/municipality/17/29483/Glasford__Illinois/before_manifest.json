@@ -1,0 +1,16 @@
+{
+  "article": "Glasford,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/29483/Glasford__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5850d0a4de1b450835c6a7bab342a0ea803c1bb0cb55400fba97a3e04b2ed919",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5850d0a4de1b450835c6a7bab342a0ea803c1bb0cb55400fba97a3e04b2ed919",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/29483/Glasford__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "29483",
+  "timestamp": "2026-05-24T23:38:15.813164Z",
+  "version": 1
+}

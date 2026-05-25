@@ -1,0 +1,35 @@
+==Demographics==
+{{US Census population
+|align=left
+|1950= 414
+|1960= 427
+|1970= 348
+|1980= 421
+|1990= 317
+|2000= 337
+|2010= 322
+|2020= 279
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2015}}</ref>
+}}
+
+{| class="wikitable" style="text-align:right"
+|+Norwood racial composition as of 2020<ref>{{Cite web|title=Explore Census Data|url=https://data.census.gov/cedsci/table?g=1600000US2256295&tid=DECENNIALPL2020.P2|access-date=December 28, 2021|website=data.census.gov}}</ref>
+!scope="col"| Race
+!scope="col"| Number
+!scope="col"| Percentage
+|-
+!scope="row"| [[White (U.S. Census)|White]] (non-Hispanic)
+| 217
+| 77.78%
+|-
+!scope="row"| [[African American (U.S. Census)|Black or African American]] (non-Hispanic)
+| 60
+| 21.51%
+|-
+!scope="row"| [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]]
+| 2
+| 0.72%
+|}
+As of the [[2020 United States census]], there were 279 people, 127 households, and 71 families residing in the village.
+{{clear left}}
+

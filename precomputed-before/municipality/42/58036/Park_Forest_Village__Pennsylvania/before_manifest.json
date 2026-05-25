@@ -1,0 +1,16 @@
+{
+  "article": "Park_Forest_Village,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/58036/Park_Forest_Village__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7727a8bbaad813c1f75df05339a1a8f5f2c1370452cdacad5b945d0b8d4f51fc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7727a8bbaad813c1f75df05339a1a8f5f2c1370452cdacad5b945d0b8d4f51fc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/58036/Park_Forest_Village__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "58036",
+  "timestamp": "2026-05-25T00:08:26.115657Z",
+  "version": 1
+}

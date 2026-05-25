@@ -1,0 +1,16 @@
+{
+  "article": "Ehrhardt,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/23200/Ehrhardt__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cac126767256b63bdeb390fd949b4c180a6313f674d7ca9726427e70066a5d19",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cac126767256b63bdeb390fd949b4c180a6313f674d7ca9726427e70066a5d19",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/23200/Ehrhardt__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "23200",
+  "timestamp": "2026-05-25T00:10:01.599275Z",
+  "version": 1
+}

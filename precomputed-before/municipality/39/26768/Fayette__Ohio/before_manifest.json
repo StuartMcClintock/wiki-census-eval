@@ -1,0 +1,16 @@
+{
+  "article": "Fayette,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/26768/Fayette__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "273d8a5dbecc2de825909487596ebfd87e06c0874fc3fb6f67a7185b7789ea52",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "273d8a5dbecc2de825909487596ebfd87e06c0874fc3fb6f67a7185b7789ea52",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/26768/Fayette__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "26768",
+  "timestamp": "2026-05-25T00:04:08.445791Z",
+  "version": 1
+}

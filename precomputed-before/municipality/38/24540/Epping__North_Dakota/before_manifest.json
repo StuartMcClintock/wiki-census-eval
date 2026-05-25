@@ -1,0 +1,16 @@
+{
+  "article": "Epping,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/24540/Epping__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a2d9471c18e22a9b143e64b7ec1ffa10519b864738f84d871cf3f56397664cde",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a2d9471c18e22a9b143e64b7ec1ffa10519b864738f84d871cf3f56397664cde",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/24540/Epping__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "24540",
+  "timestamp": "2026-05-25T00:02:54.151200Z",
+  "version": 1
+}

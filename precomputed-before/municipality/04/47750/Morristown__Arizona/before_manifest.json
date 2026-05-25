@@ -1,0 +1,16 @@
+{
+  "article": "Morristown,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/47750/Morristown__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "caa308cbcffa45a5f35bb76d23393b855f8fa6f6a0d05d8843433f5d0b465d73",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "caa308cbcffa45a5f35bb76d23393b855f8fa6f6a0d05d8843433f5d0b465d73",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/47750/Morristown__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "47750",
+  "timestamp": "2026-05-24T23:33:04.609004Z",
+  "version": 1
+}

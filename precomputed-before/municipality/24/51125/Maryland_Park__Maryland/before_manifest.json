@@ -1,0 +1,16 @@
+{
+  "article": "Maryland_Park,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/51125/Maryland_Park__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3f1e57c00640355ebd04ff620dbe1b0128b883baaf4abbdeec01594515842a75",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3f1e57c00640355ebd04ff620dbe1b0128b883baaf4abbdeec01594515842a75",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/51125/Maryland_Park__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "51125",
+  "timestamp": "2026-05-24T23:47:27.358687Z",
+  "version": 1
+}

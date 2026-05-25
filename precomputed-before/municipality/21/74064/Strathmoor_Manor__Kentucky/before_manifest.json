@@ -1,0 +1,16 @@
+{
+  "article": "Strathmoor_Manor,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/74064/Strathmoor_Manor__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d97299223ec61cd6a45c88c04509ffa34d29cb6dbd7797cf43b39e5dcda0b9f8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d97299223ec61cd6a45c88c04509ffa34d29cb6dbd7797cf43b39e5dcda0b9f8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/74064/Strathmoor_Manor__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "74064",
+  "timestamp": "2026-05-24T23:44:22.563140Z",
+  "version": 1
+}

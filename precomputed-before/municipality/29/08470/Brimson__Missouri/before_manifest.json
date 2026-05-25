@@ -1,0 +1,16 @@
+{
+  "article": "Brimson,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/08470/Brimson__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e6deac5beb7b2ae0baa3411561abd04e11ab6d0f7810fcc4390cd16b00b656ea",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e6deac5beb7b2ae0baa3411561abd04e11ab6d0f7810fcc4390cd16b00b656ea",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/08470/Brimson__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "08470",
+  "timestamp": "2026-05-24T23:50:50.026264Z",
+  "version": 1
+}

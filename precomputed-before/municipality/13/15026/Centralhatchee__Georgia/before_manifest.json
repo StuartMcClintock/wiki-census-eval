@@ -1,0 +1,16 @@
+{
+  "article": "Centralhatchee,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/15026/Centralhatchee__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ab9daff74196753a99807a969a85c3a11d7d6a957c6d028a13441447439d67c5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ab9daff74196753a99807a969a85c3a11d7d6a957c6d028a13441447439d67c5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/15026/Centralhatchee__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "15026",
+  "timestamp": "2026-05-24T23:36:31.546452Z",
+  "version": 1
+}

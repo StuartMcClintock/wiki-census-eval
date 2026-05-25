@@ -1,0 +1,16 @@
+{
+  "article": "Surrency,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/74852/Surrency__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bf692571ac33000929f782013ee8609027c041cc83818c9d935316c57e3ec814",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bf692571ac33000929f782013ee8609027c041cc83818c9d935316c57e3ec814",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/74852/Surrency__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "74852",
+  "timestamp": "2026-05-24T23:37:08.892999Z",
+  "version": 1
+}

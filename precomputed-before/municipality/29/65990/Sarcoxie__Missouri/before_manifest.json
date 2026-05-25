@@ -1,0 +1,16 @@
+{
+  "article": "Sarcoxie,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/65990/Sarcoxie__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1e2589acd46e1a766667c707b6dc06b62def89f8a81b25a710d0dc16c59460c9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1e2589acd46e1a766667c707b6dc06b62def89f8a81b25a710d0dc16c59460c9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/65990/Sarcoxie__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "65990",
+  "timestamp": "2026-05-24T23:53:48.394687Z",
+  "version": 1
+}

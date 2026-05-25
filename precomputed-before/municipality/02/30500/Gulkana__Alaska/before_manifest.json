@@ -1,0 +1,16 @@
+{
+  "article": "Gulkana,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/30500/Gulkana__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "176f2d97251ac0342307e58367a41b39a0fb26f67c2c9c6e8405fe88ecdeaa5b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "176f2d97251ac0342307e58367a41b39a0fb26f67c2c9c6e8405fe88ecdeaa5b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/30500/Gulkana__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "30500",
+  "timestamp": "2026-05-24T23:32:22.669595Z",
+  "version": 1
+}

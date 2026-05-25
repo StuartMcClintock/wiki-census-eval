@@ -1,0 +1,16 @@
+{
+  "article": "Kane,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/38869/Kane__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d9531cd267dfa14dfa68194dd3c982ad6348770024f7e53b18c3ab9d3c37b2fa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d9531cd267dfa14dfa68194dd3c982ad6348770024f7e53b18c3ab9d3c37b2fa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/38869/Kane__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "38869",
+  "timestamp": "2026-05-24T23:38:24.644934Z",
+  "version": 1
+}

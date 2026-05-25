@@ -1,0 +1,16 @@
+{
+  "article": "Highwood,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/36250/Highwood__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "39d489552d8e93655f84b4f69329e7fdecdf72e47fc6f694d069f4116474b6e2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "39d489552d8e93655f84b4f69329e7fdecdf72e47fc6f694d069f4116474b6e2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/36250/Highwood__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "36250",
+  "timestamp": "2026-05-24T23:54:29.948535Z",
+  "version": 1
+}

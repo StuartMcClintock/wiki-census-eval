@@ -1,0 +1,16 @@
+{
+  "article": "Keene,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/37946/Keene__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d0b52a1a2f9f7c6355432536117f2b919dd16875fa37cd50633f2bfca8196d0c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d0b52a1a2f9f7c6355432536117f2b919dd16875fa37cd50633f2bfca8196d0c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/37946/Keene__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "37946",
+  "timestamp": "2026-05-24T23:34:31.330690Z",
+  "version": 1
+}

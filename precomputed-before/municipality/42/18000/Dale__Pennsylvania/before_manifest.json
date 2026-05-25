@@ -1,0 +1,16 @@
+{
+  "article": "Dale,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/18000/Dale__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "da74c7d0a7a61dc7f78eb9ab6c625a5df4ef238cab557dd6eb946b3acf456c7c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "da74c7d0a7a61dc7f78eb9ab6c625a5df4ef238cab557dd6eb946b3acf456c7c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/18000/Dale__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "18000",
+  "timestamp": "2026-05-25T00:06:49.208825Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Denison,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/17625/Denison__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "181f7c5e301c0a30b33ed993d061c10a864467c2dd6f06fc05bec47da23a5ebe",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "181f7c5e301c0a30b33ed993d061c10a864467c2dd6f06fc05bec47da23a5ebe",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/17625/Denison__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "17625",
+  "timestamp": "2026-05-24T23:42:32.242903Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Fordoche,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/26280/Fordoche__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f908bf12a116a026bd7c9e5cdefcba15fb273711b334ada6f95846ad9982a037",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f908bf12a116a026bd7c9e5cdefcba15fb273711b334ada6f95846ad9982a037",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/26280/Fordoche__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "26280",
+  "timestamp": "2026-05-24T23:44:48.050809Z",
+  "version": 1
+}

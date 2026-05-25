@@ -1,0 +1,16 @@
+{
+  "article": "Bessemer_Bend,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/06407/Bessemer_Bend__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7eb1deea43c0beea025577d2072f09876ca7b42363411bb389bd9d2d5b7bcc12",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7eb1deea43c0beea025577d2072f09876ca7b42363411bb389bd9d2d5b7bcc12",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/06407/Bessemer_Bend__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "06407",
+  "timestamp": "2026-05-25T00:23:08.745732Z",
+  "version": 1
+}

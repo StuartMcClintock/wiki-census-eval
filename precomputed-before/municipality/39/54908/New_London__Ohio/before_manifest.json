@@ -1,0 +1,16 @@
+{
+  "article": "New_London,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/54908/New_London__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1dbc57a1da8c48dd40664dd57060f67ed62da46c479a90d14e9a74ecdad98923",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1dbc57a1da8c48dd40664dd57060f67ed62da46c479a90d14e9a74ecdad98923",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/54908/New_London__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "54908",
+  "timestamp": "2026-05-25T00:04:52.428509Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Browntown,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/10475/Browntown__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "59606ddfa97da9460a1f2b1d3c57ae1343629db94b3a92c45b662ed7b9ea381e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "59606ddfa97da9460a1f2b1d3c57ae1343629db94b3a92c45b662ed7b9ea381e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/10475/Browntown__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "10475",
+  "timestamp": "2026-05-25T00:21:39.516379Z",
+  "version": 1
+}

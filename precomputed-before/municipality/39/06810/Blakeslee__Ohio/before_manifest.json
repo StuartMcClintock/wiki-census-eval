@@ -1,0 +1,16 @@
+{
+  "article": "Blakeslee,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/06810/Blakeslee__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "74f48d1126aa27958d0eb82f33956ede670734aa44a90dbc850d5d1d493c2dfe",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "74f48d1126aa27958d0eb82f33956ede670734aa44a90dbc850d5d1d493c2dfe",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/06810/Blakeslee__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "06810",
+  "timestamp": "2026-05-25T00:03:35.672331Z",
+  "version": 1
+}

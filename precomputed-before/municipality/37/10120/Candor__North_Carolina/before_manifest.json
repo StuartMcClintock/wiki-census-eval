@@ -1,0 +1,16 @@
+{
+  "article": "Candor,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/10120/Candor__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1952eed5370c2feb09b7d2ba3c673d4751add319637e0c81cb71fea22859e77e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1952eed5370c2feb09b7d2ba3c673d4751add319637e0c81cb71fea22859e77e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/10120/Candor__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "10120",
+  "timestamp": "2026-05-25T00:01:47.984087Z",
+  "version": 1
+}

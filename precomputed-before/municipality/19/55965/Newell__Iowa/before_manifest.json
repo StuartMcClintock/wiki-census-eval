@@ -1,0 +1,16 @@
+{
+  "article": "Newell,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/55965/Newell__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a7022a97cea06729117ab93d8d345c3f810e0f21c119da258d0beb88ce6656c5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a7022a97cea06729117ab93d8d345c3f810e0f21c119da258d0beb88ce6656c5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/55965/Newell__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "55965",
+  "timestamp": "2026-05-24T23:41:31.766840Z",
+  "version": 1
+}

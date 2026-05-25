@@ -1,0 +1,16 @@
+{
+  "article": "La_Harpe,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/37725/La_Harpe__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9651afdd0e5626fa191aa94a99a7817ef173ff8e94a59295c82fc1fdb6455f50",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9651afdd0e5626fa191aa94a99a7817ef173ff8e94a59295c82fc1fdb6455f50",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/37725/La_Harpe__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "37725",
+  "timestamp": "2026-05-24T23:43:00.422364Z",
+  "version": 1
+}

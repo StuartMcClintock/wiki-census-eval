@@ -1,0 +1,16 @@
+{
+  "article": "Brooktondale,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/10077/Brooktondale__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c7821e6ae4b10212b2d9edb7f93c6635ddafe42fcac14ae750a32813dd690a4f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c7821e6ae4b10212b2d9edb7f93c6635ddafe42fcac14ae750a32813dd690a4f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/10077/Brooktondale__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "10077",
+  "timestamp": "2026-05-25T00:00:33.669078Z",
+  "version": 1
+}

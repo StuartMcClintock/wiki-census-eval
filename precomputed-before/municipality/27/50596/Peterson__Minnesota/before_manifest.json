@@ -1,0 +1,16 @@
+{
+  "article": "Peterson,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/50596/Peterson__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "09923c34412e60e3c2460e9c4d36a77f892058f85832464d69ab9be57e19f393",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "09923c34412e60e3c2460e9c4d36a77f892058f85832464d69ab9be57e19f393",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/50596/Peterson__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "50596",
+  "timestamp": "2026-05-24T23:49:27.381066Z",
+  "version": 1
+}

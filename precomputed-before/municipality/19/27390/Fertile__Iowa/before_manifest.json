@@ -1,0 +1,16 @@
+{
+  "article": "Fertile,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/27390/Fertile__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7fd2f32916195c0763186fd4786ddbc53f0a301dbc358fdc9f2fafe3191b54b8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7fd2f32916195c0763186fd4786ddbc53f0a301dbc358fdc9f2fafe3191b54b8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/27390/Fertile__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "27390",
+  "timestamp": "2026-05-24T23:41:02.100678Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Dodge_City,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/20955/Dodge_City__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "83dbe6cc985de22039c52be8a1a55d4fdbf0fe6f42d5a9ca64f491648b7eec22",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "83dbe6cc985de22039c52be8a1a55d4fdbf0fe6f42d5a9ca64f491648b7eec22",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/20955/Dodge_City__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "20955",
+  "timestamp": "2026-05-24T23:31:53.471314Z",
+  "version": 1
+}

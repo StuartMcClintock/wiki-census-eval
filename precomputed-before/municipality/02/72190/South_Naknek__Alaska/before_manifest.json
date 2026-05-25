@@ -1,0 +1,16 @@
+{
+  "article": "South_Naknek,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/72190/South_Naknek__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "672276c7c52db0b8eeb41e325dda52f3fa9393c7232ffe69a82fad79d58332a5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "672276c7c52db0b8eeb41e325dda52f3fa9393c7232ffe69a82fad79d58332a5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/72190/South_Naknek__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "72190",
+  "timestamp": "2026-05-24T23:32:43.821185Z",
+  "version": 1
+}

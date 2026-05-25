@@ -1,0 +1,16 @@
+{
+  "article": "Rosalie,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/42250/Rosalie__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ed2168f8a76e84f58dd3d7e5066987b09cfd897b89b2f6a9bf453a3ad57a49fc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ed2168f8a76e84f58dd3d7e5066987b09cfd897b89b2f6a9bf453a3ad57a49fc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/42250/Rosalie__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "42250",
+  "timestamp": "2026-05-24T23:57:13.755753Z",
+  "version": 1
+}

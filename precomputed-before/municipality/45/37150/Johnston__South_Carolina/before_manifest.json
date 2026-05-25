@@ -1,0 +1,16 @@
+{
+  "article": "Johnston,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/37150/Johnston__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "74abdeee71f906a43672000e223a0812e1a0354da384266e0c5a5d2fa6a8859a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "74abdeee71f906a43672000e223a0812e1a0354da384266e0c5a5d2fa6a8859a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/37150/Johnston__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "37150",
+  "timestamp": "2026-05-25T00:10:08.383027Z",
+  "version": 1
+}

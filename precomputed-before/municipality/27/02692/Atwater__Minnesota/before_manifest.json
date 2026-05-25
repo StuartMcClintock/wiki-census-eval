@@ -1,0 +1,16 @@
+{
+  "article": "Atwater,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/02692/Atwater__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2ad025d42e4b3eee8188e37188e700aceb0fa2fe1832d8c6860a888212c08936",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2ad025d42e4b3eee8188e37188e700aceb0fa2fe1832d8c6860a888212c08936",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/02692/Atwater__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "02692",
+  "timestamp": "2026-05-24T23:48:35.945426Z",
+  "version": 1
+}

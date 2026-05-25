@@ -1,0 +1,16 @@
+{
+  "article": "Upham,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/80860/Upham__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ad7d86f13ac5a71b7ea23609a73305523c73fb85ead2db39212f3fd3684f09d8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ad7d86f13ac5a71b7ea23609a73305523c73fb85ead2db39212f3fd3684f09d8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/80860/Upham__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "80860",
+  "timestamp": "2026-05-25T00:03:25.353436Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Lakeside,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/42495/Lakeside__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8cd0f998c6c56d7ddbcf5514a791dcb206cca7657ae3a4dcbe281b3a90e809b6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8cd0f998c6c56d7ddbcf5514a791dcb206cca7657ae3a4dcbe281b3a90e809b6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/42495/Lakeside__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "42495",
+  "timestamp": "2026-05-24T23:35:30.947211Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Gardner,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/29240/Gardner__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a9d5bef2ed2497d22d4826662dd053c464bf9d71b7f11ef4f88645723260ee2b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a9d5bef2ed2497d22d4826662dd053c464bf9d71b7f11ef4f88645723260ee2b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/29240/Gardner__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "29240",
+  "timestamp": "2026-05-24T23:35:26.115653Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Marthaville,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/48890/Marthaville__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b95624dde545cc37a189bae25883ac7aaab83b4a5279355352285103629bd20b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b95624dde545cc37a189bae25883ac7aaab83b4a5279355352285103629bd20b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/48890/Marthaville__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "48890",
+  "timestamp": "2026-05-24T23:45:00.794296Z",
+  "version": 1
+}

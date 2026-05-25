@@ -1,0 +1,16 @@
+{
+  "article": "West_Union,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/69736/West_Union__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5611a5c7286859dbcf9f4fd861df2952db44a08e4eb7bdf5a67b301f56d2a90a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5611a5c7286859dbcf9f4fd861df2952db44a08e4eb7bdf5a67b301f56d2a90a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/69736/West_Union__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "69736",
+  "timestamp": "2026-05-24T23:49:53.848991Z",
+  "version": 1
+}

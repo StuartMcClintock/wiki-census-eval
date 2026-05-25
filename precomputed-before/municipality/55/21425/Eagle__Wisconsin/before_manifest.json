@@ -1,0 +1,16 @@
+{
+  "article": "Eagle,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/21425/Eagle__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "63b0e4656b53a567ee5c93587c5cee18220dc90197126edd4f0fc5d3c454548e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "63b0e4656b53a567ee5c93587c5cee18220dc90197126edd4f0fc5d3c454548e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/21425/Eagle__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "21425",
+  "timestamp": "2026-05-25T00:22:02.446086Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Shoals,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/69552/Shoals__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dcc302bd46858f7e9206dd49453e3cf2e44fc3d0dffc382e358c847a81d35688",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dcc302bd46858f7e9206dd49453e3cf2e44fc3d0dffc382e358c847a81d35688",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/69552/Shoals__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "69552",
+  "timestamp": "2026-05-24T23:40:13.053398Z",
+  "version": 1
+}

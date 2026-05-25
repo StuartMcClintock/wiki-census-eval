@@ -1,0 +1,16 @@
+{
+  "article": "Douglas,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/20020/Douglas__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7d2f08f1973aaaa7d57abe5a2cbabacec8fb858dda563494e77c67b8f322142e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7d2f08f1973aaaa7d57abe5a2cbabacec8fb858dda563494e77c67b8f322142e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/20020/Douglas__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "20020",
+  "timestamp": "2026-05-25T00:02:40.805355Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Lyons,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/29855/Lyons__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fc38d224a1e65ed0c8d063678a1698ebca878abceff12db2c07a0ed522222650",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fc38d224a1e65ed0c8d063678a1698ebca878abceff12db2c07a0ed522222650",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/29855/Lyons__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "29855",
+  "timestamp": "2026-05-24T23:55:50.458803Z",
+  "version": 1
+}

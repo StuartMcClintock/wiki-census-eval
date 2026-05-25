@@ -1,0 +1,16 @@
+{
+  "article": "Seeley,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/66615/Seeley__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1680e86ff02aa178d90d39a84e4f35b93e5fb9acd8fce7be9f3843d7cbb05402",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1680e86ff02aa178d90d39a84e4f35b93e5fb9acd8fce7be9f3843d7cbb05402",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/66615/Seeley__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "66615",
+  "timestamp": "2026-05-24T23:58:01.440837Z",
+  "version": 1
+}

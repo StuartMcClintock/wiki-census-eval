@@ -1,0 +1,16 @@
+{
+  "article": "Brownlee,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/06680/Brownlee__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8a9c2fb32a902be0faf2e671611da6681c7a7a67a2baccfc2ffe7e46b2c923ed",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8a9c2fb32a902be0faf2e671611da6681c7a7a67a2baccfc2ffe7e46b2c923ed",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/06680/Brownlee__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "06680",
+  "timestamp": "2026-05-24T23:55:14.416833Z",
+  "version": 1
+}

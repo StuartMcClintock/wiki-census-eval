@@ -1,0 +1,16 @@
+{
+  "article": "Lake_Bronson,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/34136/Lake_Bronson__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "33c056adfb6c0d2ddea7de1eecc69399b444570c4f8a255804b623bdb5b7c330",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "33c056adfb6c0d2ddea7de1eecc69399b444570c4f8a255804b623bdb5b7c330",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/34136/Lake_Bronson__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "34136",
+  "timestamp": "2026-05-24T23:49:13.745042Z",
+  "version": 1
+}

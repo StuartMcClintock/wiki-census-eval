@@ -1,0 +1,16 @@
+{
+  "article": "Wheeler,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/79280/Wheeler__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "23e2c62399aa7f87707896937ed33ad8452d022ef1f604ff19689ba5c8e50e20",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "23e2c62399aa7f87707896937ed33ad8452d022ef1f604ff19689ba5c8e50e20",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/79280/Wheeler__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "79280",
+  "timestamp": "2026-05-24T23:50:29.489699Z",
+  "version": 1
+}

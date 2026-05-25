@@ -1,0 +1,16 @@
+{
+  "article": "Pine_Point,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/51234/Pine_Point__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "34f9914152f70f627f7aa0a7bab9eb6b4420e9765d2ba03c4821524520058c13",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "34f9914152f70f627f7aa0a7bab9eb6b4420e9765d2ba03c4821524520058c13",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/51234/Pine_Point__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "51234",
+  "timestamp": "2026-05-24T23:49:27.931900Z",
+  "version": 1
+}

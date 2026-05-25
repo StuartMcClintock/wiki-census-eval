@@ -1,0 +1,16 @@
+{
+  "article": "Cherry_Branch,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/12186/Cherry_Branch__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d035ce0c005581cc67439830ac91fe476a336874c7bd13b3a17e4a3fc0d6ed66",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d035ce0c005581cc67439830ac91fe476a336874c7bd13b3a17e4a3fc0d6ed66",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/12186/Cherry_Branch__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "12186",
+  "timestamp": "2026-05-25T00:01:49.500298Z",
+  "version": 1
+}

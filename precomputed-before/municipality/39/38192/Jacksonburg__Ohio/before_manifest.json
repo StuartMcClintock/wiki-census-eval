@@ -1,0 +1,16 @@
+{
+  "article": "Jacksonburg,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/38192/Jacksonburg__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "47ee2377e30d242b119579c477bd768e230a62f08e4e2338a321b5dca7a1d28d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "47ee2377e30d242b119579c477bd768e230a62f08e4e2338a321b5dca7a1d28d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/38192/Jacksonburg__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "38192",
+  "timestamp": "2026-05-25T00:04:20.591141Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Mullen,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/33250/Mullen__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c5938f713bb44b6a653b88f25dcca3c7915e5458ec996ad8532dd5be6ce15f70",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c5938f713bb44b6a653b88f25dcca3c7915e5458ec996ad8532dd5be6ce15f70",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/33250/Mullen__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "33250",
+  "timestamp": "2026-05-24T23:55:54.385566Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "White,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/82468/White__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9a473f6c0c06c4e906a52bd553855afd422ac52ad906657d5964bc59ef71e418",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9a473f6c0c06c4e906a52bd553855afd422ac52ad906657d5964bc59ef71e418",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/82468/White__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "82468",
+  "timestamp": "2026-05-24T23:37:12.261227Z",
+  "version": 1
+}

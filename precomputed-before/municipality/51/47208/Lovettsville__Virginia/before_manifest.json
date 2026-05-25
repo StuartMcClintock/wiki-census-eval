@@ -1,0 +1,16 @@
+{
+  "article": "Lovettsville,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/47208/Lovettsville__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2e3d37308336b94acc71474655b0903603a93951070d9095d4a5c34b6bbaec22",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2e3d37308336b94acc71474655b0903603a93951070d9095d4a5c34b6bbaec22",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/47208/Lovettsville__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "47208",
+  "timestamp": "2026-05-25T00:19:22.625025Z",
+  "version": 1
+}

@@ -1,0 +1,77 @@
+==Demographics==
+{{US Census population
+|2010= 161
+|2020= 129
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census/decade.html|title=Decennial Census of Population and Housing by Decade|publisher=[[United States Census Bureau]]|access-date=}}</ref><br> 1850-1870<ref name=1870CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1870 Census of Population - Georgia - Population of Civil Divisions less than Counties |website=[[United States Census Bureau]]|date= 1870|url=https://www2.census.gov/library/publications/decennial/1870/population/1870a-13.pdf |accessdate=|page=}}</ref> 1870-1880<ref name=1880CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1880 Census of Population - Georgia - Population of Civil Divisions less than Counties |website=[[United States Census Bureau]]|date= 1880|url=https://www2.census.gov/library/publications/decennial/1880/vol-01-population/1880_v1-09.pdf |accessdate=|page=}}</ref><br> 1890-1910<ref name=1910CensusGA>{{Cite web  |first=   |last=   |authorlink=   |title= 1910 Census of Population - Georgia  |website= [[United States Census Bureau]]  |date= 1930  |url= https://www2.census.gov/library/publications/decennial/1910/abstract/supplement-ga.pdf  |accessdate=   |page=   |archive-date= January 16, 2024  |archive-url= https://web.archive.org/web/20240116032336/https://www2.census.gov/library/publications/decennial/1910/abstract/supplement-ga.pdf  |url-status= dead  }}</ref> 1920-1930<ref name=1930CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1930 Census of Population - Georgia  |website=[[United States Census Bureau]]|date= 1930|url=https://www2.census.gov/prod2/decennial/documents/03815512v1ch04.pdf |accessdate=|pages=251–256}}</ref><br> 1940<ref name=1940CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1940 Census of Population - Georgia  |website=[[United States Census Bureau]]|date= 1940|url=https://www2.census.gov/library/publications/decennial/1940/population-volume-1/33973538v1ch04.pdf |accessdate=}}</ref> 1950<ref name=1950CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1950 Census of Population - Georgia |website=[[United States Census Bureau]]|date= 1980|url=https://www2.census.gov/library/publications/decennial/1950/population-volume-2/37779083v2p11ch2.pdf |accessdate=}}</ref> 1960<ref name=1960CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1960 Census of Population - Population of County Subdivisions - Georgia  |website=[[United States Census Bureau]]|date= 1960|url=https://www2.census.gov/library/publications/decennial/1960/population-volume-1/vol-01-12-c.pdf|accessdate=}}</ref><br> 1970<ref name=1970CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1970 Census of Population - Population of County Subdivisions - Georgia  |website=[[United States Census Bureau]]|date= 1970|url=https://www2.census.gov/prod2/decennial/documents/1970a_ga-01.pdf|accessdate=}}</ref> 1980<ref name=1980CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1980 Census of Population - Number of Inhabitants - Georgia  |website=[[United States Census Bureau]]|date= 1980|url=https://www2.census.gov/prod2/decennial/documents/1980a_gaABC-01.pdf|accessdate=}}</ref> 1990<ref name=1990CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1990 Census of Population - Summary Social, Economic, and Housing Characteristics - Georgia |website=[[United States Census Bureau]]|date= 1990|url=https://www2.census.gov/library/publications/decennial/1990/cph-5/cph-5-12.pdf|accessdate=}}</ref><br> 2000<ref name=2000CensusGA>{{Cite web|first= |last= |authorlink=   |title= 2000 Census of Population - General Population Characteristics - Georgia  |website=[[United States Census Bureau]]|date= 2000|url=https://www2.census.gov/library/publications/2003/dec/phc-3-12.pdf |accessdate=}}</ref> 2010<ref name=2010CensusP2/> 2020<ref name=2020CensusP2/>
+}}
+
+The [[United States Census Bureau|U.S. Census Bureau]] identifies Calvary as a census-designated place, roughly equivalent to an incorporated place, for the purposes of statistics.<ref>{{Cite web|url=https://www.census.gov/geo/reference/gtc/gtc_place.html|title=2010 Geographic Terms and Concepts - Place|last=Geography|first=US Census Bureau|website=www.census.gov|language=EN-US|access-date=2019-03-11}}</ref>  Calvary was first listed as a CDP in the [[2010 U.S. census]].<ref name=2010CensusP2/><ref name=2000CensusGA/>
+
+===2020 census===
+{| class="wikitable" style="text-align:center;"
+|+'''Calvary CDP, Georgia – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2 Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Calvary CDP, Georgia |url=https://data.census.gov/table?q=p2&g=160XX00US1312484&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]]}}</ref>
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web|title=P2 Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Calvary CDP, Georgia|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US1312484&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]]}}</ref>
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|123
+|style='background: #ffffe6; |103
+|76.40%
+|style='background: #ffffe6; |79.84%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|14
+|style='background: #ffffe6; |12
+|8.70%
+|style='background: #ffffe6; |9.30%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|1
+|style='background: #ffffe6; |0
+|0.62%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Race and ethnicity in the United States census|Some Other Race]] alone (NH)
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Multiracial Americans|Mixed Race or Multi-Racial]] (NH)
+|2
+|style='background: #ffffe6; |0
+|1.24%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|21
+|style='background: #ffffe6; |14
+|13.04%
+|style='background: #ffffe6; |10.85%
+|-
+|'''Total'''
+|'''161'''
+|style='background: #ffffe6; |'''129'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+As of 2020, its population was 129.
+
+The estimated 2017 median income was $85,893 and the mean income was $70,773 for a household in Calvary from the 2013-2017 [[American Community Survey]] 5 Year Estimates.<ref>{{Cite web|url=https://www.census.gov|title=2013-2017 American Community Survey 5-Year Estimates - Calvary, Georgia CDP|publisher=United States Census Bureau|website=[[United States Census Bureau]]|language=en|access-date=2019-03-11}}</ref>{{failed verification|date=December 2023|reason=No mention of Calvary at that link}}
+

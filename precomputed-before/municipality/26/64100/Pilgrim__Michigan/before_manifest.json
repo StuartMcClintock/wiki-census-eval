@@ -1,0 +1,16 @@
+{
+  "article": "Pilgrim,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/64100/Pilgrim__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f8c8c928bcc7d37b1dbc796e3d1fe9c98c3e5882b46a3b24032119a774f9bf63",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f8c8c928bcc7d37b1dbc796e3d1fe9c98c3e5882b46a3b24032119a774f9bf63",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/64100/Pilgrim__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "64100",
+  "timestamp": "2026-05-24T23:48:23.794297Z",
+  "version": 1
+}

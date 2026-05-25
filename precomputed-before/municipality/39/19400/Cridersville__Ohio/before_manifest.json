@@ -1,0 +1,16 @@
+{
+  "article": "Cridersville,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/19400/Cridersville__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e507fa8197c153d148782a85cf5e97c990fe87a10e4cae86b0526923885376ee",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e507fa8197c153d148782a85cf5e97c990fe87a10e4cae86b0526923885376ee",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/19400/Cridersville__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "19400",
+  "timestamp": "2026-05-25T00:04:01.914307Z",
+  "version": 1
+}

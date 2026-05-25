@@ -1,0 +1,16 @@
+{
+  "article": "Pink_Hill,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/52400/Pink_Hill__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0371de067b1494f3e7c5258338e3b2ad8d28b6f413657bbdb7b99f211dec8484",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0371de067b1494f3e7c5258338e3b2ad8d28b6f413657bbdb7b99f211dec8484",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/52400/Pink_Hill__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "52400",
+  "timestamp": "2026-05-25T00:02:16.398070Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Custer_Park,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/18212/Custer_Park__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "03bcebbef2d87ff4325dcfd918027b7a35c68291b87e3491e6cb21dab6dba755",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "03bcebbef2d87ff4325dcfd918027b7a35c68291b87e3491e6cb21dab6dba755",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/18212/Custer_Park__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "18212",
+  "timestamp": "2026-05-24T23:38:04.535277Z",
+  "version": 1
+}

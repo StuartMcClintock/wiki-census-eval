@@ -1,0 +1,16 @@
+{
+  "article": "Placerville,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/59885/Placerville__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a6ab4baa6c008cf5e8f5fb1086c128d3b4a6829128155cc3d923c59452d68885",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a6ab4baa6c008cf5e8f5fb1086c128d3b4a6829128155cc3d923c59452d68885",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/59885/Placerville__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "59885",
+  "timestamp": "2026-05-24T23:35:37.279688Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Bohners_Lake,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/08625/Bohners_Lake__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "41030e275f38a4e8a155876d17bde435b999261c61a7c244e6f61adf881d6ef3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "41030e275f38a4e8a155876d17bde435b999261c61a7c244e6f61adf881d6ef3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/08625/Bohners_Lake__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "08625",
+  "timestamp": "2026-05-25T00:21:38.083854Z",
+  "version": 1
+}

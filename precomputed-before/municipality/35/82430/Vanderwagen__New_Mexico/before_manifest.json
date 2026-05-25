@@ -1,0 +1,16 @@
+{
+  "article": "Vanderwagen,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/82430/Vanderwagen__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c3b4c2ddb300fbf87a529b3c046f1287cec84604f03d15abdcec01e241bb6ca5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c3b4c2ddb300fbf87a529b3c046f1287cec84604f03d15abdcec01e241bb6ca5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/82430/Vanderwagen__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "82430",
+  "timestamp": "2026-05-25T00:00:27.094951Z",
+  "version": 1
+}

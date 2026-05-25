@@ -1,0 +1,16 @@
+{
+  "article": "Shell_Lake,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/73200/Shell_Lake__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "54080b604b8d2b3a4d14af04ede161bfb82b18fb7f9b7d06c209b54a9872a1fc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "54080b604b8d2b3a4d14af04ede161bfb82b18fb7f9b7d06c209b54a9872a1fc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/73200/Shell_Lake__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "73200",
+  "timestamp": "2026-05-25T00:22:42.200616Z",
+  "version": 1
+}

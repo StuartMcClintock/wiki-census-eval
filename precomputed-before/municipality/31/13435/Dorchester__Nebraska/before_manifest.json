@@ -1,0 +1,16 @@
+{
+  "article": "Dorchester,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/13435/Dorchester__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ba8273d224104d35222d007ceecbe3cc275fcde036b19b4d4e42ac98b2288d76",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ba8273d224104d35222d007ceecbe3cc275fcde036b19b4d4e42ac98b2288d76",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/13435/Dorchester__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "13435",
+  "timestamp": "2026-05-24T23:55:23.093137Z",
+  "version": 1
+}

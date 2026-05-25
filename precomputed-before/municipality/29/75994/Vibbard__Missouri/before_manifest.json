@@ -1,0 +1,16 @@
+{
+  "article": "Vibbard,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/75994/Vibbard__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3d7d104a2a9ea92e815b3333292be4a2f27cb637bdc647b61bcb1de17f41bb29",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3d7d104a2a9ea92e815b3333292be4a2f27cb637bdc647b61bcb1de17f41bb29",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/75994/Vibbard__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "75994",
+  "timestamp": "2026-05-24T23:54:06.784636Z",
+  "version": 1
+}

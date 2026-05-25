@@ -1,0 +1,16 @@
+{
+  "article": "Plandome_Heights,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/58486/Plandome_Heights__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "020ca113d816dce88bddf8fe539e49c9c53fc97d4752b6a83bc933cf89ce088d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "020ca113d816dce88bddf8fe539e49c9c53fc97d4752b6a83bc933cf89ce088d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/58486/Plandome_Heights__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "58486",
+  "timestamp": "2026-05-25T00:01:04.308825Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Winthrop,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/79380/Winthrop__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d8bc8375bef18e2563b02c78a361728c8c3846d5854ab992b14e8a84267c50a7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d8bc8375bef18e2563b02c78a361728c8c3846d5854ab992b14e8a84267c50a7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/79380/Winthrop__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "79380",
+  "timestamp": "2026-05-25T00:20:39.451448Z",
+  "version": 1
+}

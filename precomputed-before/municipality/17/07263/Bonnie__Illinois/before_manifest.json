@@ -1,0 +1,16 @@
+{
+  "article": "Bonnie,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/07263/Bonnie__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1484458d1c63d6b382df85462355c0b40e9455b5901d924f8386af4ffa784fbe",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1484458d1c63d6b382df85462355c0b40e9455b5901d924f8386af4ffa784fbe",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/07263/Bonnie__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "07263",
+  "timestamp": "2026-05-24T23:37:50.603699Z",
+  "version": 1
+}

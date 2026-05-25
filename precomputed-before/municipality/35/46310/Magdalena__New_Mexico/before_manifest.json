@@ -1,0 +1,16 @@
+{
+  "article": "Magdalena,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/46310/Magdalena__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fb355d19996d58fb877497aa8d04c0b3e21dd3a63dd48974559a6f9c392f0532",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fb355d19996d58fb877497aa8d04c0b3e21dd3a63dd48974559a6f9c392f0532",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/46310/Magdalena__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "46310",
+  "timestamp": "2026-05-24T23:58:40.556997Z",
+  "version": 1
+}

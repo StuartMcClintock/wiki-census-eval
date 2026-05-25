@@ -1,0 +1,16 @@
+{
+  "article": "Tab,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/74780/Tab__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "946cdd6eb571704eb4fcfc11e70cae332d2f7a2b154266f1cdb030735617ac85",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "946cdd6eb571704eb4fcfc11e70cae332d2f7a2b154266f1cdb030735617ac85",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/74780/Tab__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "74780",
+  "timestamp": "2026-05-24T23:40:15.666267Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Hartwell,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/30772/Hartwell__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "02ed513a5806b13e026b7b776c9431a17d22255c1191eb9b6c6ea02c6c1b2570",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "02ed513a5806b13e026b7b776c9431a17d22255c1191eb9b6c6ea02c6c1b2570",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/30772/Hartwell__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "30772",
+  "timestamp": "2026-05-24T23:53:16.467737Z",
+  "version": 1
+}

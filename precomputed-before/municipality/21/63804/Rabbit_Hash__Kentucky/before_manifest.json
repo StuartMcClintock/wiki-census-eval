@@ -1,0 +1,16 @@
+{
+  "article": "Rabbit_Hash,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/63804/Rabbit_Hash__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7089d7da8d8c5e90c83e50fe4632e409692847339ea4fcc813cd103ba43de5cb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7089d7da8d8c5e90c83e50fe4632e409692847339ea4fcc813cd103ba43de5cb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/63804/Rabbit_Hash__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "63804",
+  "timestamp": "2026-05-24T23:44:17.448430Z",
+  "version": 1
+}

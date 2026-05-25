@@ -1,0 +1,16 @@
+{
+  "article": "Salt_Point,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/64892/Salt_Point__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cc2628f2c07536f394b90fb94f3be5130f7b9a10b334a663e92f340a6a9ad151",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cc2628f2c07536f394b90fb94f3be5130f7b9a10b334a663e92f340a6a9ad151",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/64892/Salt_Point__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "64892",
+  "timestamp": "2026-05-25T00:01:11.193570Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Perrysville,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/59238/Perrysville__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cce654666135221206e8941107a5aebad192bac3833217842ac28fd25d085406",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cce654666135221206e8941107a5aebad192bac3833217842ac28fd25d085406",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/59238/Perrysville__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "59238",
+  "timestamp": "2026-05-24T23:40:08.209037Z",
+  "version": 1
+}

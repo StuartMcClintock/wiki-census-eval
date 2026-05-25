@@ -1,0 +1,16 @@
+{
+  "article": "Savageville,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/70528/Savageville__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d416fd6b972fe630c122405f11d621a907a9f3b64da992ad428067b12c584a3d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d416fd6b972fe630c122405f11d621a907a9f3b64da992ad428067b12c584a3d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/70528/Savageville__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "70528",
+  "timestamp": "2026-05-25T00:19:35.948983Z",
+  "version": 1
+}

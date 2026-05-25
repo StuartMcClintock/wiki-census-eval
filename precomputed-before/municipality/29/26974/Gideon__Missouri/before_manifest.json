@@ -1,0 +1,16 @@
+{
+  "article": "Gideon,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/26974/Gideon__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0dfea9bd59b8969c0c9e909b426e48387efe6fb49fedf8170ab9e651b2be9c56",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0dfea9bd59b8969c0c9e909b426e48387efe6fb49fedf8170ab9e651b2be9c56",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/26974/Gideon__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "26974",
+  "timestamp": "2026-05-24T23:51:12.426460Z",
+  "version": 1
+}

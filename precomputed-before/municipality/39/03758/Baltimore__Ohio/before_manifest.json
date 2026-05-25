@@ -1,0 +1,16 @@
+{
+  "article": "Baltimore,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/03758/Baltimore__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4a8c836d8c6baa25771cefa4a201d2a976f8cf33a14feb62da49df7b589ae8ed",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4a8c836d8c6baa25771cefa4a201d2a976f8cf33a14feb62da49df7b589ae8ed",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/03758/Baltimore__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "03758",
+  "timestamp": "2026-05-25T00:03:32.001464Z",
+  "version": 1
+}

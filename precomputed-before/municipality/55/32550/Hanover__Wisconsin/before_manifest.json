@@ -1,0 +1,16 @@
+{
+  "article": "Hanover,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/32550/Hanover__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3bdb9077a136e26a1c1a126d57210c014d96f8c14dd3d1332c914e1fe2f6c8a7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3bdb9077a136e26a1c1a126d57210c014d96f8c14dd3d1332c914e1fe2f6c8a7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/32550/Hanover__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "32550",
+  "timestamp": "2026-05-25T00:22:10.936935Z",
+  "version": 1
+}

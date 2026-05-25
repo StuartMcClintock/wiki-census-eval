@@ -1,0 +1,16 @@
+{
+  "article": "Bigler,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/06280/Bigler__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7373f339b758a215f178644ffd8360eca3ff35a1c5f94d34dedcca9a96741616",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7373f339b758a215f178644ffd8360eca3ff35a1c5f94d34dedcca9a96741616",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/06280/Bigler__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "06280",
+  "timestamp": "2026-05-25T00:06:17.107785Z",
+  "version": 1
+}

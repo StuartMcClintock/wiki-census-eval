@@ -1,0 +1,16 @@
+{
+  "article": "Boyd,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/09748/Boyd__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ca688c72dadf24aa5325167800c091677c06a176ab270ab9566b429ae4737c63",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ca688c72dadf24aa5325167800c091677c06a176ab270ab9566b429ae4737c63",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/09748/Boyd__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "09748",
+  "timestamp": "2026-05-25T00:15:08.008148Z",
+  "version": 1
+}

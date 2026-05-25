@@ -1,0 +1,16 @@
+{
+  "article": "Stanley,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/76625/Stanley__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "22375ffd1d7f2dcec9f3eb090e475a1c8edb9bb37bb128f53d4b9e52d43c1065",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "22375ffd1d7f2dcec9f3eb090e475a1c8edb9bb37bb128f53d4b9e52d43c1065",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/76625/Stanley__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "76625",
+  "timestamp": "2026-05-25T00:22:44.715743Z",
+  "version": 1
+}

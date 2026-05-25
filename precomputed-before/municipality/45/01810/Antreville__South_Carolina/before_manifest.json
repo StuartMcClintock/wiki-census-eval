@@ -1,0 +1,16 @@
+{
+  "article": "Antreville,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/01810/Antreville__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5c587f034ae2bc061bc2c583eee13e28d8be3bcb5f55b037d2a64cfde7a4ebcf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5c587f034ae2bc061bc2c583eee13e28d8be3bcb5f55b037d2a64cfde7a4ebcf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/01810/Antreville__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "01810",
+  "timestamp": "2026-05-25T00:09:38.604059Z",
+  "version": 1
+}

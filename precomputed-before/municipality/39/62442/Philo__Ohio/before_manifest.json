@@ -1,0 +1,16 @@
+{
+  "article": "Philo,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/62442/Philo__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3e6b4bb0f95ae9e183e0961e506ab662360b69903c86a9413dcb03b571cbd295",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3e6b4bb0f95ae9e183e0961e506ab662360b69903c86a9413dcb03b571cbd295",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/62442/Philo__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "62442",
+  "timestamp": "2026-05-25T00:05:05.447144Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "West_Milwaukee,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/85875/West_Milwaukee__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e1c972e949e3e544dd75a8448c1047bf6969ea119d87abb5de885cb210ae8c41",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e1c972e949e3e544dd75a8448c1047bf6969ea119d87abb5de885cb210ae8c41",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/85875/West_Milwaukee__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "85875",
+  "timestamp": "2026-05-25T00:23:03.020797Z",
+  "version": 1
+}

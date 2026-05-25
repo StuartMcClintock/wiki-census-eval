@@ -1,0 +1,16 @@
+{
+  "article": "Rutherford,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/65760/Rutherford__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c555a7b7c9e38df18755dbcd525a505fc0ca16318203a491c3ed2760453c6bb7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c555a7b7c9e38df18755dbcd525a505fc0ca16318203a491c3ed2760453c6bb7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/65760/Rutherford__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "65760",
+  "timestamp": "2026-05-25T00:14:52.877963Z",
+  "version": 1
+}

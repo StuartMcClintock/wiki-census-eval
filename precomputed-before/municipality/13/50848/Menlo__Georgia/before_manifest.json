@@ -1,0 +1,16 @@
+{
+  "article": "Menlo,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/50848/Menlo__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b3da07ad1293345abdac4c003f5855a7e3b9859b2d31bff286b609383f8f6c0f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b3da07ad1293345abdac4c003f5855a7e3b9859b2d31bff286b609383f8f6c0f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/50848/Menlo__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "50848",
+  "timestamp": "2026-05-24T23:36:55.226224Z",
+  "version": 1
+}

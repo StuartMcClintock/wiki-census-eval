@@ -1,0 +1,16 @@
+{
+  "article": "New_Galilee,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/53592/New_Galilee__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0cc730043e0041ebfe8cfe6efc0a93c63a7e864659e6d1176d5a26baa022ea85",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0cc730043e0041ebfe8cfe6efc0a93c63a7e864659e6d1176d5a26baa022ea85",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/53592/New_Galilee__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "53592",
+  "timestamp": "2026-05-25T00:08:16.123832Z",
+  "version": 1
+}

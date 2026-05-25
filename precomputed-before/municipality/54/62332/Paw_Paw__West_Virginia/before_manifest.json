@@ -1,0 +1,16 @@
+{
+  "article": "Paw_Paw,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/62332/Paw_Paw__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a512cf26d8c23627e42be393dffa056821fbc31b0e9e277310b01fcb802d9593",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a512cf26d8c23627e42be393dffa056821fbc31b0e9e277310b01fcb802d9593",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/62332/Paw_Paw__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "62332",
+  "timestamp": "2026-05-25T00:21:20.328975Z",
+  "version": 1
+}

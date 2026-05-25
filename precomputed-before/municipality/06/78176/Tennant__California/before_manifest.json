@@ -1,0 +1,16 @@
+{
+  "article": "Tennant,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/78176/Tennant__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "96bf831e6cc148e9bdee525883e310f8ab7d531b33d1ea043984b21642d6e247",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "96bf831e6cc148e9bdee525883e310f8ab7d531b33d1ea043984b21642d6e247",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/78176/Tennant__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "78176",
+  "timestamp": "2026-05-24T23:35:09.268334Z",
+  "version": 1
+}

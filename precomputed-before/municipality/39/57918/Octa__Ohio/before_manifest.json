@@ -1,0 +1,16 @@
+{
+  "article": "Octa,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/57918/Octa__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "53540502d9eb106851dde9c0c2ef864e2ff19eb0d07ee142649052449157ee77",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "53540502d9eb106851dde9c0c2ef864e2ff19eb0d07ee142649052449157ee77",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/57918/Octa__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "57918",
+  "timestamp": "2026-05-25T00:05:02.481795Z",
+  "version": 1
+}

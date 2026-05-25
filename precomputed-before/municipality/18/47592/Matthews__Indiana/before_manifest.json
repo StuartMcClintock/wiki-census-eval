@@ -1,0 +1,16 @@
+{
+  "article": "Matthews,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/47592/Matthews__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aea3ba33cb20ced65baaefef81f36b67d8ba1158fffb084d8854ea4108e88d16",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aea3ba33cb20ced65baaefef81f36b67d8ba1158fffb084d8854ea4108e88d16",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/47592/Matthews__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "47592",
+  "timestamp": "2026-05-24T23:40:00.999971Z",
+  "version": 1
+}

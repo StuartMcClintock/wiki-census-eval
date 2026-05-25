@@ -1,0 +1,16 @@
+{
+  "article": "Claremont,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/16880/Claremont__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2ae2b28559f72dd5f181176d583a6b56b412b035d1157f2a3172a81e46ab6f17",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2ae2b28559f72dd5f181176d583a6b56b412b035d1157f2a3172a81e46ab6f17",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/16880/Claremont__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "16880",
+  "timestamp": "2026-05-25T00:19:06.287870Z",
+  "version": 1
+}

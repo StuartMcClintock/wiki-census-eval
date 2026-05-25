@@ -1,0 +1,56 @@
+==Demographics==
+{{US Census population
+|1910= 781
+|1920= 862
+|1930= 965
+|1940= 1071
+|1950= 1524
+|1960= 1641
+|1970= 1794
+|1980= 1956
+|1990= 1543
+|2000= 1809
+|2010= 1689
+|2020= 1356
+|estyear=2024
+|estimate=1304
+|estref=<ref>{{cite web |title=City and Town Population Totals: 2020-2024 |url=https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html |publisher=United States Census Bureau |access-date=9 August 2025}}</ref> {{decrease}}
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|access-date=June 4, 2015}}</ref>
+}}
+
+{| class="wikitable" style="text-align:right"
+|+Bernice racial composition as of 2020<ref>{{Cite web|title=Explore Census Data|url=https://data.census.gov/cedsci/table?g=1600000US2207030&tid=DECENNIALPL2020.P2|access-date=December 29, 2021|website=data.census.gov}}</ref>
+!scope="col"| Race
+!scope="col"| Number
+!scope="col"| Percentage
+|-
+!scope="row"| [[White (U.S. Census)|White]] (non-Hispanic)
+| 319
+| 23.53%
+|-
+!scope="row"| [[African American (U.S. Census)|Black or African American]] (non-Hispanic)
+| 796
+| 58.7%
+|-
+!scope="row"| [[Native American (U.S. Census)|Native American]]
+| 3
+| 0.22%
+|-
+!scope="row"| [[Asian (U.S. Census)|Asian]]
+| 3
+| 0.22%
+|-
+!scope="row"| [[Pacific Islander (U.S. Census)|Pacific Islander]]
+| 1
+| 0.07%
+|-
+!scope="row"| [[Race (United States Census)|Other/Mixed]]
+| 31
+| 2.29%
+|-
+!scope="row"| [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]]
+| 203
+| 14.97%
+|}
+As of the [[2020 United States census]], there were 1,356 people, 571 households, and 326 families residing in the town.
+

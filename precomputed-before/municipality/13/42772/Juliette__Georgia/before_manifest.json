@@ -1,0 +1,16 @@
+{
+  "article": "Juliette,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/42772/Juliette__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "56ced9cc4c789916d08c569379e05ff3d3b2b8bf476d5dc7e19f2a0e7b4f0855",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "56ced9cc4c789916d08c569379e05ff3d3b2b8bf476d5dc7e19f2a0e7b4f0855",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/42772/Juliette__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "42772",
+  "timestamp": "2026-05-24T23:36:51.863023Z",
+  "version": 1
+}

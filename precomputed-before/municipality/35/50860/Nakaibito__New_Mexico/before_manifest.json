@@ -1,0 +1,16 @@
+{
+  "article": "Nakaibito,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/50860/Nakaibito__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "357cb06a13643521d3a7e90604ed5178d4503066ef8325e62dd9ff081527f547",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "357cb06a13643521d3a7e90604ed5178d4503066ef8325e62dd9ff081527f547",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/50860/Nakaibito__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "50860",
+  "timestamp": "2026-05-24T23:58:43.507504Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Westby,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/85475/Westby__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "05a9d736b3a7ecbc84611b59befb7fa06a8fe13a2e40ede1c43946117ea6c253",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "05a9d736b3a7ecbc84611b59befb7fa06a8fe13a2e40ede1c43946117ea6c253",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/85475/Westby__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "85475",
+  "timestamp": "2026-05-25T00:23:02.768215Z",
+  "version": 1
+}

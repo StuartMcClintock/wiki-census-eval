@@ -1,0 +1,16 @@
+{
+  "article": "Hurst,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/36815/Hurst__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "14b1ddcb6e6b9cdf76fc80f652a14d7571504e6f0d063b8aa2994da911b21d81",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "14b1ddcb6e6b9cdf76fc80f652a14d7571504e6f0d063b8aa2994da911b21d81",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/36815/Hurst__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "36815",
+  "timestamp": "2026-05-24T23:38:21.876183Z",
+  "version": 1
+}

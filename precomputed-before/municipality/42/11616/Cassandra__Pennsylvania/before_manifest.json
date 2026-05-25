@@ -1,0 +1,16 @@
+{
+  "article": "Cassandra,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/11616/Cassandra__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4a118acc52eeebc84d0eb516ba3a4d08f6988681e8ef4c17cd0b0fd696535e02",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4a118acc52eeebc84d0eb516ba3a4d08f6988681e8ef4c17cd0b0fd696535e02",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/11616/Cassandra__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "11616",
+  "timestamp": "2026-05-25T00:06:37.454124Z",
+  "version": 1
+}

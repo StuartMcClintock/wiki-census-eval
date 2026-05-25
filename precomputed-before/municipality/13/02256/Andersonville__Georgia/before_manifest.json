@@ -1,0 +1,16 @@
+{
+  "article": "Andersonville,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/02256/Andersonville__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "78793e47197a8ffaf32616fb098ec347b8a84422d8d070c053e119cfee381000",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "78793e47197a8ffaf32616fb098ec347b8a84422d8d070c053e119cfee381000",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/02256/Andersonville__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "02256",
+  "timestamp": "2026-05-24T23:36:26.914594Z",
+  "version": 1
+}

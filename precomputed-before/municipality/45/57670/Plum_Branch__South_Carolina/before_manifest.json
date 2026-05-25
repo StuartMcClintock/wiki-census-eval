@@ -1,0 +1,16 @@
+{
+  "article": "Plum_Branch,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/57670/Plum_Branch__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2b42afde63efef55160f1449ba19188d6ba3b4a38c21ae7a84f04156dabe663d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2b42afde63efef55160f1449ba19188d6ba3b4a38c21ae7a84f04156dabe663d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/57670/Plum_Branch__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "57670",
+  "timestamp": "2026-05-25T00:10:17.749480Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Paradis,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/58920/Paradis__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "842ff3f5dc305907b6469555379bc3eb790406d630884e6a8017decb2ebf05f6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "842ff3f5dc305907b6469555379bc3eb790406d630884e6a8017decb2ebf05f6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/58920/Paradis__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "58920",
+  "timestamp": "2026-05-24T23:45:04.454058Z",
+  "version": 1
+}

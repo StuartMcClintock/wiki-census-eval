@@ -1,0 +1,16 @@
+{
+  "article": "Lake_Mohawk,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/41443/Lake_Mohawk__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "74f84ef0beeaa20f7dc29199a0fefcd3918710b172440b60af63d7f4c57500d7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "74f84ef0beeaa20f7dc29199a0fefcd3918710b172440b60af63d7f4c57500d7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/41443/Lake_Mohawk__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "41443",
+  "timestamp": "2026-05-25T00:04:35.696705Z",
+  "version": 1
+}

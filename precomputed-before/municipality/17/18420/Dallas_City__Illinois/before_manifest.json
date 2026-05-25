@@ -1,0 +1,16 @@
+{
+  "article": "Dallas_City,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/18420/Dallas_City__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2de0215b8e1e9c974aa22c49cdfd8b9ca9415fe6300f38b50b1fd4cc812869ef",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2de0215b8e1e9c974aa22c49cdfd8b9ca9415fe6300f38b50b1fd4cc812869ef",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/18420/Dallas_City__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "18420",
+  "timestamp": "2026-05-24T23:38:05.139803Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Allen,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/01275/Allen__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a6a291fba029d6ff164668ab3fb90a72422a90716942e74032cf9bbec39ef143",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a6a291fba029d6ff164668ab3fb90a72422a90716942e74032cf9bbec39ef143",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/01275/Allen__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "01275",
+  "timestamp": "2026-05-24T23:42:15.591357Z",
+  "version": 1
+}

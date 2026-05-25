@@ -1,0 +1,16 @@
+{
+  "article": "Sims_Chapel,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/70632/Sims_Chapel__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fe878bfe1e3462d38368ee286be24d2cdda4622b8a6ac3e2eb29e8b06884feee",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fe878bfe1e3462d38368ee286be24d2cdda4622b8a6ac3e2eb29e8b06884feee",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/70632/Sims_Chapel__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "70632",
+  "timestamp": "2026-05-24T23:32:12.537039Z",
+  "version": 1
+}

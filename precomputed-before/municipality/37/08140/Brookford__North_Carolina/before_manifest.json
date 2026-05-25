@@ -1,0 +1,16 @@
+{
+  "article": "Brookford,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/08140/Brookford__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "167cf4d6bdc9e18fe9dd34920d9073e8831e0856692f8b01ca83f118015057aa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "167cf4d6bdc9e18fe9dd34920d9073e8831e0856692f8b01ca83f118015057aa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/08140/Brookford__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "08140",
+  "timestamp": "2026-05-25T00:01:46.974558Z",
+  "version": 1
+}

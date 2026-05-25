@@ -1,0 +1,16 @@
+{
+  "article": "Pickstown,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/49460/Pickstown__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7165e85cbae03e83b1886baefbfa5f54f844b222c765484203a4550ed5101527",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7165e85cbae03e83b1886baefbfa5f54f844b222c765484203a4550ed5101527",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/49460/Pickstown__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "49460",
+  "timestamp": "2026-05-25T00:11:08.226077Z",
+  "version": 1
+}

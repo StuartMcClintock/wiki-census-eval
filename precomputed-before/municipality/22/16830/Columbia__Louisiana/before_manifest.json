@@ -1,0 +1,16 @@
+{
+  "article": "Columbia,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/16830/Columbia__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e88d4083ea37efccd14b9c68c7ebad27da891a145dfec1ae29b6f0ced0ec3c0e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e88d4083ea37efccd14b9c68c7ebad27da891a145dfec1ae29b6f0ced0ec3c0e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/16830/Columbia__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "16830",
+  "timestamp": "2026-05-24T23:44:32.845599Z",
+  "version": 1
+}

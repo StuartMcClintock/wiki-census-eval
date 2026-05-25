@@ -1,0 +1,16 @@
+{
+  "article": "Seabrook_Beach,_New_Hampshire",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/33/68340/Seabrook_Beach__New_Hampshire/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "34534d4b26051627426b7c3b9d2a97c2e6db095aef214c13d217b427e4ffa09b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "34534d4b26051627426b7c3b9d2a97c2e6db095aef214c13d217b427e4ffa09b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/33/68340/Seabrook_Beach__New_Hampshire/manifest.json",
+  "state_fips": "33",
+  "status": "match",
+  "target_fips": "68340",
+  "timestamp": "2026-05-24T23:57:37.148176Z",
+  "version": 1
+}

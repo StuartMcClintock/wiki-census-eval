@@ -1,0 +1,16 @@
+{
+  "article": "Nichols,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/57375/Nichols__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a4e4627a123e44530ea98c95df8f41ed1a06c2ad0e65f081bfceab11a4ad4e5d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a4e4627a123e44530ea98c95df8f41ed1a06c2ad0e65f081bfceab11a4ad4e5d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/57375/Nichols__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "57375",
+  "timestamp": "2026-05-25T00:22:29.864197Z",
+  "version": 1
+}

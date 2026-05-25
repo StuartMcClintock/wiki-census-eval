@@ -1,0 +1,16 @@
+{
+  "article": "Wayne,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/81752/Wayne__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "61af2091a0c6f32472824babd235219612d1d90fa491ec3b791cd9208ced7a34",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "61af2091a0c6f32472824babd235219612d1d90fa491ec3b791cd9208ced7a34",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/81752/Wayne__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "81752",
+  "timestamp": "2026-05-25T00:09:25.118505Z",
+  "version": 1
+}

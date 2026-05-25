@@ -1,0 +1,16 @@
+{
+  "article": "Congerville,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/16119/Congerville__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5602b530e95279053439b026ed758c18bc9ff789a5a0c2c054adb6c3066f52d4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5602b530e95279053439b026ed758c18bc9ff789a5a0c2c054adb6c3066f52d4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/16119/Congerville__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "16119",
+  "timestamp": "2026-05-24T23:38:02.669318Z",
+  "version": 1
+}

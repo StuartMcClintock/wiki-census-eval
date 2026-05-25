@@ -1,0 +1,16 @@
+{
+  "article": "Fontanelle,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/28290/Fontanelle__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "21c0e11d058b3a4183b201835eb08ecaeb65b40f34d88e19d0a55ab23910ee07",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "21c0e11d058b3a4183b201835eb08ecaeb65b40f34d88e19d0a55ab23910ee07",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/28290/Fontanelle__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "28290",
+  "timestamp": "2026-05-24T23:41:02.584180Z",
+  "version": 1
+}

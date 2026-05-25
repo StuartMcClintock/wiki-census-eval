@@ -1,0 +1,16 @@
+{
+  "article": "Eastport,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/24300/Eastport__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "185b8aa8f392729b593a91fde306c167ecc2b76a2adbb16dcc3a3940c8b8ec71",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "185b8aa8f392729b593a91fde306c167ecc2b76a2adbb16dcc3a3940c8b8ec71",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/24300/Eastport__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "24300",
+  "timestamp": "2026-05-24T23:47:52.913294Z",
+  "version": 1
+}

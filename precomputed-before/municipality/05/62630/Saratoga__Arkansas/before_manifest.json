@@ -1,0 +1,16 @@
+{
+  "article": "Saratoga,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/62630/Saratoga__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0ba5383d86c0fbb5aa877d5b518f9c5d9e1db921de48a8f9b8d802a112467165",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0ba5383d86c0fbb5aa877d5b518f9c5d9e1db921de48a8f9b8d802a112467165",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/62630/Saratoga__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "62630",
+  "timestamp": "2026-05-24T23:34:07.896913Z",
+  "version": 1
+}

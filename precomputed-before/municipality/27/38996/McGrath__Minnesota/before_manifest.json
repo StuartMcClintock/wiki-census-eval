@@ -1,0 +1,16 @@
+{
+  "article": "McGrath,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/38996/McGrath__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dada89b8886735f31b4e8be97eb3e4c13d0176473bb210ed8c0a334e9cb10c09",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dada89b8886735f31b4e8be97eb3e4c13d0176473bb210ed8c0a334e9cb10c09",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/38996/McGrath__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "38996",
+  "timestamp": "2026-05-24T23:49:17.721670Z",
+  "version": 1
+}

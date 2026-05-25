@@ -1,0 +1,16 @@
+{
+  "article": "Surf_City,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/71640/Surf_City__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aa016a0f766045e405077b5fbd8f42fe2bf8e26a3110961635b4907f93049432",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aa016a0f766045e405077b5fbd8f42fe2bf8e26a3110961635b4907f93049432",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/71640/Surf_City__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "71640",
+  "timestamp": "2026-05-24T23:58:03.449995Z",
+  "version": 1
+}

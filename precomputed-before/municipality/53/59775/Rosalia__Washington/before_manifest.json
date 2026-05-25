@@ -1,0 +1,16 @@
+{
+  "article": "Rosalia,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/59775/Rosalia__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "58cf9328116cfb99cc80ecb4febd4952b380c004937baa3f6fa9344266d2537b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "58cf9328116cfb99cc80ecb4febd4952b380c004937baa3f6fa9344266d2537b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/59775/Rosalia__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "59775",
+  "timestamp": "2026-05-25T00:20:30.784802Z",
+  "version": 1
+}

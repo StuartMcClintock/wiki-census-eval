@@ -1,0 +1,16 @@
+{
+  "article": "Colp,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/15807/Colp__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "737f6e91012085e5142c183a3b584b77abaa757c7ca1f03a8c827a51f8d15e19",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "737f6e91012085e5142c183a3b584b77abaa757c7ca1f03a8c827a51f8d15e19",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/15807/Colp__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "15807",
+  "timestamp": "2026-05-24T23:38:02.173599Z",
+  "version": 1
+}

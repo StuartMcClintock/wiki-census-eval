@@ -1,0 +1,16 @@
+{
+  "article": "Roseville,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/65845/Roseville__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fd8678130007996088acce08ae31ff8b8eba5d8c304ec9290c8fe1b0546f0884",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fd8678130007996088acce08ae31ff8b8eba5d8c304ec9290c8fe1b0546f0884",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/65845/Roseville__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "65845",
+  "timestamp": "2026-05-24T23:39:07.455819Z",
+  "version": 1
+}

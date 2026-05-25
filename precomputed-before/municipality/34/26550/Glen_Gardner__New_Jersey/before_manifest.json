@@ -1,0 +1,16 @@
+{
+  "article": "Glen_Gardner,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/26550/Glen_Gardner__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9da1549d59ef7f57ae42c59d6c0adc99ee848333efc0ee3f0814b3cf524dfdb1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9da1549d59ef7f57ae42c59d6c0adc99ee848333efc0ee3f0814b3cf524dfdb1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/26550/Glen_Gardner__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "26550",
+  "timestamp": "2026-05-24T23:57:48.966284Z",
+  "version": 1
+}

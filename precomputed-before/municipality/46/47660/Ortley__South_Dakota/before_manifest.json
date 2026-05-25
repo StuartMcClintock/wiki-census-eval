@@ -1,0 +1,16 @@
+{
+  "article": "Ortley,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/47660/Ortley__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2400b69cf423adfb6a7e344232fdb59344b1ff99a36ba97b920622e731c60e28",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2400b69cf423adfb6a7e344232fdb59344b1ff99a36ba97b920622e731c60e28",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/47660/Ortley__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "47660",
+  "timestamp": "2026-05-25T00:11:07.518454Z",
+  "version": 1
+}

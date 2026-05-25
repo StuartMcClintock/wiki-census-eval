@@ -1,0 +1,16 @@
+{
+  "article": "Newborn,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/54656/Newborn__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b03a9ef0dbdc8694b5a4d554014c9276fd942fcde880615d5b155b47f5f9d10c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b03a9ef0dbdc8694b5a4d554014c9276fd942fcde880615d5b155b47f5f9d10c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/54656/Newborn__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "54656",
+  "timestamp": "2026-05-24T23:37:01.082933Z",
+  "version": 1
+}

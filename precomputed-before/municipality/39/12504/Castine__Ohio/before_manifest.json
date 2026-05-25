@@ -1,0 +1,16 @@
+{
+  "article": "Castine,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/12504/Castine__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a7a48516a5873dd0e81acea6d75b75187039c91f424a675822af73d1bc50658b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a7a48516a5873dd0e81acea6d75b75187039c91f424a675822af73d1bc50658b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/12504/Castine__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "12504",
+  "timestamp": "2026-05-25T00:03:52.736982Z",
+  "version": 1
+}

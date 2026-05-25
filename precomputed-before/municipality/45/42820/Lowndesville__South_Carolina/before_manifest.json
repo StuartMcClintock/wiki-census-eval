@@ -1,0 +1,16 @@
+{
+  "article": "Lowndesville,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/42820/Lowndesville__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b6c78e07076b35ed7289324a9220b3fa88e051d4e46bb640e5666da5d5a5867f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b6c78e07076b35ed7289324a9220b3fa88e051d4e46bb640e5666da5d5a5867f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/42820/Lowndesville__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "42820",
+  "timestamp": "2026-05-25T00:10:11.365998Z",
+  "version": 1
+}

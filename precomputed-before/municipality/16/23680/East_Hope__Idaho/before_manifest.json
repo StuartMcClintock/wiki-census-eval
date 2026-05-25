@@ -1,0 +1,16 @@
+{
+  "article": "East_Hope,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/23680/East_Hope__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a3a9735769d90fb14d3e10c980281d1ca275ab3bb25be0ccf8832f4cc10942e5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a3a9735769d90fb14d3e10c980281d1ca275ab3bb25be0ccf8832f4cc10942e5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/23680/East_Hope__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "23680",
+  "timestamp": "2026-05-24T23:37:19.864369Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Shenandoah_Retreat,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/71825/Shenandoah_Retreat__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "23735d54fd6d5ed45404f7ce1ed5d4f97348680123bc88d6fa82dcd6e2a38d13",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "23735d54fd6d5ed45404f7ce1ed5d4f97348680123bc88d6fa82dcd6e2a38d13",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/71825/Shenandoah_Retreat__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "71825",
+  "timestamp": "2026-05-25T00:19:37.747240Z",
+  "version": 1
+}

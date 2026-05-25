@@ -1,0 +1,16 @@
+{
+  "article": "Garland,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/28680/Garland__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "241fe21a5a20302ae7063240add612906e21166c6d5284065a6329aa2f1dfdce",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "241fe21a5a20302ae7063240add612906e21166c6d5284065a6329aa2f1dfdce",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/28680/Garland__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "28680",
+  "timestamp": "2026-05-25T00:14:40.020020Z",
+  "version": 1
+}

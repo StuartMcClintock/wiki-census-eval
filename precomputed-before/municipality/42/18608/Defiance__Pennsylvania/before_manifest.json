@@ -1,0 +1,16 @@
+{
+  "article": "Defiance,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/18608/Defiance__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "59097a7c32786e53780546d362e00d4bc4127dbece23a30332717e06e50f5096",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "59097a7c32786e53780546d362e00d4bc4127dbece23a30332717e06e50f5096",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/18608/Defiance__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "18608",
+  "timestamp": "2026-05-25T00:06:50.469943Z",
+  "version": 1
+}

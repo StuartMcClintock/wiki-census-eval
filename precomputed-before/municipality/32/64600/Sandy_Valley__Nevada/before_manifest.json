@@ -1,0 +1,16 @@
+{
+  "article": "Sandy_Valley,_Nevada",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/32/64600/Sandy_Valley__Nevada/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d6a3c02cf26f20e86ecbc1d541643dff0a8f5845b7d7adefe4c6a8dea21d7829",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d6a3c02cf26f20e86ecbc1d541643dff0a8f5845b7d7adefe4c6a8dea21d7829",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/32/64600/Sandy_Valley__Nevada/manifest.json",
+  "state_fips": "32",
+  "status": "match",
+  "target_fips": "64600",
+  "timestamp": "2026-05-24T23:57:33.486437Z",
+  "version": 1
+}

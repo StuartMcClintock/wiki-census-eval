@@ -1,0 +1,16 @@
+{
+  "article": "Penn_Lake_Park,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/59054/Penn_Lake_Park__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b4335c1455a0a16fb5b2300d4bd5358ba0804c81f3a27ddf3c965f8dbe5be23e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b4335c1455a0a16fb5b2300d4bd5358ba0804c81f3a27ddf3c965f8dbe5be23e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/59054/Penn_Lake_Park__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "59054",
+  "timestamp": "2026-05-25T00:08:27.536357Z",
+  "version": 1
+}

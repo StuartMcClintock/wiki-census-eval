@@ -1,0 +1,16 @@
+{
+  "article": "Newtok,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/53820/Newtok__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e42c01225597a5164a9d595bb368b78ad7c3bd73292f588256eef1ed05fb3099",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e42c01225597a5164a9d595bb368b78ad7c3bd73292f588256eef1ed05fb3099",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/53820/Newtok__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "53820",
+  "timestamp": "2026-05-24T23:32:29.140552Z",
+  "version": 1
+}

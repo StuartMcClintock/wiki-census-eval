@@ -1,0 +1,16 @@
+{
+  "article": "Mead_Ranch,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/45275/Mead_Ranch__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "73b9ea085040e9b7b8a6a37c6cfffadf9aca9ff493fd149ea9f8838aad201631",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "73b9ea085040e9b7b8a6a37c6cfffadf9aca9ff493fd149ea9f8838aad201631",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/45275/Mead_Ranch__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "45275",
+  "timestamp": "2026-05-24T23:33:03.907870Z",
+  "version": 1
+}

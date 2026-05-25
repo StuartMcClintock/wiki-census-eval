@@ -1,0 +1,16 @@
+{
+  "article": "Delavan,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/19450/Delavan__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "93e507fd9bd73702bee5f34b81471d11d7f8e33cabf3b19c2266b343aa0f64bd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "93e507fd9bd73702bee5f34b81471d11d7f8e33cabf3b19c2266b343aa0f64bd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/19450/Delavan__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "19450",
+  "timestamp": "2026-05-25T00:22:00.493786Z",
+  "version": 1
+}

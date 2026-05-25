@@ -1,0 +1,16 @@
+{
+  "article": "Williams_Creek,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/84374/Williams_Creek__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "72ee2f0835c25f9aae12b405b39021338a81af3c2e023214a799712605095cf1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "72ee2f0835c25f9aae12b405b39021338a81af3c2e023214a799712605095cf1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/84374/Williams_Creek__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "84374",
+  "timestamp": "2026-05-24T23:40:19.650730Z",
+  "version": 1
+}

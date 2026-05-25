@@ -1,0 +1,16 @@
+{
+  "article": "Paw_Paw,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/58226/Paw_Paw__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7e87fc4c9aba7a643648ae9b979b6faa3dfd9a0789f7daa19732f9cacafc2ce5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7e87fc4c9aba7a643648ae9b979b6faa3dfd9a0789f7daa19732f9cacafc2ce5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/58226/Paw_Paw__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "58226",
+  "timestamp": "2026-05-24T23:39:01.290791Z",
+  "version": 1
+}

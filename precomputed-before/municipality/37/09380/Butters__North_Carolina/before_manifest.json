@@ -1,0 +1,16 @@
+{
+  "article": "Butters,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/09380/Butters__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aaad1c77375ff388447726599e3b601cd20dac2d04163faee45348618e3d86eb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aaad1c77375ff388447726599e3b601cd20dac2d04163faee45348618e3d86eb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/09380/Butters__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "09380",
+  "timestamp": "2026-05-25T00:01:47.398661Z",
+  "version": 1
+}

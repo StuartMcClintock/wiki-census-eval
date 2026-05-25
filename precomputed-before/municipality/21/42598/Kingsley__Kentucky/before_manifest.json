@@ -1,0 +1,16 @@
+{
+  "article": "Kingsley,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/42598/Kingsley__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d223739ee17196d67b041484445bfcb110cd5043f98afa25cff0ff5b4466cc1c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d223739ee17196d67b041484445bfcb110cd5043f98afa25cff0ff5b4466cc1c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/42598/Kingsley__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "42598",
+  "timestamp": "2026-05-24T23:44:08.890670Z",
+  "version": 1
+}

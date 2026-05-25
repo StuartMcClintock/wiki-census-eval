@@ -1,0 +1,16 @@
+{
+  "article": "Garden_City,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/27930/Garden_City__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ffd776775a5513315a2214987fe225547ed0127f11c9a9426d3f77f245eea2fd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ffd776775a5513315a2214987fe225547ed0127f11c9a9426d3f77f245eea2fd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/27930/Garden_City__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "27930",
+  "timestamp": "2026-05-25T00:17:00.642923Z",
+  "version": 1
+}

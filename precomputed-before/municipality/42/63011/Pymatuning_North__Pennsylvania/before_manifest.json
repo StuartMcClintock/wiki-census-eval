@@ -1,0 +1,16 @@
+{
+  "article": "Pymatuning_North,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/63011/Pymatuning_North__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "da126a2bc0e5cd28a90da5806169cba98be0d512aa88992e53df570acbd9cf81",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "da126a2bc0e5cd28a90da5806169cba98be0d512aa88992e53df570acbd9cf81",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/63011/Pymatuning_North__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "63011",
+  "timestamp": "2026-05-25T00:08:34.233897Z",
+  "version": 1
+}

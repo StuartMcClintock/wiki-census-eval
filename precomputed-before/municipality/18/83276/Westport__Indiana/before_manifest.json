@@ -1,0 +1,16 @@
+{
+  "article": "Westport,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/83276/Westport__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5ce74e15ca6d5a3e4e566d47337de6972d32ff95c7b04db59fd075e2d768f2cb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5ce74e15ca6d5a3e4e566d47337de6972d32ff95c7b04db59fd075e2d768f2cb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/83276/Westport__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "83276",
+  "timestamp": "2026-05-24T23:40:18.994650Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "West_Middletown,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/83504/West_Middletown__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c0f9087b54b4ade0d0c2fa8f7ecf170565c19eb1563b37820c84d22337bbc709",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c0f9087b54b4ade0d0c2fa8f7ecf170565c19eb1563b37820c84d22337bbc709",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/83504/West_Middletown__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "83504",
+  "timestamp": "2026-05-25T00:09:28.837590Z",
+  "version": 1
+}

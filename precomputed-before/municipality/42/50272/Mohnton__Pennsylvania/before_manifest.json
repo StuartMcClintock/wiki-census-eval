@@ -1,0 +1,16 @@
+{
+  "article": "Mohnton,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/50272/Mohnton__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6384a1ab90cd84b9355d4ab91b78faa353b6e74b9d6b59e7c44376dd6cec9453",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6384a1ab90cd84b9355d4ab91b78faa353b6e74b9d6b59e7c44376dd6cec9453",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/50272/Mohnton__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "50272",
+  "timestamp": "2026-05-25T00:08:08.045699Z",
+  "version": 1
+}

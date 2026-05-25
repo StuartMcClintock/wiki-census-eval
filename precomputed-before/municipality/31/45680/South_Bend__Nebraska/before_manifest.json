@@ -1,0 +1,16 @@
+{
+  "article": "South_Bend,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/45680/South_Bend__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "41679ffdf73252284cbc5564edd9f0be3bd01c2b318363a1af99fb6895792e6c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "41679ffdf73252284cbc5564edd9f0be3bd01c2b318363a1af99fb6895792e6c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/45680/South_Bend__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "45680",
+  "timestamp": "2026-05-24T23:57:16.765399Z",
+  "version": 1
+}

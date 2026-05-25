@@ -1,0 +1,16 @@
+{
+  "article": "Milligan,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/32200/Milligan__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b722b09e2f1077226e57630dfcc6e58cbd023811be30f0f86b04f26d823692c8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b722b09e2f1077226e57630dfcc6e58cbd023811be30f0f86b04f26d823692c8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/32200/Milligan__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "32200",
+  "timestamp": "2026-05-24T23:55:53.430358Z",
+  "version": 1
+}

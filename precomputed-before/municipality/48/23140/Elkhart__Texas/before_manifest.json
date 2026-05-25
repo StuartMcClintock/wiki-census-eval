@@ -1,0 +1,16 @@
+{
+  "article": "Elkhart,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/23140/Elkhart__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2775e738ab4a67e27a568e9165cf3b553f52c525475557df44c5c9ee1c792db7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2775e738ab4a67e27a568e9165cf3b553f52c525475557df44c5c9ee1c792db7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/23140/Elkhart__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "23140",
+  "timestamp": "2026-05-25T00:15:32.347309Z",
+  "version": 1
+}

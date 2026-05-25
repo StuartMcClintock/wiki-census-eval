@@ -1,0 +1,16 @@
+{
+  "article": "Rocky_Point,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/63940/Rocky_Point__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "003a9621de4ce812b0ab890eaf74e4271f43bb9d4ac99ba3c3d37d3c1ea54ebf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "003a9621de4ce812b0ab890eaf74e4271f43bb9d4ac99ba3c3d37d3c1ea54ebf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/63940/Rocky_Point__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "63940",
+  "timestamp": "2026-05-24T23:54:47.322865Z",
+  "version": 1
+}

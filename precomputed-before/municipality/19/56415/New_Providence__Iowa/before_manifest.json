@@ -1,0 +1,16 @@
+{
+  "article": "New_Providence,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/56415/New_Providence__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d4b4b356ccfdd6528143faced9a368a95f48cb75f7c8fa15f6d4d8c68c7a3ec2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d4b4b356ccfdd6528143faced9a368a95f48cb75f7c8fa15f6d4d8c68c7a3ec2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/56415/New_Providence__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "56415",
+  "timestamp": "2026-05-24T23:41:32.478442Z",
+  "version": 1
+}

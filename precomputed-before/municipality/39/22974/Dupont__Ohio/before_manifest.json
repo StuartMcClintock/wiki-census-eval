@@ -1,0 +1,16 @@
+{
+  "article": "Dupont,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/22974/Dupont__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ac503b343b47798894b15c4b990b5f108a3aaf2720e8289f4d6fb98e488be85f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ac503b343b47798894b15c4b990b5f108a3aaf2720e8289f4d6fb98e488be85f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/22974/Dupont__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "22974",
+  "timestamp": "2026-05-25T00:04:05.775731Z",
+  "version": 1
+}

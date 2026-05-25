@@ -1,0 +1,16 @@
+{
+  "article": "Jolivue,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/41144/Jolivue__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ab2a87780af34c7348244485cb812d03353b655a202e14d7eacd3951be5ce3df",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ab2a87780af34c7348244485cb812d03353b655a202e14d7eacd3951be5ce3df",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/41144/Jolivue__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "41144",
+  "timestamp": "2026-05-25T00:19:19.807593Z",
+  "version": 1
+}

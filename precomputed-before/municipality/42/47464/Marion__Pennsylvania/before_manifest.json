@@ -1,0 +1,16 @@
+{
+  "article": "Marion,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/47464/Marion__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "683d8425e6fcac4e29a6984fbd7c918370d025fa625092d6e03260475050a41b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "683d8425e6fcac4e29a6984fbd7c918370d025fa625092d6e03260475050a41b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/47464/Marion__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "47464",
+  "timestamp": "2026-05-25T00:08:01.679860Z",
+  "version": 1
+}

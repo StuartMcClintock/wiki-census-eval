@@ -1,0 +1,16 @@
+{
+  "article": "Gainesville,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/28768/Gainesville__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "15e9a85f343414f3cd99e0c8914aee044aa4a94bbc0dda56f3882dbc2a78d3c2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "15e9a85f343414f3cd99e0c8914aee044aa4a94bbc0dda56f3882dbc2a78d3c2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/28768/Gainesville__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "28768",
+  "timestamp": "2026-05-24T23:31:56.702515Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Fontenelle,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/27650/Fontenelle__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7d2a346f3e065fb14f716ace6a162aad7da8b5bbf28aaa006cecad297e8e1ad0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7d2a346f3e065fb14f716ace6a162aad7da8b5bbf28aaa006cecad297e8e1ad0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/27650/Fontenelle__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "27650",
+  "timestamp": "2026-05-25T00:23:13.425124Z",
+  "version": 1
+}

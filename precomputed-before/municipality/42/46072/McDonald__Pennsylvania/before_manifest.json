@@ -1,0 +1,16 @@
+{
+  "article": "McDonald,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/46072/McDonald__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8eb91f667dd604246e005d3e9c830aacd954044f89c98c25a5b3e22662aa6a60",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8eb91f667dd604246e005d3e9c830aacd954044f89c98c25a5b3e22662aa6a60",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/46072/McDonald__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "46072",
+  "timestamp": "2026-05-25T00:07:55.683817Z",
+  "version": 1
+}

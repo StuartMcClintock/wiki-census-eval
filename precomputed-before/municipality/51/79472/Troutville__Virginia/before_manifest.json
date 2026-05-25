@@ -1,0 +1,16 @@
+{
+  "article": "Troutville,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/79472/Troutville__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f2d6538e037c12c965562c3838dd48444f4b4bd7b57eade9451a886953330a3c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f2d6538e037c12c965562c3838dd48444f4b4bd7b57eade9451a886953330a3c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/79472/Troutville__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "79472",
+  "timestamp": "2026-05-25T00:19:42.394809Z",
+  "version": 1
+}

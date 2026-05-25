@@ -1,0 +1,16 @@
+{
+  "article": "Myrtlewood,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/53112/Myrtlewood__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6a46c5a08f046b8f6f86b039bb51034754e8b3476cbdc19bf5d12548878598eb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6a46c5a08f046b8f6f86b039bb51034754e8b3476cbdc19bf5d12548878598eb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/53112/Myrtlewood__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "53112",
+  "timestamp": "2026-05-24T23:32:05.318493Z",
+  "version": 1
+}

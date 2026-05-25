@@ -1,0 +1,16 @@
+{
+  "article": "California,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/11872/California__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f25a1bb0f0e9515fd92308b3a17c45380ef60ed1beb5582cd8bd5fafbb0931f8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f25a1bb0f0e9515fd92308b3a17c45380ef60ed1beb5582cd8bd5fafbb0931f8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/11872/California__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "11872",
+  "timestamp": "2026-05-24T23:43:46.303657Z",
+  "version": 1
+}

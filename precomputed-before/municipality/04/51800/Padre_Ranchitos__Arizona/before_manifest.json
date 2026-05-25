@@ -1,0 +1,16 @@
+{
+  "article": "Padre_Ranchitos,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/51800/Padre_Ranchitos__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "60776f1329ae954ac89720a574b6316d7c026501ebfe930e829b21e5cb9d8fd5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "60776f1329ae954ac89720a574b6316d7c026501ebfe930e829b21e5cb9d8fd5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/51800/Padre_Ranchitos__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "51800",
+  "timestamp": "2026-05-24T23:33:05.590214Z",
+  "version": 1
+}

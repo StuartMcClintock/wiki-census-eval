@@ -1,0 +1,16 @@
+{
+  "article": "Ladora,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/42330/Ladora__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f3ac8ffffc50ae74069cc6cc813812794265abdb8645f0fa14aae374a7320f8a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f3ac8ffffc50ae74069cc6cc813812794265abdb8645f0fa14aae374a7320f8a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/42330/Ladora__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "42330",
+  "timestamp": "2026-05-24T23:41:17.008331Z",
+  "version": 1
+}

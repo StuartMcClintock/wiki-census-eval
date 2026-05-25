@@ -1,0 +1,16 @@
+{
+  "article": "Rockfield,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/65358/Rockfield__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "37e81842108720c3de4792e9ef0ca21a6f41379ee2653f7f1f2b65f9d4cee771",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "37e81842108720c3de4792e9ef0ca21a6f41379ee2653f7f1f2b65f9d4cee771",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/65358/Rockfield__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "65358",
+  "timestamp": "2026-05-24T23:40:10.325550Z",
+  "version": 1
+}

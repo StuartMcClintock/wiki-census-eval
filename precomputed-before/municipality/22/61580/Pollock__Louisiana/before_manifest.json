@@ -1,0 +1,16 @@
+{
+  "article": "Pollock,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/61580/Pollock__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e18a5532a5653cc840a6784188d423a49c6b667d51647f376732cc370cf72bc7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e18a5532a5653cc840a6784188d423a49c6b667d51647f376732cc370cf72bc7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/61580/Pollock__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "61580",
+  "timestamp": "2026-05-24T23:45:05.570576Z",
+  "version": 1
+}

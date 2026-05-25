@@ -1,0 +1,16 @@
+{
+  "article": "Epworth,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/27736/Epworth__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f8aa18c0fff13335525838c1140b214d9afb4b3b04047a2a291e1bb34540e485",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f8aa18c0fff13335525838c1140b214d9afb4b3b04047a2a291e1bb34540e485",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/27736/Epworth__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "27736",
+  "timestamp": "2026-05-24T23:36:36.079749Z",
+  "version": 1
+}

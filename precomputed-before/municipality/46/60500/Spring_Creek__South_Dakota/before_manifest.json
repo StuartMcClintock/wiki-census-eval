@@ -1,0 +1,16 @@
+{
+  "article": "Spring_Creek,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/60500/Spring_Creek__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f75681251bfb36d635196ac1ca2b2686e567d0a44e107cecd24d26bfbd5e464a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f75681251bfb36d635196ac1ca2b2686e567d0a44e107cecd24d26bfbd5e464a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/60500/Spring_Creek__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "60500",
+  "timestamp": "2026-05-25T00:12:48.048106Z",
+  "version": 1
+}

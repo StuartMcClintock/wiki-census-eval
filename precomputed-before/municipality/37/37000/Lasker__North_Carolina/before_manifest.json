@@ -1,0 +1,16 @@
+{
+  "article": "Lasker,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/37000/Lasker__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f06e583f55dfc9fea418ee3d56d4466f7f87eb536d6498c714282937d85eab96",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f06e583f55dfc9fea418ee3d56d4466f7f87eb536d6498c714282937d85eab96",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/37000/Lasker__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "37000",
+  "timestamp": "2026-05-25T00:02:06.973940Z",
+  "version": 1
+}

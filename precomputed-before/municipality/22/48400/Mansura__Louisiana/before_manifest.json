@@ -1,0 +1,16 @@
+{
+  "article": "Mansura,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/48400/Mansura__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4d5c8956b181f46301e514ea1ed62eace3b04efef7f8402727ce9c2e0514f079",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4d5c8956b181f46301e514ea1ed62eace3b04efef7f8402727ce9c2e0514f079",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/48400/Mansura__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "48400",
+  "timestamp": "2026-05-24T23:44:55.424943Z",
+  "version": 1
+}

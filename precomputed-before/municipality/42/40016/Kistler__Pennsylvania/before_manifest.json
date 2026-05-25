@@ -1,0 +1,16 @@
+{
+  "article": "Kistler,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/40016/Kistler__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "87070d31077e185c97fe8c01955689dfafba7967cd399e7d7567d27a4285797d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "87070d31077e185c97fe8c01955689dfafba7967cd399e7d7567d27a4285797d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/40016/Kistler__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "40016",
+  "timestamp": "2026-05-25T00:07:45.264886Z",
+  "version": 1
+}

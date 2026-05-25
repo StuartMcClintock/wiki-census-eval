@@ -1,0 +1,16 @@
+{
+  "article": "Pleasanton,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/63570/Pleasanton__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3a7789aa5394e603dac5a12e793fa7b596fd565694e45e9255a1606fab92dc45",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3a7789aa5394e603dac5a12e793fa7b596fd565694e45e9255a1606fab92dc45",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/63570/Pleasanton__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "63570",
+  "timestamp": "2026-05-24T23:41:38.510853Z",
+  "version": 1
+}

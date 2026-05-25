@@ -1,0 +1,16 @@
+{
+  "article": "Avon,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/03207/Avon__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "af4e70b07ed23c1d6fb1af3a2e72f8eb2083d565d9e4986ba6d87a14f9c45d32",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "af4e70b07ed23c1d6fb1af3a2e72f8eb2083d565d9e4986ba6d87a14f9c45d32",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/03207/Avon__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "03207",
+  "timestamp": "2026-05-24T23:37:35.376076Z",
+  "version": 1
+}

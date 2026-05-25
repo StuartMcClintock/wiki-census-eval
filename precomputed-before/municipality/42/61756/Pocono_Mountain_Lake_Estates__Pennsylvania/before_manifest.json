@@ -1,0 +1,16 @@
+{
+  "article": "Pocono_Mountain_Lake_Estates,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/61756/Pocono_Mountain_Lake_Estates__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aecbd96862136ce2eecf2ccb01680e0b832837decd29ab7dcf409b4b72502691",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aecbd96862136ce2eecf2ccb01680e0b832837decd29ab7dcf409b4b72502691",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/61756/Pocono_Mountain_Lake_Estates__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "61756",
+  "timestamp": "2026-05-25T00:08:31.221153Z",
+  "version": 1
+}

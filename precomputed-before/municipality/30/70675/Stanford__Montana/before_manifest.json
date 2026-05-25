@@ -1,0 +1,16 @@
+{
+  "article": "Stanford,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/70675/Stanford__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f27233f0ae0b98f57e3e4b06c830006827fa81ba552bdb4744238e8a43be0dbb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f27233f0ae0b98f57e3e4b06c830006827fa81ba552bdb4744238e8a43be0dbb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/70675/Stanford__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "70675",
+  "timestamp": "2026-05-24T23:54:52.370932Z",
+  "version": 1
+}

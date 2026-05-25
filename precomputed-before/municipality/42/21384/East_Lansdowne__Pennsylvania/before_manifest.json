@@ -1,0 +1,16 @@
+{
+  "article": "East_Lansdowne,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/21384/East_Lansdowne__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "76ef29bb47899abc5f1faac0994dfc8d25b836658bb6136941b4c55d4ef5e29a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "76ef29bb47899abc5f1faac0994dfc8d25b836658bb6136941b4c55d4ef5e29a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/21384/East_Lansdowne__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "21384",
+  "timestamp": "2026-05-25T00:06:56.467263Z",
+  "version": 1
+}

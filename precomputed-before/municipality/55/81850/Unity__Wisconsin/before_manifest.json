@@ -1,0 +1,16 @@
+{
+  "article": "Unity,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/81850/Unity__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7336bf0f30bf290a97efe77b964f269e679de9413ac5594bfbd94746c29f2f47",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7336bf0f30bf290a97efe77b964f269e679de9413ac5594bfbd94746c29f2f47",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/81850/Unity__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "81850",
+  "timestamp": "2026-05-25T00:23:00.650989Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "North_Sultan,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/50183/North_Sultan__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "01be3a291832f353caf7aa5f4cb67d9461c717f826fe2024cb987dc48c307de8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "01be3a291832f353caf7aa5f4cb67d9461c717f826fe2024cb987dc48c307de8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/50183/North_Sultan__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "50183",
+  "timestamp": "2026-05-25T00:20:25.681617Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Odell,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/35735/Odell__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c9590ad7333d8eefb30aec44271f06fb63e2cc0369704502b1036f0e6ec872b9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c9590ad7333d8eefb30aec44271f06fb63e2cc0369704502b1036f0e6ec872b9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/35735/Odell__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "35735",
+  "timestamp": "2026-05-24T23:55:57.194738Z",
+  "version": 1
+}

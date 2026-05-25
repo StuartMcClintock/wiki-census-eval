@@ -1,0 +1,16 @@
+{
+  "article": "Nehawka,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/33740/Nehawka__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "43b8bbf5cbd82ac30278201b8b55d783af4960fa9656f81e829f4e1602b3c76f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "43b8bbf5cbd82ac30278201b8b55d783af4960fa9656f81e829f4e1602b3c76f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/33740/Nehawka__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "33740",
+  "timestamp": "2026-05-24T23:55:54.916175Z",
+  "version": 1
+}

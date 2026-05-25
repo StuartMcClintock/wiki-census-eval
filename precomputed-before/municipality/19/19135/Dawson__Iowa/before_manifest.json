@@ -1,0 +1,16 @@
+{
+  "article": "Dawson,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/19135/Dawson__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a578a212781a1a4655a60c66c61ce9a72ca25f493faf0f474663768c27e601f1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a578a212781a1a4655a60c66c61ce9a72ca25f493faf0f474663768c27e601f1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/19135/Dawson__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "19135",
+  "timestamp": "2026-05-24T23:40:39.413640Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Galisteo,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/27970/Galisteo__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4ac11a7e8cff9b3e2fc2ce56a3e9062e68d4c6d125b07ef4dd083f74db24fb72",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4ac11a7e8cff9b3e2fc2ce56a3e9062e68d4c6d125b07ef4dd083f74db24fb72",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/27970/Galisteo__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "27970",
+  "timestamp": "2026-05-24T23:58:31.235393Z",
+  "version": 1
+}

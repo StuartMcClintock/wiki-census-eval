@@ -1,0 +1,16 @@
+{
+  "article": "Centre_Hall,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/12376/Centre_Hall__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fd68cf261a751c8a4a6604627cef1d91f41d0f64d15bd85e80341feda743292f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fd68cf261a751c8a4a6604627cef1d91f41d0f64d15bd85e80341feda743292f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/12376/Centre_Hall__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "12376",
+  "timestamp": "2026-05-25T00:06:38.956388Z",
+  "version": 1
+}

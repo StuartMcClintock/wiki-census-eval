@@ -1,0 +1,16 @@
+{
+  "article": "Beaverdale,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/04768/Beaverdale__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "43f30a00bd7febb0f9fbffefceabf0e06c112812c88b1b6a307e34efeef47219",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "43f30a00bd7febb0f9fbffefceabf0e06c112812c88b1b6a307e34efeef47219",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/04768/Beaverdale__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "04768",
+  "timestamp": "2026-05-25T00:06:14.040916Z",
+  "version": 1
+}

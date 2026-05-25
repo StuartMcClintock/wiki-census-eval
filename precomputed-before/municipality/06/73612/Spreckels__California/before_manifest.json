@@ -1,0 +1,16 @@
+{
+  "article": "Spreckels,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/73612/Spreckels__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d07f270187415c6806a7152dce545b20a9eb45568d8601321b19f64e1393ac0e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d07f270187415c6806a7152dce545b20a9eb45568d8601321b19f64e1393ac0e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/73612/Spreckels__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "73612",
+  "timestamp": "2026-05-24T23:35:06.805343Z",
+  "version": 1
+}

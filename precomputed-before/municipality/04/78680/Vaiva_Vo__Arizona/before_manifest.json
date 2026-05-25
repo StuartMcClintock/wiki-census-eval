@@ -1,0 +1,16 @@
+{
+  "article": "Vaiva_Vo,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/78680/Vaiva_Vo__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1ce4358888a8a3fe6262c216eb17e34c7e4e9708eeddff627599ff0c5ad4bd8d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1ce4358888a8a3fe6262c216eb17e34c7e4e9708eeddff627599ff0c5ad4bd8d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/78680/Vaiva_Vo__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "78680",
+  "timestamp": "2026-05-24T23:33:13.253198Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Shoshone,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/71680/Shoshone__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f51b0f0b4808a5afc19680a62bb002c8713dfbe4250bde4c5f9c427dd772d9c3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f51b0f0b4808a5afc19680a62bb002c8713dfbe4250bde4c5f9c427dd772d9c3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/71680/Shoshone__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "71680",
+  "timestamp": "2026-05-24T23:35:05.239552Z",
+  "version": 1
+}

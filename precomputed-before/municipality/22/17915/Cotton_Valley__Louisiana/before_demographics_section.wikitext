@@ -1,0 +1,46 @@
+==Demographics==
+{{US Census population
+|align=left
+|1930= 1133
+|1950= 1188
+|1960= 1145
+|1970= 1261
+|1980= 1445
+|1990= 1130
+|2000= 1189
+|2010= 1009
+|2020= 787
+|estyear=2024
+|estimate=747
+|estref=<ref>{{cite web |title=City and Town Population Totals: 2020-2024 |url=https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html |publisher=United States Census Bureau |access-date=9 August 2025}}</ref> {{decrease}}
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|access-date=June 4, 2015}}</ref>
+}}
+
+{| class="wikitable" style="text-align:right"
+|+Cotton Valley racial composition as of 2020<ref>{{Cite web|title=Explore Census Data|url=https://data.census.gov/cedsci/table?g=1600000US2217915&tid=DECENNIALPL2020.P2|access-date=December 29, 2021|website=data.census.gov}}</ref>
+!scope="col"| Race
+!scope="col"| Number
+!scope="col"| Percentage
+|-
+!scope="row"| [[White (U.S. Census)|White]] (non-Hispanic)
+| 380
+| 48.28%
+|-
+!scope="row"| [[African American (U.S. Census)|Black or African American]] (non-Hispanic)
+| 362
+| 46.0%
+|-
+!scope="row"| [[Native American (U.S. Census)|Native American]]
+| 15
+| 1.91%
+|-
+!scope="row"| [[Race (United States Census)|Other/Mixed]]
+| 18
+| 2.29%
+|-
+!scope="row"| [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]]
+| 12
+| 1.52%
+|}
+As of the [[2020 United States census]], there were 787 people, 444 households, and 289 families residing in the town.
+

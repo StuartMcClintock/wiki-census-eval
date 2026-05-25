@@ -1,0 +1,16 @@
+{
+  "article": "Gem_Lake,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/23318/Gem_Lake__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4fa0cf9539942f6338605898775439ac0a17b0f4e1154fa45f8ca1dab895a0bc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4fa0cf9539942f6338605898775439ac0a17b0f4e1154fa45f8ca1dab895a0bc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/23318/Gem_Lake__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "23318",
+  "timestamp": "2026-05-24T23:49:01.956391Z",
+  "version": 1
+}

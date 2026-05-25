@@ -1,0 +1,16 @@
+{
+  "article": "Wausau,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/75450/Wausau__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b5a28574aeca53bd46c70a0320293f87f8e7e9595f2de2632dad5330938e48c1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b5a28574aeca53bd46c70a0320293f87f8e7e9595f2de2632dad5330938e48c1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/75450/Wausau__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "75450",
+  "timestamp": "2026-05-24T23:36:24.276948Z",
+  "version": 1
+}

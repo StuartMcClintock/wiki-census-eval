@@ -1,0 +1,16 @@
+{
+  "article": "Ness_City,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/49925/Ness_City__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "baf86eb7d92fa57b2bdd34dbeeb9c906cc35f2f931970a85df6ebb3a65624d87",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "baf86eb7d92fa57b2bdd34dbeeb9c906cc35f2f931970a85df6ebb3a65624d87",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/49925/Ness_City__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "49925",
+  "timestamp": "2026-05-24T23:43:13.653536Z",
+  "version": 1
+}

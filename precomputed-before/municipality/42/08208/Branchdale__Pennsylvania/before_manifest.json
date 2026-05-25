@@ -1,0 +1,16 @@
+{
+  "article": "Branchdale,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/08208/Branchdale__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b9593ea751ad1cd7f26e3fe6bd0cfad9f8dde9485dd46877ef5708477818f1d2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b9593ea751ad1cd7f26e3fe6bd0cfad9f8dde9485dd46877ef5708477818f1d2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/08208/Branchdale__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "08208",
+  "timestamp": "2026-05-25T00:06:20.504824Z",
+  "version": 1
+}

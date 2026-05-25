@@ -1,0 +1,16 @@
+{
+  "article": "Salt_Creek,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/67445/Salt_Creek__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "514446f41c5f4cb1ab6a02957deb120ef5c28ab1c3d266438869ac55829e9f23",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "514446f41c5f4cb1ab6a02957deb120ef5c28ab1c3d266438869ac55829e9f23",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/67445/Salt_Creek__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "67445",
+  "timestamp": "2026-05-24T23:35:39.466742Z",
+  "version": 1
+}

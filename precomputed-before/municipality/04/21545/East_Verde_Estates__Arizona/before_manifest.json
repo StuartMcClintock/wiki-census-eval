@@ -1,0 +1,16 @@
+{
+  "article": "East_Verde_Estates,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/21545/East_Verde_Estates__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a1dea176e7d331524cfe9b9a2024b09377081d2ada51726bcbd860b2f2aef9f0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a1dea176e7d331524cfe9b9a2024b09377081d2ada51726bcbd860b2f2aef9f0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/21545/East_Verde_Estates__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "21545",
+  "timestamp": "2026-05-24T23:32:53.408909Z",
+  "version": 1
+}

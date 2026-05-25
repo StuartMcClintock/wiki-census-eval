@@ -1,0 +1,16 @@
+{
+  "article": "Richland,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/64560/Richland__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b8110bcc7d54b9efdb11e031460f19dd7afbd5c95a117acbb30908fd060b2447",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b8110bcc7d54b9efdb11e031460f19dd7afbd5c95a117acbb30908fd060b2447",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/64560/Richland__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "64560",
+  "timestamp": "2026-05-25T00:08:49.727473Z",
+  "version": 1
+}

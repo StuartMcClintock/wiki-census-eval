@@ -1,0 +1,16 @@
+{
+  "article": "Roberdel,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/57039/Roberdel__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5575c0d866cf8d91743862c2c89188bbaded453f7d2fe4dcf7055b856c9eb881",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5575c0d866cf8d91743862c2c89188bbaded453f7d2fe4dcf7055b856c9eb881",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/57039/Roberdel__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "57039",
+  "timestamp": "2026-05-25T00:02:19.077934Z",
+  "version": 1
+}

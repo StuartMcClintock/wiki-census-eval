@@ -1,0 +1,16 @@
+{
+  "article": "Whipholt,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/69880/Whipholt__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "328882e5b857ab35bbc40c08d3146a6af8afa6fc079fdcdc458165b56a021355",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "328882e5b857ab35bbc40c08d3146a6af8afa6fc079fdcdc458165b56a021355",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/69880/Whipholt__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "69880",
+  "timestamp": "2026-05-24T23:49:54.191381Z",
+  "version": 1
+}

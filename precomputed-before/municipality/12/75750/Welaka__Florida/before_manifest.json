@@ -1,0 +1,16 @@
+{
+  "article": "Welaka,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/75750/Welaka__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4dc1162d01a66bc3200df34fd91ea1f3da1233bed24fff93f0eb5b4b0a5cfbf5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4dc1162d01a66bc3200df34fd91ea1f3da1233bed24fff93f0eb5b4b0a5cfbf5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/75750/Welaka__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "75750",
+  "timestamp": "2026-05-24T23:36:24.699590Z",
+  "version": 1
+}

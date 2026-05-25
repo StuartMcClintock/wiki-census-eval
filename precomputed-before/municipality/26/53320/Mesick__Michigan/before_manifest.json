@@ -1,0 +1,16 @@
+{
+  "article": "Mesick,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/53320/Mesick__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "29a51abb370f5f1b197d023c6f71772d48ca0aa43ee5330ed3cd5ae8694c3775",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "29a51abb370f5f1b197d023c6f71772d48ca0aa43ee5330ed3cd5ae8694c3775",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/53320/Mesick__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "53320",
+  "timestamp": "2026-05-24T23:48:06.445492Z",
+  "version": 1
+}

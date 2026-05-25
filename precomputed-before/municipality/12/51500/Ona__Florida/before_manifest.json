@@ -1,0 +1,16 @@
+{
+  "article": "Ona,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/51500/Ona__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9d082bd7658267a167bf1dc3b7159dcc24295b7645050bd91a886f71e84054cc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9d082bd7658267a167bf1dc3b7159dcc24295b7645050bd91a886f71e84054cc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/51500/Ona__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "51500",
+  "timestamp": "2026-05-24T23:36:19.835798Z",
+  "version": 1
+}

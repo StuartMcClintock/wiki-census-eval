@@ -1,0 +1,16 @@
+{
+  "article": "Ewing,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/24673/Ewing__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9810cf955a2deea1c5a702a58e27bc914b50ed5e33f1389f61cb0433c497fe0b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9810cf955a2deea1c5a702a58e27bc914b50ed5e33f1389f61cb0433c497fe0b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/24673/Ewing__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "24673",
+  "timestamp": "2026-05-24T23:38:11.591903Z",
+  "version": 1
+}

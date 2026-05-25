@@ -1,0 +1,16 @@
+{
+  "article": "Pandora,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/59738/Pandora__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "648dd8304139c34d87b0715fe4fe352f0e155af0bee304099f844e33d26c7fc4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "648dd8304139c34d87b0715fe4fe352f0e155af0bee304099f844e33d26c7fc4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/59738/Pandora__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "59738",
+  "timestamp": "2026-05-25T00:05:04.002874Z",
+  "version": 1
+}

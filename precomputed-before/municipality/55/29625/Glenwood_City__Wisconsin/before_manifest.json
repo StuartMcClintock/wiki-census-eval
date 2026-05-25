@@ -1,0 +1,16 @@
+{
+  "article": "Glenwood_City,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/29625/Glenwood_City__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "248484fe3102baa222577f6bb9e14ec7bd89bba00293713c4d36bf60c0ccfdf5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "248484fe3102baa222577f6bb9e14ec7bd89bba00293713c4d36bf60c0ccfdf5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/29625/Glenwood_City__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "29625",
+  "timestamp": "2026-05-25T00:22:09.106055Z",
+  "version": 1
+}

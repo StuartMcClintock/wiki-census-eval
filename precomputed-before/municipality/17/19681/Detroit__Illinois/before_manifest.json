@@ -1,0 +1,16 @@
+{
+  "article": "Detroit,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/19681/Detroit__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "90bf161a47521534b10ccc618487a2247b37540fd72df5d1a9b3ce65eb9369a0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "90bf161a47521534b10ccc618487a2247b37540fd72df5d1a9b3ce65eb9369a0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/19681/Detroit__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "19681",
+  "timestamp": "2026-05-24T23:38:06.434607Z",
+  "version": 1
+}

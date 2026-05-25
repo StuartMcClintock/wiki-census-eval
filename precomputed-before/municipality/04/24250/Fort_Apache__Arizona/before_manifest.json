@@ -1,0 +1,16 @@
+{
+  "article": "Fort_Apache,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/24250/Fort_Apache__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "297f01930bc3a14301eca7e3e6259afefa7a38e2dea75d078c28188b0b820df2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "297f01930bc3a14301eca7e3e6259afefa7a38e2dea75d078c28188b0b820df2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/24250/Fort_Apache__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "24250",
+  "timestamp": "2026-05-24T23:32:54.395998Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Bellmont,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/04936/Bellmont__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "664e8bd2307196d21d92876e5ae71fee93dad1bff8a696f2c25da09de59de9c7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "664e8bd2307196d21d92876e5ae71fee93dad1bff8a696f2c25da09de59de9c7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/04936/Bellmont__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "04936",
+  "timestamp": "2026-05-24T23:37:37.912236Z",
+  "version": 1
+}

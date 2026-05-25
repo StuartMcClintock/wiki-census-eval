@@ -1,0 +1,16 @@
+{
+  "article": "Niland,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/51392/Niland__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bbf98eab687b0d68479d9f806d36f912ed8f2de5c1cedcbe4abee4aa54c9840e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bbf98eab687b0d68479d9f806d36f912ed8f2de5c1cedcbe4abee4aa54c9840e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/51392/Niland__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "51392",
+  "timestamp": "2026-05-24T23:34:42.860531Z",
+  "version": 1
+}

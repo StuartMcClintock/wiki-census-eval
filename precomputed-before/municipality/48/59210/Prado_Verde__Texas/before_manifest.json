@@ -1,0 +1,16 @@
+{
+  "article": "Prado_Verde,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/59210/Prado_Verde__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "afae49e1f43099050a05b00f44ef5f71b19b6d5f88cf8c4b9d2c996b88bd6b76",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "afae49e1f43099050a05b00f44ef5f71b19b6d5f88cf8c4b9d2c996b88bd6b76",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/59210/Prado_Verde__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "59210",
+  "timestamp": "2026-05-25T00:16:13.755584Z",
+  "version": 1
+}

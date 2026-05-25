@@ -1,0 +1,16 @@
+{
+  "article": "Manhattan_Beach,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/39806/Manhattan_Beach__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ea3e5be8f56c2c53d6f807bf138cef41ce344a7ca2ad727b4ca12db6e6c6f6e9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ea3e5be8f56c2c53d6f807bf138cef41ce344a7ca2ad727b4ca12db6e6c6f6e9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/39806/Manhattan_Beach__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "39806",
+  "timestamp": "2026-05-24T23:49:18.563928Z",
+  "version": 1
+}

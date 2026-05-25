@@ -1,0 +1,16 @@
+{
+  "article": "Churdan,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/13350/Churdan__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "01334e0d944181bf51f02dee825657793b5479be1d2120382d7e0afd78d6bdcb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "01334e0d944181bf51f02dee825657793b5479be1d2120382d7e0afd78d6bdcb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/13350/Churdan__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "13350",
+  "timestamp": "2026-05-24T23:40:34.255255Z",
+  "version": 1
+}

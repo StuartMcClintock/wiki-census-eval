@@ -1,0 +1,16 @@
+{
+  "article": "Dix,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/13190/Dix__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2646b1bc9f5ecf98358deb16eff310df231e870634c297d370d938971ada4446",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2646b1bc9f5ecf98358deb16eff310df231e870634c297d370d938971ada4446",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/13190/Dix__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "13190",
+  "timestamp": "2026-05-24T23:55:22.684449Z",
+  "version": 1
+}

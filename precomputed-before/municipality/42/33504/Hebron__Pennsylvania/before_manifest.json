@@ -1,0 +1,16 @@
+{
+  "article": "Hebron,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/33504/Hebron__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2c2295287ff2d0fb548d1a47bc6e71d206b021d562776ed0df40d3e2f8b44a03",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2c2295287ff2d0fb548d1a47bc6e71d206b021d562776ed0df40d3e2f8b44a03",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/33504/Hebron__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "33504",
+  "timestamp": "2026-05-25T00:07:24.001549Z",
+  "version": 1
+}

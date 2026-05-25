@@ -1,0 +1,16 @@
+{
+  "article": "Tohatchi,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/78440/Tohatchi__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5886664dd6bf4a30c1a510d405552858a81cbd18fc64ed2a3bbc9d1fceb6c1fe",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5886664dd6bf4a30c1a510d405552858a81cbd18fc64ed2a3bbc9d1fceb6c1fe",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/78440/Tohatchi__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "78440",
+  "timestamp": "2026-05-24T23:59:09.203995Z",
+  "version": 1
+}

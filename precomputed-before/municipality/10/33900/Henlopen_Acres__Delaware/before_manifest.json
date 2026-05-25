@@ -1,0 +1,16 @@
+{
+  "article": "Henlopen_Acres,_Delaware",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/10/33900/Henlopen_Acres__Delaware/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2b3f668a0b7c671ec326c399a8e0aea7e40f1e8eebe9fc980a5ec3a30e34046d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2b3f668a0b7c671ec326c399a8e0aea7e40f1e8eebe9fc980a5ec3a30e34046d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/10/33900/Henlopen_Acres__Delaware/manifest.json",
+  "state_fips": "10",
+  "status": "match",
+  "target_fips": "33900",
+  "timestamp": "2026-05-24T23:36:04.716991Z",
+  "version": 1
+}

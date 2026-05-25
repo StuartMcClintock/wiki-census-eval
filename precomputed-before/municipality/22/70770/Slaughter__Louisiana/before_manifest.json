@@ -1,0 +1,16 @@
+{
+  "article": "Slaughter,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/70770/Slaughter__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6dd038103d9cb9f374d2b4a20235b50e4dc156317ebed8acba293402003caaea",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6dd038103d9cb9f374d2b4a20235b50e4dc156317ebed8acba293402003caaea",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/70770/Slaughter__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "70770",
+  "timestamp": "2026-05-24T23:45:09.155355Z",
+  "version": 1
+}

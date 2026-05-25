@@ -1,0 +1,16 @@
+{
+  "article": "Meadowood,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/48336/Meadowood__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ac6228f8ba723ce413551862a9da95ad16b3de9aaac7acae617de2e28c716909",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ac6228f8ba723ce413551862a9da95ad16b3de9aaac7acae617de2e28c716909",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/48336/Meadowood__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "48336",
+  "timestamp": "2026-05-25T00:08:03.675676Z",
+  "version": 1
+}

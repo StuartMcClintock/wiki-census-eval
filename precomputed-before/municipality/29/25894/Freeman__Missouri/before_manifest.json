@@ -1,0 +1,16 @@
+{
+  "article": "Freeman,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/25894/Freeman__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6f88b92ef9079429a8b77769801b107be5fe03c2f7ebbc7ab6515b77dfca4320",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6f88b92ef9079429a8b77769801b107be5fe03c2f7ebbc7ab6515b77dfca4320",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/25894/Freeman__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "25894",
+  "timestamp": "2026-05-24T23:51:10.791529Z",
+  "version": 1
+}

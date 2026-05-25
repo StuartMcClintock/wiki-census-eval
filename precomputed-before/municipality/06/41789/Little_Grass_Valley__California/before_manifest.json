@@ -1,0 +1,16 @@
+{
+  "article": "Little_Grass_Valley,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/41789/Little_Grass_Valley__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b7070a9239e3259c8ec61a6882767c5763277726a035b95847b303dd52d9f411",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b7070a9239e3259c8ec61a6882767c5763277726a035b95847b303dd52d9f411",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/41789/Little_Grass_Valley__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "41789",
+  "timestamp": "2026-05-24T23:34:34.751162Z",
+  "version": 1
+}

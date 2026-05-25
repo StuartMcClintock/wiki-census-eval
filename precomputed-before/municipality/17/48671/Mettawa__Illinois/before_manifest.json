@@ -1,0 +1,16 @@
+{
+  "article": "Mettawa,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/48671/Mettawa__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6406cefd52540bc5306cc5e05dd4be0ed30979b1fb9d08177bb5280a86881bd5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6406cefd52540bc5306cc5e05dd4be0ed30979b1fb9d08177bb5280a86881bd5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/48671/Mettawa__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "48671",
+  "timestamp": "2026-05-24T23:38:35.292505Z",
+  "version": 1
+}

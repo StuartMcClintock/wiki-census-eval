@@ -1,0 +1,16 @@
+{
+  "article": "Chelan_Falls,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/11685/Chelan_Falls__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b8c18a77311ee87b470b60ef0c17051547b75068e6f3e7530ee80a0aa36e1afe",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b8c18a77311ee87b470b60ef0c17051547b75068e6f3e7530ee80a0aa36e1afe",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/11685/Chelan_Falls__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "11685",
+  "timestamp": "2026-05-25T00:20:05.639468Z",
+  "version": 1
+}

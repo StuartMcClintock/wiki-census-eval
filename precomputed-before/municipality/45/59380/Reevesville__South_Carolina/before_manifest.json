@@ -1,0 +1,16 @@
+{
+  "article": "Reevesville,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/59380/Reevesville__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "953a86a728b8a16da3b7d7e7d6d1c2d16bac75f02fd69703fb5ab5fc2c612c09",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "953a86a728b8a16da3b7d7e7d6d1c2d16bac75f02fd69703fb5ab5fc2c612c09",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/59380/Reevesville__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "59380",
+  "timestamp": "2026-05-25T00:10:18.737099Z",
+  "version": 1
+}

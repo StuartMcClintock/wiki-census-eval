@@ -1,0 +1,16 @@
+{
+  "article": "Climax,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/14275/Climax__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a9d7490237b842ce02b2a7bc49b279b14a888d75e9137c05be59ffdd986c7443",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a9d7490237b842ce02b2a7bc49b279b14a888d75e9137c05be59ffdd986c7443",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/14275/Climax__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "14275",
+  "timestamp": "2026-05-24T23:42:28.630864Z",
+  "version": 1
+}

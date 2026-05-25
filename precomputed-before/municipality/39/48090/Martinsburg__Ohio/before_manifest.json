@@ -1,0 +1,16 @@
+{
+  "article": "Martinsburg,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/48090/Martinsburg__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "afa7452a03a5f0af38d6554f10664beceb63cca103cc16811035584939b4618a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "afa7452a03a5f0af38d6554f10664beceb63cca103cc16811035584939b4618a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/48090/Martinsburg__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "48090",
+  "timestamp": "2026-05-25T00:04:43.862066Z",
+  "version": 1
+}

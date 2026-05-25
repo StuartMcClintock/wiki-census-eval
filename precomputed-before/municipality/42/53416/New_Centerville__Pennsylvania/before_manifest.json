@@ -1,0 +1,16 @@
+{
+  "article": "New_Centerville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/53416/New_Centerville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "42980cbddc0deeccb2828c960b49211e83bb6a9c20c2c8ac752344bdfe9d9407",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "42980cbddc0deeccb2828c960b49211e83bb6a9c20c2c8ac752344bdfe9d9407",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/53416/New_Centerville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "53416",
+  "timestamp": "2026-05-25T00:08:15.141976Z",
+  "version": 1
+}

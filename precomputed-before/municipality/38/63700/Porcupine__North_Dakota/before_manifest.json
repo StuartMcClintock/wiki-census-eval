@@ -1,0 +1,16 @@
+{
+  "article": "Porcupine,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/63700/Porcupine__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "75ae75bf3085e0530283faa93c684f92e883f791c06840bdae954da81b973c9e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "75ae75bf3085e0530283faa93c684f92e883f791c06840bdae954da81b973c9e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/63700/Porcupine__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "63700",
+  "timestamp": "2026-05-25T00:03:17.558294Z",
+  "version": 1
+}

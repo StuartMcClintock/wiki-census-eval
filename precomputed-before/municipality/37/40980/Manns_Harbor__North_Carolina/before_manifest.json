@@ -1,0 +1,16 @@
+{
+  "article": "Manns_Harbor,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/40980/Manns_Harbor__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1a0fa5dfc54d7831d366d00fe313f14f572fb041941bec7fc790b9d92e52ab09",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1a0fa5dfc54d7831d366d00fe313f14f572fb041941bec7fc790b9d92e52ab09",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/40980/Manns_Harbor__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "40980",
+  "timestamp": "2026-05-25T00:02:09.828727Z",
+  "version": 1
+}

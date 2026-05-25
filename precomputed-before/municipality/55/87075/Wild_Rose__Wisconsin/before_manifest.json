@@ -1,0 +1,16 @@
+{
+  "article": "Wild_Rose,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/87075/Wild_Rose__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ea6a7be1c321699f2e0fdee92f08cf2a8651bda92b1cfe9992646238d0c5ec69",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ea6a7be1c321699f2e0fdee92f08cf2a8651bda92b1cfe9992646238d0c5ec69",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/87075/Wild_Rose__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "87075",
+  "timestamp": "2026-05-25T00:23:03.978230Z",
+  "version": 1
+}

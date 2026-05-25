@@ -1,0 +1,16 @@
+{
+  "article": "West_Hurley,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/80291/West_Hurley__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1afda0b17e52fbcb4625c13e77400d21300f9a7cb78bc2e4e0b016dbc089bba1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1afda0b17e52fbcb4625c13e77400d21300f9a7cb78bc2e4e0b016dbc089bba1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/80291/West_Hurley__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "80291",
+  "timestamp": "2026-05-25T00:01:25.864875Z",
+  "version": 1
+}

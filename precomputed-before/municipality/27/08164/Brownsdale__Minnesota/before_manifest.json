@@ -1,0 +1,16 @@
+{
+  "article": "Brownsdale,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/08164/Brownsdale__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "60f47e124e2e9f894606b0c473e03dd5c81bb0791902c98fad305b721788ca37",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "60f47e124e2e9f894606b0c473e03dd5c81bb0791902c98fad305b721788ca37",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/08164/Brownsdale__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "08164",
+  "timestamp": "2026-05-24T23:48:42.105325Z",
+  "version": 1
+}

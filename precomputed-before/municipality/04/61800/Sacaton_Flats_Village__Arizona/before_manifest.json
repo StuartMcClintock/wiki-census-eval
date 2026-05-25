@@ -1,0 +1,16 @@
+{
+  "article": "Sacaton_Flats_Village,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/61800/Sacaton_Flats_Village__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "817210d0bf6008b57a6bc64551d7f99924fc15d921c74105fe7f698bb54f2426",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "817210d0bf6008b57a6bc64551d7f99924fc15d921c74105fe7f698bb54f2426",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/61800/Sacaton_Flats_Village__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "61800",
+  "timestamp": "2026-05-24T23:33:08.168243Z",
+  "version": 1
+}

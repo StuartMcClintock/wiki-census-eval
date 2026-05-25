@@ -1,0 +1,16 @@
+{
+  "article": "Banner_Elk,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/03500/Banner_Elk__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "05d408fa7c4b2ed84a653407ebc88544804904e369754eeab8aac2e5d097b2dc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "05d408fa7c4b2ed84a653407ebc88544804904e369754eeab8aac2e5d097b2dc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/03500/Banner_Elk__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "03500",
+  "timestamp": "2026-05-25T00:01:42.753522Z",
+  "version": 1
+}

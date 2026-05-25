@@ -1,0 +1,16 @@
+{
+  "article": "Nashville,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/49400/Nashville__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "57e42ec4713937b43b13cfae29498e3eb9dc45687211ec0d87b243ce415d0e64",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "57e42ec4713937b43b13cfae29498e3eb9dc45687211ec0d87b243ce415d0e64",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/49400/Nashville__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "49400",
+  "timestamp": "2026-05-24T23:43:12.611613Z",
+  "version": 1
+}

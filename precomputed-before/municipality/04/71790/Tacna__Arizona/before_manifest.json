@@ -1,0 +1,16 @@
+{
+  "article": "Tacna,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/71790/Tacna__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a782866a724f58026132e799474d001b7aca3208a40b162e84f9818fa3c9a226",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a782866a724f58026132e799474d001b7aca3208a40b162e84f9818fa3c9a226",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/71790/Tacna__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "71790",
+  "timestamp": "2026-05-24T23:33:11.371015Z",
+  "version": 1
+}

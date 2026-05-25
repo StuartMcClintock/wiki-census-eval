@@ -1,0 +1,16 @@
+{
+  "article": "Fleming,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/24562/Fleming__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "42b86995b993c2f3f7639ffe06f14174d2b81ad3caa69f7abac002f7286a5906",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "42b86995b993c2f3f7639ffe06f14174d2b81ad3caa69f7abac002f7286a5906",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/24562/Fleming__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "24562",
+  "timestamp": "2026-05-24T23:51:08.812949Z",
+  "version": 1
+}

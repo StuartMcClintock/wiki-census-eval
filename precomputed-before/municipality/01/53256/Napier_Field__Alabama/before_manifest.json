@@ -1,0 +1,16 @@
+{
+  "article": "Napier_Field,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/53256/Napier_Field__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cf4b3ae325466f31f83d4e6d85abbc88fc4f5a90d9e032353a8d3657c31c5707",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cf4b3ae325466f31f83d4e6d85abbc88fc4f5a90d9e032353a8d3657c31c5707",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/53256/Napier_Field__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "53256",
+  "timestamp": "2026-05-24T23:32:05.634548Z",
+  "version": 1
+}

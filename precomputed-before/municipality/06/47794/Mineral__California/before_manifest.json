@@ -1,0 +1,16 @@
+{
+  "article": "Mineral,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/47794/Mineral__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6bbf61d1fff85a52b3b276604d088514568ef8603e1af59e7fc9dd6029bad8cb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6bbf61d1fff85a52b3b276604d088514568ef8603e1af59e7fc9dd6029bad8cb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/47794/Mineral__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "47794",
+  "timestamp": "2026-05-24T23:34:39.442152Z",
+  "version": 1
+}

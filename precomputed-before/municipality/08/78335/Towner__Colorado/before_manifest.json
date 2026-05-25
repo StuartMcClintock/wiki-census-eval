@@ -1,0 +1,16 @@
+{
+  "article": "Towner,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/78335/Towner__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "34b4e680cbd8b085555221af2d15dd8c7574fc5fc00b09704c8c558b36e4faa9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "34b4e680cbd8b085555221af2d15dd8c7574fc5fc00b09704c8c558b36e4faa9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/78335/Towner__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "78335",
+  "timestamp": "2026-05-24T23:35:53.747342Z",
+  "version": 1
+}

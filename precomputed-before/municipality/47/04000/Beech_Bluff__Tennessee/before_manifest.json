@@ -1,0 +1,16 @@
+{
+  "article": "Beech_Bluff,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/04000/Beech_Bluff__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e59f7383f9a07a14534317900a724d2897070b2e951abd4d4240982b699c748a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e59f7383f9a07a14534317900a724d2897070b2e951abd4d4240982b699c748a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/04000/Beech_Bluff__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "04000",
+  "timestamp": "2026-05-25T00:14:30.872004Z",
+  "version": 1
+}

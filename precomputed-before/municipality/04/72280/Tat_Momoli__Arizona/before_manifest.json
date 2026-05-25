@@ -1,0 +1,16 @@
+{
+  "article": "Tat_Momoli,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/72280/Tat_Momoli__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e8607e3ec18a1a2b3c621e60e729e39139f5941c6f8821e7e2b5ac08ba9e6bd6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e8607e3ec18a1a2b3c621e60e729e39139f5941c6f8821e7e2b5ac08ba9e6bd6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/72280/Tat_Momoli__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "72280",
+  "timestamp": "2026-05-24T23:33:11.469594Z",
+  "version": 1
+}

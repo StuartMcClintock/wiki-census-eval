@@ -1,0 +1,16 @@
+{
+  "article": "Fidelity,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/25960/Fidelity__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ae5459c514c276adfd9b23da24a6c910b945d83148fd573dfaeb9f615e09e5b9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ae5459c514c276adfd9b23da24a6c910b945d83148fd573dfaeb9f615e09e5b9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/25960/Fidelity__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "25960",
+  "timestamp": "2026-05-24T23:38:12.745335Z",
+  "version": 1
+}

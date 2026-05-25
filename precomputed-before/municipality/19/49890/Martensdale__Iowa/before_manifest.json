@@ -1,0 +1,16 @@
+{
+  "article": "Martensdale,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/49890/Martensdale__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a874d81203f2d05a503aba33c732e7220941af00850363e6cf45f32364c3fdf1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a874d81203f2d05a503aba33c732e7220941af00850363e6cf45f32364c3fdf1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/49890/Martensdale__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "49890",
+  "timestamp": "2026-05-24T23:41:25.530691Z",
+  "version": 1
+}

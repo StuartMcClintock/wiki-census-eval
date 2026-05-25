@@ -1,0 +1,16 @@
+{
+  "article": "Newburg,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/56020/Newburg__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "be6b6488be78d6f3a8cb94e1c7c0470958ec09393461af761425b66e44f526fe",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "be6b6488be78d6f3a8cb94e1c7c0470958ec09393461af761425b66e44f526fe",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/56020/Newburg__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "56020",
+  "timestamp": "2026-05-25T00:03:14.131888Z",
+  "version": 1
+}

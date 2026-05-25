@@ -1,0 +1,16 @@
+{
+  "article": "Nachusa,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/51544/Nachusa__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dfe378930e2ca56b8c6b10259f712d2e510d880446029f6b7defafa10ccdd0ff",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dfe378930e2ca56b8c6b10259f712d2e510d880446029f6b7defafa10ccdd0ff",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/51544/Nachusa__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "51544",
+  "timestamp": "2026-05-24T23:38:38.240784Z",
+  "version": 1
+}

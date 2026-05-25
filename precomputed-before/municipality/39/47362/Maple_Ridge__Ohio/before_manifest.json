@@ -1,0 +1,16 @@
+{
+  "article": "Maple_Ridge,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/47362/Maple_Ridge__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2f9e18dd440f44af606075217d7ffd633cacb1ba196f463c0f92094e1e4d12de",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2f9e18dd440f44af606075217d7ffd633cacb1ba196f463c0f92094e1e4d12de",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/47362/Maple_Ridge__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "47362",
+  "timestamp": "2026-05-25T00:04:42.708572Z",
+  "version": 1
+}

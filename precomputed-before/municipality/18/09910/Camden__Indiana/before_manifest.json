@@ -1,0 +1,16 @@
+{
+  "article": "Camden,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/09910/Camden__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "34d75d41f55857e88a9cf7ceac2252eaa7e01020bd919552fa56f1fbcc5c602d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "34d75d41f55857e88a9cf7ceac2252eaa7e01020bd919552fa56f1fbcc5c602d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/09910/Camden__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "09910",
+  "timestamp": "2026-05-24T23:39:28.609954Z",
+  "version": 1
+}

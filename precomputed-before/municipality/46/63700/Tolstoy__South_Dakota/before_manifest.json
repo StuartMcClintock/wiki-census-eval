@@ -1,0 +1,16 @@
+{
+  "article": "Tolstoy,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/63700/Tolstoy__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c4c67a69f2cf7a45b1cf9ef00758c58665c7279d44217498f8e46826a66a7422",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c4c67a69f2cf7a45b1cf9ef00758c58665c7279d44217498f8e46826a66a7422",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/63700/Tolstoy__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "63700",
+  "timestamp": "2026-05-25T00:14:25.571103Z",
+  "version": 1
+}

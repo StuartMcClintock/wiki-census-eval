@@ -1,0 +1,16 @@
+{
+  "article": "Hillman,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/38380/Hillman__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ded5685a4d0aa74ac6256fab19a69408a47d0a0eb077ba0e246f5e50ad8827b9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ded5685a4d0aa74ac6256fab19a69408a47d0a0eb077ba0e246f5e50ad8827b9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/38380/Hillman__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "38380",
+  "timestamp": "2026-05-24T23:47:58.996930Z",
+  "version": 1
+}

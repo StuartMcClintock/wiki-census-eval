@@ -1,0 +1,16 @@
+{
+  "article": "Laddonia,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/39602/Laddonia__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4ccd3c7d8475a0b2b5927fcb534b88a7f22236841a94136b923a7d92c52ac24f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4ccd3c7d8475a0b2b5927fcb534b88a7f22236841a94136b923a7d92c52ac24f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/39602/Laddonia__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "39602",
+  "timestamp": "2026-05-24T23:53:24.468068Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Hollowayville,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/35671/Hollowayville__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "891abcc7ad36ff36dab1ce7fd071e5694eadd21501fb1e3d94527a9922d8ff0f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "891abcc7ad36ff36dab1ce7fd071e5694eadd21501fb1e3d94527a9922d8ff0f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/35671/Hollowayville__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "35671",
+  "timestamp": "2026-05-24T23:38:20.792964Z",
+  "version": 1
+}

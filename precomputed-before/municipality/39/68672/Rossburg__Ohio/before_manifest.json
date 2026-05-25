@@ -1,0 +1,16 @@
+{
+  "article": "Rossburg,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/68672/Rossburg__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b73c49c5d58643cf5bfee1d53740bfa14d7108fc81434bee6c966164f8e4e9e0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b73c49c5d58643cf5bfee1d53740bfa14d7108fc81434bee6c966164f8e4e9e0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/68672/Rossburg__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "68672",
+  "timestamp": "2026-05-25T00:05:13.066605Z",
+  "version": 1
+}

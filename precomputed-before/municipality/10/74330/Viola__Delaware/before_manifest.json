@@ -1,0 +1,16 @@
+{
+  "article": "Viola,_Delaware",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/10/74330/Viola__Delaware/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "77d0bbcad6d61669a4b50fd7cb4a1a171a531d882d967e6be873bb82ea676ff9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "77d0bbcad6d61669a4b50fd7cb4a1a171a531d882d967e6be873bb82ea676ff9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/10/74330/Viola__Delaware/manifest.json",
+  "state_fips": "10",
+  "status": "match",
+  "target_fips": "74330",
+  "timestamp": "2026-05-24T23:36:06.011947Z",
+  "version": 1
+}

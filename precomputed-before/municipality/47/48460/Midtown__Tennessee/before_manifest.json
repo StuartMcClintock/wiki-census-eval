@@ -1,0 +1,16 @@
+{
+  "article": "Midtown,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/48460/Midtown__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ddb6fa36853c04d7f26ae421b4cf11202a9cb0ba09a62503a64819db78b07c77",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ddb6fa36853c04d7f26ae421b4cf11202a9cb0ba09a62503a64819db78b07c77",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/48460/Midtown__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "48460",
+  "timestamp": "2026-05-25T00:14:47.073378Z",
+  "version": 1
+}

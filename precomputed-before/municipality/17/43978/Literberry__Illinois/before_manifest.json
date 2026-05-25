@@ -1,0 +1,16 @@
+{
+  "article": "Literberry,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/43978/Literberry__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8ed756a769547c5026352ad9db005b7b933a27f1e0d26aa5a60b035dfe1f7b5b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8ed756a769547c5026352ad9db005b7b933a27f1e0d26aa5a60b035dfe1f7b5b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/43978/Literberry__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "43978",
+  "timestamp": "2026-05-24T23:38:29.337253Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Crestview,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/18424/Crestview__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a2a5aa4885ae1de8705a5ac9f54acc8aa5d3d0a0c6b497ba29a95197b59f5fa2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a2a5aa4885ae1de8705a5ac9f54acc8aa5d3d0a0c6b497ba29a95197b59f5fa2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/18424/Crestview__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "18424",
+  "timestamp": "2026-05-24T23:43:49.676337Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Crandall,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/15634/Crandall__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f946a533ac7afa92a247e4b179c94f1fe78de6b945124d84927106c86a9b9432",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f946a533ac7afa92a247e4b179c94f1fe78de6b945124d84927106c86a9b9432",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/15634/Crandall__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "15634",
+  "timestamp": "2026-05-24T23:39:31.565196Z",
+  "version": 1
+}

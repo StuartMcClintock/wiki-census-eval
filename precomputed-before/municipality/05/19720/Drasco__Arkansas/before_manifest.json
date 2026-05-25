@@ -1,0 +1,16 @@
+{
+  "article": "Drasco,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/19720/Drasco__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a656057f0b0def317b9c32ff5d19c7b971a334767fe18da2a77f21a4cbf959be",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a656057f0b0def317b9c32ff5d19c7b971a334767fe18da2a77f21a4cbf959be",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/19720/Drasco__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "19720",
+  "timestamp": "2026-05-24T23:33:27.841646Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Due_West,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/21040/Due_West__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6c3e32b5274d187076598984b7d6c54834b9f48cc87620a8e4a249a36ca5383f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6c3e32b5274d187076598984b7d6c54834b9f48cc87620a8e4a249a36ca5383f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/21040/Due_West__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "21040",
+  "timestamp": "2026-05-25T00:10:00.710762Z",
+  "version": 1
+}

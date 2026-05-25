@@ -1,0 +1,16 @@
+{
+  "article": "Sawmill,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/64590/Sawmill__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b2831b1ce6b56a742cead17502fae8045352ede9b3093ac3706bb8fb001e4b97",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b2831b1ce6b56a742cead17502fae8045352ede9b3093ac3706bb8fb001e4b97",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/64590/Sawmill__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "64590",
+  "timestamp": "2026-05-24T23:33:08.940786Z",
+  "version": 1
+}

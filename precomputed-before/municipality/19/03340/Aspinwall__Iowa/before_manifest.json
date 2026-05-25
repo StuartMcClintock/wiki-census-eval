@@ -1,0 +1,16 @@
+{
+  "article": "Aspinwall,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/03340/Aspinwall__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fbc8b9865502d970435f8b95dcfc353878fa33a9e4b3de144295b791dcb0d1fc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fbc8b9865502d970435f8b95dcfc353878fa33a9e4b3de144295b791dcb0d1fc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/03340/Aspinwall__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "03340",
+  "timestamp": "2026-05-24T23:40:24.342178Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Triangle,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/79360/Triangle__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d51e73ebfa4118c6e4b08e7f296dafcdba997fa3fd1b3ad2bcb9b6e55452e2dd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d51e73ebfa4118c6e4b08e7f296dafcdba997fa3fd1b3ad2bcb9b6e55452e2dd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/79360/Triangle__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "79360",
+  "timestamp": "2026-05-25T00:19:42.185242Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Marshfield,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/47340/Marshfield__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0c3ffef3987a336eade76025dc56e99f8aef473698847c676b7096d05128cf42",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0c3ffef3987a336eade76025dc56e99f8aef473698847c676b7096d05128cf42",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/47340/Marshfield__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "47340",
+  "timestamp": "2026-05-24T23:40:00.895942Z",
+  "version": 1
+}

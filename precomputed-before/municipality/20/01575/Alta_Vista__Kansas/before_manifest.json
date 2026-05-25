@@ -1,0 +1,16 @@
+{
+  "article": "Alta_Vista,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/01575/Alta_Vista__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d85e0d670cd8b338cc9a830759018649d02f0081dbb982a81ebfe442ed1b1706",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d85e0d670cd8b338cc9a830759018649d02f0081dbb982a81ebfe442ed1b1706",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/01575/Alta_Vista__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "01575",
+  "timestamp": "2026-05-24T23:42:16.139694Z",
+  "version": 1
+}

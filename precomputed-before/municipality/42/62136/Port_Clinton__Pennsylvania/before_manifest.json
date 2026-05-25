@@ -1,0 +1,16 @@
+{
+  "article": "Port_Clinton,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/62136/Port_Clinton__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4d32b308355f5958940b7988c1e4f3b1236c753ed3f39d4dce1669446ca350ed",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4d32b308355f5958940b7988c1e4f3b1236c753ed3f39d4dce1669446ca350ed",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/62136/Port_Clinton__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "62136",
+  "timestamp": "2026-05-25T00:08:32.449247Z",
+  "version": 1
+}

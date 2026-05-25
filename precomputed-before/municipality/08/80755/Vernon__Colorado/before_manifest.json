@@ -1,0 +1,16 @@
+{
+  "article": "Vernon,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/80755/Vernon__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d824d0b45da4f6792ef601e1ce28eb8e5f0de3ba0c6d54e3ca88cd5432db638d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d824d0b45da4f6792ef601e1ce28eb8e5f0de3ba0c6d54e3ca88cd5432db638d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/80755/Vernon__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "80755",
+  "timestamp": "2026-05-24T23:35:54.503696Z",
+  "version": 1
+}

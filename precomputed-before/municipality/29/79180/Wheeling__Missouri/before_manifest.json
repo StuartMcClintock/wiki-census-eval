@@ -1,0 +1,16 @@
+{
+  "article": "Wheeling,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/79180/Wheeling__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0a5e2a59cee33805152544659e080c35f8a1eefe27482f3054dc1fcee302553d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0a5e2a59cee33805152544659e080c35f8a1eefe27482f3054dc1fcee302553d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/79180/Wheeling__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "79180",
+  "timestamp": "2026-05-24T23:54:09.439504Z",
+  "version": 1
+}

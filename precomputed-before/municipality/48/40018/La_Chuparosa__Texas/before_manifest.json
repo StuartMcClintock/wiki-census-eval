@@ -1,0 +1,16 @@
+{
+  "article": "La_Chuparosa,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/40018/La_Chuparosa__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "28a2c2c5159bc101d3bc19123de6a9aba623661a970dd1e965aae44000361969",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "28a2c2c5159bc101d3bc19123de6a9aba623661a970dd1e965aae44000361969",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/40018/La_Chuparosa__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "40018",
+  "timestamp": "2026-05-25T00:15:47.467323Z",
+  "version": 1
+}

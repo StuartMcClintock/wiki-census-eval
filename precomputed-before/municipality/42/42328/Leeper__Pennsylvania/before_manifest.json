@@ -1,0 +1,16 @@
+{
+  "article": "Leeper,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/42328/Leeper__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b38045f7d0807547a63c1b61592e973589a81eba49b6f4a86fdc55ae425a4493",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b38045f7d0807547a63c1b61592e973589a81eba49b6f4a86fdc55ae425a4493",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/42328/Leeper__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "42328",
+  "timestamp": "2026-05-25T00:07:49.837850Z",
+  "version": 1
+}

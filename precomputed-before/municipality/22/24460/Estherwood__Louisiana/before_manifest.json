@@ -1,0 +1,16 @@
+{
+  "article": "Estherwood,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/24460/Estherwood__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5c92eb74fd343b5987b56011beb82473fa872237f93a14377b9f7d34df52f57c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5c92eb74fd343b5987b56011beb82473fa872237f93a14377b9f7d34df52f57c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/24460/Estherwood__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "24460",
+  "timestamp": "2026-05-24T23:44:47.236689Z",
+  "version": 1
+}

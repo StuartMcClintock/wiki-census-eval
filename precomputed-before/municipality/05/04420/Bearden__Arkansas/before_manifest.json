@@ -1,0 +1,16 @@
+{
+  "article": "Bearden,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/04420/Bearden__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8c75e6d63e02d87e01ff9704cb380efcccd398181fd951f56f319f64307cf2ab",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8c75e6d63e02d87e01ff9704cb380efcccd398181fd951f56f319f64307cf2ab",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/04420/Bearden__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "04420",
+  "timestamp": "2026-05-24T23:33:19.663470Z",
+  "version": 1
+}

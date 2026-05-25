@@ -1,0 +1,16 @@
+{
+  "article": "Olivet,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/46900/Olivet__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c6953e98b301ecbb3ff36a3e1c831e8be4bdb1c260a1ba8aa2b8cb9fa244e521",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c6953e98b301ecbb3ff36a3e1c831e8be4bdb1c260a1ba8aa2b8cb9fa244e521",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/46900/Olivet__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "46900",
+  "timestamp": "2026-05-25T00:11:06.972465Z",
+  "version": 1
+}

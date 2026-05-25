@@ -1,0 +1,16 @@
+{
+  "article": "Tooleville,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/78949/Tooleville__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6c832cf4c882b214731c888ee1832c9a18737514794f5baa08cf8cb600395db3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6c832cf4c882b214731c888ee1832c9a18737514794f5baa08cf8cb600395db3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/78949/Tooleville__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "78949",
+  "timestamp": "2026-05-24T23:35:10.079274Z",
+  "version": 1
+}

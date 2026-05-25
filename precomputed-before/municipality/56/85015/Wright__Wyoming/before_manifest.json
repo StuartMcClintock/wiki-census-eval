@@ -1,0 +1,16 @@
+{
+  "article": "Wright,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/85015/Wright__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1e032379304e7e35d317be7095ac4041dd44f2841c9319a1fd6f7ee44a537244",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1e032379304e7e35d317be7095ac4041dd44f2841c9319a1fd6f7ee44a537244",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/85015/Wright__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "85015",
+  "timestamp": "2026-05-25T00:23:26.160419Z",
+  "version": 1
+}

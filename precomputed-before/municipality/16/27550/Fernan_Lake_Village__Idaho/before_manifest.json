@@ -1,0 +1,16 @@
+{
+  "article": "Fernan_Lake_Village,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/27550/Fernan_Lake_Village__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f038d9b95b501d12526bc1885bf0a28b7ee4a80ffec04b1eca80e8959230d51a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f038d9b95b501d12526bc1885bf0a28b7ee4a80ffec04b1eca80e8959230d51a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/27550/Fernan_Lake_Village__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "27550",
+  "timestamp": "2026-05-24T23:37:20.503462Z",
+  "version": 1
+}

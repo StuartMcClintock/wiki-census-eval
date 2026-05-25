@@ -1,0 +1,16 @@
+{
+  "article": "Black_Lick,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/06744/Black_Lick__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d1ec24fa769b475ebd0bde52cd448d6cc3edb96153a7503093bab2504da1f972",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d1ec24fa769b475ebd0bde52cd448d6cc3edb96153a7503093bab2504da1f972",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/06744/Black_Lick__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "06744",
+  "timestamp": "2026-05-25T00:06:17.744946Z",
+  "version": 1
+}

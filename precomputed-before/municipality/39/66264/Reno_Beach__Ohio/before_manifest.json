@@ -1,0 +1,16 @@
+{
+  "article": "Reno_Beach,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/66264/Reno_Beach__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4cf074f423a320e87a85364c4d9ea4802895222935f53176c481906ec12e04ef",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4cf074f423a320e87a85364c4d9ea4802895222935f53176c481906ec12e04ef",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/66264/Reno_Beach__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "66264",
+  "timestamp": "2026-05-25T00:05:10.201507Z",
+  "version": 1
+}

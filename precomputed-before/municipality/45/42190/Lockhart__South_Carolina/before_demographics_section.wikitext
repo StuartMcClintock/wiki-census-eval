@@ -1,0 +1,19 @@
+==Demographics==
+{{US Census population
+|1960= 128
+|1970= 103
+|1980= 85
+|1990= 58
+|2000= 39
+|2010= 488
+|2020= 384
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2015}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A45|title=Census Population API|publisher=United States Census Bureau|accessdate=October 15, 2022}}</ref>
+}}
+As of the [[census]]<ref name="GR2" /> of 2000, there were 39 people, 19 households, and 12 families residing in the town. The population density was {{convert|270.4|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 22 housing units at an average density of {{convert|152.5|/sqmi|/km2|sp=us|adj=off}}. The racial makeup of the town was 82.05% [[White (U.S. Census)|White]] and 17.95% [[African American (U.S. Census)|African American]].
+
+There were 19 households, out of which 21.1% had children under the age of 18 living with them, 47.4% were married couples living together, 21.1% had a female householder with no husband present, and 31.6% were non-families. 31.6% of all households were made up of individuals, and 5.3% had someone living alone who was 65 years of age or older. The average household size was 2.05 and the average family size was 2.54.
+
+In the town, 20.5% of the population was under the age of 18, 5.1% was from 18 to 24, 38.5% from 25 to 44, 23.1% from 45 to 64, and 12.8% was 65 years of age or older. The median age was 42 years. For every 100 females, there were 77.3 males. For every 100 females age 18 and over, there were 55.0 males.
+
+The median income for a household in the town was $24,583, and the median income for a family was $42,500. Males had a median income of $32,500 versus $16,250 for females. The [[per capita income]] for the town was $13,263. There were no families and 9.8% of the population living below the [[poverty line]], including no under eighteens and none of those over 64.
+

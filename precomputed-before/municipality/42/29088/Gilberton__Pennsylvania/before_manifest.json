@@ -1,0 +1,16 @@
+{
+  "article": "Gilberton,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/29088/Gilberton__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4e9fb39dc12752e6ad9e154dbd5382e4883a290bbe254ac25d7c8c5243eb0355",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4e9fb39dc12752e6ad9e154dbd5382e4883a290bbe254ac25d7c8c5243eb0355",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/29088/Gilberton__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "29088",
+  "timestamp": "2026-05-25T00:07:15.551109Z",
+  "version": 1
+}

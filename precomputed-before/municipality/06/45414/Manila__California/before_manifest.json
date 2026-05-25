@@ -1,0 +1,16 @@
+{
+  "article": "Manila,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/45414/Manila__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e97644f81a03a0c5cd1fa253093376670507cdaaac8a4fad950b4af166a30263",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e97644f81a03a0c5cd1fa253093376670507cdaaac8a4fad950b4af166a30263",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/45414/Manila__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "45414",
+  "timestamp": "2026-05-24T23:34:37.562518Z",
+  "version": 1
+}

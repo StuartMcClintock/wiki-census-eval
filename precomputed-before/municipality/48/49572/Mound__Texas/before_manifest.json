@@ -1,0 +1,16 @@
+{
+  "article": "Mound,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/49572/Mound__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d5a18a1fabc2f51b1b954971c3fda843fdb91c5c43f4ea670a2fe6d371994c86",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d5a18a1fabc2f51b1b954971c3fda843fdb91c5c43f4ea670a2fe6d371994c86",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/49572/Mound__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "49572",
+  "timestamp": "2026-05-25T00:16:04.474884Z",
+  "version": 1
+}

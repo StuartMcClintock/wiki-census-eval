@@ -1,0 +1,16 @@
+{
+  "article": "Maytown,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/51042/Maytown__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "396e164aa0a9d23a1ad59909cf13a186647d335e60d3969de3f3abfff25c343c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "396e164aa0a9d23a1ad59909cf13a186647d335e60d3969de3f3abfff25c343c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/51042/Maytown__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "51042",
+  "timestamp": "2026-05-24T23:44:12.038168Z",
+  "version": 1
+}

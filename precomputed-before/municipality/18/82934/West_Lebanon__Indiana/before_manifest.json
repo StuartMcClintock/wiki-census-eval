@@ -1,0 +1,16 @@
+{
+  "article": "West_Lebanon,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/82934/West_Lebanon__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1cfb5c32ae1e2ed03e459d103079c88979ba58a3a0a4ba7b97db9b3b9248099c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1cfb5c32ae1e2ed03e459d103079c88979ba58a3a0a4ba7b97db9b3b9248099c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/82934/West_Lebanon__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "82934",
+  "timestamp": "2026-05-24T23:40:18.579799Z",
+  "version": 1
+}

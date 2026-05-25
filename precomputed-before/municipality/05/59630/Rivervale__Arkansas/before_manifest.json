@@ -1,0 +1,16 @@
+{
+  "article": "Rivervale,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/59630/Rivervale__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6c45b973d6038fe0dac7f4a748a83bfc5743b83de36c098cb3a4f60ba4803d25",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6c45b973d6038fe0dac7f4a748a83bfc5743b83de36c098cb3a4f60ba4803d25",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/59630/Rivervale__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "59630",
+  "timestamp": "2026-05-24T23:34:06.011444Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Pleasant_Hope,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/58448/Pleasant_Hope__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bb872048d82b2c590602c4952f4889c2447968998897cd7c57512ea31886455e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bb872048d82b2c590602c4952f4889c2447968998897cd7c57512ea31886455e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/58448/Pleasant_Hope__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "58448",
+  "timestamp": "2026-05-24T23:53:42.599579Z",
+  "version": 1
+}

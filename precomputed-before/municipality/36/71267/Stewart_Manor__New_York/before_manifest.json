@@ -1,0 +1,16 @@
+{
+  "article": "Stewart_Manor,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/71267/Stewart_Manor__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9d33ed235840f027e94b2e584e3a2c9be457bcf244df66580b6a075e27952dad",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9d33ed235840f027e94b2e584e3a2c9be457bcf244df66580b6a075e27952dad",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/71267/Stewart_Manor__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "71267",
+  "timestamp": "2026-05-25T00:01:18.179883Z",
+  "version": 1
+}

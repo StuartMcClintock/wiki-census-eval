@@ -1,0 +1,16 @@
+{
+  "article": "East_Prospect,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/21728/East_Prospect__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7f1abd6264feb2fc1259742cb9c36be09d65ab9245fc4098e4316c492f77dca2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7f1abd6264feb2fc1259742cb9c36be09d65ab9245fc4098e4316c492f77dca2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/21728/East_Prospect__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "21728",
+  "timestamp": "2026-05-25T00:06:56.758598Z",
+  "version": 1
+}

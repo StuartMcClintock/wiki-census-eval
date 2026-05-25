@@ -1,0 +1,16 @@
+{
+  "article": "Cuyahoga_Heights,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/19806/Cuyahoga_Heights__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bcef8918c7997056cb552c61e9f202e51369b7e18552595413abccf7dfa8b0c2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bcef8918c7997056cb552c61e9f202e51369b7e18552595413abccf7dfa8b0c2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/19806/Cuyahoga_Heights__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "19806",
+  "timestamp": "2026-05-25T00:04:02.768485Z",
+  "version": 1
+}

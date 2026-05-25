@@ -1,0 +1,16 @@
+{
+  "article": "Celeryville,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/12854/Celeryville__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c8834ad0847a85318bc8b70b28fbc634b1c7bafeb787e0e5a4bd317b742f528e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c8834ad0847a85318bc8b70b28fbc634b1c7bafeb787e0e5a4bd317b742f528e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/12854/Celeryville__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "12854",
+  "timestamp": "2026-05-25T00:03:53.113890Z",
+  "version": 1
+}

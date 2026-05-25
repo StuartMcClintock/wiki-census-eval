@@ -1,0 +1,16 @@
+{
+  "article": "Cuney,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/18152/Cuney__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fabf73d7e8cd35a04a358b7504b667baed1161c95ea009cf07ff6b8482bfb726",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fabf73d7e8cd35a04a358b7504b667baed1161c95ea009cf07ff6b8482bfb726",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/18152/Cuney__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "18152",
+  "timestamp": "2026-05-25T00:15:27.890277Z",
+  "version": 1
+}

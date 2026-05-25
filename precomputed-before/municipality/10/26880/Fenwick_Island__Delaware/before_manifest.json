@@ -1,0 +1,16 @@
+{
+  "article": "Fenwick_Island,_Delaware",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/10/26880/Fenwick_Island__Delaware/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "77d8b8ffecd3b76a96990eb10671bd0d05b73a56273cf0af9410a1a310a69341",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "77d8b8ffecd3b76a96990eb10671bd0d05b73a56273cf0af9410a1a310a69341",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/10/26880/Fenwick_Island__Delaware/manifest.json",
+  "state_fips": "10",
+  "status": "match",
+  "target_fips": "26880",
+  "timestamp": "2026-05-24T23:36:04.207791Z",
+  "version": 1
+}

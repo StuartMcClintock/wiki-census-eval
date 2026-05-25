@@ -1,0 +1,16 @@
+{
+  "article": "Black_Eagle,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/07150/Black_Eagle__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2a19692c6b3cd27f883aac62b99d18b52b5a3a45b376dac088baadc73ba5f9ea",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2a19692c6b3cd27f883aac62b99d18b52b5a3a45b376dac088baadc73ba5f9ea",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/07150/Black_Eagle__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "07150",
+  "timestamp": "2026-05-24T23:54:15.436133Z",
+  "version": 1
+}

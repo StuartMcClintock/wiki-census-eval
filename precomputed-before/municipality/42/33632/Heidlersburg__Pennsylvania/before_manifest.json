@@ -1,0 +1,16 @@
+{
+  "article": "Heidlersburg,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/33632/Heidlersburg__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5d435949f1a40dd602eb48311056c2be95df15d448bf65ca560ce3bd876ca105",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5d435949f1a40dd602eb48311056c2be95df15d448bf65ca560ce3bd876ca105",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/33632/Heidlersburg__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "33632",
+  "timestamp": "2026-05-25T00:07:24.476387Z",
+  "version": 1
+}

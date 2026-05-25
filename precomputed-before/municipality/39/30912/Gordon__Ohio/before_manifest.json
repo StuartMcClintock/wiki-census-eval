@@ -1,0 +1,16 @@
+{
+  "article": "Gordon,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/30912/Gordon__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "21c30ddd7492d2be41a9944b70a10703d84a097f6c375df47c7d22d7e56c5231",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "21c30ddd7492d2be41a9944b70a10703d84a097f6c375df47c7d22d7e56c5231",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/30912/Gordon__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "30912",
+  "timestamp": "2026-05-25T00:04:13.234665Z",
+  "version": 1
+}

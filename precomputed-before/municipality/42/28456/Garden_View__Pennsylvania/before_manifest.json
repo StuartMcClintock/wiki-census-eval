@@ -1,0 +1,16 @@
+{
+  "article": "Garden_View,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/28456/Garden_View__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b1797b1d922c5ad7678a2cc0d6234bfb14cdf2211affd0387ad50c97f94f9583",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b1797b1d922c5ad7678a2cc0d6234bfb14cdf2211affd0387ad50c97f94f9583",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/28456/Garden_View__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "28456",
+  "timestamp": "2026-05-25T00:07:14.461672Z",
+  "version": 1
+}

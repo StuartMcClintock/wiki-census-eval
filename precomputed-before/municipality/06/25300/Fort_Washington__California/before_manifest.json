@@ -1,0 +1,16 @@
+{
+  "article": "Fort_Washington,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/25300/Fort_Washington__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f1fcced280d7fc55ec78a94656107d42742374491ce4aca186c23ed56eb6d266",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f1fcced280d7fc55ec78a94656107d42742374491ce4aca186c23ed56eb6d266",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/25300/Fort_Washington__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "25300",
+  "timestamp": "2026-05-24T23:34:23.899274Z",
+  "version": 1
+}

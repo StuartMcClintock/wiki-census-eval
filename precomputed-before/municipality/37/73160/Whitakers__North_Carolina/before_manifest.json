@@ -1,0 +1,16 @@
+{
+  "article": "Whitakers,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/73160/Whitakers__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "306b91fdd37b6e50c0a5e6df5b54d488cb2843cef0f49284cf02190369680ea3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "306b91fdd37b6e50c0a5e6df5b54d488cb2843cef0f49284cf02190369680ea3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/73160/Whitakers__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "73160",
+  "timestamp": "2026-05-25T00:02:29.575517Z",
+  "version": 1
+}

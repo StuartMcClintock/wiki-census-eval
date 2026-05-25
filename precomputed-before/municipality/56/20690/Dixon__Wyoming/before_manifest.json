@@ -1,0 +1,16 @@
+{
+  "article": "Dixon,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/20690/Dixon__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "717b148995288e06ad4b5186813b180354409bb04d4530cdb6ea23a94cb8bc17",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "717b148995288e06ad4b5186813b180354409bb04d4530cdb6ea23a94cb8bc17",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/20690/Dixon__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "20690",
+  "timestamp": "2026-05-25T00:23:11.921815Z",
+  "version": 1
+}

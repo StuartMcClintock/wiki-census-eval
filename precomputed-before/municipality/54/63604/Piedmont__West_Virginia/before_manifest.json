@@ -1,0 +1,16 @@
+{
+  "article": "Piedmont,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/63604/Piedmont__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1b51b282b6a2264ec3f7f44067ea6740640d33ce4ccf1397aadbb3a136d688d7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1b51b282b6a2264ec3f7f44067ea6740640d33ce4ccf1397aadbb3a136d688d7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/63604/Piedmont__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "63604",
+  "timestamp": "2026-05-25T00:21:20.943762Z",
+  "version": 1
+}

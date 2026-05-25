@@ -1,0 +1,16 @@
+{
+  "article": "Rutherford,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/66864/Rutherford__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "965c68478e053a8a3bbc9a345fa5682be72cf9c6c2f89c9ad331faf7b3e7013f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "965c68478e053a8a3bbc9a345fa5682be72cf9c6c2f89c9ad331faf7b3e7013f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/66864/Rutherford__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "66864",
+  "timestamp": "2026-05-25T00:08:54.860215Z",
+  "version": 1
+}

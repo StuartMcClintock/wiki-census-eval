@@ -1,0 +1,16 @@
+{
+  "article": "Bluffton,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/08956/Bluffton__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "67312b345c426baef858fc835e1cd4c2f5773c461246c89d4363be4d51da5517",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "67312b345c426baef858fc835e1cd4c2f5773c461246c89d4363be4d51da5517",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/08956/Bluffton__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "08956",
+  "timestamp": "2026-05-24T23:36:28.920961Z",
+  "version": 1
+}

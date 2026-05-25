@@ -1,0 +1,16 @@
+{
+  "article": "Navarre,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/49525/Navarre__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "313d2101dbb1abebc8a0fedf38f3ee1cdcae21cba7a476bd184ced200f1eb4b8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "313d2101dbb1abebc8a0fedf38f3ee1cdcae21cba7a476bd184ced200f1eb4b8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/49525/Navarre__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "49525",
+  "timestamp": "2026-05-24T23:43:12.899032Z",
+  "version": 1
+}

@@ -1,0 +1,48 @@
+==Demographics==
+{{US Census population
+|1890= 695
+|1900= 445
+|1910= 443
+|1920= 495
+|1930= 637
+|1940= 773
+|1950= 721
+|1960= 723
+|1970= 653
+|1980= 678
+|1990= 478
+|2000= 645
+|2010= 560
+|2020= 520
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|access-date=June 4, 2015}}</ref>
+}}
+
+===2020 census===
+{| class="wikitable" style="text-align:right"
+|+Hot Springs racial composition<ref>{{Cite web|title=Explore Census Data|url=https://data.census.gov/cedsci/table?g=1600000US3732840&tid=DECENNIALPL2020.P2|access-date=December 19, 2021|website=data.census.gov}}</ref>
+!scope="col"| Race
+!scope="col"| Number
+!scope="col"| Percentage
+|-
+!scope="row"| [[White (U.S. Census)|White]] (non-Hispanic)
+| 460
+| 88.46%
+|-
+!scope="row"| [[Native American (U.S. Census)|Native American]]
+| 1
+| 0.19%
+|-
+!scope="row"| [[Asian (U.S. Census)|Asian]]
+| 2
+| 0.38%
+|-
+!scope="row"| [[Race (United States Census)|Other/Mixed]]
+| 48
+| 9.23%
+|-
+!scope="row"| [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]]
+| 9
+| 1.73%
+|}
+As of the [[2020 United States census]], there were 520 people, 223 households, and 143 families residing in the town.
+

@@ -1,0 +1,16 @@
+{
+  "article": "Dietrich,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/21790/Dietrich__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "070b08a74d21c08a13aa4b34a02e7049e45495dae4bc2b31acbf3662be0caeee",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "070b08a74d21c08a13aa4b34a02e7049e45495dae4bc2b31acbf3662be0caeee",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/21790/Dietrich__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "21790",
+  "timestamp": "2026-05-24T23:37:19.202411Z",
+  "version": 1
+}

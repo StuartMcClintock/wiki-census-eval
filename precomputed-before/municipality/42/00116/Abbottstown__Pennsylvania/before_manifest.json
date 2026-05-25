@@ -1,0 +1,16 @@
+{
+  "article": "Abbottstown,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/00116/Abbottstown__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1517dfce0cf312025149f491e43d9f1e99a410a75d155d2c4e8b43cdf5273136",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1517dfce0cf312025149f491e43d9f1e99a410a75d155d2c4e8b43cdf5273136",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/00116/Abbottstown__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "00116",
+  "timestamp": "2026-05-25T00:06:05.716106Z",
+  "version": 1
+}

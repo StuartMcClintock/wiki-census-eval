@@ -1,0 +1,16 @@
+{
+  "article": "Jerico_Springs,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/37214/Jerico_Springs__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c7496ef8db0f6723dfb0e88378129bf75148bb330cae1834a0a628e540bf0076",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c7496ef8db0f6723dfb0e88378129bf75148bb330cae1834a0a628e540bf0076",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/37214/Jerico_Springs__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "37214",
+  "timestamp": "2026-05-24T23:53:22.340738Z",
+  "version": 1
+}

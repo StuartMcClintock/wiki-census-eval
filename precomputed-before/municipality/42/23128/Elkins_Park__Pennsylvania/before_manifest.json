@@ -1,0 +1,16 @@
+{
+  "article": "Elkins_Park,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/23128/Elkins_Park__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9c9ceede72fd2c1a93e79e599bc220dcc915562082bd04decafe59d07468c707",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9c9ceede72fd2c1a93e79e599bc220dcc915562082bd04decafe59d07468c707",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/23128/Elkins_Park__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "23128",
+  "timestamp": "2026-05-25T00:07:03.292683Z",
+  "version": 1
+}

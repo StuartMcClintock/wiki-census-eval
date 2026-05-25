@@ -1,0 +1,16 @@
+{
+  "article": "Oklee,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/48202/Oklee__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "90d3d51313fffeb462c8ff489777f5ec1ea8e598d71db6f171fed093d93c6be7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "90d3d51313fffeb462c8ff489777f5ec1ea8e598d71db6f171fed093d93c6be7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/48202/Oklee__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "48202",
+  "timestamp": "2026-05-24T23:49:25.779685Z",
+  "version": 1
+}

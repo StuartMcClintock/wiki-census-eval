@@ -1,0 +1,16 @@
+{
+  "article": "Bruceville,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/08578/Bruceville__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e67c8a05155ed41fc0d2610effcc72e22033fc0be888cbd0e8b3975473a1207b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e67c8a05155ed41fc0d2610effcc72e22033fc0be888cbd0e8b3975473a1207b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/08578/Bruceville__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "08578",
+  "timestamp": "2026-05-24T23:39:27.320111Z",
+  "version": 1
+}

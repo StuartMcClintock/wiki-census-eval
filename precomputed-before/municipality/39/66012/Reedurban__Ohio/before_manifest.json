@@ -1,0 +1,16 @@
+{
+  "article": "Reedurban,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/66012/Reedurban__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a35eed7c1304c671b8e9acba3f7f8e2fb746c0f121911c33573310689ecd3026",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a35eed7c1304c671b8e9acba3f7f8e2fb746c0f121911c33573310689ecd3026",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/66012/Reedurban__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "66012",
+  "timestamp": "2026-05-25T00:05:09.787350Z",
+  "version": 1
+}

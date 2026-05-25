@@ -1,0 +1,16 @@
+{
+  "article": "Gordonsville,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/31936/Gordonsville__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e42eb1fcd9226dc54908de7b2b67aff1ae122b2371b10d0678d4fc50d4e6a7aa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e42eb1fcd9226dc54908de7b2b67aff1ae122b2371b10d0678d4fc50d4e6a7aa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/31936/Gordonsville__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "31936",
+  "timestamp": "2026-05-25T00:19:15.144879Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Rutherford_College,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/58440/Rutherford_College__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "05de66f5693942bbbf663cedaf6f294fb0e203e3ef76207253b005c492e90fa2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "05de66f5693942bbbf663cedaf6f294fb0e203e3ef76207253b005c492e90fa2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/58440/Rutherford_College__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "58440",
+  "timestamp": "2026-05-25T00:02:20.720510Z",
+  "version": 1
+}

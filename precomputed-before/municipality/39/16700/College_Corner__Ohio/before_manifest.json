@@ -1,0 +1,16 @@
+{
+  "article": "College_Corner,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/16700/College_Corner__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7c32775ef7cdb033205c085ef514d9c27fbc4b19c89c31cf4ec305b10f9ea95c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7c32775ef7cdb033205c085ef514d9c27fbc4b19c89c31cf4ec305b10f9ea95c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/16700/College_Corner__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "16700",
+  "timestamp": "2026-05-25T00:03:56.189013Z",
+  "version": 1
+}

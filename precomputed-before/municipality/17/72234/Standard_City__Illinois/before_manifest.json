@@ -1,0 +1,16 @@
+{
+  "article": "Standard_City,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/72234/Standard_City__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8b9eecf87f09e4a5f9d88f7c05f5131395c7692e88d667b829999fd94fa31173",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8b9eecf87f09e4a5f9d88f7c05f5131395c7692e88d667b829999fd94fa31173",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/72234/Standard_City__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "72234",
+  "timestamp": "2026-05-24T23:39:13.456517Z",
+  "version": 1
+}

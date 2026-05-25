@@ -1,0 +1,16 @@
+{
+  "article": "Kickapoo_Site_2,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/36736/Kickapoo_Site_2__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "540a5f5f5c9b89a7198f3fe2cdaa5e4e457a662e3e0cb64ab8d09ecd57e1df8d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "540a5f5f5c9b89a7198f3fe2cdaa5e4e457a662e3e0cb64ab8d09ecd57e1df8d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/36736/Kickapoo_Site_2__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "36736",
+  "timestamp": "2026-05-24T23:42:50.436745Z",
+  "version": 1
+}

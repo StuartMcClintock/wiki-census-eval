@@ -1,0 +1,16 @@
+{
+  "article": "Bear_Grass,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/04180/Bear_Grass__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4880c1649c084b80060f0e7cfef49c0b7ba05146cda937088f6f788377983089",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4880c1649c084b80060f0e7cfef49c0b7ba05146cda937088f6f788377983089",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/04180/Bear_Grass__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "04180",
+  "timestamp": "2026-05-25T00:01:43.879536Z",
+  "version": 1
+}

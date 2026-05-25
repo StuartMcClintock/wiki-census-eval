@@ -1,0 +1,16 @@
+{
+  "article": "Moores_Hill,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/50958/Moores_Hill__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a28453ffd32b07186db4fc61d52f998a1139171d532ae3c1ed469e23b53d2ed2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a28453ffd32b07186db4fc61d52f998a1139171d532ae3c1ed469e23b53d2ed2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/50958/Moores_Hill__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "50958",
+  "timestamp": "2026-05-24T23:40:03.636497Z",
+  "version": 1
+}

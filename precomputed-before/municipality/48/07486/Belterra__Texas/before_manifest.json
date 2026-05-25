@@ -1,0 +1,16 @@
+{
+  "article": "Belterra,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/07486/Belterra__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8e047e797c52d2f182a81148d03e30cab9b38a3aed7bab6d97f20352edf20f1d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8e047e797c52d2f182a81148d03e30cab9b38a3aed7bab6d97f20352edf20f1d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/07486/Belterra__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "07486",
+  "timestamp": "2026-05-25T00:15:04.909310Z",
+  "version": 1
+}

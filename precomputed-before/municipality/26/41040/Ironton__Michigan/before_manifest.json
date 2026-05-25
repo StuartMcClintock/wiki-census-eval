@@ -1,0 +1,16 @@
+{
+  "article": "Ironton,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/41040/Ironton__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "39568ee0adc993d72f0f0fc9bc32b8ce3eb280210aa14bb754571518ccf4d0bb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "39568ee0adc993d72f0f0fc9bc32b8ce3eb280210aa14bb754571518ccf4d0bb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/41040/Ironton__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "41040",
+  "timestamp": "2026-05-24T23:48:00.006845Z",
+  "version": 1
+}

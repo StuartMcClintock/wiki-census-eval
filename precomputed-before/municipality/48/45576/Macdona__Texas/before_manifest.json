@@ -1,0 +1,16 @@
+{
+  "article": "Macdona,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/45576/Macdona__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3c94c62773f28c5de787c4d04e8875bfad3df3141c3429bca0af7662c0f9d7b6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3c94c62773f28c5de787c4d04e8875bfad3df3141c3429bca0af7662c0f9d7b6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/45576/Macdona__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "45576",
+  "timestamp": "2026-05-25T00:15:59.153881Z",
+  "version": 1
+}

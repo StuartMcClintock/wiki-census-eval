@@ -1,0 +1,16 @@
+{
+  "article": "Walker_Valley,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/77948/Walker_Valley__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "46fbb8e25ef62051ff84573dfe20ad648c5b0f0ee8363f37f293b51955785659",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "46fbb8e25ef62051ff84573dfe20ad648c5b0f0ee8363f37f293b51955785659",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/77948/Walker_Valley__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "77948",
+  "timestamp": "2026-05-25T00:01:23.059460Z",
+  "version": 1
+}

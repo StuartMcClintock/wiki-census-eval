@@ -1,0 +1,16 @@
+{
+  "article": "Cairnbrook,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/10720/Cairnbrook__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9e0f68951d7d93074c9435af126b18608b745e1b334b16a47a8f65ae95dd04e9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9e0f68951d7d93074c9435af126b18608b745e1b334b16a47a8f65ae95dd04e9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/10720/Cairnbrook__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "10720",
+  "timestamp": "2026-05-25T00:06:23.976075Z",
+  "version": 1
+}

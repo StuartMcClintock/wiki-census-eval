@@ -1,0 +1,16 @@
+{
+  "article": "Tappen,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/77980/Tappen__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0a23975109349bbc6afbbb386fcf83433a515dc574607c42b3b9d446d829cb1c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0a23975109349bbc6afbbb386fcf83433a515dc574607c42b3b9d446d829cb1c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/77980/Tappen__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "77980",
+  "timestamp": "2026-05-25T00:03:24.050849Z",
+  "version": 1
+}

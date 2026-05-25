@@ -1,0 +1,16 @@
+{
+  "article": "Chilton,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/14475/Chilton__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "abedbbc1b7da56519a370d651f20a47c68b9d547e68d7372f9c41a8cdcd1ea7c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "abedbbc1b7da56519a370d651f20a47c68b9d547e68d7372f9c41a8cdcd1ea7c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/14475/Chilton__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "14475",
+  "timestamp": "2026-05-25T00:21:43.075596Z",
+  "version": 1
+}

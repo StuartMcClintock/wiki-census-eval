@@ -1,0 +1,16 @@
+{
+  "article": "Westwood_Shores,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/78040/Westwood_Shores__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "96dbc6e987d78f8dbbc19e177e75a6859e28664bebb63ff0ef40e3dd941278c0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "96dbc6e987d78f8dbbc19e177e75a6859e28664bebb63ff0ef40e3dd941278c0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/78040/Westwood_Shores__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "78040",
+  "timestamp": "2026-05-25T00:16:49.694910Z",
+  "version": 1
+}

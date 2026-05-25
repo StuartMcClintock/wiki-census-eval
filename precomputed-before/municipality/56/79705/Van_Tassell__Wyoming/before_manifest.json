@@ -1,0 +1,16 @@
+{
+  "article": "Van_Tassell,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/79705/Van_Tassell__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c7f4305c00f7ce34fa7f14282a814decf4dc1d67dea78a3ec381e089ffc6e198",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c7f4305c00f7ce34fa7f14282a814decf4dc1d67dea78a3ec381e089ffc6e198",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/79705/Van_Tassell__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "79705",
+  "timestamp": "2026-05-25T00:23:25.202007Z",
+  "version": 1
+}

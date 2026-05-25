@@ -1,0 +1,16 @@
+{
+  "article": "Henry,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/22150/Henry__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ab5510a77822d37ba46e0190c454d252807df6580826ea9466c937c0e9b58ced",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ab5510a77822d37ba46e0190c454d252807df6580826ea9466c937c0e9b58ced",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/22150/Henry__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "22150",
+  "timestamp": "2026-05-24T23:55:32.255394Z",
+  "version": 1
+}

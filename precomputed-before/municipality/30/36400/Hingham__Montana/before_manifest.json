@@ -1,0 +1,16 @@
+{
+  "article": "Hingham,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/36400/Hingham__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0257960a9d4f242e3ac59a3fe57950b340fa8e5dcb8a1cf3ff9fc633afccdada",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0257960a9d4f242e3ac59a3fe57950b340fa8e5dcb8a1cf3ff9fc633afccdada",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/36400/Hingham__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "36400",
+  "timestamp": "2026-05-24T23:54:30.303086Z",
+  "version": 1
+}

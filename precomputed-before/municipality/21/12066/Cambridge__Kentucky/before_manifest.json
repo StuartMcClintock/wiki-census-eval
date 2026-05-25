@@ -1,0 +1,16 @@
+{
+  "article": "Cambridge,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/12066/Cambridge__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3faef546172a712fec4c9cd6b4c638ceec0639a0eac4bfc67f948a16f8e62e6b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3faef546172a712fec4c9cd6b4c638ceec0639a0eac4bfc67f948a16f8e62e6b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/12066/Cambridge__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "12066",
+  "timestamp": "2026-05-24T23:43:46.527465Z",
+  "version": 1
+}

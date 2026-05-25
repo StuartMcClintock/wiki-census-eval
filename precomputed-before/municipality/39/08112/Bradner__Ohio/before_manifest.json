@@ -1,0 +1,16 @@
+{
+  "article": "Bradner,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/08112/Bradner__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "543d43cad3bb7c1520860649795fa72339b7d97a5d6825c1765c4d0f24078187",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "543d43cad3bb7c1520860649795fa72339b7d97a5d6825c1765c4d0f24078187",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/08112/Bradner__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "08112",
+  "timestamp": "2026-05-25T00:03:37.361188Z",
+  "version": 1
+}

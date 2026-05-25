@@ -1,0 +1,16 @@
+{
+  "article": "Ionia,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/34350/Ionia__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c21fc3739cfd2bf5532e67d81c5ae967ccb495d8f00c33511318d03e6fb7f6db",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c21fc3739cfd2bf5532e67d81c5ae967ccb495d8f00c33511318d03e6fb7f6db",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/34350/Ionia__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "34350",
+  "timestamp": "2026-05-24T23:42:48.621028Z",
+  "version": 1
+}

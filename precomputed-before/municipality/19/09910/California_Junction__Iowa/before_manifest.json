@@ -1,0 +1,16 @@
+{
+  "article": "California_Junction,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/09910/California_Junction__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8be52d6e39f6d468566fc04140bc5a3b44b8efc67f99e0800ff74d917ac1dd2b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8be52d6e39f6d468566fc04140bc5a3b44b8efc67f99e0800ff74d917ac1dd2b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/09910/California_Junction__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "09910",
+  "timestamp": "2026-05-24T23:40:31.788460Z",
+  "version": 1
+}

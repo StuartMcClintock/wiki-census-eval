@@ -1,0 +1,16 @@
+{
+  "article": "Dakota_City,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/18075/Dakota_City__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "324634b2e4a2655ddacf104889a3fff1b2914e39716eb1db0f4cd6603c9555c2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "324634b2e4a2655ddacf104889a3fff1b2914e39716eb1db0f4cd6603c9555c2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/18075/Dakota_City__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "18075",
+  "timestamp": "2026-05-24T23:40:38.896103Z",
+  "version": 1
+}

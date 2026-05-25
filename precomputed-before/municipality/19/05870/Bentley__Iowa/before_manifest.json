@@ -1,0 +1,16 @@
+{
+  "article": "Bentley,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/05870/Bentley__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "02f90a993ca08d40551c4200b8d7c6a29ae89f4579003b2cacdede8a9a3397b9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "02f90a993ca08d40551c4200b8d7c6a29ae89f4579003b2cacdede8a9a3397b9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/05870/Bentley__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "05870",
+  "timestamp": "2026-05-24T23:40:27.328755Z",
+  "version": 1
+}

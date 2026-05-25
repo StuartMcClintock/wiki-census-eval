@@ -1,0 +1,16 @@
+{
+  "article": "Waukena,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/83724/Waukena__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "06a503bf3f608000a076454b2125e89898c92f5f07c936ee26f85479ad43a10d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "06a503bf3f608000a076454b2125e89898c92f5f07c936ee26f85479ad43a10d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/83724/Waukena__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "83724",
+  "timestamp": "2026-05-24T23:35:13.814885Z",
+  "version": 1
+}

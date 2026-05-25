@@ -1,0 +1,16 @@
+{
+  "article": "Perry,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/59795/Perry__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9eeb5a5d47e1c1778d99f79372b5c8e0657d3126eca0113fb5c57840ce3e603b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9eeb5a5d47e1c1778d99f79372b5c8e0657d3126eca0113fb5c57840ce3e603b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/59795/Perry__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "59795",
+  "timestamp": "2026-05-24T23:45:04.685184Z",
+  "version": 1
+}

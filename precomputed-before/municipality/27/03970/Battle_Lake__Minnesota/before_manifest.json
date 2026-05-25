@@ -1,0 +1,16 @@
+{
+  "article": "Battle_Lake,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/03970/Battle_Lake__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "42417e179724d623f0b1cc223dd5f5cf7c0f481e47dc975a7ce28aabdc0ea4d2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "42417e179724d623f0b1cc223dd5f5cf7c0f481e47dc975a7ce28aabdc0ea4d2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/03970/Battle_Lake__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "03970",
+  "timestamp": "2026-05-24T23:48:37.591295Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Kirwin,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/37275/Kirwin__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0e429a207a8bffce148597149a4ca7b0afdf940160d03c934a04ce91c5b1e835",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0e429a207a8bffce148597149a4ca7b0afdf940160d03c934a04ce91c5b1e835",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/37275/Kirwin__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "37275",
+  "timestamp": "2026-05-24T23:42:51.562125Z",
+  "version": 1
+}

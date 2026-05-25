@@ -1,0 +1,16 @@
+{
+  "article": "Kinbrae,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/33236/Kinbrae__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "83d46c7b98693eccd63d073e8e30a078958d855e2eb557bf9909f0ab12f1d793",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "83d46c7b98693eccd63d073e8e30a078958d855e2eb557bf9909f0ab12f1d793",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/33236/Kinbrae__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "33236",
+  "timestamp": "2026-05-24T23:49:13.036960Z",
+  "version": 1
+}

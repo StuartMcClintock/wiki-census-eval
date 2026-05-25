@@ -1,0 +1,16 @@
+{
+  "article": "Dixon,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/20830/Dixon__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b9dc7b7c1e9798999366f0c36b8ebd961dafbd4012361b8f4a02db42e3acae95",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b9dc7b7c1e9798999366f0c36b8ebd961dafbd4012361b8f4a02db42e3acae95",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/20830/Dixon__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "20830",
+  "timestamp": "2026-05-24T23:58:28.407056Z",
+  "version": 1
+}

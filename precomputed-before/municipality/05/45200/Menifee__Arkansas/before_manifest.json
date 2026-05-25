@@ -1,0 +1,16 @@
+{
+  "article": "Menifee,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/45200/Menifee__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0a70bfcb3bded790fe0181787e21c35b8e2afb0545fd941abd48f20ec30183f1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0a70bfcb3bded790fe0181787e21c35b8e2afb0545fd941abd48f20ec30183f1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/45200/Menifee__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "45200",
+  "timestamp": "2026-05-24T23:33:53.061388Z",
+  "version": 1
+}

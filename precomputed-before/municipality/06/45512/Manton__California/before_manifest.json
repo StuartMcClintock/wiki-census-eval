@@ -1,0 +1,16 @@
+{
+  "article": "Manton,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/45512/Manton__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "157ba0cbd2673a4eb4e212d439e83d96c8e427428e6a62afb20018cf90cc80b8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "157ba0cbd2673a4eb4e212d439e83d96c8e427428e6a62afb20018cf90cc80b8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/45512/Manton__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "45512",
+  "timestamp": "2026-05-24T23:34:37.711767Z",
+  "version": 1
+}

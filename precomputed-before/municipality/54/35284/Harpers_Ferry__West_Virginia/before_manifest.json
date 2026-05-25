@@ -1,0 +1,16 @@
+{
+  "article": "Harpers_Ferry,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/35284/Harpers_Ferry__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0cf02d9715cda63d245c2d196dccb6d9fea37cad5a7ab59a4c6d054140a19692",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0cf02d9715cda63d245c2d196dccb6d9fea37cad5a7ab59a4c6d054140a19692",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/35284/Harpers_Ferry__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "35284",
+  "timestamp": "2026-05-25T00:21:10.308795Z",
+  "version": 1
+}

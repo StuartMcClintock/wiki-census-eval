@@ -1,0 +1,16 @@
+{
+  "article": "Millport,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/47427/Millport__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3c09c936c01bf44e0409a6779bd4ff1b39f1d4e23b4729ae8c91e488d3234cfd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3c09c936c01bf44e0409a6779bd4ff1b39f1d4e23b4729ae8c91e488d3234cfd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/47427/Millport__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "47427",
+  "timestamp": "2026-05-25T00:00:54.788952Z",
+  "version": 1
+}

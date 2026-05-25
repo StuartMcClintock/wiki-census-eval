@@ -1,0 +1,16 @@
+{
+  "article": "Keedysville,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/43100/Keedysville__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7384a3be5d0e52096644bd949347bc2eca866a5a75ec974239b7e680294a67cb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7384a3be5d0e52096644bd949347bc2eca866a5a75ec974239b7e680294a67cb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/43100/Keedysville__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "43100",
+  "timestamp": "2026-05-24T23:47:24.977866Z",
+  "version": 1
+}

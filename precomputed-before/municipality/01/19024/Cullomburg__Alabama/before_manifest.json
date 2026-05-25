@@ -1,0 +1,16 @@
+{
+  "article": "Cullomburg,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/19024/Cullomburg__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6ccf05d584c0f000323128906b17641c271fba19185d101b5c7c89b1b8848181",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6ccf05d584c0f000323128906b17641c271fba19185d101b5c7c89b1b8848181",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/19024/Cullomburg__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "19024",
+  "timestamp": "2026-05-24T23:31:52.761627Z",
+  "version": 1
+}

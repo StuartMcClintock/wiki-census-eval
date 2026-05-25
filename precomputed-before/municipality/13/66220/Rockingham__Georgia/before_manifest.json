@@ -1,0 +1,16 @@
+{
+  "article": "Rockingham,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/66220/Rockingham__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ded17927dab5a76889b882e2eab9a79f24aa34d88e58caa3b3a368dc8767a329",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ded17927dab5a76889b882e2eab9a79f24aa34d88e58caa3b3a368dc8767a329",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/66220/Rockingham__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "66220",
+  "timestamp": "2026-05-24T23:37:05.610685Z",
+  "version": 1
+}

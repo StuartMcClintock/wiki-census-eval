@@ -1,0 +1,16 @@
+{
+  "article": "Drakesboro,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/22348/Drakesboro__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a14b0f46bff3bff845fe3dbd983362e4a232041ecb50be323a97f40f93eb9c44",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a14b0f46bff3bff845fe3dbd983362e4a232041ecb50be323a97f40f93eb9c44",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/22348/Drakesboro__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "22348",
+  "timestamp": "2026-05-24T23:44:00.618801Z",
+  "version": 1
+}

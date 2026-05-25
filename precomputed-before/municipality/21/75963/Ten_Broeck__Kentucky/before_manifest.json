@@ -1,0 +1,16 @@
+{
+  "article": "Ten_Broeck,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/75963/Ten_Broeck__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ab45168d20bd6e2dd112b907e2c7e4ba24482e8a48df40c505b0e16d80f00cde",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ab45168d20bd6e2dd112b907e2c7e4ba24482e8a48df40c505b0e16d80f00cde",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/75963/Ten_Broeck__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "75963",
+  "timestamp": "2026-05-24T23:44:23.308268Z",
+  "version": 1
+}

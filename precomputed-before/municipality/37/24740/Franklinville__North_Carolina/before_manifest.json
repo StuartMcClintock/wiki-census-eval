@@ -1,0 +1,16 @@
+{
+  "article": "Franklinville,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/24740/Franklinville__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "32738f576ce3b9248ae50de928568859df6bd3ee592eec2aaf49222e381081f0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "32738f576ce3b9248ae50de928568859df6bd3ee592eec2aaf49222e381081f0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/24740/Franklinville__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "24740",
+  "timestamp": "2026-05-25T00:01:56.750055Z",
+  "version": 1
+}

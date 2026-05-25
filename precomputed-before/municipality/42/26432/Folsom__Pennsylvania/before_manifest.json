@@ -1,0 +1,16 @@
+{
+  "article": "Folsom,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/26432/Folsom__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c69ec713ff93ed7cc897fd5eda8bbcb96e0b727e88e1e5a5a580c0ff9eafc7ae",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c69ec713ff93ed7cc897fd5eda8bbcb96e0b727e88e1e5a5a580c0ff9eafc7ae",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/26432/Folsom__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "26432",
+  "timestamp": "2026-05-25T00:07:09.506874Z",
+  "version": 1
+}

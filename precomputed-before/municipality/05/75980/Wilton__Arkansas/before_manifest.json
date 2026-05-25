@@ -1,0 +1,16 @@
+{
+  "article": "Wilton,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/75980/Wilton__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "943903041c0da09cb0420b0f65f3dc8b8840f0029491f44f7f802872a4aebf3c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "943903041c0da09cb0420b0f65f3dc8b8840f0029491f44f7f802872a4aebf3c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/75980/Wilton__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "75980",
+  "timestamp": "2026-05-24T23:34:15.289730Z",
+  "version": 1
+}

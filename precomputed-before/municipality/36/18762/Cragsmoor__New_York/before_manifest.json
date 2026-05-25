@@ -1,0 +1,16 @@
+{
+  "article": "Cragsmoor,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/18762/Cragsmoor__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c196b9ee692350200d775b9d89223357d9442d77cd2cf1f0d30635c34edfa99e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c196b9ee692350200d775b9d89223357d9442d77cd2cf1f0d30635c34edfa99e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/18762/Cragsmoor__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "18762",
+  "timestamp": "2026-05-25T00:00:38.135830Z",
+  "version": 1
+}

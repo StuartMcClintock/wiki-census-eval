@@ -1,0 +1,16 @@
+{
+  "article": "Smithville,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/71464/Smithville__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "77e70f7a4ca1f6f0bfa2939a34b196d7d705ccfd3fe1a46b6f0e89cc466406c2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "77e70f7a4ca1f6f0bfa2939a34b196d7d705ccfd3fe1a46b6f0e89cc466406c2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/71464/Smithville__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "71464",
+  "timestamp": "2026-05-24T23:37:08.120050Z",
+  "version": 1
+}

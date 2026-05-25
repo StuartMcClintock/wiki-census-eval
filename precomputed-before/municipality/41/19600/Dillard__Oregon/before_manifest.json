@@ -1,0 +1,16 @@
+{
+  "article": "Dillard,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/19600/Dillard__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "97bcd3a5e5295f712ff781d20f0be9f609d1e824ae9bf632731dee22d367f2d4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "97bcd3a5e5295f712ff781d20f0be9f609d1e824ae9bf632731dee22d367f2d4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/19600/Dillard__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "19600",
+  "timestamp": "2026-05-25T00:05:46.694180Z",
+  "version": 1
+}

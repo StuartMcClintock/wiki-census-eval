@@ -1,0 +1,16 @@
+{
+  "article": "Peshtigo,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/62175/Peshtigo__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ceed0e0563c9f054a251722c2ecaf30f36ef900fac954d8eaf6f976279573b47",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ceed0e0563c9f054a251722c2ecaf30f36ef900fac954d8eaf6f976279573b47",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/62175/Peshtigo__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "62175",
+  "timestamp": "2026-05-25T00:22:33.780782Z",
+  "version": 1
+}

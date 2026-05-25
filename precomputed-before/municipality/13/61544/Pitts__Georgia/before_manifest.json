@@ -1,0 +1,16 @@
+{
+  "article": "Pitts,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/61544/Pitts__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "32a0a63f1dcb9543970295499f40f43e2a248d6500abb4ad13157d36a4c307a0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "32a0a63f1dcb9543970295499f40f43e2a248d6500abb4ad13157d36a4c307a0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/61544/Pitts__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "61544",
+  "timestamp": "2026-05-24T23:37:03.915703Z",
+  "version": 1
+}

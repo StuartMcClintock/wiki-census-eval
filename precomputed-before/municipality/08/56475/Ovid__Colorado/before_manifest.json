@@ -1,0 +1,16 @@
+{
+  "article": "Ovid,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/56475/Ovid__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e30c2b31c164be3ee4b2252577ca249c74cc46ff1c966114a97c55a6d628ef90",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e30c2b31c164be3ee4b2252577ca249c74cc46ff1c966114a97c55a6d628ef90",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/56475/Ovid__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "56475",
+  "timestamp": "2026-05-24T23:35:35.930629Z",
+  "version": 1
+}

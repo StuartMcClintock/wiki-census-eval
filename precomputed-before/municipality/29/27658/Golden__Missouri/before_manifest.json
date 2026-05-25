@@ -1,0 +1,16 @@
+{
+  "article": "Golden,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/27658/Golden__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "043b246e8b9c3dac9e7ac0a3d6a708ec90c2ba9ad84ec1752a26a1a5b08b8722",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "043b246e8b9c3dac9e7ac0a3d6a708ec90c2ba9ad84ec1752a26a1a5b08b8722",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/27658/Golden__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "27658",
+  "timestamp": "2026-05-24T23:53:13.801560Z",
+  "version": 1
+}

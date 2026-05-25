@@ -1,0 +1,16 @@
+{
+  "article": "Brooksville,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/10000/Brooksville__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0b461a12ab0722a146d73c205266609eddca7d400f069f53329ccb053536fcc0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0b461a12ab0722a146d73c205266609eddca7d400f069f53329ccb053536fcc0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/10000/Brooksville__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "10000",
+  "timestamp": "2026-05-24T23:43:44.943079Z",
+  "version": 1
+}

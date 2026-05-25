@@ -1,0 +1,16 @@
+{
+  "article": "Castle_Valley,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/11000/Castle_Valley__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7f3d4b2c8624d6820a45308666ea237a8830ab2223c791a093b92881d176e0c8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7f3d4b2c8624d6820a45308666ea237a8830ab2223c791a093b92881d176e0c8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/11000/Castle_Valley__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "11000",
+  "timestamp": "2026-05-25T00:16:55.099817Z",
+  "version": 1
+}

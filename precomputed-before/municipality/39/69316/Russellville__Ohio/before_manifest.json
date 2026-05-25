@@ -1,0 +1,16 @@
+{
+  "article": "Russellville,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/69316/Russellville__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "15607afbd2e4c67706dbc038f274e5b4ef2fdb80b5d97371b78257bc042aab9f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "15607afbd2e4c67706dbc038f274e5b4ef2fdb80b5d97371b78257bc042aab9f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/69316/Russellville__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "69316",
+  "timestamp": "2026-05-25T00:05:13.766271Z",
+  "version": 1
+}

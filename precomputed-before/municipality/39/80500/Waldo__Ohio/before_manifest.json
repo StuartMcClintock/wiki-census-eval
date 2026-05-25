@@ -1,0 +1,16 @@
+{
+  "article": "Waldo,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/80500/Waldo__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "02348a519bae5cc3f495cab2305cffc0a77bdf2d9a783f70c758f7b0697e202c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "02348a519bae5cc3f495cab2305cffc0a77bdf2d9a783f70c758f7b0697e202c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/80500/Waldo__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "80500",
+  "timestamp": "2026-05-25T00:05:35.743479Z",
+  "version": 1
+}

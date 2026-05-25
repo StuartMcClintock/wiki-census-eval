@@ -1,0 +1,16 @@
+{
+  "article": "Layton,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/39600/Layton__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "282d748cb313969d8706a24b6d090a9712c622a74256aad18aab2aebd6f2c3ab",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "282d748cb313969d8706a24b6d090a9712c622a74256aad18aab2aebd6f2c3ab",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/39600/Layton__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "39600",
+  "timestamp": "2026-05-24T23:57:53.182462Z",
+  "version": 1
+}

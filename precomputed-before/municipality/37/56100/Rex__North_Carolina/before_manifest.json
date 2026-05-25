@@ -1,0 +1,16 @@
+{
+  "article": "Rex,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/56100/Rex__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a101c4f07a2f14eff34984bdabdb64586e0a0baa5cd5a2a237302c83ed1861e6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a101c4f07a2f14eff34984bdabdb64586e0a0baa5cd5a2a237302c83ed1861e6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/56100/Rex__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "56100",
+  "timestamp": "2026-05-25T00:02:18.065902Z",
+  "version": 1
+}

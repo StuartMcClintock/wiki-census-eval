@@ -1,0 +1,16 @@
+{
+  "article": "La_Mesa,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/38680/La_Mesa__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "07fb30220b1769f337536dc81e3469b5f65cd4387abfe5cd7d0f08d589460376",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "07fb30220b1769f337536dc81e3469b5f65cd4387abfe5cd7d0f08d589460376",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/38680/La_Mesa__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "38680",
+  "timestamp": "2026-05-24T23:58:36.946951Z",
+  "version": 1
+}

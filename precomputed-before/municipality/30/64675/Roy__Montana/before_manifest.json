@@ -1,0 +1,16 @@
+{
+  "article": "Roy,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/64675/Roy__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cb407a7930eadf2c45f49c67cd71b59824e36da88aeccd82a0a8c77e4ed3ce0e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cb407a7930eadf2c45f49c67cd71b59824e36da88aeccd82a0a8c77e4ed3ce0e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/64675/Roy__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "64675",
+  "timestamp": "2026-05-24T23:54:47.757164Z",
+  "version": 1
+}

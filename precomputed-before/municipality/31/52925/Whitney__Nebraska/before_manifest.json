@@ -1,0 +1,16 @@
+{
+  "article": "Whitney,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/52925/Whitney__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "465697c804b2d4c7f338a30284e2eb79cfd46da71a07a414863b13c94443f345",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "465697c804b2d4c7f338a30284e2eb79cfd46da71a07a414863b13c94443f345",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/52925/Whitney__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "52925",
+  "timestamp": "2026-05-24T23:57:24.966772Z",
+  "version": 1
+}

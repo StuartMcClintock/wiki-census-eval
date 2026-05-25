@@ -1,0 +1,16 @@
+{
+  "article": "Morrow,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/47090/Morrow__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5556a45f46bb5981b566b6a5dd00f7769f5632b3b2ec0dee8a92c23066396511",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5556a45f46bb5981b566b6a5dd00f7769f5632b3b2ec0dee8a92c23066396511",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/47090/Morrow__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "47090",
+  "timestamp": "2026-05-24T23:33:53.989247Z",
+  "version": 1
+}

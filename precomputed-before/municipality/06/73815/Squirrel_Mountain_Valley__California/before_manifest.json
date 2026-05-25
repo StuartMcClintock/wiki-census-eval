@@ -1,0 +1,16 @@
+{
+  "article": "Squirrel_Mountain_Valley,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/73815/Squirrel_Mountain_Valley__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "226cffd458ddb948f177e2df51f55fa230af60153f81fb9cab14dec1e04f8aa1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "226cffd458ddb948f177e2df51f55fa230af60153f81fb9cab14dec1e04f8aa1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/73815/Squirrel_Mountain_Valley__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "73815",
+  "timestamp": "2026-05-24T23:35:07.240179Z",
+  "version": 1
+}

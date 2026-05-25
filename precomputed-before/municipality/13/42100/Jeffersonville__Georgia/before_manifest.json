@@ -1,0 +1,16 @@
+{
+  "article": "Jeffersonville,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/42100/Jeffersonville__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ce1e5d0cfc2e36a4f2de272d2676b096a4f6d5036c4cc9cb780758e08ba150db",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ce1e5d0cfc2e36a4f2de272d2676b096a4f6d5036c4cc9cb780758e08ba150db",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/42100/Jeffersonville__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "42100",
+  "timestamp": "2026-05-24T23:36:51.654322Z",
+  "version": 1
+}

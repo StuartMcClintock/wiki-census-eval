@@ -1,0 +1,16 @@
+{
+  "article": "Farragut,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/26985/Farragut__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9250d2af585bd6bd16cd62700ee824d15be0fadfe012338f59f4f4d7ada677b9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9250d2af585bd6bd16cd62700ee824d15be0fadfe012338f59f4f4d7ada677b9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/26985/Farragut__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "26985",
+  "timestamp": "2026-05-24T23:41:01.762273Z",
+  "version": 1
+}

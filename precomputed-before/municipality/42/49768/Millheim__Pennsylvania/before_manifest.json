@@ -1,0 +1,16 @@
+{
+  "article": "Millheim,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/49768/Millheim__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4072080e5b7f2e2faf931f074e759e21b84c4948344ad65dc485ee400898e820",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4072080e5b7f2e2faf931f074e759e21b84c4948344ad65dc485ee400898e820",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/49768/Millheim__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "49768",
+  "timestamp": "2026-05-25T00:08:06.880204Z",
+  "version": 1
+}

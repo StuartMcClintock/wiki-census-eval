@@ -1,0 +1,16 @@
+{
+  "article": "Water_Mill,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/78575/Water_Mill__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b1465fc1e9289a52b9f7c2c1c6ea891465ac3fae8a24c9458954f28b530eb27f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b1465fc1e9289a52b9f7c2c1c6ea891465ac3fae8a24c9458954f28b530eb27f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/78575/Water_Mill__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "78575",
+  "timestamp": "2026-05-25T00:01:23.986196Z",
+  "version": 1
+}

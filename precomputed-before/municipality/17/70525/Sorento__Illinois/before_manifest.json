@@ -1,0 +1,16 @@
+{
+  "article": "Sorento,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/70525/Sorento__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "658f52d77203cc696d10c87733417307602fd9bc55613ac69551a565752f6a19",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "658f52d77203cc696d10c87733417307602fd9bc55613ac69551a565752f6a19",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/70525/Sorento__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "70525",
+  "timestamp": "2026-05-24T23:39:12.476489Z",
+  "version": 1
+}

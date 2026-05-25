@@ -1,0 +1,16 @@
+{
+  "article": "Palmerton,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/57696/Palmerton__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6edcb9736eceeb77710ed5444f2599c48aaa12ba2a4b1beaa75148f66a023b1d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6edcb9736eceeb77710ed5444f2599c48aaa12ba2a4b1beaa75148f66a023b1d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/57696/Palmerton__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "57696",
+  "timestamp": "2026-05-25T00:08:25.197709Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Blackey,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/07012/Blackey__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "81c1231070e841b30b64c3369445c2c63ffce16e386cccace9d6705c16a80e85",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "81c1231070e841b30b64c3369445c2c63ffce16e386cccace9d6705c16a80e85",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/07012/Blackey__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "07012",
+  "timestamp": "2026-05-24T23:43:43.457733Z",
+  "version": 1
+}

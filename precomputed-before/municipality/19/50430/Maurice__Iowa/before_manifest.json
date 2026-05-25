@@ -1,0 +1,16 @@
+{
+  "article": "Maurice,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/50430/Maurice__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5dfda8e6639e862890849d5704cd8b0f0d87bbaf1469f2976f91f4aecaa3896d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5dfda8e6639e862890849d5704cd8b0f0d87bbaf1469f2976f91f4aecaa3896d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/50430/Maurice__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "50430",
+  "timestamp": "2026-05-24T23:41:26.258545Z",
+  "version": 1
+}

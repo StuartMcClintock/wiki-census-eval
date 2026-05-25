@@ -1,0 +1,16 @@
+{
+  "article": "Silver_Lake,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/72494/Silver_Lake__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "30a136cd400bc08d63603e90c7daf73582b86da5f5ad0ca38a52b2c705741c4e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "30a136cd400bc08d63603e90c7daf73582b86da5f5ad0ca38a52b2c705741c4e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/72494/Silver_Lake__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "72494",
+  "timestamp": "2026-05-25T00:05:27.329536Z",
+  "version": 1
+}

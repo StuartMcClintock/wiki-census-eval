@@ -1,0 +1,16 @@
+{
+  "article": "Walnut,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/77480/Walnut__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "544ef27524e585aa91df41e015fb56eebfedcd01cd9d046a0c6261b71a99c0cb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "544ef27524e585aa91df41e015fb56eebfedcd01cd9d046a0c6261b71a99c0cb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/77480/Walnut__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "77480",
+  "timestamp": "2026-05-24T23:50:28.779921Z",
+  "version": 1
+}

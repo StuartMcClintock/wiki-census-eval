@@ -1,0 +1,16 @@
+{
+  "article": "La_Farge,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/40875/La_Farge__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "637319a1f56fe4d1ffac4e379bafe2d905473f446ae9c0e4a8da17f95339b6af",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "637319a1f56fe4d1ffac4e379bafe2d905473f446ae9c0e4a8da17f95339b6af",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/40875/La_Farge__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "40875",
+  "timestamp": "2026-05-25T00:22:17.403246Z",
+  "version": 1
+}

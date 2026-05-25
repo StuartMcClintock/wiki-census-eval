@@ -1,0 +1,16 @@
+{
+  "article": "Nielsville,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/46258/Nielsville__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "772b9091625e90422d1ea9ecdeb4828d3de0db3782ca587d705dce76a5a734f3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "772b9091625e90422d1ea9ecdeb4828d3de0db3782ca587d705dce76a5a734f3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/46258/Nielsville__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "46258",
+  "timestamp": "2026-05-24T23:49:24.637456Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Eagle_Creek,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/20604/Eagle_Creek__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bccb5083a94e45543f8269f36dafd5efbd98f0c4472688ae9dc57a75212e858e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bccb5083a94e45543f8269f36dafd5efbd98f0c4472688ae9dc57a75212e858e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/20604/Eagle_Creek__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "20604",
+  "timestamp": "2026-05-25T00:06:54.896795Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Riverside_Colony,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/55220/Riverside_Colony__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c750fb02f3127a3250cc337f05cd865522fc129737eae1f10db36e603a1d05f0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c750fb02f3127a3250cc337f05cd865522fc129737eae1f10db36e603a1d05f0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/55220/Riverside_Colony__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "55220",
+  "timestamp": "2026-05-25T00:12:45.322414Z",
+  "version": 1
+}

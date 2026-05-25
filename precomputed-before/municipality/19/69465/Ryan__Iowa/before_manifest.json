@@ -1,0 +1,16 @@
+{
+  "article": "Ryan,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/69465/Ryan__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "81c735a26f4042fd0a1d32f60007d5c4fbb2a5e02cdb1d717392946ed878cf84",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "81c735a26f4042fd0a1d32f60007d5c4fbb2a5e02cdb1d717392946ed878cf84",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/69465/Ryan__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "69465",
+  "timestamp": "2026-05-24T23:41:45.443342Z",
+  "version": 1
+}

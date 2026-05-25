@@ -1,0 +1,16 @@
+{
+  "article": "Winterville,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/80840/Winterville__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4c75b11143763925e0d49f108155a44f6734d2509a304bf95d0c14f7d9313a5e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4c75b11143763925e0d49f108155a44f6734d2509a304bf95d0c14f7d9313a5e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/80840/Winterville__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "80840",
+  "timestamp": "2026-05-24T23:50:29.785806Z",
+  "version": 1
+}

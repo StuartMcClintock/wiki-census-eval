@@ -1,0 +1,16 @@
+{
+  "article": "Silver_City,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/73155/Silver_City__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "930c1e664a253d97c27ae47c5a807626c737dce64fbad024ccc99e258d6b5217",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "930c1e664a253d97c27ae47c5a807626c737dce64fbad024ccc99e258d6b5217",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/73155/Silver_City__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "73155",
+  "timestamp": "2026-05-24T23:42:01.177289Z",
+  "version": 1
+}

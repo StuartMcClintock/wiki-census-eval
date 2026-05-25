@@ -1,0 +1,16 @@
+{
+  "article": "Rolling_Hills,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/67440/Rolling_Hills__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "398c1ecd9c3bb674cf03e9844b09cbd0b05de1a5e62c78bb4518cb57db2e79b8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "398c1ecd9c3bb674cf03e9844b09cbd0b05de1a5e62c78bb4518cb57db2e79b8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/67440/Rolling_Hills__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "67440",
+  "timestamp": "2026-05-25T00:23:22.682239Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Oley,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/56664/Oley__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "af585ea1c34b775c46580cece55821daee17f355cd1974e9227622c7e919a46c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "af585ea1c34b775c46580cece55821daee17f355cd1974e9227622c7e919a46c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/56664/Oley__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "56664",
+  "timestamp": "2026-05-25T00:08:22.758480Z",
+  "version": 1
+}

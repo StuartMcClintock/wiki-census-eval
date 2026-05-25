@@ -1,0 +1,16 @@
+{
+  "article": "Conway,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/15872/Conway__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8dea9cf5c45d9b66aea9147efd86e11b9e65b6e23a6c9192f1ddda3a127e9782",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8dea9cf5c45d9b66aea9147efd86e11b9e65b6e23a6c9192f1ddda3a127e9782",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/15872/Conway__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "15872",
+  "timestamp": "2026-05-25T00:06:46.077204Z",
+  "version": 1
+}

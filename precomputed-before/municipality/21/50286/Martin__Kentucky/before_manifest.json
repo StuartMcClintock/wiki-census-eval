@@ -1,0 +1,16 @@
+{
+  "article": "Martin,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/50286/Martin__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dba84d946018a27e0ba426f8d210d2bfbab26ef140300007b1d711f6d78053e8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dba84d946018a27e0ba426f8d210d2bfbab26ef140300007b1d711f6d78053e8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/50286/Martin__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "50286",
+  "timestamp": "2026-05-24T23:44:11.643295Z",
+  "version": 1
+}

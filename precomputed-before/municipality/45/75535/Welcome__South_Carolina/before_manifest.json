@@ -1,0 +1,16 @@
+{
+  "article": "Welcome,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/75535/Welcome__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c0917ad5dede6d72420211f6147c83d552cbcca21a695c8b3436a3e10b835d8f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c0917ad5dede6d72420211f6147c83d552cbcca21a695c8b3436a3e10b835d8f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/75535/Welcome__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "75535",
+  "timestamp": "2026-05-25T00:10:27.145129Z",
+  "version": 1
+}

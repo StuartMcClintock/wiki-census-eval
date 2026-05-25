@@ -1,0 +1,16 @@
+{
+  "article": "Medina,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/51860/Medina__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8185ce7edbb9d9f1943322afea443052a2bf7942f6f751025ee0eac389b70f6a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8185ce7edbb9d9f1943322afea443052a2bf7942f6f751025ee0eac389b70f6a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/51860/Medina__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "51860",
+  "timestamp": "2026-05-25T00:03:11.851548Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Fowlerton,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/25198/Fowlerton__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c96b26192390c3c62e5dbbb43509b34b13fc5bbb16ee33bc6485c275447b0fd9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c96b26192390c3c62e5dbbb43509b34b13fc5bbb16ee33bc6485c275447b0fd9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/25198/Fowlerton__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "25198",
+  "timestamp": "2026-05-24T23:39:35.668421Z",
+  "version": 1
+}

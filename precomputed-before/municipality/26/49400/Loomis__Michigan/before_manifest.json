@@ -1,0 +1,16 @@
+{
+  "article": "Loomis,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/49400/Loomis__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "efbed28131cb9289683f18ac9a29c6478e3ad158c39cc29d4b2abcb1526f71d3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "efbed28131cb9289683f18ac9a29c6478e3ad158c39cc29d4b2abcb1526f71d3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/49400/Loomis__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "49400",
+  "timestamp": "2026-05-24T23:48:03.269223Z",
+  "version": 1
+}

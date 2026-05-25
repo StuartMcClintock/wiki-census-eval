@@ -1,0 +1,16 @@
+{
+  "article": "Turley,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/80120/Turley__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "654a9005eb35ec8e103cfca175cf8abfdc0d8c3d1ad0888cc8fed36f5b3b73f1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "654a9005eb35ec8e103cfca175cf8abfdc0d8c3d1ad0888cc8fed36f5b3b73f1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/80120/Turley__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "80120",
+  "timestamp": "2026-05-24T23:59:09.839544Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Amagansett,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/01594/Amagansett__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ae087d3700fafd16b9fb7483fd1d1bf6ce2bf8c156a067bc0d72b51f67815793",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ae087d3700fafd16b9fb7483fd1d1bf6ce2bf8c156a067bc0d72b51f67815793",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/01594/Amagansett__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "01594",
+  "timestamp": "2026-05-25T00:00:30.121780Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Sandy_Ridge,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/67872/Sandy_Ridge__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "50b369bcaff0ccb6f99fafdba77ee8a864e1a26a775b6fbf1cdb9cab42cf43b0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "50b369bcaff0ccb6f99fafdba77ee8a864e1a26a775b6fbf1cdb9cab42cf43b0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/67872/Sandy_Ridge__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "67872",
+  "timestamp": "2026-05-25T00:08:56.960274Z",
+  "version": 1
+}

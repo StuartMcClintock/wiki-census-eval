@@ -1,0 +1,16 @@
+{
+  "article": "Raynesford,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/61300/Raynesford__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "23c00d8a7649704dcb05685f09d7c9c0048ce6a949fe8bb6e116b7b2454854a1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "23c00d8a7649704dcb05685f09d7c9c0048ce6a949fe8bb6e116b7b2454854a1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/61300/Raynesford__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "61300",
+  "timestamp": "2026-05-24T23:54:45.327189Z",
+  "version": 1
+}

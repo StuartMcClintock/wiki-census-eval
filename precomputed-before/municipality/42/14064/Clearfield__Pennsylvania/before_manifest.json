@@ -1,0 +1,16 @@
+{
+  "article": "Clearfield,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/14064/Clearfield__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "26e5a71e2b223522341c7dd62595a6f173eb8a6d907fe8d985bc24906193367a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "26e5a71e2b223522341c7dd62595a6f173eb8a6d907fe8d985bc24906193367a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/14064/Clearfield__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "14064",
+  "timestamp": "2026-05-25T00:06:42.709423Z",
+  "version": 1
+}

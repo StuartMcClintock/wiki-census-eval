@@ -1,0 +1,16 @@
+{
+  "article": "Council,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/18820/Council__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9e8205c7892749622250cfd63f22d925d6c838897bb145da73bf5d32fa8750c8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9e8205c7892749622250cfd63f22d925d6c838897bb145da73bf5d32fa8750c8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/18820/Council__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "18820",
+  "timestamp": "2026-05-24T23:37:18.286265Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Upper_Bear_Creek,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/79785/Upper_Bear_Creek__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1b9e1507cf387fec85dc502d204e7a2f83e654c22fd40e4173d532d8b1a2c05c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1b9e1507cf387fec85dc502d204e7a2f83e654c22fd40e4173d532d8b1a2c05c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/79785/Upper_Bear_Creek__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "79785",
+  "timestamp": "2026-05-24T23:35:54.088913Z",
+  "version": 1
+}

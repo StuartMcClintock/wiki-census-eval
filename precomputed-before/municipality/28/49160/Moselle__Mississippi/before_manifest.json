@@ -1,0 +1,16 @@
+{
+  "article": "Moselle,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/49160/Moselle__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "eb3152f4c09409d51f8c9197e78062d32569e15a5e597ca4236f528d3f5a7e44",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "eb3152f4c09409d51f8c9197e78062d32569e15a5e597ca4236f528d3f5a7e44",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/49160/Moselle__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "49160",
+  "timestamp": "2026-05-24T23:50:17.391111Z",
+  "version": 1
+}

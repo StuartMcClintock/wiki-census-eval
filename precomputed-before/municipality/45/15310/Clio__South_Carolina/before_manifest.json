@@ -1,0 +1,16 @@
+{
+  "article": "Clio,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/15310/Clio__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e8c87b345bfb6e9040fca53e914b96358767fa8754b7e519184b7306820a4ece",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e8c87b345bfb6e9040fca53e914b96358767fa8754b7e519184b7306820a4ece",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/15310/Clio__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "15310",
+  "timestamp": "2026-05-25T00:09:55.373702Z",
+  "version": 1
+}

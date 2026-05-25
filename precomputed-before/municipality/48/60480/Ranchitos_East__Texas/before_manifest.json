@@ -1,0 +1,16 @@
+{
+  "article": "Ranchitos_East,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/60480/Ranchitos_East__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fe49974c0e65bda118bafa3f5ba6b22c6f6029af3226ed48e5ed0bca188c6f51",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fe49974c0e65bda118bafa3f5ba6b22c6f6029af3226ed48e5ed0bca188c6f51",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/60480/Ranchitos_East__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "60480",
+  "timestamp": "2026-05-25T00:16:27.348761Z",
+  "version": 1
+}

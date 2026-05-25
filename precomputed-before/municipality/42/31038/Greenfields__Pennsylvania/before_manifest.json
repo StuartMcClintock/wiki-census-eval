@@ -1,0 +1,16 @@
+{
+  "article": "Greenfields,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/31038/Greenfields__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f8c5c8e2aaefb04e8dd37a0d3796c8d8b5fd55b782cf71e5aac9d579c3559122",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f8c5c8e2aaefb04e8dd37a0d3796c8d8b5fd55b782cf71e5aac9d579c3559122",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/31038/Greenfields__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "31038",
+  "timestamp": "2026-05-25T00:07:19.463192Z",
+  "version": 1
+}

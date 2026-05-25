@@ -1,0 +1,16 @@
+{
+  "article": "Warfield,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/80616/Warfield__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f9843f432af85499e9ed3a44a98ccbf4f77c73227b6d6eef9b8bb598ca9f6708",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f9843f432af85499e9ed3a44a98ccbf4f77c73227b6d6eef9b8bb598ca9f6708",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/80616/Warfield__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "80616",
+  "timestamp": "2026-05-24T23:44:24.492738Z",
+  "version": 1
+}

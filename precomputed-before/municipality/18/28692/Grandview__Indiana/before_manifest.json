@@ -1,0 +1,16 @@
+{
+  "article": "Grandview,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/28692/Grandview__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "09da6e4c60e43b18594072416fc6dbe6062dc83efeccfb0e48c1891fb745ba50",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "09da6e4c60e43b18594072416fc6dbe6062dc83efeccfb0e48c1891fb745ba50",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/28692/Grandview__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "28692",
+  "timestamp": "2026-05-24T23:39:37.143060Z",
+  "version": 1
+}

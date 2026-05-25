@@ -1,0 +1,16 @@
+{
+  "article": "Wattsburg,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/81648/Wattsburg__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "443716801890b021f71d7f809116b73941beff04973b79f718c931e5b2c2b070",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "443716801890b021f71d7f809116b73941beff04973b79f718c931e5b2c2b070",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/81648/Wattsburg__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "81648",
+  "timestamp": "2026-05-25T00:09:24.718937Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Irvington,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/40088/Irvington__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7b7d7f6d4256c6232aac8d842140af368927ab345ea7a7f20c6b2ed2bd82bad0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7b7d7f6d4256c6232aac8d842140af368927ab345ea7a7f20c6b2ed2bd82bad0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/40088/Irvington__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "40088",
+  "timestamp": "2026-05-25T00:19:19.144306Z",
+  "version": 1
+}

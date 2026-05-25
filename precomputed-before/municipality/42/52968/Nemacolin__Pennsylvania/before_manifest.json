@@ -1,0 +1,16 @@
+{
+  "article": "Nemacolin,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/52968/Nemacolin__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6dce91329c9d729ec861e45c8e978d05710809bc98f6da71e2f7f3dfa311341b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6dce91329c9d729ec861e45c8e978d05710809bc98f6da71e2f7f3dfa311341b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/52968/Nemacolin__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "52968",
+  "timestamp": "2026-05-25T00:08:13.360605Z",
+  "version": 1
+}

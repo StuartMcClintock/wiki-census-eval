@@ -1,0 +1,16 @@
+{
+  "article": "Elmwood,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/15430/Elmwood__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7009362db0e81080e207f24371afd604430a5ccf0aeabb5c004385a4621059b7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7009362db0e81080e207f24371afd604430a5ccf0aeabb5c004385a4621059b7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/15430/Elmwood__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "15430",
+  "timestamp": "2026-05-24T23:55:24.739225Z",
+  "version": 1
+}

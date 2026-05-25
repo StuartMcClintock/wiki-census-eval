@@ -1,0 +1,16 @@
+{
+  "article": "Milltown,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/52075/Milltown__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bcc2aca9aa43527cbdb488d15b77b60c8b47c0642a498ebe6918d7e045bbd2f5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bcc2aca9aa43527cbdb488d15b77b60c8b47c0642a498ebe6918d7e045bbd2f5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/52075/Milltown__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "52075",
+  "timestamp": "2026-05-25T00:22:25.302071Z",
+  "version": 1
+}

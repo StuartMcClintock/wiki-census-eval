@@ -1,0 +1,16 @@
+{
+  "article": "Seaforth,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/59098/Seaforth__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dbfdc8d3d4f770af3667de24138652b71f9d3acab3ffe222a970412f54fef00a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dbfdc8d3d4f770af3667de24138652b71f9d3acab3ffe222a970412f54fef00a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/59098/Seaforth__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "59098",
+  "timestamp": "2026-05-24T23:49:44.640878Z",
+  "version": 1
+}

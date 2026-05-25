@@ -1,0 +1,16 @@
+{
+  "article": "Wide_Ruins,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/82810/Wide_Ruins__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d13a2935f505759a4f7d22e523d6eaf6a25714bdb5537031893ab1aeb2e6f9cf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d13a2935f505759a4f7d22e523d6eaf6a25714bdb5537031893ab1aeb2e6f9cf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/82810/Wide_Ruins__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "82810",
+  "timestamp": "2026-05-24T23:33:14.913780Z",
+  "version": 1
+}

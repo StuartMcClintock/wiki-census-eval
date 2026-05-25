@@ -1,0 +1,16 @@
+{
+  "article": "Dot_Lake,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/19720/Dot_Lake__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7e9b233f9e491ae6c339777230aefded9eb129085d39d015696e67e1ff262db4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7e9b233f9e491ae6c339777230aefded9eb129085d39d015696e67e1ff262db4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/19720/Dot_Lake__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "19720",
+  "timestamp": "2026-05-24T23:32:20.790271Z",
+  "version": 1
+}

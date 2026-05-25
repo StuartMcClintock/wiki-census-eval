@@ -1,0 +1,16 @@
+{
+  "article": "Marathon,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/49260/Marathon__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3df53a969a06260162841963abec8aaf94e99029ba257b3ac8cb14a61c102df4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3df53a969a06260162841963abec8aaf94e99029ba257b3ac8cb14a61c102df4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/49260/Marathon__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "49260",
+  "timestamp": "2026-05-24T23:41:24.994704Z",
+  "version": 1
+}

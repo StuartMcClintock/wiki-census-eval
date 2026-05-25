@@ -1,0 +1,16 @@
+{
+  "article": "Valmy,_Nevada",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/32/78200/Valmy__Nevada/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "daf5167d0ea9ce9fbfae9989d184cf71984cb7fd556c7556306be31e6c28e963",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "daf5167d0ea9ce9fbfae9989d184cf71984cb7fd556c7556306be31e6c28e963",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/32/78200/Valmy__Nevada/manifest.json",
+  "state_fips": "32",
+  "status": "match",
+  "target_fips": "78200",
+  "timestamp": "2026-05-24T23:57:34.728643Z",
+  "version": 1
+}

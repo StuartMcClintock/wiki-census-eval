@@ -1,0 +1,16 @@
+{
+  "article": "La_Paz_Valley,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/40160/La_Paz_Valley__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a567d186b25451f6008520bfb19ffbfaf76de376ea44f6c575fc3816473c9249",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a567d186b25451f6008520bfb19ffbfaf76de376ea44f6c575fc3816473c9249",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/40160/La_Paz_Valley__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "40160",
+  "timestamp": "2026-05-24T23:33:02.592832Z",
+  "version": 1
+}

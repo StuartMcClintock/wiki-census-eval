@@ -1,0 +1,16 @@
+{
+  "article": "Thornburg,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/76560/Thornburg__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6b712e192a9e03a90d5fb90df56de7b9104d281b523957fcee53abb6e82f1726",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6b712e192a9e03a90d5fb90df56de7b9104d281b523957fcee53abb6e82f1726",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/76560/Thornburg__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "76560",
+  "timestamp": "2026-05-25T00:09:16.432014Z",
+  "version": 1
+}

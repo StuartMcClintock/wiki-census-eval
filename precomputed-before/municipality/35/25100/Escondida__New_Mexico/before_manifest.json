@@ -1,0 +1,16 @@
+{
+  "article": "Escondida,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/25100/Escondida__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "54043aa8a8f1cf994543f4505e5ac173a39d0f4785b61e55f4b5d199a00f611a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "54043aa8a8f1cf994543f4505e5ac173a39d0f4785b61e55f4b5d199a00f611a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/25100/Escondida__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "25100",
+  "timestamp": "2026-05-24T23:58:30.093366Z",
+  "version": 1
+}

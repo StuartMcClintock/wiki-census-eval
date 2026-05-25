@@ -1,0 +1,16 @@
+{
+  "article": "Montreal,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/54075/Montreal__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cb2bf20a90200e70c85eb13bdda527c7db7269fd520eae6c43aadd613cd93433",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cb2bf20a90200e70c85eb13bdda527c7db7269fd520eae6c43aadd613cd93433",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/54075/Montreal__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "54075",
+  "timestamp": "2026-05-25T00:22:26.638962Z",
+  "version": 1
+}

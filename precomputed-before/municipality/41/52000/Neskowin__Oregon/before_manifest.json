@@ -1,0 +1,16 @@
+{
+  "article": "Neskowin,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/52000/Neskowin__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cc33176977a3cf2aca0d03802d6d8442b09618520eeb704eeff35d7e81021c37",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cc33176977a3cf2aca0d03802d6d8442b09618520eeb704eeff35d7e81021c37",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/52000/Neskowin__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "52000",
+  "timestamp": "2026-05-25T00:05:52.483084Z",
+  "version": 1
+}

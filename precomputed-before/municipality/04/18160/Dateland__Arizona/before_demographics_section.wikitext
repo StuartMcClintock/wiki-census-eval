@@ -1,0 +1,48 @@
+==Demographics==
+{{US Census population
+|align=right
+|2010= 416
+|2020= 257
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2016}}</ref>
+}}{{clear left}}
+
+{| class="wikitable" style="text-align:center;"
+|+'''Dateland CDP, Arizona – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!{{partial|2020}}<ref>{{cite web |title=HISPANIC OR LATINO, AND NOT HISPANIC OR LATINO BY RACE (2020) |url=https://data.census.gov/table?t=Race+and+Ethnicity&g=160XX00US0418160&d=DEC+Demographic+and+Housing+Characteristics |website=data.census.gov |publisher=U.S. Census Bureau}}</ref>
+!2010<ref>{{cite web |title=HISPANIC OR LATINO, AND NOT HISPANIC OR LATINO BY RACE (2010) |url=https://data.census.gov/table?t=Race+and+Ethnicity&g=160XX00US0418160&y=2010 |website=data.census.gov |publisher=U.S. Census Bureau}}</ref>
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|style='background: #ffffe6; |30%<br><small>(77)</small>
+|39.9%<br><small>(166)</small>
+|-
+|[[Non-Hispanic or Latino African Americans|Black]] alone (NH)
+|style='background: #ffffe6; |0%<br><small>(0)</small>
+|0%<br><small>(0)</small>
+|-
+|[[Native Americans in the United States|American Indian]] alone (NH)
+|style='background: #ffffe6; |0.4%<br><small>(1)</small>
+|0%<br><small>(0)</small>
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|style='background: #ffffe6; |0%<br><small>(0)</small>
+|0.2%<br><small>(1)</small>
+|-
+|[[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|style='background: #ffffe6; |0%<br><small>(0)</small>
+|0%<br><small>(0)</small>
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|style='background: #ffffe6; |0%<br><small>(0)</small>
+|0%<br><small>(0)</small>
+|-
+|[[Multiracial Americans|Multiracial]] (NH)
+|style='background: #ffffe6; |1.2%<br><small>(3)</small>
+|0.5%<br><small>(2)</small>
+|-
+|[[Hispanic and Latino Americans|Hispanic/Latino]] (any race)
+|style='background: #ffffe6; |68.5%<br><small>(176)</small>
+|59.4%<br><small>(247)</small>
+|}
+As of [[2020 United States census|2020]], 68.5% of the CDP's population were [[Mexicans|Mexican]].<ref>{{cite web |title=TOTAL POPULATION |url=https://data.census.gov/table?t=-06:-1000E:-3000F:-4000G:-5000K:-7000E:-8000B&g=160XX00US0418160&d=DEC+Detailed+Demographic+and+Housing+Characteristics+File+A |website=data.census.gov |publisher=U.S. Census Bureau}}</ref>
+

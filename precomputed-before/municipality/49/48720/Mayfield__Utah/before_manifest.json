@@ -1,0 +1,16 @@
+{
+  "article": "Mayfield,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/48720/Mayfield__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cbf477425819c595fa3e38e5deed84bb0637a107b63ad9347ae42fcd9546177b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cbf477425819c595fa3e38e5deed84bb0637a107b63ad9347ae42fcd9546177b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/48720/Mayfield__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "48720",
+  "timestamp": "2026-05-25T00:17:05.572169Z",
+  "version": 1
+}

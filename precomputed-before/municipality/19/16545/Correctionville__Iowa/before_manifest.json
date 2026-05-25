@@ -1,0 +1,16 @@
+{
+  "article": "Correctionville,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/16545/Correctionville__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e7bf10e611967d731f98feb8a9880d090d961ce993b35c17610f6972e648b4c1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e7bf10e611967d731f98feb8a9880d090d961ce993b35c17610f6972e648b4c1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/16545/Correctionville__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "16545",
+  "timestamp": "2026-05-24T23:40:37.191557Z",
+  "version": 1
+}

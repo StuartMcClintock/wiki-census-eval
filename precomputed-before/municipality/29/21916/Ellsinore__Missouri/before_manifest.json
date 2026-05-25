@@ -1,0 +1,16 @@
+{
+  "article": "Ellsinore,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/21916/Ellsinore__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "787728aa98fc0baa50a4bec3c81cfc7c146488ce5413aa83029939c4ba572393",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "787728aa98fc0baa50a4bec3c81cfc7c146488ce5413aa83029939c4ba572393",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/21916/Ellsinore__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "21916",
+  "timestamp": "2026-05-24T23:51:06.043170Z",
+  "version": 1
+}

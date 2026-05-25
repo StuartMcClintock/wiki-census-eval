@@ -1,0 +1,16 @@
+{
+  "article": "Altura,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/01234/Altura__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bed1a2fafd37c6bd84e6cda2ce928fc6dbf40e86c515daf953c58c961325ad81",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bed1a2fafd37c6bd84e6cda2ce928fc6dbf40e86c515daf953c58c961325ad81",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/01234/Altura__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "01234",
+  "timestamp": "2026-05-24T23:48:34.671802Z",
+  "version": 1
+}

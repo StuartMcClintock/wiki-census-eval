@@ -1,0 +1,16 @@
+{
+  "article": "Miller,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/48242/Miller__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1493506ed0f3b3d9ba3a9e281053ff961f0aaf785d1ec0d35830079eae30fc88",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1493506ed0f3b3d9ba3a9e281053ff961f0aaf785d1ec0d35830079eae30fc88",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/48242/Miller__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "48242",
+  "timestamp": "2026-05-24T23:53:32.326019Z",
+  "version": 1
+}

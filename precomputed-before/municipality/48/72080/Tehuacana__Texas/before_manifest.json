@@ -1,0 +1,16 @@
+{
+  "article": "Tehuacana,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/72080/Tehuacana__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b4150ce377ed8e82495116b9b3c7006804d876eadd5daf4b4c2fc3632a44589c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b4150ce377ed8e82495116b9b3c7006804d876eadd5daf4b4c2fc3632a44589c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/72080/Tehuacana__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "72080",
+  "timestamp": "2026-05-25T00:16:41.664491Z",
+  "version": 1
+}

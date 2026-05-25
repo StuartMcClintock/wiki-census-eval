@@ -1,0 +1,16 @@
+{
+  "article": "Merino,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/50040/Merino__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "19a8634595c2047ea5d20484a30b338ca8873ca80b1c3d12e01092e44dbf2fe0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "19a8634595c2047ea5d20484a30b338ca8873ca80b1c3d12e01092e44dbf2fe0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/50040/Merino__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "50040",
+  "timestamp": "2026-05-24T23:35:32.892429Z",
+  "version": 1
+}

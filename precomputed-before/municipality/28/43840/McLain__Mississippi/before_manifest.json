@@ -1,0 +1,16 @@
+{
+  "article": "McLain,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/43840/McLain__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1d25609584bbebd3ac706c64e05f62a9f87fe8d6b7fae609b762603aa1042c64",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1d25609584bbebd3ac706c64e05f62a9f87fe8d6b7fae609b762603aa1042c64",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/43840/McLain__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "43840",
+  "timestamp": "2026-05-24T23:50:15.600234Z",
+  "version": 1
+}

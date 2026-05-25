@@ -1,0 +1,16 @@
+{
+  "article": "White_Pine,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/80360/White_Pine__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2f4ef59772c2c7953a53c6d8364681ac966bbd4b10fcb9535e9a0f38870e6d8d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2f4ef59772c2c7953a53c6d8364681ac966bbd4b10fcb9535e9a0f38870e6d8d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/80360/White_Pine__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "80360",
+  "timestamp": "2026-05-25T00:14:58.811428Z",
+  "version": 1
+}

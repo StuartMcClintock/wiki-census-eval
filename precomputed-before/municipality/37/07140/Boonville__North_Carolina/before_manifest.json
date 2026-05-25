@@ -1,0 +1,16 @@
+{
+  "article": "Boonville,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/07140/Boonville__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "185d88d2d710ea8d71269834c4854cf8ecb90b71c345b80198e8ff666470ef16",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "185d88d2d710ea8d71269834c4854cf8ecb90b71c345b80198e8ff666470ef16",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/07140/Boonville__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "07140",
+  "timestamp": "2026-05-25T00:01:46.182614Z",
+  "version": 1
+}

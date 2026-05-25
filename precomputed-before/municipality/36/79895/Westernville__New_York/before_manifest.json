@@ -1,0 +1,16 @@
+{
+  "article": "Westernville,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/79895/Westernville__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": false,
+  "current_hash": null,
+  "location_kind": "municipality",
+  "manifest_had_section": false,
+  "manifest_hash": null,
+  "reason": "no demographics section then or now",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/79895/Westernville__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "79895",
+  "timestamp": "2026-05-25T00:01:25.335461Z",
+  "version": 1
+}

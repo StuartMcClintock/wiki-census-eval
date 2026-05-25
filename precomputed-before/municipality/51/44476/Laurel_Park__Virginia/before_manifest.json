@@ -1,0 +1,16 @@
+{
+  "article": "Laurel_Park,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/44476/Laurel_Park__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "668a948e2f16908f3224faac6660ca9cdd0c2c58c1da9e823bdf078eea744f5c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "668a948e2f16908f3224faac6660ca9cdd0c2c58c1da9e823bdf078eea744f5c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/44476/Laurel_Park__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "44476",
+  "timestamp": "2026-05-25T00:19:22.054041Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Ursine,_Nevada",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/32/77200/Ursine__Nevada/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "eb37d5ef8e85e41df9bae49e051ee04d1954d0fe24957cff4b8286ace4ff02ce",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "eb37d5ef8e85e41df9bae49e051ee04d1954d0fe24957cff4b8286ace4ff02ce",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/32/77200/Ursine__Nevada/manifest.json",
+  "state_fips": "32",
+  "status": "match",
+  "target_fips": "77200",
+  "timestamp": "2026-05-24T23:57:34.609674Z",
+  "version": 1
+}

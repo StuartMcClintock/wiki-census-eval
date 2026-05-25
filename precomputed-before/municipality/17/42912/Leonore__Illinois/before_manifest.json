@@ -1,0 +1,16 @@
+{
+  "article": "Leonore,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/42912/Leonore__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ebe062ac161d05958acf6208ff873078ee9704e0f90ac08f42c8900cb1bf0549",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ebe062ac161d05958acf6208ff873078ee9704e0f90ac08f42c8900cb1bf0549",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/42912/Leonore__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "42912",
+  "timestamp": "2026-05-24T23:38:28.608881Z",
+  "version": 1
+}

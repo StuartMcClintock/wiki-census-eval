@@ -1,0 +1,16 @@
+{
+  "article": "Las_Campanas,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/39332/Las_Campanas__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "65bbb124948e1dbf96e9a36e092e39bd147b7f5e0b368f4d4f44bb270f33eb15",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "65bbb124948e1dbf96e9a36e092e39bd147b7f5e0b368f4d4f44bb270f33eb15",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/39332/Las_Campanas__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "39332",
+  "timestamp": "2026-05-24T23:58:37.391774Z",
+  "version": 1
+}

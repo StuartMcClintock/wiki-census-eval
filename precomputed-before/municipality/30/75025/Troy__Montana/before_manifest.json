@@ -1,0 +1,16 @@
+{
+  "article": "Troy,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/75025/Troy__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ebaf7e22bc5df3440df71a05e0d51b7d339db5e5b4b83121e34564a771c3b8dd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ebaf7e22bc5df3440df71a05e0d51b7d339db5e5b4b83121e34564a771c3b8dd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/75025/Troy__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "75025",
+  "timestamp": "2026-05-24T23:55:00.747561Z",
+  "version": 1
+}

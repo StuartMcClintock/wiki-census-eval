@@ -1,0 +1,16 @@
+{
+  "article": "Tropic,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/77560/Tropic__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7f8932dbee4b37f70958e356109a23288922e51cc4f5cc47924286e0e3fa9aef",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7f8932dbee4b37f70958e356109a23288922e51cc4f5cc47924286e0e3fa9aef",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/77560/Tropic__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "77560",
+  "timestamp": "2026-05-25T00:17:11.510988Z",
+  "version": 1
+}

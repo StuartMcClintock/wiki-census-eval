@@ -1,0 +1,16 @@
+{
+  "article": "Edwardsport,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/20458/Edwardsport__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c9cd76c7a48a526b3f961036ba1940a087c44289dce9cba9fe49dbf8fdbf37cb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c9cd76c7a48a526b3f961036ba1940a087c44289dce9cba9fe49dbf8fdbf37cb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/20458/Edwardsport__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "20458",
+  "timestamp": "2026-05-24T23:39:33.886217Z",
+  "version": 1
+}

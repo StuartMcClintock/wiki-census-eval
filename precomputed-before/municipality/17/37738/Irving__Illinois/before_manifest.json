@@ -1,0 +1,16 @@
+{
+  "article": "Irving,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/37738/Irving__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "34c50774d5389e92c4fb4a6b3b12dcd8573deca36cbb1df2b70f2793e634b4fe",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "34c50774d5389e92c4fb4a6b3b12dcd8573deca36cbb1df2b70f2793e634b4fe",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/37738/Irving__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "37738",
+  "timestamp": "2026-05-24T23:38:22.973620Z",
+  "version": 1
+}

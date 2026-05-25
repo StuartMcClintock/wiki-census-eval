@@ -1,0 +1,35 @@
+==Demographics==
+{{US Census population
+|2010= 369
+|2020= 742
+|estyear=2021
+|estimate=758
+|estref=<ref name="USCensusEst2020-2021">{{cite web |title=City and Town Population Totals: 2020-2021 |url=https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html |website=Census.gov |publisher=US Census Bureau |access-date=July 9, 2022}}</ref> {{increase}}
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=http://www.census.gov/prod/www/decennial.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2016}}</ref>
+}}
+
+===2020 census===
+{| class="wikitable" style="text-align:right"
+|+Duck racial composition<ref>{{Cite web|title=Explore Census Data|url=https://data.census.gov/cedsci/table?g=1600000US3718060&tid=DECENNIALPL2020.P2|access-date=December 21, 2021|website=data.census.gov}}</ref>
+!scope="col"| Race
+!scope="col"| Number
+!scope="col"| Percentage
+|-
+!scope="row"| [[White (U.S. Census)|White]] (non-Hispanic)
+| 697
+| 93.94%
+|-
+!scope="row"| [[Asian (U.S. Census)|Asian]]
+| 7
+| 0.94%
+|-
+!scope="row"| [[Race (United States Census)|Other/Mixed]]
+| 22
+| 2.96%
+|-
+!scope="row"| [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]]
+| 16
+| 2.16%
+|}
+As of the [[2020 United States census]], there were 742 people, 288 households, and 202 families residing in the town.
+

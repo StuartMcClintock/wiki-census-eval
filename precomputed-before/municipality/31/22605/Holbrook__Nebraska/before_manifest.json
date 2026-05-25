@@ -1,0 +1,16 @@
+{
+  "article": "Holbrook,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/22605/Holbrook__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3550de221574266cfc329bcc2f8361b1b611ee29bccecf18af8611bed2797627",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3550de221574266cfc329bcc2f8361b1b611ee29bccecf18af8611bed2797627",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/22605/Holbrook__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "22605",
+  "timestamp": "2026-05-24T23:55:32.734913Z",
+  "version": 1
+}

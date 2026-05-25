@@ -1,0 +1,16 @@
+{
+  "article": "Bartelso,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/04000/Bartelso__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "767be631e28631455c700b502b9ff3fc2af2ce37da98cb271b03c79ccbf41d72",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "767be631e28631455c700b502b9ff3fc2af2ce37da98cb271b03c79ccbf41d72",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/04000/Bartelso__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "04000",
+  "timestamp": "2026-05-24T23:37:36.026875Z",
+  "version": 1
+}

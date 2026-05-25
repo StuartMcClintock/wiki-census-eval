@@ -1,0 +1,16 @@
+{
+  "article": "Plato,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/58088/Plato__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d105db3ed32947dadc89087b130537a2c43783662d7314b817fda232ff3a8136",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d105db3ed32947dadc89087b130537a2c43783662d7314b817fda232ff3a8136",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/58088/Plato__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "58088",
+  "timestamp": "2026-05-24T23:53:42.389485Z",
+  "version": 1
+}

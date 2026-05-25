@@ -1,0 +1,16 @@
+{
+  "article": "Long_Point,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/44576/Long_Point__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "11a9e1320fd8a1df187299bb921f87c43d44b2b5b7216a69a6c847d054280476",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "11a9e1320fd8a1df187299bb921f87c43d44b2b5b7216a69a6c847d054280476",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/44576/Long_Point__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "44576",
+  "timestamp": "2026-05-24T23:38:30.396417Z",
+  "version": 1
+}

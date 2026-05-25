@@ -1,0 +1,16 @@
+{
+  "article": "South_Lebanon,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/68875/South_Lebanon__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "509c4ccc3db2e11a508333bbf6ea31dfcfc295db112342bcbabebefb200fc6ac",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "509c4ccc3db2e11a508333bbf6ea31dfcfc295db112342bcbabebefb200fc6ac",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/68875/South_Lebanon__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "68875",
+  "timestamp": "2026-05-25T00:06:02.740029Z",
+  "version": 1
+}

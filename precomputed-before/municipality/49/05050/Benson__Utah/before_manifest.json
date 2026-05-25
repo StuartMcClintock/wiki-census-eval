@@ -1,0 +1,16 @@
+{
+  "article": "Benson,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/05050/Benson__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6988cfec5638da25582be0d0b1c369f4e0f33ed50fdbd801cd550a575acba51c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6988cfec5638da25582be0d0b1c369f4e0f33ed50fdbd801cd550a575acba51c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/05050/Benson__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "05050",
+  "timestamp": "2026-05-25T00:16:53.634988Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Balfour,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/04460/Balfour__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "03084cf59003e5afd150518e9a28b2771846c78124aba56e4157bcfafe924c58",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "03084cf59003e5afd150518e9a28b2771846c78124aba56e4157bcfafe924c58",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/04460/Balfour__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "04460",
+  "timestamp": "2026-05-25T00:02:33.492362Z",
+  "version": 1
+}

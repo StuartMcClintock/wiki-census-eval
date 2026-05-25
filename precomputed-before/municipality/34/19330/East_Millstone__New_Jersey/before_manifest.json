@@ -1,0 +1,16 @@
+{
+  "article": "East_Millstone,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/19330/East_Millstone__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4b45e93162a4f4b71c8f720bf49942457d4b9eb326a6df27ef65e460fac07d5b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4b45e93162a4f4b71c8f720bf49942457d4b9eb326a6df27ef65e460fac07d5b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/19330/East_Millstone__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "19330",
+  "timestamp": "2026-05-24T23:57:46.194356Z",
+  "version": 1
+}

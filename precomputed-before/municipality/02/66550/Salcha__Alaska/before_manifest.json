@@ -1,0 +1,16 @@
+{
+  "article": "Salcha,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/66550/Salcha__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a4e27648befc2c17f4b57726568d096e4c851aca2a40e95d0bd94150f4340203",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a4e27648befc2c17f4b57726568d096e4c851aca2a40e95d0bd94150f4340203",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/66550/Salcha__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "66550",
+  "timestamp": "2026-05-24T23:32:43.137125Z",
+  "version": 1
+}

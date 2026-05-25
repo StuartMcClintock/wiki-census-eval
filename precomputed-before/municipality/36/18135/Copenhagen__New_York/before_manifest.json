@@ -1,0 +1,16 @@
+{
+  "article": "Copenhagen,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/18135/Copenhagen__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "eb37a9172575d959f8e5023543917501b4d7382b38447b1e17ac3858b2bbcdfc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "eb37a9172575d959f8e5023543917501b4d7382b38447b1e17ac3858b2bbcdfc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/18135/Copenhagen__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "18135",
+  "timestamp": "2026-05-25T00:00:37.676556Z",
+  "version": 1
+}

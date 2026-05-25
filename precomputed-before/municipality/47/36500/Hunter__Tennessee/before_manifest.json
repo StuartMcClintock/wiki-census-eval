@@ -1,0 +1,16 @@
+{
+  "article": "Hunter,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/36500/Hunter__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4a8d3b8c1ea944878dfb524d48be380c8cf742f4743c840abcecb975f6c9da9e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4a8d3b8c1ea944878dfb524d48be380c8cf742f4743c840abcecb975f6c9da9e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/36500/Hunter__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "36500",
+  "timestamp": "2026-05-25T00:14:43.048388Z",
+  "version": 1
+}

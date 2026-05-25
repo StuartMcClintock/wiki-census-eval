@@ -1,0 +1,16 @@
+{
+  "article": "Petrey,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/59328/Petrey__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3cf5d41d6eb6b849b5255b85f8aba15af80401d405e0148eef0b45e61f57cffd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3cf5d41d6eb6b849b5255b85f8aba15af80401d405e0148eef0b45e61f57cffd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/59328/Petrey__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "59328",
+  "timestamp": "2026-05-24T23:32:08.453456Z",
+  "version": 1
+}

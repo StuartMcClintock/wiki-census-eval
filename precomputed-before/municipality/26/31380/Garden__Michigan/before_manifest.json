@@ -1,0 +1,16 @@
+{
+  "article": "Garden,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/31380/Garden__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fadc6765be51a222b4955bf854e137f63b868b56ee8ee72357ea64d0ae06942a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fadc6765be51a222b4955bf854e137f63b868b56ee8ee72357ea64d0ae06942a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/31380/Garden__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "31380",
+  "timestamp": "2026-05-24T23:47:56.447217Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Simpson,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/62040/Simpson__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4f23c14a905c098dfd1085ef79d04227908a9ba109abffa64a640de5ca5f3b8a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4f23c14a905c098dfd1085ef79d04227908a9ba109abffa64a640de5ca5f3b8a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/62040/Simpson__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "62040",
+  "timestamp": "2026-05-25T00:02:22.948915Z",
+  "version": 1
+}

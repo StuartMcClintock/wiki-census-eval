@@ -1,0 +1,81 @@
+==Demographics==
+{{US Census population
+|1900= 115
+|1910= 241
+|1920= 303
+|1930= 345
+|1940= 360
+|1950= 379
+|1960= 285
+|1970= 224
+|1980= 283
+|1990= 220
+|2000= 165
+|2010= 138
+|2020= 141
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|access-date=June 4, 2015}}</ref>
+}}
+
+{| class="wikitable" style="text-align:center;"
+|+'''Camak town, Georgia – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2 Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Camak town, Georgia|url=https://data.census.gov/table?q=p2&g=160XX00US1312512&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]]}}</ref>
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web|title=P2 Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Camak town, Georgia|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US1312512&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]]}}</ref>
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|65
+|style='background: #ffffe6; |60
+|47.10%
+|style='background: #ffffe6; |42.55%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|69
+|style='background: #ffffe6; |70
+|50.00%
+|style='background: #ffffe6; |49.65%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|0
+|style='background: #ffffe6; |2
+|0.00%
+|style='background: #ffffe6; |1.42%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|0
+|style='background: #ffffe6; |3
+|0.00%
+|style='background: #ffffe6; |2.13%
+|-
+|[[Native Hawaiian]] or [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|2
+|style='background: #ffffe6; |2
+|1.45%
+|style='background: #ffffe6; |1.42%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|2
+|style='background: #ffffe6; |4
+|1.45%
+|style='background: #ffffe6; |2.84%
+|-
+|'''Total'''
+|'''138'''
+|style='background: #ffffe6; |'''141'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+

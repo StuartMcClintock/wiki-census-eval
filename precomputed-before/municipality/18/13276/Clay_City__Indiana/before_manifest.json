@@ -1,0 +1,16 @@
+{
+  "article": "Clay_City,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/13276/Clay_City__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "398b29643e797f03ea4e185b922681505ca3bf7c18d1b24ad388b2648f2d871a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "398b29643e797f03ea4e185b922681505ca3bf7c18d1b24ad388b2648f2d871a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/13276/Clay_City__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "13276",
+  "timestamp": "2026-05-24T23:39:30.218878Z",
+  "version": 1
+}

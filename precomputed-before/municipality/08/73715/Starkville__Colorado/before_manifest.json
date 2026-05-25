@@ -1,0 +1,16 @@
+{
+  "article": "Starkville,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/73715/Starkville__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "04f0f4873e10bedf98fa803280746c9c62c3354af72524e14d85ab9ba94ea0fc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "04f0f4873e10bedf98fa803280746c9c62c3354af72524e14d85ab9ba94ea0fc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/73715/Starkville__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "73715",
+  "timestamp": "2026-05-24T23:35:41.753560Z",
+  "version": 1
+}

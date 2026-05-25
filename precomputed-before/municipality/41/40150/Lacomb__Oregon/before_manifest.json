@@ -1,0 +1,16 @@
+{
+  "article": "Lacomb,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/40150/Lacomb__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c5c8103a18ec7a7d407d076beabc2ee15189bcde479014551545d6489f32e688",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c5c8103a18ec7a7d407d076beabc2ee15189bcde479014551545d6489f32e688",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/40150/Lacomb__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "40150",
+  "timestamp": "2026-05-25T00:05:50.631260Z",
+  "version": 1
+}

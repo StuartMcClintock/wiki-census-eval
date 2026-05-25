@@ -1,0 +1,16 @@
+{
+  "article": "Finley,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/26180/Finley__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9cd73bc5627899da1c0471e58227ff0fb334d98098123fb1523c5600199c3163",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9cd73bc5627899da1c0471e58227ff0fb334d98098123fb1523c5600199c3163",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/26180/Finley__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "26180",
+  "timestamp": "2026-05-25T00:14:39.250986Z",
+  "version": 1
+}

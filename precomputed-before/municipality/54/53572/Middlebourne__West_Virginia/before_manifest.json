@@ -1,0 +1,16 @@
+{
+  "article": "Middlebourne,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/53572/Middlebourne__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "59654e8357c769cd0ef0651550167ceef1780af1733ab5957cc8391a712c5065",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "59654e8357c769cd0ef0651550167ceef1780af1733ab5957cc8391a712c5065",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/53572/Middlebourne__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "53572",
+  "timestamp": "2026-05-25T00:21:16.890670Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Hazel,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/35380/Hazel__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ef5f1bcbf23dbb3781693528a1519c71384ff7e9937f21ccb9fdf6ab26b6e2f4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ef5f1bcbf23dbb3781693528a1519c71384ff7e9937f21ccb9fdf6ab26b6e2f4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/35380/Hazel__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "35380",
+  "timestamp": "2026-05-24T23:44:06.053397Z",
+  "version": 1
+}

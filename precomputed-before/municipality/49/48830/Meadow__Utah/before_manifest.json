@@ -1,0 +1,16 @@
+{
+  "article": "Meadow,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/48830/Meadow__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "758a783ead4a1b22c898fa60c40256a56ab29de40df379b23bf46ccfc3794c35",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "758a783ead4a1b22c898fa60c40256a56ab29de40df379b23bf46ccfc3794c35",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/48830/Meadow__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "48830",
+  "timestamp": "2026-05-25T00:17:05.683642Z",
+  "version": 1
+}

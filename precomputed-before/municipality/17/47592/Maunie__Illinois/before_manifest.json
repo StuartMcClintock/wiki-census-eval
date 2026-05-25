@@ -1,0 +1,16 @@
+{
+  "article": "Maunie,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/47592/Maunie__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f633fe70e9ba0e5bf52094cef4b902b4f5bca4bc056331457fa5a1ea1cb1ddf0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f633fe70e9ba0e5bf52094cef4b902b4f5bca4bc056331457fa5a1ea1cb1ddf0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/47592/Maunie__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "47592",
+  "timestamp": "2026-05-24T23:38:34.100554Z",
+  "version": 1
+}

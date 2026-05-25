@@ -1,0 +1,16 @@
+{
+  "article": "Monmouth,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/53265/Monmouth__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5afcaf9c82bd53d92ef9fa02d99447aa801dda8a26443e4d95161182af2ee69b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5afcaf9c82bd53d92ef9fa02d99447aa801dda8a26443e4d95161182af2ee69b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/53265/Monmouth__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "53265",
+  "timestamp": "2026-05-24T23:41:29.400303Z",
+  "version": 1
+}

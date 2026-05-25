@@ -1,0 +1,16 @@
+{
+  "article": "Fairfax,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/20222/Fairfax__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "386e9db19b45323f79f6df46b09209d0e38d2cb37d520d6a17199accc8ad89c5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "386e9db19b45323f79f6df46b09209d0e38d2cb37d520d6a17199accc8ad89c5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/20222/Fairfax__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "20222",
+  "timestamp": "2026-05-24T23:48:53.872537Z",
+  "version": 1
+}

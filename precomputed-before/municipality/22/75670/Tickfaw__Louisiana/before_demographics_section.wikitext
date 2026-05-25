@@ -1,0 +1,45 @@
+==Demographics==
+{{US Census population
+|align=left
+|1880= 73
+|1960= 317
+|1970= 370
+|1980= 571
+|1990= 565
+|2000= 617
+|2010= 694
+|2020= 635
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://data.census.gov/cedsci/profile?g=1600000US2275670|accessdate=May 28, 2021|title=Explore Census Data }}</ref>
+}}
+{| class="wikitable" style="text-align:right"
+|+Tickfaw racial composition as of 2020<ref>{{Cite web|title=Explore Census Data|url=https://data.census.gov/cedsci/table?g=1600000US2275670&tid=DECENNIALPL2020.P2|access-date=December 28, 2021|website=data.census.gov}}</ref>
+!scope="col"|
+!scope="col"| Number
+!scope="col"| Percentage
+|-
+!scope="row"| [[White (U.S. Census)|White]] (non-Hispanic)
+| 425
+| 66.93%
+|-
+!scope="row"| [[African American (U.S. Census)|Black or African American]] (non-Hispanic)
+| 115
+| 18.11%
+|-
+!scope="row"| [[Native American (U.S. Census)|Native American]]
+| 5
+| 0.79%
+|-
+!scope="row"| [[Asian (U.S. Census)|Asian]]
+| 10
+| 1.57%
+|-
+!scope="row"| [[Race (United States Census)|Other/Mixed]]
+| 25
+| 3.94%
+|-
+!scope="row"| [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]]
+| 55
+| 8.66%
+|}
+As of the [[2020 United States census]], there were 635 people, 257 households, and 187 families residing in the village.
+

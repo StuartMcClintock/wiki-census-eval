@@ -1,0 +1,16 @@
+{
+  "article": "Gillsville,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/32860/Gillsville__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b8efb6f8edc7b5226b793d1d0ec6bf1184c690c4de26f75dbe0de5d32711d041",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b8efb6f8edc7b5226b793d1d0ec6bf1184c690c4de26f75dbe0de5d32711d041",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/32860/Gillsville__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "32860",
+  "timestamp": "2026-05-24T23:36:48.733359Z",
+  "version": 1
+}

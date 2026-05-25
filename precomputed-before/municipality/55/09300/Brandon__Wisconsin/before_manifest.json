@@ -1,0 +1,16 @@
+{
+  "article": "Brandon,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/09300/Brandon__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "55e6f0f2aecb6a00c86d185b72d1fc94241b24679dab3486083af660c79d4b6a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "55e6f0f2aecb6a00c86d185b72d1fc94241b24679dab3486083af660c79d4b6a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/09300/Brandon__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "09300",
+  "timestamp": "2026-05-25T00:21:38.845025Z",
+  "version": 1
+}

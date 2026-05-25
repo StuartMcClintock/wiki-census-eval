@@ -1,0 +1,16 @@
+{
+  "article": "Battle_Creek,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/04870/Battle_Creek__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3ecf370558dda95d3182e55cb90b1362b95af24a7232fa4e49252c7984bff0fc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3ecf370558dda95d3182e55cb90b1362b95af24a7232fa4e49252c7984bff0fc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/04870/Battle_Creek__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "04870",
+  "timestamp": "2026-05-24T23:40:26.352360Z",
+  "version": 1
+}

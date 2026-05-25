@@ -1,0 +1,16 @@
+{
+  "article": "Montezuma,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/47875/Montezuma__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6bb271e2080d46fb2b9c3e781fea76991309362e0870de5c4f2f15508e7e3e80",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6bb271e2080d46fb2b9c3e781fea76991309362e0870de5c4f2f15508e7e3e80",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/47875/Montezuma__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "47875",
+  "timestamp": "2026-05-24T23:43:10.121612Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Woodville,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/83664/Woodville__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f35cdc561e98856d4c7b9eeb3515cd11215bb0a0dc825bd5e0b9c75562f4c664",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f35cdc561e98856d4c7b9eeb3515cd11215bb0a0dc825bd5e0b9c75562f4c664",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/83664/Woodville__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "83664",
+  "timestamp": "2026-05-24T23:32:16.984639Z",
+  "version": 1
+}

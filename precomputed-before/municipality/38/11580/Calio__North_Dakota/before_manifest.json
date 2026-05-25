@@ -1,0 +1,16 @@
+{
+  "article": "Calio,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/11580/Calio__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ca69cd9152d90917079ac3a6ce6cbf523e3b3fe522458ea7b41cbd5bec49499a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ca69cd9152d90917079ac3a6ce6cbf523e3b3fe522458ea7b41cbd5bec49499a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/11580/Calio__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "11580",
+  "timestamp": "2026-05-25T00:02:37.053092Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Thompson_Springs,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/76180/Thompson_Springs__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f33de73820507e241e918591ec0f74021ad240c047748dfb5fe5ea4ebcd040aa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f33de73820507e241e918591ec0f74021ad240c047748dfb5fe5ea4ebcd040aa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/76180/Thompson_Springs__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "76180",
+  "timestamp": "2026-05-25T00:17:11.100163Z",
+  "version": 1
+}

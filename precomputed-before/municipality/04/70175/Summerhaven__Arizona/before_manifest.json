@@ -1,0 +1,16 @@
+{
+  "article": "Summerhaven,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/70175/Summerhaven__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e8ba39bce2eb952f7a646ce681e6444abc3971e707aeb6674b987c036ba73496",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e8ba39bce2eb952f7a646ce681e6444abc3971e707aeb6674b987c036ba73496",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/70175/Summerhaven__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "70175",
+  "timestamp": "2026-05-24T23:33:10.826874Z",
+  "version": 1
+}

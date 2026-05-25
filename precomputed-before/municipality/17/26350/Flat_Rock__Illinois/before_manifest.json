@@ -1,0 +1,16 @@
+{
+  "article": "Flat_Rock,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/26350/Flat_Rock__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8873fe7afb2f92dd72d92eb5d3786b7e34706c8ea19c8ab41630df1ade4ca0e2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8873fe7afb2f92dd72d92eb5d3786b7e34706c8ea19c8ab41630df1ade4ca0e2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/26350/Flat_Rock__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "26350",
+  "timestamp": "2026-05-24T23:38:13.295479Z",
+  "version": 1
+}

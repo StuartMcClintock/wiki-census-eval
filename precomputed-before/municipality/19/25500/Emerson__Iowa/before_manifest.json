@@ -1,0 +1,16 @@
+{
+  "article": "Emerson,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/25500/Emerson__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "65e839bc1fb721ceb3563e66358ad56da13c1e18ccdfad7b5db4bea5faf515c2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "65e839bc1fb721ceb3563e66358ad56da13c1e18ccdfad7b5db4bea5faf515c2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/25500/Emerson__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "25500",
+  "timestamp": "2026-05-24T23:40:45.401770Z",
+  "version": 1
+}

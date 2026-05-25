@@ -1,0 +1,16 @@
+{
+  "article": "Reading,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/67500/Reading__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "37790319545910682cb4275d1d5ef4762171ff1e2ed789e545bd5b5c96a0b3df",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "37790319545910682cb4275d1d5ef4762171ff1e2ed789e545bd5b5c96a0b3df",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/67500/Reading__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "67500",
+  "timestamp": "2026-05-24T23:48:25.519695Z",
+  "version": 1
+}

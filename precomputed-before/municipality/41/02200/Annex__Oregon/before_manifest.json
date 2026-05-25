@@ -1,0 +1,16 @@
+{
+  "article": "Annex,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/02200/Annex__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c40e72b86d61f01ea7e0e9f8f53cbf0d21c4b7ffef63cd6522363eefa7fa2156",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c40e72b86d61f01ea7e0e9f8f53cbf0d21c4b7ffef63cd6522363eefa7fa2156",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/02200/Annex__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "02200",
+  "timestamp": "2026-05-25T00:05:42.307306Z",
+  "version": 1
+}

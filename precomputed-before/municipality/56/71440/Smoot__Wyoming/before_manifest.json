@@ -1,0 +1,16 @@
+{
+  "article": "Smoot,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/71440/Smoot__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8a4cf31cdcdf5f4b2182f27bca4b240436b3d9133a57edd35a44dc140d9c7cef",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8a4cf31cdcdf5f4b2182f27bca4b240436b3d9133a57edd35a44dc140d9c7cef",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/71440/Smoot__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "71440",
+  "timestamp": "2026-05-25T00:23:23.669537Z",
+  "version": 1
+}

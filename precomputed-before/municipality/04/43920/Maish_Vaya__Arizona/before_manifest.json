@@ -1,0 +1,16 @@
+{
+  "article": "Maish_Vaya,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/43920/Maish_Vaya__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9367353697ed70e56aefcd566a2ec2d8fd8ff590eb4b546245404e25d3eef523",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9367353697ed70e56aefcd566a2ec2d8fd8ff590eb4b546245404e25d3eef523",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/43920/Maish_Vaya__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "43920",
+  "timestamp": "2026-05-24T23:33:03.612017Z",
+  "version": 1
+}

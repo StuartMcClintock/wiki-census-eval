@@ -1,0 +1,16 @@
+{
+  "article": "Darlington,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/18875/Darlington__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "80caaaf5da690d7ad5da5794a877730ce7ec9fb2cfa96ba24a055bfc07c4029a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "80caaaf5da690d7ad5da5794a877730ce7ec9fb2cfa96ba24a055bfc07c4029a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/18875/Darlington__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "18875",
+  "timestamp": "2026-05-25T00:21:46.935912Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Butte,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/07485/Butte__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6ac878e7676d4ce6f150e0d670556dc497070f3b22e9a7f9353b034aabb30c51",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6ac878e7676d4ce6f150e0d670556dc497070f3b22e9a7f9353b034aabb30c51",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/07485/Butte__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "07485",
+  "timestamp": "2026-05-24T23:55:15.736403Z",
+  "version": 1
+}

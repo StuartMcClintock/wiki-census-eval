@@ -1,0 +1,16 @@
+{
+  "article": "Buffalo_City,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/09700/Buffalo_City__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aecebbd42d97f37c2c0112068d8e1cd9733e6c3262714e6cdab179d52a9df8f9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aecebbd42d97f37c2c0112068d8e1cd9733e6c3262714e6cdab179d52a9df8f9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/09700/Buffalo_City__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "09700",
+  "timestamp": "2026-05-24T23:33:23.009051Z",
+  "version": 1
+}

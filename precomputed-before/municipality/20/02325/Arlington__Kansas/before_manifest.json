@@ -1,0 +1,16 @@
+{
+  "article": "Arlington,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/02325/Arlington__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "046310315181ad5f21d489fc86aed9bd9ad3e0134e2a4b1a5d342f516496abfb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "046310315181ad5f21d489fc86aed9bd9ad3e0134e2a4b1a5d342f516496abfb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/02325/Arlington__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "02325",
+  "timestamp": "2026-05-24T23:42:17.294573Z",
+  "version": 1
+}

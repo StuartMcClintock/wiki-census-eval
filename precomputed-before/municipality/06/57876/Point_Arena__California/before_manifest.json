@@ -1,0 +1,16 @@
+{
+  "article": "Point_Arena,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/57876/Point_Arena__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ede39cbab0006678c8904306bd2bdfa65a572717f1cc35d460c190d55a2373e1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ede39cbab0006678c8904306bd2bdfa65a572717f1cc35d460c190d55a2373e1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/57876/Point_Arena__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "57876",
+  "timestamp": "2026-05-24T23:34:47.107384Z",
+  "version": 1
+}

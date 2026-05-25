@@ -1,0 +1,38 @@
+==Demographics==
+{{US Census population
+|2020= 386
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=http://www.census.gov/prod/www/decennial.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2016}}</ref>
+}}
+
+{| class="wikitable"
+|+'''Clara racial composition as of 2020'''<ref>{{Cite web |title=Explore Census Data |url=https://data.census.gov/cedsci/table?g=1600000US2813700&tid=DECENNIALPL2020.P2 |access-date=2022-06-01 |website=data.census.gov}}</ref><br> (NH = Non-Hispanic){{efn|Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos can be of any race.<ref>{{cite web |title=About the Hispanic Population and its Origin |url=https://www.census.gov/topics/population/hispanic-origin/about.html |website=www.census.gov |access-date=18 May 2022}}</ref>}}
+!Race
+!Number
+!Percentage
+|-
+|[[Non-Hispanic or Latino whites|White]] (NH)
+|371
+|96.11%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] (NH)
+|2
+|0.52%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] (NH)
+|1
+|0.26%
+|-
+|[[Multiracial Americans|Mixed/Multi-Racial]] (NH)
+|7
+|1.81%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]]
+|5
+|1.3%
+|-
+|'''Total'''
+|'''386'''
+|
+|}
+As of the [[2020 United States census]], there were 386 people, 291 households, and 118 families residing in the CDP.
+

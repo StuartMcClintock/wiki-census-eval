@@ -1,0 +1,16 @@
+{
+  "article": "Sweet_Water_Village,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/71642/Sweet_Water_Village__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f48e704e8da09a47a5e8b57e007a82e822860af1222e7c8cc920c810ca59404a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f48e704e8da09a47a5e8b57e007a82e822860af1222e7c8cc920c810ca59404a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/71642/Sweet_Water_Village__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "71642",
+  "timestamp": "2026-05-24T23:33:11.261402Z",
+  "version": 1
+}

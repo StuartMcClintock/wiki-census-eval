@@ -1,0 +1,16 @@
+{
+  "article": "Scales_Mound,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/67925/Scales_Mound__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8376dd8a6143bd01567482362a9dd4739e94fc734622a9f1ec685465b8bce2c5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8376dd8a6143bd01567482362a9dd4739e94fc734622a9f1ec685465b8bce2c5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/67925/Scales_Mound__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "67925",
+  "timestamp": "2026-05-24T23:39:09.837801Z",
+  "version": 1
+}

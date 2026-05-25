@@ -1,0 +1,16 @@
+{
+  "article": "Rosendale,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/69525/Rosendale__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b07dfe6b02d19ae7526a1acfc06f2c1969b8d0f3f399d10a5631e60c6d89bec5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b07dfe6b02d19ae7526a1acfc06f2c1969b8d0f3f399d10a5631e60c6d89bec5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/69525/Rosendale__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "69525",
+  "timestamp": "2026-05-25T00:22:39.821099Z",
+  "version": 1
+}

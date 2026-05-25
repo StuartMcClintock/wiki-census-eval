@@ -1,0 +1,16 @@
+{
+  "article": "Gerlach,_Nevada",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/32/27300/Gerlach__Nevada/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b70fa9afcf72d87ed78511ab184b269646eb0c47647f2cef6671074c4b2abd56",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b70fa9afcf72d87ed78511ab184b269646eb0c47647f2cef6671074c4b2abd56",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/32/27300/Gerlach__Nevada/manifest.json",
+  "state_fips": "32",
+  "status": "match",
+  "target_fips": "27300",
+  "timestamp": "2026-05-24T23:57:29.428667Z",
+  "version": 1
+}

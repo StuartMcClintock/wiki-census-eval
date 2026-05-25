@@ -1,0 +1,16 @@
+{
+  "article": "Delphos,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/17600/Delphos__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "76e64f5b99674f1dd4309b0a532a72a0c588855aede0e70e9e8ce3bcd62f4203",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "76e64f5b99674f1dd4309b0a532a72a0c588855aede0e70e9e8ce3bcd62f4203",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/17600/Delphos__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "17600",
+  "timestamp": "2026-05-24T23:42:32.139430Z",
+  "version": 1
+}

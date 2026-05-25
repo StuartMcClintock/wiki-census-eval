@@ -1,0 +1,16 @@
+{
+  "article": "Triumph,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/76082/Triumph__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4241fd9a48f0c1a60a3f777a2046f1e733cd186eae2c54d72eac49f8c7727915",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4241fd9a48f0c1a60a3f777a2046f1e733cd186eae2c54d72eac49f8c7727915",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/76082/Triumph__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "76082",
+  "timestamp": "2026-05-24T23:39:17.567144Z",
+  "version": 1
+}

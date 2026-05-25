@@ -1,0 +1,16 @@
+{
+  "article": "Perkins,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/60312/Perkins__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "db0ff4d1c9aa4f0f4b0f7d67b1e0db92266e31aa583536519bead478012ea051",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "db0ff4d1c9aa4f0f4b0f7d67b1e0db92266e31aa583536519bead478012ea051",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/60312/Perkins__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "60312",
+  "timestamp": "2026-05-24T23:37:03.206673Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Otis_Orchards-East_Farms,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/52267/Otis_Orchards-East_Farms__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4442f38ad22b1ecf2a50b23864c74a191e077e834c7fe9730779a7e50b413b7b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4442f38ad22b1ecf2a50b23864c74a191e077e834c7fe9730779a7e50b413b7b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/52267/Otis_Orchards-East_Farms__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "52267",
+  "timestamp": "2026-05-25T00:20:26.857011Z",
+  "version": 1
+}

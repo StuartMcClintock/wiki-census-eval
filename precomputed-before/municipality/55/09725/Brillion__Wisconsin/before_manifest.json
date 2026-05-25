@@ -1,0 +1,16 @@
+{
+  "article": "Brillion,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/09725/Brillion__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d2e2d60e31be1f9e366de7abdf5e015d3e41e87d178294afe8ea87ab44c7f339",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d2e2d60e31be1f9e366de7abdf5e015d3e41e87d178294afe8ea87ab44c7f339",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/09725/Brillion__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "09725",
+  "timestamp": "2026-05-25T00:21:39.119417Z",
+  "version": 1
+}

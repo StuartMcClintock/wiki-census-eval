@@ -1,0 +1,16 @@
+{
+  "article": "Johnsonburg,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/36150/Johnsonburg__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "db7572520b2d2174e3b4e22eff5a7835cce6c6c07906a86b9ca949a17a37ee7e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "db7572520b2d2174e3b4e22eff5a7835cce6c6c07906a86b9ca949a17a37ee7e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/36150/Johnsonburg__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "36150",
+  "timestamp": "2026-05-24T23:57:51.692827Z",
+  "version": 1
+}

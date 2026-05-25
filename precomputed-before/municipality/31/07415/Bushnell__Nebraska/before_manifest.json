@@ -1,0 +1,16 @@
+{
+  "article": "Bushnell,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/07415/Bushnell__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "10f1fbecd4cb2d1c51f1f13500d4bae57df3292b841fd8d4e25842ce640a954e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "10f1fbecd4cb2d1c51f1f13500d4bae57df3292b841fd8d4e25842ce640a954e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/07415/Bushnell__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "07415",
+  "timestamp": "2026-05-24T23:55:15.595862Z",
+  "version": 1
+}

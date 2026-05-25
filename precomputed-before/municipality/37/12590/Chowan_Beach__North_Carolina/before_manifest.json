@@ -1,0 +1,16 @@
+{
+  "article": "Chowan_Beach,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/12590/Chowan_Beach__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "55ef4fe6cb286ac8260ad22ff884a862706ce1e9c7019436549106899e7309ac",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "55ef4fe6cb286ac8260ad22ff884a862706ce1e9c7019436549106899e7309ac",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/12590/Chowan_Beach__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "12590",
+  "timestamp": "2026-05-25T00:01:49.836531Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Homewood_at_Martinsburg,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/35500/Homewood_at_Martinsburg__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7acbc7b8eba2c5af74a46e4673b2089ff04082305624f0dcf664e940260c733e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7acbc7b8eba2c5af74a46e4673b2089ff04082305624f0dcf664e940260c733e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/35500/Homewood_at_Martinsburg__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "35500",
+  "timestamp": "2026-05-25T00:07:26.952852Z",
+  "version": 1
+}

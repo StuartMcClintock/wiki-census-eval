@@ -1,0 +1,16 @@
+{
+  "article": "Loup_City,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/29470/Loup_City__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e5d54b588297e2ccba43f4ba5bf1b4278825fe9c0e4fc0cb69cc1592ffac437f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e5d54b588297e2ccba43f4ba5bf1b4278825fe9c0e4fc0cb69cc1592ffac437f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/29470/Loup_City__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "29470",
+  "timestamp": "2026-05-24T23:55:49.967060Z",
+  "version": 1
+}

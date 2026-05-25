@@ -1,0 +1,16 @@
+{
+  "article": "Beaver,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/05200/Beaver__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b15ed83ff4c5005de7ff7b652a11805183146f8ac074045db8638941353c576e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b15ed83ff4c5005de7ff7b652a11805183146f8ac074045db8638941353c576e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/05200/Beaver__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "05200",
+  "timestamp": "2026-05-25T00:05:42.954627Z",
+  "version": 1
+}

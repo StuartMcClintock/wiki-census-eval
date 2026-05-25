@@ -1,0 +1,16 @@
+{
+  "article": "Harvey_Cedars,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/30390/Harvey_Cedars__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0c147869da41cb9757a7a527e2bfee3c67dbd500b5719d6c45824af60175c7c0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0c147869da41cb9757a7a527e2bfee3c67dbd500b5719d6c45824af60175c7c0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/30390/Harvey_Cedars__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "30390",
+  "timestamp": "2026-05-24T23:57:50.338864Z",
+  "version": 1
+}

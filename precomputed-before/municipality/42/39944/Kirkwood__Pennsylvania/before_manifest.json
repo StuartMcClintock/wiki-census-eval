@@ -1,0 +1,16 @@
+{
+  "article": "Kirkwood,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/39944/Kirkwood__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b90f2aa0a4c92bb51ac695fb9110be277a92551420d59f78e8dd626a1fad9bf3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b90f2aa0a4c92bb51ac695fb9110be277a92551420d59f78e8dd626a1fad9bf3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/39944/Kirkwood__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "39944",
+  "timestamp": "2026-05-25T00:07:45.006989Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Fargo,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/23140/Fargo__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d3168d67c5112031c393a7aaded4f84c8db4d980c54c886ba7c2f195d41ae28a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d3168d67c5112031c393a7aaded4f84c8db4d980c54c886ba7c2f195d41ae28a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/23140/Fargo__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "23140",
+  "timestamp": "2026-05-24T23:33:40.764900Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Herrick,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/28420/Herrick__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "05ce3bc77e536ffd1c8093d806692ff6baf671d48fd65b8830a8c01a3c4ddd32",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "05ce3bc77e536ffd1c8093d806692ff6baf671d48fd65b8830a8c01a3c4ddd32",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/28420/Herrick__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "28420",
+  "timestamp": "2026-05-25T00:10:41.617069Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Burrton,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/09575/Burrton__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "49eb59c08788f6157ef9673d0635933a57b30913a012c1c5dfbf31807ed9c7b5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "49eb59c08788f6157ef9673d0635933a57b30913a012c1c5dfbf31807ed9c7b5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/09575/Burrton__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "09575",
+  "timestamp": "2026-05-24T23:42:25.025328Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Griggstown,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/28470/Griggstown__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b6111be5a1b6d2bfad893509f8f56e077e21bc3231d5be7953f844c3ccf2bcf7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b6111be5a1b6d2bfad893509f8f56e077e21bc3231d5be7953f844c3ccf2bcf7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/28470/Griggstown__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "28470",
+  "timestamp": "2026-05-24T23:57:49.637581Z",
+  "version": 1
+}

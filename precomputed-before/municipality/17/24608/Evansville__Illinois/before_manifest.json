@@ -1,0 +1,16 @@
+{
+  "article": "Evansville,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/24608/Evansville__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7947456d71f928b109f6493d498d192034addfd26f5b170d07fd9bc26b69e1d8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7947456d71f928b109f6493d498d192034addfd26f5b170d07fd9bc26b69e1d8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/24608/Evansville__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "24608",
+  "timestamp": "2026-05-24T23:38:11.466973Z",
+  "version": 1
+}

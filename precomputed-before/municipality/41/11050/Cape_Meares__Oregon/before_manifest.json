@@ -1,0 +1,16 @@
+{
+  "article": "Cape_Meares,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/11050/Cape_Meares__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e04d2c9263cae973d40eb10f3d052a801e36050c68a86f8db27748fdc3d9b6e3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e04d2c9263cae973d40eb10f3d052a801e36050c68a86f8db27748fdc3d9b6e3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/11050/Cape_Meares__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "11050",
+  "timestamp": "2026-05-25T00:05:44.691630Z",
+  "version": 1
+}

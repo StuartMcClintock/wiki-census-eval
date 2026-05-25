@@ -1,0 +1,16 @@
+{
+  "article": "Womens_Bay,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/85680/Womens_Bay__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6279f81a50dac427f47430ca47b56a430d3b6242ea5ed69d7386d416c0ea3e95",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6279f81a50dac427f47430ca47b56a430d3b6242ea5ed69d7386d416c0ea3e95",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/85680/Womens_Bay__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "85680",
+  "timestamp": "2026-05-24T23:32:46.612176Z",
+  "version": 1
+}

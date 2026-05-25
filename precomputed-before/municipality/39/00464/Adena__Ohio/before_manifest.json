@@ -1,0 +1,16 @@
+{
+  "article": "Adena,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/00464/Adena__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "25f34eb1d4b3588e89be21251ae00f6ff059e41f7dafe00a2c519accbc409f16",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "25f34eb1d4b3588e89be21251ae00f6ff059e41f7dafe00a2c519accbc409f16",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/00464/Adena__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "00464",
+  "timestamp": "2026-05-25T00:03:28.979121Z",
+  "version": 1
+}

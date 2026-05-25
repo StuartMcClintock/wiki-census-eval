@@ -1,0 +1,16 @@
+{
+  "article": "Gretna,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/33232/Gretna__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ccac24e7c4cc5ea1d84eecd8e9d9ef78a3a4c59a0f7b70e293f07433b5c8b074",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ccac24e7c4cc5ea1d84eecd8e9d9ef78a3a4c59a0f7b70e293f07433b5c8b074",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/33232/Gretna__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "33232",
+  "timestamp": "2026-05-25T00:19:16.168252Z",
+  "version": 1
+}

@@ -1,0 +1,106 @@
+==Demographics==
+{{US Census population
+| 1960 = 103
+| 1980 = 512
+| 1990 = 485
+| 2000 = 763
+| 2010 = 741
+| 2020 = 775
+| estyear = 2025
+| estimate = 783
+| estref = {{increase}}
+| footnote = U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2015}}</ref>
+}}
+
+===2020 census===
+{| class="wikitable" style="text-align:center;"
+|+'''Lakeview, Arkansas – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004 Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Lakeview city, Arkansas |url=https://data.census.gov/table/DECENNIALSF12000.P004?g=160XX00US0538050|website=[[United States Census Bureau]]}}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2 Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Lakeview city, Arkansas|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US0538050&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]]}}</ref>
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web|title=P2 Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Lakeview city, Arkansas|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US0538050&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]]}}</ref>
+!% 2000
+!% 2010
+!{{partial|2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|746
+|718
+|style='background: #ffffe6; |723
+|97.77%
+|96.90%
+|style='background: #ffffe6; |93.29%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|3
+|2
+|style='background: #ffffe6; |9
+|0.39%
+|0.27%
+|style='background: #ffffe6; |1.16%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|4
+|4
+|style='background: #ffffe6; |4
+|0.52%
+|0.54%
+|style='background: #ffffe6; |0.52%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Race and ethnicity in the United States census|Some Other Race]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |1
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.13%
+|-
+|[[Multiracial Americans|Mixed Race or Multi-Racial]] (NH)
+|0
+|6
+|style='background: #ffffe6; |25
+|0.00%
+|0.81%
+|style='background: #ffffe6; |3.23%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|10
+|11
+|style='background: #ffffe6; |13
+|1.31%
+|1.48%
+|style='background: #ffffe6; |1.68%
+|-
+|'''Total'''
+|'''763'''
+|'''741'''
+|style='background: #ffffe6; |'''775'''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+As of the census<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|accessdate=January 31, 2008|title=U.S. Census website}}</ref> of 2010, there were 883 people, 402 households, and 282 families residing in the city.  The population density was {{convert|664.4|PD/sqmi|PD/km2|sp=us|adj=off}}.  There were 426 housing units at an average density of {{convert|371.0|/sqmi|/km2|sp=us|adj=off}}.  The racial makeup of the city was 98.95% [[Race (United States Census)|White]], 0.39% [[Race (United States Census)|Native American]], 0.52% [[Race (United States Census)|Asian]], 0.13% from [[Race (United States Census)|other races]].  1.31% of the population were [[Race (United States Census)|Hispanic]] or [[Race (United States Census)|Latino]] of any race.
+
+There were 372 households, out of which 14.0% had children under the age of 18 living with them, 64.2% were married couples living together, 2.2% had a female householder with no husband present, and 32.0% were non-families. 28.2% of all households were made up of individuals, and 15.9% had someone living alone who was 65 years of age or older.  The average household size was 2.05 and the average family size was 2.45.
+
+In the city, the population was spread out, with 13.6% under the age of 18, 3.5% from 18 to 24, 14.3% from 25 to 44, 30.4% from 45 to 64, and 38.1% who were 65 years of age or older.  The median age was 60 years. For every 100 females, there were 102.9 males.  For every 100 females age 18 and over, there were 101.5 males.
+
+The median income for a household in the city was $31,667, and the median income for a family was $38,482. Males had a median income of $27,750 versus $25,313 for females. The [[per capita income]] for the city was $16,667.  About 7.9% of families and 12.1% of the population were below the [[poverty line]], including 19.6% of those under age 18 and 4.1% of those age 65 or over.
+

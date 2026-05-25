@@ -1,0 +1,16 @@
+{
+  "article": "Hillside,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/34786/Hillside__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "21158712d6b4f786d68fe20c1d4c01e02dea5e4e6cbb11a14913ea1329d78494",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "21158712d6b4f786d68fe20c1d4c01e02dea5e4e6cbb11a14913ea1329d78494",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/34786/Hillside__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "34786",
+  "timestamp": "2026-05-25T00:00:48.090970Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Creston,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/15710/Creston__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "21f85ae334296bc8374b2cd2730ada6e32b7e68e1b35659e4e987a6c1970dc58",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "21f85ae334296bc8374b2cd2730ada6e32b7e68e1b35659e4e987a6c1970dc58",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/15710/Creston__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "15710",
+  "timestamp": "2026-05-25T00:20:08.567038Z",
+  "version": 1
+}

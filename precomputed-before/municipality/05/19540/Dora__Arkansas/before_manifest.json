@@ -1,0 +1,16 @@
+{
+  "article": "Dora,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/19540/Dora__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e8e8048d55e0a5ba7ca38371a4b4a125e08c045f76a71ba6782e2a5b86b2a396",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e8e8048d55e0a5ba7ca38371a4b4a125e08c045f76a71ba6782e2a5b86b2a396",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/19540/Dora__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "19540",
+  "timestamp": "2026-05-24T23:33:27.733636Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "New_Market,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/52940/New_Market__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2b8b962371285c5c2ff058c156ec696613eb174e8fa01ad6c51717e674162a5f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2b8b962371285c5c2ff058c156ec696613eb174e8fa01ad6c51717e674162a5f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/52940/New_Market__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "52940",
+  "timestamp": "2026-05-25T00:14:48.581543Z",
+  "version": 1
+}

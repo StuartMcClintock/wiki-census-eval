@@ -1,0 +1,16 @@
+{
+  "article": "Dolores,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/20770/Dolores__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6aeda5ecf3fea23bf806ad077be95d56b9f335db01a539d752ceabf46eab9775",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6aeda5ecf3fea23bf806ad077be95d56b9f335db01a539d752ceabf46eab9775",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/20770/Dolores__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "20770",
+  "timestamp": "2026-05-24T23:35:23.661726Z",
+  "version": 1
+}

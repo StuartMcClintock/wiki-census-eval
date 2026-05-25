@@ -1,0 +1,16 @@
+{
+  "article": "Eagleville,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/20424/Eagleville__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b7abf29fd7b27cfc6b1cc86b0f31b38b8476ec6095785e655327583dc8991e55",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b7abf29fd7b27cfc6b1cc86b0f31b38b8476ec6095785e655327583dc8991e55",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/20424/Eagleville__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "20424",
+  "timestamp": "2026-05-24T23:34:19.820423Z",
+  "version": 1
+}

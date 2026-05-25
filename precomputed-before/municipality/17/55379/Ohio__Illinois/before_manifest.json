@@ -1,0 +1,16 @@
+{
+  "article": "Ohio,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/55379/Ohio__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "69a19031627c09c700f7a9047c38169d36505f1b74d51a34f30465417c9ac3dc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "69a19031627c09c700f7a9047c38169d36505f1b74d51a34f30465417c9ac3dc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/55379/Ohio__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "55379",
+  "timestamp": "2026-05-24T23:38:42.706303Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Lake_Wisconsin,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/42012/Lake_Wisconsin__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c9e82dfa19dfb1f5852b7d58d66f0a3e623ecab8028456e8ffbcc96645a24747",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c9e82dfa19dfb1f5852b7d58d66f0a3e623ecab8028456e8ffbcc96645a24747",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/42012/Lake_Wisconsin__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "42012",
+  "timestamp": "2026-05-25T00:22:19.021958Z",
+  "version": 1
+}

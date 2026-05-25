@@ -1,0 +1,16 @@
+{
+  "article": "Hebron,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/21905/Hebron__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2e99aae32f221a8832d76332731d17af589c3035a6f5581263c31498a109dd65",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2e99aae32f221a8832d76332731d17af589c3035a6f5581263c31498a109dd65",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/21905/Hebron__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "21905",
+  "timestamp": "2026-05-24T23:55:31.795310Z",
+  "version": 1
+}

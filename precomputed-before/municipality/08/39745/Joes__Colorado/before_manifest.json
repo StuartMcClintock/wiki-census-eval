@@ -1,0 +1,16 @@
+{
+  "article": "Joes,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/39745/Joes__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f5644d44979e6fd16d545bb5a3333bb070265430602e61d64c6fa372ae3db6af",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f5644d44979e6fd16d545bb5a3333bb070265430602e61d64c6fa372ae3db6af",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/39745/Joes__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "39745",
+  "timestamp": "2026-05-24T23:35:29.823111Z",
+  "version": 1
+}

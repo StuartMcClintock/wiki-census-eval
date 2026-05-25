@@ -1,0 +1,16 @@
+{
+  "article": "Cotter,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/16725/Cotter__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9a3ba31284d779e6de4f0ab2d347d1b6ae7211aeb026e6cdd321c9fcbe6f61f7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9a3ba31284d779e6de4f0ab2d347d1b6ae7211aeb026e6cdd321c9fcbe6f61f7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/16725/Cotter__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "16725",
+  "timestamp": "2026-05-24T23:40:37.434705Z",
+  "version": 1
+}

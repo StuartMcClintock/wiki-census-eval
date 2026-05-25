@@ -1,0 +1,16 @@
+{
+  "article": "Hope,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/38860/Hope__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "88504c956e86d36e95ea7e5aef959cdc41a671863cc337a8ed63237df43dce72",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "88504c956e86d36e95ea7e5aef959cdc41a671863cc337a8ed63237df43dce72",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/38860/Hope__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "38860",
+  "timestamp": "2026-05-25T00:03:05.017319Z",
+  "version": 1
+}

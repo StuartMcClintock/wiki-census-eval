@@ -1,0 +1,16 @@
+{
+  "article": "Union,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/77616/Union__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "47bb11c73164a060d599453cd4cb0708d68bb1769fcbe40bf3c4bf904dd8cd7c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "47bb11c73164a060d599453cd4cb0708d68bb1769fcbe40bf3c4bf904dd8cd7c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/77616/Union__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "77616",
+  "timestamp": "2026-05-24T23:32:14.664309Z",
+  "version": 1
+}

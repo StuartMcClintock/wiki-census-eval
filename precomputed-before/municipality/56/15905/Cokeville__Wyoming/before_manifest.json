@@ -1,0 +1,16 @@
+{
+  "article": "Cokeville,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/15905/Cokeville__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e7234da84368a257dd539814ad0b219ba1b357cf694005a53f0c64303624053b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e7234da84368a257dd539814ad0b219ba1b357cf694005a53f0c64303624053b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/15905/Cokeville__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "15905",
+  "timestamp": "2026-05-25T00:23:10.797528Z",
+  "version": 1
+}

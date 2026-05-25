@@ -1,0 +1,79 @@
+==Demographics==
+{{US Census population
+|2010= 239
+|2020= 739
+|estyear=
+|estimate=
+|estref=
+|align-fn=center
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census/decade.html|title=Decennial Census by Decade|website=[[United States Census Bureau]]|access-date=}}</ref><br>
+2010<ref name=2010CensusVA>{{Cite web|title= 2010 Census of Population - Population and Housing Unit Counts - Virginia|url=https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-6.pdf|website=[[United States Census Bureau]]}}</ref> 2020<ref name=2020CensusP2/>
+}}
+
+New Kent was first listed as a [[census designated place]] in the [[2010 U.S. census]].<ref name=2010CensusVA/>
+
+===2020 census===
+{| class="wikitable"
+|+'''New Kent CDP, Virginia - Demographic Profile'''<br> (''NH = Non-Hispanic'')
+!Race / Ethnicity
+!Pop 2010<ref>{{Cite web|title=P2 HISPANIC OR LATINO, AND NOT HISPANIC OR LATINO BY RACE - 2010: DEC Redistricting Data (PL 94-171) - New Kent CDP, Virginia|url=https://data.census.gov/cedsci/table?g=1600000US5155800&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]]}}</ref>
+!Pop 2020<ref name=2020CensusP2>{{Cite web|title=P2 HISPANIC OR LATINO, AND NOT HISPANIC OR LATINO BY RACE - 2020: DEC Redistricting Data (PL 94-171) - New Kent CDP, Virginia|url=https://data.census.gov/cedsci/table?g=1600000US5155800&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]]}}</ref>
+!% 2010
+!% 2020
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|197
+|574
+|82.43%
+|77.67%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|23
+|77
+|9.62%
+|10.42%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|0
+|1
+|0.00%
+|0.14%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|1
+|5
+|0.42%
+|0.68%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|1
+|0.00%
+|0.14%
+|-
+|Some Other Race alone (NH)
+|0
+|5
+|0.00%
+|0.68%
+|-
+|[[Multiracial Americans|Mixed Race/Multi-Racial]] (NH)
+|12
+|38
+|5.02%
+|5.14%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|6
+|38
+|2.51%
+|5.14%
+|-
+|'''Total'''
+|'''239'''
+|'''739'''
+|'''100.00%'''
+|'''100.00%'''
+|}
+''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos can be of any race.''
+

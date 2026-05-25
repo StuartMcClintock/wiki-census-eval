@@ -1,0 +1,16 @@
+{
+  "article": "La_Mesilla,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/38820/La_Mesilla__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "75ae2c60e80572f59969e36d5f603386438457c060122002fd7ab2d7514372b4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "75ae2c60e80572f59969e36d5f603386438457c060122002fd7ab2d7514372b4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/38820/La_Mesilla__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "38820",
+  "timestamp": "2026-05-24T23:58:37.041088Z",
+  "version": 1
+}

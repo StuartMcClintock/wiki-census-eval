@@ -1,0 +1,16 @@
+{
+  "article": "Otranto,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/60285/Otranto__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a31dc93f70d97a717296ed807415ba3a09794fbf909c76c91af3046919caec2c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a31dc93f70d97a717296ed807415ba3a09794fbf909c76c91af3046919caec2c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/60285/Otranto__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "60285",
+  "timestamp": "2026-05-24T23:41:35.807844Z",
+  "version": 1
+}

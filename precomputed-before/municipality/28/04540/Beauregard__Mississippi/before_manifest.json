@@ -1,0 +1,16 @@
+{
+  "article": "Beauregard,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/04540/Beauregard__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a51ec14ee1b30f78ce84ad585542b1f434ce86c6a328a1f4f450aff505d5bcea",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a51ec14ee1b30f78ce84ad585542b1f434ce86c6a328a1f4f450aff505d5bcea",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/04540/Beauregard__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "04540",
+  "timestamp": "2026-05-24T23:50:02.155565Z",
+  "version": 1
+}

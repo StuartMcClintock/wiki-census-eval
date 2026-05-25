@@ -1,0 +1,16 @@
+{
+  "article": "Guy,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/29230/Guy__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8b750de457d7a9aff92dd39e3843f1e59812ef48da7d80934a93675e0ce6c979",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8b750de457d7a9aff92dd39e3843f1e59812ef48da7d80934a93675e0ce6c979",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/29230/Guy__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "29230",
+  "timestamp": "2026-05-24T23:33:44.668594Z",
+  "version": 1
+}

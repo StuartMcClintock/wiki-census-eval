@@ -1,0 +1,16 @@
+{
+  "article": "Canton,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/09802/Canton__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "440e09859acfce5084440fd2b156051c22969cade5a06946990ef20d05fa233b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "440e09859acfce5084440fd2b156051c22969cade5a06946990ef20d05fa233b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/09802/Canton__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "09802",
+  "timestamp": "2026-05-24T23:48:43.643028Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Altoona,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/01745/Altoona__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a58318d2e1a1539719e17076cd4bc913b007454e0ec17f86fd1096f81d30175b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a58318d2e1a1539719e17076cd4bc913b007454e0ec17f86fd1096f81d30175b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/01745/Altoona__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "01745",
+  "timestamp": "2026-05-25T00:19:47.330631Z",
+  "version": 1
+}

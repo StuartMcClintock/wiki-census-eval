@@ -1,0 +1,16 @@
+{
+  "article": "Morningside,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/43780/Morningside__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a104dcbca110cea4051caeea6e10b7665f55d5b5aad04691253e3389afc84166",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a104dcbca110cea4051caeea6e10b7665f55d5b5aad04691253e3389afc84166",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/43780/Morningside__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "43780",
+  "timestamp": "2026-05-25T00:11:04.092286Z",
+  "version": 1
+}

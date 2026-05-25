@@ -1,0 +1,16 @@
+{
+  "article": "Cowlic,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/16830/Cowlic__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e2395df06d5884b65cd73adf1295d56ec76e40faf30d2758e8730240c3138f30",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e2395df06d5884b65cd73adf1295d56ec76e40faf30d2758e8730240c3138f30",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/16830/Cowlic__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "16830",
+  "timestamp": "2026-05-24T23:32:51.654611Z",
+  "version": 1
+}

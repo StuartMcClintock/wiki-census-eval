@@ -1,0 +1,16 @@
+{
+  "article": "High_Bridge,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/30750/High_Bridge__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "be0a97227c5068214cf4de590a7bb9f7c5da26a0c231992f120e0fea30d996bc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "be0a97227c5068214cf4de590a7bb9f7c5da26a0c231992f120e0fea30d996bc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/30750/High_Bridge__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "30750",
+  "timestamp": "2026-05-25T00:20:15.260873Z",
+  "version": 1
+}

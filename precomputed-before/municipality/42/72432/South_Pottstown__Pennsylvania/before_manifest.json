@@ -1,0 +1,16 @@
+{
+  "article": "South_Pottstown,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/72432/South_Pottstown__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1a7f132e2159c0588a9fc68fc67c2b376f897bb85a480b9f8d56e8b6fec20ba7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1a7f132e2159c0588a9fc68fc67c2b376f897bb85a480b9f8d56e8b6fec20ba7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/72432/South_Pottstown__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "72432",
+  "timestamp": "2026-05-25T00:09:08.435777Z",
+  "version": 1
+}

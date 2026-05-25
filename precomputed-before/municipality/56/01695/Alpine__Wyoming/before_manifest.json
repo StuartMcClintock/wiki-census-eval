@@ -1,0 +1,16 @@
+{
+  "article": "Alpine,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/01695/Alpine__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "21364c6c81a10af559da2fa33696af708d035fb34fb2ee0bcddee53e0a6355bb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "21364c6c81a10af559da2fa33696af708d035fb34fb2ee0bcddee53e0a6355bb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/01695/Alpine__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "01695",
+  "timestamp": "2026-05-25T00:23:06.851157Z",
+  "version": 1
+}

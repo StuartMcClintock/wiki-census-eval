@@ -1,0 +1,16 @@
+{
+  "article": "Sawpit,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/68655/Sawpit__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "04bb7fb564fa7eb59f026af096d3d2d9602cc2a38c3647e73815ffe66fc1a423",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "04bb7fb564fa7eb59f026af096d3d2d9602cc2a38c3647e73815ffe66fc1a423",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/68655/Sawpit__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "68655",
+  "timestamp": "2026-05-24T23:35:39.895564Z",
+  "version": 1
+}

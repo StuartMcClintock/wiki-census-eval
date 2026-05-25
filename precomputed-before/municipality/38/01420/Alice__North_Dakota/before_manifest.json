@@ -1,0 +1,16 @@
+{
+  "article": "Alice,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/01420/Alice__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fbd5b6390e563e490f0bf34da860ee19f03cd62adc546d18e7668b6f41189e1e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fbd5b6390e563e490f0bf34da860ee19f03cd62adc546d18e7668b6f41189e1e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/01420/Alice__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "01420",
+  "timestamp": "2026-05-25T00:02:31.414455Z",
+  "version": 1
+}

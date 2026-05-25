@@ -1,0 +1,16 @@
+{
+  "article": "Bristow,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/08560/Bristow__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3ca046a26aebeba4af33494b383a362e7546011f409e0ebd1240467c63d412c4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3ca046a26aebeba4af33494b383a362e7546011f409e0ebd1240467c63d412c4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/08560/Bristow__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "08560",
+  "timestamp": "2026-05-24T23:40:30.462049Z",
+  "version": 1
+}

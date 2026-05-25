@@ -1,0 +1,16 @@
+{
+  "article": "South_Gull_Lake,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/74975/South_Gull_Lake__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1c04ca8240ee7eadafbb8edbe950e1cd406b057c2f066182c4907f011a5a083d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1c04ca8240ee7eadafbb8edbe950e1cd406b057c2f066182c4907f011a5a083d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/74975/South_Gull_Lake__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "74975",
+  "timestamp": "2026-05-24T23:48:28.532464Z",
+  "version": 1
+}

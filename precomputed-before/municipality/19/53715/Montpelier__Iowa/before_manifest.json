@@ -1,0 +1,16 @@
+{
+  "article": "Montpelier,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/53715/Montpelier__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "af0f1ebb3f4ea4a3a859003e9ea7b16169cacdaf1136ce869798606b2d16735c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "af0f1ebb3f4ea4a3a859003e9ea7b16169cacdaf1136ce869798606b2d16735c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/53715/Montpelier__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "53715",
+  "timestamp": "2026-05-24T23:41:29.591288Z",
+  "version": 1
+}

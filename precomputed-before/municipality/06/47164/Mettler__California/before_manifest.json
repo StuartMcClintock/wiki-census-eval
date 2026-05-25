@@ -1,0 +1,16 @@
+{
+  "article": "Mettler,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/47164/Mettler__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e19ea1ff5febefe7d4e3a0d0c0902fd858c122c90a357f5aaa019d2925151043",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e19ea1ff5febefe7d4e3a0d0c0902fd858c122c90a357f5aaa019d2925151043",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/47164/Mettler__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "47164",
+  "timestamp": "2026-05-24T23:34:38.822217Z",
+  "version": 1
+}

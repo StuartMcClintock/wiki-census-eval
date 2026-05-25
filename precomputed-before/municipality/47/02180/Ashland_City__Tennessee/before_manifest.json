@@ -1,0 +1,16 @@
+{
+  "article": "Ashland_City,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/02180/Ashland_City__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "34d87653e6d1282d3470863594cbd780373098165c4f0229896697bb9c16bbbe",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "34d87653e6d1282d3470863594cbd780373098165c4f0229896697bb9c16bbbe",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/02180/Ashland_City__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "02180",
+  "timestamp": "2026-05-25T00:14:30.285800Z",
+  "version": 1
+}

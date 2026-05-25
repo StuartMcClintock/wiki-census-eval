@@ -1,0 +1,16 @@
+{
+  "article": "Zanesville,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/86318/Zanesville__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "67310f1a43adc9de12765c82fd648b0fdeb046e36840221a2730ee4470d8c94e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "67310f1a43adc9de12765c82fd648b0fdeb046e36840221a2730ee4470d8c94e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/86318/Zanesville__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "86318",
+  "timestamp": "2026-05-24T23:40:20.662432Z",
+  "version": 1
+}

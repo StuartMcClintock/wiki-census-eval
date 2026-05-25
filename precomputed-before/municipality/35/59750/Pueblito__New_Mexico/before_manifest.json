@@ -1,0 +1,16 @@
+{
+  "article": "Pueblito,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/59750/Pueblito__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d8051068556a61e607cf146d48c0177219b3702f4bf93619785d222095287971",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d8051068556a61e607cf146d48c0177219b3702f4bf93619785d222095287971",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/59750/Pueblito__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "59750",
+  "timestamp": "2026-05-24T23:58:48.475023Z",
+  "version": 1
+}

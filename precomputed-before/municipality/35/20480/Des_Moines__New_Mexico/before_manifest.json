@@ -1,0 +1,16 @@
+{
+  "article": "Des_Moines,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/20480/Des_Moines__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "748a9611e72235ab00a3d93f8944eae1caceaf5c2e5a63a41810f33c53641610",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "748a9611e72235ab00a3d93f8944eae1caceaf5c2e5a63a41810f33c53641610",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/20480/Des_Moines__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "20480",
+  "timestamp": "2026-05-24T23:58:28.196281Z",
+  "version": 1
+}

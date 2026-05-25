@@ -1,0 +1,16 @@
+{
+  "article": "Munden,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/49150/Munden__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "61a3823c89e8de2486fdf257411d1f60eec1c9f8b38cb27e785939f500cb3173",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "61a3823c89e8de2486fdf257411d1f60eec1c9f8b38cb27e785939f500cb3173",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/49150/Munden__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "49150",
+  "timestamp": "2026-05-24T23:43:11.951149Z",
+  "version": 1
+}

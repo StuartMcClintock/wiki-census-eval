@@ -1,0 +1,16 @@
+{
+  "article": "Beaver_Crossing,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/03530/Beaver_Crossing__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "75b268cd8da307673feb438a5bea7d774066214ea51f83d2c1a44fbe6c537a1e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "75b268cd8da307673feb438a5bea7d774066214ea51f83d2c1a44fbe6c537a1e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/03530/Beaver_Crossing__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "03530",
+  "timestamp": "2026-05-24T23:55:11.063148Z",
+  "version": 1
+}

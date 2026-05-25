@@ -1,0 +1,16 @@
+{
+  "article": "Lusk,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/48530/Lusk__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bbc9b885465094e5c12ad488ecf88d981fb4bcde7e7229b725683a782f672004",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bbc9b885465094e5c12ad488ecf88d981fb4bcde7e7229b725683a782f672004",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/48530/Lusk__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "48530",
+  "timestamp": "2026-05-25T00:23:18.342268Z",
+  "version": 1
+}

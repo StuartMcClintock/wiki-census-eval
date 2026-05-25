@@ -1,0 +1,16 @@
+{
+  "article": "Centerville,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/12325/Centerville__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b1415bcde0a0cee2521c81572877a0b13ac75dd38d93d2f2e958561518d5a1b8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b1415bcde0a0cee2521c81572877a0b13ac75dd38d93d2f2e958561518d5a1b8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/12325/Centerville__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "12325",
+  "timestamp": "2026-05-24T23:42:26.929171Z",
+  "version": 1
+}

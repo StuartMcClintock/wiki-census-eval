@@ -1,0 +1,16 @@
+{
+  "article": "Glasgow,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/29496/Glasgow__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f0a1b6fcefbeffb40a2e3cbc4842b7a56f0a1323db60053f4e0f8f4c3e396a79",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f0a1b6fcefbeffb40a2e3cbc4842b7a56f0a1323db60053f4e0f8f4c3e396a79",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/29496/Glasgow__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "29496",
+  "timestamp": "2026-05-24T23:38:15.910590Z",
+  "version": 1
+}

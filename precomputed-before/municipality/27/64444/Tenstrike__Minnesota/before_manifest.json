@@ -1,0 +1,16 @@
+{
+  "article": "Tenstrike,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/64444/Tenstrike__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "588658dfc35f713cece657b23cfc094f51be8ca0dc9f40c0faaa062bd34625cc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "588658dfc35f713cece657b23cfc094f51be8ca0dc9f40c0faaa062bd34625cc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/64444/Tenstrike__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "64444",
+  "timestamp": "2026-05-24T23:49:48.562662Z",
+  "version": 1
+}

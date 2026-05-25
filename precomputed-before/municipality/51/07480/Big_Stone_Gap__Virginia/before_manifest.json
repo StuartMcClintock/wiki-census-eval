@@ -1,0 +1,16 @@
+{
+  "article": "Big_Stone_Gap,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/07480/Big_Stone_Gap__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c64d6bdbc1c85454c1d57cda5a19a47dcdb8c9475fe864948c8a397911544173",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c64d6bdbc1c85454c1d57cda5a19a47dcdb8c9475fe864948c8a397911544173",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/07480/Big_Stone_Gap__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "07480",
+  "timestamp": "2026-05-25T00:17:35.652646Z",
+  "version": 1
+}

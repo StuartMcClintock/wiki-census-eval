@@ -1,0 +1,16 @@
+{
+  "article": "Maben,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/42980/Maben__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8725c81ae09223cdd6016e42af2682ee837a00a68094e5d15ebcbd0d183c24f6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8725c81ae09223cdd6016e42af2682ee837a00a68094e5d15ebcbd0d183c24f6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/42980/Maben__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "42980",
+  "timestamp": "2026-05-24T23:50:15.394214Z",
+  "version": 1
+}

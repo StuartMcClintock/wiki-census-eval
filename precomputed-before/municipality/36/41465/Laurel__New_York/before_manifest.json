@@ -1,0 +1,16 @@
+{
+  "article": "Laurel,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/41465/Laurel__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fa0ffceb7d823733e6ec671b2e964d10e24b5ff780c6fa4b0757a0a99debc376",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fa0ffceb7d823733e6ec671b2e964d10e24b5ff780c6fa4b0757a0a99debc376",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/41465/Laurel__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "41465",
+  "timestamp": "2026-05-25T00:00:51.431047Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Meadow_Bridge,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/52780/Meadow_Bridge__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "54aa4f23201f360de6115dc98565946482c26f39d5c9bba760a17e20f34ba4ea",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "54aa4f23201f360de6115dc98565946482c26f39d5c9bba760a17e20f34ba4ea",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/52780/Meadow_Bridge__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "52780",
+  "timestamp": "2026-05-25T00:21:16.750190Z",
+  "version": 1
+}

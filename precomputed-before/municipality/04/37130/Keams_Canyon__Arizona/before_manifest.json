@@ -1,0 +1,16 @@
+{
+  "article": "Keams_Canyon,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/37130/Keams_Canyon__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9868efeae306e7e4025cd0ebaaa095d5d301b82bbb6cd9097ee4639c1f2c7f7f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9868efeae306e7e4025cd0ebaaa095d5d301b82bbb6cd9097ee4639c1f2c7f7f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/37130/Keams_Canyon__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "37130",
+  "timestamp": "2026-05-24T23:33:01.770885Z",
+  "version": 1
+}

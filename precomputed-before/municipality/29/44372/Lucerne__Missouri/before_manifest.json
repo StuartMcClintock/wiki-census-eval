@@ -1,0 +1,16 @@
+{
+  "article": "Lucerne,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/44372/Lucerne__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a1bd52a48114483bac4fe6d6fb36d3657bc100dccc7c9c9c9c18dcd9a97ba56a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a1bd52a48114483bac4fe6d6fb36d3657bc100dccc7c9c9c9c18dcd9a97ba56a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/44372/Lucerne__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "44372",
+  "timestamp": "2026-05-24T23:53:29.576884Z",
+  "version": 1
+}

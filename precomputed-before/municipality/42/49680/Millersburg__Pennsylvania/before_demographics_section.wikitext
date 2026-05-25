@@ -1,0 +1,33 @@
+==Demographics==
+{{US Census population
+|align=left
+|1860= 961
+|1870= 1518
+|1880= 1440
+|1890= 1527
+|1900= 1675
+|1910= 2394
+|1920= 2936
+|1930= 2909
+|1940= 2959
+|1950= 2861
+|1960= 2984
+|1970= 3074
+|1980= 2770
+|1990= 2729
+|2000= 2562
+|2010= 2557
+|2020= 2545
+|estyear=2021
+|estimate=2535
+|estref=<ref name="USCensusEst2020-2021"/> {{decrease}}
+|footnote=Sources:<ref name="USDecennialCensus">{{cite web|title=Census of Population and Housing|url=https://www.census.gov/programs-surveys/decennial-census.html|publisher=U.S. Census Bureau|access-date=11 December 2013}}</ref><ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref><ref name=CensusPopEst>{{cite web|title=Incorporated Places and Minor Civil Divisions Datasets: Subcounty Resident Population Estimates: April 1, 2010 to July 1, 2012|url=https://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|work=Population Estimates|publisher=U.S. Census Bureau|access-date=11 December 2013|url-status=dead|archive-url=https://web.archive.org/web/20130611010502/http://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|archive-date=11 June 2013}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A42|title=Census Population API|publisher=United States Census Bureau|accessdate=Oct 12, 2022}}</ref>
+}}
+As of the [[census]]<ref name="GR2" /> of 2000, there were 2,562 people, 1,213 households, and 695 families residing in the borough. The population density was {{convert|3,290.2|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 1,315 housing units at an average density of {{convert|1,688.7|/mi2|/km2|disp=preunit|units&nbsp;|units|}}. The racial makeup of the borough was 98.52% [[White (U.S. Census)|White]], 0.23% [[African American (U.S. Census)|African American]], 0.12% [[Native American (U.S. Census)|Native American]], 0.51% [[Asian (U.S. Census)|Asian]], 0.31% from [[Race (United States Census)|other races]], and 0.31% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 1.09% of the population.
+
+There were 1,213 households, out of which 24.4% had children under the age of 18 living with them, 44.0% were [[Marriage|married couples]] living together, 9.3% had a female householder with no husband present, and 42.7% were non-families. 37.8% of all households were made up of individuals, and 20.4% had someone living alone who was 65 years of age or older. The average household size was 2.11 and the average family size was 2.78.
+
+In the borough the population was spread out, with 20.6% under the age of 18, 9.2% from 18 to 24, 28.4% from 25 to 44, 20.6% from 45 to 64, and 21.2% who were 65 years of age or older. The median age was 39 years. For every 100 females, there were 84.8 males. For every 100 females age 18 and over, there were 84.8 males.
+
+The median income for a household in the borough was $34,970, and the median income for a family was $44,327. Males had a median income of $29,625 versus $23,205 for females. The [[per capita income]] for the borough was $19,217. About 4.7% of families and 6.8% of the population were below the [[poverty line]], including 5.8% of those under age 18 and 7.8% of those age 65 or over.
+

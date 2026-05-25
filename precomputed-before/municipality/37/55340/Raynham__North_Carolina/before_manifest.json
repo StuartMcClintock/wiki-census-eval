@@ -1,0 +1,16 @@
+{
+  "article": "Raynham,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/55340/Raynham__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3f8ff052c5bf226ee80de2a4ec010d72615672a0e84eecc5e26dd93edb09e7ec",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3f8ff052c5bf226ee80de2a4ec010d72615672a0e84eecc5e26dd93edb09e7ec",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/55340/Raynham__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "55340",
+  "timestamp": "2026-05-25T00:02:17.768483Z",
+  "version": 1
+}

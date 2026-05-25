@@ -1,0 +1,16 @@
+{
+  "article": "Pinewood,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/57085/Pinewood__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3e06e7cccdeb6ee955ceb0b7e2fac28673fcbbbc358092a2a4ba22a3187a9e27",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3e06e7cccdeb6ee955ceb0b7e2fac28673fcbbbc358092a2a4ba22a3187a9e27",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/57085/Pinewood__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "57085",
+  "timestamp": "2026-05-25T00:10:17.533432Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Lynnville,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/45486/Lynnville__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c31af4b32d66e57782bc4b95c96ebbd6aa9433054f5edb4d037c1ea9d3db95a5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c31af4b32d66e57782bc4b95c96ebbd6aa9433054f5edb4d037c1ea9d3db95a5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/45486/Lynnville__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "45486",
+  "timestamp": "2026-05-24T23:39:55.025299Z",
+  "version": 1
+}

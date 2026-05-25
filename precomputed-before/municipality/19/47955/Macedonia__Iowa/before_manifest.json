@@ -1,0 +1,16 @@
+{
+  "article": "Macedonia,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/47955/Macedonia__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e0aa81ad910e50be524661f9c3ab2967d93b5dcf3d194fd861384eadf20d86cd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e0aa81ad910e50be524661f9c3ab2967d93b5dcf3d194fd861384eadf20d86cd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/47955/Macedonia__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "47955",
+  "timestamp": "2026-05-24T23:41:23.824263Z",
+  "version": 1
+}

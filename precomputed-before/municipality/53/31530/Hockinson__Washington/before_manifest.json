@@ -1,0 +1,16 @@
+{
+  "article": "Hockinson,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/31530/Hockinson__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6a93a35f92b4000329f8a0dd17017dd54c7e347e2e3ce056d5dcfacb053a0844",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6a93a35f92b4000329f8a0dd17017dd54c7e347e2e3ce056d5dcfacb053a0844",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/31530/Hockinson__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "31530",
+  "timestamp": "2026-05-25T00:20:15.483358Z",
+  "version": 1
+}

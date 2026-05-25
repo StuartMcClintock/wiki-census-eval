@@ -1,0 +1,16 @@
+{
+  "article": "Cochranville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/14808/Cochranville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7aa30b81296eb89fc0d99b5e0c36207ccef2ed4e1bfc1f788b68a3d048a3d541",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7aa30b81296eb89fc0d99b5e0c36207ccef2ed4e1bfc1f788b68a3d048a3d541",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/14808/Cochranville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "14808",
+  "timestamp": "2026-05-25T00:06:44.021630Z",
+  "version": 1
+}

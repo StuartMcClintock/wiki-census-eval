@@ -1,0 +1,16 @@
+{
+  "article": "Trinity_Village,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/80483/Trinity_Village__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "733c1ee252ed76c0225443c8143a5f2506df726953ea4e3aa6570d9a41680864",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "733c1ee252ed76c0225443c8143a5f2506df726953ea4e3aa6570d9a41680864",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/80483/Trinity_Village__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "80483",
+  "timestamp": "2026-05-24T23:35:10.890526Z",
+  "version": 1
+}

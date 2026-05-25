@@ -1,0 +1,16 @@
+{
+  "article": "Hartland,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/33292/Hartland__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "37c05a406801c0af5486e813b5d99796dddf6c0cf6539d09b3956cd45a3122fc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "37c05a406801c0af5486e813b5d99796dddf6c0cf6539d09b3956cd45a3122fc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/33292/Hartland__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "33292",
+  "timestamp": "2026-05-24T23:38:19.054696Z",
+  "version": 1
+}

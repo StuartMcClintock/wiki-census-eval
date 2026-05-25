@@ -1,0 +1,16 @@
+{
+  "article": "Sewickley_Hills,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/69416/Sewickley_Hills__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6c7c9576c3a4d0d91fd573f2ffdab2797eb497dd82e7a67ba0a4d2bde1911bb0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6c7c9576c3a4d0d91fd573f2ffdab2797eb497dd82e7a67ba0a4d2bde1911bb0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/69416/Sewickley_Hills__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "69416",
+  "timestamp": "2026-05-25T00:09:01.035085Z",
+  "version": 1
+}

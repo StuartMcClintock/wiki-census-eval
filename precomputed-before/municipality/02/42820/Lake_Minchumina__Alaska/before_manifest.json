@@ -1,0 +1,16 @@
+{
+  "article": "Lake_Minchumina,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/42820/Lake_Minchumina__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ea2e3e88cb15b1e2c92cd891b85da1ed495f89fd0f46d837523b6feb2cc66736",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ea2e3e88cb15b1e2c92cd891b85da1ed495f89fd0f46d837523b6feb2cc66736",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/42820/Lake_Minchumina__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "42820",
+  "timestamp": "2026-05-24T23:32:25.619225Z",
+  "version": 1
+}

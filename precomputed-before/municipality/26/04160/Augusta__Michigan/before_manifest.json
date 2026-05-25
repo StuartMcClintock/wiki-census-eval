@@ -1,0 +1,16 @@
+{
+  "article": "Augusta,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/04160/Augusta__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a1089205013bd33a78f926184657882eddcb7709376948b9090a587103267ce9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a1089205013bd33a78f926184657882eddcb7709376948b9090a587103267ce9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/04160/Augusta__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "04160",
+  "timestamp": "2026-05-24T23:47:41.759138Z",
+  "version": 1
+}

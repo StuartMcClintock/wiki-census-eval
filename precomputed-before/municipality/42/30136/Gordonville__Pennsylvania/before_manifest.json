@@ -1,0 +1,16 @@
+{
+  "article": "Gordonville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/30136/Gordonville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2af2381c1b2c227ed2f615250631d98ddf3ea9b3f6eee2a29f9d0033bf28196c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2af2381c1b2c227ed2f615250631d98ddf3ea9b3f6eee2a29f9d0033bf28196c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/30136/Gordonville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "30136",
+  "timestamp": "2026-05-25T00:07:18.304059Z",
+  "version": 1
+}

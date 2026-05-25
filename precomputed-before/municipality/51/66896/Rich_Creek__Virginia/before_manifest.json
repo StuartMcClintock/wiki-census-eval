@@ -1,0 +1,16 @@
+{
+  "article": "Rich_Creek,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/66896/Rich_Creek__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0830ab56656fe99267c7ab4528cb38570b5337d1b1da7506ff60ee4ccb037f64",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0830ab56656fe99267c7ab4528cb38570b5337d1b1da7506ff60ee4ccb037f64",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/66896/Rich_Creek__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "66896",
+  "timestamp": "2026-05-25T00:19:34.025913Z",
+  "version": 1
+}

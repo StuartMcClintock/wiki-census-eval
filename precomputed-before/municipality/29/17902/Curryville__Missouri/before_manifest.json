@@ -1,0 +1,16 @@
+{
+  "article": "Curryville,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/17902/Curryville__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "416b5c4430328a2b10f76cb4f83b3a45882518736eacc8820feeb4d267ac0ac0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "416b5c4430328a2b10f76cb4f83b3a45882518736eacc8820feeb4d267ac0ac0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/17902/Curryville__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "17902",
+  "timestamp": "2026-05-24T23:51:02.175046Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Little_Falls,_Maine",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/23/40350/Little_Falls__Maine/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ab848885be54200a32ce07d7501444d5121ea132644ca3d1bb22e7d8d52ceeb0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ab848885be54200a32ce07d7501444d5121ea132644ca3d1bb22e7d8d52ceeb0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/23/40350/Little_Falls__Maine/manifest.json",
+  "state_fips": "23",
+  "status": "match",
+  "target_fips": "40350",
+  "timestamp": "2026-05-24T23:45:13.225289Z",
+  "version": 1
+}

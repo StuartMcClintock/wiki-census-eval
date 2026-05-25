@@ -1,0 +1,16 @@
+{
+  "article": "Hull,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/36516/Hull__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "78d8035815bcf4b7a191ef85eb1b2b9c6e31d3cf9361061fcfd87b006cf56804",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "78d8035815bcf4b7a191ef85eb1b2b9c6e31d3cf9361061fcfd87b006cf56804",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/36516/Hull__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "36516",
+  "timestamp": "2026-05-24T23:38:21.557782Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Cotopaxi,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/17485/Cotopaxi__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cc2f37b1c00d9789673ec75ac9b3ddfd01ea1e528d1bc61e1c86f060fffbfc51",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cc2f37b1c00d9789673ec75ac9b3ddfd01ea1e528d1bc61e1c86f060fffbfc51",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/17485/Cotopaxi__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "17485",
+  "timestamp": "2026-05-24T23:35:22.667607Z",
+  "version": 1
+}

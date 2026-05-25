@@ -1,0 +1,16 @@
+{
+  "article": "Anderson,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/01300/Anderson__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b094cad4874ecaf033cd3b1ad00159656a1e9c4d072a8a993b7088a18323bea0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b094cad4874ecaf033cd3b1ad00159656a1e9c4d072a8a993b7088a18323bea0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/01300/Anderson__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "01300",
+  "timestamp": "2026-05-24T23:57:38.638652Z",
+  "version": 1
+}

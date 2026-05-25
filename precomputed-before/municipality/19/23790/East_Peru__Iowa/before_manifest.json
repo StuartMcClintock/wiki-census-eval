@@ -1,0 +1,16 @@
+{
+  "article": "East_Peru,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/23790/East_Peru__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "74f3ae22b395721cdf2baaadef4ae1f8a380945f5d0d36ff08855fbd36670052",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "74f3ae22b395721cdf2baaadef4ae1f8a380945f5d0d36ff08855fbd36670052",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/23790/East_Peru__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "23790",
+  "timestamp": "2026-05-24T23:40:43.901357Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Cooke_City,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/17350/Cooke_City__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f3e35e5b2541bcfc9d5aac4245a32483f927622bb60f32a77a9e6a7dbff5c2f6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f3e35e5b2541bcfc9d5aac4245a32483f927622bb60f32a77a9e6a7dbff5c2f6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/17350/Cooke_City__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "17350",
+  "timestamp": "2026-05-24T23:54:19.638792Z",
+  "version": 1
+}

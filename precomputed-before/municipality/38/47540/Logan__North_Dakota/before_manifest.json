@@ -1,0 +1,16 @@
+{
+  "article": "Logan,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/47540/Logan__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c373a763a356db62397214372794307ec801f78726d1f775f4c7e3fe854e7126",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c373a763a356db62397214372794307ec801f78726d1f775f4c7e3fe854e7126",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/47540/Logan__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "47540",
+  "timestamp": "2026-05-25T00:03:09.214037Z",
+  "version": 1
+}

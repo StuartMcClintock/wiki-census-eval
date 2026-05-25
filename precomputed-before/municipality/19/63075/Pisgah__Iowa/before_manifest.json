@@ -1,0 +1,16 @@
+{
+  "article": "Pisgah,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/63075/Pisgah__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "38265e0ef5479e3395b6cee9419b2f62b9fecaabbbad4c8411b2cee1c21512a3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "38265e0ef5479e3395b6cee9419b2f62b9fecaabbbad4c8411b2cee1c21512a3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/63075/Pisgah__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "63075",
+  "timestamp": "2026-05-24T23:41:38.100812Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Montezuma,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/51690/Montezuma__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e13e25433ec9655dadb576e63f317050b5403a3490a7ec4fb842c9924201f068",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e13e25433ec9655dadb576e63f317050b5403a3490a7ec4fb842c9924201f068",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/51690/Montezuma__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "51690",
+  "timestamp": "2026-05-24T23:35:33.235242Z",
+  "version": 1
+}

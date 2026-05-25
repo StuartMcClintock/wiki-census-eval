@@ -1,0 +1,16 @@
+{
+  "article": "Terminous,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/78232/Terminous__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "56cae23529661473fed5768ef1b7ceea06e2196279d308cb3da8eb0c89bb1183",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "56cae23529661473fed5768ef1b7ceea06e2196279d308cb3da8eb0c89bb1183",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/78232/Terminous__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "78232",
+  "timestamp": "2026-05-24T23:35:09.364455Z",
+  "version": 1
+}

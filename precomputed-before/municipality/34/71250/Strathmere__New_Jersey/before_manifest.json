@@ -1,0 +1,16 @@
+{
+  "article": "Strathmere,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/71250/Strathmere__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "951411ae53a0041b32ba8bd7b5a87b081f54df1b7b66f92415d725d6e20b701e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "951411ae53a0041b32ba8bd7b5a87b081f54df1b7b66f92415d725d6e20b701e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/71250/Strathmere__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "71250",
+  "timestamp": "2026-05-24T23:58:03.179006Z",
+  "version": 1
+}

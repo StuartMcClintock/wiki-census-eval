@@ -1,0 +1,16 @@
+{
+  "article": "Haswell,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/34740/Haswell__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2b6811e2980a1359b45b70c1573892b4116395463c79c744d790a2037eab7d06",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2b6811e2980a1359b45b70c1573892b4116395463c79c744d790a2037eab7d06",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/34740/Haswell__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "34740",
+  "timestamp": "2026-05-24T23:35:27.802358Z",
+  "version": 1
+}

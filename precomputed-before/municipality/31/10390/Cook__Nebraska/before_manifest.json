@@ -1,0 +1,16 @@
+{
+  "article": "Cook,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/10390/Cook__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "23939819dbf12e363e3728471d2764a0756e8a61ebc09eac3269c3690662e8ff",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "23939819dbf12e363e3728471d2764a0756e8a61ebc09eac3269c3690662e8ff",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/10390/Cook__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "10390",
+  "timestamp": "2026-05-24T23:55:19.115277Z",
+  "version": 1
+}

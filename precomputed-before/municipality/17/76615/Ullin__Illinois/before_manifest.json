@@ -1,0 +1,16 @@
+{
+  "article": "Ullin,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/76615/Ullin__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b44a240c07a80ecf8d0a638210cfc3084082e4788e86d6b62fdd143136ef285c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b44a240c07a80ecf8d0a638210cfc3084082e4788e86d6b62fdd143136ef285c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/76615/Ullin__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "76615",
+  "timestamp": "2026-05-24T23:39:17.956340Z",
+  "version": 1
+}

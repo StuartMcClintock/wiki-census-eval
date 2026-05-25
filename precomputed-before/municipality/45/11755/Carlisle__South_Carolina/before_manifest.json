@@ -1,0 +1,16 @@
+{
+  "article": "Carlisle,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/11755/Carlisle__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "97ea31b1447d834a83733e91a87347b6e0902d0568070c6183a9b89c936b965a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "97ea31b1447d834a83733e91a87347b6e0902d0568070c6183a9b89c936b965a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/11755/Carlisle__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "11755",
+  "timestamp": "2026-05-25T00:09:53.445124Z",
+  "version": 1
+}

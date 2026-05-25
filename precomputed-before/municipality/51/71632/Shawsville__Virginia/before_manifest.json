@@ -1,0 +1,16 @@
+{
+  "article": "Shawsville,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/71632/Shawsville__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8c37b4410aab341c72c8f76da8862d9df63a768c95007cc25fa1192128812c81",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8c37b4410aab341c72c8f76da8862d9df63a768c95007cc25fa1192128812c81",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/71632/Shawsville__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "71632",
+  "timestamp": "2026-05-25T00:19:37.392922Z",
+  "version": 1
+}

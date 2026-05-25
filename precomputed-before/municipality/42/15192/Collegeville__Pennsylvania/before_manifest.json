@@ -1,0 +1,16 @@
+{
+  "article": "Collegeville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/15192/Collegeville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "76cf3bcc0c5240b480e4676e996e609529c4fe22e186fc8a77780724b65e82bf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "76cf3bcc0c5240b480e4676e996e609529c4fe22e186fc8a77780724b65e82bf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/15192/Collegeville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "15192",
+  "timestamp": "2026-05-25T00:06:44.258049Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Hannah,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/35060/Hannah__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f43703edc6da70d6304d06056be00f0ea1b8412923ddefc16dff05624d79803c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f43703edc6da70d6304d06056be00f0ea1b8412923ddefc16dff05624d79803c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/35060/Hannah__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "35060",
+  "timestamp": "2026-05-25T00:03:03.068513Z",
+  "version": 1
+}

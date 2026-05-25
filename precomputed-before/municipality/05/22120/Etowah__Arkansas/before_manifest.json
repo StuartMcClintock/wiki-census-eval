@@ -1,0 +1,16 @@
+{
+  "article": "Etowah,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/22120/Etowah__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "19b91a2d10f09620b1602d7e5d7591f610240b0881a6d3c15163668f8c65b5fe",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "19b91a2d10f09620b1602d7e5d7591f610240b0881a6d3c15163668f8c65b5fe",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/22120/Etowah__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "22120",
+  "timestamp": "2026-05-24T23:33:40.100154Z",
+  "version": 1
+}

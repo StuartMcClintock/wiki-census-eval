@@ -1,0 +1,16 @@
+{
+  "article": "Union,_New_Hampshire",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/33/77780/Union__New_Hampshire/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0c135d58515a9db98558e4c4a84485d7c32221090ca873f281bd49a2cac98fae",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0c135d58515a9db98558e4c4a84485d7c32221090ca873f281bd49a2cac98fae",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/33/77780/Union__New_Hampshire/manifest.json",
+  "state_fips": "33",
+  "status": "match",
+  "target_fips": "77780",
+  "timestamp": "2026-05-24T23:57:37.381107Z",
+  "version": 1
+}

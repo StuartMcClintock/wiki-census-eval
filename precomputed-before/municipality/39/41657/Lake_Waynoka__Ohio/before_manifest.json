@@ -1,0 +1,16 @@
+{
+  "article": "Lake_Waynoka,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/41657/Lake_Waynoka__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b02b5dcc2174934c5aa0330a9e5c8fd2cad9b55a50e29a1c42b31391c7c09c55",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b02b5dcc2174934c5aa0330a9e5c8fd2cad9b55a50e29a1c42b31391c7c09c55",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/41657/Lake_Waynoka__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "41657",
+  "timestamp": "2026-05-25T00:04:36.378304Z",
+  "version": 1
+}

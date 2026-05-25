@@ -1,0 +1,16 @@
+{
+  "article": "Laporte,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/41512/Laporte__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "eb92fdf4b32209a4cd06208a79f3960fd299954e743d949174076ada1f8717eb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "eb92fdf4b32209a4cd06208a79f3960fd299954e743d949174076ada1f8717eb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/41512/Laporte__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "41512",
+  "timestamp": "2026-05-25T00:07:48.451186Z",
+  "version": 1
+}

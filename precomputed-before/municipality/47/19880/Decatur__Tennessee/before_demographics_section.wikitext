@@ -1,0 +1,64 @@
+==Demographics==
+{{US Census population
+|1870= 99
+|1880= 175
+|1890= 313
+|1910= 165
+|1920= 142
+|1930= 158
+|1940= 205
+|1950= 235
+|1960= 681
+|1970= 698
+|1980= 1069
+|1990= 1361
+|2000= 1395
+|2010= 1598
+|2020= 1563
+|footnote=Sources:<ref name="GR9">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|publisher=[[United States Census Bureau]]|accessdate=March 4, 2012|title=Census of Population and Housing: Decennial Censuses}}</ref><ref name=CensusPopEst>{{cite web|title=Incorporated Places and Minor Civil Divisions Datasets: Subcounty Resident Population Estimates: April 1, 2010 to July 1, 2012|url=https://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|work=Population Estimates|publisher=U.S. Census Bureau|accessdate=December 11, 2013|url-status=dead|archiveurl=https://web.archive.org/web/20130611010502/http://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|archivedate=June 11, 2013}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A47|title=Census Population API|publisher=United States Census Bureau|accessdate=October 15, 2022}}</ref>
+}}
+
+===2020 census===
+{| class="wikitable" style="text-align:right"
+|+Decatur racial composition<ref>{{Cite web|title=Explore Census Data|url=https://data.census.gov/cedsci/table?g=1600000US4719880&tid=DECENNIALPL2020.P2|access-date=December 27, 2021|website=data.census.gov}}</ref>
+!scope="col"| Race
+!scope="col"| Number
+!scope="col"| Percentage
+|-
+!scope="row"| [[White (U.S. Census)|White]] (non-Hispanic)
+| 1,429
+| 91.43%
+|-
+!scope="row"| [[African American (U.S. Census)|Black or African American]] (non-Hispanic)
+| 30
+| 1.92%
+|-
+!scope="row"| [[Native American (U.S. Census)|Native American]]
+| 11
+| 0.7%
+|-
+!scope="row"| [[Asian (U.S. Census)|Asian]]
+| 4
+| 0.26%
+|-
+!scope="row"| [[Race (United States Census)|Other/Mixed]]
+| 69
+| 4.41%
+|-
+!scope="row"| [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]]
+| 20
+| 1.28%
+|}
+As of the [[2020 United States census]], there were 1,563 people, 586 households, and 416 families residing in the town.
+
+===2000 census===
+As of the [[census]]<ref name="GR2" /> of 2000, there were 1,395 people, 560 households, and 366 families residing in the town. The population density was {{convert|545.1|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 598 housing units at an average density of {{convert|233.7|/mi2|/km2|disp=preunit|units&nbsp;|units|}}. The racial makeup of the town was 98.14% [[White (U.S. Census)|White]], 0.93% [[African American (U.S. Census)|African American]], 0.14% [[Native American (U.S. Census)|Native American]], 0.29% [[Asian (U.S. Census)|Asian]], 0.07% from [[Race (United States Census)|other races]], and 0.43% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 0.29% of the population.
+
+[[File:Decatur-Main-Street-tn1.jpg|left|thumb|Main Street]]
+
+There were 560 households, out of which 28.8% had children under the age of 18 living with them, 49.1% were [[Marriage|married couples]] living together, 12.5% had a female householder with no husband present, and 34.5% were non-families. 30.9% of all households were made up of individuals, and 13.8% had someone living alone who was 65 years of age or older. The average household size was 2.29 and the average family size was 2.83.
+
+In the town, the population was spread out, with 21.5% under the age of 18, 7.9% from 18 to 24, 29.2% from 25 to 44, 23.8% from 45 to 64, and 17.6% who were 65 years of age or older. The median age was 39 years. For every 100 females, there were 92.1 males. For every 100 females age 18 and over, there were 88.5 males.
+
+The median income for a household in the town was $29,402, and the median income for a family was $38,375. Males had a median income of $29,327 versus $22,647 for females. The [[per capita income]] for the town was $18,784. About 12.9% of families and 15.1% of the population were below the [[poverty line]], including 16.8% of those under age 18 and 12.5% of those age 65 or over.
+

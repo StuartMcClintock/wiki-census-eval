@@ -1,0 +1,16 @@
+{
+  "article": "Verona,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/80032/Verona__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8cfea3f9bce97fe309af1e8765b50aeeab44d8018e20ebb28bfb116e7dac54bc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8cfea3f9bce97fe309af1e8765b50aeeab44d8018e20ebb28bfb116e7dac54bc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/80032/Verona__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "80032",
+  "timestamp": "2026-05-25T00:09:22.295717Z",
+  "version": 1
+}

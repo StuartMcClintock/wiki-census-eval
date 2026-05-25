@@ -1,0 +1,16 @@
+{
+  "article": "Huttonsville,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/39628/Huttonsville__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "287181f9535ca8d56e2a0071428959cede257a00ceb84d08ae72372854569c23",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "287181f9535ca8d56e2a0071428959cede257a00ceb84d08ae72372854569c23",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/39628/Huttonsville__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "39628",
+  "timestamp": "2026-05-25T00:21:12.578603Z",
+  "version": 1
+}

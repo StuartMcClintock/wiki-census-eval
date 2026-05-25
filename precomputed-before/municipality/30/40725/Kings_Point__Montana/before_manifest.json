@@ -1,0 +1,16 @@
+{
+  "article": "Kings_Point,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/40725/Kings_Point__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b9f9209a609d5a0ca24ad9c2a0570525f453f28b504cd2a416f684ef9cfcbbf7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b9f9209a609d5a0ca24ad9c2a0570525f453f28b504cd2a416f684ef9cfcbbf7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/40725/Kings_Point__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "40725",
+  "timestamp": "2026-05-24T23:54:33.952643Z",
+  "version": 1
+}

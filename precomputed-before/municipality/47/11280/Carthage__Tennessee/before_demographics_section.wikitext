@@ -1,0 +1,64 @@
+==Demographics==
+{{US Census population
+|1870= 477
+|1880= 327
+|1890= 478
+|1910= 904
+|1920= 920
+|1930= 1068
+|1940= 1512
+|1950= 1604
+|1960= 2021
+|1970= 2491
+|1980= 2672
+|1990= 2386
+|2000= 2251
+|2010= 2306
+|2020= 2291
+|footnote=Sources:<ref name="GR9">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|publisher=[[United States Census Bureau]]|access-date=March 4, 2012|title=Census of Population and Housing: Decennial Censuses}}</ref><ref name=CensusPopEst>{{cite web|title=Incorporated Places and Minor Civil Divisions Datasets: Subcounty Resident Population Estimates: April 1, 2010 to July 1, 2012|url=https://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|work=Population Estimates|publisher=U.S. Census Bureau|access-date=December 11, 2013|url-status=dead|archive-url=https://web.archive.org/web/20130611010502/http://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|archive-date=June 11, 2013}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A47|title=Census Population API|publisher=United States Census Bureau|accessdate=October 15, 2022}}</ref>
+}}
+
+===2020 census===
+{| class="wikitable" style="text-align:right"
+|+Carthage racial composition<ref>{{Cite web|title=Explore Census Data|url=https://data.census.gov/cedsci/table?g=1600000US4711280&tid=DECENNIALPL2020.P2|access-date=December 27, 2021|website=data.census.gov}}</ref>
+!scope="col"| Race
+!scope="col"| Number
+!scope="col"| Percentage
+|-
+!scope="row"| [[White (U.S. Census)|White]] (non-Hispanic)
+| 1,984
+| 86.6%
+|-
+!scope="row"| [[African American (U.S. Census)|Black or African American]] (non-Hispanic)
+| 105
+| 4.58%
+|-
+!scope="row"| [[Native American (U.S. Census)|Native American]]
+| 5
+| 0.22%
+|-
+!scope="row"| [[Asian (U.S. Census)|Asian]]
+| 26
+| 1.13%
+|-
+!scope="row"| [[Race (United States Census)|Other/Mixed]]
+| 83
+| 3.62%
+|-
+!scope="row"| [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]]
+| 88
+| 3.84%
+|}
+As of the [[2020 United States census]], there were 2,291 people, 947 households, and 528 families residing in the town.
+
+===2000 census===
+As of the [[census]]<ref name="GR2" /> of 2000, there were 2,251 people, 952 households, and 560 families residing in the town. The population density was {{convert|784.5|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 1,050 housing units at an average density of {{convert|365.9|/sqmi|/km2|sp=us|adj=off}}. The racial makeup of the town was 90.67% [[White (U.S. Census)|White]], 6.53% [[African American (U.S. Census)|African American]], 0.27% [[Native American (U.S. Census)|Native American]], 0.53% [[Asian (U.S. Census)|Asian]], 0.76% from [[Race (United States Census)|other races]], and 1.24% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 1.16% of the population.
+
+[[Image:Carthage-tennessee-old-town1.jpg|left|210px|thumb|The Carthage business district]]
+
+There were 952 households, out of which 25.9% had children under the age of 18 living with them, 38.2% were married couples living together, 16.5% had a female householder with no husband present, and 41.1% were non-families. 38.2% of all households were made up of individuals, and 21.6% had someone living alone who was 65 years of age or older. The average household size was 2.22 and the average family size was 2.93.
+
+In the town, the population was spread out, with 21.9% under the age of 18, 8.6% from 18 to 24, 23.9% from 25 to 44, 22.7% from 45 to 64, and 22.7% who were 65 years of age or older. The median age was 42 years. For every 100 females, there were 80.1 males. For every 100 females age 18 and over, there were 72.6 males.
+
+The median income for a household in the town was $24,375, and the median income for a family was $32,159. Males had a median income of $30,531 versus $20,417 for females. The per capita income for the town was $18,709. About 18.6% of families and 20.6% of the population were below the poverty line, including 23.0% of those under age 18 and 19.2% of those age 65 or over.
+

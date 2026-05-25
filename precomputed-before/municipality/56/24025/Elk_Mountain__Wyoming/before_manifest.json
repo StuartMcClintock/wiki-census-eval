@@ -1,0 +1,16 @@
+{
+  "article": "Elk_Mountain,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/24025/Elk_Mountain__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e75a854bb134cf8cdec053e1b7c85d0da89a08632ba70132ed11210292d4a666",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e75a854bb134cf8cdec053e1b7c85d0da89a08632ba70132ed11210292d4a666",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/24025/Elk_Mountain__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "24025",
+  "timestamp": "2026-05-25T00:23:12.480394Z",
+  "version": 1
+}

@@ -1,0 +1,36 @@
+==Demographics==
+{{US Census population
+|2010= 742
+|2020= 762
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/prod/www/decennial.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2015}}</ref>
+}}
+
+===2020 census===
+{| class="wikitable" style="text-align:right"
+|+Red Cross racial composition<ref>{{Cite web|title=Explore Census Data|url=https://data.census.gov/cedsci/table?g=1600000US3755460&tid=DECENNIALPL2020.P2|access-date=December 21, 2021|website=data.census.gov}}</ref>
+!scope="col"| Race
+!scope="col"| Number
+!scope="col"| Percentage
+|-
+!scope="row"| [[White (U.S. Census)|White]] (non-Hispanic)
+| 697
+| 91.47%
+|-
+!scope="row"| [[African American (U.S. Census)|Black or African American]] (non-Hispanic)
+| 4
+| 0.52%
+|-
+!scope="row"| [[Native American (U.S. Census)|Native American]]
+| 2
+| 0.26%
+|-
+!scope="row"| [[Race (United States Census)|Other/Mixed]]
+| 22
+| 2.89%
+|-
+!scope="row"| [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]]
+| 37
+| 4.86%
+|}
+As of the [[2020 United States census]], there were 762 people, 323 households, and 177 families residing in the town.
+

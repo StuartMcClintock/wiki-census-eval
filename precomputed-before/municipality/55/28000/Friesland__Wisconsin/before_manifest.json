@@ -1,0 +1,16 @@
+{
+  "article": "Friesland,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/28000/Friesland__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bf0f6e91d2d8d179edb5ebe1db6c5d07796168cecc27156e061ed319b5b10972",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bf0f6e91d2d8d179edb5ebe1db6c5d07796168cecc27156e061ed319b5b10972",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/28000/Friesland__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "28000",
+  "timestamp": "2026-05-25T00:22:07.896948Z",
+  "version": 1
+}

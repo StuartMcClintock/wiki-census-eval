@@ -1,0 +1,16 @@
+{
+  "article": "Rye,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/61730/Rye__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6a7d6859755d83ca1c9170227a4d79d37bbe27a4c42b17c87b3745b9482f7db0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6a7d6859755d83ca1c9170227a4d79d37bbe27a4c42b17c87b3745b9482f7db0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/61730/Rye__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "61730",
+  "timestamp": "2026-05-24T23:34:07.079371Z",
+  "version": 1
+}

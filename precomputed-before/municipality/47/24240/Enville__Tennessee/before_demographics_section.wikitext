@@ -1,0 +1,19 @@
+==Demographics==
+{{US Census population
+|1960= 250
+|1970= 228
+|1980= 287
+|1990= 211
+|2000= 230
+|2010= 189
+|2020= 188
+|footnote=Sources:<ref name="GR9">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|publisher=[[United States Census Bureau]]|accessdate=March 4, 2012|title=Census of Population and Housing: Decennial Censuses|df=}}</ref><ref name=CensusPopEst>{{cite web|title=Incorporated Places and Minor Civil Divisions Datasets: Subcounty Resident Population Estimates: April 1, 2010 to July 1, 2012|url=https://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|work=Population Estimates|publisher=U.S. Census Bureau|accessdate=December 11, 2013|url-status=dead|archiveurl=https://web.archive.org/web/20130611010502/http://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|archivedate=June 11, 2013|df=}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A47|title=Census Population API|publisher=United States Census Bureau|accessdate=October 15, 2022}}</ref>
+}}
+At the 2000 [[census]],<ref name="GR2" /> there were 230 people, 95 households and 70 families residing in the town. The population density was {{convert|157.9|/sqmi|/km2|sp=us|adj=off}}. There were 115 housing units at an average density of {{convert|79.0|/sqmi|/km2|sp=us|adj=off}}. The racial make-up of the town was 97.39% [[White (U.S. Census)|White]] and 2.61% [[African American (U.S. Census)|African American]]. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 1.30% of the population.
+
+There were 95 households, of which 25.3% had children under the age of 18 living with them, 61.1% were [[Marriage|married couples]] living together, 7.4% had a female householder with no husband present and 25.3% were non-families. 22.1% of all households were made up of individuals, and 16.8% had someone living alone who was 65 years of age or older. The average household size was 2.42 and the average family size was 2.77.
+
+20.9% of the population were under the age of 18, 5.7% from 18 to 24, 25.7% from 25 to 44, 23.5% from 45 to 64 and 24.3% were 65 years of age or older. The median age was 43 years. For every 100 females, there were 96.6 males. For every 100 females age 18 and over, there were 83.8 males.
+
+The [[median household income]] was $29,722 and the median family income was $37,083. Males had a median income of $29,750 and females $26,250. The [[per capita income]] was $14,199. About 17.3% of families and 16.4% of the population were below the [[poverty line]], including 7.3% of those under the age of eighteen and 33.3% of those sixty-five or over.
+

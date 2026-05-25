@@ -1,0 +1,16 @@
+{
+  "article": "Ransomville,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/60598/Ransomville__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d5ef36dced8465c5793df1f45695b7f8a2458e9eee84a2dd361bbe51859942b0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d5ef36dced8465c5793df1f45695b7f8a2458e9eee84a2dd361bbe51859942b0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/60598/Ransomville__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "60598",
+  "timestamp": "2026-05-25T00:01:06.973317Z",
+  "version": 1
+}

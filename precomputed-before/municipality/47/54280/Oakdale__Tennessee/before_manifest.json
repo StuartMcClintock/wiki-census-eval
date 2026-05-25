@@ -1,0 +1,16 @@
+{
+  "article": "Oakdale,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/54280/Oakdale__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "717d9497723f7690338d169404feab895248bcb545aaa89d52095d5f65f51eaa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "717d9497723f7690338d169404feab895248bcb545aaa89d52095d5f65f51eaa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/54280/Oakdale__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "54280",
+  "timestamp": "2026-05-25T00:14:49.129368Z",
+  "version": 1
+}

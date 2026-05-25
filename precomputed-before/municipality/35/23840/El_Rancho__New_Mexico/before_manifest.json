@@ -1,0 +1,16 @@
+{
+  "article": "El_Rancho,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/23840/El_Rancho__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e1eeea1f9bad3a0c79bf7944d9f3da445c71177b4b441804e54d10a9c9001dc1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e1eeea1f9bad3a0c79bf7944d9f3da445c71177b4b441804e54d10a9c9001dc1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/23840/El_Rancho__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "23840",
+  "timestamp": "2026-05-24T23:58:29.456049Z",
+  "version": 1
+}

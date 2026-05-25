@@ -1,0 +1,16 @@
+{
+  "article": "Rodriguez_Camp,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/62496/Rodriguez_Camp__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c54585c8d6bcada73db99c219746c141adbc4acf3dc55057ea7f49fb81a24c9c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c54585c8d6bcada73db99c219746c141adbc4acf3dc55057ea7f49fb81a24c9c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/62496/Rodriguez_Camp__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "62496",
+  "timestamp": "2026-05-24T23:35:02.234245Z",
+  "version": 1
+}

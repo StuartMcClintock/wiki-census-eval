@@ -1,0 +1,16 @@
+{
+  "article": "Shelby,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/69672/Shelby__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "99a23755fc686e67926c688ba8745293865106afea3a5860ef554f8cc6cbf057",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "99a23755fc686e67926c688ba8745293865106afea3a5860ef554f8cc6cbf057",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/69672/Shelby__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "69672",
+  "timestamp": "2026-05-24T23:32:12.063304Z",
+  "version": 1
+}

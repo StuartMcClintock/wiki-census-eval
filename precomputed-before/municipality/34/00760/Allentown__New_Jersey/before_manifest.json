@@ -1,0 +1,16 @@
+{
+  "article": "Allentown,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/00760/Allentown__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "403494caaf64c8ea67714236fb8058a59516909fa5452949db1f7986b9cb348d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "403494caaf64c8ea67714236fb8058a59516909fa5452949db1f7986b9cb348d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/00760/Allentown__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "00760",
+  "timestamp": "2026-05-24T23:57:38.214072Z",
+  "version": 1
+}

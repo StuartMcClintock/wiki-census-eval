@@ -1,0 +1,16 @@
+{
+  "article": "Paguate,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/54710/Paguate__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a5040dd2203c366e0d6f3946a7827606edb32c74a8e0fa7808db80b90e410212",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a5040dd2203c366e0d6f3946a7827606edb32c74a8e0fa7808db80b90e410212",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/54710/Paguate__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "54710",
+  "timestamp": "2026-05-24T23:58:46.031963Z",
+  "version": 1
+}

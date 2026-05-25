@@ -1,0 +1,16 @@
+{
+  "article": "Bridgeport,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/08568/Bridgeport__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "656b2675eef08d555d9b8c21e38cbaaa652ff5f4bf97919baa55b42e761d0bf4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "656b2675eef08d555d9b8c21e38cbaaa652ff5f4bf97919baa55b42e761d0bf4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/08568/Bridgeport__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "08568",
+  "timestamp": "2026-05-25T00:06:21.352035Z",
+  "version": 1
+}

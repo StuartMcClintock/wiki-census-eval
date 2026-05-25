@@ -1,0 +1,16 @@
+{
+  "article": "Cordova,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/10495/Cordova__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "df917040630dcd0aba2111c9e5873c3c0f94146ad37e7fd9e693b460281ce25d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "df917040630dcd0aba2111c9e5873c3c0f94146ad37e7fd9e693b460281ce25d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/10495/Cordova__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "10495",
+  "timestamp": "2026-05-24T23:55:19.233826Z",
+  "version": 1
+}

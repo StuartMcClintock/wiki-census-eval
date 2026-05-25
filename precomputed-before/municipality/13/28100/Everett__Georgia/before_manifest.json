@@ -1,0 +1,16 @@
+{
+  "article": "Everett,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/28100/Everett__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "69d9313492103ac295feb4e3c47202ca0a7469b698d85a1292f1456a524edea0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "69d9313492103ac295feb4e3c47202ca0a7469b698d85a1292f1456a524edea0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/28100/Everett__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "28100",
+  "timestamp": "2026-05-24T23:36:36.292033Z",
+  "version": 1
+}

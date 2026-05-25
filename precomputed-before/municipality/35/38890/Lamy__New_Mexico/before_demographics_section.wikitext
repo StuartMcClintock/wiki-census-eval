@@ -1,0 +1,27 @@
+==Demographics==
+
+{{US Census population
+ | align     = left
+ | 2000      = 137
+ | 2010      = 218
+ | 2020      = 210
+ | footnote  = U.S. Decennial Census<ref name="DecennialCensus">{{cite web
+| url        = http://www.census.gov/prod/www/decennial.html
+| title      = Census of Population and Housing
+| publisher  = Census.gov
+| accessdate = June 4, 2016}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web
+| url        = https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A35
+| title      = Census Population API
+| publisher  = United States Census Bureau
+| accessdate = Oct 12, 2022}}</ref>}}
+
+Lamy is part of the Santa Fe, New Mexico, [[Metropolitan Statistical Area]].
+
+As of the [[census]]<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|accessdate=2008-01-31|title=U.S. Census website}}</ref> of 2000, there were 137 people, 55 households, and 33 families residing in the CDP. The population density was {{convert|126.2|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 64 housing units at an average density of {{convert|59.0|/sqmi|/km2|sp=us|adj=off}}. The racial makeup of the CDP was 74.45% [[White (U.S. Census)|White]], 2.92% [[Native American (U.S. Census)|Native American]], 18.25% from [[Race (United States Census)|other races]], and 4.38% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 44.53% of the population.
+
+There were 55 households, out of which 40.0% had children under the age of 18 living with them, 49.1% were [[Marriage|married couples]] living together, 10.9% had a female householder with no husband present, and 38.2% were non-families. 29.1% of all households were made up of individuals, and 9.1% had someone living alone who was 65 years of age or older. The average household size was 2.49 and the average family size was 3.18.
+
+In the CDP, the population was spread out, with 27.7% under the age of 18, 10.2% from 18 to 24, 26.3% from 25 to 44, 28.5% from 45 to 64, and 7.3% who were 65 years of age or older. The median age was 34 years. For every 100 females, there were 95.7 males. For every 100 females age 18 and over, there were 98.0 males.
+
+The median income for a household in the CDP was $43,333, and the median income for a family was $27,083. Males had a median income of $25,568 versus $0 for females. The [[per capita income]] for the CDP was $16,765. There were 17.5% of families and 20.5% of the population living below the [[poverty line]], including no under eighteens and none of those over 64.
+

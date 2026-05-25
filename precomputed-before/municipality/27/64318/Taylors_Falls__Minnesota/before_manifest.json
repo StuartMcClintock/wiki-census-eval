@@ -1,0 +1,16 @@
+{
+  "article": "Taylors_Falls,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/64318/Taylors_Falls__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "205d9d79457059cc7f2f696f41cd33e5b6b49cf1f4c9c5292e3466753438b09e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "205d9d79457059cc7f2f696f41cd33e5b6b49cf1f4c9c5292e3466753438b09e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/64318/Taylors_Falls__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "64318",
+  "timestamp": "2026-05-24T23:49:48.442728Z",
+  "version": 1
+}

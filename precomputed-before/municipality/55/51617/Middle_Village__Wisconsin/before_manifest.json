@@ -1,0 +1,16 @@
+{
+  "article": "Middle_Village,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/51617/Middle_Village__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9e651f9206b6eaa217871564a43becf0160a4881ebe0efb8f6e1ea9ee9349998",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9e651f9206b6eaa217871564a43becf0160a4881ebe0efb8f6e1ea9ee9349998",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/51617/Middle_Village__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "51617",
+  "timestamp": "2026-05-25T00:22:25.068239Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Toxey,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/76632/Toxey__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7ad2f90a17ff3e1f585995345d3c24a5802b3d18be69b64e7263b9fbcef9540c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7ad2f90a17ff3e1f585995345d3c24a5802b3d18be69b64e7263b9fbcef9540c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/76632/Toxey__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "76632",
+  "timestamp": "2026-05-24T23:32:14.243173Z",
+  "version": 1
+}

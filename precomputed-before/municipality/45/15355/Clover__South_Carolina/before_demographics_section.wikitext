@@ -1,0 +1,62 @@
+==Demographics==
+{{US Census population
+|1880= 73
+|1890= 287
+|1900= 961
+|1910= 1207
+|1920= 1608
+|1930= 3111
+|1940= 3067
+|1950= 3276
+|1960= 3500
+|1970= 3506
+|1980= 3451
+|1990= 3422
+|2000= 4014
+|2010= 5094
+|2020= 6671
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2015}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A45|title=Census Population API|publisher=United States Census Bureau|accessdate=October 15, 2022}}</ref>
+}}
+
+===2020 census===
+{| class="wikitable"
+|+Clover racial composition<ref>{{Cite web|title=Explore Census Data|url=https://data.census.gov/cedsci/table?g=1600000US4515355&tid=DECENNIALPL2020.P2|access-date=December 15, 2021|website=data.census.gov}}</ref>
+!Race
+!Num.
+!Perc.
+|-
+|[[White (U.S. Census)|White]] (non-Hispanic)
+|4,545
+|68.13%
+|-
+|[[African American (U.S. Census)|Black or African American]] (non-Hispanic)
+|1,142
+|17.12%
+|-
+|[[Native American (U.S. Census)|Native American]]
+|27
+|0.4%
+|-
+|[[Asian (U.S. Census)|Asian]]
+|64
+|0.96%
+|-
+|[[Race (United States Census)|Other/Mixed]]
+|403
+|6.04%
+|-
+|[[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]]
+|490
+|7.35%
+|}
+As of the [[2020 United States census]], there were 6,671 people, 2,093 households, and 1,527 families residing in the town.
+
+===2000 census===
+As of the [[census]]<ref name="GR2" /> of 2000, there were 4,014 people, 1,517 households, and 1,099 families residing in the town. The population density was {{convert|1,433.5|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 1,635 housing units at an average density of {{convert|583.9|/mi2|/km2|disp=preunit|units&nbsp;|units|}}. The racial makeup of the town was 75.96% [[White (U.S. Census)|White]], 21.03% [[African American (U.S. Census)|African American]], 0.27% [[Native American (U.S. Census)|Native American]], 0.45% [[Asian (U.S. Census)|Asian]], 0.07% [[Pacific Islander (U.S. Census)|Pacific Islander]], 1.30% from [[Race (United States Census)|other races]], and 0.92% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 1.94% of the population.
+
+There were 1,517 households, out of which 35.7% had children under the age of 18 living with them, 48.2% were [[Marriage|married couples]] living together, 19.6% had a female householder with no husband present, and 27.5% were non-families. 24.1% of all households were made up of individuals, and 10.9% had someone living alone who was 65 years of age or older. The average household size was 2.64 and the average family size was 3.12.
+
+In the town, the population was spread out, with 28.9% under the age of 18, 7.6% from 18 to 24, 29.7% from 25 to 44, 20.9% from 45 to 64, and 12.8% who were 65 years of age or older. The median age was 34 years. For every 100 females, there were 90.6 males. For every 100 females age 18 and over, there were 85.1 males.
+
+The median income for a household in the town was $37,335, and the median income for a family was $43,276. Males had a median income of $33,945 versus $19,840 for females. The [[per capita income]] for the town was $16,774. About 13.4% of families and 15.8% of the population were below the [[poverty line]], including 19.5% of those under age 18 and 13.4% of those age 65 or over.
+

@@ -1,0 +1,16 @@
+{
+  "article": "Cowles,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/10985/Cowles__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f2247aeb6b6812ae31293806930f553274a24b1ff9c6a8d889fb981c5de03c70",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f2247aeb6b6812ae31293806930f553274a24b1ff9c6a8d889fb981c5de03c70",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/10985/Cowles__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "10985",
+  "timestamp": "2026-05-24T23:55:19.694384Z",
+  "version": 1
+}

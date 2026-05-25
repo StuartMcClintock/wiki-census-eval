@@ -1,0 +1,16 @@
+{
+  "article": "Charter_Oak,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/12900/Charter_Oak__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ac8862e12320c17906f1eaa727f455e4d8452ed014e33e332460bf764d71f9ec",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ac8862e12320c17906f1eaa727f455e4d8452ed014e33e332460bf764d71f9ec",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/12900/Charter_Oak__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "12900",
+  "timestamp": "2026-05-24T23:40:33.639890Z",
+  "version": 1
+}

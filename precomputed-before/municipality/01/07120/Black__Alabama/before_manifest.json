@@ -1,0 +1,16 @@
+{
+  "article": "Black,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/07120/Black__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "61a037f7ff87623d86b0d89d89ecffab91ebb05433b02be80c7f852650f90b26",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "61a037f7ff87623d86b0d89d89ecffab91ebb05433b02be80c7f852650f90b26",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/07120/Black__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "07120",
+  "timestamp": "2026-05-24T23:31:49.728830Z",
+  "version": 1
+}

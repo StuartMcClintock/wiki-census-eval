@@ -1,0 +1,16 @@
+{
+  "article": "Crozier,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/17460/Crozier__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d8cc7f64f79b8af09d7dff2fd0ebcee1ea3b199cea10dae62180c8c5e5b0ecc1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d8cc7f64f79b8af09d7dff2fd0ebcee1ea3b199cea10dae62180c8c5e5b0ecc1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/17460/Crozier__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "17460",
+  "timestamp": "2026-05-24T23:32:51.746463Z",
+  "version": 1
+}

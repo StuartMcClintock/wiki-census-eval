@@ -1,0 +1,16 @@
+{
+  "article": "Centertown,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/13870/Centertown__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7fcec4bf7e0bd07188b30826d5fccbd3289bfda79b5ce4ebde59e42543412d46",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7fcec4bf7e0bd07188b30826d5fccbd3289bfda79b5ce4ebde59e42543412d46",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/13870/Centertown__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "13870",
+  "timestamp": "2026-05-24T23:43:47.493835Z",
+  "version": 1
+}

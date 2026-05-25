@@ -1,0 +1,16 @@
+{
+  "article": "Hayden_Lake,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/36460/Hayden_Lake__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1f087bad1868b8b59b8ae774fd90f4001f0b69d0b92d61f4a7c63c9b565cdddf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1f087bad1868b8b59b8ae774fd90f4001f0b69d0b92d61f4a7c63c9b565cdddf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/36460/Hayden_Lake__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "36460",
+  "timestamp": "2026-05-24T23:37:21.871423Z",
+  "version": 1
+}

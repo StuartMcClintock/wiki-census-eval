@@ -1,0 +1,16 @@
+{
+  "article": "Kimball,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/43780/Kimball__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ab54cbcebbe1724646e3f6a06673288f164c9c2b78935b7b8e15831eb6bb79da",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ab54cbcebbe1724646e3f6a06673288f164c9c2b78935b7b8e15831eb6bb79da",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/43780/Kimball__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "43780",
+  "timestamp": "2026-05-25T00:21:14.056558Z",
+  "version": 1
+}

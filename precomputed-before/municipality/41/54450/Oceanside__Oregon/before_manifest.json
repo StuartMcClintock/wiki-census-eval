@@ -1,0 +1,16 @@
+{
+  "article": "Oceanside,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/54450/Oceanside__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "18ce5193f8c880582311905f7f748e5404e6c7af00d809a4d85eb940d25e56ce",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "18ce5193f8c880582311905f7f748e5404e6c7af00d809a4d85eb940d25e56ce",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/54450/Oceanside__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "54450",
+  "timestamp": "2026-05-25T00:05:53.009661Z",
+  "version": 1
+}

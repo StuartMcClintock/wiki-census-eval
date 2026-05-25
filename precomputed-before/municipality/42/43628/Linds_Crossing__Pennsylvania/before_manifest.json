@@ -1,0 +1,16 @@
+{
+  "article": "Linds_Crossing,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/43628/Linds_Crossing__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4970d2f2da957374a5bf4444a228d390d555ccb1346caede87ccf866b991db5a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4970d2f2da957374a5bf4444a228d390d555ccb1346caede87ccf866b991db5a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/43628/Linds_Crossing__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "43628",
+  "timestamp": "2026-05-25T00:07:52.603612Z",
+  "version": 1
+}

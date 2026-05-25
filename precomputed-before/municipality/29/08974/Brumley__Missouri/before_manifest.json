@@ -1,0 +1,16 @@
+{
+  "article": "Brumley,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/08974/Brumley__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "725062d1bdb2df7e1e6cd457a23bec87025cf5ddfa2bdd4a40f97f7f63571f60",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "725062d1bdb2df7e1e6cd457a23bec87025cf5ddfa2bdd4a40f97f7f63571f60",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/08974/Brumley__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "08974",
+  "timestamp": "2026-05-24T23:50:50.545528Z",
+  "version": 1
+}

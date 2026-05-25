@@ -1,0 +1,16 @@
+{
+  "article": "Randolph,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/63020/Randolph__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ec9930ca20b71ad9d94f9f37f8389014b30e803b21052c3b4d739b997d3d33d6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ec9930ca20b71ad9d94f9f37f8389014b30e803b21052c3b4d739b997d3d33d6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/63020/Randolph__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "63020",
+  "timestamp": "2026-05-25T00:17:08.333432Z",
+  "version": 1
+}

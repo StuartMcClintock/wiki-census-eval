@@ -1,0 +1,16 @@
+{
+  "article": "Bon_Homme_Colony,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/06300/Bon_Homme_Colony__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f2f260982ee92bb0a961a81bacdf29507b2f620b4b178f11dd82f6626ddb4936",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f2f260982ee92bb0a961a81bacdf29507b2f620b4b178f11dd82f6626ddb4936",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/06300/Bon_Homme_Colony__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "06300",
+  "timestamp": "2026-05-25T00:10:31.807236Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Bloomsdale,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/06454/Bloomsdale__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9d233da13cc87a47031c41b9f72cccf9d8061770ad6f165cb3a5d59d131a4f51",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9d233da13cc87a47031c41b9f72cccf9d8061770ad6f165cb3a5d59d131a4f51",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/06454/Bloomsdale__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "06454",
+  "timestamp": "2026-05-24T23:50:48.525317Z",
+  "version": 1
+}

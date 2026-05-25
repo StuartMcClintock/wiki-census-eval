@@ -1,0 +1,16 @@
+{
+  "article": "Butterfield,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/11626/Butterfield__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "36abd7213f44d53d23659d1f3240fb63e1a4a79e3418e02e482d6e1497dfde8f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "36abd7213f44d53d23659d1f3240fb63e1a4a79e3418e02e482d6e1497dfde8f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/11626/Butterfield__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "11626",
+  "timestamp": "2026-05-25T00:15:10.704813Z",
+  "version": 1
+}

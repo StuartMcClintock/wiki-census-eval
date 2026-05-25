@@ -1,0 +1,16 @@
+{
+  "article": "Drexel,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/22624/Drexel__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "120537a44321dcbef5d8dc09508f1c518419fd49defca4a67a23f67e0af93a7b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "120537a44321dcbef5d8dc09508f1c518419fd49defca4a67a23f67e0af93a7b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/22624/Drexel__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "22624",
+  "timestamp": "2026-05-25T00:04:05.070601Z",
+  "version": 1
+}

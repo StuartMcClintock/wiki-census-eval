@@ -1,0 +1,16 @@
+{
+  "article": "Unionville_Center,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/78834/Unionville_Center__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "374f09184c663bb5e4ddf854c7f9c2b52ed4b9134460af27d8250780eb3cf57d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "374f09184c663bb5e4ddf854c7f9c2b52ed4b9134460af27d8250780eb3cf57d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/78834/Unionville_Center__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "78834",
+  "timestamp": "2026-05-25T00:05:33.549916Z",
+  "version": 1
+}

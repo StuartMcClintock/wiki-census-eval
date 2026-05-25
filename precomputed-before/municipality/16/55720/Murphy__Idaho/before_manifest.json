@@ -1,0 +1,16 @@
+{
+  "article": "Murphy,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/55720/Murphy__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cfbb803bc49008d9d8b39f94d32bc2ac763a34187d9f0783fab954487ee8b37e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cfbb803bc49008d9d8b39f94d32bc2ac763a34187d9f0783fab954487ee8b37e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/55720/Murphy__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "55720",
+  "timestamp": "2026-05-24T23:37:25.575759Z",
+  "version": 1
+}

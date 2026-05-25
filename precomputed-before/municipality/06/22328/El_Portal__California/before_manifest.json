@@ -1,0 +1,16 @@
+{
+  "article": "El_Portal,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/22328/El_Portal__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "91c6fb36dd19011a915e65a753edfb8729f922ebe915c4fb781eb395cdb7ecb7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "91c6fb36dd19011a915e65a753edfb8729f922ebe915c4fb781eb395cdb7ecb7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/22328/El_Portal__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "22328",
+  "timestamp": "2026-05-24T23:34:21.751000Z",
+  "version": 1
+}

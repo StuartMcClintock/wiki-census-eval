@@ -1,0 +1,16 @@
+{
+  "article": "Ketchuptown,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/38110/Ketchuptown__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d7d6e5bb3c78348edc6128c811bc23baf3e353115af6482c8f3ef90717586f65",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d7d6e5bb3c78348edc6128c811bc23baf3e353115af6482c8f3ef90717586f65",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/38110/Ketchuptown__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "38110",
+  "timestamp": "2026-05-25T00:10:08.919713Z",
+  "version": 1
+}

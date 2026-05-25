@@ -1,0 +1,16 @@
+{
+  "article": "Jonesville,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/41272/Jonesville__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "249fcc7aab6f7bd234fb5b404303d9902bec4997fa1652b467304829791826fc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "249fcc7aab6f7bd234fb5b404303d9902bec4997fa1652b467304829791826fc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/41272/Jonesville__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "41272",
+  "timestamp": "2026-05-25T00:19:19.903752Z",
+  "version": 1
+}

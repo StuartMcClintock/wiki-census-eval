@@ -1,0 +1,16 @@
+{
+  "article": "Maybell,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/49325/Maybell__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4c7e45dc7b1bb92c25386d5731a831aaa5faf4ca6403f89b788a2c068c926e00",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4c7e45dc7b1bb92c25386d5731a831aaa5faf4ca6403f89b788a2c068c926e00",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/49325/Maybell__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "49325",
+  "timestamp": "2026-05-24T23:35:32.710852Z",
+  "version": 1
+}

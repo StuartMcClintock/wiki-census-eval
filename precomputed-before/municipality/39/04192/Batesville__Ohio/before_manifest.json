@@ -1,0 +1,16 @@
+{
+  "article": "Batesville,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/04192/Batesville__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c9e4d4cca06c454b234de91fec6073bd13baa38a7d365374cf2a90f4e1dd3484",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c9e4d4cca06c454b234de91fec6073bd13baa38a7d365374cf2a90f4e1dd3484",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/04192/Batesville__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "04192",
+  "timestamp": "2026-05-25T00:03:32.658740Z",
+  "version": 1
+}

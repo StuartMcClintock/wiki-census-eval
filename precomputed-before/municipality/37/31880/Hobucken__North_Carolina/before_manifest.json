@@ -1,0 +1,16 @@
+{
+  "article": "Hobucken,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/31880/Hobucken__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "35250c3909c485a31693ce3ff53d8d8863c89fd01ed16fc248a68d149752c7c2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "35250c3909c485a31693ce3ff53d8d8863c89fd01ed16fc248a68d149752c7c2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/31880/Hobucken__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "31880",
+  "timestamp": "2026-05-25T00:02:03.644585Z",
+  "version": 1
+}

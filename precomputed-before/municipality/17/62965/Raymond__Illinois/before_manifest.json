@@ -1,0 +1,16 @@
+{
+  "article": "Raymond,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/62965/Raymond__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8f75bdea710185147c7f371ff0c334507d319a140fdc8d8ba7f5fa7bde61b555",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8f75bdea710185147c7f371ff0c334507d319a140fdc8d8ba7f5fa7bde61b555",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/62965/Raymond__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "62965",
+  "timestamp": "2026-05-24T23:39:04.742818Z",
+  "version": 1
+}

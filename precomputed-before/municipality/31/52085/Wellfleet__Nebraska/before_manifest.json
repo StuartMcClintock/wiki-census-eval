@@ -1,0 +1,16 @@
+{
+  "article": "Wellfleet,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/52085/Wellfleet__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "174c31a62dfc871a756a26a8e2c3d14c93977213e36083e58a3263b6f93761cc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "174c31a62dfc871a756a26a8e2c3d14c93977213e36083e58a3263b6f93761cc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/52085/Wellfleet__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "52085",
+  "timestamp": "2026-05-24T23:57:24.557138Z",
+  "version": 1
+}

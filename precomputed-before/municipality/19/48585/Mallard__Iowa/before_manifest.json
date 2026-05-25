@@ -1,0 +1,16 @@
+{
+  "article": "Mallard,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/48585/Mallard__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "791950ae703e22c6a1854168c1680f09360b3cc53a7be7739abbf002ca792da0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "791950ae703e22c6a1854168c1680f09360b3cc53a7be7739abbf002ca792da0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/48585/Mallard__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "48585",
+  "timestamp": "2026-05-24T23:41:24.626743Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Fairfield,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/16445/Fairfield__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0ac6a0e0b8a2f967060070d10758d30c3e582b7fa1034d7843d46915fe845501",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0ac6a0e0b8a2f967060070d10758d30c3e582b7fa1034d7843d46915fe845501",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/16445/Fairfield__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "16445",
+  "timestamp": "2026-05-24T23:55:26.268096Z",
+  "version": 1
+}

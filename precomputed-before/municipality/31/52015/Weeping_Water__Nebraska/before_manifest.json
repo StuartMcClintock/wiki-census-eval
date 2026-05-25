@@ -1,0 +1,16 @@
+{
+  "article": "Weeping_Water,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/52015/Weeping_Water__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0441af0ec87c2fd3567aad9fbef721874ef563c5ea221e6d80408bb8e2595723",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0441af0ec87c2fd3567aad9fbef721874ef563c5ea221e6d80408bb8e2595723",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/52015/Weeping_Water__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "52015",
+  "timestamp": "2026-05-24T23:57:24.465148Z",
+  "version": 1
+}

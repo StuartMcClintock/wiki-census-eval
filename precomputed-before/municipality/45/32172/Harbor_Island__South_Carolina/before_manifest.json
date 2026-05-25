@@ -1,0 +1,16 @@
+{
+  "article": "Harbor_Island,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/32172/Harbor_Island__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "34626a114a31dec09d7ccb1813be3b3a30ae5f98a68e089e942decacab2b26a3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "34626a114a31dec09d7ccb1813be3b3a30ae5f98a68e089e942decacab2b26a3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/32172/Harbor_Island__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "32172",
+  "timestamp": "2026-05-25T00:10:05.842337Z",
+  "version": 1
+}

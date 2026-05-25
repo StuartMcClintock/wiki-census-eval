@@ -1,0 +1,16 @@
+{
+  "article": "Pondera_Colony,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/58834/Pondera_Colony__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f7cfeda46902d7137785ae36a7adc571073827866798a8af582742504be8cc1a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f7cfeda46902d7137785ae36a7adc571073827866798a8af582742504be8cc1a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/58834/Pondera_Colony__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "58834",
+  "timestamp": "2026-05-24T23:54:43.560650Z",
+  "version": 1
+}

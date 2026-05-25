@@ -1,0 +1,16 @@
+{
+  "article": "McConnells,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/43675/McConnells__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a661bf3057447a65c10972e49f043f37c9e75d7ce765e286bab687b4aa51a188",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a661bf3057447a65c10972e49f043f37c9e75d7ce765e286bab687b4aa51a188",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/43675/McConnells__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "43675",
+  "timestamp": "2026-05-25T00:10:12.564967Z",
+  "version": 1
+}

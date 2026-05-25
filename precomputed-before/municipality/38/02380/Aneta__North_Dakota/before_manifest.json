@@ -1,0 +1,16 @@
+{
+  "article": "Aneta,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/02380/Aneta__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "204d31d6d2ec02cf2f79ab6590ca8ecfe1085bd30e6d9df935534a0c738c5590",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "204d31d6d2ec02cf2f79ab6590ca8ecfe1085bd30e6d9df935534a0c738c5590",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/02380/Aneta__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "02380",
+  "timestamp": "2026-05-25T00:02:32.203037Z",
+  "version": 1
+}

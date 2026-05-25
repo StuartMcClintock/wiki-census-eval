@@ -1,0 +1,16 @@
+{
+  "article": "Seville,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/71078/Seville__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3dbe91a08e0dd2235d003e27af29865e5a5483c94144735dd0ef4d411f9bd74b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3dbe91a08e0dd2235d003e27af29865e5a5483c94144735dd0ef4d411f9bd74b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/71078/Seville__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "71078",
+  "timestamp": "2026-05-24T23:35:04.840067Z",
+  "version": 1
+}

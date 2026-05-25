@@ -1,0 +1,16 @@
+{
+  "article": "Hooven,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/36232/Hooven__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e3b1cfd7d97b3718563563c6c95ca9d356489b3ccf3b6a4d865c499028fba089",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e3b1cfd7d97b3718563563c6c95ca9d356489b3ccf3b6a4d865c499028fba089",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/36232/Hooven__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "36232",
+  "timestamp": "2026-05-25T00:04:19.561164Z",
+  "version": 1
+}

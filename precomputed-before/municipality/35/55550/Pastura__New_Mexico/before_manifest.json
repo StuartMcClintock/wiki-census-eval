@@ -1,0 +1,16 @@
+{
+  "article": "Pastura,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/55550/Pastura__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "58178187c2d5031affa6464eee48dab6a790a51b08bf13d9718bd28f837f4ac8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "58178187c2d5031affa6464eee48dab6a790a51b08bf13d9718bd28f837f4ac8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/55550/Pastura__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "55550",
+  "timestamp": "2026-05-24T23:58:46.355070Z",
+  "version": 1
+}

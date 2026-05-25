@@ -1,0 +1,16 @@
+{
+  "article": "Lake_Como,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/37560/Lake_Como__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b826a1166a7b917a24ff865bb78b1c0a805923bbba590cffe026231b549ed437",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b826a1166a7b917a24ff865bb78b1c0a805923bbba590cffe026231b549ed437",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/37560/Lake_Como__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "37560",
+  "timestamp": "2026-05-24T23:57:52.218903Z",
+  "version": 1
+}

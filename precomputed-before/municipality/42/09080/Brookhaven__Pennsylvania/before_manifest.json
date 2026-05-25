@@ -1,0 +1,16 @@
+{
+  "article": "Brookhaven,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/09080/Brookhaven__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2ecd8711f45b920d53b14481d64ed5cc6fadfdcfadf4959649e4097a3f4b35da",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2ecd8711f45b920d53b14481d64ed5cc6fadfdcfadf4959649e4097a3f4b35da",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/09080/Brookhaven__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "09080",
+  "timestamp": "2026-05-25T00:06:22.252749Z",
+  "version": 1
+}

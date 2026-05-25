@@ -1,0 +1,16 @@
+{
+  "article": "East_Canton,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/23324/East_Canton__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1169cc6fd108f2bd50f381023344d5b568fbd352fd40a6d472191cffccd62e35",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1169cc6fd108f2bd50f381023344d5b568fbd352fd40a6d472191cffccd62e35",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/23324/East_Canton__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "23324",
+  "timestamp": "2026-05-25T00:04:06.002899Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Radium,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/58300/Radium__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8f611ab7b4fe32f83b14cd98e0dc5fabedfb3115b135ee387adae3303129ab25",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8f611ab7b4fe32f83b14cd98e0dc5fabedfb3115b135ee387adae3303129ab25",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/58300/Radium__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "58300",
+  "timestamp": "2026-05-24T23:43:22.755747Z",
+  "version": 1
+}

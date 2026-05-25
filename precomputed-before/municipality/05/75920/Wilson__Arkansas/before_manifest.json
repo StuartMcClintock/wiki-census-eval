@@ -1,0 +1,16 @@
+{
+  "article": "Wilson,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/75920/Wilson__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ea1327c33247b731a6b83827d57e6f9cdd825f1e4a6cdb8e680d6aa4acc01fed",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ea1327c33247b731a6b83827d57e6f9cdd825f1e4a6cdb8e680d6aa4acc01fed",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/75920/Wilson__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "75920",
+  "timestamp": "2026-05-24T23:34:15.186472Z",
+  "version": 1
+}

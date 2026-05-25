@@ -1,0 +1,16 @@
+{
+  "article": "Toston,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/74500/Toston__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ec757ccb92e89a15b115f93b4c19f7be0cf200a9fbf64103e296ebe9a0386518",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ec757ccb92e89a15b115f93b4c19f7be0cf200a9fbf64103e296ebe9a0386518",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/74500/Toston__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "74500",
+  "timestamp": "2026-05-24T23:54:54.162641Z",
+  "version": 1
+}

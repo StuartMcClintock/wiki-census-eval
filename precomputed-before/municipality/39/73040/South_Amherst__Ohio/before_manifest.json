@@ -1,0 +1,16 @@
+{
+  "article": "South_Amherst,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/73040/South_Amherst__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "56a378e969c633975250f3c26c6b8d90e0b1e3dbd20f8efd9e950f9e8f8789a2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "56a378e969c633975250f3c26c6b8d90e0b1e3dbd20f8efd9e950f9e8f8789a2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/73040/South_Amherst__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "73040",
+  "timestamp": "2026-05-25T00:05:27.933985Z",
+  "version": 1
+}

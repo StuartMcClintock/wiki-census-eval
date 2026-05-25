@@ -1,0 +1,16 @@
+{
+  "article": "New_Miami,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/55104/New_Miami__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "32e0bec328936ed5f2be8e1340d6f28b2c69f785bf0cf57243b261d964d7611e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "32e0bec328936ed5f2be8e1340d6f28b2c69f785bf0cf57243b261d964d7611e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/55104/New_Miami__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "55104",
+  "timestamp": "2026-05-25T00:04:52.853813Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Bolton,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/07540/Bolton__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7a4899eff106e7b899a37ee074cb96350c8d3811c7fa70a3c56e260f239bad35",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7a4899eff106e7b899a37ee074cb96350c8d3811c7fa70a3c56e260f239bad35",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/07540/Bolton__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "07540",
+  "timestamp": "2026-05-24T23:50:03.613248Z",
+  "version": 1
+}

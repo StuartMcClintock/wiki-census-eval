@@ -1,0 +1,16 @@
+{
+  "article": "Beaconsfield,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/05095/Beaconsfield__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6cff15310802f00ada1c34d2b760d7bcd4e48e83296281a34c3c13df86e94d2a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6cff15310802f00ada1c34d2b760d7bcd4e48e83296281a34c3c13df86e94d2a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/05095/Beaconsfield__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "05095",
+  "timestamp": "2026-05-24T23:40:26.853301Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Pomfret,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/62675/Pomfret__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d14522c13d68cdfbea9f35684990aa54401d2664b39cff4fa02702e676244c75",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d14522c13d68cdfbea9f35684990aa54401d2664b39cff4fa02702e676244c75",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/62675/Pomfret__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "62675",
+  "timestamp": "2026-05-24T23:47:30.721862Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Lynnville,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/44420/Lynnville__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c54c736c3826c34497ccde3bb9ec304fff3752487d4ef5a6a71ae9364ddd8d6a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c54c736c3826c34497ccde3bb9ec304fff3752487d4ef5a6a71ae9364ddd8d6a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/44420/Lynnville__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "44420",
+  "timestamp": "2026-05-25T00:14:45.923273Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Jamesport,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/38253/Jamesport__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4a618c8916a817af71d4c68bffef5fa3105638d233bc3b550687a178d32ebb21",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4a618c8916a817af71d4c68bffef5fa3105638d233bc3b550687a178d32ebb21",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/38253/Jamesport__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "38253",
+  "timestamp": "2026-05-25T00:00:49.531942Z",
+  "version": 1
+}

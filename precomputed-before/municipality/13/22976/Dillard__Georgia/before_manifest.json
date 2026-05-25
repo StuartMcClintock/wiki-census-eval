@@ -1,0 +1,16 @@
+{
+  "article": "Dillard,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/22976/Dillard__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b80f5543a632e3dbdf7ed248d35798bf370c699039af60e999fc5adbe241fda0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b80f5543a632e3dbdf7ed248d35798bf370c699039af60e999fc5adbe241fda0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/22976/Dillard__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "22976",
+  "timestamp": "2026-05-24T23:36:34.849564Z",
+  "version": 1
+}

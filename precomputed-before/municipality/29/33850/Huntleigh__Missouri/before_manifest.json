@@ -1,0 +1,16 @@
+{
+  "article": "Huntleigh,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/33850/Huntleigh__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c74b9a235a566fcfb9211b1b7c8e12f72b3185fde77a78c55b6e79a0985e787b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c74b9a235a566fcfb9211b1b7c8e12f72b3185fde77a78c55b6e79a0985e787b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/33850/Huntleigh__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "33850",
+  "timestamp": "2026-05-24T23:53:20.283861Z",
+  "version": 1
+}

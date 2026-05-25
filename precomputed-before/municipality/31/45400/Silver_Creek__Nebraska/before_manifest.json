@@ -1,0 +1,16 @@
+{
+  "article": "Silver_Creek,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/45400/Silver_Creek__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f318c288f22b32e84ab9ef5031ebcb26d24601f23a1891a7bc89b04ee052252a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f318c288f22b32e84ab9ef5031ebcb26d24601f23a1891a7bc89b04ee052252a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/45400/Silver_Creek__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "45400",
+  "timestamp": "2026-05-24T23:57:16.372095Z",
+  "version": 1
+}

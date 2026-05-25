@@ -1,0 +1,16 @@
+{
+  "article": "South_Heights,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/72216/South_Heights__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "14d68ef7791c070d7cfa924cad2d50765e03a328be11e073c5dd9b3163d489e1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "14d68ef7791c070d7cfa924cad2d50765e03a328be11e073c5dd9b3163d489e1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/72216/South_Heights__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "72216",
+  "timestamp": "2026-05-25T00:09:08.007188Z",
+  "version": 1
+}

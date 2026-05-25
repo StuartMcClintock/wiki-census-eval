@@ -1,0 +1,16 @@
+{
+  "article": "La_Clede,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/40520/La_Clede__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aaf2f73ac477d054a5ca6001202394046dc0e05583c9a509a992ac940729b243",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aaf2f73ac477d054a5ca6001202394046dc0e05583c9a509a992ac940729b243",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/40520/La_Clede__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "40520",
+  "timestamp": "2026-05-24T23:38:26.821085Z",
+  "version": 1
+}

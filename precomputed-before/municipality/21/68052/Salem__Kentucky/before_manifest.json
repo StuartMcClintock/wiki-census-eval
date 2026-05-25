@@ -1,0 +1,16 @@
+{
+  "article": "Salem,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/68052/Salem__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2586d40a1345308cbedcce7f24eb4632af4e034a3acc456cbb5c166455ae52b8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2586d40a1345308cbedcce7f24eb4632af4e034a3acc456cbb5c166455ae52b8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/68052/Salem__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "68052",
+  "timestamp": "2026-05-24T23:44:19.502326Z",
+  "version": 1
+}

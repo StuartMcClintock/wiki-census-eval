@@ -1,0 +1,16 @@
+{
+  "article": "Malo,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/42310/Malo__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "36d2b77b94b21dc69851d4649dfc8b033c51fb2ee8e3798a1edab25d0d3dc938",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "36d2b77b94b21dc69851d4649dfc8b033c51fb2ee8e3798a1edab25d0d3dc938",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/42310/Malo__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "42310",
+  "timestamp": "2026-05-25T00:20:21.230770Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Woodfield,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/78820/Woodfield__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fd00a14e1b9db236c408db9188c7673ccfb43e9b180a45cbc6445361e98de44a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fd00a14e1b9db236c408db9188c7673ccfb43e9b180a45cbc6445361e98de44a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/78820/Woodfield__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "78820",
+  "timestamp": "2026-05-25T00:10:28.454139Z",
+  "version": 1
+}

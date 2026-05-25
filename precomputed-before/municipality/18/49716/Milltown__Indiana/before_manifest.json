@@ -1,0 +1,16 @@
+{
+  "article": "Milltown,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/49716/Milltown__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4c9924221db9dc8f25c9a9a8a066ba16c33a8c99452bae7a5463717e891c4321",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4c9924221db9dc8f25c9a9a8a066ba16c33a8c99452bae7a5463717e891c4321",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/49716/Milltown__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "49716",
+  "timestamp": "2026-05-24T23:40:02.608263Z",
+  "version": 1
+}

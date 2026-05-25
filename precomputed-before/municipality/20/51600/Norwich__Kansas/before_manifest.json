@@ -1,0 +1,16 @@
+{
+  "article": "Norwich,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/51600/Norwich__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "017632b1b5a6879a66f1e48e7747d31ea09d5518d7e52ee15c1d908c14bfa9f8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "017632b1b5a6879a66f1e48e7747d31ea09d5518d7e52ee15c1d908c14bfa9f8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/51600/Norwich__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "51600",
+  "timestamp": "2026-05-24T23:43:15.536336Z",
+  "version": 1
+}

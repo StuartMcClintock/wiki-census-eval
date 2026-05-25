@@ -1,0 +1,16 @@
+{
+  "article": "Melrose,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/50970/Melrose__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ff627cbdcf62c96bbe183bd30505468bdccd0d9ee13368aa3d72c4a413cd232f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ff627cbdcf62c96bbe183bd30505468bdccd0d9ee13368aa3d72c4a413cd232f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/50970/Melrose__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "50970",
+  "timestamp": "2026-05-24T23:41:26.888034Z",
+  "version": 1
+}

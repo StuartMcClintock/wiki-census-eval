@@ -1,0 +1,16 @@
+{
+  "article": "Passapatanzy,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/60888/Passapatanzy__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "87fcfd8e279bb3218eb948e5f0ddbe2013ae64fd5a54e2751dda5dc324f324c1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "87fcfd8e279bb3218eb948e5f0ddbe2013ae64fd5a54e2751dda5dc324f324c1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/60888/Passapatanzy__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "60888",
+  "timestamp": "2026-05-25T00:19:31.094747Z",
+  "version": 1
+}

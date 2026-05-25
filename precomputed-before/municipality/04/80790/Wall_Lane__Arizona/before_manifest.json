@@ -1,0 +1,16 @@
+{
+  "article": "Wall_Lane,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/80790/Wall_Lane__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f33f25501d7ca5021076045724daa99c880545916c519c3ba8dd86bc1d806f19",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f33f25501d7ca5021076045724daa99c880545916c519c3ba8dd86bc1d806f19",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/80790/Wall_Lane__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "80790",
+  "timestamp": "2026-05-24T23:33:13.984268Z",
+  "version": 1
+}

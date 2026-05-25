@@ -1,0 +1,16 @@
+{
+  "article": "Rothsville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/66392/Rothsville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2cf9746e05f2e686f9403e575813a4234c9537f62a6b38fdc7b4bd3c38b1c697",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2cf9746e05f2e686f9403e575813a4234c9537f62a6b38fdc7b4bd3c38b1c697",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/66392/Rothsville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "66392",
+  "timestamp": "2026-05-25T00:08:53.516723Z",
+  "version": 1
+}

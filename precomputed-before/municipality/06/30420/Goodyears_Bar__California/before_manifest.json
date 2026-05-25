@@ -1,0 +1,16 @@
+{
+  "article": "Goodyears_Bar,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/30420/Goodyears_Bar__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7312206835b2dbe6c94d2ec2725c955532a3f0b24087c6cac175b0b0d019d581",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7312206835b2dbe6c94d2ec2725c955532a3f0b24087c6cac175b0b0d019d581",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/30420/Goodyears_Bar__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "30420",
+  "timestamp": "2026-05-24T23:34:25.929494Z",
+  "version": 1
+}

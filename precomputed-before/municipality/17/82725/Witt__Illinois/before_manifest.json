@@ -1,0 +1,16 @@
+{
+  "article": "Witt,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/82725/Witt__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "70dc02645129d338efe24e40087497146b71b111a48e5977bd7a34aac5937ebe",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "70dc02645129d338efe24e40087497146b71b111a48e5977bd7a34aac5937ebe",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/82725/Witt__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "82725",
+  "timestamp": "2026-05-24T23:39:23.763851Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Clyde,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/13990/Clyde__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c9549c5a83e13ce713d3cb41968ba5181d9595a34607dbe1c554590822804fbc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c9549c5a83e13ce713d3cb41968ba5181d9595a34607dbe1c554590822804fbc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/13990/Clyde__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "13990",
+  "timestamp": "2026-05-24T23:57:43.517199Z",
+  "version": 1
+}

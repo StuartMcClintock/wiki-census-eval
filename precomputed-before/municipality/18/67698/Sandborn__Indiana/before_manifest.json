@@ -1,0 +1,16 @@
+{
+  "article": "Sandborn,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/67698/Sandborn__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ec86b5034127578bce63cb4d89d6cb7602c0123c24d75510ce2c89217cc991b7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ec86b5034127578bce63cb4d89d6cb7602c0123c24d75510ce2c89217cc991b7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/67698/Sandborn__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "67698",
+  "timestamp": "2026-05-24T23:40:11.583028Z",
+  "version": 1
+}

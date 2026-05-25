@@ -1,0 +1,16 @@
+{
+  "article": "Kearney_Park,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/37190/Kearney_Park__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "23033e8b824ea4b412ab9385887084c32ec3861fc193b9d3f8ed05a26bc94968",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "23033e8b824ea4b412ab9385887084c32ec3861fc193b9d3f8ed05a26bc94968",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/37190/Kearney_Park__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "37190",
+  "timestamp": "2026-05-24T23:50:13.448415Z",
+  "version": 1
+}

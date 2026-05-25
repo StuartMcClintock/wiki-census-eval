@@ -1,0 +1,16 @@
+{
+  "article": "Bison,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/05620/Bison__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3045330e9d7e9442be6ccdec78c272db2cc984b8878d3273d7b3c8e436f46038",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3045330e9d7e9442be6ccdec78c272db2cc984b8878d3273d7b3c8e436f46038",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/05620/Bison__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "05620",
+  "timestamp": "2026-05-25T00:10:31.616348Z",
+  "version": 1
+}

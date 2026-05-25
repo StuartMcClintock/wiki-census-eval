@@ -1,0 +1,16 @@
+{
+  "article": "Matamoras,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/48286/Matamoras__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b3986ecd61b548501228e2b6a3b7d6893164f0c51811e684f627acce6447582f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b3986ecd61b548501228e2b6a3b7d6893164f0c51811e684f627acce6447582f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/48286/Matamoras__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "48286",
+  "timestamp": "2026-05-25T00:04:44.251427Z",
+  "version": 1
+}

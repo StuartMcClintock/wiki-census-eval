@@ -1,0 +1,16 @@
+{
+  "article": "Wheeler,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/81074/Wheeler__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "37c73a7f1b91fc99735ba64687fe7888a614dfc8672ae17045affb9a49a8aa16",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "37c73a7f1b91fc99735ba64687fe7888a614dfc8672ae17045affb9a49a8aa16",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/81074/Wheeler__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "81074",
+  "timestamp": "2026-05-24T23:39:22.634242Z",
+  "version": 1
+}

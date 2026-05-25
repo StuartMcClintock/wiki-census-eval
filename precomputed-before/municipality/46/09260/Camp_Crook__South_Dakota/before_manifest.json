@@ -1,0 +1,16 @@
+{
+  "article": "Camp_Crook,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/09260/Camp_Crook__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "17255addfe8f82aca910d325cb7079aea838baa3642ff7f37b1255f11661fab7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "17255addfe8f82aca910d325cb7079aea838baa3642ff7f37b1255f11661fab7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/09260/Camp_Crook__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "09260",
+  "timestamp": "2026-05-25T00:10:33.580902Z",
+  "version": 1
+}

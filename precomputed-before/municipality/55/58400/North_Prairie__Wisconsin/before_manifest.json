@@ -1,0 +1,16 @@
+{
+  "article": "North_Prairie,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/58400/North_Prairie__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9c392813ce7d75e0621aa57e6ade9fad256ac14d5a611e14caad7940f9c5a78a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9c392813ce7d75e0621aa57e6ade9fad256ac14d5a611e14caad7940f9c5a78a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/58400/North_Prairie__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "58400",
+  "timestamp": "2026-05-25T00:22:30.543543Z",
+  "version": 1
+}

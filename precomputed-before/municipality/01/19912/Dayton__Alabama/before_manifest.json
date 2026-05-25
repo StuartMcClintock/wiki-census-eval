@@ -1,0 +1,16 @@
+{
+  "article": "Dayton,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/19912/Dayton__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f74e5edf4fc0c770f12d86c1a8910374319a6e50b22b8c048925893a0d026947",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f74e5edf4fc0c770f12d86c1a8910374319a6e50b22b8c048925893a0d026947",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/19912/Dayton__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "19912",
+  "timestamp": "2026-05-24T23:31:53.072487Z",
+  "version": 1
+}

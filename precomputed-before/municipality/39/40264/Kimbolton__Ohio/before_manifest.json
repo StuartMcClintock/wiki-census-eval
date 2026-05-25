@@ -1,0 +1,16 @@
+{
+  "article": "Kimbolton,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/40264/Kimbolton__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "85fd8397d61f7535ed48f9797bfb3256374f373b1d267dd9a1e36c81141af894",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "85fd8397d61f7535ed48f9797bfb3256374f373b1d267dd9a1e36c81141af894",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/40264/Kimbolton__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "40264",
+  "timestamp": "2026-05-25T00:04:22.832078Z",
+  "version": 1
+}

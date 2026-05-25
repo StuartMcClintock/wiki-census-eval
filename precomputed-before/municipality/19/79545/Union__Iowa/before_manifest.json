@@ -1,0 +1,16 @@
+{
+  "article": "Union,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/79545/Union__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "08f9e78ae980d3b2831ba6c4127c8b9378022bd1b00c0b5893d0142613d9f8d8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "08f9e78ae980d3b2831ba6c4127c8b9378022bd1b00c0b5893d0142613d9f8d8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/79545/Union__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "79545",
+  "timestamp": "2026-05-24T23:42:07.135634Z",
+  "version": 1
+}

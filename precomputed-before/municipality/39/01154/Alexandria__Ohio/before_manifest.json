@@ -1,0 +1,16 @@
+{
+  "article": "Alexandria,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/01154/Alexandria__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "efec6ea66a04b63a07c29bd3a453685d356c5869d1745fd63d1ca67c02f22f4f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "efec6ea66a04b63a07c29bd3a453685d356c5869d1745fd63d1ca67c02f22f4f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/01154/Alexandria__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "01154",
+  "timestamp": "2026-05-25T00:03:29.323354Z",
+  "version": 1
+}

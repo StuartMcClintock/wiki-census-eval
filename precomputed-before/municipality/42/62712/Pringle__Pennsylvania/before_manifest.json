@@ -1,0 +1,16 @@
+{
+  "article": "Pringle,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/62712/Pringle__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "716936fdea111fa06c034ca6f2827b696821f3a42b86597ee38895d7f74fb6a5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "716936fdea111fa06c034ca6f2827b696821f3a42b86597ee38895d7f74fb6a5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/62712/Pringle__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "62712",
+  "timestamp": "2026-05-25T00:08:33.291301Z",
+  "version": 1
+}

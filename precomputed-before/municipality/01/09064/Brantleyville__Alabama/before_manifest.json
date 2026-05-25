@@ -1,0 +1,16 @@
+{
+  "article": "Brantleyville,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/09064/Brantleyville__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dddc80ecb1d23302f6a0fbd7817d7ad6c563e0fbb3e559ac8641df3fbcdfe1c6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dddc80ecb1d23302f6a0fbd7817d7ad6c563e0fbb3e559ac8641df3fbcdfe1c6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/09064/Brantleyville__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "09064",
+  "timestamp": "2026-05-24T23:31:50.366095Z",
+  "version": 1
+}

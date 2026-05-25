@@ -1,0 +1,16 @@
+{
+  "article": "Pearsonville,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/56294/Pearsonville__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9e3bc45f0ba38dbbb3dc7bca9a0adca06d2eecea7727f9c251d9dd659f65b314",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9e3bc45f0ba38dbbb3dc7bca9a0adca06d2eecea7727f9c251d9dd659f65b314",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/56294/Pearsonville__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "56294",
+  "timestamp": "2026-05-24T23:34:45.652954Z",
+  "version": 1
+}

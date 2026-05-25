@@ -1,0 +1,16 @@
+{
+  "article": "Early,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/23475/Early__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f3caf4fbf6f3d0c8322053fc632662b819e7f96463f9c16ae12a9660f4f03aed",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f3caf4fbf6f3d0c8322053fc632662b819e7f96463f9c16ae12a9660f4f03aed",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/23475/Early__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "23475",
+  "timestamp": "2026-05-24T23:40:43.704969Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Varna,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/77395/Varna__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dc5f0eae7fcd96f8ab6f2a21bf22ea9cfc1f3016bf4cbc8d6ddcda97ae6c771a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dc5f0eae7fcd96f8ab6f2a21bf22ea9cfc1f3016bf4cbc8d6ddcda97ae6c771a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/77395/Varna__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "77395",
+  "timestamp": "2026-05-24T23:39:18.805015Z",
+  "version": 1
+}

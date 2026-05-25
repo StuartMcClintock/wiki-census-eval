@@ -1,0 +1,16 @@
+{
+  "article": "Roseland,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/42355/Roseland__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "40ce67d5d0da2bc35526f39aed24595be66e2ddf7add12bae8a054e23f6ac904",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "40ce67d5d0da2bc35526f39aed24595be66e2ddf7add12bae8a054e23f6ac904",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/42355/Roseland__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "42355",
+  "timestamp": "2026-05-24T23:57:13.985212Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Eastman,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/21900/Eastman__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1e0e0e6f92c09a852523f73d185f68182d47ddf1a925e74729f7a1254f453f19",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1e0e0e6f92c09a852523f73d185f68182d47ddf1a925e74729f7a1254f453f19",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/21900/Eastman__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "21900",
+  "timestamp": "2026-05-25T00:22:02.815724Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Summertown,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/74348/Summertown__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a6eab690438f35c3419ec85e7bd98782830715fd956e3214c5f997b8c964044f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a6eab690438f35c3419ec85e7bd98782830715fd956e3214c5f997b8c964044f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/74348/Summertown__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "74348",
+  "timestamp": "2026-05-24T23:37:08.565426Z",
+  "version": 1
+}

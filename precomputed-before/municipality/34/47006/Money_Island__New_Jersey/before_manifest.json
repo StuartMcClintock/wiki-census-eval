@@ -1,0 +1,16 @@
+{
+  "article": "Money_Island,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/47006/Money_Island__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aa820f17bddd728e118b163ed5c98d4bac55245749b17a1ff4922031b3881910",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aa820f17bddd728e118b163ed5c98d4bac55245749b17a1ff4922031b3881910",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/47006/Money_Island__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "47006",
+  "timestamp": "2026-05-24T23:57:55.547410Z",
+  "version": 1
+}

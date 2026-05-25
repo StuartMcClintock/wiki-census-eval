@@ -1,0 +1,16 @@
+{
+  "article": "Millersburg,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/49536/Millersburg__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9d3d2db08630594e393a7bbc8ad914221b37c23dfcb906a0fb91dbfa17b16896",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9d3d2db08630594e393a7bbc8ad914221b37c23dfcb906a0fb91dbfa17b16896",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/49536/Millersburg__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "49536",
+  "timestamp": "2026-05-24T23:40:02.391425Z",
+  "version": 1
+}

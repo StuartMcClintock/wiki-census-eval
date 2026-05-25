@@ -1,0 +1,16 @@
+{
+  "article": "Dodson_Branch,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/20930/Dodson_Branch__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e665c5ccc08cadddf866092501311e4937876bcb0566b56bb59f4957f0e4b3ee",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e665c5ccc08cadddf866092501311e4937876bcb0566b56bb59f4957f0e4b3ee",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/20930/Dodson_Branch__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "20930",
+  "timestamp": "2026-05-25T00:14:36.795253Z",
+  "version": 1
+}

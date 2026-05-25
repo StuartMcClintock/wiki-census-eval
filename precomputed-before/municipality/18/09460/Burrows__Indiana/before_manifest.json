@@ -1,0 +1,16 @@
+{
+  "article": "Burrows,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/09460/Burrows__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c6bbc1332080737290f10c6ac1f7cf9a3bd1c5f3630644d49d23340c7a5cb203",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c6bbc1332080737290f10c6ac1f7cf9a3bd1c5f3630644d49d23340c7a5cb203",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/09460/Burrows__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "09460",
+  "timestamp": "2026-05-24T23:39:28.261432Z",
+  "version": 1
+}

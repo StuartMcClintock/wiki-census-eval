@@ -1,0 +1,16 @@
+{
+  "article": "Gorham,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/30588/Gorham__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "63a1b0b11315c87290d592ee5c381b49ba62e2ffa38f24b60a660c42983d734f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "63a1b0b11315c87290d592ee5c381b49ba62e2ffa38f24b60a660c42983d734f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/30588/Gorham__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "30588",
+  "timestamp": "2026-05-24T23:38:17.001354Z",
+  "version": 1
+}

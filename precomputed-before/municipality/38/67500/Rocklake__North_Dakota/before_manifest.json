@@ -1,0 +1,16 @@
+{
+  "article": "Rocklake,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/67500/Rocklake__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "59be8eb0991717b4ae0fdcf641782d9f46494781eb639ee72bef8a04d11efaa9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "59be8eb0991717b4ae0fdcf641782d9f46494781eb639ee72bef8a04d11efaa9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/67500/Rocklake__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "67500",
+  "timestamp": "2026-05-25T00:03:19.760963Z",
+  "version": 1
+}

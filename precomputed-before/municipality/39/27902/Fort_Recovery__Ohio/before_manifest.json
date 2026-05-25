@@ -1,0 +1,16 @@
+{
+  "article": "Fort_Recovery,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/27902/Fort_Recovery__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fb3a3684175ba244752c5f73b964e9f6acf596f55575210608afa9811d338a0b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fb3a3684175ba244752c5f73b964e9f6acf596f55575210608afa9811d338a0b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/27902/Fort_Recovery__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "27902",
+  "timestamp": "2026-05-25T00:04:09.501140Z",
+  "version": 1
+}

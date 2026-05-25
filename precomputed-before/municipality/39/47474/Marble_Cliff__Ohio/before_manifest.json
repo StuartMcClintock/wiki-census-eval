@@ -1,0 +1,16 @@
+{
+  "article": "Marble_Cliff,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/47474/Marble_Cliff__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "89aa1d5da3c398d12abd8ac33e65d8e5c51384cedea83bde0f184b38c417fc06",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "89aa1d5da3c398d12abd8ac33e65d8e5c51384cedea83bde0f184b38c417fc06",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/47474/Marble_Cliff__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "47474",
+  "timestamp": "2026-05-25T00:04:42.993362Z",
+  "version": 1
+}

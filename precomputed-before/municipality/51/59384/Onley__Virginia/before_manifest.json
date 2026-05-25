@@ -1,0 +1,16 @@
+{
+  "article": "Onley,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/59384/Onley__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f09f8558b772494cb2f3b0555cc53c4129a9082d6a400ff427d36fe4916e3e28",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f09f8558b772494cb2f3b0555cc53c4129a9082d6a400ff427d36fe4916e3e28",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/59384/Onley__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "59384",
+  "timestamp": "2026-05-25T00:19:30.200776Z",
+  "version": 1
+}

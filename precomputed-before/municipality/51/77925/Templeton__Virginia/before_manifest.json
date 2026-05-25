@@ -1,0 +1,16 @@
+{
+  "article": "Templeton,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/77925/Templeton__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "72a62ba2ee893010415e5e81a6b36256cb6e7a49ad9655c87020f5df6374ad5f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "72a62ba2ee893010415e5e81a6b36256cb6e7a49ad9655c87020f5df6374ad5f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/77925/Templeton__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "77925",
+  "timestamp": "2026-05-25T00:19:41.637445Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Rennert,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/55940/Rennert__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e60eddb8ed72c9cc7f2d76521d1d58fb4e011a77ab29099dce130e9acdf00815",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e60eddb8ed72c9cc7f2d76521d1d58fb4e011a77ab29099dce130e9acdf00815",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/55940/Rennert__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "55940",
+  "timestamp": "2026-05-25T00:02:17.966425Z",
+  "version": 1
+}

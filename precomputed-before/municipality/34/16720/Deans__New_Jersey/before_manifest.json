@@ -1,0 +1,16 @@
+{
+  "article": "Deans,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/16720/Deans__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9837ff045b6bd9c3084647b4f4062b8fd266fe6f5b0607455703a87a9d2a6df2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9837ff045b6bd9c3084647b4f4062b8fd266fe6f5b0607455703a87a9d2a6df2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/16720/Deans__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "16720",
+  "timestamp": "2026-05-24T23:57:44.958130Z",
+  "version": 1
+}

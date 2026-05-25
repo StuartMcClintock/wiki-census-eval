@@ -1,0 +1,16 @@
+{
+  "article": "Indian_Creek,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/37218/Indian_Creek__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "98741d0ab1ac7db4a15616f4d84a0694528d91a422469f265199efa705bc6abc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "98741d0ab1ac7db4a15616f4d84a0694528d91a422469f265199efa705bc6abc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/37218/Indian_Creek__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "37218",
+  "timestamp": "2026-05-24T23:38:22.299553Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Sycamore,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/75980/Sycamore__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8dfea45ac57e6d30a957d80619b090c991957263c5bb2ad7f2842ded1c31bd53",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8dfea45ac57e6d30a957d80619b090c991957263c5bb2ad7f2842ded1c31bd53",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/75980/Sycamore__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "75980",
+  "timestamp": "2026-05-25T00:05:31.320630Z",
+  "version": 1
+}

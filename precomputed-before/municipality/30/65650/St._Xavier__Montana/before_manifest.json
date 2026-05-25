@@ -1,0 +1,16 @@
+{
+  "article": "St._Xavier,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/65650/St._Xavier__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a245580674454ae08068969bfb64bc180ddfcb4315302054571342b663c719bb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a245580674454ae08068969bfb64bc180ddfcb4315302054571342b663c719bb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/65650/St._Xavier__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "65650",
+  "timestamp": "2026-05-24T23:54:49.332852Z",
+  "version": 1
+}

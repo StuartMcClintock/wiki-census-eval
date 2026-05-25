@@ -1,0 +1,16 @@
+{
+  "article": "Evan,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/19880/Evan__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d875731d33bc6138ab02e265154003e8d948afe6976356462cde66575ca1c367",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d875731d33bc6138ab02e265154003e8d948afe6976356462cde66575ca1c367",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/19880/Evan__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "19880",
+  "timestamp": "2026-05-24T23:48:53.654108Z",
+  "version": 1
+}

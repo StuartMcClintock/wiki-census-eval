@@ -1,0 +1,16 @@
+{
+  "article": "Antwerp,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/02204/Antwerp__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5405808b912e4f0371d0fcb45d514a4af282c580461a986baeb417ec4850fea1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5405808b912e4f0371d0fcb45d514a4af282c580461a986baeb417ec4850fea1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/02204/Antwerp__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "02204",
+  "timestamp": "2026-05-25T00:03:30.413272Z",
+  "version": 1
+}

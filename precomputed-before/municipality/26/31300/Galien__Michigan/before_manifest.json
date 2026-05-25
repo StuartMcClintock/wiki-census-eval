@@ -1,0 +1,16 @@
+{
+  "article": "Galien,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/31300/Galien__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6149e8258147edd9ff8ba2186284b7e897f991467a4d6530ed393655c5aaf427",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6149e8258147edd9ff8ba2186284b7e897f991467a4d6530ed393655c5aaf427",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/31300/Galien__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "31300",
+  "timestamp": "2026-05-24T23:47:56.338607Z",
+  "version": 1
+}

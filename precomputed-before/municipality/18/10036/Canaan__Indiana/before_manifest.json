@@ -1,0 +1,16 @@
+{
+  "article": "Canaan,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/10036/Canaan__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0dcbb8b7b312fa8dc2b866eaa2c927f23f4a59fca75804660b54319e468f18ea",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0dcbb8b7b312fa8dc2b866eaa2c927f23f4a59fca75804660b54319e468f18ea",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/10036/Canaan__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "10036",
+  "timestamp": "2026-05-24T23:39:28.870910Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Rose_Hill,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/68700/Rose_Hill__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7ce8c832f3b65e90de9d89d7baa8c36ada610f69f2e4ab8f82b9e40667b6df0c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7ce8c832f3b65e90de9d89d7baa8c36ada610f69f2e4ab8f82b9e40667b6df0c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/68700/Rose_Hill__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "68700",
+  "timestamp": "2026-05-24T23:41:44.246411Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Horton_Bay,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/39340/Horton_Bay__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b8fa2565fdf544a8bcda97c1029e055540854af0c78cb3994ba73c70c1884a24",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b8fa2565fdf544a8bcda97c1029e055540854af0c78cb3994ba73c70c1884a24",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/39340/Horton_Bay__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "39340",
+  "timestamp": "2026-05-24T23:47:59.322482Z",
+  "version": 1
+}

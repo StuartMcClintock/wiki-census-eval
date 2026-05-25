@@ -1,0 +1,16 @@
+{
+  "article": "Cairo,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/10884/Cairo__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "de6435637034c03ef6aa50b1c2b678879422fd56297fd592aeeb1e2faf19d5ce",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "de6435637034c03ef6aa50b1c2b678879422fd56297fd592aeeb1e2faf19d5ce",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/10884/Cairo__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "10884",
+  "timestamp": "2026-05-25T00:03:51.531344Z",
+  "version": 1
+}

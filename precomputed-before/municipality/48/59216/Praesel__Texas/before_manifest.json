@@ -1,0 +1,16 @@
+{
+  "article": "Praesel,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/59216/Praesel__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5e0eda52b5b5698f5144c322fcdb64d2bc85fb50e1475750617cf10b870d9599",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5e0eda52b5b5698f5144c322fcdb64d2bc85fb50e1475750617cf10b870d9599",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/59216/Praesel__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "59216",
+  "timestamp": "2026-05-25T00:16:13.852255Z",
+  "version": 1
+}

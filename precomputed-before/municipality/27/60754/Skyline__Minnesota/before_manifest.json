@@ -1,0 +1,16 @@
+{
+  "article": "Skyline,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/60754/Skyline__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "89227fb10773e0ff359a11d5530b81bde50ea8605513348dcb7f70574ac99f4b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "89227fb10773e0ff359a11d5530b81bde50ea8605513348dcb7f70574ac99f4b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/60754/Skyline__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "60754",
+  "timestamp": "2026-05-24T23:49:45.637229Z",
+  "version": 1
+}

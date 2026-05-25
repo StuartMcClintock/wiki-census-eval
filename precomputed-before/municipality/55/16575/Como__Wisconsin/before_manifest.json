@@ -1,0 +1,16 @@
+{
+  "article": "Como,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/16575/Como__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "249e5b6f96e8bf5fc4dfca5f3016b880c18ddedde53a76a8acbe507f8d2d2875",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "249e5b6f96e8bf5fc4dfca5f3016b880c18ddedde53a76a8acbe507f8d2d2875",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/16575/Como__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "16575",
+  "timestamp": "2026-05-25T00:21:44.745469Z",
+  "version": 1
+}

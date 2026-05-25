@@ -1,0 +1,16 @@
+{
+  "article": "Johnson_Village,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/39800/Johnson_Village__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bcf96d85a1db7a954f4ff92ca280b80b6dffddd946f7ef0a0f03bd2024688a7d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bcf96d85a1db7a954f4ff92ca280b80b6dffddd946f7ef0a0f03bd2024688a7d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/39800/Johnson_Village__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "39800",
+  "timestamp": "2026-05-24T23:35:29.942630Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Sidney,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/69678/Sidney__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "694b48585219d1c078df310b7fedae9b5ffa3812a3420f5190ebc008dd7bde07",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "694b48585219d1c078df310b7fedae9b5ffa3812a3420f5190ebc008dd7bde07",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/69678/Sidney__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "69678",
+  "timestamp": "2026-05-24T23:40:13.146437Z",
+  "version": 1
+}

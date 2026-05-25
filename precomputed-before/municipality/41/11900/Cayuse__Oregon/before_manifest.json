@@ -1,0 +1,16 @@
+{
+  "article": "Cayuse,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/11900/Cayuse__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c9cd2f928d3b403720351502d6fbbe325099bc839d75c5045eea12e6915cafcc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c9cd2f928d3b403720351502d6fbbe325099bc839d75c5045eea12e6915cafcc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/11900/Cayuse__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "11900",
+  "timestamp": "2026-05-25T00:05:44.897618Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Dallas,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/15300/Dallas__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e93dec791d497dc931eaa73bb5d5626b46133102c3e829b803212312d1f6dc00",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e93dec791d497dc931eaa73bb5d5626b46133102c3e829b803212312d1f6dc00",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/15300/Dallas__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "15300",
+  "timestamp": "2026-05-25T00:10:36.249079Z",
+  "version": 1
+}

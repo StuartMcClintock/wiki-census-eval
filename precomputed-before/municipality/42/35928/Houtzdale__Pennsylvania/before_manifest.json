@@ -1,0 +1,16 @@
+{
+  "article": "Houtzdale,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/35928/Houtzdale__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "87e4733972f04bd7d505954c2a5b467f0e450d3a9a8dc09f1ab114a250007449",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "87e4733972f04bd7d505954c2a5b467f0e450d3a9a8dc09f1ab114a250007449",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/35928/Houtzdale__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "35928",
+  "timestamp": "2026-05-25T00:07:28.174803Z",
+  "version": 1
+}

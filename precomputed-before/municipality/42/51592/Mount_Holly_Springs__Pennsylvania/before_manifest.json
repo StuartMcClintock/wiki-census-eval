@@ -1,0 +1,16 @@
+{
+  "article": "Mount_Holly_Springs,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/51592/Mount_Holly_Springs__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "60c41c58435dec08689f40b476230535bdd6a8783332ed8199c341b53e071c09",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "60c41c58435dec08689f40b476230535bdd6a8783332ed8199c341b53e071c09",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/51592/Mount_Holly_Springs__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "51592",
+  "timestamp": "2026-05-25T00:08:11.424971Z",
+  "version": 1
+}

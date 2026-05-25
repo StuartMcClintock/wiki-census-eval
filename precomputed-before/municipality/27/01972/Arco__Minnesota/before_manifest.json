@@ -1,0 +1,16 @@
+{
+  "article": "Arco,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/01972/Arco__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2976f1e12c4023b2bbf754d1a0de13acac8b4e291532f9113ee80e4755d9271e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2976f1e12c4023b2bbf754d1a0de13acac8b4e291532f9113ee80e4755d9271e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/01972/Arco__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "01972",
+  "timestamp": "2026-05-24T23:48:35.339371Z",
+  "version": 1
+}

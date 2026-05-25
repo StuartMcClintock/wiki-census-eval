@@ -1,0 +1,16 @@
+{
+  "article": "Shady_Dale,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/69784/Shady_Dale__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b315a86ccdf2e4d83463670c52ae586c1267b75ccf4bf9808991787703a9435f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b315a86ccdf2e4d83463670c52ae586c1267b75ccf4bf9808991787703a9435f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/69784/Shady_Dale__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "69784",
+  "timestamp": "2026-05-24T23:37:07.064049Z",
+  "version": 1
+}

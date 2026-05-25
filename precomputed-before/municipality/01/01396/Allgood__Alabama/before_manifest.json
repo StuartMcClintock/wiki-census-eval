@@ -1,0 +1,16 @@
+{
+  "article": "Allgood,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/01396/Allgood__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5157c80ef5ec0351a117cb55369d98b5af7176c72a25bc9cea7107fbb3862592",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5157c80ef5ec0351a117cb55369d98b5af7176c72a25bc9cea7107fbb3862592",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/01396/Allgood__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "01396",
+  "timestamp": "2026-05-24T23:31:47.669176Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Spade,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/69380/Spade__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f561315fb4a667b2f307779cad104f20ce1a619ba4b0c883e9fc983887682e01",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f561315fb4a667b2f307779cad104f20ce1a619ba4b0c883e9fc983887682e01",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/69380/Spade__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "69380",
+  "timestamp": "2026-05-25T00:16:39.791020Z",
+  "version": 1
+}

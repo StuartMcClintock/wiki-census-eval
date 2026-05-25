@@ -1,0 +1,16 @@
+{
+  "article": "Bascom,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/03725/Bascom__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "27ab35d4d7251a11b5810425bc22fe26d285936b96c876630c5acce6396d8fb0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "27ab35d4d7251a11b5810425bc22fe26d285936b96c876630c5acce6396d8fb0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/03725/Bascom__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "03725",
+  "timestamp": "2026-05-24T23:36:07.072148Z",
+  "version": 1
+}

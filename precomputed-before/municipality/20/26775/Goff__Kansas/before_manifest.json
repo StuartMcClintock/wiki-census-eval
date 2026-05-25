@@ -1,0 +1,16 @@
+{
+  "article": "Goff,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/26775/Goff__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1bf8faa99e24215f9ce60a9a5f859ed0f5492e8049c4b335db3b9a383e50afa9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1bf8faa99e24215f9ce60a9a5f859ed0f5492e8049c4b335db3b9a383e50afa9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/26775/Goff__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "26775",
+  "timestamp": "2026-05-24T23:42:41.837843Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Star_Valley_Ranch,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/73180/Star_Valley_Ranch__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9273a0f31e369b5a91d0b56b81a9e40a0f8c90184649092879ce8be5ae72e8d0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9273a0f31e369b5a91d0b56b81a9e40a0f8c90184649092879ce8be5ae72e8d0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/73180/Star_Valley_Ranch__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "73180",
+  "timestamp": "2026-05-25T00:23:23.897177Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Stone_City,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/75540/Stone_City__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fc068c069c47e3d9de9db98e8e1b36ba1eb5fe79a19f1aa7d9820f34f7543be2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fc068c069c47e3d9de9db98e8e1b36ba1eb5fe79a19f1aa7d9820f34f7543be2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/75540/Stone_City__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "75540",
+  "timestamp": "2026-05-24T23:42:03.516804Z",
+  "version": 1
+}

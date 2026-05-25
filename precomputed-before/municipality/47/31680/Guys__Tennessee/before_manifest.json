@@ -1,0 +1,16 @@
+{
+  "article": "Guys,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/31680/Guys__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "99e29827f5fc43f9d006465fe512c685c939e9de4002b1cf46b568c530d14334",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "99e29827f5fc43f9d006465fe512c685c939e9de4002b1cf46b568c530d14334",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/31680/Guys__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "31680",
+  "timestamp": "2026-05-25T00:14:41.359120Z",
+  "version": 1
+}

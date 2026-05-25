@@ -1,0 +1,16 @@
+{
+  "article": "Lake_Wissota,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/42025/Lake_Wissota__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "71bbcde3877a8843792715e18bd74260d4c24c51e0c35493df2047cb7be45e7d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "71bbcde3877a8843792715e18bd74260d4c24c51e0c35493df2047cb7be45e7d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/42025/Lake_Wissota__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "42025",
+  "timestamp": "2026-05-25T00:22:19.125497Z",
+  "version": 1
+}

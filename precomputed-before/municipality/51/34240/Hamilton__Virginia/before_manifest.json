@@ -1,0 +1,16 @@
+{
+  "article": "Hamilton,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/34240/Hamilton__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b43b6fe93b2ccbd8b12bac8dac93e9812fb95731e513b6af8db470b99e1cb09f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b43b6fe93b2ccbd8b12bac8dac93e9812fb95731e513b6af8db470b99e1cb09f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/34240/Hamilton__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "34240",
+  "timestamp": "2026-05-25T00:19:16.869580Z",
+  "version": 1
+}

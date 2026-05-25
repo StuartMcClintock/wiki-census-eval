@@ -1,0 +1,16 @@
+{
+  "article": "Livonia,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/44690/Livonia__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c390b1653f089aa2d5d89700ccb0b2b98cdfa66268f8385ce675f11e886d30b7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c390b1653f089aa2d5d89700ccb0b2b98cdfa66268f8385ce675f11e886d30b7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/44690/Livonia__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "44690",
+  "timestamp": "2026-05-24T23:44:54.286351Z",
+  "version": 1
+}

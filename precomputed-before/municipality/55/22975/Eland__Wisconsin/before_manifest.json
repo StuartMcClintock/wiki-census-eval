@@ -1,0 +1,16 @@
+{
+  "article": "Eland,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/22975/Eland__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3dd67846aad56e67c4ef0a5a56e2183c43f09f30000d1c395a74f4414eccfa10",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3dd67846aad56e67c4ef0a5a56e2183c43f09f30000d1c395a74f4414eccfa10",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/22975/Eland__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "22975",
+  "timestamp": "2026-05-25T00:22:03.632238Z",
+  "version": 1
+}

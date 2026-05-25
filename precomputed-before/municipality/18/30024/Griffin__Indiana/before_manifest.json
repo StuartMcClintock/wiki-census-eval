@@ -1,0 +1,16 @@
+{
+  "article": "Griffin,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/30024/Griffin__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d54456e6e0e38f8b697520c75a71c2f8a1c2ca11236357c54ad097fbfefb7a17",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d54456e6e0e38f8b697520c75a71c2f8a1c2ca11236357c54ad097fbfefb7a17",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/30024/Griffin__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "30024",
+  "timestamp": "2026-05-24T23:39:37.570968Z",
+  "version": 1
+}

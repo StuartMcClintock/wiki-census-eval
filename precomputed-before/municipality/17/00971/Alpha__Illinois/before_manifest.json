@@ -1,0 +1,16 @@
+{
+  "article": "Alpha,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/00971/Alpha__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4f312d2c57f3968a182ba493abace7ffd28af5d6471af41a00c111315f0c087b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4f312d2c57f3968a182ba493abace7ffd28af5d6471af41a00c111315f0c087b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/00971/Alpha__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "00971",
+  "timestamp": "2026-05-24T23:37:32.441443Z",
+  "version": 1
+}

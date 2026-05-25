@@ -1,0 +1,16 @@
+{
+  "article": "Halibut_Cove,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/31270/Halibut_Cove__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "696627dda3f30a1e1de55944ee4e22b6bd51a8e2630de47e457a8d80dbb35e9e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "696627dda3f30a1e1de55944ee4e22b6bd51a8e2630de47e457a8d80dbb35e9e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/31270/Halibut_Cove__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "31270",
+  "timestamp": "2026-05-24T23:32:22.772911Z",
+  "version": 1
+}

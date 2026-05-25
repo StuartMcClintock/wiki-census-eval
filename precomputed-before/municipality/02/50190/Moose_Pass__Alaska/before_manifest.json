@@ -1,0 +1,16 @@
+{
+  "article": "Moose_Pass,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/50190/Moose_Pass__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bed6a23854c58234ce3dc7cc56909f4a66b1b3621049d58e4db11dc85a3b17a6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bed6a23854c58234ce3dc7cc56909f4a66b1b3621049d58e4db11dc85a3b17a6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/50190/Moose_Pass__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "50190",
+  "timestamp": "2026-05-24T23:32:27.660909Z",
+  "version": 1
+}

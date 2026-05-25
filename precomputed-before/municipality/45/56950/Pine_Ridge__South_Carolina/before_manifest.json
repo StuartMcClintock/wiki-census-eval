@@ -1,0 +1,16 @@
+{
+  "article": "Pine_Ridge,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/56950/Pine_Ridge__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3e62cdfe33ea6b16d55c5080a859966d9124d1326a54daab2e1bd4adbfeff91d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3e62cdfe33ea6b16d55c5080a859966d9124d1326a54daab2e1bd4adbfeff91d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/56950/Pine_Ridge__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "56950",
+  "timestamp": "2026-05-25T00:10:17.442530Z",
+  "version": 1
+}

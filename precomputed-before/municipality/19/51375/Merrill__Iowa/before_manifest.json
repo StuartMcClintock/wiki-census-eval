@@ -1,0 +1,16 @@
+{
+  "article": "Merrill,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/51375/Merrill__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c88aae5164ef093ee911d7124f11251655922487e6aded56ea194b180627bf8c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c88aae5164ef093ee911d7124f11251655922487e6aded56ea194b180627bf8c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/51375/Merrill__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "51375",
+  "timestamp": "2026-05-24T23:41:27.318417Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Raisin_City,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/59290/Raisin_City__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "16fd7f3647104e1919303ae105585ed61689f4581d6b1d517f271bc41dbeff34",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "16fd7f3647104e1919303ae105585ed61689f4581d6b1d517f271bc41dbeff34",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/59290/Raisin_City__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "59290",
+  "timestamp": "2026-05-24T23:35:00.845352Z",
+  "version": 1
+}

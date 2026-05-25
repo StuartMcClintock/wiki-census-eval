@@ -1,0 +1,16 @@
+{
+  "article": "Montgomery_Creek,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/48998/Montgomery_Creek__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ada1eeedd48e02e09709fe1a131e9223938855f5bd5ce404f38df44842362996",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ada1eeedd48e02e09709fe1a131e9223938855f5bd5ce404f38df44842362996",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/48998/Montgomery_Creek__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "48998",
+  "timestamp": "2026-05-24T23:34:40.634950Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Powderly,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/62652/Powderly__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3e3c80d5c832a2f662a0d5aa8973caca7aba0630e59bdf9f98b7f2b032e513dd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3e3c80d5c832a2f662a0d5aa8973caca7aba0630e59bdf9f98b7f2b032e513dd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/62652/Powderly__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "62652",
+  "timestamp": "2026-05-24T23:44:17.071626Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Timber_Lakes,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/76280/Timber_Lakes__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "598ffc89e9c1b25e267b9d30c38e31b3437e76b636eb82aafeaf7321f65eeae6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "598ffc89e9c1b25e267b9d30c38e31b3437e76b636eb82aafeaf7321f65eeae6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/76280/Timber_Lakes__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "76280",
+  "timestamp": "2026-05-25T00:17:11.212790Z",
+  "version": 1
+}

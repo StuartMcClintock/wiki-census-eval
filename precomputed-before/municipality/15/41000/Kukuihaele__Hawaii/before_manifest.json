@@ -1,0 +1,16 @@
+{
+  "article": "Kukuihaele,_Hawaii",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/15/41000/Kukuihaele__Hawaii/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ec14a60e95d88a884d03cecd2330ab8065e79e2856b330faee66be8c0d58f576",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ec14a60e95d88a884d03cecd2330ab8065e79e2856b330faee66be8c0d58f576",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/15/41000/Kukuihaele__Hawaii/manifest.json",
+  "state_fips": "15",
+  "status": "match",
+  "target_fips": "41000",
+  "timestamp": "2026-05-24T23:37:14.127852Z",
+  "version": 1
+}

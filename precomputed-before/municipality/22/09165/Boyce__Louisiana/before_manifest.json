@@ -1,0 +1,16 @@
+{
+  "article": "Boyce,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/09165/Boyce__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c8216cd663cd6e0e6ac5b5063546660e4dee72ae715b1b3af9c68b7c63072fc8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c8216cd663cd6e0e6ac5b5063546660e4dee72ae715b1b3af9c68b7c63072fc8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/09165/Boyce__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "09165",
+  "timestamp": "2026-05-24T23:44:29.869704Z",
+  "version": 1
+}

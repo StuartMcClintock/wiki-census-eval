@@ -1,0 +1,16 @@
+{
+  "article": "Tatitlek,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/75380/Tatitlek__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "240b1b954b4cb3c18c086c45f19ffe2a4cfda20ed9ddd51efa3b7c3c27326368",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "240b1b954b4cb3c18c086c45f19ffe2a4cfda20ed9ddd51efa3b7c3c27326368",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/75380/Tatitlek__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "75380",
+  "timestamp": "2026-05-24T23:32:44.696721Z",
+  "version": 1
+}

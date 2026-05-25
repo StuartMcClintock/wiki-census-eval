@@ -1,0 +1,16 @@
+{
+  "article": "Roberts,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/68475/Roberts__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bb63a560e9728858f727678bf3ea188642b3610a5ca8f5e125d4fd90e22c1f0c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bb63a560e9728858f727678bf3ea188642b3610a5ca8f5e125d4fd90e22c1f0c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/68475/Roberts__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "68475",
+  "timestamp": "2026-05-25T00:22:39.372278Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Stantonville,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/70840/Stantonville__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "eb730b382b67adca148e940b55a1b8a305e89e5a71bed3e75f547d36a48d23a8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "eb730b382b67adca148e940b55a1b8a305e89e5a71bed3e75f547d36a48d23a8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/70840/Stantonville__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "70840",
+  "timestamp": "2026-05-25T00:14:55.043978Z",
+  "version": 1
+}

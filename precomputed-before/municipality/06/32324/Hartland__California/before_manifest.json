@@ -1,0 +1,16 @@
+{
+  "article": "Hartland,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/32324/Hartland__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5aab42e8d3218a01606fa6cc5e18cf7419e8603ef666c7570cda6c7de51e5d6b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5aab42e8d3218a01606fa6cc5e18cf7419e8603ef666c7570cda6c7de51e5d6b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/32324/Hartland__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "32324",
+  "timestamp": "2026-05-24T23:34:27.629126Z",
+  "version": 1
+}

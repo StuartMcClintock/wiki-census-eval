@@ -1,0 +1,16 @@
+{
+  "article": "Reynolds,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/41235/Reynolds__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6f2afc5c9273482b06418f8aeee5cbe71e9b6c1fcda027a74e4acac65d56819c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6f2afc5c9273482b06418f8aeee5cbe71e9b6c1fcda027a74e4acac65d56819c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/41235/Reynolds__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "41235",
+  "timestamp": "2026-05-24T23:56:05.811019Z",
+  "version": 1
+}

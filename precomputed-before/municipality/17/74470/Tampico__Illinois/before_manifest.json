@@ -1,0 +1,16 @@
+{
+  "article": "Tampico,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/74470/Tampico__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d17f14e1bf05b9c0d9f56ffb0824438d22fc88b8a57d0fd32b8c21cebf618c38",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d17f14e1bf05b9c0d9f56ffb0824438d22fc88b8a57d0fd32b8c21cebf618c38",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/74470/Tampico__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "74470",
+  "timestamp": "2026-05-24T23:39:15.579170Z",
+  "version": 1
+}

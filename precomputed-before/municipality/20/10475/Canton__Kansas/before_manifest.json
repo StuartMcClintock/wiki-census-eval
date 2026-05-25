@@ -1,0 +1,16 @@
+{
+  "article": "Canton,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/10475/Canton__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5e617623fb08c3f1c9e52eb4450de5d0fef7be9b0e7ea08b0ca048cb5f60f165",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5e617623fb08c3f1c9e52eb4450de5d0fef7be9b0e7ea08b0ca048cb5f60f165",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/10475/Canton__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "10475",
+  "timestamp": "2026-05-24T23:42:25.763173Z",
+  "version": 1
+}

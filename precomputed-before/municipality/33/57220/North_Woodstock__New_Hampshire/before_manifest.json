@@ -1,0 +1,16 @@
+{
+  "article": "North_Woodstock,_New_Hampshire",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/33/57220/North_Woodstock__New_Hampshire/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bc1bbb9fbd7499628c1427d06f8517fead4b76f5d5e73e6004c9b90c46da5e18",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bc1bbb9fbd7499628c1427d06f8517fead4b76f5d5e73e6004c9b90c46da5e18",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/33/57220/North_Woodstock__New_Hampshire/manifest.json",
+  "state_fips": "33",
+  "status": "match",
+  "target_fips": "57220",
+  "timestamp": "2026-05-24T23:57:36.938733Z",
+  "version": 1
+}

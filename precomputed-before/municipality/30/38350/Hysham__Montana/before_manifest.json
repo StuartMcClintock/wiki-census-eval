@@ -1,0 +1,16 @@
+{
+  "article": "Hysham,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/38350/Hysham__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e19d7c66cd08f59e0342d9938c3690b3f5d157e5b186fdebf25ce51e334055f9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e19d7c66cd08f59e0342d9938c3690b3f5d157e5b186fdebf25ce51e334055f9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/38350/Hysham__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "38350",
+  "timestamp": "2026-05-24T23:54:31.616040Z",
+  "version": 1
+}

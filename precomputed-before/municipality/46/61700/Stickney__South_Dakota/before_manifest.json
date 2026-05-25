@@ -1,0 +1,16 @@
+{
+  "article": "Stickney,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/61700/Stickney__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "98895bb0343df4bfca6d07540a47feb6634fc7e910a1ff64824d9509fdb81a01",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "98895bb0343df4bfca6d07540a47feb6634fc7e910a1ff64824d9509fdb81a01",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/61700/Stickney__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "61700",
+  "timestamp": "2026-05-25T00:12:48.491559Z",
+  "version": 1
+}

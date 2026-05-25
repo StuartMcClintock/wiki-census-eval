@@ -1,0 +1,16 @@
+{
+  "article": "Snyderville,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/70190/Snyderville__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "41f1406f22482e63eae8052cfc223aa39ac851b230d6631fd07ff035af7a3175",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "41f1406f22482e63eae8052cfc223aa39ac851b230d6631fd07ff035af7a3175",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/70190/Snyderville__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "70190",
+  "timestamp": "2026-05-25T00:17:09.541203Z",
+  "version": 1
+}

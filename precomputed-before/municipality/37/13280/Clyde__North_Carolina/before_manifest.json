@@ -1,0 +1,16 @@
+{
+  "article": "Clyde,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/13280/Clyde__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "514d1a5be659d35c05c3d2e5b33e301a6c6d802fedea8c35157b4f26648463ed",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "514d1a5be659d35c05c3d2e5b33e301a6c6d802fedea8c35157b4f26648463ed",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/13280/Clyde__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "13280",
+  "timestamp": "2026-05-25T00:01:50.256046Z",
+  "version": 1
+}

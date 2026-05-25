@@ -1,0 +1,16 @@
+{
+  "article": "Bloomingdale,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/05788/Bloomingdale__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "de91cf80317d65af00bd21be2cb14f0e62f72c7f0f55a99b7924b377679086f2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "de91cf80317d65af00bd21be2cb14f0e62f72c7f0f55a99b7924b377679086f2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/05788/Bloomingdale__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "05788",
+  "timestamp": "2026-05-24T23:39:26.489704Z",
+  "version": 1
+}

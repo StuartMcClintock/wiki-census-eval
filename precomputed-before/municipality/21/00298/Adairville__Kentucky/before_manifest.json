@@ -1,0 +1,16 @@
+{
+  "article": "Adairville,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/00298/Adairville__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "36bb064f9ed6d4d87e574b33ad1ddbc8aeb11f8d1207eed6efdf37229da91d02",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "36bb064f9ed6d4d87e574b33ad1ddbc8aeb11f8d1207eed6efdf37229da91d02",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/00298/Adairville__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "00298",
+  "timestamp": "2026-05-24T23:43:40.496058Z",
+  "version": 1
+}

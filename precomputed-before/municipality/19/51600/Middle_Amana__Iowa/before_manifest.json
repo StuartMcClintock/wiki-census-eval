@@ -1,0 +1,16 @@
+{
+  "article": "Middle_Amana,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/51600/Middle_Amana__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e13c4810f972075b8d13cacd66ff371c70fc6fff0f904fec629a4d73553b9557",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e13c4810f972075b8d13cacd66ff371c70fc6fff0f904fec629a4d73553b9557",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/51600/Middle_Amana__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "51600",
+  "timestamp": "2026-05-24T23:41:27.642412Z",
+  "version": 1
+}

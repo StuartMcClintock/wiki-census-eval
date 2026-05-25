@@ -1,0 +1,16 @@
+{
+  "article": "Hillside_Lake,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/34803/Hillside_Lake__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "719794a74504b31037a8ad31e23371008505078745284208f398bca964594fea",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "719794a74504b31037a8ad31e23371008505078745284208f398bca964594fea",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/34803/Hillside_Lake__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "34803",
+  "timestamp": "2026-05-25T00:00:48.190218Z",
+  "version": 1
+}

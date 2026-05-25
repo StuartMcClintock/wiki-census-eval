@@ -1,0 +1,16 @@
+{
+  "article": "Eulonia,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/28016/Eulonia__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fa6806e98d6765796f7fdd06f6ab7c8fdcf79a37772780e33738f5de3c20bf8c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fa6806e98d6765796f7fdd06f6ab7c8fdcf79a37772780e33738f5de3c20bf8c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/28016/Eulonia__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "28016",
+  "timestamp": "2026-05-24T23:36:36.176919Z",
+  "version": 1
+}

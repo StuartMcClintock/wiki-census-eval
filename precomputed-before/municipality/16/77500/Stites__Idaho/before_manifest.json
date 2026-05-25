@@ -1,0 +1,16 @@
+{
+  "article": "Stites,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/77500/Stites__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "01b0672d034cf365a5d35f30bf2221cbe0e32386a4dc310497a8fa626404a0aa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "01b0672d034cf365a5d35f30bf2221cbe0e32386a4dc310497a8fa626404a0aa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/77500/Stites__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "77500",
+  "timestamp": "2026-05-24T23:37:29.121393Z",
+  "version": 1
+}

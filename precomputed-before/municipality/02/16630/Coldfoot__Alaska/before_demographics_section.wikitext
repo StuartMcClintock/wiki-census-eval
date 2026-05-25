@@ -1,0 +1,102 @@
+==Demographics==
+{{US Census population
+|2000= 13
+|2010= 10
+|2020= 34
+|align-fn=center
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{Cite web |title=Decennial Census of Population and Housing by Decade |url=https://www.census.gov/programs-surveys/decennial-census/decade.html |publisher=[[US Census Bureau]]}}</ref><br /> 2000<ref name=2000CensusP004/> 2010<ref name=2010CensusP2/> 2020<ref name=2020CensusP2/>
+}}
+
+Coldfoot first appeared in the [[2000 U.S. census]] as a [[census-designated place]].
+
+===2020===
+{| class="wikitable"
+|+'''Coldfoot, Alaska – racial and ethnic composition'''<br />(''NH = Non-Hispanic'')<br /><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity
+!Pop 2000<ref name="2000CensusP004">{{Cite web |title=P004 HISPANIC OR LATINO, AND NOT HISPANIC OR LATINO BY RACE – 2000: DEC Summary File 1 – Coldfoot CDP, Alaska |url=https://data.census.gov/table/DECENNIALSF12000.P004?g=160XX00US0216630 |website=[[United States Census Bureau]]}}</ref>
+!Pop 2010<ref name="2010CensusP2">{{Cite web |title=P2 HISPANIC OR LATINO, AND NOT HISPANIC OR LATINO BY RACE – 2010: DEC Redistricting Data (PL 94-171) – Coldfoot CDP, Alaska |url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US0216630&tid=DECENNIALPL2010.P2 |website=[[United States Census Bureau]]}}</ref>
+!{{partial|Pop 2020}}<ref name="2020CensusP2">{{Cite web |title=P2 HISPANIC OR LATINO, AND NOT HISPANIC OR LATINO BY RACE – 2020: DEC Redistricting Data (PL 94-171) – Coldfoot CDP, Alaska |url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US0216630&tid=DECENNIALPL2020.P2 |website=[[United States Census Bureau]]}}</ref>
+!% 2000
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|13
+|9
+|style='background: #ffffe6; |21
+|100.00%
+|90.00%
+|style='background: #ffffe6; |61.76%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|0
+|1
+|style='background: #ffffe6; |3
+|0.00%
+|10.00%
+|style='background: #ffffe6; |8.82%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|Some Other Race alone (NH)
+|0
+|0
+|style='background: #ffffe6; |2
+|0.00%
+|0.00%
+|style='background: #ffffe6; |5.88%
+|-
+|[[Multiracial Americans|Mixed Race/Multi-Racial]] (NH)
+|0
+|0
+|style='background: #ffffe6; |4
+|0.00%
+|0.00%
+|style='background: #ffffe6; |11.76%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|0
+|0
+|style='background: #ffffe6; |4
+|0.00%
+|0.00%
+|style='background: #ffffe6; |11.76%
+|-
+|'''Total'''
+|'''13'''
+|'''10'''
+|style='background: #ffffe6; |'''34'''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+In the [[2000 United States census|2000 census]], there were thirteen people, six households, and one family residing in the CDP. The population density was {{convert|0.4|PD/sqmi|PD/km2|sp=us|sigfig=1}}. There were twelve housing units at an average density of {{convert|0.3|/sqmi|/km2|sp=us|sigfig=1}}. The [[Race and ethnicity in the United States Census#2000 census|racial makeup]] of the CDP was 100% White.<ref name="GR2">{{Cite web |title=U.S. Census website |url=https://www.census.gov |access-date=January 31, 2008 |publisher=[[United States Census Bureau]]}}</ref>{{failed verification|date=March 2023|reason=No mention of Coldfoot at the given link}}
+There were six households: two had children under the age of eighteen living with them, two were married couples living together, and four were non-families. Three households were made up of individuals. The average household size was 2.17, and the average family size was 4.
+
+The age distribution was three under the age of 18, one from 18 to 24, five from 25 to 44, and four from 45 to 64.  The median age was 40 years. There were four females and nine males, including three females and seven males aged eighteen and over.
+
+The median household income was $61,250, and the per capita income was $42,620. None of the population was living below the [[poverty line]].
+

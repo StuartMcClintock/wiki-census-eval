@@ -1,0 +1,16 @@
+{
+  "article": "New_Grand_Chain,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/52467/New_Grand_Chain__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8e1fd2d70f473e29b93795463e848d9eade9d688ce039165a4d1564d9d95073f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8e1fd2d70f473e29b93795463e848d9eade9d688ce039165a4d1564d9d95073f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/52467/New_Grand_Chain__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "52467",
+  "timestamp": "2026-05-24T23:38:40.272466Z",
+  "version": 1
+}

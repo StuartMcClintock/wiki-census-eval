@@ -1,0 +1,16 @@
+{
+  "article": "Tulare,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/64300/Tulare__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6da8091276f050cd6a1f7313a189f52c809d6ff1b117c8cd747964124da50c10",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6da8091276f050cd6a1f7313a189f52c809d6ff1b117c8cd747964124da50c10",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/64300/Tulare__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "64300",
+  "timestamp": "2026-05-25T00:14:26.016630Z",
+  "version": 1
+}

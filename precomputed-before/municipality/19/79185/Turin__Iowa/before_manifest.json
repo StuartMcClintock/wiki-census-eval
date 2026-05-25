@@ -1,0 +1,16 @@
+{
+  "article": "Turin,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/79185/Turin__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7b8729d8379bac63a95aa3098e6b8a6797b1411a0591aabb0086dc5228e16e8e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7b8729d8379bac63a95aa3098e6b8a6797b1411a0591aabb0086dc5228e16e8e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/79185/Turin__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "79185",
+  "timestamp": "2026-05-24T23:42:06.693445Z",
+  "version": 1
+}

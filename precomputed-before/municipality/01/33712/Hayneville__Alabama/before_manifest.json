@@ -1,0 +1,16 @@
+{
+  "article": "Hayneville,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/33712/Hayneville__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "88ad5d5eecd9d01e73d7502f3304d1e94a76c15aca35cd37d4d8b40a50c6fec4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "88ad5d5eecd9d01e73d7502f3304d1e94a76c15aca35cd37d4d8b40a50c6fec4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/33712/Hayneville__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "33712",
+  "timestamp": "2026-05-24T23:31:59.123184Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Trafford,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/76680/Trafford__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bd9fc3581fe2d73b4734f026c59e4ef1dd84f2027fb617635ca3b45821626163",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bd9fc3581fe2d73b4734f026c59e4ef1dd84f2027fb617635ca3b45821626163",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/76680/Trafford__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "76680",
+  "timestamp": "2026-05-24T23:32:14.352878Z",
+  "version": 1
+}

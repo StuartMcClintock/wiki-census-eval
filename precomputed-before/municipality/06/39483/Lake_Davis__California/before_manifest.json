@@ -1,0 +1,16 @@
+{
+  "article": "Lake_Davis,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/39483/Lake_Davis__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "08344487572104021e635e443579acbbc72c337230c20c624ad7c93378617b0a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "08344487572104021e635e443579acbbc72c337230c20c624ad7c93378617b0a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/39483/Lake_Davis__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "39483",
+  "timestamp": "2026-05-24T23:34:32.826118Z",
+  "version": 1
+}

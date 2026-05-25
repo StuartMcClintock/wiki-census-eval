@@ -1,0 +1,16 @@
+{
+  "article": "Seneca,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/58180/Seneca__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5b164e489d3d2e36daf52517926aab28cb6dc159cb1d24be3149329efd062561",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5b164e489d3d2e36daf52517926aab28cb6dc159cb1d24be3149329efd062561",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/58180/Seneca__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "58180",
+  "timestamp": "2026-05-25T00:12:46.747367Z",
+  "version": 1
+}

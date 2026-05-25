@@ -1,0 +1,16 @@
+{
+  "article": "White_River_Junction,_Vermont",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/50/83575/White_River_Junction__Vermont/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "19b2d38c70969751bd86741b36eb4062171a35f3bfe0259e41fc9b056d1fc4c9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "19b2d38c70969751bd86741b36eb4062171a35f3bfe0259e41fc9b056d1fc4c9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/50/83575/White_River_Junction__Vermont/manifest.json",
+  "state_fips": "50",
+  "status": "match",
+  "target_fips": "83575",
+  "timestamp": "2026-05-25T00:17:20.030018Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Hollister,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/38080/Hollister__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "41ab0d4cc8d9ef92aeda38ca59c6ed6ce85d70f1c8c03f1f5a784ece59882090",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "41ab0d4cc8d9ef92aeda38ca59c6ed6ce85d70f1c8c03f1f5a784ece59882090",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/38080/Hollister__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "38080",
+  "timestamp": "2026-05-24T23:37:22.070825Z",
+  "version": 1
+}

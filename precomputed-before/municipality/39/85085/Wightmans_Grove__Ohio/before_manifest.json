@@ -1,0 +1,16 @@
+{
+  "article": "Wightmans_Grove,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/85085/Wightmans_Grove__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "273fdc0dbae41044626af45ed3dfcba59e2c59a8876a6cea77b62132ef2659de",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "273fdc0dbae41044626af45ed3dfcba59e2c59a8876a6cea77b62132ef2659de",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/85085/Wightmans_Grove__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "85085",
+  "timestamp": "2026-05-25T00:05:39.171609Z",
+  "version": 1
+}

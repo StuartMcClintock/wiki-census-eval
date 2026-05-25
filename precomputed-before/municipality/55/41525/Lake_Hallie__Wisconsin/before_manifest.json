@@ -1,0 +1,16 @@
+{
+  "article": "Lake_Hallie,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/41525/Lake_Hallie__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4efcf8712199c239d87dd8ed2579da7a55d9c6acd4a7d99f72b5173f04b77927",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4efcf8712199c239d87dd8ed2579da7a55d9c6acd4a7d99f72b5173f04b77927",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/41525/Lake_Hallie__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "41525",
+  "timestamp": "2026-05-25T00:22:18.066413Z",
+  "version": 1
+}

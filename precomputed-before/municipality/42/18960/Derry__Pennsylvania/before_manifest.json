@@ -1,0 +1,16 @@
+{
+  "article": "Derry,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/18960/Derry__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "362ba85dbe713ab8bb4f95349ba5b1e1309afbc82fc80215a6f207df27d879e5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "362ba85dbe713ab8bb4f95349ba5b1e1309afbc82fc80215a6f207df27d879e5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/18960/Derry__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "18960",
+  "timestamp": "2026-05-25T00:06:51.131235Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Heart_Butte,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/35350/Heart_Butte__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e68e6c95c8904401075345fbe1d58b68d5e0d79f8873e1bf3f030c82e5789c77",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e68e6c95c8904401075345fbe1d58b68d5e0d79f8873e1bf3f030c82e5789c77",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/35350/Heart_Butte__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "35350",
+  "timestamp": "2026-05-24T23:54:29.039041Z",
+  "version": 1
+}

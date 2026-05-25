@@ -1,0 +1,16 @@
+{
+  "article": "West_Point,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/80747/West_Point__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9b057a07ca756da2dba495f15865a4e5d0da9b65273b504037c62b38afbe68b3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9b057a07ca756da2dba495f15865a4e5d0da9b65273b504037c62b38afbe68b3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/80747/West_Point__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "80747",
+  "timestamp": "2026-05-25T00:01:26.321187Z",
+  "version": 1
+}

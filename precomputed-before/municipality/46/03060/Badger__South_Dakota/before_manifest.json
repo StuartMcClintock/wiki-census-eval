@@ -1,0 +1,16 @@
+{
+  "article": "Badger,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/03060/Badger__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a97a304216dd7e9003f17c80062f0de956191403cd6299d43311f16b33f50337",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a97a304216dd7e9003f17c80062f0de956191403cd6299d43311f16b33f50337",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/03060/Badger__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "03060",
+  "timestamp": "2026-05-25T00:10:30.832707Z",
+  "version": 1
+}

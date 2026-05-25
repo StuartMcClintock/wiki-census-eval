@@ -1,0 +1,16 @@
+{
+  "article": "Franklin_Grove,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/27689/Franklin_Grove__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "971ba669bb8e5cb5f017074b7ca3caea5b310a3464c6387cb59439a04c53f81a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "971ba669bb8e5cb5f017074b7ca3caea5b310a3464c6387cb59439a04c53f81a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/27689/Franklin_Grove__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "27689",
+  "timestamp": "2026-05-24T23:38:14.169274Z",
+  "version": 1
+}

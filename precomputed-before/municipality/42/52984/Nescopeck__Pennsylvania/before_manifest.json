@@ -1,0 +1,16 @@
+{
+  "article": "Nescopeck,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/52984/Nescopeck__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "109463433e060babbd54d19d64dc7c5b1e66d7a882574de247ac4d059fd2b41a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "109463433e060babbd54d19d64dc7c5b1e66d7a882574de247ac4d059fd2b41a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/52984/Nescopeck__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "52984",
+  "timestamp": "2026-05-25T00:08:13.500065Z",
+  "version": 1
+}

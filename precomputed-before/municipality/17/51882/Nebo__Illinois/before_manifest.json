@@ -1,0 +1,16 @@
+{
+  "article": "Nebo,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/51882/Nebo__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7a6bef2d85410962412d1785b7879f55617a38f18a9f010d2d2ba4fcc63ef2eb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7a6bef2d85410962412d1785b7879f55617a38f18a9f010d2d2ba4fcc63ef2eb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/51882/Nebo__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "51882",
+  "timestamp": "2026-05-24T23:38:38.982762Z",
+  "version": 1
+}

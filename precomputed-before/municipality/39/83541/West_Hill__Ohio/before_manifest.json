@@ -1,0 +1,16 @@
+{
+  "article": "West_Hill,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/83541/West_Hill__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "01b3578f67138fbae5370b605038b556cac90c35af6e9602b0f820da09cc4555",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "01b3578f67138fbae5370b605038b556cac90c35af6e9602b0f820da09cc4555",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/83541/West_Hill__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "83541",
+  "timestamp": "2026-05-25T00:05:37.280783Z",
+  "version": 1
+}

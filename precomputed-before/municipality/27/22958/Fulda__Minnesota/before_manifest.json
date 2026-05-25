@@ -1,0 +1,16 @@
+{
+  "article": "Fulda,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/22958/Fulda__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9d749eda8a8f35456a11dda94ff64a1aa4fa2965c3c780973776b7307e26c289",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9d749eda8a8f35456a11dda94ff64a1aa4fa2965c3c780973776b7307e26c289",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/22958/Fulda__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "22958",
+  "timestamp": "2026-05-24T23:49:01.187162Z",
+  "version": 1
+}

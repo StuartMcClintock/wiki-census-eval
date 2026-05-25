@@ -1,0 +1,16 @@
+{
+  "article": "Potomac_Park,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/63425/Potomac_Park__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b1b142f389dc28f63a9c6a79c16b9cec80b86ca583bc6eccb055596f351e1327",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b1b142f389dc28f63a9c6a79c16b9cec80b86ca583bc6eccb055596f351e1327",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/63425/Potomac_Park__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "63425",
+  "timestamp": "2026-05-24T23:47:31.292655Z",
+  "version": 1
+}

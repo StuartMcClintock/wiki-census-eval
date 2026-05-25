@@ -1,0 +1,16 @@
+{
+  "article": "Pleasanton,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/58420/Pleasanton__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "57542621f3783dc53433def3e9778d06b9f82a113d1831e8d5f7af7dd11a8c62",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "57542621f3783dc53433def3e9778d06b9f82a113d1831e8d5f7af7dd11a8c62",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/58420/Pleasanton__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "58420",
+  "timestamp": "2026-05-24T23:58:47.941832Z",
+  "version": 1
+}

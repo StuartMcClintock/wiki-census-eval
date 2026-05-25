@@ -1,0 +1,16 @@
+{
+  "article": "Dagsboro,_Delaware",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/10/18950/Dagsboro__Delaware/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "400af4ac36832aeb6f66ad5cc033a482d6cf8872af36692c097e1a6fc1d62cb2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "400af4ac36832aeb6f66ad5cc033a482d6cf8872af36692c097e1a6fc1d62cb2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/10/18950/Dagsboro__Delaware/manifest.json",
+  "state_fips": "10",
+  "status": "match",
+  "target_fips": "18950",
+  "timestamp": "2026-05-24T23:36:03.735996Z",
+  "version": 1
+}

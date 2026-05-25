@@ -1,0 +1,16 @@
+{
+  "article": "Tatum,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/76620/Tatum__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6cd3e466c2492ef568e34bab2b117bba505db8d6b6c113e16035103e82155463",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6cd3e466c2492ef568e34bab2b117bba505db8d6b6c113e16035103e82155463",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/76620/Tatum__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "76620",
+  "timestamp": "2026-05-24T23:59:07.778966Z",
+  "version": 1
+}

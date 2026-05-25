@@ -1,0 +1,16 @@
+{
+  "article": "Covington,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/18580/Covington__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d6690166c497775d3e31ced148317bfe862b5194dabaf033df16fc3943466984",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d6690166c497775d3e31ced148317bfe862b5194dabaf033df16fc3943466984",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/18580/Covington__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "18580",
+  "timestamp": "2026-05-24T23:47:50.371023Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Medicine_Bow,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/51575/Medicine_Bow__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fd7b4b5b64e3f94bd05713457ea3cb02394cb62c46be791c808ee4dde2ad4ca0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fd7b4b5b64e3f94bd05713457ea3cb02394cb62c46be791c808ee4dde2ad4ca0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/51575/Medicine_Bow__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "51575",
+  "timestamp": "2026-05-25T00:23:19.129189Z",
+  "version": 1
+}

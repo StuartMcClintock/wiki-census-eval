@@ -1,0 +1,16 @@
+{
+  "article": "Emory,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/25792/Emory__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5efd20ec0ba4a346025d00b4e4ff6f6abf06c66ce141e3ca63d101778c4497e6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5efd20ec0ba4a346025d00b4e4ff6f6abf06c66ce141e3ca63d101778c4497e6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/25792/Emory__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "25792",
+  "timestamp": "2026-05-25T00:19:11.796348Z",
+  "version": 1
+}

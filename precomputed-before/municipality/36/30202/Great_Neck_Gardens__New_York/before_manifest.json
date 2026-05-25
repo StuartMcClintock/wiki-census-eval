@@ -1,0 +1,16 @@
+{
+  "article": "Great_Neck_Gardens,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/30202/Great_Neck_Gardens__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0dc747cc2f6d227d7878868ee6a908cdff0fbabab011e556c62b1d1686629550",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0dc747cc2f6d227d7878868ee6a908cdff0fbabab011e556c62b1d1686629550",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/30202/Great_Neck_Gardens__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "30202",
+  "timestamp": "2026-05-25T00:00:45.523967Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Monterey,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/49760/Monterey__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "20e1d1c0aa8388f1fcef276f02b70e15fa43c1b95d2a13b32b4804a8736108ec",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "20e1d1c0aa8388f1fcef276f02b70e15fa43c1b95d2a13b32b4804a8736108ec",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/49760/Monterey__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "49760",
+  "timestamp": "2026-05-25T00:14:47.563020Z",
+  "version": 1
+}

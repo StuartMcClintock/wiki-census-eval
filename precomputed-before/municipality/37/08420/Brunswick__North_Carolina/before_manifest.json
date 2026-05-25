@@ -1,0 +1,16 @@
+{
+  "article": "Brunswick,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/08420/Brunswick__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6e08c47c02ffcdbe9a4bf4b8043b3071186d7a0f91df5551272a4e7064a460a9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6e08c47c02ffcdbe9a4bf4b8043b3071186d7a0f91df5551272a4e7064a460a9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/08420/Brunswick__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "08420",
+  "timestamp": "2026-05-25T00:01:47.077162Z",
+  "version": 1
+}

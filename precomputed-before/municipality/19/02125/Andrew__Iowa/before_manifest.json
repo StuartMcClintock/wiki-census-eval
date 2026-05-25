@@ -1,0 +1,16 @@
+{
+  "article": "Andrew,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/02125/Andrew__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "44e38a347a738c60ae477563ea903e630fe6d7413103268048eb2d3cadd98758",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "44e38a347a738c60ae477563ea903e630fe6d7413103268048eb2d3cadd98758",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/02125/Andrew__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "02125",
+  "timestamp": "2026-05-24T23:40:22.723411Z",
+  "version": 1
+}

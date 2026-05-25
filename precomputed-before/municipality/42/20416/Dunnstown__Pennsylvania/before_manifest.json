@@ -1,0 +1,16 @@
+{
+  "article": "Dunnstown,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/20416/Dunnstown__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8c4e691cf8f079df73a93b8123e1aec38910a296d90ed28e2ffaa3a33096da71",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8c4e691cf8f079df73a93b8123e1aec38910a296d90ed28e2ffaa3a33096da71",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/20416/Dunnstown__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "20416",
+  "timestamp": "2026-05-25T00:06:54.307425Z",
+  "version": 1
+}

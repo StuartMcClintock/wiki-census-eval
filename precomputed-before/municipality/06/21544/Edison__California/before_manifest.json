@@ -1,0 +1,16 @@
+{
+  "article": "Edison,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/21544/Edison__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3eb5004bc2fb778cfc357facc4d1a168980c31a101cf5a0b248ade613b0aecbc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3eb5004bc2fb778cfc357facc4d1a168980c31a101cf5a0b248ade613b0aecbc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/21544/Edison__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "21544",
+  "timestamp": "2026-05-24T23:34:20.747382Z",
+  "version": 1
+}

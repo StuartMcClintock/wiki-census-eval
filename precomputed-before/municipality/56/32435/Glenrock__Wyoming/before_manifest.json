@@ -1,0 +1,16 @@
+{
+  "article": "Glenrock,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/32435/Glenrock__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "423cf88dcba83bb9dcabf343104253be7a28d22df06bf6d194e219cbb73eaae6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "423cf88dcba83bb9dcabf343104253be7a28d22df06bf6d194e219cbb73eaae6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/32435/Glenrock__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "32435",
+  "timestamp": "2026-05-25T00:23:14.412819Z",
+  "version": 1
+}

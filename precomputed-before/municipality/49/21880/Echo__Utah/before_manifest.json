@@ -1,0 +1,16 @@
+{
+  "article": "Echo,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/21880/Echo__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c5e2edd278db4946eee602470911c42a3f9e14f90d18dbea57b12e892ca34253",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c5e2edd278db4946eee602470911c42a3f9e14f90d18dbea57b12e892ca34253",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/21880/Echo__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "21880",
+  "timestamp": "2026-05-25T00:16:57.031879Z",
+  "version": 1
+}

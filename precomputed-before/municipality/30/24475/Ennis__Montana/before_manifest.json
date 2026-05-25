@@ -1,0 +1,16 @@
+{
+  "article": "Ennis,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/24475/Ennis__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "547e28314af17e093fe059d07b1959fff564d3f82148ec11fa407dbf4d2d1ca4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "547e28314af17e093fe059d07b1959fff564d3f82148ec11fa407dbf4d2d1ca4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/24475/Ennis__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "24475",
+  "timestamp": "2026-05-24T23:54:23.077369Z",
+  "version": 1
+}

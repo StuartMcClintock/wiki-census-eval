@@ -1,0 +1,16 @@
+{
+  "article": "Grenloch,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/28380/Grenloch__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ea1eb199ae12c487c276396c56f767a553c76412a6a3db757c16fbc4895cffbd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ea1eb199ae12c487c276396c56f767a553c76412a6a3db757c16fbc4895cffbd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/28380/Grenloch__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "28380",
+  "timestamp": "2026-05-24T23:57:49.503227Z",
+  "version": 1
+}

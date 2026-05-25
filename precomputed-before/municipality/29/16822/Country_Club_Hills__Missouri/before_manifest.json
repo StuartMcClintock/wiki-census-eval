@@ -1,0 +1,16 @@
+{
+  "article": "Country_Club_Hills,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/16822/Country_Club_Hills__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "60773cc6babf7813d33b2930a11f022d252250f890cdd819207092875b117ed4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "60773cc6babf7813d33b2930a11f022d252250f890cdd819207092875b117ed4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/16822/Country_Club_Hills__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "16822",
+  "timestamp": "2026-05-24T23:51:01.172556Z",
+  "version": 1
+}

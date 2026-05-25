@@ -1,0 +1,16 @@
+{
+  "article": "Grand_View-on-Hudson,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/29872/Grand_View-on-Hudson__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f43e1835ebc22dd14839811c10ad907e49549d2d8bb919fae8d35f0d10ca955f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f43e1835ebc22dd14839811c10ad907e49549d2d8bb919fae8d35f0d10ca955f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/29872/Grand_View-on-Hudson__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "29872",
+  "timestamp": "2026-05-25T00:00:45.110721Z",
+  "version": 1
+}

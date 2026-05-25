@@ -1,0 +1,16 @@
+{
+  "article": "Talmage,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/77784/Talmage__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5bea5db30622fd209072ac86d0ab5eb17a68208d6e303ad0791637ec1c0bb5e3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5bea5db30622fd209072ac86d0ab5eb17a68208d6e303ad0791637ec1c0bb5e3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/77784/Talmage__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "77784",
+  "timestamp": "2026-05-24T23:35:08.618740Z",
+  "version": 1
+}

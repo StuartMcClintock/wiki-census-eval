@@ -1,0 +1,16 @@
+{
+  "article": "Copper_City,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/18080/Copper_City__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "84358007dea34e2d6b26351c66196c4afaf2af0eba0dba65784eb15dd7db4f3c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "84358007dea34e2d6b26351c66196c4afaf2af0eba0dba65784eb15dd7db4f3c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/18080/Copper_City__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "18080",
+  "timestamp": "2026-05-24T23:47:50.131668Z",
+  "version": 1
+}

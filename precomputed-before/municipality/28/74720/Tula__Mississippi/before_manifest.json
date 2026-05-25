@@ -1,0 +1,16 @@
+{
+  "article": "Tula,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/74720/Tula__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bf339c2ba270c852963945cd63e0673b9abb0f739cd00c6de0a51d9f879f81bb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bf339c2ba270c852963945cd63e0673b9abb0f739cd00c6de0a51d9f879f81bb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/74720/Tula__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "74720",
+  "timestamp": "2026-05-24T23:50:27.725871Z",
+  "version": 1
+}

@@ -1,0 +1,31 @@
+==Demographics==
+{{US Census population
+|align = left
+|1880= 116
+|1890= 268
+|1900= 241
+|1910= 350
+|1920= 350
+|1930= 271
+|1940= 201
+|1950= 252
+|1960= 274
+|1970= 219
+|1980= 197
+|1990= 162
+|2000= 166
+|2010= 128
+|2020= 120
+| estyear = 2022
+| estimate = 121
+|estref={{increase}}
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2015}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A45|title=Census Population API|publisher=United States Census Bureau|accessdate=October 15, 2022}}</ref>
+}}
+As of the [[census]]<ref name="GR2" /> of 2000, there were 166 people, 76 households, and 46 families residing in the town. The population density was {{convert|214.1|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 124 housing units at an average density of {{convert|159.9|/sqmi|/km2|sp=us|adj=off}}. The racial makeup of the town was 76.51% [[White (U.S. Census)|White]], 20.48% [[African American (U.S. Census)|African American]], and 3.01% from two or more races.
+
+There were 76 households, out of which 19.7% had children under the age of 18 living with them, 39.5% were [[Marriage|married couples]] living together, 18.4% had a female householder with no husband present, and 38.2% were non-families. 35.5% of all households were made up of individuals, and 15.8% had someone living alone who was 65 years of age or older. The average household size was 2.18 and the average family size was 2.83.
+
+In the town, the population was spread out, with 19.3% under the age of 18, 12.7% from 18 to 24, 21.7% from 25 to 44, 26.5% from 45 to 64, and 19.9% who were 65 years of age or older. The median age was 44 years. For every 100 females, there were 88.6 males. For every 100 females age 18 and over, there were 106.2 males.
+
+The median income for a household in the town was $22,778, and the median income for a family was $24,444. Males had a median income of $22,500 versus $16,250 for females. The [[per capita income]] for the town was $11,048. About 22.9% of families and 28.0% of the population were below the [[poverty line]], including 80.0% of those under the age of eighteen and none of those 65 or over.
+

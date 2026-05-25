@@ -1,0 +1,16 @@
+{
+  "article": "Trenton,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/79460/Trenton__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "994b633a87d22fea63e2bc6eb413f87ddfccbf8b408afcfd98c3bf49066aac7d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "994b633a87d22fea63e2bc6eb413f87ddfccbf8b408afcfd98c3bf49066aac7d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/79460/Trenton__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "79460",
+  "timestamp": "2026-05-25T00:03:24.839760Z",
+  "version": 1
+}

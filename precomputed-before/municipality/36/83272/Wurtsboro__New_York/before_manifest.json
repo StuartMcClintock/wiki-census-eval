@@ -1,0 +1,16 @@
+{
+  "article": "Wurtsboro,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/83272/Wurtsboro__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7235e4d80b397ca0b5a9549af11d1697f43e137ba2e7894ad0eaa4f8e30ab866",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7235e4d80b397ca0b5a9549af11d1697f43e137ba2e7894ad0eaa4f8e30ab866",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/83272/Wurtsboro__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "83272",
+  "timestamp": "2026-05-25T00:01:39.419653Z",
+  "version": 1
+}

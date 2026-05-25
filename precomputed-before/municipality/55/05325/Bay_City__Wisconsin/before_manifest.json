@@ -1,0 +1,16 @@
+{
+  "article": "Bay_City,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/05325/Bay_City__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b8326f803dc510003133f01d21641ea7fde961dcd2000488847345fd70b67120",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b8326f803dc510003133f01d21641ea7fde961dcd2000488847345fd70b67120",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/05325/Bay_City__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "05325",
+  "timestamp": "2026-05-25T00:21:34.584734Z",
+  "version": 1
+}

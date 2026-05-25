@@ -1,0 +1,16 @@
+{
+  "article": "Footville,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/26400/Footville__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "674cfdbb6e127de772d5b02006c4e50daf5afb1f5930cf64d2ec9bd3dd72a230",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "674cfdbb6e127de772d5b02006c4e50daf5afb1f5930cf64d2ec9bd3dd72a230",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/26400/Footville__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "26400",
+  "timestamp": "2026-05-25T00:22:06.447942Z",
+  "version": 1
+}

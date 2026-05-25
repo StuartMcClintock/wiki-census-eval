@@ -1,0 +1,16 @@
+{
+  "article": "Johnstonville,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/37484/Johnstonville__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9d15f55302d9dfc94e5b66412ee7cf2544c29cf4849b08c94bdf580eeaf4c9cc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9d15f55302d9dfc94e5b66412ee7cf2544c29cf4849b08c94bdf580eeaf4c9cc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/37484/Johnstonville__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "37484",
+  "timestamp": "2026-05-24T23:34:30.416093Z",
+  "version": 1
+}

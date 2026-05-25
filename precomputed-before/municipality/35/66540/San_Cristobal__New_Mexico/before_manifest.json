@@ -1,0 +1,16 @@
+{
+  "article": "San_Cristobal,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/66540/San_Cristobal__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "53aa246206cffb08a66a0126d6f3b922826d6cc1c5ba47ba6d27fb9fe26ac4fb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "53aa246206cffb08a66a0126d6f3b922826d6cc1c5ba47ba6d27fb9fe26ac4fb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/66540/San_Cristobal__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "66540",
+  "timestamp": "2026-05-24T23:58:52.407234Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Baywood,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/05256/Baywood__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4a64f7593e557720aa0dcfda2db041a924e993140db231434462cd488e150f5b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4a64f7593e557720aa0dcfda2db041a924e993140db231434462cd488e150f5b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/05256/Baywood__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "05256",
+  "timestamp": "2026-05-25T00:17:34.203979Z",
+  "version": 1
+}

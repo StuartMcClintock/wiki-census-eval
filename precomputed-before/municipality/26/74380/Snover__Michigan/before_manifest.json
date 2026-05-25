@@ -1,0 +1,16 @@
+{
+  "article": "Snover,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/74380/Snover__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "70ef4409b3a9da1cc90c1fdf003f975df5124a83763236d83c3dd620c0e5c821",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "70ef4409b3a9da1cc90c1fdf003f975df5124a83763236d83c3dd620c0e5c821",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/74380/Snover__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "74380",
+  "timestamp": "2026-05-24T23:48:28.317008Z",
+  "version": 1
+}

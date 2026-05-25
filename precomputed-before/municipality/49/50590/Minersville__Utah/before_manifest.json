@@ -1,0 +1,16 @@
+{
+  "article": "Minersville,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/50590/Minersville__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aa59767eecca1c13f31a449f68fbb836f01004840084e5039e51bb6928ec5d0d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aa59767eecca1c13f31a449f68fbb836f01004840084e5039e51bb6928ec5d0d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/50590/Minersville__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "50590",
+  "timestamp": "2026-05-25T00:17:05.902915Z",
+  "version": 1
+}

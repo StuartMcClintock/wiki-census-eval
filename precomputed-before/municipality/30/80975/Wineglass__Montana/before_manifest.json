@@ -1,0 +1,16 @@
+{
+  "article": "Wineglass,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/80975/Wineglass__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "85964c07269fc0bee511af02b0da90ffda64723eedfe97212370ca014896404b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "85964c07269fc0bee511af02b0da90ffda64723eedfe97212370ca014896404b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/80975/Wineglass__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "80975",
+  "timestamp": "2026-05-24T23:55:04.866051Z",
+  "version": 1
+}

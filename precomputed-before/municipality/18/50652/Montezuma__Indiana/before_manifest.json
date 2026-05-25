@@ -1,0 +1,16 @@
+{
+  "article": "Montezuma,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/50652/Montezuma__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7abbf0996e5e98b9d6b56577acf1f43aa0143584caaf4905f5f0d2a60c518bf1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7abbf0996e5e98b9d6b56577acf1f43aa0143584caaf4905f5f0d2a60c518bf1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/50652/Montezuma__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "50652",
+  "timestamp": "2026-05-24T23:40:03.221275Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Manter,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/44375/Manter__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dabb8ba954f7ad15ab5dfe38b3a77efb507d5c6e6114a6cea6429f950d1fc8b7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dabb8ba954f7ad15ab5dfe38b3a77efb507d5c6e6114a6cea6429f950d1fc8b7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/44375/Manter__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "44375",
+  "timestamp": "2026-05-24T23:43:07.593729Z",
+  "version": 1
+}

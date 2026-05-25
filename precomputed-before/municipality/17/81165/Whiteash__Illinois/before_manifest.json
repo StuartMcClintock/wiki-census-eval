@@ -1,0 +1,16 @@
+{
+  "article": "Whiteash,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/81165/Whiteash__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9b5261f7ff7030250071d2ebbc4717732f2b9b0f508b07fcf39885bc05ae7fab",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9b5261f7ff7030250071d2ebbc4717732f2b9b0f508b07fcf39885bc05ae7fab",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/81165/Whiteash__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "81165",
+  "timestamp": "2026-05-24T23:39:22.733587Z",
+  "version": 1
+}

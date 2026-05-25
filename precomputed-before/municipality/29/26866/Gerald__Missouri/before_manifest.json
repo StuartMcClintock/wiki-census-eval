@@ -1,0 +1,16 @@
+{
+  "article": "Gerald,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/26866/Gerald__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1c95129c06fe43f6b6658cac39f6434d258fc4ebff832338569c5a3f0627ad92",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1c95129c06fe43f6b6658cac39f6434d258fc4ebff832338569c5a3f0627ad92",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/26866/Gerald__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "26866",
+  "timestamp": "2026-05-24T23:51:12.107453Z",
+  "version": 1
+}

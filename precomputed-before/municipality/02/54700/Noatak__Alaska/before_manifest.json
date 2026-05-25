@@ -1,0 +1,16 @@
+{
+  "article": "Noatak,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/54700/Noatak__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d22c1d6870f3a08918ff7c68b72f78075050538e0ab2cf902d5177954a5e0cef",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d22c1d6870f3a08918ff7c68b72f78075050538e0ab2cf902d5177954a5e0cef",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/54700/Noatak__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "54700",
+  "timestamp": "2026-05-24T23:32:29.698422Z",
+  "version": 1
+}

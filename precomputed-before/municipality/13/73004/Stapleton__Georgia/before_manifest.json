@@ -1,0 +1,16 @@
+{
+  "article": "Stapleton,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/73004/Stapleton__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "79c1ac488d63888cf0b5573fc4c0acc265229f668968bcd4b1c16a94ffb37d0c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "79c1ac488d63888cf0b5573fc4c0acc265229f668968bcd4b1c16a94ffb37d0c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/73004/Stapleton__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "73004",
+  "timestamp": "2026-05-24T23:37:08.221333Z",
+  "version": 1
+}

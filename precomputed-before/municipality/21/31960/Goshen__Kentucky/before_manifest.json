@@ -1,0 +1,16 @@
+{
+  "article": "Goshen,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/31960/Goshen__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9dc9c459b658441b7a26db250a5f758bce0f34ae11ac1c0729bf95cc956d42cd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9dc9c459b658441b7a26db250a5f758bce0f34ae11ac1c0729bf95cc956d42cd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/31960/Goshen__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "31960",
+  "timestamp": "2026-05-24T23:44:04.815066Z",
+  "version": 1
+}

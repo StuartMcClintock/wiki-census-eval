@@ -1,0 +1,16 @@
+{
+  "article": "Linden,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/42720/Linden__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7d56aff04e191b3ee08b4c6234b96dc2788651f1203681c1977ab4ceeec8d044",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7d56aff04e191b3ee08b4c6234b96dc2788651f1203681c1977ab4ceeec8d044",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/42720/Linden__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "42720",
+  "timestamp": "2026-05-25T00:14:45.364149Z",
+  "version": 1
+}

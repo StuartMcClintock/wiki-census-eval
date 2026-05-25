@@ -1,0 +1,16 @@
+{
+  "article": "Olympia,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/52900/Olympia__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ce2a7e6f0557b0bd808b44d8833a804235e3c8ecc3334cf75cce3b32f833740c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ce2a7e6f0557b0bd808b44d8833a804235e3c8ecc3334cf75cce3b32f833740c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/52900/Olympia__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "52900",
+  "timestamp": "2026-05-25T00:10:15.669244Z",
+  "version": 1
+}

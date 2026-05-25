@@ -1,0 +1,16 @@
+{
+  "article": "Palmer,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/54200/Palmer__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e8abc3a852f555ce951fbc27dc65cffab9639a2c6561dc55f99897676bf61ba2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e8abc3a852f555ce951fbc27dc65cffab9639a2c6561dc55f99897676bf61ba2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/54200/Palmer__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "54200",
+  "timestamp": "2026-05-24T23:43:18.240129Z",
+  "version": 1
+}

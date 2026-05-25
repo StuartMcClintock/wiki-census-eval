@@ -1,0 +1,16 @@
+{
+  "article": "Sangaree,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/63665/Sangaree__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4dcb7ce3f131d279511a246513c6896b845a7e2f04aee9fbc8e1834d6526d5ca",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4dcb7ce3f131d279511a246513c6896b845a7e2f04aee9fbc8e1834d6526d5ca",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/63665/Sangaree__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "63665",
+  "timestamp": "2026-05-25T00:10:20.841965Z",
+  "version": 1
+}

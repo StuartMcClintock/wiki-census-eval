@@ -1,0 +1,16 @@
+{
+  "article": "Fairfield,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/25225/Fairfield__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a8cf39ac0e25646303651f8c4f43d035e3c5c822411d57be1e41998ed9ff2640",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a8cf39ac0e25646303651f8c4f43d035e3c5c822411d57be1e41998ed9ff2640",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/25225/Fairfield__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "25225",
+  "timestamp": "2026-05-24T23:54:23.540635Z",
+  "version": 1
+}

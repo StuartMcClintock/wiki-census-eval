@@ -1,0 +1,119 @@
+==Demographics==
+{{US Census population
+|1930= 314
+|1940= 270
+|1950= 354
+|1960= 417
+|1970= 552
+|1980= 624
+|1990= 556
+|2000= 616
+|2010= 706
+|2020= 768
+|estyear=2024
+|estimate=2030
+|estref=<ref name="USCensusEst2024">{{cite web|title=City and Town Population Totals: 2020-2024 |url=https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html |publisher=United States Census Bureau |access-date=February 1, 2026}}</ref> {{increase}}
+|align-fn=center
+|footnote=U.S. Decennial Census<ref>{{cite web|title=Decennial Census of Population and Housing |url=https://www.census.gov/programs-surveys/decennial-census.html |publisher=United States Census Bureau |website=www.census.gov |access-date=June 4, 2015}}</ref><br>2020 Census<ref name="2020 Census (Town)"/>
+}}
+
+{| class="wikitable sortable"
+|+<big>Silverhill, Alabama – racial and ethnic composition</big><br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+! Race / ethnicity <small>(''NH = non-Hispanic'')</small>
+! Pop. 2000<ref name=2000CensusP004>{{Cite web|title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Silverhill town, Alabama |url=https://data.census.gov/table/DECENNIALSF12000.P004?g=160XX00US0170536 |publisher=[[United States Census Bureau]] |access-date=February 1, 2026}}</ref>
+! Pop. 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Silverhill town, Alabama |url=https://data.census.gov/table/DECENNIALPL2010.P2?q=p2&g=160XX00US0170536 |publisher=[[United States Census Bureau]] |access-date=February 1, 2026}}</ref>
+! {{partial|Pop. 2020}}<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Silverhill town, Alabama |url=https://data.census.gov/table/DECENNIALPL2020.P2?q=p2&g=160XX00US0170536 |publisher=[[United States Census Bureau]] |access-date=February 1, 2026}}</ref>
+! % 2000
+! % 2010
+! {{partial|% 2020}}
+|-
+| [[Non-Hispanic or Latino whites|White]] alone (NH)
+| 599
+| 646
+| style='background: #ffffe6; |668
+| 97.24%
+| 91.50%
+| style='background: #ffffe6; |86.98%
+|-
+| [[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+| 0
+| 12
+| style='background: #ffffe6; |13
+| 0.00%
+| 1.70%
+| style='background: #ffffe6; |1.69%
+|-
+| [[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+| 1
+| 1   
+| style='background: #ffffe6; |4
+| 0.16%
+| 0.14%
+| style='background: #ffffe6; |0.52%
+|-
+| [[Asian Americans|Asian]] alone (NH)
+| 4
+| 2
+| style='background: #ffffe6; |10
+| 0.65%
+| 0.28%
+| style='background: #ffffe6; |1.30%
+|-
+| [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+| 0
+| 1
+| style='background: #ffffe6; |1
+| 0.00%
+| 0.14%
+| style='background: #ffffe6; |0.13%
+|-
+| [[Race and ethnicity in the United States census|Other race]] alone (NH)
+| 0
+| 0
+| style='background: #ffffe6; |2
+| 0.00%
+| 0.00%
+| style='background: #ffffe6; |0.26%
+|-
+| [[Multiracial Americans|Mixed race or multiracial]] (NH)
+| 3
+| 4
+| style='background: #ffffe6; |30
+| 0.49%
+| 0.57%
+| style='background: #ffffe6; |3.91%
+|-
+| [[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+| 9
+| 40
+| style='background: #ffffe6; |40
+| 1.46%
+| 5.67%
+| style='background: #ffffe6; |5.21%
+|-
+|'''Total'''
+|'''616'''
+|'''706'''
+|style='background: #ffffe6; |'''768'''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+===2020 census===
+As of the [[2020 United States census|2020 census]], there were 768 people, 321 households, and 225 families residing in the town.<ref>{{Cite web|title=U.S. Census Bureau, Table P16: Household Type |url=https://data.census.gov/table?q=Silverhill%20town,%20Alabama%20p16&y=2020 |publisher=United States Census Bureau |access-date=February 1, 2026}}</ref> The [[population density]] was {{convert|611.47|PD/sqmi|PD/km2|1}}. There were 336 housing units at an average density of {{convert|267.52|/sqmi|/km2|1}}. The racial makeup of the town was 87.24% [[White (U.S. Census)|White]], 1.95% [[African American (U.S. Census)|African American]], 0.52% [[Native American (U.S. Census)|Native American]], 1.43% [[Asian (U.S. Census)|Asian]], 0.13% [[Race (U.S. Census)|Pacific Islander]], 2.86% from some other races and 5.86% from two or more races. [[Hispanic and Latino Americans|Hispanic or Latino]] people of any race were 5.21% of the population.<ref>{{Cite web|title=How many people live in Silverhill town, Alabama |url=https://data.usatoday.com/census/total-population/total-population-change/silverhill-town-alabama/160-0170536/ |publisher=[[USA Today]] |access-date=February 1, 2026}}</ref>
+
+===2010 census===
+As of the [[2010 United States census|2010 census]], there were 706 people, 277 households, and _ families residing in the town. The population density was {{convert|589.81|PD/sqmi|PD/km2|1}}. There were 315 housing units at an average density of {{convert|263.16|/sqmi|/km2|1}}. The racial makeup of the town was 94.33% [[White (U.S. Census)|White]], 1.70% [[African American (U.S. Census)|African American]], 0.14% [[Native American (U.S. Census)|Native American]], 0.28% [[Asian (U.S. Census)|Asian]], 0.14% [[Race (U.S. Census)|Pacific Islander]], 2.83% from some other races and 0.57% from two or more races. [[Hispanic and Latino Americans|Hispanic or Latino]] people of any race were 5.67% of the population.
+
+===2000 census===
+As of the [[2000 United States census|2000 census]], there were 616 people, 241 households, and 178 families residing in the town. The population density was {{convert|517.50|PD/sqmi|PD/km2|1}}. There were 266 housing units at an average density of {{convert|223.47|/sqmi|/km2|1}}. The racial makeup of the town was 98.05% [[White (U.S. Census)|White]], 0.00% [[African American (U.S. Census)|African American]], 0.16% [[Native American (U.S. Census)|Native American]], 0.65% [[Asian (U.S. Census)|Asian]], 0.00% [[Race (U.S. Census)|Pacific Islander]], 0.00% from some other races and 1.14% from two or more races. [[Hispanic and Latino Americans|Hispanic or Latino]] people of any race were 1.46% of the population.
+
+24.8% were of [[American ancestry|American]], 14.8% [[German Americans|German]], 10.2% [[Swedish Americans|Swedish]], 9.0% [[English Americans|English]] and 6.4% [[Irish Americans|Irish]] ancestry.
+
+There were 241 households, out of which 32.4% had children under the age of 18 living with them, 61.8% were [[Marriage|married couples]] living together, 8.7% had a female householder with no husband present, and 26.1% were non-families. 20.7% of all households were made up of individuals, and 10.4% had someone living alone who was 65 years of age or older. The average household size was 2.54 and the average family size was 2.97.
+
+In the town, the population was spread out, with 25.2% under the age of 18, 6.5% from 18 to 24, 25.8% from 25 to 44, 26.3% from 45 to 64, and 16.2% who were 65 years of age or older. The median age was 40 years. For every 100 females, there were 91.3 males. For every 100 females age 18 and over, there were 88.2 males.
+
+The median income for a household in the town was $42,083, and the median income for a family was $51,964. Males had a median income of $30,417 versus $25,938 for females. The [[per capita income]] for the town was $20,723. About 3.8% of families and 4.8% of the population were below the [[Poverty threshold|poverty line]], including 4.6% of those under age 18 and 5.1% of those age 65 or over.
+

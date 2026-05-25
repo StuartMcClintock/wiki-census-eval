@@ -1,0 +1,16 @@
+{
+  "article": "Erskine,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/19700/Erskine__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "81bd500e7930b943458435e32d23587417fcc517bc7829c8f7ed7bc90809867a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "81bd500e7930b943458435e32d23587417fcc517bc7829c8f7ed7bc90809867a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/19700/Erskine__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "19700",
+  "timestamp": "2026-05-24T23:48:53.465753Z",
+  "version": 1
+}

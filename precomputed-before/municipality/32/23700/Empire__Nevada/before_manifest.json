@@ -1,0 +1,16 @@
+{
+  "article": "Empire,_Nevada",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/32/23700/Empire__Nevada/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fff90ee3044237a0cc94785d0a59d653f6c013e77556e788f0cb99e8ac7bb7b7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fff90ee3044237a0cc94785d0a59d653f6c013e77556e788f0cb99e8ac7bb7b7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/32/23700/Empire__Nevada/manifest.json",
+  "state_fips": "32",
+  "status": "match",
+  "target_fips": "23700",
+  "timestamp": "2026-05-24T23:57:28.843408Z",
+  "version": 1
+}

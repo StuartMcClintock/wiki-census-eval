@@ -1,0 +1,16 @@
+{
+  "article": "Martinton,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/47280/Martinton__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "60af3bde464549b6333173afb84eed8c23e2b773bcc239258e1fc02d6a758e38",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "60af3bde464549b6333173afb84eed8c23e2b773bcc239258e1fc02d6a758e38",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/47280/Martinton__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "47280",
+  "timestamp": "2026-05-24T23:38:33.700172Z",
+  "version": 1
+}

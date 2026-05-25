@@ -1,0 +1,16 @@
+{
+  "article": "Karns_City,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/38768/Karns_City__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fd8348f948f905f8bd8c261fe12a8c3559f7c5233f2e79c12d3685b25a79c46d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fd8348f948f905f8bd8c261fe12a8c3559f7c5233f2e79c12d3685b25a79c46d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/38768/Karns_City__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "38768",
+  "timestamp": "2026-05-25T00:07:43.938623Z",
+  "version": 1
+}

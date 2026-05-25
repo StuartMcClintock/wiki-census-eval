@@ -1,0 +1,16 @@
+{
+  "article": "Alto_Pass,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/01205/Alto_Pass__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7f6028f9112ee72d3afa759332d87c62316ae2feb7160067831ed3037a9ee8d5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7f6028f9112ee72d3afa759332d87c62316ae2feb7160067831ed3037a9ee8d5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/01205/Alto_Pass__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "01205",
+  "timestamp": "2026-05-24T23:37:32.762594Z",
+  "version": 1
+}

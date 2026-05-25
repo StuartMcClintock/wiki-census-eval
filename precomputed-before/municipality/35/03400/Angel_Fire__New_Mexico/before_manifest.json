@@ -1,0 +1,16 @@
+{
+  "article": "Angel_Fire,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/03400/Angel_Fire__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "205f0893f6044e20d7628c663686a9ce5734eeae28d5b3d4d1163ba4dcd6f2c7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "205f0893f6044e20d7628c663686a9ce5734eeae28d5b3d4d1163ba4dcd6f2c7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/03400/Angel_Fire__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "03400",
+  "timestamp": "2026-05-24T23:58:07.980324Z",
+  "version": 1
+}

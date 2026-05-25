@@ -1,0 +1,48 @@
+==Demographics==
+{{US Census population
+|2020= 345
+|align=right
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=http://www.census.gov/prod/www/decennial.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2016}}</ref>
+}}{{clear left}}
+
+As of the [[2020 United States census|2020 Census]], there were 345 people, 186 households, and 186 housing units. The median age of the population was 84.3.<ref>{{cite web |title=PROFILE OF GENERAL POPULATION AND HOUSING CHARACTERISTICS |url=https://data.census.gov/table?q=Household+and+Family&t=Race+and+Ethnicity&g=160XX00US4235500 |website=data.census.gov |publisher=U.S. Census Bureau}}</ref> The detailed ancestries reported in 2020 were [[German Americans|German]] (16.5%) and [[English Americans|English]] (15.4%).<ref>{{cite web |title=TOTAL POPULATION |url=https://data.census.gov/table?t=-06:-1000E:-3000F:-4000G:-5000K:-7000E:-8000B&g=160XX00US4235500&d=DEC+Detailed+Demographic+and+Housing+Characteristics+File+A |website=data.census.gov |publisher=U.S. Census Bureau}}</ref>
+
+{| class="wikitable" style="text-align:center;"
+|+'''Homewood at Martinsburg CDP, Pennsylvania – Racial composition'''
+!Race <small>(''NH = Non-Hispanic'')</small>
+!% 2020<ref>{{cite web |title=HISPANIC OR LATINO, AND NOT HISPANIC OR LATINO BY RACE (2020) |url=https://data.census.gov/table?t=Race+and+Ethnicity&g=160XX00US4235500&d=DEC+Demographic+and+Housing+Characteristics |website=data.census.gov |publisher=U.S. Census Bureau}}</ref>
+!Pop 2020
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|99.1%
+|342
+|-
+|[[Non-Hispanic or Latino African Americans|Black]] alone (NH)
+|0.3%
+|1
+|-
+|[[Native Americans in the United States|American Indian]] alone (NH)
+|0%
+|0
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|0.3%
+|1
+|-
+|[[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0%
+|0
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|0%
+|0
+|-
+|[[Multiracial Americans|Multiracial]] (NH)
+|0%
+|0
+|-
+|[[Hispanic and Latino Americans|Hispanic/Latino]] (any race)
+|0.3%
+|1
+|}
+

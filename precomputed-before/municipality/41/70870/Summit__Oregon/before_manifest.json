@@ -1,0 +1,16 @@
+{
+  "article": "Summit,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/70870/Summit__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3d956f62b84cb81760b602777b8d8cc3bad6506ee8ad7fba11646f6140597b9e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3d956f62b84cb81760b602777b8d8cc3bad6506ee8ad7fba11646f6140597b9e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/70870/Summit__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "70870",
+  "timestamp": "2026-05-25T00:06:03.179636Z",
+  "version": 1
+}

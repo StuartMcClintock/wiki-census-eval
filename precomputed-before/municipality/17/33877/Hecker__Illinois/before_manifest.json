@@ -1,0 +1,16 @@
+{
+  "article": "Hecker,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/33877/Hecker__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "85b35b6a075b302c028a4e1e821f8fb3c42c2d9b4994a30fd2e695a7e51436d0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "85b35b6a075b302c028a4e1e821f8fb3c42c2d9b4994a30fd2e695a7e51436d0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/33877/Hecker__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "33877",
+  "timestamp": "2026-05-24T23:38:19.413845Z",
+  "version": 1
+}

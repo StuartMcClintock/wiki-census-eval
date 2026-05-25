@@ -1,0 +1,16 @@
+{
+  "article": "Hollis,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/32810/Hollis__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cc533dc3414332b6f77bf876bcb71e78e65094c5a03f323af5a7dfcccf723d60",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cc533dc3414332b6f77bf876bcb71e78e65094c5a03f323af5a7dfcccf723d60",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/32810/Hollis__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "32810",
+  "timestamp": "2026-05-24T23:32:23.471383Z",
+  "version": 1
+}

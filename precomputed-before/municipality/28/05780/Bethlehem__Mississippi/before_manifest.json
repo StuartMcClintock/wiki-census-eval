@@ -1,0 +1,16 @@
+{
+  "article": "Bethlehem,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/05780/Bethlehem__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "eaa56c6a025386e3f14de07fedb1a3fdc328f65849b0e8396a8d5102e1ac09de",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "eaa56c6a025386e3f14de07fedb1a3fdc328f65849b0e8396a8d5102e1ac09de",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/05780/Bethlehem__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "05780",
+  "timestamp": "2026-05-24T23:50:02.724100Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Spotsylvania_Courthouse,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/74470/Spotsylvania_Courthouse__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b3ee7377bf80a2e4651957d87f56207486ca62a0d37aaf84bc591b30155bf892",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b3ee7377bf80a2e4651957d87f56207486ca62a0d37aaf84bc591b30155bf892",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/74470/Spotsylvania_Courthouse__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "74470",
+  "timestamp": "2026-05-25T00:19:39.194925Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Byesville,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/10716/Byesville__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "14a49ad4697df75c9c7dc8f98f6ab0c4d1ca2b9636dc60f009ab0038eb9dff86",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "14a49ad4697df75c9c7dc8f98f6ab0c4d1ca2b9636dc60f009ab0038eb9dff86",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/10716/Byesville__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "10716",
+  "timestamp": "2026-05-25T00:03:51.431499Z",
+  "version": 1
+}

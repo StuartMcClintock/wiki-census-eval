@@ -1,0 +1,16 @@
+{
+  "article": "Summit_View,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/68410/Summit_View__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "13173bf886ef24e7387be68b0e4bddad0b3c2d342686717123d7439c8154437e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "13173bf886ef24e7387be68b0e4bddad0b3c2d342686717123d7439c8154437e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/68410/Summit_View__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "68410",
+  "timestamp": "2026-05-25T00:20:34.143486Z",
+  "version": 1
+}

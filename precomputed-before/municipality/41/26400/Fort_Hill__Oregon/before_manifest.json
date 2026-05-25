@@ -1,0 +1,16 @@
+{
+  "article": "Fort_Hill,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/26400/Fort_Hill__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3002ca19b8a5856409d2b903cb7bcf463ba572a7f91c7ca93e710178c2725a58",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3002ca19b8a5856409d2b903cb7bcf463ba572a7f91c7ca93e710178c2725a58",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/26400/Fort_Hill__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "26400",
+  "timestamp": "2026-05-25T00:05:47.531458Z",
+  "version": 1
+}

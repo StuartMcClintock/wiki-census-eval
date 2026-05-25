@@ -1,0 +1,16 @@
+{
+  "article": "Richfield,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/41340/Richfield__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "80081cb3a0a88f5a72c204b4dad05f37f4f0af97a610cd3fd7c5197af830356d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0f57aa2ba3ee30ff177c99d8e51c51a70aa403aa4a0e9c8263b46233a4d52eef",
+  "reason": "the demographics section text changed since precomputation",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/41340/Richfield__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "mismatch",
+  "target_fips": "41340",
+  "timestamp": "2026-05-24T23:56:05.895791Z",
+  "version": 1
+}

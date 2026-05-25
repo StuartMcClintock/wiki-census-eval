@@ -1,0 +1,16 @@
+{
+  "article": "Dana,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/18485/Dana__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b9ede8fcdcb3719fc24d3c3eed25234e24fb5cc66ca7d5eec3a1b878c8a6fa39",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b9ede8fcdcb3719fc24d3c3eed25234e24fb5cc66ca7d5eec3a1b878c8a6fa39",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/18485/Dana__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "18485",
+  "timestamp": "2026-05-24T23:38:05.562813Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Cloverleaf_Colony,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/13010/Cloverleaf_Colony__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8fbae97cb92b117dcc94e33d1f2fbea339ce83826599a0f20ea959bb7ff9fe0d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8fbae97cb92b117dcc94e33d1f2fbea339ce83826599a0f20ea959bb7ff9fe0d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/13010/Cloverleaf_Colony__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "13010",
+  "timestamp": "2026-05-25T00:10:35.171108Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Lost_Bridge_Village,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/41555/Lost_Bridge_Village__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "594217f80d150e6577cb31a50486321f9bd2ef8b3e7748c7823053d06a5cb335",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "594217f80d150e6577cb31a50486321f9bd2ef8b3e7748c7823053d06a5cb335",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/41555/Lost_Bridge_Village__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "41555",
+  "timestamp": "2026-05-24T23:33:51.110744Z",
+  "version": 1
+}

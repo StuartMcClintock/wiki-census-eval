@@ -1,0 +1,16 @@
+{
+  "article": "Mount_Etna,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/51408/Mount_Etna__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5d20f63a2ea1ddc6076698e89d1ff0d3a70549f4cb35ccbac694c00a98383cdf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5d20f63a2ea1ddc6076698e89d1ff0d3a70549f4cb35ccbac694c00a98383cdf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/51408/Mount_Etna__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "51408",
+  "timestamp": "2026-05-24T23:40:04.100410Z",
+  "version": 1
+}

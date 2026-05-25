@@ -1,0 +1,16 @@
+{
+  "article": "Plymptonville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/61704/Plymptonville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d27655d9a4349bc51e6fe8c5fc3be1d7d746db27ff326952e32cbd864c347dde",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d27655d9a4349bc51e6fe8c5fc3be1d7d746db27ff326952e32cbd864c347dde",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/61704/Plymptonville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "61704",
+  "timestamp": "2026-05-25T00:08:31.110048Z",
+  "version": 1
+}

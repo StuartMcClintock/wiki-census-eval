@@ -1,0 +1,16 @@
+{
+  "article": "Lake_City,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/35220/Lake_City__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2f328a4d0242506fc39099e085c4ef3ae4ec7438a70b34225bba675b60879b2c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2f328a4d0242506fc39099e085c4ef3ae4ec7438a70b34225bba675b60879b2c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/35220/Lake_City__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "35220",
+  "timestamp": "2026-05-25T00:10:44.248565Z",
+  "version": 1
+}

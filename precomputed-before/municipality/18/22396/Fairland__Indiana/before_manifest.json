@@ -1,0 +1,16 @@
+{
+  "article": "Fairland,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/22396/Fairland__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f3ac7028090fa60fdd504262b0746e3a58be2fef96103e8ff2f925209f11cc53",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f3ac7028090fa60fdd504262b0746e3a58be2fef96103e8ff2f925209f11cc53",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/22396/Fairland__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "22396",
+  "timestamp": "2026-05-24T23:39:35.013991Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Uvalda,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/78744/Uvalda__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "625c8b4d4a438ff9d2b965faf0f1397d749504dde09961856e956ae16a0cd05a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "625c8b4d4a438ff9d2b965faf0f1397d749504dde09961856e956ae16a0cd05a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/78744/Uvalda__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "78744",
+  "timestamp": "2026-05-24T23:37:10.715840Z",
+  "version": 1
+}

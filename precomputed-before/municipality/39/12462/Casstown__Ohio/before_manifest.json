@@ -1,0 +1,16 @@
+{
+  "article": "Casstown,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/12462/Casstown__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "88d4462114d2c2ecc451dd5ce0897756cb0f4b5628d74245beb53a45a38277b8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "88d4462114d2c2ecc451dd5ce0897756cb0f4b5628d74245beb53a45a38277b8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/12462/Casstown__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "12462",
+  "timestamp": "2026-05-25T00:03:52.537970Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Bell_Center,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/06225/Bell_Center__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "def6e8a89944eec1b9cbba1c231b804e3bd4060693e605a6c5261765ff4f621a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "def6e8a89944eec1b9cbba1c231b804e3bd4060693e605a6c5261765ff4f621a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/06225/Bell_Center__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "06225",
+  "timestamp": "2026-05-25T00:21:35.233505Z",
+  "version": 1
+}

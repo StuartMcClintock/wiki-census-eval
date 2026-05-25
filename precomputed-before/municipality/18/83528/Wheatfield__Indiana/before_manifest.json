@@ -1,0 +1,16 @@
+{
+  "article": "Wheatfield,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/83528/Wheatfield__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3b1a2275ca85ba3ab1baa9a4d0e8af175955fe3e01c9a99a3719791f5047a80a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3b1a2275ca85ba3ab1baa9a4d0e8af175955fe3e01c9a99a3719791f5047a80a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/83528/Wheatfield__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "83528",
+  "timestamp": "2026-05-24T23:40:19.105967Z",
+  "version": 1
+}

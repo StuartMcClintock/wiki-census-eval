@@ -1,0 +1,16 @@
+{
+  "article": "Twilight,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/78008/Twilight__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0c401d82d4e367eae2af46f971710452db479a845f4a7216d0d56edfab1df320",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0c401d82d4e367eae2af46f971710452db479a845f4a7216d0d56edfab1df320",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/78008/Twilight__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "78008",
+  "timestamp": "2026-05-25T00:09:20.127990Z",
+  "version": 1
+}

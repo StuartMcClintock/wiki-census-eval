@@ -1,0 +1,16 @@
+{
+  "article": "Florien,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/25860/Florien__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2f57c684f249be4b4b00b881059239da4a95f3963065b85ad8ed4d520d438c7d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2f57c684f249be4b4b00b881059239da4a95f3963065b85ad8ed4d520d438c7d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/25860/Florien__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "25860",
+  "timestamp": "2026-05-24T23:44:47.852297Z",
+  "version": 1
+}

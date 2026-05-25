@@ -1,0 +1,16 @@
+{
+  "article": "Clifton,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/17376/Clifton__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "84eaeb204a0be4037e16c3cd230a0828ff8af46da16e410ccb6afce2fdc02b36",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "84eaeb204a0be4037e16c3cd230a0828ff8af46da16e410ccb6afce2fdc02b36",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/17376/Clifton__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "17376",
+  "timestamp": "2026-05-25T00:19:06.716752Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Westfield_Center,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/83468/Westfield_Center__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5ca180f6536d8d05b5f0d981f0d3e8437dd1b20edaac9ab53f79e61e843504af",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5ca180f6536d8d05b5f0d981f0d3e8437dd1b20edaac9ab53f79e61e843504af",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/83468/Westfield_Center__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "83468",
+  "timestamp": "2026-05-25T00:05:37.154634Z",
+  "version": 1
+}

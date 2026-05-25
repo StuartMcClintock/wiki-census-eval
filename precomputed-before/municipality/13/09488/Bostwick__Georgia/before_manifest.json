@@ -1,0 +1,16 @@
+{
+  "article": "Bostwick,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/09488/Bostwick__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e74b753768788baaa5099fd0d0f88dac656de0bfb6f076db284c51c39e4ed59e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e74b753768788baaa5099fd0d0f88dac656de0bfb6f076db284c51c39e4ed59e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/09488/Bostwick__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "09488",
+  "timestamp": "2026-05-24T23:36:29.256517Z",
+  "version": 1
+}

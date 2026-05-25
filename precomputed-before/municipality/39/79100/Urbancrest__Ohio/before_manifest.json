@@ -1,0 +1,16 @@
+{
+  "article": "Urbancrest,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/79100/Urbancrest__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6cbdcb30d274a6997c9898356f480d4eb0798d3f5adc7a4c47f1876cfb51b3b5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6cbdcb30d274a6997c9898356f480d4eb0798d3f5adc7a4c47f1876cfb51b3b5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/79100/Urbancrest__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "79100",
+  "timestamp": "2026-05-25T00:05:33.750859Z",
+  "version": 1
+}

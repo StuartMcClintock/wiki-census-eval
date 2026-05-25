@@ -1,0 +1,16 @@
+{
+  "article": "Strathmoor_Village,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/74082/Strathmoor_Village__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ca1bee8566184e3ea1b95d1d3138f7481f250acf9d033b1f6ceec83c0ad5402d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ca1bee8566184e3ea1b95d1d3138f7481f250acf9d033b1f6ceec83c0ad5402d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/74082/Strathmoor_Village__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "74082",
+  "timestamp": "2026-05-24T23:44:22.665407Z",
+  "version": 1
+}

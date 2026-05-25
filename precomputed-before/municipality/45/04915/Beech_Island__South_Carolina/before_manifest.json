@@ -1,0 +1,16 @@
+{
+  "article": "Beech_Island,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/04915/Beech_Island__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "633338c2e8fe304c10ee8ea0e16a9c07ad20c091fc89cdaa725eb88b58688102",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "633338c2e8fe304c10ee8ea0e16a9c07ad20c091fc89cdaa725eb88b58688102",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/04915/Beech_Island__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "04915",
+  "timestamp": "2026-05-25T00:09:39.561601Z",
+  "version": 1
+}

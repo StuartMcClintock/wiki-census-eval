@@ -1,0 +1,16 @@
+{
+  "article": "Royal,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/42495/Royal__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c3087a39564c187baf1a4b93a5d65370ca64acbf65712bffcd6352a4717eefcd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c3087a39564c187baf1a4b93a5d65370ca64acbf65712bffcd6352a4717eefcd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/42495/Royal__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "42495",
+  "timestamp": "2026-05-24T23:57:14.100059Z",
+  "version": 1
+}

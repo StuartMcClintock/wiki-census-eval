@@ -1,0 +1,16 @@
+{
+  "article": "Moonshine,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/51800/Moonshine__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d6559b27bd391538c103dbc575a843d48ae220ff42e79f24ae12dce4e723e912",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d6559b27bd391538c103dbc575a843d48ae220ff42e79f24ae12dce4e723e912",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/51800/Moonshine__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "51800",
+  "timestamp": "2026-05-24T23:45:02.032992Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Dundas,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/21020/Dundas__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aeb97439139121b36fc485a576847f80196bb2f407e7c02ff1d18c499336cd59",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aeb97439139121b36fc485a576847f80196bb2f407e7c02ff1d18c499336cd59",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/21020/Dundas__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "21020",
+  "timestamp": "2026-05-24T23:38:07.662385Z",
+  "version": 1
+}

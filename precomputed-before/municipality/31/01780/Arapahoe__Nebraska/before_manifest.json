@@ -1,0 +1,16 @@
+{
+  "article": "Arapahoe,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/01780/Arapahoe__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "214e681ef25b21238b45c9c4943b8233e3e5b758da7694f555dcb909c161d316",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "214e681ef25b21238b45c9c4943b8233e3e5b758da7694f555dcb909c161d316",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/01780/Arapahoe__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "01780",
+  "timestamp": "2026-05-24T23:55:08.188163Z",
+  "version": 1
+}

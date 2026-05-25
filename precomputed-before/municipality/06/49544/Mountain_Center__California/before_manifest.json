@@ -1,0 +1,16 @@
+{
+  "article": "Mountain_Center,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/49544/Mountain_Center__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cdfb8a406d947c17a87d2418f6e11faf7426280a09119b3890b35b0819d49af7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cdfb8a406d947c17a87d2418f6e11faf7426280a09119b3890b35b0819d49af7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/49544/Mountain_Center__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "49544",
+  "timestamp": "2026-05-24T23:34:40.985092Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Lowman,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/48250/Lowman__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a789f6434cf21e97212aa2564cbbfdc7d07c1e66260e7657659ca13aeb6c39db",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a789f6434cf21e97212aa2564cbbfdc7d07c1e66260e7657659ca13aeb6c39db",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/48250/Lowman__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "48250",
+  "timestamp": "2026-05-24T23:37:24.203539Z",
+  "version": 1
+}

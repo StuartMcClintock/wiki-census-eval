@@ -1,0 +1,16 @@
+{
+  "article": "East_Uniontown,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/21960/East_Uniontown__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "12adb37f0620adb09dbeb940150bdc50e66af8e763cac111650e67f879d4f1ca",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "12adb37f0620adb09dbeb940150bdc50e66af8e763cac111650e67f879d4f1ca",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/21960/East_Uniontown__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "21960",
+  "timestamp": "2026-05-25T00:07:00.481867Z",
+  "version": 1
+}

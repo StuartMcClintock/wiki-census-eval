@@ -1,0 +1,16 @@
+{
+  "article": "Tuleta,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/73856/Tuleta__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d343ce2beca5a7b9c38d736fcb59196a4f98e04c10109399ed4ec5a439d7d59d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d343ce2beca5a7b9c38d736fcb59196a4f98e04c10109399ed4ec5a439d7d59d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/73856/Tuleta__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "73856",
+  "timestamp": "2026-05-25T00:16:45.114241Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Jolley,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/39900/Jolley__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2e53e40ad1ad3df9e92084b4374f4261aad0d529511a561e30f836d100838baa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2e53e40ad1ad3df9e92084b4374f4261aad0d529511a561e30f836d100838baa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/39900/Jolley__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "39900",
+  "timestamp": "2026-05-24T23:41:14.004021Z",
+  "version": 1
+}

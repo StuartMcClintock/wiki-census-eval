@@ -1,0 +1,16 @@
+{
+  "article": "Phillipstown,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/59520/Phillipstown__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f2fbd2c6bbed44c441c9a52f4025ffe10e128677819c4d981d8577681c6aa754",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f2fbd2c6bbed44c441c9a52f4025ffe10e128677819c4d981d8577681c6aa754",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/59520/Phillipstown__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "59520",
+  "timestamp": "2026-05-24T23:39:02.065850Z",
+  "version": 1
+}

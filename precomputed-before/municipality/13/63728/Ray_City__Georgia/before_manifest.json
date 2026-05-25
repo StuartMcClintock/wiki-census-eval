@@ -1,0 +1,16 @@
+{
+  "article": "Ray_City,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/63728/Ray_City__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d17d231409461d5d51843225139f99f5352608a4bc6ab1f7772b61040b7b0c5d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d17d231409461d5d51843225139f99f5352608a4bc6ab1f7772b61040b7b0c5d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/63728/Ray_City__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "63728",
+  "timestamp": "2026-05-24T23:37:04.686454Z",
+  "version": 1
+}

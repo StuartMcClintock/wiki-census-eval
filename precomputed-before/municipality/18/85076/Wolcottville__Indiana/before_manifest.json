@@ -1,0 +1,16 @@
+{
+  "article": "Wolcottville,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/85076/Wolcottville__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9355f0dfbddbf9029d415d461684e3bdaca17cd037c84112d995a0f4eacf454d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9355f0dfbddbf9029d415d461684e3bdaca17cd037c84112d995a0f4eacf454d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/85076/Wolcottville__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "85076",
+  "timestamp": "2026-05-24T23:40:20.153166Z",
+  "version": 1
+}

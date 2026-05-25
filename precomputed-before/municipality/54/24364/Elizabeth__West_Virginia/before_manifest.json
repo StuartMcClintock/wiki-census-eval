@@ -1,0 +1,16 @@
+{
+  "article": "Elizabeth,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/24364/Elizabeth__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ecdfe017ada3eefc6ab944524372c5b9d54905ba54a97575be7d51cc9f1174dd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ecdfe017ada3eefc6ab944524372c5b9d54905ba54a97575be7d51cc9f1174dd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/24364/Elizabeth__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "24364",
+  "timestamp": "2026-05-25T00:21:05.119152Z",
+  "version": 1
+}

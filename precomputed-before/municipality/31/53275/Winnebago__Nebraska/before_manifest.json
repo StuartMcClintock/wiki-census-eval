@@ -1,0 +1,16 @@
+{
+  "article": "Winnebago,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/53275/Winnebago__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d35be20dbc165d50cd00583ca4b31c7f2a512a981568c4e2472742a7de342613",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d35be20dbc165d50cd00583ca4b31c7f2a512a981568c4e2472742a7de342613",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/53275/Winnebago__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "53275",
+  "timestamp": "2026-05-24T23:57:25.532876Z",
+  "version": 1
+}

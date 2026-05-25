@@ -1,0 +1,16 @@
+{
+  "article": "Cisne,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/14455/Cisne__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "050e195c6a0007e0caba8d1935e72469d4ee0c5753fddd3d424d38998f0dcc7d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "050e195c6a0007e0caba8d1935e72469d4ee0c5753fddd3d424d38998f0dcc7d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/14455/Cisne__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "14455",
+  "timestamp": "2026-05-24T23:38:00.773066Z",
+  "version": 1
+}

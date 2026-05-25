@@ -1,0 +1,16 @@
+{
+  "article": "Bassett,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/04872/Bassett__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ff83cf759287d7b086daec1d3c5e42369442cba368fe38e3ac8a15323fc1bb40",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ff83cf759287d7b086daec1d3c5e42369442cba368fe38e3ac8a15323fc1bb40",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/04872/Bassett__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "04872",
+  "timestamp": "2026-05-25T00:17:33.909353Z",
+  "version": 1
+}

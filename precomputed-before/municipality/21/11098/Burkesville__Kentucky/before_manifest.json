@@ -1,0 +1,16 @@
+{
+  "article": "Burkesville,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/11098/Burkesville__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0c5c4792b12a3e1463001f1cb97dd8cb71a4aef80cf7e01baaf8c1d9efe581fa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0c5c4792b12a3e1463001f1cb97dd8cb71a4aef80cf7e01baaf8c1d9efe581fa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/11098/Burkesville__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "11098",
+  "timestamp": "2026-05-24T23:43:45.746177Z",
+  "version": 1
+}

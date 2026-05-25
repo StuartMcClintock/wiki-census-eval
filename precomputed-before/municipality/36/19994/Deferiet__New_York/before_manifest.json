@@ -1,0 +1,16 @@
+{
+  "article": "Deferiet,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/19994/Deferiet__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8e89e26b35dc8d16683e6104c5805922064a501fa6ec53b683790212e5aa291b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8e89e26b35dc8d16683e6104c5805922064a501fa6ec53b683790212e5aa291b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/19994/Deferiet__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "19994",
+  "timestamp": "2026-05-25T00:00:39.246218Z",
+  "version": 1
+}

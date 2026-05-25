@@ -1,0 +1,16 @@
+{
+  "article": "Nunda,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/46060/Nunda__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fd202045481fcc2b57e3239e86624240122cb475a1e9fab0e7ea4c6e899a9d46",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fd202045481fcc2b57e3239e86624240122cb475a1e9fab0e7ea4c6e899a9d46",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/46060/Nunda__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "46060",
+  "timestamp": "2026-05-25T00:11:05.881670Z",
+  "version": 1
+}

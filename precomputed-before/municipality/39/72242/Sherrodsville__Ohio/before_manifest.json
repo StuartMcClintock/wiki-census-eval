@@ -1,0 +1,16 @@
+{
+  "article": "Sherrodsville,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/72242/Sherrodsville__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4a9f56fbf5ba0a6af82a7097cceab0fb5a3b72da6f773d8cf522db023f261581",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4a9f56fbf5ba0a6af82a7097cceab0fb5a3b72da6f773d8cf522db023f261581",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/72242/Sherrodsville__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "72242",
+  "timestamp": "2026-05-25T00:05:27.136848Z",
+  "version": 1
+}

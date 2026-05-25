@@ -1,0 +1,16 @@
+{
+  "article": "Joice,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/39855/Joice__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "115f321e8fa0ee5d20cae01a8444bb642a1e6aeb5a977c3deb7e665ef1aff3b4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "115f321e8fa0ee5d20cae01a8444bb642a1e6aeb5a977c3deb7e665ef1aff3b4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/39855/Joice__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "39855",
+  "timestamp": "2026-05-24T23:41:13.896722Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Fairburn,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/20340/Fairburn__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1394e9033f71fcf4e0cc0fb9ab46d779a5115ac3a35a12fe937d655b26f21569",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1394e9033f71fcf4e0cc0fb9ab46d779a5115ac3a35a12fe937d655b26f21569",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/20340/Fairburn__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "20340",
+  "timestamp": "2026-05-25T00:10:37.700238Z",
+  "version": 1
+}

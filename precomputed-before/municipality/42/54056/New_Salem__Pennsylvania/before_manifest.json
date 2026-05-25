@@ -1,0 +1,16 @@
+{
+  "article": "New_Salem,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/54056/New_Salem__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "79e1c1f9f075a5f221970bc2858a64b8f3230e7006e725cb0c4cc137b459841a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "79e1c1f9f075a5f221970bc2858a64b8f3230e7006e725cb0c4cc137b459841a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/54056/New_Salem__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "54056",
+  "timestamp": "2026-05-25T00:08:17.927884Z",
+  "version": 1
+}

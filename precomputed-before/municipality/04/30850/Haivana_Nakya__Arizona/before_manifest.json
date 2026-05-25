@@ -1,0 +1,16 @@
+{
+  "article": "Haivana_Nakya,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/30850/Haivana_Nakya__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9cc88d22652f7989b5be516a0c739d0e071a33e63f40c7bd47d216aadbd7550f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9cc88d22652f7989b5be516a0c739d0e071a33e63f40c7bd47d216aadbd7550f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/30850/Haivana_Nakya__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "30850",
+  "timestamp": "2026-05-24T23:32:56.135861Z",
+  "version": 1
+}

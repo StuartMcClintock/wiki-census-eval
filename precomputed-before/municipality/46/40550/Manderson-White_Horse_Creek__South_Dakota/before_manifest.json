@@ -1,0 +1,16 @@
+{
+  "article": "Manderson-White_Horse_Creek,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/40550/Manderson-White_Horse_Creek__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ee8ef48f0572489552817c1b03db7d5cb7cd10ff0386a1f93201a608effdec14",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ee8ef48f0572489552817c1b03db7d5cb7cd10ff0386a1f93201a608effdec14",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/40550/Manderson-White_Horse_Creek__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "40550",
+  "timestamp": "2026-05-25T00:11:02.244269Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Perkins,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/57044/Perkins__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e2850d039d937408393715a300338cd0a4524ed16ca4e1de5a5a7120bc404c7c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e2850d039d937408393715a300338cd0a4524ed16ca4e1de5a5a7120bc404c7c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/57044/Perkins__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "57044",
+  "timestamp": "2026-05-24T23:53:41.122783Z",
+  "version": 1
+}

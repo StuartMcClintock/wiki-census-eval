@@ -1,0 +1,16 @@
+{
+  "article": "Seven_Fields,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/69309/Seven_Fields__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2139ec43feebe06402e0c601732532931c8da87598ffc562b830cdb3638a1f0f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2139ec43feebe06402e0c601732532931c8da87598ffc562b830cdb3638a1f0f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/69309/Seven_Fields__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "69309",
+  "timestamp": "2026-05-25T00:08:59.183638Z",
+  "version": 1
+}

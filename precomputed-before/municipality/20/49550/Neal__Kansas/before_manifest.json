@@ -1,0 +1,16 @@
+{
+  "article": "Neal,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/49550/Neal__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "159f86f34ae103fede540f063b0bc531516dc0e412159ea68044e32c7a6eaa34",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "159f86f34ae103fede540f063b0bc531516dc0e412159ea68044e32c7a6eaa34",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/49550/Neal__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "49550",
+  "timestamp": "2026-05-24T23:43:13.002617Z",
+  "version": 1
+}

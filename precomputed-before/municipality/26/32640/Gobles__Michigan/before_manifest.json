@@ -1,0 +1,16 @@
+{
+  "article": "Gobles,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/32640/Gobles__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ac40da156d2904ba9ee2c9455010f3dd3b7a624a46b9acccef2193e6d29172ee",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ac40da156d2904ba9ee2c9455010f3dd3b7a624a46b9acccef2193e6d29172ee",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/32640/Gobles__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "32640",
+  "timestamp": "2026-05-24T23:47:56.667633Z",
+  "version": 1
+}

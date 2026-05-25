@@ -1,0 +1,16 @@
+{
+  "article": "Friday_Harbor,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/25615/Friday_Harbor__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "449502f8152b13a86a78983184585b629b1cb28c960bcace88bb911b36b058aa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "449502f8152b13a86a78983184585b629b1cb28c960bcace88bb911b36b058aa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/25615/Friday_Harbor__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "25615",
+  "timestamp": "2026-05-25T00:20:13.228658Z",
+  "version": 1
+}

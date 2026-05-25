@@ -1,0 +1,16 @@
+{
+  "article": "Clay_City,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/15238/Clay_City__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1ade91f0af20578793eda68f82d409cffb045debe09635e5c6297659b9ff5de8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1ade91f0af20578793eda68f82d409cffb045debe09635e5c6297659b9ff5de8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/15238/Clay_City__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "15238",
+  "timestamp": "2026-05-24T23:43:48.024981Z",
+  "version": 1
+}

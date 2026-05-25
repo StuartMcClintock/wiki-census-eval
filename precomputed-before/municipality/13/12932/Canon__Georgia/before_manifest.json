@@ -1,0 +1,16 @@
+{
+  "article": "Canon,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/12932/Canon__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e467bc6cd1ade9406e9d1b5cf4cacaffa97ed4d013b921070ade6213d9258bd3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e467bc6cd1ade9406e9d1b5cf4cacaffa97ed4d013b921070ade6213d9258bd3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/12932/Canon__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "12932",
+  "timestamp": "2026-05-24T23:36:30.917959Z",
+  "version": 1
+}

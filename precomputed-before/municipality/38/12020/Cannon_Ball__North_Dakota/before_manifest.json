@@ -1,0 +1,16 @@
+{
+  "article": "Cannon_Ball,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/12020/Cannon_Ball__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "af3d96369239c43d1f7a5616ea9f3710e1d8938a18f03adc012561f1f8c9d586",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "af3d96369239c43d1f7a5616ea9f3710e1d8938a18f03adc012561f1f8c9d586",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/12020/Cannon_Ball__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "12020",
+  "timestamp": "2026-05-25T00:02:37.362333Z",
+  "version": 1
+}

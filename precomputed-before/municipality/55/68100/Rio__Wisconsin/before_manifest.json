@@ -1,0 +1,16 @@
+{
+  "article": "Rio,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/68100/Rio__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8718de7e2a8ea60a96bc7131648f2c4a30e89d72793f202ad899862d08780ef7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8718de7e2a8ea60a96bc7131648f2c4a30e89d72793f202ad899862d08780ef7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/68100/Rio__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "68100",
+  "timestamp": "2026-05-25T00:22:38.959618Z",
+  "version": 1
+}

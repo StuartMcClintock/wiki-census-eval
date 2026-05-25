@@ -1,0 +1,16 @@
+{
+  "article": "Hillcrest_Colony,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/29116/Hillcrest_Colony__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dc6eb174bb7d44cec8f1b33574aa3b022d16635914a59123b445067b646434f2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dc6eb174bb7d44cec8f1b33574aa3b022d16635914a59123b445067b646434f2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/29116/Hillcrest_Colony__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "29116",
+  "timestamp": "2026-05-25T00:10:41.826868Z",
+  "version": 1
+}

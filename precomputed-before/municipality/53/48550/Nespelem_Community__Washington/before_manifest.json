@@ -1,0 +1,16 @@
+{
+  "article": "Nespelem_Community,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/48550/Nespelem_Community__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "05e3cf625d37cebc1f783dcaf680763d91cf95d15eeef6b43bce882db74ebb60",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "05e3cf625d37cebc1f783dcaf680763d91cf95d15eeef6b43bce882db74ebb60",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/48550/Nespelem_Community__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "48550",
+  "timestamp": "2026-05-25T00:20:25.104648Z",
+  "version": 1
+}

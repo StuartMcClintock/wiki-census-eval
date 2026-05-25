@@ -1,0 +1,16 @@
+{
+  "article": "Chester_Hill,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/13240/Chester_Hill__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4765957e1c207ae048b8b5e42c611a6523de0f29fc9ed1e30b2eaa380e0992bc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4765957e1c207ae048b8b5e42c611a6523de0f29fc9ed1e30b2eaa380e0992bc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/13240/Chester_Hill__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "13240",
+  "timestamp": "2026-05-25T00:06:40.349187Z",
+  "version": 1
+}

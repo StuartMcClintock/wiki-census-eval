@@ -1,0 +1,16 @@
+{
+  "article": "Winnsboro_Mills,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/78505/Winnsboro_Mills__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "67f51816876770a514ed0c1669950a8730601d41884141fbe6a92c13acc33aa2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "67f51816876770a514ed0c1669950a8730601d41884141fbe6a92c13acc33aa2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/78505/Winnsboro_Mills__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "78505",
+  "timestamp": "2026-05-25T00:10:28.241266Z",
+  "version": 1
+}

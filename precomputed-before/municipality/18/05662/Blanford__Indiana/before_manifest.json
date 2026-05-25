@@ -1,0 +1,16 @@
+{
+  "article": "Blanford,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/05662/Blanford__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "445d2e4a491e4f3e039a2c3da9dc5498a2ae15cb5cc302f2d77d7314a1db1dcf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "445d2e4a491e4f3e039a2c3da9dc5498a2ae15cb5cc302f2d77d7314a1db1dcf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/05662/Blanford__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "05662",
+  "timestamp": "2026-05-24T23:39:26.383726Z",
+  "version": 1
+}

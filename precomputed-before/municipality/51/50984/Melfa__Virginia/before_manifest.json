@@ -1,0 +1,16 @@
+{
+  "article": "Melfa,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/50984/Melfa__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "001ae6a573b332b0afade39318c8a46dd1abc139df4ad3f96ebfbd8363ce0bff",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "001ae6a573b332b0afade39318c8a46dd1abc139df4ad3f96ebfbd8363ce0bff",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/50984/Melfa__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "50984",
+  "timestamp": "2026-05-25T00:19:25.695960Z",
+  "version": 1
+}

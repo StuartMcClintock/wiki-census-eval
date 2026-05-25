@@ -1,0 +1,16 @@
+{
+  "article": "Queenstown,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/64600/Queenstown__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bf48e61e4857b1b83b6e54cef14f69142b5bf013435f6fd9fc599d4d19219911",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bf48e61e4857b1b83b6e54cef14f69142b5bf013435f6fd9fc599d4d19219911",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/64600/Queenstown__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "64600",
+  "timestamp": "2026-05-24T23:47:31.965260Z",
+  "version": 1
+}

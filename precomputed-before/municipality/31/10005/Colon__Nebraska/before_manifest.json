@@ -1,0 +1,16 @@
+{
+  "article": "Colon,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/10005/Colon__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d3947ff9919b0651062843dacfb1c72d2fee04a2f39f018903aa8adf638c8fc3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d3947ff9919b0651062843dacfb1c72d2fee04a2f39f018903aa8adf638c8fc3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/10005/Colon__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "10005",
+  "timestamp": "2026-05-24T23:55:18.777938Z",
+  "version": 1
+}

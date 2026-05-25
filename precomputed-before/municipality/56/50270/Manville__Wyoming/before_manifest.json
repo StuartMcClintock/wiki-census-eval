@@ -1,0 +1,16 @@
+{
+  "article": "Manville,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/50270/Manville__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "24d376dac3b297eb64a907b05ab169e6510afc96b198ddc508010da008801790",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "24d376dac3b297eb64a907b05ab169e6510afc96b198ddc508010da008801790",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/50270/Manville__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "50270",
+  "timestamp": "2026-05-25T00:23:18.765464Z",
+  "version": 1
+}

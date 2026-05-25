@@ -1,0 +1,16 @@
+{
+  "article": "Castleberry,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/12496/Castleberry__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6446a2c5eb60a4989581aa20049c3332efd26e81d407d77c50d142f5b0b74b56",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6446a2c5eb60a4989581aa20049c3332efd26e81d407d77c50d142f5b0b74b56",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/12496/Castleberry__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "12496",
+  "timestamp": "2026-05-24T23:31:51.340931Z",
+  "version": 1
+}

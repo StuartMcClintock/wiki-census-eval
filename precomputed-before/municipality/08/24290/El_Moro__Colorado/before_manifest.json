@@ -1,0 +1,16 @@
+{
+  "article": "El_Moro,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/24290/El_Moro__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f3889c57bfb5c1c3ffea55c8e53d7b5976adf4c87328da1447f2f6af64c168b8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f3889c57bfb5c1c3ffea55c8e53d7b5976adf4c87328da1447f2f6af64c168b8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/24290/El_Moro__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "24290",
+  "timestamp": "2026-05-24T23:35:24.814931Z",
+  "version": 1
+}

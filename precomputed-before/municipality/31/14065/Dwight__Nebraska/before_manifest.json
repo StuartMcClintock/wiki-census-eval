@@ -1,0 +1,16 @@
+{
+  "article": "Dwight,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/14065/Dwight__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cd78dc6ee261ed14b2887613b12840d147a92398ff6c27d9955c29b1258c336b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cd78dc6ee261ed14b2887613b12840d147a92398ff6c27d9955c29b1258c336b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/14065/Dwight__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "14065",
+  "timestamp": "2026-05-24T23:55:23.744654Z",
+  "version": 1
+}

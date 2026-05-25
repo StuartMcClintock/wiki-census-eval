@@ -1,0 +1,16 @@
+{
+  "article": "Lakemont,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/40992/Lakemont__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f9b6afdaa595c1a2bb133939d28c5f3928115bd5dadbd533b60eb9d519355978",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f9b6afdaa595c1a2bb133939d28c5f3928115bd5dadbd533b60eb9d519355978",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/40992/Lakemont__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "40992",
+  "timestamp": "2026-05-25T00:07:47.245300Z",
+  "version": 1
+}

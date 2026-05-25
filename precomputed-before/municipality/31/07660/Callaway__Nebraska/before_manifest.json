@@ -1,0 +1,16 @@
+{
+  "article": "Callaway,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/07660/Callaway__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ce41287c1f1b4784f292b72dfa982fc28643250ae5ff901a92952e84600f5308",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ce41287c1f1b4784f292b72dfa982fc28643250ae5ff901a92952e84600f5308",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/07660/Callaway__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "07660",
+  "timestamp": "2026-05-24T23:55:16.046332Z",
+  "version": 1
+}

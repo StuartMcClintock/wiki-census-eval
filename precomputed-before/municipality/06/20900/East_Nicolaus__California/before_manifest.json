@@ -1,0 +1,16 @@
+{
+  "article": "East_Nicolaus,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/20900/East_Nicolaus__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ff94803726d97c98725ff14b8b8611c04b039d825080b1df20265844d5116b4a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ff94803726d97c98725ff14b8b8611c04b039d825080b1df20265844d5116b4a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/20900/East_Nicolaus__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "20900",
+  "timestamp": "2026-05-24T23:34:19.914763Z",
+  "version": 1
+}

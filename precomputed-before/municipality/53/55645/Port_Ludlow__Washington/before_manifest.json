@@ -1,0 +1,16 @@
+{
+  "article": "Port_Ludlow,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/55645/Port_Ludlow__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aa0720432d5af6cdfad16eb6793b868b3fee63b21d8e5adeec992e203756af07",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aa0720432d5af6cdfad16eb6793b868b3fee63b21d8e5adeec992e203756af07",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/55645/Port_Ludlow__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "55645",
+  "timestamp": "2026-05-25T00:20:28.859543Z",
+  "version": 1
+}

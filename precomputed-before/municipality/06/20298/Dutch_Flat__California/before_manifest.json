@@ -1,0 +1,16 @@
+{
+  "article": "Dutch_Flat,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/20298/Dutch_Flat__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "933ebcf3385e0d98621da4e14538008b6e5078fd8ab8a44320b57982f981d92f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "933ebcf3385e0d98621da4e14538008b6e5078fd8ab8a44320b57982f981d92f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/20298/Dutch_Flat__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "20298",
+  "timestamp": "2026-05-24T23:34:19.722038Z",
+  "version": 1
+}

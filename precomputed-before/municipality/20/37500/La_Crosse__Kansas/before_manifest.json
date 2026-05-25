@@ -1,0 +1,16 @@
+{
+  "article": "La_Crosse,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/37500/La_Crosse__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d43818dad0e1bdf4b7bf3e676b3600d51c6795b6f00df54f64fab0be75294d81",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d43818dad0e1bdf4b7bf3e676b3600d51c6795b6f00df54f64fab0be75294d81",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/37500/La_Crosse__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "37500",
+  "timestamp": "2026-05-24T23:42:52.030647Z",
+  "version": 1
+}

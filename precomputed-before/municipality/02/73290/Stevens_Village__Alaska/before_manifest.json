@@ -1,0 +1,16 @@
+{
+  "article": "Stevens_Village,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/73290/Stevens_Village__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2ae8d6e1c86a699a26a3cf039d8a3b662d3bae95eb4f53317fa045a1f34a0c8f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2ae8d6e1c86a699a26a3cf039d8a3b662d3bae95eb4f53317fa045a1f34a0c8f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/73290/Stevens_Village__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "73290",
+  "timestamp": "2026-05-24T23:32:44.068931Z",
+  "version": 1
+}

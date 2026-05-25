@@ -1,0 +1,16 @@
+{
+  "article": "Hobson,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/36700/Hobson__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "27fd945566f22d2da5d508233236f12ff196d426f62274785f7a796c0de2cc00",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "27fd945566f22d2da5d508233236f12ff196d426f62274785f7a796c0de2cc00",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/36700/Hobson__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "36700",
+  "timestamp": "2026-05-24T23:54:30.592252Z",
+  "version": 1
+}

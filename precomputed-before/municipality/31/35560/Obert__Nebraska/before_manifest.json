@@ -1,0 +1,16 @@
+{
+  "article": "Obert,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/35560/Obert__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ab4b84c8c10a4d38cedc7418842bb9874ac894e5f55ce2d3f37d117019c71f5c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ab4b84c8c10a4d38cedc7418842bb9874ac894e5f55ce2d3f37d117019c71f5c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/35560/Obert__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "35560",
+  "timestamp": "2026-05-24T23:55:56.893486Z",
+  "version": 1
+}

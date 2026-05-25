@@ -1,0 +1,16 @@
+{
+  "article": "Chicopee,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/13100/Chicopee__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e42f80e26287999e9e9e91eb1faa176bad82bbe98645470690f4c3c0fcc360cb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e42f80e26287999e9e9e91eb1faa176bad82bbe98645470690f4c3c0fcc360cb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/13100/Chicopee__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "13100",
+  "timestamp": "2026-05-24T23:42:28.017010Z",
+  "version": 1
+}

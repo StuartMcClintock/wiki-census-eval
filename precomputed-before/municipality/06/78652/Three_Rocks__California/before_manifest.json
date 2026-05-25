@@ -1,0 +1,16 @@
+{
+  "article": "Three_Rocks,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/78652/Three_Rocks__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ada34fb586e00aea94a439269a6af9f935c0ed55a3f9c5f700257cbac1cc0cfb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ada34fb586e00aea94a439269a6af9f935c0ed55a3f9c5f700257cbac1cc0cfb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/78652/Three_Rocks__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "78652",
+  "timestamp": "2026-05-24T23:35:09.452900Z",
+  "version": 1
+}

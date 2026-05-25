@@ -1,0 +1,16 @@
+{
+  "article": "Conashaugh_Lakes,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/15479/Conashaugh_Lakes__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6ce0e65af925487eb35b362354bd90aa204ce07e1a84341ad9c294a81c6e0fcb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6ce0e65af925487eb35b362354bd90aa204ce07e1a84341ad9c294a81c6e0fcb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/15479/Conashaugh_Lakes__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "15479",
+  "timestamp": "2026-05-25T00:06:45.127488Z",
+  "version": 1
+}

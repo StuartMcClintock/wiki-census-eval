@@ -1,0 +1,16 @@
+{
+  "article": "McAlisterville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/45848/McAlisterville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "23286d2a8cf6a5c83093c4af91c35a58830f34efbc3c78839c54e566d525761f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "23286d2a8cf6a5c83093c4af91c35a58830f34efbc3c78839c54e566d525761f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/45848/McAlisterville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "45848",
+  "timestamp": "2026-05-25T00:07:55.168930Z",
+  "version": 1
+}

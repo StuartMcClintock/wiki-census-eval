@@ -1,0 +1,16 @@
+{
+  "article": "Old_Bennington,_Vermont",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/50/53125/Old_Bennington__Vermont/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c01214bb306724ceb5a951001b526bf99f26004ad285a05c005a5cbe40d30350",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c01214bb306724ceb5a951001b526bf99f26004ad285a05c005a5cbe40d30350",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/50/53125/Old_Bennington__Vermont/manifest.json",
+  "state_fips": "50",
+  "status": "match",
+  "target_fips": "53125",
+  "timestamp": "2026-05-25T00:17:17.418557Z",
+  "version": 1
+}

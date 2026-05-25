@@ -1,0 +1,16 @@
+{
+  "article": "Verdon,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/50510/Verdon__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c81a7f04643c4d2636d2f38ed92f3fb9d8b4b159dde4d121777bc4b00aec8853",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c81a7f04643c4d2636d2f38ed92f3fb9d8b4b159dde4d121777bc4b00aec8853",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/50510/Verdon__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "50510",
+  "timestamp": "2026-05-24T23:57:22.859531Z",
+  "version": 1
+}

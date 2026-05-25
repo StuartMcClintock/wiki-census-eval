@@ -1,0 +1,16 @@
+{
+  "article": "Puckett,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/60360/Puckett__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0ad39482fea733596ff28aa4c50f7e1156fe6a1a3fe1c180ac448b408815a96d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0ad39482fea733596ff28aa4c50f7e1156fe6a1a3fe1c180ac448b408815a96d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/60360/Puckett__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "60360",
+  "timestamp": "2026-05-24T23:50:21.146765Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "South_Cleveland,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/69740/South_Cleveland__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e7b62440b40c794055b8f2568791046ae0cce591a9fae406d941d23cf7384909",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e7b62440b40c794055b8f2568791046ae0cce591a9fae406d941d23cf7384909",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/69740/South_Cleveland__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "69740",
+  "timestamp": "2026-05-25T00:14:54.485542Z",
+  "version": 1
+}

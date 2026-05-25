@@ -1,0 +1,16 @@
+{
+  "article": "Oakville,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/53196/Oakville__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "26f178d0b51fa277ce0c375fa4d9c9b88effe1a7af2948cf3a3ee26a8a26f97a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "26f178d0b51fa277ce0c375fa4d9c9b88effe1a7af2948cf3a3ee26a8a26f97a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/53196/Oakville__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "53196",
+  "timestamp": "2026-05-24T23:34:43.769727Z",
+  "version": 1
+}

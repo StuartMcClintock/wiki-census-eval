@@ -1,0 +1,16 @@
+{
+  "article": "Roadstown,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/63810/Roadstown__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "31301b1152d3e0d3685a6997cd8cfb91dfb35569c44bde2c4a164e9163e1bc03",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "31301b1152d3e0d3685a6997cd8cfb91dfb35569c44bde2c4a164e9163e1bc03",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/63810/Roadstown__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "63810",
+  "timestamp": "2026-05-24T23:57:59.910357Z",
+  "version": 1
+}

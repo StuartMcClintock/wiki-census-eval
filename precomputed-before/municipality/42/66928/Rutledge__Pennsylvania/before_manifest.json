@@ -1,0 +1,16 @@
+{
+  "article": "Rutledge,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/66928/Rutledge__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "855269c015f02f92a5ff9c5bbc37b3a91f72d8de53d1f7e069f16b9a97fe63c8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "855269c015f02f92a5ff9c5bbc37b3a91f72d8de53d1f7e069f16b9a97fe63c8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/66928/Rutledge__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "66928",
+  "timestamp": "2026-05-25T00:08:55.014039Z",
+  "version": 1
+}

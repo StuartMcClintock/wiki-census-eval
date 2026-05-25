@@ -1,0 +1,16 @@
+{
+  "article": "Oakwood,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/53894/Oakwood__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fd0ce966e5aa1bb51a21377ad385371c02092e63c7a677c9468819405edb6dac",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fd0ce966e5aa1bb51a21377ad385371c02092e63c7a677c9468819405edb6dac",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/53894/Oakwood__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "53894",
+  "timestamp": "2026-05-24T23:53:37.752980Z",
+  "version": 1
+}

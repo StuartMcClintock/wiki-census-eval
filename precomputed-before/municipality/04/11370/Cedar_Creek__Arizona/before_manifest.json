@@ -1,0 +1,16 @@
+{
+  "article": "Cedar_Creek,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/11370/Cedar_Creek__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "726e8a4f6c5c0faa4771ef374d7f54f28fc86fed95dc0d68e6a8f8fe09ff570e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "726e8a4f6c5c0faa4771ef374d7f54f28fc86fed95dc0d68e6a8f8fe09ff570e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/11370/Cedar_Creek__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "11370",
+  "timestamp": "2026-05-24T23:32:50.060749Z",
+  "version": 1
+}

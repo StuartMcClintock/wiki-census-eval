@@ -1,0 +1,16 @@
+{
+  "article": "Greybull,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/33885/Greybull__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a5a983a1963f9d51df2a7f5f0e52f23a35b03aee3a56b974e2fc6fb09aca2b47",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a5a983a1963f9d51df2a7f5f0e52f23a35b03aee3a56b974e2fc6fb09aca2b47",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/33885/Greybull__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "33885",
+  "timestamp": "2026-05-25T00:23:14.668589Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "McCracken,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/43700/McCracken__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8334b73af352b33f19e1081f86b7c448f24895c8c24ab1342088b31593d90ddc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8334b73af352b33f19e1081f86b7c448f24895c8c24ab1342088b31593d90ddc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/43700/McCracken__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "43700",
+  "timestamp": "2026-05-24T23:43:06.251245Z",
+  "version": 1
+}

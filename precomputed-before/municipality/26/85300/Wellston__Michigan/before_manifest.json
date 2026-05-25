@@ -1,0 +1,16 @@
+{
+  "article": "Wellston,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/85300/Wellston__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "256c6fb6a4f6bf16d68d2ad6b1ab4b8d741ea103a3ad781cd6fffb1ff8fb6f2b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "256c6fb6a4f6bf16d68d2ad6b1ab4b8d741ea103a3ad781cd6fffb1ff8fb6f2b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/85300/Wellston__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "85300",
+  "timestamp": "2026-05-24T23:48:32.776441Z",
+  "version": 1
+}

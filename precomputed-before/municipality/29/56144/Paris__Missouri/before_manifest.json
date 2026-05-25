@@ -1,0 +1,16 @@
+{
+  "article": "Paris,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/56144/Paris__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e91436274153382a243b42f2f51427e0b1c51d373b65e256962f236156eaeae3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e91436274153382a243b42f2f51427e0b1c51d373b65e256962f236156eaeae3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/56144/Paris__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "56144",
+  "timestamp": "2026-05-24T23:53:39.470282Z",
+  "version": 1
+}

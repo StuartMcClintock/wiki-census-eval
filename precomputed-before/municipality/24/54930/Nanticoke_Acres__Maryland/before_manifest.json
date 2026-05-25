@@ -1,0 +1,16 @@
+{
+  "article": "Nanticoke_Acres,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/54930/Nanticoke_Acres__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ea3cfbfa973a0e07b8df425ee069134146e4d32b9bd48111f9208ddf9ef31e55",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ea3cfbfa973a0e07b8df425ee069134146e4d32b9bd48111f9208ddf9ef31e55",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/54930/Nanticoke_Acres__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "54930",
+  "timestamp": "2026-05-24T23:47:28.852280Z",
+  "version": 1
+}

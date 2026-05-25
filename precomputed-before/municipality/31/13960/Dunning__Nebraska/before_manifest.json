@@ -1,0 +1,16 @@
+{
+  "article": "Dunning,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/13960/Dunning__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "072de2d0ae1e7c1a65de92d04723029d391840d7a1b407164c5c2cafa9fd0106",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "072de2d0ae1e7c1a65de92d04723029d391840d7a1b407164c5c2cafa9fd0106",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/13960/Dunning__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "13960",
+  "timestamp": "2026-05-24T23:55:23.631496Z",
+  "version": 1
+}

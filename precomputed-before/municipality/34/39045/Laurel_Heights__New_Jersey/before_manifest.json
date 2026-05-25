@@ -1,0 +1,16 @@
+{
+  "article": "Laurel_Heights,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/39045/Laurel_Heights__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "db9493b58013b2a043be6f634551e3628fa3cbdcae3764b61eb37556edaed394",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "db9493b58013b2a043be6f634551e3628fa3cbdcae3764b61eb37556edaed394",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/39045/Laurel_Heights__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "39045",
+  "timestamp": "2026-05-24T23:57:52.759600Z",
+  "version": 1
+}

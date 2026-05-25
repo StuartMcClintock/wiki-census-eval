@@ -1,0 +1,16 @@
+{
+  "article": "Taylorsville,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/75104/Taylorsville__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b45c6ea66a61a4c06242fec281491f74fcdac6bd3c9800b412667439f50c6872",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b45c6ea66a61a4c06242fec281491f74fcdac6bd3c9800b412667439f50c6872",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/75104/Taylorsville__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "75104",
+  "timestamp": "2026-05-24T23:40:15.781314Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Ward,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/82735/Ward__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b1c6ffbbc36372148cbf83ae834630398c3e897db61eafc474e4f8d2b4f1ba47",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b1c6ffbbc36372148cbf83ae834630398c3e897db61eafc474e4f8d2b4f1ba47",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/82735/Ward__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "82735",
+  "timestamp": "2026-05-24T23:35:55.283869Z",
+  "version": 1
+}

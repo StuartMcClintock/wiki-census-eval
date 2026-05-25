@@ -1,0 +1,16 @@
+{
+  "article": "West_Liberty,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/83734/West_Liberty__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "169e56453f4c6df147d20ac29d060f3a22bb40cbbf95cbf7cccda7bcb1785dad",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "169e56453f4c6df147d20ac29d060f3a22bb40cbbf95cbf7cccda7bcb1785dad",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/83734/West_Liberty__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "83734",
+  "timestamp": "2026-05-25T00:05:37.588693Z",
+  "version": 1
+}

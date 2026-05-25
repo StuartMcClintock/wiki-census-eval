@@ -1,0 +1,16 @@
+{
+  "article": "Lewisburg,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/45064/Lewisburg__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "340a05d51591f9913f4d44bed0236efa03d065a0a991a3920931ace1f7ada530",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "340a05d51591f9913f4d44bed0236efa03d065a0a991a3920931ace1f7ada530",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/45064/Lewisburg__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "45064",
+  "timestamp": "2026-05-24T23:44:09.498587Z",
+  "version": 1
+}

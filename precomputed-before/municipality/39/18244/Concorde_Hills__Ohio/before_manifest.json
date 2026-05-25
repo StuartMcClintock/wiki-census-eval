@@ -1,0 +1,16 @@
+{
+  "article": "Concorde_Hills,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/18244/Concorde_Hills__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6bd4bea1832c9bb84c971d82bbc9d5f73f9b37d6941b3c66fc8cba0c55bbe530",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6bd4bea1832c9bb84c971d82bbc9d5f73f9b37d6941b3c66fc8cba0c55bbe530",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/18244/Concorde_Hills__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "18244",
+  "timestamp": "2026-05-25T00:03:56.543933Z",
+  "version": 1
+}

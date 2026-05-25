@@ -1,0 +1,16 @@
+{
+  "article": "Perry_Heights,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/62134/Perry_Heights__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dc079040a41e49ac0c28d50d989ceb55a6d6049f8915ec6c9c622804cc53f289",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dc079040a41e49ac0c28d50d989ceb55a6d6049f8915ec6c9c622804cc53f289",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/62134/Perry_Heights__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "62134",
+  "timestamp": "2026-05-25T00:05:04.928307Z",
+  "version": 1
+}

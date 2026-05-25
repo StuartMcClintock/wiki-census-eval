@@ -1,0 +1,16 @@
+{
+  "article": "Arlington,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/02102/Arlington__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a0f50c89f1e49db77c11568e3fd2ca714a0cc21072a0a055421123c8a5cbe852",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a0f50c89f1e49db77c11568e3fd2ca714a0cc21072a0a055421123c8a5cbe852",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/02102/Arlington__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "02102",
+  "timestamp": "2026-05-24T23:37:34.104482Z",
+  "version": 1
+}

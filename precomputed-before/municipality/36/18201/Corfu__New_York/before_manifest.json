@@ -1,0 +1,16 @@
+{
+  "article": "Corfu,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/18201/Corfu__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a6e07151efc99a30b22d126b2deae818e1a38f69a53c0df8e58b0e46415d0b40",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a6e07151efc99a30b22d126b2deae818e1a38f69a53c0df8e58b0e46415d0b40",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/18201/Corfu__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "18201",
+  "timestamp": "2026-05-25T00:00:37.785199Z",
+  "version": 1
+}

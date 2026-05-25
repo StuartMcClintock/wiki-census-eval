@@ -1,0 +1,16 @@
+{
+  "article": "La_Cygne,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/37575/La_Cygne__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4dbe28dc74643b6bd6065c0c4b8e73e3fab72ef4061166460f1d5f3d9a87a71a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4dbe28dc74643b6bd6065c0c4b8e73e3fab72ef4061166460f1d5f3d9a87a71a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/37575/La_Cygne__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "37575",
+  "timestamp": "2026-05-24T23:42:52.155895Z",
+  "version": 1
+}

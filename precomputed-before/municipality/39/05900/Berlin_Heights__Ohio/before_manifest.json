@@ -1,0 +1,16 @@
+{
+  "article": "Berlin_Heights,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/05900/Berlin_Heights__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a4dd8ee27bf1911d16c8f7264d1d611bc3662cc3ab7b5a68b0d0a6c8aa79d0a0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a4dd8ee27bf1911d16c8f7264d1d611bc3662cc3ab7b5a68b0d0a6c8aa79d0a0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/05900/Berlin_Heights__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "05900",
+  "timestamp": "2026-05-25T00:03:34.666934Z",
+  "version": 1
+}

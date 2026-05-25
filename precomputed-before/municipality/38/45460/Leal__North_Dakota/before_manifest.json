@@ -1,0 +1,16 @@
+{
+  "article": "Leal,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/45460/Leal__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "79093961d69dfa16a51c1b79c8f690f732d748403fc2d2018b34797752533577",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "79093961d69dfa16a51c1b79c8f690f732d748403fc2d2018b34797752533577",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/45460/Leal__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "45460",
+  "timestamp": "2026-05-25T00:03:08.154956Z",
+  "version": 1
+}

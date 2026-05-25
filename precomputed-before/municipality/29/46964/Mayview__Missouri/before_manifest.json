@@ -1,0 +1,16 @@
+{
+  "article": "Mayview,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/46964/Mayview__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b352d53ee56938987ea64f081208dbe80f902b7adac6d9e8661f8f2054ecd40f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b352d53ee56938987ea64f081208dbe80f902b7adac6d9e8661f8f2054ecd40f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/46964/Mayview__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "46964",
+  "timestamp": "2026-05-24T23:53:31.213769Z",
+  "version": 1
+}

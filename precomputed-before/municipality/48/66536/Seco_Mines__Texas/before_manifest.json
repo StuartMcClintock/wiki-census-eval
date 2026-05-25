@@ -1,0 +1,16 @@
+{
+  "article": "Seco_Mines,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/66536/Seco_Mines__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a38704aee590d6de43713234ee30cbcb13b5163df7e2b6ac3cd2cd1e91fda76e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a38704aee590d6de43713234ee30cbcb13b5163df7e2b6ac3cd2cd1e91fda76e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/66536/Seco_Mines__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "66536",
+  "timestamp": "2026-05-25T00:16:36.706667Z",
+  "version": 1
+}

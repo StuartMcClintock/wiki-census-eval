@@ -1,0 +1,16 @@
+{
+  "article": "Brooks,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/10150/Brooks__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0dd2285faaa88c859d8ba9e7a5c4391d06a4aec7482338a8ab43e3993b261912",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0dd2285faaa88c859d8ba9e7a5c4391d06a4aec7482338a8ab43e3993b261912",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/10150/Brooks__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "10150",
+  "timestamp": "2026-05-24T23:54:16.886459Z",
+  "version": 1
+}

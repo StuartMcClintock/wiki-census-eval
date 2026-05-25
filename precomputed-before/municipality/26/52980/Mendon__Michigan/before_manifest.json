@@ -1,0 +1,16 @@
+{
+  "article": "Mendon,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/52980/Mendon__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d4e728a7d92257a4b537831fc87d43453b392bf67c5c7551fc8242a4cd32f803",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d4e728a7d92257a4b537831fc87d43453b392bf67c5c7551fc8242a4cd32f803",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/52980/Mendon__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "52980",
+  "timestamp": "2026-05-24T23:48:06.207367Z",
+  "version": 1
+}

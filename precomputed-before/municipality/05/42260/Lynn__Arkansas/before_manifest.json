@@ -1,0 +1,16 @@
+{
+  "article": "Lynn,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/42260/Lynn__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f5ab944e392db84ca2e4c9f964409d96b3da5a91b2be7c1e944fb2fc4a09627e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f5ab944e392db84ca2e4c9f964409d96b3da5a91b2be7c1e944fb2fc4a09627e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/42260/Lynn__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "42260",
+  "timestamp": "2026-05-24T23:33:51.417688Z",
+  "version": 1
+}

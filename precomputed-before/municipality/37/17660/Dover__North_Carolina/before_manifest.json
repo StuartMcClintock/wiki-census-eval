@@ -1,0 +1,16 @@
+{
+  "article": "Dover,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/17660/Dover__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "26357f47d8305d46949d62a93fd6ffbee047c9bf711c326801c5fecd0c150636",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "26357f47d8305d46949d62a93fd6ffbee047c9bf711c326801c5fecd0c150636",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/17660/Dover__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "17660",
+  "timestamp": "2026-05-25T00:01:53.429399Z",
+  "version": 1
+}

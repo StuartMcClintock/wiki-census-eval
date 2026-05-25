@@ -1,0 +1,16 @@
+{
+  "article": "Prince_George,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/64560/Prince_George__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6a9b6a1c76a00e65e5cd65a613bc0c315c424c43395416d60b828b8ddadae067",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6a9b6a1c76a00e65e5cd65a613bc0c315c424c43395416d60b828b8ddadae067",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/64560/Prince_George__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "64560",
+  "timestamp": "2026-05-25T00:19:33.000608Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Cedar_Grove,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/13270/Cedar_Grove__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ef56a55e3e7a1961b387a7e9da241a284b4a8b1b060d3ed9dac7523e8fc8fb32",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ef56a55e3e7a1961b387a7e9da241a284b4a8b1b060d3ed9dac7523e8fc8fb32",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/13270/Cedar_Grove__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "13270",
+  "timestamp": "2026-05-24T23:58:23.867792Z",
+  "version": 1
+}

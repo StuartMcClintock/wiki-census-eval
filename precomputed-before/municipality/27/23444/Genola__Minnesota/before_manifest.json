@@ -1,0 +1,16 @@
+{
+  "article": "Genola,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/23444/Genola__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "55136be97b513938f98858c4cbe09c3d6a85465f7297aabd65c77634048b966f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "55136be97b513938f98858c4cbe09c3d6a85465f7297aabd65c77634048b966f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/23444/Genola__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "23444",
+  "timestamp": "2026-05-24T23:49:02.154330Z",
+  "version": 1
+}

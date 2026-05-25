@@ -1,0 +1,16 @@
+{
+  "article": "Keswick,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/38352/Keswick__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8493693aed4b9eb104aa0c5b81fa71286e9af748803e2c0427828dc12a7baeec",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8493693aed4b9eb104aa0c5b81fa71286e9af748803e2c0427828dc12a7baeec",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/38352/Keswick__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "38352",
+  "timestamp": "2026-05-24T23:34:31.627960Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Walsh,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/82460/Walsh__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "94f8bf64bb8c2edc221c392d17a261862ace09644a1ce5208d9616b58bd8c628",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "94f8bf64bb8c2edc221c392d17a261862ace09644a1ce5208d9616b58bd8c628",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/82460/Walsh__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "82460",
+  "timestamp": "2026-05-24T23:35:55.192051Z",
+  "version": 1
+}

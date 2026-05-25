@@ -1,0 +1,16 @@
+{
+  "article": "Yoe,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/87040/Yoe__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "daf1735df442cdd7867b01550182b7a34361f0aa9266aab3252014e6fa2ee485",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "daf1735df442cdd7867b01550182b7a34361f0aa9266aab3252014e6fa2ee485",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/87040/Yoe__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "87040",
+  "timestamp": "2026-05-25T00:09:34.799576Z",
+  "version": 1
+}

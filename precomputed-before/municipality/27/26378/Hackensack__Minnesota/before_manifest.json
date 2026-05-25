@@ -1,0 +1,16 @@
+{
+  "article": "Hackensack,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/26378/Hackensack__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5d2a52c2a5c2cd73cb8f40c01a53f37738f83666b5897e7e5c724f9f5f7ce59f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5d2a52c2a5c2cd73cb8f40c01a53f37738f83666b5897e7e5c724f9f5f7ce59f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/26378/Hackensack__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "26378",
+  "timestamp": "2026-05-24T23:49:04.952839Z",
+  "version": 1
+}

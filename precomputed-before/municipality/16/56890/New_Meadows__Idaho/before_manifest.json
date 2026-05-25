@@ -1,0 +1,16 @@
+{
+  "article": "New_Meadows,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/56890/New_Meadows__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4f89a676c6b3a0f2a15d419c680f3542d99712817e8e0997b86b57c093dfbb13",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4f89a676c6b3a0f2a15d419c680f3542d99712817e8e0997b86b57c093dfbb13",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/56890/New_Meadows__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "56890",
+  "timestamp": "2026-05-24T23:37:25.934164Z",
+  "version": 1
+}

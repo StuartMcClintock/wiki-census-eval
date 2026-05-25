@@ -1,0 +1,16 @@
+{
+  "article": "Tull,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/70220/Tull__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "60f5e8438e5d903a4401d02b6b725a0161c1b0a2d5385baa7bcee6924f89199c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "60f5e8438e5d903a4401d02b6b725a0161c1b0a2d5385baa7bcee6924f89199c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/70220/Tull__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "70220",
+  "timestamp": "2026-05-24T23:34:11.301079Z",
+  "version": 1
+}

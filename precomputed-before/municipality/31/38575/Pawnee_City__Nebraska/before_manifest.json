@@ -1,0 +1,16 @@
+{
+  "article": "Pawnee_City,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/38575/Pawnee_City__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2f26ab728914ffadd5d1df04d20eabfede425ea6beac90692fc5a526ace222f4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2f26ab728914ffadd5d1df04d20eabfede425ea6beac90692fc5a526ace222f4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/38575/Pawnee_City__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "38575",
+  "timestamp": "2026-05-24T23:56:02.319644Z",
+  "version": 1
+}

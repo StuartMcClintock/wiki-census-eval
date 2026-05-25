@@ -1,0 +1,16 @@
+{
+  "article": "Cambria,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/12680/Cambria__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b3e8c1d3d77a6d5512db9d29f2f0a79d0a97b3b48df23ba0516f57e0149d001f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b3e8c1d3d77a6d5512db9d29f2f0a79d0a97b3b48df23ba0516f57e0149d001f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/12680/Cambria__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "12680",
+  "timestamp": "2026-05-24T23:47:46.538945Z",
+  "version": 1
+}

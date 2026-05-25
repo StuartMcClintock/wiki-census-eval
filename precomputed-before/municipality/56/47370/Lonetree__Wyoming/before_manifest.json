@@ -1,0 +1,16 @@
+{
+  "article": "Lonetree,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/47370/Lonetree__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cec30d03c87ea9647c7dcd9f68a8adde25128551df5093ce7a32f011ec86555e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cec30d03c87ea9647c7dcd9f68a8adde25128551df5093ce7a32f011ec86555e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/47370/Lonetree__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "47370",
+  "timestamp": "2026-05-25T00:23:17.855521Z",
+  "version": 1
+}

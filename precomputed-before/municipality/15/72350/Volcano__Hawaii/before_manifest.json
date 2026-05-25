@@ -1,0 +1,16 @@
+{
+  "article": "Volcano,_Hawaii",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/15/72350/Volcano__Hawaii/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3405b48e4c388193027cc4f2a997a121493e2cd0dc98a449d1b9d9f95c3e8910",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3405b48e4c388193027cc4f2a997a121493e2cd0dc98a449d1b9d9f95c3e8910",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/15/72350/Volcano__Hawaii/manifest.json",
+  "state_fips": "15",
+  "status": "match",
+  "target_fips": "72350",
+  "timestamp": "2026-05-24T23:37:14.903877Z",
+  "version": 1
+}

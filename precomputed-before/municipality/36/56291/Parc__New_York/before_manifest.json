@@ -1,0 +1,16 @@
+{
+  "article": "Parc,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/56291/Parc__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8271d2fe28261e06fae229f5b7835c253460720f54dfac71ccb3ad66bc729e87",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8271d2fe28261e06fae229f5b7835c253460720f54dfac71ccb3ad66bc729e87",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/56291/Parc__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "56291",
+  "timestamp": "2026-05-25T00:01:02.134851Z",
+  "version": 1
+}

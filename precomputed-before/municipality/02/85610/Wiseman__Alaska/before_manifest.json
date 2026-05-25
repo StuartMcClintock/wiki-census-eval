@@ -1,0 +1,16 @@
+{
+  "article": "Wiseman,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/85610/Wiseman__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0c45eb0d1fa2801142a557c97f6274d511f7110852ee7c658f8714835bac7648",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0c45eb0d1fa2801142a557c97f6274d511f7110852ee7c658f8714835bac7648",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/85610/Wiseman__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "85610",
+  "timestamp": "2026-05-24T23:32:46.501166Z",
+  "version": 1
+}

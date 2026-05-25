@@ -1,0 +1,16 @@
+{
+  "article": "La_Grange,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/39164/La_Grange__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "14872c091af85798ec91adac636245ae2035c38417ea11e67f536bef2615985d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "14872c091af85798ec91adac636245ae2035c38417ea11e67f536bef2615985d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/39164/La_Grange__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "39164",
+  "timestamp": "2026-05-24T23:34:32.097460Z",
+  "version": 1
+}

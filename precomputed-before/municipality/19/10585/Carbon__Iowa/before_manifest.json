@@ -1,0 +1,16 @@
+{
+  "article": "Carbon,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/10585/Carbon__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "64f24ed000c6b9e4a020c0be0dd5e6d3f4bb517d00cc788fb659994d0c0ff97a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "64f24ed000c6b9e4a020c0be0dd5e6d3f4bb517d00cc788fb659994d0c0ff97a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/10585/Carbon__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "10585",
+  "timestamp": "2026-05-24T23:40:32.459438Z",
+  "version": 1
+}

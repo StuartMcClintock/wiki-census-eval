@@ -1,0 +1,16 @@
+{
+  "article": "Lake_Lure,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/36500/Lake_Lure__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1c83e1aea7db899a515c0960271ddf5be69d2d9a2fa5e3424857b171e45f3297",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1c83e1aea7db899a515c0960271ddf5be69d2d9a2fa5e3424857b171e45f3297",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/36500/Lake_Lure__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "36500",
+  "timestamp": "2026-05-25T00:02:06.476201Z",
+  "version": 1
+}

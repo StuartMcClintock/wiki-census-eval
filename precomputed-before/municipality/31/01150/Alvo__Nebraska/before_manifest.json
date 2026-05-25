@@ -1,0 +1,16 @@
+{
+  "article": "Alvo,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/01150/Alvo__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9c9b9c00cf48633110b844ad50794272649c4be7f3b8cfd6492c1edf7d73c7c9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9c9b9c00cf48633110b844ad50794272649c4be7f3b8cfd6492c1edf7d73c7c9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/01150/Alvo__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "01150",
+  "timestamp": "2026-05-24T23:55:07.597719Z",
+  "version": 1
+}

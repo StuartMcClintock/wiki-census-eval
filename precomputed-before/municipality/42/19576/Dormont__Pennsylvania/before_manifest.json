@@ -1,0 +1,16 @@
+{
+  "article": "Dormont,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/19576/Dormont__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "820e9644412b24fd9fc352782cc77b50a5e42ec0017a7a41685107d6998c0e1f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "820e9644412b24fd9fc352782cc77b50a5e42ec0017a7a41685107d6998c0e1f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/19576/Dormont__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "19576",
+  "timestamp": "2026-05-25T00:06:52.199332Z",
+  "version": 1
+}

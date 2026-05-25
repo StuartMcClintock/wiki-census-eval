@@ -1,0 +1,16 @@
+{
+  "article": "Heath,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/33904/Heath__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "27941ac1baff919940c4bb8e4c01cd0bc4cdf2baac7cd69d929121e4a82597aa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "27941ac1baff919940c4bb8e4c01cd0bc4cdf2baac7cd69d929121e4a82597aa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/33904/Heath__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "33904",
+  "timestamp": "2026-05-24T23:31:59.321918Z",
+  "version": 1
+}

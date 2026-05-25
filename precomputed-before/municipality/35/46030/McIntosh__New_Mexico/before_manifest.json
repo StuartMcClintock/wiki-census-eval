@@ -1,0 +1,16 @@
+{
+  "article": "McIntosh,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/46030/McIntosh__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a76b1b484b11e883b73e60e9b9b46551b5ff093234c44ce73ffa3af80f80b0f3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a76b1b484b11e883b73e60e9b9b46551b5ff093234c44ce73ffa3af80f80b0f3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/46030/McIntosh__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "46030",
+  "timestamp": "2026-05-24T23:58:40.159512Z",
+  "version": 1
+}

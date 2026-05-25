@@ -1,0 +1,16 @@
+{
+  "article": "Hidalgo,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/34553/Hidalgo__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8a6ea630c7cccb48a934e8dc099d84ead7645dca6c076eb9013147312435c6bc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8a6ea630c7cccb48a934e8dc099d84ead7645dca6c076eb9013147312435c6bc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/34553/Hidalgo__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "34553",
+  "timestamp": "2026-05-24T23:38:20.031310Z",
+  "version": 1
+}

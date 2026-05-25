@@ -1,0 +1,16 @@
+{
+  "article": "Conetoe,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/14200/Conetoe__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fd3d0c5a2a028884c2e3f1d288c41c7f3bd489a7f4d97eea99b808c8ac4c5e0f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fd3d0c5a2a028884c2e3f1d288c41c7f3bd489a7f4d97eea99b808c8ac4c5e0f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/14200/Conetoe__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "14200",
+  "timestamp": "2026-05-25T00:01:51.046703Z",
+  "version": 1
+}

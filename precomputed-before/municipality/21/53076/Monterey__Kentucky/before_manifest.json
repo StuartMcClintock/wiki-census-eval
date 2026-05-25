@@ -1,0 +1,16 @@
+{
+  "article": "Monterey,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/53076/Monterey__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "071981b30031a89012f4d0388a6e9274cfdcde020a071caea12aca2cf674b669",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "071981b30031a89012f4d0388a6e9274cfdcde020a071caea12aca2cf674b669",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/53076/Monterey__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "53076",
+  "timestamp": "2026-05-24T23:44:13.104483Z",
+  "version": 1
+}

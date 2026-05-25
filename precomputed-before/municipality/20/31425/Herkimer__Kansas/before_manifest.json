@@ -1,0 +1,16 @@
+{
+  "article": "Herkimer,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/31425/Herkimer__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4b5a97909c2fdc85c5978bc1b58e6e0c8a153fb22225096befd79faca7c4851b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4b5a97909c2fdc85c5978bc1b58e6e0c8a153fb22225096befd79faca7c4851b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/31425/Herkimer__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "31425",
+  "timestamp": "2026-05-24T23:42:46.088312Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Wonewoc,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/88500/Wonewoc__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "187564d44f4b6ba0f5437fb1ab4efbbc4d0e589cd8cefa7ef8133b3a9e06f761",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "187564d44f4b6ba0f5437fb1ab4efbbc4d0e589cd8cefa7ef8133b3a9e06f761",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/88500/Wonewoc__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "88500",
+  "timestamp": "2026-05-25T00:23:05.225723Z",
+  "version": 1
+}

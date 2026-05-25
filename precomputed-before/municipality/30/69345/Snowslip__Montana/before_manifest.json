@@ -1,0 +1,16 @@
+{
+  "article": "Snowslip,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/69345/Snowslip__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "66c5d06d961cc92d687ce72f61f3e9cadbaf5dc911a29cb3f230d93af0bca78f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "66c5d06d961cc92d687ce72f61f3e9cadbaf5dc911a29cb3f230d93af0bca78f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/69345/Snowslip__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "69345",
+  "timestamp": "2026-05-24T23:54:51.296811Z",
+  "version": 1
+}

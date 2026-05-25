@@ -1,0 +1,16 @@
+{
+  "article": "Bristol,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/08600/Bristol__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c95bc31cc91f10bb5fd240844178d74cc265390b09b715f6ae4d28682ed3a33b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c95bc31cc91f10bb5fd240844178d74cc265390b09b715f6ae4d28682ed3a33b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/08600/Bristol__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "08600",
+  "timestamp": "2026-05-24T23:36:08.382223Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Lehigh,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/44265/Lehigh__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "640742876cf35fe2cd555333137f7096d83913d431ac685cb6268cc33b27b71b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "640742876cf35fe2cd555333137f7096d83913d431ac685cb6268cc33b27b71b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/44265/Lehigh__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "44265",
+  "timestamp": "2026-05-24T23:41:19.108784Z",
+  "version": 1
+}

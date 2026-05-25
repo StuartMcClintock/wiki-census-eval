@@ -1,0 +1,16 @@
+{
+  "article": "Shelbyville,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/67196/Shelbyville__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cb297a8b4637d5cac046144a39183ab3052859a7e71e13aaf236e52010f55ede",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cb297a8b4637d5cac046144a39183ab3052859a7e71e13aaf236e52010f55ede",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/67196/Shelbyville__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "67196",
+  "timestamp": "2026-05-24T23:53:49.230934Z",
+  "version": 1
+}

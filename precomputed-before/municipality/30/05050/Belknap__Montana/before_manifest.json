@@ -1,0 +1,16 @@
+{
+  "article": "Belknap,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/05050/Belknap__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "949221b420d72f072715d70da3ed20d11f9255700c4956036b6d3556ad099fb0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "949221b420d72f072715d70da3ed20d11f9255700c4956036b6d3556ad099fb0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/05050/Belknap__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "05050",
+  "timestamp": "2026-05-24T23:54:14.496452Z",
+  "version": 1
+}

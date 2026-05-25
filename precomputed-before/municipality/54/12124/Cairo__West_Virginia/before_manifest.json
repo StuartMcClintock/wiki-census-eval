@@ -1,0 +1,16 @@
+{
+  "article": "Cairo,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/12124/Cairo__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a590ba79ea7cc91e61fc94f7a41374a6ea98a6f509f6a685d606deb548c3dc5b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a590ba79ea7cc91e61fc94f7a41374a6ea98a6f509f6a685d606deb548c3dc5b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/12124/Cairo__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "12124",
+  "timestamp": "2026-05-25T00:20:46.365558Z",
+  "version": 1
+}

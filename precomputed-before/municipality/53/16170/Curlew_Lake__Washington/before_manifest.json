@@ -1,0 +1,16 @@
+{
+  "article": "Curlew_Lake,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/16170/Curlew_Lake__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7509d7dc48c8c9fc028651be72d5909038927339aeb5b93aa820f987b017113c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7509d7dc48c8c9fc028651be72d5909038927339aeb5b93aa820f987b017113c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/16170/Curlew_Lake__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "16170",
+  "timestamp": "2026-05-25T00:20:08.865495Z",
+  "version": 1
+}

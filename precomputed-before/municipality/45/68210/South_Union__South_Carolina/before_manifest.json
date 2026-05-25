@@ -1,0 +1,16 @@
+{
+  "article": "South_Union,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/68210/South_Union__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f569d665f44af71a21398a6c15a11bac4a9d02eb5aa92d3f1c108233c9b393fa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f569d665f44af71a21398a6c15a11bac4a9d02eb5aa92d3f1c108233c9b393fa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/68210/South_Union__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "68210",
+  "timestamp": "2026-05-25T00:10:23.116061Z",
+  "version": 1
+}

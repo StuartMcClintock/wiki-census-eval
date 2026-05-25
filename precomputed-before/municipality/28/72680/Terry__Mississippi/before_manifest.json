@@ -1,0 +1,16 @@
+{
+  "article": "Terry,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/72680/Terry__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a70875a94396ab8c37f5d85d9779ae27d67b8505d027ae40f91be5414036554a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a70875a94396ab8c37f5d85d9779ae27d67b8505d027ae40f91be5414036554a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/72680/Terry__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "72680",
+  "timestamp": "2026-05-24T23:50:26.914053Z",
+  "version": 1
+}

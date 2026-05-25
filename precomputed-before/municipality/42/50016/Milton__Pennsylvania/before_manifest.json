@@ -1,0 +1,16 @@
+{
+  "article": "Milton,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/50016/Milton__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d5918e47b96c29eb7a35e7fbf1a386ba7c07c3e294a551be35fac884461ecf5c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d5918e47b96c29eb7a35e7fbf1a386ba7c07c3e294a551be35fac884461ecf5c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/50016/Milton__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "50016",
+  "timestamp": "2026-05-25T00:08:07.599463Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Lake_Benton,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/34100/Lake_Benton__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b428b24c834c694eb8468f0cd3d379c48e7923fb3fd0bc82a73e5cd096460cb9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b428b24c834c694eb8468f0cd3d379c48e7923fb3fd0bc82a73e5cd096460cb9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/34100/Lake_Benton__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "34100",
+  "timestamp": "2026-05-24T23:49:13.542601Z",
+  "version": 1
+}

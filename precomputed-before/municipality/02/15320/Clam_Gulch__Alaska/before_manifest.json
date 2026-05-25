@@ -1,0 +1,16 @@
+{
+  "article": "Clam_Gulch,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/15320/Clam_Gulch__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8b8ec653024a8077bd2fc8eee2050175a616a0140d699cfa1cee4103dc3a8f4d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8b8ec653024a8077bd2fc8eee2050175a616a0140d699cfa1cee4103dc3a8f4d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/15320/Clam_Gulch__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "15320",
+  "timestamp": "2026-05-24T23:32:19.903749Z",
+  "version": 1
+}

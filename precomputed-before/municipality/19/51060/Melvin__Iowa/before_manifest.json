@@ -1,0 +1,16 @@
+{
+  "article": "Melvin,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/51060/Melvin__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b2de2b9fdaf22aa9f2589bbc1b04e9968563d2b087fe99e79e8e03311e306fa2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b2de2b9fdaf22aa9f2589bbc1b04e9968563d2b087fe99e79e8e03311e306fa2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/51060/Melvin__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "51060",
+  "timestamp": "2026-05-24T23:41:26.991090Z",
+  "version": 1
+}

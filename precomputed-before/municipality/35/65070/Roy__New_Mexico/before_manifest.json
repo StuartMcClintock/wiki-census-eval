@@ -1,0 +1,16 @@
+{
+  "article": "Roy,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/65070/Roy__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e9ea51a7aec25cc3d248e74739ec58868c1b69844bac3be0b5cbee07bd23bde6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e9ea51a7aec25cc3d248e74739ec58868c1b69844bac3be0b5cbee07bd23bde6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/65070/Roy__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "65070",
+  "timestamp": "2026-05-24T23:58:51.833610Z",
+  "version": 1
+}

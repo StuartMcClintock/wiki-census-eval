@@ -1,0 +1,16 @@
+{
+  "article": "Paxtonia,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/58528/Paxtonia__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "322c364543820f76b59665477703901bb8977b22ef62fe3fa4bf96747052c5a0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "322c364543820f76b59665477703901bb8977b22ef62fe3fa4bf96747052c5a0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/58528/Paxtonia__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "58528",
+  "timestamp": "2026-05-25T00:08:26.918075Z",
+  "version": 1
+}

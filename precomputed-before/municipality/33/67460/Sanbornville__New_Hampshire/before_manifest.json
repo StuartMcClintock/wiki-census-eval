@@ -1,0 +1,16 @@
+{
+  "article": "Sanbornville,_New_Hampshire",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/33/67460/Sanbornville__New_Hampshire/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5a636b3c08f4dbde8a75f1ddb9acf961a756af3a9dd3cfde9ca8536bf3a18ba1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5a636b3c08f4dbde8a75f1ddb9acf961a756af3a9dd3cfde9ca8536bf3a18ba1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/33/67460/Sanbornville__New_Hampshire/manifest.json",
+  "state_fips": "33",
+  "status": "match",
+  "target_fips": "67460",
+  "timestamp": "2026-05-24T23:57:37.044777Z",
+  "version": 1
+}

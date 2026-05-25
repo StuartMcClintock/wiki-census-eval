@@ -1,0 +1,16 @@
+{
+  "article": "Griswold,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/33150/Griswold__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "464e65918c2e0a75bcb156e17960a4a2ec9d52965616fbb2144421ff78763fe8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "464e65918c2e0a75bcb156e17960a4a2ec9d52965616fbb2144421ff78763fe8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/33150/Griswold__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "33150",
+  "timestamp": "2026-05-24T23:41:07.740663Z",
+  "version": 1
+}

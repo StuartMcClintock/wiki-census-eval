@@ -1,0 +1,16 @@
+{
+  "article": "Black_Rock,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/06700/Black_Rock__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7d8369e2790f7d48c2d926c27904ee22462f488e8b78b1cb1bcea36b3f1c4379",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7d8369e2790f7d48c2d926c27904ee22462f488e8b78b1cb1bcea36b3f1c4379",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/06700/Black_Rock__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "06700",
+  "timestamp": "2026-05-24T23:33:21.350391Z",
+  "version": 1
+}

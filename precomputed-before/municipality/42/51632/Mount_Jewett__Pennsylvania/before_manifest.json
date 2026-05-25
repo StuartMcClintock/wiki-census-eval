@@ -1,0 +1,16 @@
+{
+  "article": "Mount_Jewett,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/51632/Mount_Jewett__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4546b8904b2b696525d378db799433a34f5b315fdbc4599141a046257ad390f2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4546b8904b2b696525d378db799433a34f5b315fdbc4599141a046257ad390f2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/51632/Mount_Jewett__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "51632",
+  "timestamp": "2026-05-25T00:08:11.585170Z",
+  "version": 1
+}

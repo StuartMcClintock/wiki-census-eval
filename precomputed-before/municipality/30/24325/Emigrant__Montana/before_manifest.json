@@ -1,0 +1,16 @@
+{
+  "article": "Emigrant,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/24325/Emigrant__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "55224ba2fb47f3ecbb37f5aac8f16125e9019c214eb5b046a06517b96acfaa46",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "55224ba2fb47f3ecbb37f5aac8f16125e9019c214eb5b046a06517b96acfaa46",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/24325/Emigrant__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "24325",
+  "timestamp": "2026-05-24T23:54:22.939978Z",
+  "version": 1
+}

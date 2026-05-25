@@ -1,0 +1,16 @@
+{
+  "article": "Seama,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/71440/Seama__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9011aa2dcd9c5db0b348e10f40108a4bfc4936e1fc388cfad2be11c534622283",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9011aa2dcd9c5db0b348e10f40108a4bfc4936e1fc388cfad2be11c534622283",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/71440/Seama__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "71440",
+  "timestamp": "2026-05-24T23:59:05.540227Z",
+  "version": 1
+}

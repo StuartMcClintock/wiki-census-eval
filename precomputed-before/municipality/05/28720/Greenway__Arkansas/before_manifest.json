@@ -1,0 +1,16 @@
+{
+  "article": "Greenway,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/28720/Greenway__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "41e31812e45d4eb36cfc9ff513c2f3d05c6b622de2d303299a37fdf3409dc334",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "41e31812e45d4eb36cfc9ff513c2f3d05c6b622de2d303299a37fdf3409dc334",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/28720/Greenway__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "28720",
+  "timestamp": "2026-05-24T23:33:43.956308Z",
+  "version": 1
+}

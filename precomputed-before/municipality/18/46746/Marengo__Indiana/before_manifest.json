@@ -1,0 +1,16 @@
+{
+  "article": "Marengo,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/46746/Marengo__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e558a8c57c02a0bf5931cd54fb893906192eb2237178f8192dd446da1b549f48",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e558a8c57c02a0bf5931cd54fb893906192eb2237178f8192dd446da1b549f48",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/46746/Marengo__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "46746",
+  "timestamp": "2026-05-24T23:40:00.572235Z",
+  "version": 1
+}

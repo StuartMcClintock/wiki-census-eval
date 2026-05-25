@@ -1,0 +1,16 @@
+{
+  "article": "Howell,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/36620/Howell__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "51eb99a1a859cae0cb7893dea076b14bd92b69bfc7d7c953a9240c4d0ad5c14a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "51eb99a1a859cae0cb7893dea076b14bd92b69bfc7d7c953a9240c4d0ad5c14a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/36620/Howell__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "36620",
+  "timestamp": "2026-05-25T00:17:02.364990Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Swisher,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/76890/Swisher__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ed17ad3a7fed917ea2670830e95509ad66f8c508ad6abf937575a93846f6e11b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ed17ad3a7fed917ea2670830e95509ad66f8c508ad6abf937575a93846f6e11b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/76890/Swisher__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "76890",
+  "timestamp": "2026-05-24T23:42:04.814508Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Kewaunee,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/39350/Kewaunee__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "afdc57e0897b236c5e68b2521d071ce60724a5fa15820d3040e1421f0b61fb5c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "afdc57e0897b236c5e68b2521d071ce60724a5fa15820d3040e1421f0b61fb5c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/39350/Kewaunee__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "39350",
+  "timestamp": "2026-05-25T00:22:16.072084Z",
+  "version": 1
+}

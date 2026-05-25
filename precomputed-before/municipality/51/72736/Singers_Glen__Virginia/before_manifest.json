@@ -1,0 +1,16 @@
+{
+  "article": "Singers_Glen,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/72736/Singers_Glen__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "33c931f06c4dbdfa3aa7780528a4898622da67d8e958b21cf093cb17be380aff",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "33c931f06c4dbdfa3aa7780528a4898622da67d8e958b21cf093cb17be380aff",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/72736/Singers_Glen__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "72736",
+  "timestamp": "2026-05-25T00:19:38.201524Z",
+  "version": 1
+}

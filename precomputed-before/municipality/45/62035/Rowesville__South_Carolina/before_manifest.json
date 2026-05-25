@@ -1,0 +1,16 @@
+{
+  "article": "Rowesville,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/62035/Rowesville__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "38b90ab27db3b7fcc463cd928cb55b4bc0e20ce32b74937712d2ef9f0a354f04",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "38b90ab27db3b7fcc463cd928cb55b4bc0e20ce32b74937712d2ef9f0a354f04",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/62035/Rowesville__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "62035",
+  "timestamp": "2026-05-25T00:10:19.769536Z",
+  "version": 1
+}

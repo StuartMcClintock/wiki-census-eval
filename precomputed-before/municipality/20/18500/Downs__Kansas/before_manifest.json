@@ -1,0 +1,16 @@
+{
+  "article": "Downs,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/18500/Downs__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "96d59f6c663cf55aee04ef7c3c495c88016e0ca3899e53bcb38d67d466422abd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "96d59f6c663cf55aee04ef7c3c495c88016e0ca3899e53bcb38d67d466422abd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/18500/Downs__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "18500",
+  "timestamp": "2026-05-24T23:42:33.299567Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Waco,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/76444/Waco__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a4020d5ca27e449f2550daa6f5821417f54197e9c846bb5251cd0b4e457821ba",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a4020d5ca27e449f2550daa6f5821417f54197e9c846bb5251cd0b4e457821ba",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/76444/Waco__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "76444",
+  "timestamp": "2026-05-24T23:54:07.311970Z",
+  "version": 1
+}

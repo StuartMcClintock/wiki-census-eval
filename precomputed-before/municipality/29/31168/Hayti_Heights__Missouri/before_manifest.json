@@ -1,0 +1,16 @@
+{
+  "article": "Hayti_Heights,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/31168/Hayti_Heights__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "44e55d188420f7afcd59fb2f64b0d3e2958db131faffe04ec99e6db1b4fb202d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "44e55d188420f7afcd59fb2f64b0d3e2958db131faffe04ec99e6db1b4fb202d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/31168/Hayti_Heights__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "31168",
+  "timestamp": "2026-05-24T23:53:16.913160Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Oconto,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/59350/Oconto__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "97f42fa3c78ef9d02f1eb0c7eee67fd4c50dd1d7401e5a9695a62fe0e8d62ef1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "97f42fa3c78ef9d02f1eb0c7eee67fd4c50dd1d7401e5a9695a62fe0e8d62ef1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/59350/Oconto__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "59350",
+  "timestamp": "2026-05-25T00:22:31.165177Z",
+  "version": 1
+}

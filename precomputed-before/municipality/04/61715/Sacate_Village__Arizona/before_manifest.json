@@ -1,0 +1,16 @@
+{
+  "article": "Sacate_Village,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/61715/Sacate_Village__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8df77a843b44e8aa78497333a5a0b21cd917f5acebfdd8d86c63fe72c2c0f30f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8df77a843b44e8aa78497333a5a0b21cd917f5acebfdd8d86c63fe72c2c0f30f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/61715/Sacate_Village__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "61715",
+  "timestamp": "2026-05-24T23:33:08.081773Z",
+  "version": 1
+}

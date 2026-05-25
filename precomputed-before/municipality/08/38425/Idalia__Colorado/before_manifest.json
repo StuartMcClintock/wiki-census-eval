@@ -1,0 +1,16 @@
+{
+  "article": "Idalia,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/38425/Idalia__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9a60f1ad7441de6972736891315c4ec7188b2c1564e1d99af2d1e40de14ee0a5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9a60f1ad7441de6972736891315c4ec7188b2c1564e1d99af2d1e40de14ee0a5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/38425/Idalia__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "38425",
+  "timestamp": "2026-05-24T23:35:29.085698Z",
+  "version": 1
+}

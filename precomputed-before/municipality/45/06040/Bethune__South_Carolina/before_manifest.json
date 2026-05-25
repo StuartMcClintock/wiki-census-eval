@@ -1,0 +1,16 @@
+{
+  "article": "Bethune,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/06040/Bethune__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e68e32dac91f31f4127fa1ae40173c262a2534f93bc7288b78fc384f15b2b72c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e68e32dac91f31f4127fa1ae40173c262a2534f93bc7288b78fc384f15b2b72c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/06040/Bethune__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "06040",
+  "timestamp": "2026-05-25T00:09:39.899208Z",
+  "version": 1
+}

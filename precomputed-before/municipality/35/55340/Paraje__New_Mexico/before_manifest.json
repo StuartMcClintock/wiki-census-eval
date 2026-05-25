@@ -1,0 +1,16 @@
+{
+  "article": "Paraje,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/55340/Paraje__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f850ba9771907451153936a4883e802ade678f41dbf57e8f3b57bae1aaa996af",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f850ba9771907451153936a4883e802ade678f41dbf57e8f3b57bae1aaa996af",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/55340/Paraje__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "55340",
+  "timestamp": "2026-05-24T23:58:46.247571Z",
+  "version": 1
+}

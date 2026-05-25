@@ -1,0 +1,16 @@
+{
+  "article": "Ashford,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/03005/Ashford__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5f4675f5f56c60fcb7595a3ec4e8f0272cd3282ee3260ac3d0bd7d261228b803",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5f4675f5f56c60fcb7595a3ec4e8f0272cd3282ee3260ac3d0bd7d261228b803",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/03005/Ashford__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "03005",
+  "timestamp": "2026-05-25T00:19:47.743153Z",
+  "version": 1
+}

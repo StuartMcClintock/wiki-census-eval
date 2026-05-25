@@ -1,0 +1,16 @@
+{
+  "article": "Summit,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/74040/Summit__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "048e73e595ea36a9ab2113d2a078f53b980fdef74888b266ab899593f797a312",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "048e73e595ea36a9ab2113d2a078f53b980fdef74888b266ab899593f797a312",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/74040/Summit__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "74040",
+  "timestamp": "2026-05-25T00:17:10.433303Z",
+  "version": 1
+}

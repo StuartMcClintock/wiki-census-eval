@@ -1,0 +1,16 @@
+{
+  "article": "Pavo,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/59556/Pavo__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f59aba6eaf52b8d89cf3c7030108d8ceb3668e40f7690f0e3271de4ef3c1fb07",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f59aba6eaf52b8d89cf3c7030108d8ceb3668e40f7690f0e3271de4ef3c1fb07",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/59556/Pavo__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "59556",
+  "timestamp": "2026-05-24T23:37:03.098281Z",
+  "version": 1
+}

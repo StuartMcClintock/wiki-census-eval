@@ -1,0 +1,16 @@
+{
+  "article": "Grand_Mound,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/32025/Grand_Mound__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9d872eae3b1ddac0c0b7745427263ff720f5410169455524f8bb8e771976fd27",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9d872eae3b1ddac0c0b7745427263ff720f5410169455524f8bb8e771976fd27",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/32025/Grand_Mound__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "32025",
+  "timestamp": "2026-05-24T23:41:06.522630Z",
+  "version": 1
+}

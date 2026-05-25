@@ -1,0 +1,16 @@
+{
+  "article": "Crucible,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/17528/Crucible__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "871cb54e129e252d2cba953b8599cbb32e48c47974bba1ca4a889774bbcbb8b3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "871cb54e129e252d2cba953b8599cbb32e48c47974bba1ca4a889774bbcbb8b3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/17528/Crucible__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "17528",
+  "timestamp": "2026-05-25T00:06:48.477757Z",
+  "version": 1
+}

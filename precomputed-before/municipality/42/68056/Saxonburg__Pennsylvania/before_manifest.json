@@ -1,0 +1,16 @@
+{
+  "article": "Saxonburg,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/68056/Saxonburg__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b7311ac30966487b9ba82501ebbf8179aa3dc2e8bdabe2aa54d95bad21327e53",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b7311ac30966487b9ba82501ebbf8179aa3dc2e8bdabe2aa54d95bad21327e53",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/68056/Saxonburg__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "68056",
+  "timestamp": "2026-05-25T00:08:57.205804Z",
+  "version": 1
+}

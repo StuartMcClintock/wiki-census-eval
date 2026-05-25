@@ -1,0 +1,16 @@
+{
+  "article": "Baltic,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/03744/Baltic__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "08d6b755510712a46e644b95f88405f0f025d44f37f268e016620dd260b23f9e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "08d6b755510712a46e644b95f88405f0f025d44f37f268e016620dd260b23f9e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/03744/Baltic__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "03744",
+  "timestamp": "2026-05-25T00:03:31.898269Z",
+  "version": 1
+}

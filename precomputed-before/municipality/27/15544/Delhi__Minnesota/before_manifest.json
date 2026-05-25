@@ -1,0 +1,16 @@
+{
+  "article": "Delhi,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/15544/Delhi__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "88d912e678caeadf35ba2de4d337a4287c67142e4e5b3972edc4642696eaffcc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "88d912e678caeadf35ba2de4d337a4287c67142e4e5b3972edc4642696eaffcc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/15544/Delhi__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "15544",
+  "timestamp": "2026-05-24T23:48:49.250864Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Manteo,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/41060/Manteo__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c687b8c6e957c54725d5cb531b2f0741b38ca9237aa5f53dfe792efe92e06898",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c687b8c6e957c54725d5cb531b2f0741b38ca9237aa5f53dfe792efe92e06898",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/41060/Manteo__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "41060",
+  "timestamp": "2026-05-25T00:02:09.974279Z",
+  "version": 1
+}

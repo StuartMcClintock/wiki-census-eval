@@ -1,0 +1,16 @@
+{
+  "article": "Wells,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/76550/Wells__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6552b10562081984a24c17f13092a099ab2894a7b10f52715d24a0643d7e8590",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6552b10562081984a24c17f13092a099ab2894a7b10f52715d24a0643d7e8590",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/76550/Wells__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "76550",
+  "timestamp": "2026-05-24T23:43:36.833924Z",
+  "version": 1
+}

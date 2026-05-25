@@ -1,0 +1,16 @@
+{
+  "article": "Pleasant_Hill,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/60534/Pleasant_Hill__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4030b9237d0cdcbae28d4711d797b089dc1c7759bf03bcf149a0f062979c8e54",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4030b9237d0cdcbae28d4711d797b089dc1c7759bf03bcf149a0f062979c8e54",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/60534/Pleasant_Hill__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "60534",
+  "timestamp": "2026-05-24T23:39:02.696599Z",
+  "version": 1
+}

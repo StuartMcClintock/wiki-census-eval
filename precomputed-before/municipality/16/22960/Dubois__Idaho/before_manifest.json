@@ -1,0 +1,16 @@
+{
+  "article": "Dubois,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/22960/Dubois__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cb19bb594e46aa75668ba2a878dfc01d98482f40e8ae9a501bb0ff6cb45d733d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cb19bb594e46aa75668ba2a878dfc01d98482f40e8ae9a501bb0ff6cb45d733d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/22960/Dubois__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "22960",
+  "timestamp": "2026-05-24T23:37:19.765912Z",
+  "version": 1
+}

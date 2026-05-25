@@ -1,0 +1,16 @@
+{
+  "article": "Orleans,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/37420/Orleans__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "17062c57488e9647cf44bb8869aedf14b2ed71911ebaf1d31346e577134b94d8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "17062c57488e9647cf44bb8869aedf14b2ed71911ebaf1d31346e577134b94d8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/37420/Orleans__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "37420",
+  "timestamp": "2026-05-24T23:56:00.788336Z",
+  "version": 1
+}

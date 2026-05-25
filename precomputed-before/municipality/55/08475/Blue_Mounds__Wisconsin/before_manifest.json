@@ -1,0 +1,16 @@
+{
+  "article": "Blue_Mounds,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/08475/Blue_Mounds__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7015b67de098017278dc90d9f3ec1d712b4733f15feec2925c871dfffed5e1a3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7015b67de098017278dc90d9f3ec1d712b4733f15feec2925c871dfffed5e1a3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/08475/Blue_Mounds__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "08475",
+  "timestamp": "2026-05-25T00:21:37.642909Z",
+  "version": 1
+}

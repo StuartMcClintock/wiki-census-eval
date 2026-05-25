@@ -1,0 +1,16 @@
+{
+  "article": "Bar_Nunn,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/05245/Bar_Nunn__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "216081c120a0a80a788f030c688448efd9f26855d2952dfcee9ea93fe36b3fe5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "216081c120a0a80a788f030c688448efd9f26855d2952dfcee9ea93fe36b3fe5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/05245/Bar_Nunn__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "05245",
+  "timestamp": "2026-05-25T00:23:08.312711Z",
+  "version": 1
+}

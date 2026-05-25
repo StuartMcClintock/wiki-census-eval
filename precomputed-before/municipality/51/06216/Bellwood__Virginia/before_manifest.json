@@ -1,0 +1,16 @@
+{
+  "article": "Bellwood,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/06216/Bellwood__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "948d81f03bd115a875dfb0c6fe16ba3bd980ed43f90cca94cb279a39af2b0770",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "948d81f03bd115a875dfb0c6fe16ba3bd980ed43f90cca94cb279a39af2b0770",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/06216/Bellwood__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "06216",
+  "timestamp": "2026-05-25T00:17:34.769282Z",
+  "version": 1
+}

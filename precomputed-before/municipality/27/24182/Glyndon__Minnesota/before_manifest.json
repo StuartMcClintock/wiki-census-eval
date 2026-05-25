@@ -1,0 +1,16 @@
+{
+  "article": "Glyndon,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/24182/Glyndon__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cbda7e199b499d6e2c097186c9b214b34d42619000ffca912cdc2a03f33abf28",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cbda7e199b499d6e2c097186c9b214b34d42619000ffca912cdc2a03f33abf28",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/24182/Glyndon__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "24182",
+  "timestamp": "2026-05-24T23:49:02.805520Z",
+  "version": 1
+}

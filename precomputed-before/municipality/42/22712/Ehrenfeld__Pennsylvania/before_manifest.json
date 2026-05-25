@@ -1,0 +1,16 @@
+{
+  "article": "Ehrenfeld,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/22712/Ehrenfeld__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5d56d68d4672910771b04182b4c141d546d8222ab38d9f6de99066de46fe325f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5d56d68d4672910771b04182b4c141d546d8222ab38d9f6de99066de46fe325f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/22712/Ehrenfeld__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "22712",
+  "timestamp": "2026-05-25T00:07:02.223363Z",
+  "version": 1
+}

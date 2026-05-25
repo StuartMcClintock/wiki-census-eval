@@ -1,0 +1,78 @@
+==Demographics==
+{{US Census population
+|align = left
+|1890= 357
+|1900= 447
+|1910= 398
+|1920= 339
+|2010= 83
+|2020= 79
+|align-fn=center
+|footnote=U.S. Decennial Census<ref>{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=U.S. Decennial Census|publisher=Census.gov|access-date=June 6, 2013}}</ref>
+}}
+
+Fitzpatrick was first listed as a [[census designated place]] in the [[2010 U.S. census]].<ref>{{Cite web|first= |last= |authorlink=   |title= 2010 Census of Population - Population and Housing Unit Counts - Alabama |publisher=United States Census Bureau|date= 2010|url=https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-2.pdf |accessdate=|archive-url=| archive-date=}}</ref>
+
+{| class="wikitable sortable" style="text-align:center;"
+|+'''Fitzpatrick CDP, Alabama – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Fitzpatrick CDP, Alabama|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US0126152&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!style="background-color: #ffffb3;" |Pop 2020<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Fitzpatrick CDP, Alabama|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US0126152&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!% 2010
+!style="background-color: #ffffb3;" |% 2020
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|63
+|style='background: #ffffe6; |59
+|75.90%
+|style='background: #ffffe6; |74.68%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|18
+|style='background: #ffffe6; |15
+|21.69%
+|style='background: #ffffe6; |18.99%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Native Hawaiian]] or [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|style='background: #ffffe6; |1
+|0.00%
+|style='background: #ffffe6; |1.27%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|0
+|style='background: #ffffe6; |2
+|0.00%
+|style='background: #ffffe6; |2.53%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|2
+|style='background: #ffffe6; |2
+|2.41%
+|style='background: #ffffe6; |2.53%
+|-
+|'''Total'''
+|'''83'''
+|style='background: #ffffe6; |'''79 '''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+

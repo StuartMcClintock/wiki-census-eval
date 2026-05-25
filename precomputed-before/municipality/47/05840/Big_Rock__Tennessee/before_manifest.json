@@ -1,0 +1,16 @@
+{
+  "article": "Big_Rock,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/05840/Big_Rock__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d89f83f3e8755b62fbbc6a1f1ad01f13d1f92075b0b0a88efe8cf3beffb5df92",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d89f83f3e8755b62fbbc6a1f1ad01f13d1f92075b0b0a88efe8cf3beffb5df92",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/05840/Big_Rock__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "05840",
+  "timestamp": "2026-05-25T00:14:31.614131Z",
+  "version": 1
+}

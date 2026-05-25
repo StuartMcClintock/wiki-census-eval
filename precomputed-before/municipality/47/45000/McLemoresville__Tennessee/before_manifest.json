@@ -1,0 +1,16 @@
+{
+  "article": "McLemoresville,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/45000/McLemoresville__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "583e4758890330ef763e86e1630ec402c7d4f14fd377bdfe7c38ca8fa84ac1e3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "583e4758890330ef763e86e1630ec402c7d4f14fd377bdfe7c38ca8fa84ac1e3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/45000/McLemoresville__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "45000",
+  "timestamp": "2026-05-25T00:14:46.143236Z",
+  "version": 1
+}

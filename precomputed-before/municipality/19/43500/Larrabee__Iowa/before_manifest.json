@@ -1,0 +1,16 @@
+{
+  "article": "Larrabee,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/43500/Larrabee__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b09aea4e55f7a08546a5c42b1b979c4ef3c91e2a854bd89b2f2a317c49845e55",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b09aea4e55f7a08546a5c42b1b979c4ef3c91e2a854bd89b2f2a317c49845e55",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/43500/Larrabee__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "43500",
+  "timestamp": "2026-05-24T23:41:18.153818Z",
+  "version": 1
+}

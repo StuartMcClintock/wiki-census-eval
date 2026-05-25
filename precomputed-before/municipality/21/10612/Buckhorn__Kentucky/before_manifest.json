@@ -1,0 +1,16 @@
+{
+  "article": "Buckhorn,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/10612/Buckhorn__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c02c6d06dac3a0102e0a8c3f27ad27d153eb91c08ed9957fc7ab54382235bdba",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c02c6d06dac3a0102e0a8c3f27ad27d153eb91c08ed9957fc7ab54382235bdba",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/10612/Buckhorn__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "10612",
+  "timestamp": "2026-05-24T23:43:45.404032Z",
+  "version": 1
+}

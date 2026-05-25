@@ -1,0 +1,16 @@
+{
+  "article": "Willsboro_Point,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/82282/Willsboro_Point__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cca7b9e075c0e48cf2ab0e13995bf3b230c57a0d34b644c71a81b72dce2b9346",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cca7b9e075c0e48cf2ab0e13995bf3b230c57a0d34b644c71a81b72dce2b9346",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/82282/Willsboro_Point__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "82282",
+  "timestamp": "2026-05-25T00:01:27.433671Z",
+  "version": 1
+}

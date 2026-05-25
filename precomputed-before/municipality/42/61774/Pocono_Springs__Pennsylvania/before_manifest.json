@@ -1,0 +1,16 @@
+{
+  "article": "Pocono_Springs,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/61774/Pocono_Springs__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5a0eac0ccda4185355b5c1bf08edc5da58f7d7150acdc2f9e9f5496e700f6295",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5a0eac0ccda4185355b5c1bf08edc5da58f7d7150acdc2f9e9f5496e700f6295",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/61774/Pocono_Springs__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "61774",
+  "timestamp": "2026-05-25T00:08:31.598628Z",
+  "version": 1
+}

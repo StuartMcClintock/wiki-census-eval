@@ -1,0 +1,16 @@
+{
+  "article": "Oakford,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/54625/Oakford__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0f1b32687eec3d1651d832deb00ddf455c4183c5338a983707d2ac4c4d4ef621",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0f1b32687eec3d1651d832deb00ddf455c4183c5338a983707d2ac4c4d4ef621",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/54625/Oakford__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "54625",
+  "timestamp": "2026-05-24T23:38:41.929376Z",
+  "version": 1
+}

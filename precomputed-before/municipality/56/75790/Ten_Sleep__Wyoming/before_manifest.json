@@ -1,0 +1,16 @@
+{
+  "article": "Ten_Sleep,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/75790/Ten_Sleep__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "162fb81e015c73ff2f3342af56161a009712d8b16ad2f24282db175111001063",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "162fb81e015c73ff2f3342af56161a009712d8b16ad2f24282db175111001063",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/75790/Ten_Sleep__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "75790",
+  "timestamp": "2026-05-25T00:23:24.516999Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Pinion_Pines,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/55983/Pinion_Pines__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fe6d2c2a3e297545146ea58cf7d2b516f5010a89d011f3e14dbaf93755673adf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fe6d2c2a3e297545146ea58cf7d2b516f5010a89d011f3e14dbaf93755673adf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/55983/Pinion_Pines__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "55983",
+  "timestamp": "2026-05-24T23:33:06.535593Z",
+  "version": 1
+}

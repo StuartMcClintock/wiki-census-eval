@@ -1,0 +1,16 @@
+{
+  "article": "Taylorsville,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/72400/Taylorsville__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "55814189b5415aa2a1ca7c3c6c777e32fc11bc5e452af5cff0df2840e780bfc1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "55814189b5415aa2a1ca7c3c6c777e32fc11bc5e452af5cff0df2840e780bfc1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/72400/Taylorsville__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "72400",
+  "timestamp": "2026-05-24T23:50:26.770280Z",
+  "version": 1
+}

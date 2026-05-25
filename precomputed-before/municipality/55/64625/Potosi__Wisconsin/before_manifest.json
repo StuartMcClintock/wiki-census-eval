@@ -1,0 +1,16 @@
+{
+  "article": "Potosi,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/64625/Potosi__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1657424d37030927be62b5a98a9a4cb1038b20a9a9036d32326180ef2542ef47",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1657424d37030927be62b5a98a9a4cb1038b20a9a9036d32326180ef2542ef47",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/64625/Potosi__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "64625",
+  "timestamp": "2026-05-25T00:22:35.270774Z",
+  "version": 1
+}

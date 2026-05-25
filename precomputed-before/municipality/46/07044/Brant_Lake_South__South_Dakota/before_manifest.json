@@ -1,0 +1,16 @@
+{
+  "article": "Brant_Lake_South,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/07044/Brant_Lake_South__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "87d589ab442f85d9bbd379657770b07b331a1638ec21fce1dfadf619912253ee",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "87d589ab442f85d9bbd379657770b07b331a1638ec21fce1dfadf619912253ee",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/07044/Brant_Lake_South__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "07044",
+  "timestamp": "2026-05-25T00:10:32.239898Z",
+  "version": 1
+}

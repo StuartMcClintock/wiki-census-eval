@@ -1,0 +1,16 @@
+{
+  "article": "Tribes_Hill,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/75341/Tribes_Hill__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c2c773c54d551ed5fa710c1330a1b5966a718903de32d3fff871835dcbd1ff8f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c2c773c54d551ed5fa710c1330a1b5966a718903de32d3fff871835dcbd1ff8f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/75341/Tribes_Hill__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "75341",
+  "timestamp": "2026-05-25T00:01:20.654566Z",
+  "version": 1
+}

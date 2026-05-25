@@ -1,0 +1,16 @@
+{
+  "article": "Hunker,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/36288/Hunker__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3be1ba27e67a3d61f03a4d2a88db1c196bfca495b38c77348c7869b0b5f0d470",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3be1ba27e67a3d61f03a4d2a88db1c196bfca495b38c77348c7869b0b5f0d470",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/36288/Hunker__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "36288",
+  "timestamp": "2026-05-25T00:07:29.042129Z",
+  "version": 1
+}

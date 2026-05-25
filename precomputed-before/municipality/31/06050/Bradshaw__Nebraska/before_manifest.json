@@ -1,0 +1,16 @@
+{
+  "article": "Bradshaw,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/06050/Bradshaw__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "63d43584a844ea304bfd67f7d4173f71c9958bae0def809d64303e75db716d35",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "63d43584a844ea304bfd67f7d4173f71c9958bae0def809d64303e75db716d35",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/06050/Bradshaw__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "06050",
+  "timestamp": "2026-05-24T23:55:13.438396Z",
+  "version": 1
+}

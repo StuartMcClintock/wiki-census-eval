@@ -1,0 +1,16 @@
+{
+  "article": "Du_Pont,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/24796/Du_Pont__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b19b6ee42124a03be0ad0ac91cdd28ee8640a550f97fef749bf0142ad14ee4cf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b19b6ee42124a03be0ad0ac91cdd28ee8640a550f97fef749bf0142ad14ee4cf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/24796/Du_Pont__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "24796",
+  "timestamp": "2026-05-24T23:36:35.356091Z",
+  "version": 1
+}

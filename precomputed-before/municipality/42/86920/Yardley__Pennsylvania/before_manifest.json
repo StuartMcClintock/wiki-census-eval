@@ -1,0 +1,16 @@
+{
+  "article": "Yardley,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/86920/Yardley__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "581342cb12a28569b274b3b269c750ba2f559d9492b91ea39d64498f0a97a9f9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "581342cb12a28569b274b3b269c750ba2f559d9492b91ea39d64498f0a97a9f9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/86920/Yardley__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "86920",
+  "timestamp": "2026-05-25T00:09:34.408327Z",
+  "version": 1
+}

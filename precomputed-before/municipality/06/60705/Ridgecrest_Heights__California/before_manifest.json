@@ -1,0 +1,16 @@
+{
+  "article": "Ridgecrest_Heights,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/60705/Ridgecrest_Heights__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5563cc1e1d6fbc4d238924b7811645fd04b50cd9b1a320ba9545268eec1d2fdf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5563cc1e1d6fbc4d238924b7811645fd04b50cd9b1a320ba9545268eec1d2fdf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/60705/Ridgecrest_Heights__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "60705",
+  "timestamp": "2026-05-24T23:35:01.441380Z",
+  "version": 1
+}

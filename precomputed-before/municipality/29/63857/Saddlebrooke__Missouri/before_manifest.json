@@ -1,0 +1,16 @@
+{
+  "article": "Saddlebrooke,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/63857/Saddlebrooke__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6c615786a4440773d61a57547f3a0c5ba49b8fd0ac29d3d01c90d66117e4520d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6c615786a4440773d61a57547f3a0c5ba49b8fd0ac29d3d01c90d66117e4520d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/63857/Saddlebrooke__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "63857",
+  "timestamp": "2026-05-24T23:53:47.499480Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Tonalea,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/74470/Tonalea__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f28c799fb3145e092e721e0b73884a34e691fc9991a56a554149c34fed7f163d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f28c799fb3145e092e721e0b73884a34e691fc9991a56a554149c34fed7f163d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/74470/Tonalea__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "74470",
+  "timestamp": "2026-05-24T23:33:12.021236Z",
+  "version": 1
+}

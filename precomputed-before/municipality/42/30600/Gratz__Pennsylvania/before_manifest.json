@@ -1,0 +1,16 @@
+{
+  "article": "Gratz,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/30600/Gratz__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fc739c83fc159e33942fc03beb6ee0da56df8af3aba92718a2b14b1a134f9a1a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fc739c83fc159e33942fc03beb6ee0da56df8af3aba92718a2b14b1a134f9a1a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/30600/Gratz__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "30600",
+  "timestamp": "2026-05-25T00:07:19.163740Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Millington,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/52825/Millington__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3ace1598280725056e7957b465d179259f86577adf7bb6b177764d8f43a43709",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3ace1598280725056e7957b465d179259f86577adf7bb6b177764d8f43a43709",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/52825/Millington__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "52825",
+  "timestamp": "2026-05-24T23:47:27.768925Z",
+  "version": 1
+}

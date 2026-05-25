@@ -1,0 +1,16 @@
+{
+  "article": "Maloy,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/48675/Maloy__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4d76ed52f83782e2046a830d70773c19b4e560a04b097efc62f8c78da6fbdb26",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4d76ed52f83782e2046a830d70773c19b4e560a04b097efc62f8c78da6fbdb26",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/48675/Maloy__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "48675",
+  "timestamp": "2026-05-24T23:41:24.772898Z",
+  "version": 1
+}

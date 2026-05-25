@@ -1,0 +1,16 @@
+{
+  "article": "Widener,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/75560/Widener__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "43dc960780f480d17a6b684c9e7e0138bfa3df67b7374fd39be31cef583148f6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "43dc960780f480d17a6b684c9e7e0138bfa3df67b7374fd39be31cef583148f6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/75560/Widener__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "75560",
+  "timestamp": "2026-05-24T23:34:14.437323Z",
+  "version": 1
+}

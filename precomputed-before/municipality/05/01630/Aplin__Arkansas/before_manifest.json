@@ -1,0 +1,16 @@
+{
+  "article": "Aplin,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/01630/Aplin__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c617710f0581e8cb87d7e958cc1ac13870de63cf8765546edc93b411b8fb95f6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c617710f0581e8cb87d7e958cc1ac13870de63cf8765546edc93b411b8fb95f6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/01630/Aplin__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "01630",
+  "timestamp": "2026-05-24T23:33:18.668317Z",
+  "version": 1
+}

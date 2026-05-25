@@ -1,0 +1,16 @@
+{
+  "article": "Strattanville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/74728/Strattanville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ddb3f0d04702908696362ba9a48fd1cdb22a5fe7c36e48b7be18014eb320ceea",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ddb3f0d04702908696362ba9a48fd1cdb22a5fe7c36e48b7be18014eb320ceea",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/74728/Strattanville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "74728",
+  "timestamp": "2026-05-25T00:09:12.457133Z",
+  "version": 1
+}

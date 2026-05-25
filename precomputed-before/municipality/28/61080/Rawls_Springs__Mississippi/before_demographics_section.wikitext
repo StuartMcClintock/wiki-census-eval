@@ -1,0 +1,50 @@
+==Demographics==
+{{US Census population
+|2020= 1202
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=http://www.census.gov/prod/www/decennial.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2016}}</ref>
+}}
+
+{| class="wikitable"
+|+'''Rawls Springs racial composition as of 2020'''<ref>{{Cite web |title=Explore Census Data |url=https://data.census.gov/cedsci/table?g=1600000US2861080&tid=DECENNIALPL2020.P2 |access-date=2022-06-07 |website=data.census.gov}}</ref><br /> (NH = Non-Hispanic){{efn|Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos can be of any race.<ref>https://www.census.gov/ {{nonspecific|date=August 2022}}</ref><ref>{{cite web |title=About the Hispanic Population and its Origin |url=https://www.census.gov/topics/population/hispanic-origin/about.html |website=www.census.gov |access-date=18 May 2022}}</ref>}}
+!Race
+!Number
+!Percentage
+|-
+|[[Non-Hispanic or Latino whites|White]] (NH)
+|370
+|30.78%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] (NH)
+|749
+|62.31%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] (NH)
+|1
+|0.08%
+|-
+|[[Asian Americans|Asian]] (NH)
+|3
+|0.25%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] (NH)
+|1
+|0.08%
+|-
+|Some Other Race (NH)
+|2
+|0.17%
+|-
+|[[Multiracial Americans|Mixed/Multi-Racial]] (NH)
+|21
+|1.75%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]]
+|55
+|4.58%
+|-
+|'''Total'''
+|'''1,202'''
+|
+|}
+As of the [[2020 United States census]], there were 1,202 people, 686 households, and 505 families residing in the CDP.
+

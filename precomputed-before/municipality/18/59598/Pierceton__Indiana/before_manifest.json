@@ -1,0 +1,16 @@
+{
+  "article": "Pierceton,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/59598/Pierceton__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bf701d225ca0cc948264b51cea241b78690709fcd6e1a3d132e4041a08f1eda0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bf701d225ca0cc948264b51cea241b78690709fcd6e1a3d132e4041a08f1eda0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/59598/Pierceton__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "59598",
+  "timestamp": "2026-05-24T23:40:08.303585Z",
+  "version": 1
+}

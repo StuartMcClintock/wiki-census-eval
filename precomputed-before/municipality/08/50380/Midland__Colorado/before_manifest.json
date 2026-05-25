@@ -1,0 +1,16 @@
+{
+  "article": "Midland,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/50380/Midland__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "edf3e975d2c0511cac77272df35a8d33b76fb227df80cb5a131e908c122d38e4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "edf3e975d2c0511cac77272df35a8d33b76fb227df80cb5a131e908c122d38e4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/50380/Midland__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "50380",
+  "timestamp": "2026-05-24T23:35:33.003629Z",
+  "version": 1
+}

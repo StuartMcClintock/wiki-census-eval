@@ -1,0 +1,16 @@
+{
+  "article": "New_Kent,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/55800/New_Kent__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "888c73264502bdbe692809141c32de5a9203e60b4a28444895b1829e65a55d67",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "888c73264502bdbe692809141c32de5a9203e60b4a28444895b1829e65a55d67",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/55800/New_Kent__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "55800",
+  "timestamp": "2026-05-25T00:19:28.779339Z",
+  "version": 1
+}

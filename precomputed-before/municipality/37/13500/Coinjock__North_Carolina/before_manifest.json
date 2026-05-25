@@ -1,0 +1,16 @@
+{
+  "article": "Coinjock,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/13500/Coinjock__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1d3799d8f825d0083e23879f70b2005a05055954d76b3c120d41bab054c29b80",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1d3799d8f825d0083e23879f70b2005a05055954d76b3c120d41bab054c29b80",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/13500/Coinjock__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "13500",
+  "timestamp": "2026-05-25T00:01:50.486032Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Dry_Tavern,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/20080/Dry_Tavern__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5ac3e8e8a0a666b7f3f4b053f89f6c82342d44b64b279ba22655262a72e3b719",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5ac3e8e8a0a666b7f3f4b053f89f6c82342d44b64b279ba22655262a72e3b719",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/20080/Dry_Tavern__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "20080",
+  "timestamp": "2026-05-25T00:06:53.097707Z",
+  "version": 1
+}

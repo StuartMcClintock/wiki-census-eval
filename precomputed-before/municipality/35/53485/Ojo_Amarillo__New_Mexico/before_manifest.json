@@ -1,0 +1,16 @@
+{
+  "article": "Ojo_Amarillo,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/53485/Ojo_Amarillo__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a70960f96fb887ffe752d1d0da0161708b0677db6050c1b1ad63b67854d89302",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a70960f96fb887ffe752d1d0da0161708b0677db6050c1b1ad63b67854d89302",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/53485/Ojo_Amarillo__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "53485",
+  "timestamp": "2026-05-24T23:58:45.069905Z",
+  "version": 1
+}

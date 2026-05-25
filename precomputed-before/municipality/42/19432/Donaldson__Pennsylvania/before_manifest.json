@@ -1,0 +1,16 @@
+{
+  "article": "Donaldson,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/19432/Donaldson__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a3cd4ffb2135da9cb075873ef99f666f648ec549eaa5f39ae86b5e649318ca4f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a3cd4ffb2135da9cb075873ef99f666f648ec549eaa5f39ae86b5e649318ca4f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/19432/Donaldson__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "19432",
+  "timestamp": "2026-05-25T00:06:51.938467Z",
+  "version": 1
+}

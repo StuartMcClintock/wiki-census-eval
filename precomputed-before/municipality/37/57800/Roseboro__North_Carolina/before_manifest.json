@@ -1,0 +1,16 @@
+{
+  "article": "Roseboro,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/57800/Roseboro__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e8e2cc17fe33eb9f1f0e00c947fed658fceb0a7b14eba69e930e0cc507e53e99",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e8e2cc17fe33eb9f1f0e00c947fed658fceb0a7b14eba69e930e0cc507e53e99",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/57800/Roseboro__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "57800",
+  "timestamp": "2026-05-25T00:02:19.785301Z",
+  "version": 1
+}

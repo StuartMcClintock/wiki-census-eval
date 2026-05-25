@@ -1,0 +1,16 @@
+{
+  "article": "Sierra_City,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/71778/Sierra_City__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "29bbc0c42fbb8a1d539337f82bce9025e53a9d45d50b19983442d43c6a231204",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "29bbc0c42fbb8a1d539337f82bce9025e53a9d45d50b19983442d43c6a231204",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/71778/Sierra_City__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "71778",
+  "timestamp": "2026-05-24T23:35:05.484909Z",
+  "version": 1
+}

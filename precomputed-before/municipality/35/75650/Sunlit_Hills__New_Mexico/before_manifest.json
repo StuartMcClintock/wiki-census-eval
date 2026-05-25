@@ -1,0 +1,16 @@
+{
+  "article": "Sunlit_Hills,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/75650/Sunlit_Hills__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "46a2f1b7dfe54ba90a3c3a0272bd5357637d72968eabcd29b0c1155c24cb5678",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "46a2f1b7dfe54ba90a3c3a0272bd5357637d72968eabcd29b0c1155c24cb5678",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/75650/Sunlit_Hills__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "75650",
+  "timestamp": "2026-05-24T23:59:06.963631Z",
+  "version": 1
+}

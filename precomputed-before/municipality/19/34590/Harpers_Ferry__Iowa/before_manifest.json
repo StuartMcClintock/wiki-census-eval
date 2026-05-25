@@ -1,0 +1,16 @@
+{
+  "article": "Harpers_Ferry,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/34590/Harpers_Ferry__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "957a46dc9afd06d81ad99e9dc5b550b08644e4318992d9dc395c6c4acc2314d1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "957a46dc9afd06d81ad99e9dc5b550b08644e4318992d9dc395c6c4acc2314d1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/34590/Harpers_Ferry__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "34590",
+  "timestamp": "2026-05-24T23:41:09.474493Z",
+  "version": 1
+}

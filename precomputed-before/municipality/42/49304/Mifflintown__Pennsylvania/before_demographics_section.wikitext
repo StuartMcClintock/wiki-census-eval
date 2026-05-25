@@ -1,0 +1,106 @@
+==Demographics==
+{{US Census population
+|1850= 485
+|1860= 767
+|1870= 857
+|1880= 842
+|1890= 877
+|1900= 953
+|1910= 954
+|1920= 1083
+|1930= 1027
+|1940= 1097
+|1950= 1013
+|1960= 887
+|1970= 828
+|1980= 783
+|1990= 866
+|2000= 861
+|2010= 936
+|2020= 840
+|estyear=2024
+|estimate=824
+|estref=<ref name="USCensusEst2020-2024">{{cite web |title=City and Town Population Totals: 2020-2024 |url=https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html |website=Census.gov |publisher=US Census Bureau |access-date=May 27, 2025}}</ref> {{decrease}}
+|footnote=Sources:<ref name="USDecennialCensus">{{cite web|title=Census of Population and Housing|url=https://www.census.gov/programs-surveys/decennial-census.html|publisher=U.S. Census Bureau|access-date=11 December 2013}}</ref><ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A42|title=Census Population API|publisher=United States Census Bureau|accessdate=Oct 12, 2022}}</ref>
+}}
+
+===2020 census===
+{| class="wikitable"
+|+'''Mifflintown borough, Pennsylvania – Racial and Ethnic Composition'''<br> (''NH = Non-Hispanic'')<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2 HISPANIC OR LATINO, AND NOT HISPANIC OR LATINO BY RACE – 2010: DEC Redistricting Data (PL 94-171) – Mifflintown borough, Pennsylvania|url=https://data.census.gov/table?q=p2&g=160XX00US4249304&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]]}}</ref>
+!Pop 2020<ref name=2020CensusP2>{{Cite web|title=P2 HISPANIC OR LATINO, AND NOT HISPANIC OR LATINO BY RACE - 2020: DEC Redistricting Data (PL 94-171) – Mifflintown borough, Pennsylvania|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US4249304&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]]}}</ref>
+!% 2010
+!% 2020
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|748
+|578
+|79.91%
+|68.81%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|5
+|7
+|0.53%
+|0.83%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|5
+|1
+|0.47%
+|0.12%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|4
+|1
+|0.43%
+|0.12%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|0
+|0.00%
+|0.00%
+|-
+|[[Race and ethnicity in the United States census|Some Other Race]] alone (NH)
+|0
+|2
+|0.00%
+|0.24%
+|-
+|[[Multiracial Americans|Mixed Race/Multi-Racial]] (NH)
+|16
+|23
+|1.71%
+|2.74%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|158
+|228
+|16.88%
+|27.14%
+|-
+|'''Total'''
+|'''936'''
+|'''840'''
+|'''100.00%'''
+|'''100.00%'''
+|}
+
+===2000 census===
+As of the [[census]]<ref name="GR2" /> of 2000, there were 861 people, 372 households, and 210 families residing in the borough. The population density was {{convert|6,184.9|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 395 housing units at an average density of {{convert|2,837.4|/mi2|/km2|disp=preunit|units&nbsp;|units|}}. The racial makeup of the borough was 93.96% [[White (U.S. Census)|White]], 0.23% [[Native American (U.S. Census)|Native American]], 0.23% [[Asian (U.S. Census)|Asian]], 3.72% [[Pacific Islander (U.S. Census)|Pacific Islander]], 1.39% from [[Race (United States Census)|other races]], and 0.46% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 8.71% of the population.
+
+There were 372 households, out of which 28.0% had children under the age of 18 living with them, 40.3% were [[Marriage|married couples]] living together, 12.9% had a female householder with no husband present, and 43.5% were non-families. 38.7% of all households were made up of individuals, and 18.8% had someone living alone who was 65 years of age or older. The average household size was 2.24 and the average family size was 2.97.
+
+In the borough the population was spread out, with 25.2% under the age of 18, 8.5% from 18 to 24, 30.3% from 25 to 44, 20.9% from 45 to 64, and 15.1% who were 65 years of age or older. The median age was 36 years. For every 100 females there were 96.6 males. For every 100 females age 18 and over, there were 92.8 males.
+
+The median income for a household in the borough was $28,125, and the median income for a family was $33,594. Males had a median income of $26,563 versus $20,125 for females. The [[per capita income]] for the borough was $14,394. About 10.7% of families and 13.7% of the population were below the [[poverty line]], including 18.1% of those under age 18 and 17.0% of those age 65 or over.
+
+There is a large Amish and Mennonite population around the borough.
+<gallery mode=packed heights=160>
+Mifflintown PA 1.jpg|House near the courthouse
+Juniata County Courthouse.jpg|Juniata County Courthouse
+Mifflintown, Pennsylvania.jpg|Building on Bridge Street
+</gallery>
+

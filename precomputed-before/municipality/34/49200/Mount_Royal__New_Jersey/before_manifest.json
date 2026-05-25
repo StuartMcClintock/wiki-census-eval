@@ -1,0 +1,16 @@
+{
+  "article": "Mount_Royal,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/49200/Mount_Royal__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "664cc0d1632572608a6266d2829cc9e01cd2bb9650b0e64e684fd5266be98fb8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "664cc0d1632572608a6266d2829cc9e01cd2bb9650b0e64e684fd5266be98fb8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/49200/Mount_Royal__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "49200",
+  "timestamp": "2026-05-24T23:57:55.871092Z",
+  "version": 1
+}

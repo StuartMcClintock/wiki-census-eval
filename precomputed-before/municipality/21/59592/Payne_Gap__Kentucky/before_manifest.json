@@ -1,0 +1,16 @@
+{
+  "article": "Payne_Gap,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/59592/Payne_Gap__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a61adc2203c43b89264abada65ecd6ec8d2fbc516c7c6c852c43bf30ee1ae065",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a61adc2203c43b89264abada65ecd6ec8d2fbc516c7c6c852c43bf30ee1ae065",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/59592/Payne_Gap__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "59592",
+  "timestamp": "2026-05-24T23:44:15.511899Z",
+  "version": 1
+}

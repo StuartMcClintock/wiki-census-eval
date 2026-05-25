@@ -1,0 +1,16 @@
+{
+  "article": "Wayne_Lakes,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/82348/Wayne_Lakes__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dc5b0b837f792b5beeeda84ab4d3a574d2b3276602924bf1255ac34c6cf5ce3b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dc5b0b837f792b5beeeda84ab4d3a574d2b3276602924bf1255ac34c6cf5ce3b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/82348/Wayne_Lakes__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "82348",
+  "timestamp": "2026-05-25T00:05:36.447858Z",
+  "version": 1
+}

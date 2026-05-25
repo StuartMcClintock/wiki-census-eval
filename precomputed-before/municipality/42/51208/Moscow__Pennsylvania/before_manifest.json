@@ -1,0 +1,16 @@
+{
+  "article": "Moscow,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/51208/Moscow__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e9b6076a934149937ba8d1477a82684599e965d1f25c3b2de354d5cc03ce4512",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e9b6076a934149937ba8d1477a82684599e965d1f25c3b2de354d5cc03ce4512",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/51208/Moscow__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "51208",
+  "timestamp": "2026-05-25T00:08:10.238660Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Angola_on_the_Lake,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/02220/Angola_on_the_Lake__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "22b3b663d58262097c7f23bac11717b457f3b2e162f5f4ebde86f97edafbef4c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "22b3b663d58262097c7f23bac11717b457f3b2e162f5f4ebde86f97edafbef4c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/02220/Angola_on_the_Lake__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "02220",
+  "timestamp": "2026-05-25T00:00:30.417468Z",
+  "version": 1
+}

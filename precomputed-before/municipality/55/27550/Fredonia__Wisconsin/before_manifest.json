@@ -1,0 +1,16 @@
+{
+  "article": "Fredonia,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/27550/Fredonia__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d09fba468793521454a9ff4b8c7b599c5dcd23b5d06b2ce25492a58cb5aa0510",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d09fba468793521454a9ff4b8c7b599c5dcd23b5d06b2ce25492a58cb5aa0510",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/27550/Fredonia__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "27550",
+  "timestamp": "2026-05-25T00:22:07.534052Z",
+  "version": 1
+}

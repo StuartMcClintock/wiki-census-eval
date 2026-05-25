@@ -1,0 +1,16 @@
+{
+  "article": "Markleysburg,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/47560/Markleysburg__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d2516f933745943f05d4c8e0d4d20c527785891e32be654179eb3f27e5e9bd52",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d2516f933745943f05d4c8e0d4d20c527785891e32be654179eb3f27e5e9bd52",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/47560/Markleysburg__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "47560",
+  "timestamp": "2026-05-25T00:08:02.109448Z",
+  "version": 1
+}

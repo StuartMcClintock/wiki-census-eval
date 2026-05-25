@@ -1,0 +1,16 @@
+{
+  "article": "Bellville,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/05284/Bellville__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "566c3d6e6274c6cdfd5fa8fa91e1042c290e32cf386c219ae530c1f37ca501fd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "566c3d6e6274c6cdfd5fa8fa91e1042c290e32cf386c219ae530c1f37ca501fd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/05284/Bellville__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "05284",
+  "timestamp": "2026-05-25T00:03:33.672757Z",
+  "version": 1
+}

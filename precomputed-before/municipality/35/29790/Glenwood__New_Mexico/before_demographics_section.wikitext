@@ -1,0 +1,7 @@
+==Demographics==
+{{US Census population
+|2020= 113
+|align=left
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=http://www.census.gov/prod/www/decennial.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2016|archive-date=February 28, 2022|archive-url=https://web.archive.org/web/20220228083025/https://www.census.gov/prod/www/decennial.html|url-status=live}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A35|title=Census Population API|publisher=United States Census Bureau|accessdate=Oct 12, 2022|archive-date=May 25, 2023|archive-url=https://web.archive.org/web/20230525062130/https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A35|url-status=live}}</ref>
+}}{{clear left}}
+

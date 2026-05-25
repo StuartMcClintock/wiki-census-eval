@@ -1,0 +1,16 @@
+{
+  "article": "Ford_Cliff,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/26520/Ford_Cliff__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e5b9f943ca393981bcb92cda723299652b21a17103d8b18ca68e14b7a8b9e501",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e5b9f943ca393981bcb92cda723299652b21a17103d8b18ca68e14b7a8b9e501",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/26520/Ford_Cliff__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "26520",
+  "timestamp": "2026-05-25T00:07:10.183830Z",
+  "version": 1
+}

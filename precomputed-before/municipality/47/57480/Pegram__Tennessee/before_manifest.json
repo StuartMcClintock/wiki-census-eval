@@ -1,0 +1,16 @@
+{
+  "article": "Pegram,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/57480/Pegram__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "df43184f5829771ae2d6078810f4b6e4ae5b3ef248cc4a45c63076d610ded66c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "df43184f5829771ae2d6078810f4b6e4ae5b3ef248cc4a45c63076d610ded66c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/57480/Pegram__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "57480",
+  "timestamp": "2026-05-25T00:14:50.520636Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Alamo_Lake,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/01170/Alamo_Lake__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "67f37b33ba27a40465c3b31ca57efe7907429909140421aa15afdf0421662f7f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "67f37b33ba27a40465c3b31ca57efe7907429909140421aa15afdf0421662f7f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/01170/Alamo_Lake__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "01170",
+  "timestamp": "2026-05-24T23:32:46.913111Z",
+  "version": 1
+}

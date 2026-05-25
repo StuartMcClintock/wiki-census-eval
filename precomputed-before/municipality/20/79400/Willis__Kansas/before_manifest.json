@@ -1,0 +1,16 @@
+{
+  "article": "Willis,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/79400/Willis__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2374265fbc3e958f76d960ec64f6d742436642dd226c9414a16c49a4f67d00de",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2374265fbc3e958f76d960ec64f6d742436642dd226c9414a16c49a4f67d00de",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/79400/Willis__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "79400",
+  "timestamp": "2026-05-24T23:43:38.356845Z",
+  "version": 1
+}

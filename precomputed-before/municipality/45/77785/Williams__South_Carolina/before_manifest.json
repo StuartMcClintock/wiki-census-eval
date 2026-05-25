@@ -1,0 +1,16 @@
+{
+  "article": "Williams,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/77785/Williams__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d5020fccff546a42682e8add1234240a82636b9bdd603f2981b764c002abb315",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d5020fccff546a42682e8add1234240a82636b9bdd603f2981b764c002abb315",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/77785/Williams__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "77785",
+  "timestamp": "2026-05-25T00:10:27.809921Z",
+  "version": 1
+}

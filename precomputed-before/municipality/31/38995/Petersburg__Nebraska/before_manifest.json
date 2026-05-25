@@ -1,0 +1,16 @@
+{
+  "article": "Petersburg,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/38995/Petersburg__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7cc9b787078e44cc076ab8ed81acb01d212634d51618e2a633455499708e5f04",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7cc9b787078e44cc076ab8ed81acb01d212634d51618e2a633455499708e5f04",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/38995/Petersburg__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "38995",
+  "timestamp": "2026-05-24T23:56:02.769136Z",
+  "version": 1
+}

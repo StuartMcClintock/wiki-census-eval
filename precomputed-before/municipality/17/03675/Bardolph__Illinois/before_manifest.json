@@ -1,0 +1,16 @@
+{
+  "article": "Bardolph,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/03675/Bardolph__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "367e7e8a6ca7261b85d8b6abfd98b53290b4c8e6142ed1de163357e9869556f5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "367e7e8a6ca7261b85d8b6abfd98b53290b4c8e6142ed1de163357e9869556f5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/03675/Bardolph__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "03675",
+  "timestamp": "2026-05-24T23:37:35.807758Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Annada,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/01252/Annada__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7f536b3433f9db5fc72dd83cb37362b60003a6a190f8c83cf8591f4616ade791",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7f536b3433f9db5fc72dd83cb37362b60003a6a190f8c83cf8591f4616ade791",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/01252/Annada__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "01252",
+  "timestamp": "2026-05-24T23:50:31.519625Z",
+  "version": 1
+}

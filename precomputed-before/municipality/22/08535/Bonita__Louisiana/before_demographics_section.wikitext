@@ -1,0 +1,104 @@
+==Demographics==
+{{US Census population
+|1910= 273
+|1920= 310
+|1930= 507
+|1940= 422
+|1950= 504
+|1960= 574
+|1970= 533
+|1980= 503
+|1990= 265
+|2000= 335
+|2010= 284
+|2020= 170
+|estyear=2024
+|estimate=160
+|estref=<ref>{{cite web |title=City and Town Population Totals: 2020-2024 |url=https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html |publisher=United States Census Bureau |access-date=9 August 2025}}</ref> {{decrease}}
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|access-date=June 4, 2015}}</ref>
+}}
+
+===2020 census===
+{| class="wikitable" style="text-align:center;"
+|+'''Bonita village, Louisiana – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004 Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Bonita village, Louisiana|url=https://data.census.gov/table?q=160XX00US2208535&tid=DECENNIALSF12000.P004|website=[[United States Census Bureau]]}}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2 Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Bonita village, Louisiana|url=https://data.census.gov/table?q=p2&g=160XX00US2208535&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]]}}</ref>
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web|title=P2 Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Bonita village, Louisiana|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US2208535&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]]}}</ref>
+!% 2000
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|143
+|87
+|style='background: #ffffe6; |55
+|42.69%
+|30.63%
+|style='background: #ffffe6; |32.35%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|186
+|170
+|style='background: #ffffe6; |99
+|55.52%
+|59.86%
+|style='background: #ffffe6; |58.24%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|1
+|5
+|style='background: #ffffe6; |1
+|0.30%
+|1.76%
+|style='background: #ffffe6; |0.59%
+|-
+|[[Native Hawaiian]] or [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |1
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.59%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|0
+|1
+|style='background: #ffffe6; |4
+|0.00%
+|0.35%
+|style='background: #ffffe6; |2.35%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|5
+|21
+|style='background: #ffffe6; |10
+|1.49%
+|7.39%
+|style='background: #ffffe6; |5.88%
+|-
+|'''Total'''
+|'''335'''
+|'''284'''
+|style='background: #ffffe6; |'''170'''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+

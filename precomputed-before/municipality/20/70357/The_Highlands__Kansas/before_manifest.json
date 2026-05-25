@@ -1,0 +1,16 @@
+{
+  "article": "The_Highlands,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/70357/The_Highlands__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "986f64fc2dc282abd14c543820922c1ee602634de442b44c641a7706b582fbb2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "986f64fc2dc282abd14c543820922c1ee602634de442b44c641a7706b582fbb2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/70357/The_Highlands__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "70357",
+  "timestamp": "2026-05-24T23:43:32.475404Z",
+  "version": 1
+}

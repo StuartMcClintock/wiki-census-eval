@@ -1,0 +1,16 @@
+{
+  "article": "Utica,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/79472/Utica__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "25b5bf8c9147d17cf0aa96238835f1a9ea3f8a90db979f3f52d00d25f08d1a52",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "25b5bf8c9147d17cf0aa96238835f1a9ea3f8a90db979f3f52d00d25f08d1a52",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/79472/Utica__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "79472",
+  "timestamp": "2026-05-25T00:09:21.402362Z",
+  "version": 1
+}

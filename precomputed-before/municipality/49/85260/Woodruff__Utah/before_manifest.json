@@ -1,0 +1,16 @@
+{
+  "article": "Woodruff,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/85260/Woodruff__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cc7ae428c354508d30a08e650fb1bcc70be63de9b77dd6ff06b0e5ffe36506cb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cc7ae428c354508d30a08e650fb1bcc70be63de9b77dd6ff06b0e5ffe36506cb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/85260/Woodruff__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "85260",
+  "timestamp": "2026-05-25T00:17:12.930442Z",
+  "version": 1
+}

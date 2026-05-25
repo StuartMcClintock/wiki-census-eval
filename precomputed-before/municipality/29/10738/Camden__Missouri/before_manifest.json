@@ -1,0 +1,16 @@
+{
+  "article": "Camden,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/10738/Camden__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "518afa9dcc818ab2f99a9321aa9990071219b83734c3a06530beb39dfd13c5b7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "518afa9dcc818ab2f99a9321aa9990071219b83734c3a06530beb39dfd13c5b7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/10738/Camden__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "10738",
+  "timestamp": "2026-05-24T23:50:52.436463Z",
+  "version": 1
+}

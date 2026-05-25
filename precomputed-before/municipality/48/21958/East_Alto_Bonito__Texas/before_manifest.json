@@ -1,0 +1,16 @@
+{
+  "article": "East_Alto_Bonito,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/21958/East_Alto_Bonito__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f2c0a2a5542590110d0a628ea3ea557698929a2d680b59fc97c2d7e8181b84d6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f2c0a2a5542590110d0a628ea3ea557698929a2d680b59fc97c2d7e8181b84d6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/21958/East_Alto_Bonito__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "21958",
+  "timestamp": "2026-05-25T00:15:30.784431Z",
+  "version": 1
+}

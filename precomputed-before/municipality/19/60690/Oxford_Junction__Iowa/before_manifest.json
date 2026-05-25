@@ -1,0 +1,16 @@
+{
+  "article": "Oxford_Junction,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/60690/Oxford_Junction__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "02a2f6877e2c209bef64f9f99d2b339184d9ce0857f651a5cf3a4f38e49fc3cb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "02a2f6877e2c209bef64f9f99d2b339184d9ce0857f651a5cf3a4f38e49fc3cb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/60690/Oxford_Junction__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "60690",
+  "timestamp": "2026-05-24T23:41:36.233200Z",
+  "version": 1
+}

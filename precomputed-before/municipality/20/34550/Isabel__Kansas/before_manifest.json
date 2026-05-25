@@ -1,0 +1,16 @@
+{
+  "article": "Isabel,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/34550/Isabel__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "df5a3a2713e15e5d99cf39e459c496fe74177b5ab4f8554e8e80df2e6a018ae7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "df5a3a2713e15e5d99cf39e459c496fe74177b5ab4f8554e8e80df2e6a018ae7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/34550/Isabel__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "34550",
+  "timestamp": "2026-05-24T23:42:48.726809Z",
+  "version": 1
+}

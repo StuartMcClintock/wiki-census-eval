@@ -1,0 +1,16 @@
+{
+  "article": "Sombrillo,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/73890/Sombrillo__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "489f5b0a3540eaae1784e08bd8e91c8ee32918ac4520abc09246a452cfebfce0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "489f5b0a3540eaae1784e08bd8e91c8ee32918ac4520abc09246a452cfebfce0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/73890/Sombrillo__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "73890",
+  "timestamp": "2026-05-24T23:59:06.240594Z",
+  "version": 1
+}

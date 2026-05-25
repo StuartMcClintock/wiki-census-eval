@@ -1,0 +1,16 @@
+{
+  "article": "Mattawana,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/48072/Mattawana__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5d58a7a8ff4d0d0272c36bf2d9a6d99c69a1ac9374d0c3fbd327466d8479a38a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5d58a7a8ff4d0d0272c36bf2d9a6d99c69a1ac9374d0c3fbd327466d8479a38a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/48072/Mattawana__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "48072",
+  "timestamp": "2026-05-25T00:08:03.260564Z",
+  "version": 1
+}

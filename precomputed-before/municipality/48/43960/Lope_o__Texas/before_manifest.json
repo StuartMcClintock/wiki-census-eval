@@ -1,0 +1,16 @@
+{
+  "article": "Lope\u00f1o,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/43960/Lope_o__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7a56977194a9731ce50b691f2010d5af663069cd3ccd2553631c31a9f79200a8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7a56977194a9731ce50b691f2010d5af663069cd3ccd2553631c31a9f79200a8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/43960/Lope_o__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "43960",
+  "timestamp": "2026-05-25T00:15:56.294610Z",
+  "version": 1
+}

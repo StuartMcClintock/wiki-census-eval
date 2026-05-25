@@ -1,0 +1,54 @@
+==Demographics==
+{{US Census population
+| align = left
+| 1990 = 200
+| 2000 = 544
+| 2010 = 968
+| 2020 = 2973
+| footnote = U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2015}}</ref>
+}}
+
+{| class="wikitable"
+|+'''Hackberry racial composition as of 2020'''<ref name=":0">{{Cite web |title=Explore Census Data |url=https://data.census.gov/cedsci/table?g=1600000US4831715&tid=DECENNIALPL2020.P2 |access-date=May 22, 2022 |website=data.census.gov}}</ref><br /> (NH = Non-Hispanic){{efn|Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos can be of any race.<ref>https://www.census.gov/ {{nonspecific|date=August 2022}}</ref><ref>{{cite web |title=About the Hispanic Population and its Origin |url=https://www.census.gov/topics/population/hispanic-origin/about.html |website=www.census.gov |access-date=May 18, 2022}}</ref>}}
+!Race
+!Number
+!Percentage
+|-
+|[[Non-Hispanic or Latino whites|White]] (NH)
+|1,007
+|33.87%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] (NH)
+|498
+|16.75%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] (NH)
+|14
+|0.47%
+|-
+|[[Asian Americans|Asian]] (NH)
+|383
+|12.88%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] (NH)
+|2
+|0.07%
+|-
+|Some Other Race (NH)
+|25
+|0.84%
+|-
+|[[Multiracial Americans|Mixed/Multi-Racial]] (NH)
+|97
+|3.26%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]]
+|947
+|31.85%
+|-
+|'''Total'''
+|'''2,973'''
+|
+|}
+As of the [[2020 United States census]], there were 2,973 people, 802 households, and 646 families residing in the town.
+

@@ -1,0 +1,16 @@
+{
+  "article": "Scranton,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/63675/Scranton__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9aa36dfeaf23eb65497615f3420b105e89b9acbfb2a2993b88de2d235e7b8138",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9aa36dfeaf23eb65497615f3420b105e89b9acbfb2a2993b88de2d235e7b8138",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/63675/Scranton__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "63675",
+  "timestamp": "2026-05-24T23:43:27.983201Z",
+  "version": 1
+}

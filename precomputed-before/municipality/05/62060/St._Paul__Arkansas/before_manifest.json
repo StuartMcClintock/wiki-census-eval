@@ -1,0 +1,16 @@
+{
+  "article": "St._Paul,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/62060/St._Paul__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "05398c118e436b9d66cddbc69b91b4dd092c98cd0905daa685b589f380683af5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "05398c118e436b9d66cddbc69b91b4dd092c98cd0905daa685b589f380683af5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/62060/St._Paul__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "62060",
+  "timestamp": "2026-05-24T23:34:07.579235Z",
+  "version": 1
+}

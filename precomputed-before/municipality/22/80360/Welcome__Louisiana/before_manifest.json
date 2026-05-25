@@ -1,0 +1,16 @@
+{
+  "article": "Welcome,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/80360/Welcome__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "104a9eb353d19c8ec9d5a4df8e9348a28c01a352357ed1dc08256d237d3b0c4d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "104a9eb353d19c8ec9d5a4df8e9348a28c01a352357ed1dc08256d237d3b0c4d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/80360/Welcome__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "80360",
+  "timestamp": "2026-05-24T23:45:12.382330Z",
+  "version": 1
+}

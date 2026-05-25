@@ -1,0 +1,16 @@
+{
+  "article": "Sugar_Grove,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/75024/Sugar_Grove__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "935e79449a5c7a189b9f3da7a2ff4f2cd5c9c6b7f50117b3a5d234e6e256f324",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "935e79449a5c7a189b9f3da7a2ff4f2cd5c9c6b7f50117b3a5d234e6e256f324",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/75024/Sugar_Grove__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "75024",
+  "timestamp": "2026-05-25T00:09:13.010383Z",
+  "version": 1
+}

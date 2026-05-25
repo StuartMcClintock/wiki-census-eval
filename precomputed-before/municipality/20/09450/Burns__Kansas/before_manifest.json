@@ -1,0 +1,16 @@
+{
+  "article": "Burns,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/09450/Burns__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0dba1820f8b14ad49984263e616d24d3ba22ee7ed11108a735b5d8ea33d461c3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0dba1820f8b14ad49984263e616d24d3ba22ee7ed11108a735b5d8ea33d461c3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/09450/Burns__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "09450",
+  "timestamp": "2026-05-24T23:42:24.744108Z",
+  "version": 1
+}

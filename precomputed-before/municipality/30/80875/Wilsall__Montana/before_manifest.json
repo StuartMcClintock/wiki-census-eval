@@ -1,0 +1,16 @@
+{
+  "article": "Wilsall,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/80875/Wilsall__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "28a6f08248eef4f5bd52e835b876881214017b5554ab5f09e2c406e89d00a1ce",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "28a6f08248eef4f5bd52e835b876881214017b5554ab5f09e2c406e89d00a1ce",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/80875/Wilsall__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "80875",
+  "timestamp": "2026-05-24T23:55:04.672312Z",
+  "version": 1
+}

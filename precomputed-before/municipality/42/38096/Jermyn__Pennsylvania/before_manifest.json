@@ -1,0 +1,16 @@
+{
+  "article": "Jermyn,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/38096/Jermyn__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "991bdc68282e288519cd37904f983e2b89ee22525683603c2b431841dbbca21c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "991bdc68282e288519cd37904f983e2b89ee22525683603c2b431841dbbca21c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/38096/Jermyn__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "38096",
+  "timestamp": "2026-05-25T00:07:42.716659Z",
+  "version": 1
+}

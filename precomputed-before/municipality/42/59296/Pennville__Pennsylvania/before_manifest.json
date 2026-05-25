@@ -1,0 +1,16 @@
+{
+  "article": "Pennville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/59296/Pennville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f1b64e0222f0ea0ce0f59bb7b8d6902e13508da2bb35132e491a2b5302cdd43b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f1b64e0222f0ea0ce0f59bb7b8d6902e13508da2bb35132e491a2b5302cdd43b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/59296/Pennville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "59296",
+  "timestamp": "2026-05-25T00:08:28.081249Z",
+  "version": 1
+}

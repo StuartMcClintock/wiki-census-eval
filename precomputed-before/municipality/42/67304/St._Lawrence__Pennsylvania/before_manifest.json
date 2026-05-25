@@ -1,0 +1,16 @@
+{
+  "article": "St._Lawrence,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/67304/St._Lawrence__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b8786b357cf23fdcf4fb64f98f98d1550c66c46816ea3b63978e90491bd80467",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b8786b357cf23fdcf4fb64f98f98d1550c66c46816ea3b63978e90491bd80467",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/67304/St._Lawrence__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "67304",
+  "timestamp": "2026-05-25T00:08:55.437507Z",
+  "version": 1
+}

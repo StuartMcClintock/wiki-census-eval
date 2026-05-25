@@ -1,0 +1,16 @@
+{
+  "article": "Great_Bend,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/32900/Great_Bend__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2692aeac8bf0e988dd4cedcac9f74dcd6a4430054a4d7a7afc8e6abcbf0a809d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2692aeac8bf0e988dd4cedcac9f74dcd6a4430054a4d7a7afc8e6abcbf0a809d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/32900/Great_Bend__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "32900",
+  "timestamp": "2026-05-25T00:03:01.806000Z",
+  "version": 1
+}

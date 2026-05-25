@@ -1,0 +1,16 @@
+{
+  "article": "Woody,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/86496/Woody__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b6c59b4ae6f7480111a8ee7d45cb21bbdcf9e61ab6cb300cfecff976c78bcf1f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b6c59b4ae6f7480111a8ee7d45cb21bbdcf9e61ab6cb300cfecff976c78bcf1f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/86496/Woody__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "86496",
+  "timestamp": "2026-05-24T23:35:16.083284Z",
+  "version": 1
+}

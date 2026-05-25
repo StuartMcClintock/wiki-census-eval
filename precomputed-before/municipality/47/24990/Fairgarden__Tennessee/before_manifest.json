@@ -1,0 +1,16 @@
+{
+  "article": "Fairgarden,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/24990/Fairgarden__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7bbd4613c4c26da684503a7d53d04e0e54d7a1f87dbfd2d7c1201e83ea3e87df",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7bbd4613c4c26da684503a7d53d04e0e54d7a1f87dbfd2d7c1201e83ea3e87df",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/24990/Fairgarden__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "24990",
+  "timestamp": "2026-05-25T00:14:38.584640Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Ferdinand,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/27460/Ferdinand__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6f0cbfbde944de6784253a121c355dd67d6cdd92d5c2ddcc09c00c18f29a617a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6f0cbfbde944de6784253a121c355dd67d6cdd92d5c2ddcc09c00c18f29a617a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/27460/Ferdinand__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "27460",
+  "timestamp": "2026-05-24T23:37:20.389951Z",
+  "version": 1
+}

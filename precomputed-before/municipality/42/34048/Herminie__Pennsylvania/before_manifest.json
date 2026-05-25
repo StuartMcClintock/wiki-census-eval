@@ -1,0 +1,16 @@
+{
+  "article": "Herminie,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/34048/Herminie__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "01bc2962531496d8c16436933c5665307514bc4ad3c9f6df014fa5baf2d81070",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "01bc2962531496d8c16436933c5665307514bc4ad3c9f6df014fa5baf2d81070",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/34048/Herminie__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "34048",
+  "timestamp": "2026-05-25T00:07:25.224769Z",
+  "version": 1
+}

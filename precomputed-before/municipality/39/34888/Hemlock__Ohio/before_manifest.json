@@ -1,0 +1,16 @@
+{
+  "article": "Hemlock,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/34888/Hemlock__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "986efd45056734772051b01e1b39e2c461a9dacf453bc48e9e663a555d583917",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "986efd45056734772051b01e1b39e2c461a9dacf453bc48e9e663a555d583917",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/34888/Hemlock__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "34888",
+  "timestamp": "2026-05-25T00:04:17.210467Z",
+  "version": 1
+}

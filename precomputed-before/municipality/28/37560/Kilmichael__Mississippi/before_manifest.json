@@ -1,0 +1,16 @@
+{
+  "article": "Kilmichael,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/37560/Kilmichael__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "051e02e0b74708770f1702553ef8407a494907cc7cabc1260ff7cc6fe49e4192",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "051e02e0b74708770f1702553ef8407a494907cc7cabc1260ff7cc6fe49e4192",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/37560/Kilmichael__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "37560",
+  "timestamp": "2026-05-24T23:50:13.616946Z",
+  "version": 1
+}

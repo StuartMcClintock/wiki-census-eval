@@ -1,0 +1,16 @@
+{
+  "article": "Frontier,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/28720/Frontier__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5dcaccda2d8126370511e3a94d5dfb46e96ac8fcdd106df6013a95c3120a7c4e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5dcaccda2d8126370511e3a94d5dfb46e96ac8fcdd106df6013a95c3120a7c4e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/28720/Frontier__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "28720",
+  "timestamp": "2026-05-25T00:02:56.625070Z",
+  "version": 1
+}

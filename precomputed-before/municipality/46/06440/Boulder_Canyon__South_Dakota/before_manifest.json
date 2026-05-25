@@ -1,0 +1,16 @@
+{
+  "article": "Boulder_Canyon,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/06440/Boulder_Canyon__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b019716ee04341a89400ca5dcc9d8b40fe18c472b08444652010d581d4ca34b8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b019716ee04341a89400ca5dcc9d8b40fe18c472b08444652010d581d4ca34b8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/06440/Boulder_Canyon__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "06440",
+  "timestamp": "2026-05-25T00:10:31.911904Z",
+  "version": 1
+}

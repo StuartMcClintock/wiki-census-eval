@@ -1,0 +1,16 @@
+{
+  "article": "Newhope,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/49370/Newhope__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9d8070166762cfb6a1e4c0fc59b169b49472d79f79f51efa53c6579acdc283c9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9d8070166762cfb6a1e4c0fc59b169b49472d79f79f51efa53c6579acdc283c9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/49370/Newhope__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "49370",
+  "timestamp": "2026-05-24T23:33:55.221518Z",
+  "version": 1
+}

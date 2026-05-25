@@ -1,0 +1,16 @@
+{
+  "article": "Jobstown,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/36120/Jobstown__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "13ab48ca66f43cc9ab1c97cff4e8a5e06cbdf9bb0b20aa8cfb5dbaca91213d1c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "13ab48ca66f43cc9ab1c97cff4e8a5e06cbdf9bb0b20aa8cfb5dbaca91213d1c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/36120/Jobstown__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "36120",
+  "timestamp": "2026-05-24T23:57:51.558238Z",
+  "version": 1
+}

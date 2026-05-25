@@ -1,0 +1,16 @@
+{
+  "article": "Glenolden,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/29720/Glenolden__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9c386125c8127b5bbe61855c4f1395b91fdd3f76ea2510d1b321cadd59d7cda0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9c386125c8127b5bbe61855c4f1395b91fdd3f76ea2510d1b321cadd59d7cda0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/29720/Glenolden__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "29720",
+  "timestamp": "2026-05-25T00:07:17.114804Z",
+  "version": 1
+}

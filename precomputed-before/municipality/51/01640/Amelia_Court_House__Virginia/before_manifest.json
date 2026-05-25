@@ -1,0 +1,16 @@
+{
+  "article": "Amelia_Court_House,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/01640/Amelia_Court_House__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d3d04018567f9e6dd3460c37da99e33ede916c8c70a4a223c843791194298944",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d3d04018567f9e6dd3460c37da99e33ede916c8c70a4a223c843791194298944",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/01640/Amelia_Court_House__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "01640",
+  "timestamp": "2026-05-25T00:17:21.191054Z",
+  "version": 1
+}

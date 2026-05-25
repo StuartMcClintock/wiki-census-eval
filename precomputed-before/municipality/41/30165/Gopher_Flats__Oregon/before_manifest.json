@@ -1,0 +1,16 @@
+{
+  "article": "Gopher_Flats,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/30165/Gopher_Flats__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "27265b08e7f1f1d200c2e3457f9e9d27d1e65f4082717c235c9579ab5cf82650",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "27265b08e7f1f1d200c2e3457f9e9d27d1e65f4082717c235c9579ab5cf82650",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/30165/Gopher_Flats__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "30165",
+  "timestamp": "2026-05-25T00:05:48.140716Z",
+  "version": 1
+}

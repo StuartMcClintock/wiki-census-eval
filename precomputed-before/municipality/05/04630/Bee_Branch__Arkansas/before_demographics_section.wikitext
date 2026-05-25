@@ -1,0 +1,54 @@
+==Demographics==
+{{US Census population
+|2020= 293
+|estyear=
+|estimate=
+|estref=
+|align-fn=center
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census/decade.html|title=Decennial Census of Population and Housing by Decades|publisher=[[US Census Bureau]]|access-date=}}</ref><br> 2020<ref name=2020CensusP2/>
+}}
+
+===2020 census===
+{| class="wikitable"
+|+'''Bee Branch CDP, Arkansas – Demographic Profile'''<br> (''NH = Non-Hispanic'')<br><small>''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''</small>
+!Race / Ethnicity
+!Pop 2020<ref name=2020CensusP2>{{Cite web|title=P2 HISPANIC OR LATINO, AND NOT HISPANIC OR LATINO BY RACE – 2020: DEC Redistricting Data (PL 94-171) – Bee Branch CDP, Arkansas|url=https://data.census.gov/cedsci/table?q=p2&g=1600000US0504630&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]]}}</ref>
+!% 2020
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|251
+|85.67%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|2
+|0.68%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|3
+|1.02%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|0
+|0.00%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|0.00%
+|-
+|[[Race and ethnicity in the United States census|Some Other Race]] alone (NH)
+|1
+|0.34%
+|-
+|[[Multiracial Americans|Mixed Race/Multi-Racial]] (NH)
+|19
+|6.48%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|17
+|5.80%
+|-
+|'''Total'''
+|'''293'''
+|'''100.00%'''
+|}
+

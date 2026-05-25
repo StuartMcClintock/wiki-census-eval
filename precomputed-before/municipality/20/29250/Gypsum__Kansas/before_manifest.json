@@ -1,0 +1,16 @@
+{
+  "article": "Gypsum,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/29250/Gypsum__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9d73a50a0782a36e2fa9d0fdea2b7e1a1adad007b2dac70376fc4630a7c41d3a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9d73a50a0782a36e2fa9d0fdea2b7e1a1adad007b2dac70376fc4630a7c41d3a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/29250/Gypsum__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "29250",
+  "timestamp": "2026-05-24T23:42:43.459363Z",
+  "version": 1
+}

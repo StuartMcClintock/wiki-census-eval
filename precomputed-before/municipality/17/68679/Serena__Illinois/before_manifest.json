@@ -1,0 +1,16 @@
+{
+  "article": "Serena,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/68679/Serena__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d54f14329995d376b6cd8fc0c48e398ac30a8337d4f1fde86680712789cf67aa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d54f14329995d376b6cd8fc0c48e398ac30a8337d4f1fde86680712789cf67aa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/68679/Serena__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "68679",
+  "timestamp": "2026-05-24T23:39:10.558938Z",
+  "version": 1
+}

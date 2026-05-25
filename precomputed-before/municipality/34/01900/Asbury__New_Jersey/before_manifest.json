@@ -1,0 +1,16 @@
+{
+  "article": "Asbury,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/01900/Asbury__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d50a26c0a3af3ba2151a18266fd6da573c71bb9d5547a29ce884099bcd5c2012",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d50a26c0a3af3ba2151a18266fd6da573c71bb9d5547a29ce884099bcd5c2012",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/01900/Asbury__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "01900",
+  "timestamp": "2026-05-24T23:57:39.090414Z",
+  "version": 1
+}

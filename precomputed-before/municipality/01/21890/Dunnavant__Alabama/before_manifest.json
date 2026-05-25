@@ -1,0 +1,16 @@
+{
+  "article": "Dunnavant,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/21890/Dunnavant__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f31a849735bb2b2c691f730b0e6f6f07a9072d8923955012970cd744372f2282",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f31a849735bb2b2c691f730b0e6f6f07a9072d8923955012970cd744372f2282",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/21890/Dunnavant__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "21890",
+  "timestamp": "2026-05-24T23:31:53.817180Z",
+  "version": 1
+}

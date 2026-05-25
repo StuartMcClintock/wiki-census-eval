@@ -1,0 +1,16 @@
+{
+  "article": "Juniata,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/24950/Juniata__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "36368e2fdf105e4b3c6a612e844f2f6220f9fb9dcc31c510718cd31c6535cd7b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "36368e2fdf105e4b3c6a612e844f2f6220f9fb9dcc31c510718cd31c6535cd7b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/24950/Juniata__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "24950",
+  "timestamp": "2026-05-24T23:55:35.360034Z",
+  "version": 1
+}

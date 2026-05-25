@@ -1,0 +1,16 @@
+{
+  "article": "Levasy,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/41762/Levasy__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a6747cb1cf0655b4abe219dc7738aaa8044090e9a2ed90802420ed932d95fe66",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a6747cb1cf0655b4abe219dc7738aaa8044090e9a2ed90802420ed932d95fe66",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/41762/Levasy__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "41762",
+  "timestamp": "2026-05-24T23:53:27.633138Z",
+  "version": 1
+}

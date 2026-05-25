@@ -1,0 +1,16 @@
+{
+  "article": "Cream_Ridge,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/15730/Cream_Ridge__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bb552b5fd315b0b40e361d2f40e292c659cb84c8b997fd53e678dc28d96a7953",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bb552b5fd315b0b40e361d2f40e292c659cb84c8b997fd53e678dc28d96a7953",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/15730/Cream_Ridge__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "15730",
+  "timestamp": "2026-05-24T23:57:44.499405Z",
+  "version": 1
+}

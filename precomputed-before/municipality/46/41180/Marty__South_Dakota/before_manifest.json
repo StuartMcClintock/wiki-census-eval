@@ -1,0 +1,16 @@
+{
+  "article": "Marty,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/41180/Marty__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c7bc61e4df89c0e8d33913ca14321b3c90feae855f815a94250726543c4dcf9e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c7bc61e4df89c0e8d33913ca14321b3c90feae855f815a94250726543c4dcf9e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/41180/Marty__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "41180",
+  "timestamp": "2026-05-25T00:11:02.460464Z",
+  "version": 1
+}

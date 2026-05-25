@@ -1,0 +1,16 @@
+{
+  "article": "Jeffersonville,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/38323/Jeffersonville__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "47a69eb74546a9bc05151c2f38d059d7b277569e4cbe82ac952514fb3e90349e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "47a69eb74546a9bc05151c2f38d059d7b277569e4cbe82ac952514fb3e90349e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/38323/Jeffersonville__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "38323",
+  "timestamp": "2026-05-24T23:38:23.616304Z",
+  "version": 1
+}

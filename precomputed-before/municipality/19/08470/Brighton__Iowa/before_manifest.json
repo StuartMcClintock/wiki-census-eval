@@ -1,0 +1,16 @@
+{
+  "article": "Brighton,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/08470/Brighton__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a5cbbc74106d3e91d5f5a0e51a4aa9dbaeafff954e195c9195e2017b05fef245",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a5cbbc74106d3e91d5f5a0e51a4aa9dbaeafff954e195c9195e2017b05fef245",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/08470/Brighton__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "08470",
+  "timestamp": "2026-05-24T23:40:30.331287Z",
+  "version": 1
+}

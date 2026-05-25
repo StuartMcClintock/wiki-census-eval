@@ -1,0 +1,85 @@
+==Demographics==
+{{US Census population
+|1990= 3273
+|2000= 2458
+|2010= 1463
+|2020= 1241
+|align-fn=center
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census/decade.html|title=Decennial Census by Decade|website=[[United States Census Bureau]]}}</ref><br> 1950<ref name=1950CensusLA>{{Cite web|title= 1950 Census of Population - Louisiana - Table 7 - Population of all incorporated places and of unincorporated places of 1,000 or more: 1950 and 1940 |website=[[United States Census Bureau]]|date=1950 |url=  https://www2.census.gov/library/publications/decennial/1950/population-volume-1/vol-01-21.pdf }}</ref> 1960<ref name=1960CensusLA>{{Cite web|title= 1960 Census of Population - Number of Inhabitants - Louisiana - Table 8 - Population of All Incorporated Places and Unincorporated Places of 1,000 or More: 1940 to 1960  |website=[[United States Census Bureau]]|date= 1960|url=https://www2.census.gov/library/publications/decennial/1960/population-volume-1/37722904v1p20ch2.pdf  }}</ref> 1970<ref name=1970CensusLA>{{Cite web|title= 1970 Census of Population - Louisiana - Characteristics of the Population - Table 6. Population of Places: 1970 and 1960  |website=[[United States Census Bureau]]|date= 1970|url=https://www2.census.gov/prod2/decennial/documents/1970a_la-01.pdf  }}</ref> 1980<ref name=1980CensusLA>{{Cite web|title= 1980 Census of Population - Louisiana - Table 14 - Summary of General Characteristics |website=[[United States Census Bureau]]|date= 1980|url= https://www2.census.gov/prod2/decennial/documents/1980a_laABC-02.pdf }}</ref><br> 1990<ref name=1990CensusLA>{{Cite web|title= 1990 Census of Population - Louisiana - Table 1. Summary of General Characteristics of Persons: 1990 |website=[[United States Census Bureau]]|date=1990 |url= https://www2.census.gov/library/publications/decennial/1990/cp-1/cp-1-20.pdf }}</ref> 2000<ref name=2000CensusLA>{{Cite web|title= 2000 Census of Population - Population and Housing Unit Counts - Louisiana |publisher=United States Census Bureau|date= 2000|url=https://www2.census.gov/library/publications/2003/dec/phc-3-20.pdf}}</ref> 2010<ref name=2010CensusLA>{{Cite web|title= 2010 Census of Population - Population and Housing Unit Counts - Louisiana |url=https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-20.pdf|website=[[United States Census Bureau]]|archive-url=https://web.archive.org/web/20240402175429/https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-20.pdf| archive-date=April 2, 2024}}</ref>
+}}
+
+Dulac first appeared as a [[census designated place]] the [[1990 U.S. census]].<ref name=1990CensusLA/>
+
+{| class="wikitable" style="text-align:right"
+|+Dulac racial composition as of 2020<ref>{{Cite web|title=Explore Census Data|url=https://data.census.gov/cedsci/table?g=1600000US2221940&tid=DECENNIALPL2020.P2|access-date=2021-12-28|website=data.census.gov}}</ref>
+!scope="col"| Race
+!scope="col"| Number
+!scope="col"| Percentage
+|-
+!scope="row"| [[White (U.S. Census)|White]] (non-Hispanic)
+| 566
+| 45.61%
+|-
+!scope="row"| [[African American (U.S. Census)|Black or African American]] (non-Hispanic)
+| 42
+| 3.38%
+|-
+!scope="row"| [[Native American (U.S. Census)|Native American]]
+| 438
+| 35.29%
+|-
+!scope="row"| [[Asian (U.S. Census)|Asian]]
+| 26
+| 2.1%
+|-
+!scope="row"| [[Race (United States Census)|Other/Mixed]]
+| 94
+| 7.57%
+|-
+!scope="row"| [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]]
+| 75
+| 6.04%
+|}
+As of the [[2020 United States census]], there were 1,241 people, 521 households, and 283 families residing in the CDP.
+
+{| class="wikitable sortable collapsible" style="font-size: 90%;"
+|-
+! Largest ancestries (2000) !! Percent 
+|-
+| [[Houma people|Houma]] {{flagicon image|Flag_of_the_United_Houma_Nation.svg}}  || 27.8% 
+|-
+| [[French Americans|French]] {{flagicon|France}} || 22.5%
+|-
+| [[French Canadian Americans|French Canadian]] {{flagicon|France}} {{flagicon|Canada}}  || 8.9%
+|-
+| [[American (ethnicity)|American]] {{flagicon|United States}} || 6.0%
+|-
+| [[Italian Americans|Italian]] {{flagicon|Italy}} || 4.5% 
+|-
+| [[English American|English]] {{flagicon|England}} || 3.3% 
+|-
+| [[Irish American|Irish]] {{flagicon|Ireland}} || 1.9%
+|- 
+| [[Polish American|Polish]] {{flagicon|Poland}} || 0.5%
+|-
+| [[German Americans|German]] {{flagicon|Germany}} || 0.4%
+|- 
+| [[Welsh Americans|Welsh]] {{flagicon|Wales}} || 0.4%
+|}
+{| class="wikitable sortable collapsible" style="font-size: 90%;"
+|-
+! Languages (2000)<ref>{{Cite web|url=https://apps.mla.org/cgi-shl/docstudio/docs.pl?map_data_results|title=Data Center Results}}</ref>!! Percent 
+|-
+| Spoke [[English language|English]] at home || 63.56%
+|-
+| Spoke [[French language|French]] at home || 33.47%
+|-
+| Spoke [[Cajun French]] at home || 2.97%
+|}
+
+As of the [[census]]<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref> of 2000, there were 2,458 people, 768 households, and 609 families residing in the CDP. The population density was {{convert|114.8|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 1,063 housing units at an average density of {{convert|49.6|/sqmi|/km2|sp=us|adj=off}}. The racial makeup of the CDP was 53.99% [[White (U.S. Census)|White]], 2.48% [[African American (U.S. Census)|African American]], 39.42% [[Native American (U.S. Census)|Native American]], 0.49% [[Asian (U.S. Census)|Asian]], 0.49% from [[Race (United States Census)|other races]], and 3.13% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 1.71% of the population.
+
+There were 768 households, out of which 36.6% had children under the age of 18 living with them, 57.9% were [[Marriage|married couples]] living together, 14.2% had a female householder with no husband present, and 20.7% were non-families. 16.0% of all households were made up of individuals, and 7.6% had someone living alone who was 65 years of age or older. The average household size was 3.20 and the average family size was 3.55.
+
+In the CDP, the population was spread out, with 31.4% under the age of 18, 10.5% from 18 to 24, 25.4% from 25 to 44, 22.8% from 45 to 64, and 9.8% who were 65 years of age or older. The median age was 32 years. For every 100 females, there were 100.0 males. For every 100 females age 18 and over, there were 98.6 males. The median income for a household in the CDP was $22,900, and the median income for a family was $23,650. Males had a median income of $24,815 versus $17,045 for females. The [[per capita income]] for the CDP was $8,785. About 27.8% of families and 30.9% of the population were below the [[poverty line]], including 39.8% of those under age 18 and 17.4% of those age 65 or over.
+

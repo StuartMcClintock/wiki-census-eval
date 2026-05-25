@@ -1,0 +1,16 @@
+{
+  "article": "Rampart,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/64820/Rampart__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "608989fcab1b166ec6b2a0b498a05b618d0c13f725b38bb0dc988c13ba7dda92",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "608989fcab1b166ec6b2a0b498a05b618d0c13f725b38bb0dc988c13ba7dda92",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/64820/Rampart__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "64820",
+  "timestamp": "2026-05-24T23:32:42.781340Z",
+  "version": 1
+}

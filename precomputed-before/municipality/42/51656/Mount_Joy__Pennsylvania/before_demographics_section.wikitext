@@ -1,0 +1,36 @@
+==Demographics==
+{{US Census population
+|1860= 1729
+|1870= 1896
+|1880= 2058
+|1890= 1848
+|1900= 2018
+|1910= 2166
+|1920= 2192
+|1930= 2716
+|1940= 2855
+|1950= 3006
+|1960= 3292
+|1970= 5041
+|1980= 5680
+|1990= 6398
+|2000= 6765
+|2010= 7410
+|2020= 8325
+|estyear=2021
+|estimate=8323
+|estref=<ref name="USCensusEst2020-2021"/> {{decrease}}
+|footnote=Sources:<ref name="USDecennialCensus">{{cite web|title=Census of Population and Housing|url=https://www.census.gov/programs-surveys/decennial-census.html|publisher=U.S. Census Bureau|access-date=11 December 2013}}</ref><ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref><ref name=CensusPopEst>{{cite web|title=Incorporated Places and Minor Civil Divisions Datasets: Subcounty Resident Population Estimates: April 1, 2010 to July 1, 2012|url=https://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|work=Population Estimates|publisher=U.S. Census Bureau|access-date=11 December 2013|url-status=dead|archive-url=https://web.archive.org/web/20130611010502/http://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|archive-date=11 June 2013}}</ref><ref name=CensusQuickFacts>{{cite web|title=Mount Joy (borough) QuickFacts|url=http://quickfacts.census.gov/qfd/states/42/4251656.html|work=Population Estimates|publisher=U.S. Census Bureau|access-date=19 January 2015|archive-url=https://web.archive.org/web/20150120014059/http://quickfacts.census.gov/qfd/states/42/4251656.html|archive-date=20 January 2015|url-status=dead}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A42|title=Census Population API|publisher=United States Census Bureau|accessdate=Oct 12, 2022}}</ref>
+}}
+
+The [[2010 United States census]] reports the following demographics for Mount Joy Borough:<ref>[http://2010.census.gov/2010census/popmap/ipmtext.php 2010 United States Census Community Data] {{webarchive|url=https://web.archive.org/web/20121221034940/http://2010.census.gov/2010census/popmap/ipmtext.php |date=2012-12-21 }}</ref>
+* Total population: 7,410
+* Male: 3,624
+* Female: 3,786
+* Hispanic or Latino: 549
+* White: 6,809
+* African American: 187
+* Asian: 58
+* American Indian and Alaska Native: 20
+* Identified by two or more: 170
+

@@ -1,0 +1,16 @@
+{
+  "article": "Ford_City,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/26512/Ford_City__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "05eab46c228c99c3e2bd125c93ad0439b85508c434e827074f43b817d3405ea9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "05eab46c228c99c3e2bd125c93ad0439b85508c434e827074f43b817d3405ea9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/26512/Ford_City__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "26512",
+  "timestamp": "2026-05-25T00:07:10.073580Z",
+  "version": 1
+}

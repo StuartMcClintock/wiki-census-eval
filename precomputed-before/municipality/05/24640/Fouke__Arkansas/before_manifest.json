@@ -1,0 +1,16 @@
+{
+  "article": "Fouke,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/24640/Fouke__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bd609d09c6824e0d273e991d353ecd64302eddadb893ef1df88cd1192051af11",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bd609d09c6824e0d273e991d353ecd64302eddadb893ef1df88cd1192051af11",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/24640/Fouke__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "24640",
+  "timestamp": "2026-05-24T23:33:41.465115Z",
+  "version": 1
+}

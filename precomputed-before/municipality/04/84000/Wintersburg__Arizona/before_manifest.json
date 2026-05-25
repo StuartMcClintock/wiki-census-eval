@@ -1,0 +1,16 @@
+{
+  "article": "Wintersburg,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/84000/Wintersburg__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aa4c0c7b97987cc5666ced0446f78ccffcd2d6a906c6012852e9d081e164ab7c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aa4c0c7b97987cc5666ced0446f78ccffcd2d6a906c6012852e9d081e164ab7c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/84000/Wintersburg__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "84000",
+  "timestamp": "2026-05-24T23:33:15.534685Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "West_Farmington,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/83384/West_Farmington__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8d5bbba5810262c677ba40bd74eb983e6fea01f75ed8d2fb4a2af940e3985032",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8d5bbba5810262c677ba40bd74eb983e6fea01f75ed8d2fb4a2af940e3985032",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/83384/West_Farmington__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "83384",
+  "timestamp": "2026-05-25T00:05:37.060950Z",
+  "version": 1
+}

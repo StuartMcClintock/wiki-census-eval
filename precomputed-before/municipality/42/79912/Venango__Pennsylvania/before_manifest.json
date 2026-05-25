@@ -1,0 +1,16 @@
+{
+  "article": "Venango,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/79912/Venango__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7a3eae3b1066fbd12c47c1b47839b103dbbede0b7db3f1d452c30b4b428becf7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7a3eae3b1066fbd12c47c1b47839b103dbbede0b7db3f1d452c30b4b428becf7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/79912/Venango__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "79912",
+  "timestamp": "2026-05-25T00:09:22.177985Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Randlett,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/62910/Randlett__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4350dd56306de3cdca7b1ace0fb1839ff810af5828cb541c30c62e1057d90e5a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4350dd56306de3cdca7b1ace0fb1839ff810af5828cb541c30c62e1057d90e5a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/62910/Randlett__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "62910",
+  "timestamp": "2026-05-25T00:17:08.190652Z",
+  "version": 1
+}

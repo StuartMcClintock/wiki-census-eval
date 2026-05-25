@@ -1,0 +1,16 @@
+{
+  "article": "Cass,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/13684/Cass__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8406ad3f8ddb98a6927370fffc533fcbc07eefa692a763f5501b3a523773939a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8406ad3f8ddb98a6927370fffc533fcbc07eefa692a763f5501b3a523773939a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/13684/Cass__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "13684",
+  "timestamp": "2026-05-25T00:20:46.925877Z",
+  "version": 1
+}

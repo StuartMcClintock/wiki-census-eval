@@ -1,0 +1,16 @@
+{
+  "article": "New_Baltimore,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/54082/New_Baltimore__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0e77b6698d744782a535e2a1be433f574c9401563bb935682d1cb051b794cb8d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0e77b6698d744782a535e2a1be433f574c9401563bb935682d1cb051b794cb8d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/54082/New_Baltimore__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "54082",
+  "timestamp": "2026-05-25T00:04:51.293335Z",
+  "version": 1
+}

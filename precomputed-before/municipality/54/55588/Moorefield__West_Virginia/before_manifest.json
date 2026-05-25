@@ -1,0 +1,16 @@
+{
+  "article": "Moorefield,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/55588/Moorefield__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ffa2d0f1d44aded2d29eda59574ce6534c8ffcb5389072a3f9fb77583984bdb7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ffa2d0f1d44aded2d29eda59574ce6534c8ffcb5389072a3f9fb77583984bdb7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/55588/Moorefield__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "55588",
+  "timestamp": "2026-05-25T00:21:18.348160Z",
+  "version": 1
+}

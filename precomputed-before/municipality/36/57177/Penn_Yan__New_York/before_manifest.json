@@ -1,0 +1,16 @@
+{
+  "article": "Penn_Yan,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/57177/Penn_Yan__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d0650da45194e784d890d666484c1c5f673e6b9042841acb9b4720faee927044",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d0650da45194e784d890d666484c1c5f673e6b9042841acb9b4720faee927044",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/57177/Penn_Yan__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "57177",
+  "timestamp": "2026-05-25T00:01:02.862053Z",
+  "version": 1
+}

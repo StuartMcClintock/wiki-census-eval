@@ -1,0 +1,16 @@
+{
+  "article": "Coram,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/17500/Coram__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c15c59f5b275b6f6e6263b9b1a8a218443139921ece0fcf7590baee2786820f6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c15c59f5b275b6f6e6263b9b1a8a218443139921ece0fcf7590baee2786820f6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/17500/Coram__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "17500",
+  "timestamp": "2026-05-24T23:54:19.732531Z",
+  "version": 1
+}

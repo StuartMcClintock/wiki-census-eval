@@ -1,0 +1,16 @@
+{
+  "article": "Millersburg,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/52302/Millersburg__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a65966ae1aace04fee5fc38a73216c7e506db0470c5d207f229fb8baa1209d55",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a65966ae1aace04fee5fc38a73216c7e506db0470c5d207f229fb8baa1209d55",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/52302/Millersburg__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "52302",
+  "timestamp": "2026-05-24T23:44:12.663944Z",
+  "version": 1
+}

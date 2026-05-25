@@ -1,0 +1,16 @@
+{
+  "article": "Port_Sanilac,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/65900/Port_Sanilac__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "32d23cea31ca4fa91f0c834466a93e9ff8bffbf65bda47c0e792a00b76267700",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "32d23cea31ca4fa91f0c834466a93e9ff8bffbf65bda47c0e792a00b76267700",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/65900/Port_Sanilac__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "65900",
+  "timestamp": "2026-05-24T23:48:24.459485Z",
+  "version": 1
+}

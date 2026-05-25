@@ -1,0 +1,16 @@
+{
+  "article": "Madison,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/49700/Madison__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1563155a57f9375a4029ac8774efa56ee038563a2da5d476b602d06d7267a7aa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1563155a57f9375a4029ac8774efa56ee038563a2da5d476b602d06d7267a7aa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/49700/Madison__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "49700",
+  "timestamp": "2026-05-24T23:47:26.762655Z",
+  "version": 1
+}

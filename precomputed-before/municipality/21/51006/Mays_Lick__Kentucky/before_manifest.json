@@ -1,0 +1,16 @@
+{
+  "article": "Mays_Lick,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/51006/Mays_Lick__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "06bb53c2cd04e4e032a2656f007de02269d0cdf312e6d99a483e6607a9587a63",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "06bb53c2cd04e4e032a2656f007de02269d0cdf312e6d99a483e6607a9587a63",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/51006/Mays_Lick__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "51006",
+  "timestamp": "2026-05-24T23:44:11.943472Z",
+  "version": 1
+}

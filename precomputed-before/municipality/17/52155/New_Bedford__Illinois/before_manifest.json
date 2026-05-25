@@ -1,0 +1,16 @@
+{
+  "article": "New_Bedford,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/52155/New_Bedford__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7706bcacd0262a8fc974f3297ea366c2e2b0c56899381bd172126fd3a4117588",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7706bcacd0262a8fc974f3297ea366c2e2b0c56899381bd172126fd3a4117588",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/52155/New_Bedford__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "52155",
+  "timestamp": "2026-05-24T23:38:39.739702Z",
+  "version": 1
+}

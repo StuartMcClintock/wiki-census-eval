@@ -1,0 +1,16 @@
+{
+  "article": "Gardiner,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/29950/Gardiner__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9019ef8195b6f1c5254d579bd885d3efcd1c3e4b627f9265569dda1aaa1380eb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9019ef8195b6f1c5254d579bd885d3efcd1c3e4b627f9265569dda1aaa1380eb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/29950/Gardiner__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "29950",
+  "timestamp": "2026-05-24T23:54:26.241805Z",
+  "version": 1
+}

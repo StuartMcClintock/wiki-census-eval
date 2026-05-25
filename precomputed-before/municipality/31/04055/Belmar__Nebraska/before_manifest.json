@@ -1,0 +1,16 @@
+{
+  "article": "Belmar,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/04055/Belmar__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3a04668bcea3bac3ac5fbb9f00b7fdda59239bad96b6593f6f28c8afb3754e79",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3a04668bcea3bac3ac5fbb9f00b7fdda59239bad96b6593f6f28c8afb3754e79",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/04055/Belmar__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "04055",
+  "timestamp": "2026-05-24T23:55:11.701382Z",
+  "version": 1
+}

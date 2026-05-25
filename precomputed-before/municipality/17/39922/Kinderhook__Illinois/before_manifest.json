@@ -1,0 +1,16 @@
+{
+  "article": "Kinderhook,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/39922/Kinderhook__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bf2bd207ebc9a9d656b5a92197e75a499f672191436ec7a9f4d6fdf18dac0ad2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bf2bd207ebc9a9d656b5a92197e75a499f672191436ec7a9f4d6fdf18dac0ad2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/39922/Kinderhook__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "39922",
+  "timestamp": "2026-05-24T23:38:26.288968Z",
+  "version": 1
+}

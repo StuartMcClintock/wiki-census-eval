@@ -1,0 +1,16 @@
+{
+  "article": "Rafter_J_Ranch,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/63100/Rafter_J_Ranch__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "888faf2001621fc57462b4a571440af7a3459f0b20d50fde8cfd4951f087f660",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "888faf2001621fc57462b4a571440af7a3459f0b20d50fde8cfd4951f087f660",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/63100/Rafter_J_Ranch__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "63100",
+  "timestamp": "2026-05-25T00:23:21.710145Z",
+  "version": 1
+}

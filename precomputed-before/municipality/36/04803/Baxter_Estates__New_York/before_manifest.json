@@ -1,0 +1,16 @@
+{
+  "article": "Baxter_Estates,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/04803/Baxter_Estates__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e70830b50f9a03fd80be53d275306cb131e562693f04142797cf123d39feb8e3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e70830b50f9a03fd80be53d275306cb131e562693f04142797cf123d39feb8e3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/04803/Baxter_Estates__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "04803",
+  "timestamp": "2026-05-25T00:00:31.345537Z",
+  "version": 1
+}

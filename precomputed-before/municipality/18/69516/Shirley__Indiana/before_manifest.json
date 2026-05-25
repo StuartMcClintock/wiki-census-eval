@@ -1,0 +1,16 @@
+{
+  "article": "Shirley,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/69516/Shirley__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "25bbe736e5e7762abb272fa301a59e5b466dd2df3580b38adc5b5b31a649e540",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "25bbe736e5e7762abb272fa301a59e5b466dd2df3580b38adc5b5b31a649e540",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/69516/Shirley__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "69516",
+  "timestamp": "2026-05-24T23:40:12.959921Z",
+  "version": 1
+}

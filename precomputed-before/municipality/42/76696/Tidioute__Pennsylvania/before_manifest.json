@@ -1,0 +1,16 @@
+{
+  "article": "Tidioute,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/76696/Tidioute__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2e69dc430b27477f5e755f4954b92e0c8dd5260d3d57af51433799256a3a57de",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2e69dc430b27477f5e755f4954b92e0c8dd5260d3d57af51433799256a3a57de",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/76696/Tidioute__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "76696",
+  "timestamp": "2026-05-25T00:09:16.639516Z",
+  "version": 1
+}

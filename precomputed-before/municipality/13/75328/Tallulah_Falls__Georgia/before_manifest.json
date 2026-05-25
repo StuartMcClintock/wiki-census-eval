@@ -1,0 +1,16 @@
+{
+  "article": "Tallulah_Falls,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/75328/Tallulah_Falls__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b24a2ab5a40e271760afd8a8e2553f9c0f8483a7403fce72666d17036cd69295",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b24a2ab5a40e271760afd8a8e2553f9c0f8483a7403fce72666d17036cd69295",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/75328/Tallulah_Falls__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "75328",
+  "timestamp": "2026-05-24T23:37:09.278515Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Tarnov,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/48410/Tarnov__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dca602c836f6f708317878041571918c8654c47a65a95035124c8145de11a4af",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dca602c836f6f708317878041571918c8654c47a65a95035124c8145de11a4af",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/48410/Tarnov__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "48410",
+  "timestamp": "2026-05-24T23:57:20.221222Z",
+  "version": 1
+}

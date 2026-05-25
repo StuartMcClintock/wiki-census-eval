@@ -1,0 +1,16 @@
+{
+  "article": "Zion,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/87320/Zion__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5c1b4d63c0105db5523bd6fd8418063111866fbf42497f05efc43b339577ca4b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5c1b4d63c0105db5523bd6fd8418063111866fbf42497f05efc43b339577ca4b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/87320/Zion__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "87320",
+  "timestamp": "2026-05-25T00:09:35.771176Z",
+  "version": 1
+}

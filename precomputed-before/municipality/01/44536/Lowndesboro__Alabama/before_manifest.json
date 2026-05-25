@@ -1,0 +1,16 @@
+{
+  "article": "Lowndesboro,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/44536/Lowndesboro__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0860ad6a1ea806287e881ac8cca8a22377003bb915e122f42508633e058723fd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0860ad6a1ea806287e881ac8cca8a22377003bb915e122f42508633e058723fd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/44536/Lowndesboro__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "44536",
+  "timestamp": "2026-05-24T23:32:02.812573Z",
+  "version": 1
+}

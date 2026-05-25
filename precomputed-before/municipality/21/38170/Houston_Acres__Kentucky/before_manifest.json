@@ -1,0 +1,16 @@
+{
+  "article": "Houston_Acres,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/38170/Houston_Acres__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e242105765bf05abe8757a4a9ddb61b18cc14876d66755fe9efab866ab327d2a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e242105765bf05abe8757a4a9ddb61b18cc14876d66755fe9efab866ab327d2a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/38170/Houston_Acres__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "38170",
+  "timestamp": "2026-05-24T23:44:07.376632Z",
+  "version": 1
+}

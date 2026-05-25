@@ -1,0 +1,16 @@
+{
+  "article": "Bussey,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/09730/Bussey__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1e07a8f48fcbcf81bd131d85fd3f5f6aeb4ee16ada0c206903d9334d1bd44239",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1e07a8f48fcbcf81bd131d85fd3f5f6aeb4ee16ada0c206903d9334d1bd44239",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/09730/Bussey__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "09730",
+  "timestamp": "2026-05-24T23:40:31.516140Z",
+  "version": 1
+}

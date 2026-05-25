@@ -1,0 +1,16 @@
+{
+  "article": "River_Bend,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/62056/River_Bend__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "54e4588262f7d616bb7976bc3fbe166da4a6fcb248f1f40c483a33d1de4a18b7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "54e4588262f7d616bb7976bc3fbe166da4a6fcb248f1f40c483a33d1de4a18b7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/62056/River_Bend__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "62056",
+  "timestamp": "2026-05-24T23:53:45.913551Z",
+  "version": 1
+}

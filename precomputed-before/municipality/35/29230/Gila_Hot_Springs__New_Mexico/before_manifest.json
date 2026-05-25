@@ -1,0 +1,16 @@
+{
+  "article": "Gila_Hot_Springs,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/29230/Gila_Hot_Springs__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "86c2614126e35803ec55f5b2de19c44e09c0b2db1088ea3cca4489a6ec593d6f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "86c2614126e35803ec55f5b2de19c44e09c0b2db1088ea3cca4489a6ec593d6f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/29230/Gila_Hot_Springs__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "29230",
+  "timestamp": "2026-05-24T23:58:31.783500Z",
+  "version": 1
+}

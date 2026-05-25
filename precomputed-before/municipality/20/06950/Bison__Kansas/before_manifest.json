@@ -1,0 +1,16 @@
+{
+  "article": "Bison,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/06950/Bison__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0825a6a9db0406312d2ffda9dba80b98a76f38c74ee0f8d779175cfc68633d51",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0825a6a9db0406312d2ffda9dba80b98a76f38c74ee0f8d779175cfc68633d51",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/06950/Bison__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "06950",
+  "timestamp": "2026-05-24T23:42:22.062349Z",
+  "version": 1
+}

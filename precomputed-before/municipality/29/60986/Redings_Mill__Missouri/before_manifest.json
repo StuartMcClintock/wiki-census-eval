@@ -1,0 +1,16 @@
+{
+  "article": "Redings_Mill,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/60986/Redings_Mill__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0ba5f722b0009016bf2b1eec98400adec431b694920a89430c0b858d0446a098",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0ba5f722b0009016bf2b1eec98400adec431b694920a89430c0b858d0446a098",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/60986/Redings_Mill__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "60986",
+  "timestamp": "2026-05-24T23:53:45.019833Z",
+  "version": 1
+}

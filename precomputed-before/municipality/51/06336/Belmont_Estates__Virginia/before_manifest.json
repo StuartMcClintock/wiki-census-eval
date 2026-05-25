@@ -1,0 +1,16 @@
+{
+  "article": "Belmont_Estates,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/06336/Belmont_Estates__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a2034f5f877692e4eef55859d70087af847f5230b4695d6351118f221ba31784",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a2034f5f877692e4eef55859d70087af847f5230b4695d6351118f221ba31784",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/06336/Belmont_Estates__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "06336",
+  "timestamp": "2026-05-25T00:17:34.877907Z",
+  "version": 1
+}

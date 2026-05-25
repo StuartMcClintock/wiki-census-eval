@@ -1,0 +1,16 @@
+{
+  "article": "Hardin,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/34534/Hardin__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "52c15a9f853977f4fe8cbd38194c444b3e850d1ed4e93ca36e70801aee19dccc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "52c15a9f853977f4fe8cbd38194c444b3e850d1ed4e93ca36e70801aee19dccc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/34534/Hardin__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "34534",
+  "timestamp": "2026-05-24T23:44:05.741302Z",
+  "version": 1
+}

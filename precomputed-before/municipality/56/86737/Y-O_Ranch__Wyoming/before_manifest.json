@@ -1,0 +1,16 @@
+{
+  "article": "Y-O_Ranch,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/86737/Y-O_Ranch__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "151210cb0a840b64173160874cd9ef061f51766f2eb8400b30eb7f9fa61d3ccb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "151210cb0a840b64173160874cd9ef061f51766f2eb8400b30eb7f9fa61d3ccb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/86737/Y-O_Ranch__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "86737",
+  "timestamp": "2026-05-25T00:23:26.353445Z",
+  "version": 1
+}

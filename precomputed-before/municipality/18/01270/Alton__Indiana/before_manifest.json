@@ -1,0 +1,16 @@
+{
+  "article": "Alton,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/01270/Alton__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "32993950411fa90385a5412476e3d1f37e236bf5b409578b0c5e91b813e852a4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "32993950411fa90385a5412476e3d1f37e236bf5b409578b0c5e91b813e852a4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/01270/Alton__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "01270",
+  "timestamp": "2026-05-24T23:39:25.031781Z",
+  "version": 1
+}

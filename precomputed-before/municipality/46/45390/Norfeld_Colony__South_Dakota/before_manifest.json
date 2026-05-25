@@ -1,0 +1,16 @@
+{
+  "article": "Norfeld_Colony,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/45390/Norfeld_Colony__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d0d7ef4a936134158a56a5dfe62ae1e959450a8e37cd60b9bec7de6bb12aec91",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d0d7ef4a936134158a56a5dfe62ae1e959450a8e37cd60b9bec7de6bb12aec91",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/45390/Norfeld_Colony__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "45390",
+  "timestamp": "2026-05-25T00:11:05.344503Z",
+  "version": 1
+}

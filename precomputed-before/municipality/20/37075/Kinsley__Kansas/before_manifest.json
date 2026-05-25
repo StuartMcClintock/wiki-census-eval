@@ -1,0 +1,16 @@
+{
+  "article": "Kinsley,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/37075/Kinsley__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6c3f5ca5f6e32802f3c618f162422fe3ff7815496fa216d2eaf6b48f24459d32",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6c3f5ca5f6e32802f3c618f162422fe3ff7815496fa216d2eaf6b48f24459d32",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/37075/Kinsley__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "37075",
+  "timestamp": "2026-05-24T23:42:51.183589Z",
+  "version": 1
+}

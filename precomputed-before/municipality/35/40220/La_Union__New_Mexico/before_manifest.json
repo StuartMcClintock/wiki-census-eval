@@ -1,0 +1,16 @@
+{
+  "article": "La_Union,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/40220/La_Union__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e3650683260ff6a91aef1059835922fedea9bd4a43f9780866923a271883bec5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e3650683260ff6a91aef1059835922fedea9bd4a43f9780866923a271883bec5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/40220/La_Union__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "40220",
+  "timestamp": "2026-05-24T23:58:37.964240Z",
+  "version": 1
+}

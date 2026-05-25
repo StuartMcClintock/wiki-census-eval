@@ -1,0 +1,16 @@
+{
+  "article": "Red_Mesa,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/59550/Red_Mesa__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bf92bd0ab424608208369098b5349becc59aa783a28a0bc33fc8c89f162c1281",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bf92bd0ab424608208369098b5349becc59aa783a28a0bc33fc8c89f162c1281",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/59550/Red_Mesa__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "59550",
+  "timestamp": "2026-05-24T23:33:07.043254Z",
+  "version": 1
+}

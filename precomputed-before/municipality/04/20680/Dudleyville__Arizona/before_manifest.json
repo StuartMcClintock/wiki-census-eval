@@ -1,0 +1,16 @@
+{
+  "article": "Dudleyville,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/20680/Dudleyville__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "10d75fa498763e7f51d58a4be51ce0e8b6ce6bea6a5190026ae515d530e7691d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "10d75fa498763e7f51d58a4be51ce0e8b6ce6bea6a5190026ae515d530e7691d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/20680/Dudleyville__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "20680",
+  "timestamp": "2026-05-24T23:32:52.960261Z",
+  "version": 1
+}

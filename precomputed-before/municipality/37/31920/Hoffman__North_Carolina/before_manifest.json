@@ -1,0 +1,16 @@
+{
+  "article": "Hoffman,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/31920/Hoffman__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7f045633f2a2430b410feb3c2fd1c434faa24ce83ce110a95827b1a1e9a03010",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7f045633f2a2430b410feb3c2fd1c434faa24ce83ce110a95827b1a1e9a03010",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/31920/Hoffman__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "31920",
+  "timestamp": "2026-05-25T00:02:03.753068Z",
+  "version": 1
+}

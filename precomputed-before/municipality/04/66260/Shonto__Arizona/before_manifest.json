@@ -1,0 +1,16 @@
+{
+  "article": "Shonto,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/66260/Shonto__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "030376e804af1a11c8daa10413fe9660bfebf1915c1e9949349546154aa7ef6a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "030376e804af1a11c8daa10413fe9660bfebf1915c1e9949349546154aa7ef6a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/66260/Shonto__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "66260",
+  "timestamp": "2026-05-24T23:33:09.676184Z",
+  "version": 1
+}

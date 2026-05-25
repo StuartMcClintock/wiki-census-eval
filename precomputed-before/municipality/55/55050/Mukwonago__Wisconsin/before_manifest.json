@@ -1,0 +1,16 @@
+{
+  "article": "Mukwonago,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/55050/Mukwonago__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "19bcb64a7e6e97718601065a3298f0d1185493e96ce5a8df303ab889cf06e96c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "19bcb64a7e6e97718601065a3298f0d1185493e96ce5a8df303ab889cf06e96c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/55050/Mukwonago__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "55050",
+  "timestamp": "2026-05-25T00:22:27.318098Z",
+  "version": 1
+}

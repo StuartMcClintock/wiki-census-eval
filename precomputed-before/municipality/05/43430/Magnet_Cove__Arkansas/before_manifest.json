@@ -1,0 +1,16 @@
+{
+  "article": "Magnet_Cove,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/43430/Magnet_Cove__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e47aac6b6181b0c0e7d723afcc275cfc910757ff3d99076f98fdf34ba5e9025f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e47aac6b6181b0c0e7d723afcc275cfc910757ff3d99076f98fdf34ba5e9025f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/43430/Magnet_Cove__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "43430",
+  "timestamp": "2026-05-24T23:33:52.267907Z",
+  "version": 1
+}

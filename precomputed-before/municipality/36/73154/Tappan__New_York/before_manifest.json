@@ -1,0 +1,16 @@
+{
+  "article": "Tappan,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/73154/Tappan__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "efa4e40925ad736b1235168d21b1fa4eaf0e659565a0f2836747834d72c7b7d3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "efa4e40925ad736b1235168d21b1fa4eaf0e659565a0f2836747834d72c7b7d3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/73154/Tappan__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "73154",
+  "timestamp": "2026-05-25T00:01:19.324031Z",
+  "version": 1
+}

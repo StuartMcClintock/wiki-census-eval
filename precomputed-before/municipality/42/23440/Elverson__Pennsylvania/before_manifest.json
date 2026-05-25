@@ -1,0 +1,16 @@
+{
+  "article": "Elverson,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/23440/Elverson__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ba46922a4d5eab6abc74cb1c515f285e633502f35b63fd5b26b502ce51d0ee35",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ba46922a4d5eab6abc74cb1c515f285e633502f35b63fd5b26b502ce51d0ee35",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/23440/Elverson__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "23440",
+  "timestamp": "2026-05-25T00:07:04.056353Z",
+  "version": 1
+}

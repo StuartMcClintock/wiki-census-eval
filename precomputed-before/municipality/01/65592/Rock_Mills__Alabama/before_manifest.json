@@ -1,0 +1,16 @@
+{
+  "article": "Rock_Mills,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/65592/Rock_Mills__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4b72fae15035202f657ab88655a78ad359307b7fbf551844cb3d716b7dffbe7b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4b72fae15035202f657ab88655a78ad359307b7fbf551844cb3d716b7dffbe7b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/65592/Rock_Mills__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "65592",
+  "timestamp": "2026-05-24T23:32:11.042482Z",
+  "version": 1
+}

@@ -1,0 +1,14 @@
+==Demographics==
+{{US Census population
+|2020= 123
+|align=left
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=http://www.census.gov/prod/www/decennial.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2016}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A41|title=Census Population API|publisher=United States Census Bureau|accessdate=Oct 12, 2022}}</ref>
+}}
+At the 2000 [[census]],<ref name="GR2" /> there were 36 people, 15 households and 10 families residing in the CDP. The population density was {{convert|29.7|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 18 housing units at an average density of 14.9 per square mile (5.7/km<sup>2</sup>). The racial makeup of the CDP was 97.22% [[White (U.S. Census)|White]] and 2.78% [[Native American (U.S. Census)|Native American]].
+
+There were 15 households, of which 26.7% had children under the age of 18 living with them, 53.3% were [[Marriage|married couples]] living together, 6.7% had a female householder with no husband present, and 33.3% were non-families. 20.0% of all households were made up of individuals, and 13.3% had someone living alone who was 65 years of age or older. The average household size was 2.40 and the average family size was 2.60.
+
+22.2% of the population were under the age of 18, 5.6% from 18 to 24, 19.4% from 25 to 44, 19.4% from 45 to 64, and 33.3% who were 65 years of age or older. The median age was 48 years. For every 100 females, there were 89.5 males. For every 100 females age 18 and over, there were 75.0 males.
+
+The [[median household income]] was $29,375 and the median family income was $35,417. Males had a median income of $35,417 versus $13,750 for females. The [[per capita income]] for the CDP was $12,575. There were 22.2% of families and 25.0% of the population living below the [[poverty line]], including 44.4% of under eighteens and none of those over 64.
+

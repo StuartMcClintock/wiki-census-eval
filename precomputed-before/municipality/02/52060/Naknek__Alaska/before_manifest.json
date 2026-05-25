@@ -1,0 +1,16 @@
+{
+  "article": "Naknek,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/52060/Naknek__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "454c2634d73d0c62cbe835f2723c1b5f7d0f11d9e64d67ad1c9ab9d4766fcd16",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "454c2634d73d0c62cbe835f2723c1b5f7d0f11d9e64d67ad1c9ab9d4766fcd16",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/52060/Naknek__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "52060",
+  "timestamp": "2026-05-24T23:32:28.393249Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Lyndonville,_Vermont",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/50/41950/Lyndonville__Vermont/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c772cea23fb97f44ada54577c33bab0b7fa2be301702344b634a7197e8b36a52",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c772cea23fb97f44ada54577c33bab0b7fa2be301702344b634a7197e8b36a52",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/50/41950/Lyndonville__Vermont/manifest.json",
+  "state_fips": "50",
+  "status": "match",
+  "target_fips": "41950",
+  "timestamp": "2026-05-25T00:17:16.178717Z",
+  "version": 1
+}

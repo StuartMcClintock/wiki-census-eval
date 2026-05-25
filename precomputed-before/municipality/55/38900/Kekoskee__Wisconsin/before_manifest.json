@@ -1,0 +1,16 @@
+{
+  "article": "Kekoskee,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/38900/Kekoskee__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "904082c0e91e315f408e5d1cfbc256fe4f24b5fdf65152daf2f3a6cb65e75f9b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "904082c0e91e315f408e5d1cfbc256fe4f24b5fdf65152daf2f3a6cb65e75f9b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/38900/Kekoskee__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "38900",
+  "timestamp": "2026-05-25T00:22:15.464584Z",
+  "version": 1
+}

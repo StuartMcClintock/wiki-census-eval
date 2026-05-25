@@ -1,0 +1,16 @@
+{
+  "article": "Sacramento,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/65560/Sacramento__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ae2689d7eac7d74181c3a25ae7475c9bb12ef30ef9a199471fd6371cfb63728b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ae2689d7eac7d74181c3a25ae7475c9bb12ef30ef9a199471fd6371cfb63728b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/65560/Sacramento__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "65560",
+  "timestamp": "2026-05-24T23:58:51.927775Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Point_Marion,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/61864/Point_Marion__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d71b79df4a6ccffae5ede9a726489d3a71ff38d6703893ddfbe5a0aa95eb8f1f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d71b79df4a6ccffae5ede9a726489d3a71ff38d6703893ddfbe5a0aa95eb8f1f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/61864/Point_Marion__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "61864",
+  "timestamp": "2026-05-25T00:08:31.742331Z",
+  "version": 1
+}

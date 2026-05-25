@@ -1,0 +1,16 @@
+{
+  "article": "Ca\u00f1ones,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/11310/Ca_ones__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "962367edc3dc778e0544bd6b22387517ba07f714c0b9be2d8b4b3915c4e2a824",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "962367edc3dc778e0544bd6b22387517ba07f714c0b9be2d8b4b3915c4e2a824",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/11310/Ca_ones__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "11310",
+  "timestamp": "2026-05-24T23:58:22.640752Z",
+  "version": 1
+}

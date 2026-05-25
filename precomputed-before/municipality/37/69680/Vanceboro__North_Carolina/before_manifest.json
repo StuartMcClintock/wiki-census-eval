@@ -1,0 +1,16 @@
+{
+  "article": "Vanceboro,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/69680/Vanceboro__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e92bf3421c6aa8568d521ecb14fb2212699f127a9cfa6cc7529796174cefff5b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e92bf3421c6aa8568d521ecb14fb2212699f127a9cfa6cc7529796174cefff5b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/69680/Vanceboro__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "69680",
+  "timestamp": "2026-05-25T00:02:27.059093Z",
+  "version": 1
+}

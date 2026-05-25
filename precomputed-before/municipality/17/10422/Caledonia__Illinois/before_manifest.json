@@ -1,0 +1,16 @@
+{
+  "article": "Caledonia,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/10422/Caledonia__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cae6baa38178bcf5962be0d2a8d074b8b4089e01ea7bd0bace7ee0b55a95ce4b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cae6baa38178bcf5962be0d2a8d074b8b4089e01ea7bd0bace7ee0b55a95ce4b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/10422/Caledonia__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "10422",
+  "timestamp": "2026-05-24T23:37:54.186050Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Ware_Place,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/74635/Ware_Place__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a32b8739d5e23522744004e004d351734817fc2667ad5c5aa31c65076e6ef9c8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a32b8739d5e23522744004e004d351734817fc2667ad5c5aa31c65076e6ef9c8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/74635/Ware_Place__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "74635",
+  "timestamp": "2026-05-25T00:10:26.512931Z",
+  "version": 1
+}

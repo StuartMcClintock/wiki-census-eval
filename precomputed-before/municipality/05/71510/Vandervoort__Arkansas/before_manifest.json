@@ -1,0 +1,16 @@
+{
+  "article": "Vandervoort,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/71510/Vandervoort__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c462b246570d85f5fa811914bed00ff2c3abc236e162fa10fd65037bc488bde6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c462b246570d85f5fa811914bed00ff2c3abc236e162fa10fd65037bc488bde6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/71510/Vandervoort__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "71510",
+  "timestamp": "2026-05-24T23:34:12.367109Z",
+  "version": 1
+}

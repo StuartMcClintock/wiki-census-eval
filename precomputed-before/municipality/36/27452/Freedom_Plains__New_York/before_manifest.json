@@ -1,0 +1,16 @@
+{
+  "article": "Freedom_Plains,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/27452/Freedom_Plains__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "70012fdc752ac16910ae5f57a8ae2a7cecc1f54e227143c76690ded60f85c4ca",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "70012fdc752ac16910ae5f57a8ae2a7cecc1f54e227143c76690ded60f85c4ca",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/27452/Freedom_Plains__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "27452",
+  "timestamp": "2026-05-25T00:00:43.686036Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Talmage,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/69925/Talmage__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b06909fb4e130c1a9e10a2a5ebb4e239b4246acd955f2b93c6b96edda50219f0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b06909fb4e130c1a9e10a2a5ebb4e239b4246acd955f2b93c6b96edda50219f0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/69925/Talmage__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "69925",
+  "timestamp": "2026-05-24T23:43:31.875177Z",
+  "version": 1
+}

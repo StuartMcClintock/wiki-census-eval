@@ -1,0 +1,16 @@
+{
+  "article": "Mountain_View,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/52350/Mountain_View__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "189962291d7187dedb3bad1cba49d5beaf8e0096e5aa6a15dfb9a7a16e3a4e00",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "189962291d7187dedb3bad1cba49d5beaf8e0096e5aa6a15dfb9a7a16e3a4e00",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/52350/Mountain_View__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "52350",
+  "timestamp": "2026-05-24T23:35:33.681492Z",
+  "version": 1
+}

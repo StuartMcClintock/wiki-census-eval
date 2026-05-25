@@ -1,0 +1,16 @@
+{
+  "article": "Fountain,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/24440/Fountain__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7304d464115b1330cd82ffc9385b1a95cfa21fd0e9c7906b690bb8a765b3f6a8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7304d464115b1330cd82ffc9385b1a95cfa21fd0e9c7906b690bb8a765b3f6a8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/24440/Fountain__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "24440",
+  "timestamp": "2026-05-25T00:01:56.518330Z",
+  "version": 1
+}

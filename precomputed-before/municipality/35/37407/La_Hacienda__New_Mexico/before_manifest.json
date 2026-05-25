@@ -1,0 +1,16 @@
+{
+  "article": "La_Hacienda,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/37407/La_Hacienda__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ec5dac6571d4eda769267ac5b69ad210b2af6769bbbf9a97e5f94e50cd1a5005",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ec5dac6571d4eda769267ac5b69ad210b2af6769bbbf9a97e5f94e50cd1a5005",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/37407/La_Hacienda__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "37407",
+  "timestamp": "2026-05-24T23:58:35.840249Z",
+  "version": 1
+}

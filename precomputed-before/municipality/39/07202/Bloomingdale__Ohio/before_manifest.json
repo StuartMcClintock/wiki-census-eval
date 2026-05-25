@@ -1,0 +1,16 @@
+{
+  "article": "Bloomingdale,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/07202/Bloomingdale__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "eb4b19da0f3b7d37674540536cddab5d517e960a1bc2a3ee1a3c142b59262fc4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "eb4b19da0f3b7d37674540536cddab5d517e960a1bc2a3ee1a3c142b59262fc4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/07202/Bloomingdale__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "07202",
+  "timestamp": "2026-05-25T00:03:35.968564Z",
+  "version": 1
+}

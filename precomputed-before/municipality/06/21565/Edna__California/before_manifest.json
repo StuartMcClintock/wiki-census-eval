@@ -1,0 +1,16 @@
+{
+  "article": "Edna,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/21565/Edna__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4408dcb73781e4566626c378996bd2c11a71f1a86584c8775d0d32a845df2152",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4408dcb73781e4566626c378996bd2c11a71f1a86584c8775d0d32a845df2152",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/21565/Edna__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "21565",
+  "timestamp": "2026-05-24T23:34:21.007550Z",
+  "version": 1
+}

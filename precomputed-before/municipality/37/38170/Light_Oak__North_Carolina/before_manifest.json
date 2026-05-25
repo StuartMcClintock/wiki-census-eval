@@ -1,0 +1,16 @@
+{
+  "article": "Light_Oak,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/38170/Light_Oak__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f3f6bd7ef83f0a87bdd5d5f52aa06bdd90841791760366deed08951eede00dfa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f3f6bd7ef83f0a87bdd5d5f52aa06bdd90841791760366deed08951eede00dfa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/38170/Light_Oak__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "38170",
+  "timestamp": "2026-05-25T00:02:07.544198Z",
+  "version": 1
+}

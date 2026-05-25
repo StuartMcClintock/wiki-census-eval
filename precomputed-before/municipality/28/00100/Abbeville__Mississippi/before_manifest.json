@@ -1,0 +1,16 @@
+{
+  "article": "Abbeville,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/00100/Abbeville__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "26089eb02596ce522fa8716d2418cc1b1ad4b6cf2803801507d0cf5ee430fe41",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "26089eb02596ce522fa8716d2418cc1b1ad4b6cf2803801507d0cf5ee430fe41",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/00100/Abbeville__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "00100",
+  "timestamp": "2026-05-24T23:49:56.598177Z",
+  "version": 1
+}

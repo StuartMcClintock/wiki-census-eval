@@ -1,0 +1,16 @@
+{
+  "article": "Center_Point,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/11746/Center_Point__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "76bcd10713bfa1a591b2c99064b8402685d2e859b9018f7e2387f293b42a3da7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "76bcd10713bfa1a591b2c99064b8402685d2e859b9018f7e2387f293b42a3da7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/11746/Center_Point__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "11746",
+  "timestamp": "2026-05-24T23:39:29.624582Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Cobalt,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/15220/Cobalt__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "62dea0eba3d2aab75e3c13199e695f9ba9efa95cf30de9c2ed75ba44738d98b3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "62dea0eba3d2aab75e3c13199e695f9ba9efa95cf30de9c2ed75ba44738d98b3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/15220/Cobalt__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "15220",
+  "timestamp": "2026-05-24T23:50:55.655761Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Stratton,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/75000/Stratton__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "013f87a59b6f6748db019afcdc6449d34732ccef1f3c5b972deb3054781cdf28",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "013f87a59b6f6748db019afcdc6449d34732ccef1f3c5b972deb3054781cdf28",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/75000/Stratton__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "75000",
+  "timestamp": "2026-05-25T00:05:30.439549Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Trenton,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/72520/Trenton__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cb4956a6f27b45d88b6b93e96f8387f08915d5ea66a7d12b6f0a33d77f43cf74",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cb4956a6f27b45d88b6b93e96f8387f08915d5ea66a7d12b6f0a33d77f43cf74",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/72520/Trenton__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "72520",
+  "timestamp": "2026-05-25T00:10:25.063711Z",
+  "version": 1
+}

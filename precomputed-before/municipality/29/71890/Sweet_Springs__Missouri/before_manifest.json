@@ -1,0 +1,16 @@
+{
+  "article": "Sweet_Springs,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/71890/Sweet_Springs__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f32ae91b42b982b72fc8a71bd6f55aff72cc8583f6861e63bcdc6151dbcc8a8f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f32ae91b42b982b72fc8a71bd6f55aff72cc8583f6861e63bcdc6151dbcc8a8f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/71890/Sweet_Springs__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "71890",
+  "timestamp": "2026-05-24T23:53:52.396903Z",
+  "version": 1
+}

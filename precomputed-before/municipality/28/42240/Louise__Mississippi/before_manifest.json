@@ -1,0 +1,16 @@
+{
+  "article": "Louise,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/42240/Louise__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0c0eb4acfaf080b257e13aa77525deb5264d92ca730d6c5ae80236539eb16a1f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0c0eb4acfaf080b257e13aa77525deb5264d92ca730d6c5ae80236539eb16a1f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/42240/Louise__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "42240",
+  "timestamp": "2026-05-24T23:50:15.041784Z",
+  "version": 1
+}

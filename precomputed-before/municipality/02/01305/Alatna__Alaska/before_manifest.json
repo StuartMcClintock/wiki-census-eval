@@ -1,0 +1,16 @@
+{
+  "article": "Alatna,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/01305/Alatna__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9e473fafc393ddbfd9f5c706cf4b5f174ed1c9bc3a1a065187878c9a66954f16",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9e473fafc393ddbfd9f5c706cf4b5f174ed1c9bc3a1a065187878c9a66954f16",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/01305/Alatna__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "01305",
+  "timestamp": "2026-05-24T23:32:17.359815Z",
+  "version": 1
+}

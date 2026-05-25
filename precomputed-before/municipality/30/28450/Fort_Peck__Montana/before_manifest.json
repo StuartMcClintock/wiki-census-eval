@@ -1,0 +1,16 @@
+{
+  "article": "Fort_Peck,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/28450/Fort_Peck__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f6a99f1ad8c41251171e45318e658a4a66d82bc1c763c692be7a4e8108b4a97d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f6a99f1ad8c41251171e45318e658a4a66d82bc1c763c692be7a4e8108b4a97d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/28450/Fort_Peck__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "28450",
+  "timestamp": "2026-05-24T23:54:25.002973Z",
+  "version": 1
+}

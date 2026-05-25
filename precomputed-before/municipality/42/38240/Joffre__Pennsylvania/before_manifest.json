@@ -1,0 +1,16 @@
+{
+  "article": "Joffre,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/38240/Joffre__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c37d9fd99c15d2f6d38e74f8830a9ae45979da87ecd2d8f2b074747d18772956",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c37d9fd99c15d2f6d38e74f8830a9ae45979da87ecd2d8f2b074747d18772956",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/38240/Joffre__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "38240",
+  "timestamp": "2026-05-25T00:07:43.108777Z",
+  "version": 1
+}

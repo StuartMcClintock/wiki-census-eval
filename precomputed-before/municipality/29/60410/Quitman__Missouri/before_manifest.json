@@ -1,0 +1,16 @@
+{
+  "article": "Quitman,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/60410/Quitman__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8a1a5f113151dbe10790d158d0aa874d2f1021153645344f9355c3dfc8a6537f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8a1a5f113151dbe10790d158d0aa874d2f1021153645344f9355c3dfc8a6537f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/60410/Quitman__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "60410",
+  "timestamp": "2026-05-24T23:53:44.594148Z",
+  "version": 1
+}

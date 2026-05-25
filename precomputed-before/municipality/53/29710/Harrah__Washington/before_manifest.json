@@ -1,0 +1,16 @@
+{
+  "article": "Harrah,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/29710/Harrah__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "764f94ecdd09f12adbd096fa49b7cecd6e184fb596403f05ee20926d7e6e1084",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "764f94ecdd09f12adbd096fa49b7cecd6e184fb596403f05ee20926d7e6e1084",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/29710/Harrah__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "29710",
+  "timestamp": "2026-05-25T00:20:14.798699Z",
+  "version": 1
+}

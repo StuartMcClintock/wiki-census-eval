@@ -1,0 +1,16 @@
+{
+  "article": "Dante,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/15420/Dante__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6607a1f91f766981b4e7edb8556bcb1a70e4121105aad7679f6146e4104c256f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6607a1f91f766981b4e7edb8556bcb1a70e4121105aad7679f6146e4104c256f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/15420/Dante__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "15420",
+  "timestamp": "2026-05-25T00:10:36.358462Z",
+  "version": 1
+}

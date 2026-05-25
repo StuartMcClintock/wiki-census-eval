@@ -1,0 +1,16 @@
+{
+  "article": "Prairiewood_Village,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/51724/Prairiewood_Village__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d6bf61f8fbc9ec3a955e6bd81721053ca31cd3c95e208c27926a24a0e91aec80",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d6bf61f8fbc9ec3a955e6bd81721053ca31cd3c95e208c27926a24a0e91aec80",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/51724/Prairiewood_Village__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "51724",
+  "timestamp": "2026-05-25T00:11:09.364426Z",
+  "version": 1
+}

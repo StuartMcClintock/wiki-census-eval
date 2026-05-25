@@ -1,0 +1,16 @@
+{
+  "article": "Aleneva,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/01560/Aleneva__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "10f7a864fff585e092021b03d7e2573f98bfc6a3e9c6b424eaab910aa74318f3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "10f7a864fff585e092021b03d7e2573f98bfc6a3e9c6b424eaab910aa74318f3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/01560/Aleneva__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "01560",
+  "timestamp": "2026-05-24T23:32:17.643438Z",
+  "version": 1
+}

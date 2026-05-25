@@ -1,0 +1,16 @@
+{
+  "article": "Big_Spring,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/07400/Big_Spring__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "03edb73ab2c0672f343ffb5e6e83e345c2bfe3167c9ca0115861162ff0b30dc2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "03edb73ab2c0672f343ffb5e6e83e345c2bfe3167c9ca0115861162ff0b30dc2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/07400/Big_Spring__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "07400",
+  "timestamp": "2026-05-24T23:45:15.459644Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Springs,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/70387/Springs__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "427e7f9da4bfe2bfc88b22f2fcbc352dd3eab4a6924438e9b6e2159309635230",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "427e7f9da4bfe2bfc88b22f2fcbc352dd3eab4a6924438e9b6e2159309635230",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/70387/Springs__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "70387",
+  "timestamp": "2026-05-25T00:01:17.690296Z",
+  "version": 1
+}

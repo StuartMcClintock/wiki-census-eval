@@ -1,0 +1,16 @@
+{
+  "article": "Broadway,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/08020/Broadway__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ab012234f653b50d325ee91fa0d8d4ffd64a6d0b21239021d13bde347281d61f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ab012234f653b50d325ee91fa0d8d4ffd64a6d0b21239021d13bde347281d61f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/08020/Broadway__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "08020",
+  "timestamp": "2026-05-24T23:57:41.699458Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Francis_Creek,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/27125/Francis_Creek__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f29347156f5909826d03739ba13fa064b8fcb267d712ab9e29ff638dac6486d4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f29347156f5909826d03739ba13fa064b8fcb267d712ab9e29ff638dac6486d4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/27125/Francis_Creek__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "27125",
+  "timestamp": "2026-05-25T00:22:07.207962Z",
+  "version": 1
+}

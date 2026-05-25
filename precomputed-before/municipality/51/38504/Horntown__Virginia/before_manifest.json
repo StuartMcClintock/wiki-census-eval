@@ -1,0 +1,16 @@
+{
+  "article": "Horntown,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/38504/Horntown__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bcdf07d5e834b4f836889c7f0016b767adc545376a426a08e4796a300947e7df",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bcdf07d5e834b4f836889c7f0016b767adc545376a426a08e4796a300947e7df",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/38504/Horntown__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "38504",
+  "timestamp": "2026-05-25T00:19:18.271106Z",
+  "version": 1
+}

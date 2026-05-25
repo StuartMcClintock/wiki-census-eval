@@ -1,0 +1,16 @@
+{
+  "article": "Spring_Ridge,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/68435/Spring_Ridge__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "730c078f67223c7ada880860d5ed980a4c2e1170bb2b4d840b26dbb911e1157c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "730c078f67223c7ada880860d5ed980a4c2e1170bb2b4d840b26dbb911e1157c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/68435/Spring_Ridge__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "68435",
+  "timestamp": "2026-05-24T23:36:23.329817Z",
+  "version": 1
+}

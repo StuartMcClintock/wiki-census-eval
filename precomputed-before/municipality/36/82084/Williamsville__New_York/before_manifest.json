@@ -1,0 +1,16 @@
+{
+  "article": "Williamsville,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/82084/Williamsville__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7dbd5fac74d118ccd3f88e0c530ee8d63dc6edefcc797d4f1a3ace18ef498077",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7dbd5fac74d118ccd3f88e0c530ee8d63dc6edefcc797d4f1a3ace18ef498077",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/82084/Williamsville__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "82084",
+  "timestamp": "2026-05-25T00:01:27.204910Z",
+  "version": 1
+}

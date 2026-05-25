@@ -1,0 +1,16 @@
+{
+  "article": "Indian_Village,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/36306/Indian_Village__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "986d77b6de1658934fce0ac5c431a8ec100ee9ef9299e81e1387ac382f29fb65",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "986d77b6de1658934fce0ac5c431a8ec100ee9ef9299e81e1387ac382f29fb65",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/36306/Indian_Village__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "36306",
+  "timestamp": "2026-05-24T23:39:40.008323Z",
+  "version": 1
+}

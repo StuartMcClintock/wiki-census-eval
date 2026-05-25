@@ -1,0 +1,16 @@
+{
+  "article": "West_Liberty,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/85876/West_Liberty__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "72820bf5b54f4fbffea8606818aa83fc0c7564a72f925441a0dbdf7a1721ddc6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "72820bf5b54f4fbffea8606818aa83fc0c7564a72f925441a0dbdf7a1721ddc6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/85876/West_Liberty__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "85876",
+  "timestamp": "2026-05-25T00:21:29.255304Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Kennebec,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/33580/Kennebec__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ecc8cb16952475db25dacba49d7e035e4c589be5b4f192ac1da3f2e97a0ca1fa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ecc8cb16952475db25dacba49d7e035e4c589be5b4f192ac1da3f2e97a0ca1fa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/33580/Kennebec__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "33580",
+  "timestamp": "2026-05-25T00:10:43.683061Z",
+  "version": 1
+}

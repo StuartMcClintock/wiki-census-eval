@@ -1,0 +1,16 @@
+{
+  "article": "J-Six_Ranchettes,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/36440/J-Six_Ranchettes__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "88faa71a83cbc4d17c7be9001fde3dc21c5609af86bbadefb14f58c4d8ba0f4e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "88faa71a83cbc4d17c7be9001fde3dc21c5609af86bbadefb14f58c4d8ba0f4e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/36440/J-Six_Ranchettes__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "36440",
+  "timestamp": "2026-05-24T23:33:01.361692Z",
+  "version": 1
+}

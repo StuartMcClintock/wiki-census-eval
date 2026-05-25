@@ -1,0 +1,16 @@
+{
+  "article": "Presque_Isle_Harbor,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/66343/Presque_Isle_Harbor__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8d49d8380dc5d69a56e2ea56587e0647752985907b7a234079850e7577c971c8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8d49d8380dc5d69a56e2ea56587e0647752985907b7a234079850e7577c971c8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/66343/Presque_Isle_Harbor__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "66343",
+  "timestamp": "2026-05-24T23:48:24.947949Z",
+  "version": 1
+}

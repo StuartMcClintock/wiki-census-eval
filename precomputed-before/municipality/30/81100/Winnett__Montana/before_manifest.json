@@ -1,0 +1,16 @@
+{
+  "article": "Winnett,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/81100/Winnett__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9f0d518318145b83e64d2d0060003eb75228e13c523f33c8696f79715b876623",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9f0d518318145b83e64d2d0060003eb75228e13c523f33c8696f79715b876623",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/81100/Winnett__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "81100",
+  "timestamp": "2026-05-24T23:55:05.087918Z",
+  "version": 1
+}

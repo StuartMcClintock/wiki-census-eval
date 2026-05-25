@@ -1,0 +1,16 @@
+{
+  "article": "Green,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/30750/Green__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "118183c8d5f56ed5d00044eeb0108e309478ba5ed4128ed235e53cd021a37b33",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "118183c8d5f56ed5d00044eeb0108e309478ba5ed4128ed235e53cd021a37b33",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/30750/Green__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "30750",
+  "timestamp": "2026-05-25T00:05:48.528028Z",
+  "version": 1
+}

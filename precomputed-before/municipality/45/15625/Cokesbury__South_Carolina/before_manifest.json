@@ -1,0 +1,16 @@
+{
+  "article": "Cokesbury,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/15625/Cokesbury__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b78dc886e1aae0d2513b67bfc70c2cace72cae62f2d5e0176e1b79468e2a350e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b78dc886e1aae0d2513b67bfc70c2cace72cae62f2d5e0176e1b79468e2a350e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/15625/Cokesbury__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "15625",
+  "timestamp": "2026-05-25T00:09:55.579325Z",
+  "version": 1
+}

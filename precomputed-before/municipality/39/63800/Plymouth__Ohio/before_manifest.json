@@ -1,0 +1,16 @@
+{
+  "article": "Plymouth,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/63800/Plymouth__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c020ed02cd92429203fc7c5c601cf5d1b473ea6d52ac403a90efa957a06214a3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c020ed02cd92429203fc7c5c601cf5d1b473ea6d52ac403a90efa957a06214a3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/63800/Plymouth__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "63800",
+  "timestamp": "2026-05-25T00:05:07.216187Z",
+  "version": 1
+}

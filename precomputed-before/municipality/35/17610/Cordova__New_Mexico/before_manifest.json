@@ -1,0 +1,16 @@
+{
+  "article": "Cordova,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/17610/Cordova__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "198645331bde4192272d82dd4f16053a15c1dd4b4916ad6d693f0177a04c22b5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "198645331bde4192272d82dd4f16053a15c1dd4b4916ad6d693f0177a04c22b5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/17610/Cordova__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "17610",
+  "timestamp": "2026-05-24T23:58:26.609236Z",
+  "version": 1
+}

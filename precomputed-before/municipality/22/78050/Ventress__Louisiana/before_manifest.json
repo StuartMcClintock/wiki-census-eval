@@ -1,0 +1,16 @@
+{
+  "article": "Ventress,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/78050/Ventress__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6482ec1a53114366be1107b2fa1be4b380e411a0b78176e75baa3640ed82bf60",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6482ec1a53114366be1107b2fa1be4b380e411a0b78176e75baa3640ed82bf60",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/78050/Ventress__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "78050",
+  "timestamp": "2026-05-24T23:45:11.601110Z",
+  "version": 1
+}

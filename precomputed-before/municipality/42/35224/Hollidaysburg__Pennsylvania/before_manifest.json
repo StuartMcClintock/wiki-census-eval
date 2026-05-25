@@ -1,0 +1,16 @@
+{
+  "article": "Hollidaysburg,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/35224/Hollidaysburg__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f0f8b0902da76f4cf9d958a078b4904fdbf1d8d9d5c65f4a0f229045e407eabc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f0f8b0902da76f4cf9d958a078b4904fdbf1d8d9d5c65f4a0f229045e407eabc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/35224/Hollidaysburg__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "35224",
+  "timestamp": "2026-05-25T00:07:26.169828Z",
+  "version": 1
+}

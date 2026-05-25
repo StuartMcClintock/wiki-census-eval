@@ -1,0 +1,16 @@
+{
+  "article": "Alvarado,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/01252/Alvarado__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9304fe311fcc76965839fb3c4790e6732d36fbc2d988d8ca61f43177f8cd0dbc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9304fe311fcc76965839fb3c4790e6732d36fbc2d988d8ca61f43177f8cd0dbc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/01252/Alvarado__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "01252",
+  "timestamp": "2026-05-24T23:48:34.796191Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Wolcott,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/85760/Wolcott__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5f0741aa0950d5d7676bae61f0c59b11b7b6506776ba173249f75a54eafd9e09",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5f0741aa0950d5d7676bae61f0c59b11b7b6506776ba173249f75a54eafd9e09",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/85760/Wolcott__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "85760",
+  "timestamp": "2026-05-24T23:35:56.169716Z",
+  "version": 1
+}

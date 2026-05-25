@@ -1,0 +1,16 @@
+{
+  "article": "Mayfield,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/45275/Mayfield__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c3ad320bee01194f8fe6c026f2ce64f1d08805f7175e9f75589532343c39db78",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c3ad320bee01194f8fe6c026f2ce64f1d08805f7175e9f75589532343c39db78",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/45275/Mayfield__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "45275",
+  "timestamp": "2026-05-24T23:43:08.531614Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Polo,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/58916/Polo__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "185b98dfcc8c032453da0f42f348f49c99a8b3fdbabeefc5744830f6e8c95404",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "185b98dfcc8c032453da0f42f348f49c99a8b3fdbabeefc5744830f6e8c95404",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/58916/Polo__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "58916",
+  "timestamp": "2026-05-24T23:53:42.906083Z",
+  "version": 1
+}

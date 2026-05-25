@@ -1,0 +1,16 @@
+{
+  "article": "Tallapoosa,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/72196/Tallapoosa__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "154bb9076c0f3baf68f2cca6d2e497c7c9cc8c91458275d5e95c2224dc745a88",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "154bb9076c0f3baf68f2cca6d2e497c7c9cc8c91458275d5e95c2224dc745a88",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/72196/Tallapoosa__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "72196",
+  "timestamp": "2026-05-24T23:53:52.834320Z",
+  "version": 1
+}

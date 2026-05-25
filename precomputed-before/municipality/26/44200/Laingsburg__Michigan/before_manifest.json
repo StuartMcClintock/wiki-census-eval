@@ -1,0 +1,16 @@
+{
+  "article": "Laingsburg,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/44200/Laingsburg__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3d0d78f87d48139b4c078e1902e69c7541b51a66ccac9045764bd8297ba5db63",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3d0d78f87d48139b4c078e1902e69c7541b51a66ccac9045764bd8297ba5db63",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/44200/Laingsburg__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "44200",
+  "timestamp": "2026-05-24T23:48:00.897757Z",
+  "version": 1
+}

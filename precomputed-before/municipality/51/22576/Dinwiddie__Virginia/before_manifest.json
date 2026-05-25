@@ -1,0 +1,16 @@
+{
+  "article": "Dinwiddie,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/22576/Dinwiddie__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "44ae0ebcb483f3415d6051652361b4ffb84a62288b58e1b118d18d7cd99cf3ab",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "44ae0ebcb483f3415d6051652361b4ffb84a62288b58e1b118d18d7cd99cf3ab",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/22576/Dinwiddie__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "22576",
+  "timestamp": "2026-05-25T00:19:09.208320Z",
+  "version": 1
+}

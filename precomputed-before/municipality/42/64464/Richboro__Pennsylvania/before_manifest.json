@@ -1,0 +1,16 @@
+{
+  "article": "Richboro,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/64464/Richboro__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e4a0c78482892b5d3a92d47e64929efde5fc23b4f192a6c968cc93c8e3201015",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e4a0c78482892b5d3a92d47e64929efde5fc23b4f192a6c968cc93c8e3201015",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/64464/Richboro__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "64464",
+  "timestamp": "2026-05-25T00:08:49.527740Z",
+  "version": 1
+}

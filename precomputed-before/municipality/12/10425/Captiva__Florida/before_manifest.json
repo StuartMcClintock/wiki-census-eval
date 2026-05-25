@@ -1,0 +1,16 @@
+{
+  "article": "Captiva,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/10425/Captiva__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4179d1c8e930185e19f68e9edfaa74db8223adf051d54388adfe4e486fe564bd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4179d1c8e930185e19f68e9edfaa74db8223adf051d54388adfe4e486fe564bd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/10425/Captiva__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "10425",
+  "timestamp": "2026-05-24T23:36:09.115789Z",
+  "version": 1
+}

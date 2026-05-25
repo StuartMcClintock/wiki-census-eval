@@ -1,0 +1,16 @@
+{
+  "article": "Illinois_City,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/37062/Illinois_City__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bf0c337747d24bb5013d9718f429380af52b4edb09a7f1c7fbb81e299d5dc92f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bf0c337747d24bb5013d9718f429380af52b4edb09a7f1c7fbb81e299d5dc92f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/37062/Illinois_City__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "37062",
+  "timestamp": "2026-05-24T23:38:22.092196Z",
+  "version": 1
+}

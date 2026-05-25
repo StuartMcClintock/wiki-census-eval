@@ -1,0 +1,16 @@
+{
+  "article": "Ridgeway,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/67118/Ridgeway__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b66058f95981f7a7f20c687634d9bf06ec4632b5f9686a3859e9e6133d581be6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b66058f95981f7a7f20c687634d9bf06ec4632b5f9686a3859e9e6133d581be6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/67118/Ridgeway__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "67118",
+  "timestamp": "2026-05-25T00:05:10.836655Z",
+  "version": 1
+}

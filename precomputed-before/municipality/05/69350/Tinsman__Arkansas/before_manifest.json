@@ -1,0 +1,16 @@
+{
+  "article": "Tinsman,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/69350/Tinsman__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4f46f7856f4430936118433b80cfecbbb19c194b7840239aa19d23b171efdb5f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4f46f7856f4430936118433b80cfecbbb19c194b7840239aa19d23b171efdb5f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/69350/Tinsman__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "69350",
+  "timestamp": "2026-05-24T23:34:10.899522Z",
+  "version": 1
+}

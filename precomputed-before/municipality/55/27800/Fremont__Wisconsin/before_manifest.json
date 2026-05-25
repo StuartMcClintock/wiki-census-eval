@@ -1,0 +1,16 @@
+{
+  "article": "Fremont,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/27800/Fremont__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "355b1b0b1d497e1aec5a8f410db8ae476ef2959aedac64761658303350d15e69",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "355b1b0b1d497e1aec5a8f410db8ae476ef2959aedac64761658303350d15e69",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/27800/Fremont__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "27800",
+  "timestamp": "2026-05-25T00:22:07.699038Z",
+  "version": 1
+}

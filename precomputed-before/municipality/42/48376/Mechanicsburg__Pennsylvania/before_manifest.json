@@ -1,0 +1,16 @@
+{
+  "article": "Mechanicsburg,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/48376/Mechanicsburg__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "934bcb24cf26e0a9ad971717423cb9d35c8508f1267387fe21a07ab6571bcd0d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "934bcb24cf26e0a9ad971717423cb9d35c8508f1267387fe21a07ab6571bcd0d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/48376/Mechanicsburg__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "48376",
+  "timestamp": "2026-05-25T00:08:03.770480Z",
+  "version": 1
+}

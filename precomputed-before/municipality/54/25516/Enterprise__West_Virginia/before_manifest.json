@@ -1,0 +1,16 @@
+{
+  "article": "Enterprise,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/25516/Enterprise__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e92c9b68126cf797391113e002aab07fac06fcd26e9eff0e14881edba6749bac",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e92c9b68126cf797391113e002aab07fac06fcd26e9eff0e14881edba6749bac",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/25516/Enterprise__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "25516",
+  "timestamp": "2026-05-25T00:21:05.533107Z",
+  "version": 1
+}

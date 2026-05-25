@@ -1,0 +1,16 @@
+{
+  "article": "Mershon,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/50960/Mershon__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "28daeff1be23fb604b4e46b6b5e9679fc95950a863d2f8c96753eff826acb641",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "28daeff1be23fb604b4e46b6b5e9679fc95950a863d2f8c96753eff826acb641",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/50960/Mershon__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "50960",
+  "timestamp": "2026-05-24T23:36:55.325262Z",
+  "version": 1
+}

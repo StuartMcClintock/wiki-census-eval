@@ -1,0 +1,16 @@
+{
+  "article": "Breda,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/08290/Breda__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1275c15e00051157b2aab02dc8043e121ffb0015a90593f424b58f8de78f175f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1275c15e00051157b2aab02dc8043e121ffb0015a90593f424b58f8de78f175f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/08290/Breda__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "08290",
+  "timestamp": "2026-05-24T23:40:30.083889Z",
+  "version": 1
+}

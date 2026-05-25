@@ -1,0 +1,16 @@
+{
+  "article": "Coker,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/16312/Coker__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b574d53af15b1c3e1eac20ec055d970629a6c45c7821c98a4609a42ada894dd6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b574d53af15b1c3e1eac20ec055d970629a6c45c7821c98a4609a42ada894dd6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/16312/Coker__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "16312",
+  "timestamp": "2026-05-24T23:31:52.090013Z",
+  "version": 1
+}

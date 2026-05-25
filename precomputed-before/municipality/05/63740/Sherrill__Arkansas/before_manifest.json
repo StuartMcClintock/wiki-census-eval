@@ -1,0 +1,16 @@
+{
+  "article": "Sherrill,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/63740/Sherrill__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1ba66d4d1d97eff8be81d1fa41637a94ca5d1568927894fed1ff87710317b744",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1ba66d4d1d97eff8be81d1fa41637a94ca5d1568927894fed1ff87710317b744",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/63740/Sherrill__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "63740",
+  "timestamp": "2026-05-24T23:34:08.524775Z",
+  "version": 1
+}

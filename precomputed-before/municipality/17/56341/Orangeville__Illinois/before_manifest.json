@@ -1,0 +1,16 @@
+{
+  "article": "Orangeville,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/56341/Orangeville__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "895d90ac7edef7b5f9573318e43ce8fbd830a0b9103ee27252ffc0b1d7d51530",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "895d90ac7edef7b5f9573318e43ce8fbd830a0b9103ee27252ffc0b1d7d51530",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/56341/Orangeville__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "56341",
+  "timestamp": "2026-05-24T23:38:55.073037Z",
+  "version": 1
+}

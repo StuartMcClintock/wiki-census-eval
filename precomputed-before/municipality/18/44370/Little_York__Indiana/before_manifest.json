@@ -1,0 +1,16 @@
+{
+  "article": "Little_York,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/44370/Little_York__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8c92f512f4b476596e5ced575075158f189d56d1c29160e67d7942f3d402e039",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8c92f512f4b476596e5ced575075158f189d56d1c29160e67d7942f3d402e039",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/44370/Little_York__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "44370",
+  "timestamp": "2026-05-24T23:39:54.520004Z",
+  "version": 1
+}

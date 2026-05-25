@@ -1,0 +1,16 @@
+{
+  "article": "Willisville,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/75770/Willisville__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "be4bd12c470aea7c3aeb64c538080d3c73e6cefd298e869f999c3e083eb62d12",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "be4bd12c470aea7c3aeb64c538080d3c73e6cefd298e869f999c3e083eb62d12",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/75770/Willisville__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "75770",
+  "timestamp": "2026-05-24T23:34:14.854482Z",
+  "version": 1
+}

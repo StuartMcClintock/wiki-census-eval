@@ -1,0 +1,16 @@
+{
+  "article": "Port_Royal,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/63928/Port_Royal__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "81e18028af13836504695ae46d032541178c80330a08928f3c5c522f476d3598",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "81e18028af13836504695ae46d032541178c80330a08928f3c5c522f476d3598",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/63928/Port_Royal__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "63928",
+  "timestamp": "2026-05-25T00:19:32.461277Z",
+  "version": 1
+}

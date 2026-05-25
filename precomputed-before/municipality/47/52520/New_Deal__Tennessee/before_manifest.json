@@ -1,0 +1,16 @@
+{
+  "article": "New_Deal,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/52520/New_Deal__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d4aae7598a62bcc60cd53292a93ca863ba146f6b81aec895a52d159439d397ff",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d4aae7598a62bcc60cd53292a93ca863ba146f6b81aec895a52d159439d397ff",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/52520/New_Deal__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "52520",
+  "timestamp": "2026-05-25T00:14:48.395258Z",
+  "version": 1
+}

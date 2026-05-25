@@ -1,0 +1,16 @@
+{
+  "article": "Braceville,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/07640/Braceville__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ef7907cf1f5867ab97acab4239d0b32d74efe4610df39a181b65c3c0b3ee3643",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ef7907cf1f5867ab97acab4239d0b32d74efe4610df39a181b65c3c0b3ee3643",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/07640/Braceville__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "07640",
+  "timestamp": "2026-05-24T23:37:50.922093Z",
+  "version": 1
+}

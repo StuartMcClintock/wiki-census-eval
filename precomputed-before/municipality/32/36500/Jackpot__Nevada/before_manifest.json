@@ -1,0 +1,16 @@
+{
+  "article": "Jackpot,_Nevada",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/32/36500/Jackpot__Nevada/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "99f0f24214c032ea62d1feba1b6b6a0a05dbe6f96d63ff863364a20ba6725fe6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "99f0f24214c032ea62d1feba1b6b6a0a05dbe6f96d63ff863364a20ba6725fe6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/32/36500/Jackpot__Nevada/manifest.json",
+  "state_fips": "32",
+  "status": "match",
+  "target_fips": "36500",
+  "timestamp": "2026-05-24T23:57:30.642299Z",
+  "version": 1
+}

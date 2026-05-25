@@ -1,0 +1,16 @@
+{
+  "article": "Newry,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/54024/Newry__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a9e2a1d0f23a2cb27739b50c6896f9651d591118c6f08236ad5d1539476c7bac",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a9e2a1d0f23a2cb27739b50c6896f9651d591118c6f08236ad5d1539476c7bac",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/54024/Newry__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "54024",
+  "timestamp": "2026-05-25T00:08:17.843672Z",
+  "version": 1
+}

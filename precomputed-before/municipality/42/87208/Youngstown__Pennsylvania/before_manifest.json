@@ -1,0 +1,16 @@
+{
+  "article": "Youngstown,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/87208/Youngstown__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8dddd840d42d52acea5821fc343c4e59f5068ea9d8fb83de6897d5430427e7e9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8dddd840d42d52acea5821fc343c4e59f5068ea9d8fb83de6897d5430427e7e9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/87208/Youngstown__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "87208",
+  "timestamp": "2026-05-25T00:09:35.360058Z",
+  "version": 1
+}

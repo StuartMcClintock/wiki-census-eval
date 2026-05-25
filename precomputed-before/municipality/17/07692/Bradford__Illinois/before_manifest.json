@@ -1,0 +1,16 @@
+{
+  "article": "Bradford,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/07692/Bradford__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f75ff54a1d170de7e0fc777957b92b873c39d99d64eb700325304cdcdb515815",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f75ff54a1d170de7e0fc777957b92b873c39d99d64eb700325304cdcdb515815",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/07692/Bradford__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "07692",
+  "timestamp": "2026-05-24T23:37:51.033237Z",
+  "version": 1
+}

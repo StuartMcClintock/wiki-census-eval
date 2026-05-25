@@ -1,0 +1,16 @@
+{
+  "article": "Cannelburg,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/10090/Cannelburg__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2f8bd69fbd3d5279612c56e6036070a21de7309d3c80b317066166ac82a6b162",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2f8bd69fbd3d5279612c56e6036070a21de7309d3c80b317066166ac82a6b162",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/10090/Cannelburg__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "10090",
+  "timestamp": "2026-05-24T23:39:28.993317Z",
+  "version": 1
+}

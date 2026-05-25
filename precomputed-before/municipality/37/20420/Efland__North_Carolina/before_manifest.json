@@ -1,0 +1,16 @@
+{
+  "article": "Efland,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/20420/Efland__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8920f37cf6f2ca67f74bb77a49497a9f82ea74b029387f7e671dd5e14048068d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8920f37cf6f2ca67f74bb77a49497a9f82ea74b029387f7e671dd5e14048068d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/20420/Efland__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "20420",
+  "timestamp": "2026-05-25T00:01:54.365175Z",
+  "version": 1
+}

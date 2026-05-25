@@ -1,0 +1,16 @@
+{
+  "article": "Sand_Rock,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/67920/Sand_Rock__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "eb167dbfe4cd7285d378232dcb91b13a64960ccb80c11be7c3e49dfcdf7b0710",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "eb167dbfe4cd7285d378232dcb91b13a64960ccb80c11be7c3e49dfcdf7b0710",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/67920/Sand_Rock__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "67920",
+  "timestamp": "2026-05-24T23:32:11.752440Z",
+  "version": 1
+}

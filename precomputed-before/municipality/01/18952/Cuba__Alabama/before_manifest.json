@@ -1,0 +1,16 @@
+{
+  "article": "Cuba,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/18952/Cuba__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0398b2594fa0d3f2e60010bf7499c95e46934531a687f221b24791cf77447a65",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0398b2594fa0d3f2e60010bf7499c95e46934531a687f221b24791cf77447a65",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/18952/Cuba__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "18952",
+  "timestamp": "2026-05-24T23:31:52.657344Z",
+  "version": 1
+}

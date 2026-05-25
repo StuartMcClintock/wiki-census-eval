@@ -1,0 +1,16 @@
+{
+  "article": "Lagro,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/40896/Lagro__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "09e48023b35ae815b2a7ec4cf4c8a7bbf0a38093af75c5cd5175ae1d8491f8ec",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "09e48023b35ae815b2a7ec4cf4c8a7bbf0a38093af75c5cd5175ae1d8491f8ec",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/40896/Lagro__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "40896",
+  "timestamp": "2026-05-24T23:39:52.853684Z",
+  "version": 1
+}

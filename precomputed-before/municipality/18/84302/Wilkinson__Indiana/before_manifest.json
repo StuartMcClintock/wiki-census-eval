@@ -1,0 +1,16 @@
+{
+  "article": "Wilkinson,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/84302/Wilkinson__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7ef6903be643ff5f92d218113bcf6df37ec6929ab34e927ab91377fc2721c931",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7ef6903be643ff5f92d218113bcf6df37ec6929ab34e927ab91377fc2721c931",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/84302/Wilkinson__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "84302",
+  "timestamp": "2026-05-24T23:40:19.543651Z",
+  "version": 1
+}

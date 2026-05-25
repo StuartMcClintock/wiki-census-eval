@@ -1,0 +1,16 @@
+{
+  "article": "Banks_Lake_South,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/04125/Banks_Lake_South__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "60b2c43d55d16d1c93ea6cf5f161260e31fcc0e4872e4c53db3a1440967543ff",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "60b2c43d55d16d1c93ea6cf5f161260e31fcc0e4872e4c53db3a1440967543ff",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/04125/Banks_Lake_South__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "04125",
+  "timestamp": "2026-05-25T00:20:01.000056Z",
+  "version": 1
+}

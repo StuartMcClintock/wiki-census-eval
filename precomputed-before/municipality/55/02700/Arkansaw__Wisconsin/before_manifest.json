@@ -1,0 +1,16 @@
+{
+  "article": "Arkansaw,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/02700/Arkansaw__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ddd3352e4b15e1032c8a3538e7094c72fb18b2f44361a88bcc4dad6b9eb65992",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ddd3352e4b15e1032c8a3538e7094c72fb18b2f44361a88bcc4dad6b9eb65992",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/02700/Arkansaw__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "02700",
+  "timestamp": "2026-05-25T00:21:32.680445Z",
+  "version": 1
+}

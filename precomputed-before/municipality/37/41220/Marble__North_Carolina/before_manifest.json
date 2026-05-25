@@ -1,0 +1,16 @@
+{
+  "article": "Marble,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/41220/Marble__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f89d7e0cd61748d738f8f333a9727f336f646c304de6505d2ee58075769dce82",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f89d7e0cd61748d738f8f333a9727f336f646c304de6505d2ee58075769dce82",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/41220/Marble__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "41220",
+  "timestamp": "2026-05-25T00:02:10.113326Z",
+  "version": 1
+}

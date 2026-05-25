@@ -1,0 +1,16 @@
+{
+  "article": "Timberville,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/78736/Timberville__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "886f3fd4b60d6b7109a798a8b6496abeea1baa5bfc5fa9d5d6e5a56dd422b997",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "886f3fd4b60d6b7109a798a8b6496abeea1baa5bfc5fa9d5d6e5a56dd422b997",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/78736/Timberville__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "78736",
+  "timestamp": "2026-05-25T00:19:41.983965Z",
+  "version": 1
+}

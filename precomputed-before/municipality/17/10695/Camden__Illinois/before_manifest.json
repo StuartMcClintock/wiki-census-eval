@@ -1,0 +1,16 @@
+{
+  "article": "Camden,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/10695/Camden__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ba2047f5cda380d4ba63d3f664f41d88c94c476555aac1e17149fd060eff1e4f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ba2047f5cda380d4ba63d3f664f41d88c94c476555aac1e17149fd060eff1e4f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/10695/Camden__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "10695",
+  "timestamp": "2026-05-24T23:37:54.507048Z",
+  "version": 1
+}

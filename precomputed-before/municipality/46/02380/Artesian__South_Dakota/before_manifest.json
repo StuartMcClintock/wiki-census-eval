@@ -1,0 +1,16 @@
+{
+  "article": "Artesian,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/02380/Artesian__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8878eccc3d0c60ce854e29a9d5058cbd1ad82d3dd9ff42ec1b904cc24b1b3d76",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8878eccc3d0c60ce854e29a9d5058cbd1ad82d3dd9ff42ec1b904cc24b1b3d76",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/02380/Artesian__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "02380",
+  "timestamp": "2026-05-25T00:10:30.265259Z",
+  "version": 1
+}

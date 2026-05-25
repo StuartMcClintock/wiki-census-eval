@@ -1,0 +1,16 @@
+{
+  "article": "Dayton,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/19385/Dayton__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "497f6b5cc147c4df29ee80228e935c4c60cb773560ebd3946ffde94a31bc96be",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "497f6b5cc147c4df29ee80228e935c4c60cb773560ebd3946ffde94a31bc96be",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/19385/Dayton__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "19385",
+  "timestamp": "2026-05-25T00:23:11.509604Z",
+  "version": 1
+}

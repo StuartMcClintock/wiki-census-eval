@@ -1,0 +1,16 @@
+{
+  "article": "North_Haven,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/52188/North_Haven__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b27cb6a429763947082da6cdb615c4433af39dceda77d71243f1746fe4e241eb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b27cb6a429763947082da6cdb615c4433af39dceda77d71243f1746fe4e241eb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/52188/North_Haven__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "52188",
+  "timestamp": "2026-05-25T00:00:58.131076Z",
+  "version": 1
+}

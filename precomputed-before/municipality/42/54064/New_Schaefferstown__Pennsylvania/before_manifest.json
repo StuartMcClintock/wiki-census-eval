@@ -1,0 +1,16 @@
+{
+  "article": "New_Schaefferstown,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/54064/New_Schaefferstown__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e4962d8de88036f15992c004a6c54a78c43804e653ed088d5adc165c652a8976",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e4962d8de88036f15992c004a6c54a78c43804e653ed088d5adc165c652a8976",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/54064/New_Schaefferstown__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "54064",
+  "timestamp": "2026-05-25T00:08:18.022804Z",
+  "version": 1
+}

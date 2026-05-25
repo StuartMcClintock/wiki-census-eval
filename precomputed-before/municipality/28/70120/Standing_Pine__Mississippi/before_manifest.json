@@ -1,0 +1,16 @@
+{
+  "article": "Standing_Pine,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/70120/Standing_Pine__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "14162aeaa814d4778af25b039ba89f910a2ab60a1f82cd8da7d1991fe75512ee",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "14162aeaa814d4778af25b039ba89f910a2ab60a1f82cd8da7d1991fe75512ee",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/70120/Standing_Pine__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "70120",
+  "timestamp": "2026-05-24T23:50:25.596025Z",
+  "version": 1
+}

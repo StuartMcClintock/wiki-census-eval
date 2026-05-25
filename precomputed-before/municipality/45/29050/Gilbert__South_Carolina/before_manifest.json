@@ -1,0 +1,16 @@
+{
+  "article": "Gilbert,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/29050/Gilbert__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4532b09c44e84619a63f3ee3ef63afffbc334e3ec00b64286c35f8abe532da6c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4532b09c44e84619a63f3ee3ef63afffbc334e3ec00b64286c35f8abe532da6c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/29050/Gilbert__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "29050",
+  "timestamp": "2026-05-25T00:10:04.315987Z",
+  "version": 1
+}

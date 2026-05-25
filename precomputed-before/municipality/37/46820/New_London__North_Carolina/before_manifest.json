@@ -1,0 +1,16 @@
+{
+  "article": "New_London,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/46820/New_London__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b0f5b17191457f85116c51c670dd945d5240b8ab13a6c633be49120d3a50f6eb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b0f5b17191457f85116c51c670dd945d5240b8ab13a6c633be49120d3a50f6eb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/46820/New_London__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "46820",
+  "timestamp": "2026-05-25T00:02:13.347065Z",
+  "version": 1
+}

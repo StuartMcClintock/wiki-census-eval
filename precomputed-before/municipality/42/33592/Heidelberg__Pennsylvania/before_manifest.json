@@ -1,0 +1,16 @@
+{
+  "article": "Heidelberg,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/33592/Heidelberg__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "af2412e5eb086979ee0f698094c0eb4b876dfc3fd90be964e8ba3017941cff3e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "af2412e5eb086979ee0f698094c0eb4b876dfc3fd90be964e8ba3017941cff3e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/33592/Heidelberg__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "33592",
+  "timestamp": "2026-05-25T00:07:24.368032Z",
+  "version": 1
+}

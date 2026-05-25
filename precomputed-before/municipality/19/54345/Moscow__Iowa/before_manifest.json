@@ -1,0 +1,16 @@
+{
+  "article": "Moscow,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/54345/Moscow__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ba55e53d8746b0f02d3b3ca479e6951f3d414c3a8e8b0db0a52bb0b1e88cf64b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ba55e53d8746b0f02d3b3ca479e6951f3d414c3a8e8b0db0a52bb0b1e88cf64b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/54345/Moscow__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "54345",
+  "timestamp": "2026-05-24T23:41:30.556044Z",
+  "version": 1
+}

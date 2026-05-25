@@ -1,0 +1,16 @@
+{
+  "article": "Campton,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/12358/Campton__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "89417176905c17b5ba80ad5c8a181d7554ed33490e1d14cafb4cca7490fb572e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "89417176905c17b5ba80ad5c8a181d7554ed33490e1d14cafb4cca7490fb572e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/12358/Campton__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "12358",
+  "timestamp": "2026-05-24T23:43:46.731201Z",
+  "version": 1
+}

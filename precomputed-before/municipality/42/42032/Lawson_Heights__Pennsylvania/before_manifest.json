@@ -1,0 +1,16 @@
+{
+  "article": "Lawson_Heights,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/42032/Lawson_Heights__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c7a29bdb9e6e76cf737257d11a2a61e258ed1a4bc7f492e7a85704e1cb99cfa5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c7a29bdb9e6e76cf737257d11a2a61e258ed1a4bc7f492e7a85704e1cb99cfa5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/42032/Lawson_Heights__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "42032",
+  "timestamp": "2026-05-25T00:07:49.500717Z",
+  "version": 1
+}

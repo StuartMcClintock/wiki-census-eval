@@ -1,0 +1,16 @@
+{
+  "article": "Lisbon,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/44235/Lisbon__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f2b44a7dc01402997a41b0fcc94c9615b99bd94c9e3b18803cdff0b1f72da819",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f2b44a7dc01402997a41b0fcc94c9615b99bd94c9e3b18803cdff0b1f72da819",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/44235/Lisbon__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "44235",
+  "timestamp": "2026-05-24T23:44:54.179619Z",
+  "version": 1
+}

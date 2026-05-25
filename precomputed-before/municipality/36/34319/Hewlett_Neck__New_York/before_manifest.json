@@ -1,0 +1,16 @@
+{
+  "article": "Hewlett_Neck,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/34319/Hewlett_Neck__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c87321d7a17b81462c0fa66fc4bf87ebe9524fac2840f613606b3b3f6a5432d1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c87321d7a17b81462c0fa66fc4bf87ebe9524fac2840f613606b3b3f6a5432d1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/34319/Hewlett_Neck__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "34319",
+  "timestamp": "2026-05-25T00:00:47.756704Z",
+  "version": 1
+}

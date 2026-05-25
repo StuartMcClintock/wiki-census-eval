@@ -1,0 +1,16 @@
+{
+  "article": "Lucas,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/47100/Lucas__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fa97d3224884f51f41cf94c3190583c5fbd53caf069307c84a3ba1c70fcb4f0c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fa97d3224884f51f41cf94c3190583c5fbd53caf069307c84a3ba1c70fcb4f0c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/47100/Lucas__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "47100",
+  "timestamp": "2026-05-24T23:41:22.705711Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Antioch,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/02148/Antioch__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "86994131cb0cd1e8cc046b56a1d727ecb8aa4018e8fb1cb601435eaf7abbc0be",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "86994131cb0cd1e8cc046b56a1d727ecb8aa4018e8fb1cb601435eaf7abbc0be",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/02148/Antioch__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "02148",
+  "timestamp": "2026-05-25T00:03:30.316419Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Bellwood,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/04020/Bellwood__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ed2d0eae9a469cf82c633ff2028d7626c35637d1d93e048fd87f31731e797584",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ed2d0eae9a469cf82c633ff2028d7626c35637d1d93e048fd87f31731e797584",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/04020/Bellwood__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "04020",
+  "timestamp": "2026-05-24T23:55:11.601411Z",
+  "version": 1
+}

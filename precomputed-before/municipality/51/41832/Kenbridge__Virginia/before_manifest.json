@@ -1,0 +1,16 @@
+{
+  "article": "Kenbridge,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/41832/Kenbridge__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "adf12bb697dcc6da59f71d765ebf1743e61558a9b5a08400f90346714af8217f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "adf12bb697dcc6da59f71d765ebf1743e61558a9b5a08400f90346714af8217f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/41832/Kenbridge__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "41832",
+  "timestamp": "2026-05-25T00:19:20.216477Z",
+  "version": 1
+}

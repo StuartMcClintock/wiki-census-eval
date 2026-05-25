@@ -1,0 +1,16 @@
+{
+  "article": "Mattoon,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/50000/Mattoon__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fbf97025aec35948bcfb5713a050d8479cfa96cee2cfbab1ea2b07ca7565cf4c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fbf97025aec35948bcfb5713a050d8479cfa96cee2cfbab1ea2b07ca7565cf4c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/50000/Mattoon__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "50000",
+  "timestamp": "2026-05-25T00:22:23.778992Z",
+  "version": 1
+}

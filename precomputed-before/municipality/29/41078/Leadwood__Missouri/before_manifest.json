@@ -1,0 +1,16 @@
+{
+  "article": "Leadwood,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/41078/Leadwood__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d53ba6a9142fb478b60837f753dde3209350041b1bfed7f3f244352ffe90784e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d53ba6a9142fb478b60837f753dde3209350041b1bfed7f3f244352ffe90784e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/41078/Leadwood__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "41078",
+  "timestamp": "2026-05-24T23:53:26.917377Z",
+  "version": 1
+}

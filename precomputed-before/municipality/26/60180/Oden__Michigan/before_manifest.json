@@ -1,0 +1,16 @@
+{
+  "article": "Oden,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/60180/Oden__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "17666fd39a3af78198c4d9617b7d5aa866d9a135f8d495742f6e1a9817f06bec",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "17666fd39a3af78198c4d9617b7d5aa866d9a135f8d495742f6e1a9817f06bec",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/60180/Oden__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "60180",
+  "timestamp": "2026-05-24T23:48:09.639341Z",
+  "version": 1
+}

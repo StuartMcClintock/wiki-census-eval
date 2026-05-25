@@ -1,0 +1,16 @@
+{
+  "article": "Woods_Bay,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/81700/Woods_Bay__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "312f21b3df570773a2f9341f1e997c36bbe4176ab524574c91e964f5ffc104ee",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "312f21b3df570773a2f9341f1e997c36bbe4176ab524574c91e964f5ffc104ee",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/81700/Woods_Bay__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "81700",
+  "timestamp": "2026-05-24T23:55:05.655643Z",
+  "version": 1
+}

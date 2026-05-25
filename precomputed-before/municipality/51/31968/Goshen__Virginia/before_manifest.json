@@ -1,0 +1,16 @@
+{
+  "article": "Goshen,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/31968/Goshen__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cd11b8e486c4b4894cb4786bf48c4687f3c55b2c5c212d15c798a19d6eac5803",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cd11b8e486c4b4894cb4786bf48c4687f3c55b2c5c212d15c798a19d6eac5803",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/31968/Goshen__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "31968",
+  "timestamp": "2026-05-25T00:19:15.393861Z",
+  "version": 1
+}

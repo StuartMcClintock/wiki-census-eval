@@ -1,0 +1,16 @@
+{
+  "article": "Murphy,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/45660/Murphy__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8fa2ed1e9f04734fc789f07dda974dc5a73cccbe2af720da4e28f6202c26830c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8fa2ed1e9f04734fc789f07dda974dc5a73cccbe2af720da4e28f6202c26830c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/45660/Murphy__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "45660",
+  "timestamp": "2026-05-25T00:02:12.901973Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Kennard,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/25230/Kennard__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "804d682a14b72e974aee15290bee64b9633674ecbb2bdca0a7d4b63a7a322d0e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "804d682a14b72e974aee15290bee64b9633674ecbb2bdca0a7d4b63a7a322d0e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/25230/Kennard__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "25230",
+  "timestamp": "2026-05-24T23:55:35.552086Z",
+  "version": 1
+}

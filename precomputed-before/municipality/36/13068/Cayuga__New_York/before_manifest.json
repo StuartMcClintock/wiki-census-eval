@@ -1,0 +1,16 @@
+{
+  "article": "Cayuga,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/13068/Cayuga__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1032cd9fbee62df0ff1632ac529522380efd522d85088016de32eec6af6e40f5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1032cd9fbee62df0ff1632ac529522380efd522d85088016de32eec6af6e40f5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/13068/Cayuga__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "13068",
+  "timestamp": "2026-05-25T00:00:35.064662Z",
+  "version": 1
+}

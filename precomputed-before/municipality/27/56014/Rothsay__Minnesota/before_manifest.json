@@ -1,0 +1,16 @@
+{
+  "article": "Rothsay,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/56014/Rothsay__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cfb0ebff777bd37b6b194e7d1985bb9e09c004cd3238a65bc90f0f5d6f282bc3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cfb0ebff777bd37b6b194e7d1985bb9e09c004cd3238a65bc90f0f5d6f282bc3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/56014/Rothsay__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "56014",
+  "timestamp": "2026-05-24T23:49:42.336330Z",
+  "version": 1
+}

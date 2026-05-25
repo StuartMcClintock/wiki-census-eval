@@ -1,0 +1,16 @@
+{
+  "article": "Dale,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/18340/Dale__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f1ec5d3cd3b72ae2c8d1a4b58e03ed6f67a9d2e108529f2056f4667244bac744",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f1ec5d3cd3b72ae2c8d1a4b58e03ed6f67a9d2e108529f2056f4667244bac744",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/18340/Dale__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "18340",
+  "timestamp": "2026-05-25T00:09:56.892746Z",
+  "version": 1
+}

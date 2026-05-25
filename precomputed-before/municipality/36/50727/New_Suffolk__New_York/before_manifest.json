@@ -1,0 +1,16 @@
+{
+  "article": "New_Suffolk,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/50727/New_Suffolk__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "91da5cb8af6d8b8e04417141abfdeaba4b63f6fa449f4d05699e12736b9cdc9e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "91da5cb8af6d8b8e04417141abfdeaba4b63f6fa449f4d05699e12736b9cdc9e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/50727/New_Suffolk__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "50727",
+  "timestamp": "2026-05-25T00:00:57.242738Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Conneaut_Lake,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/15744/Conneaut_Lake__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2dbf7cffad5db1f1a22f462ecc86241f4ce2422c3e563be77401355b00b2b18e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2dbf7cffad5db1f1a22f462ecc86241f4ce2422c3e563be77401355b00b2b18e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/15744/Conneaut_Lake__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "15744",
+  "timestamp": "2026-05-25T00:06:45.547355Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Hamilton,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/29120/Hamilton__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "61ce72c800499126dfa846bab086b8e1e02a5b7254aa48f48c98648ec316f16a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "61ce72c800499126dfa846bab086b8e1e02a5b7254aa48f48c98648ec316f16a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/29120/Hamilton__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "29120",
+  "timestamp": "2026-05-25T00:02:01.749258Z",
+  "version": 1
+}

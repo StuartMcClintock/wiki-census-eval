@@ -1,0 +1,16 @@
+{
+  "article": "Barnegat_Light,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/03130/Barnegat_Light__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f11d56ae4b485fd3dc745a6c4b3119bec1faf778a3572ab3e4a007c0dc253d18",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f11d56ae4b485fd3dc745a6c4b3119bec1faf778a3572ab3e4a007c0dc253d18",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/03130/Barnegat_Light__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "03130",
+  "timestamp": "2026-05-24T23:57:39.934840Z",
+  "version": 1
+}

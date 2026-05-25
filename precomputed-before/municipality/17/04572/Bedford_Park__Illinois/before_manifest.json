@@ -1,0 +1,16 @@
+{
+  "article": "Bedford_Park,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/04572/Bedford_Park__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b9d8066dd8ad9f3a4c759b25fb4d6803b9cec068259b9362be9549efa2ebe25e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b9d8066dd8ad9f3a4c759b25fb4d6803b9cec068259b9362be9549efa2ebe25e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/04572/Bedford_Park__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "04572",
+  "timestamp": "2026-05-24T23:37:37.171368Z",
+  "version": 1
+}

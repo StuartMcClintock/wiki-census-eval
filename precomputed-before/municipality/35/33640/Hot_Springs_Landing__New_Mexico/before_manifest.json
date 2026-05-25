@@ -1,0 +1,16 @@
+{
+  "article": "Hot_Springs_Landing,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/33640/Hot_Springs_Landing__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e0b0638d8365c311f85252074d3b3a4aa490e275f36aeede3a6ed5b22ac99b3d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e0b0638d8365c311f85252074d3b3a4aa490e275f36aeede3a6ed5b22ac99b3d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/33640/Hot_Springs_Landing__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "33640",
+  "timestamp": "2026-05-24T23:58:34.056030Z",
+  "version": 1
+}

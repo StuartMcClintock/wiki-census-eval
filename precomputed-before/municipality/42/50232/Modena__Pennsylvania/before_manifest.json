@@ -1,0 +1,16 @@
+{
+  "article": "Modena,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/50232/Modena__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d76ae9f209b827064dabcec75ad346855769db1bef8c0e15e0fd0691d0ebd4e7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d76ae9f209b827064dabcec75ad346855769db1bef8c0e15e0fd0691d0ebd4e7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/50232/Modena__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "50232",
+  "timestamp": "2026-05-25T00:08:07.918763Z",
+  "version": 1
+}

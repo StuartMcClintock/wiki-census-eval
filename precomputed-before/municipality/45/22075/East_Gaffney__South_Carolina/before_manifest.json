@@ -1,0 +1,16 @@
+{
+  "article": "East_Gaffney,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/22075/East_Gaffney__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cc610f3e810b3fdbca41a5f3654abd3fb94e668a4362c00455dcb3181c9a3416",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cc610f3e810b3fdbca41a5f3654abd3fb94e668a4362c00455dcb3181c9a3416",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/22075/East_Gaffney__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "22075",
+  "timestamp": "2026-05-25T00:10:00.820403Z",
+  "version": 1
+}

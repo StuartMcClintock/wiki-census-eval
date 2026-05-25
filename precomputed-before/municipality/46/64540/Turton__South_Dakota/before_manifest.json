@@ -1,0 +1,16 @@
+{
+  "article": "Turton,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/64540/Turton__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9ae072071dd9d26eab146152ecc2b2bbde512596e8aa12390c2201f6785896f2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9ae072071dd9d26eab146152ecc2b2bbde512596e8aa12390c2201f6785896f2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/64540/Turton__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "64540",
+  "timestamp": "2026-05-25T00:14:26.114059Z",
+  "version": 1
+}

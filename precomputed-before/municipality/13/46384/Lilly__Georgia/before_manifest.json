@@ -1,0 +1,16 @@
+{
+  "article": "Lilly,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/46384/Lilly__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f1db4f6247b263f266c424ba59e2d410c27185453901113bc88232e2d112663b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f1db4f6247b263f266c424ba59e2d410c27185453901113bc88232e2d112663b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/46384/Lilly__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "46384",
+  "timestamp": "2026-05-24T23:36:53.243038Z",
+  "version": 1
+}

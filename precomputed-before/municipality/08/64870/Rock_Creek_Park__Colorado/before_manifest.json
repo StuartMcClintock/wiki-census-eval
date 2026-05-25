@@ -1,0 +1,16 @@
+{
+  "article": "Rock_Creek_Park,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/64870/Rock_Creek_Park__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ff8c1410f4f397d25228ce9f19083ddee38b9955510133305c1895dbc84be20b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ff8c1410f4f397d25228ce9f19083ddee38b9955510133305c1895dbc84be20b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/64870/Rock_Creek_Park__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "64870",
+  "timestamp": "2026-05-24T23:35:38.595913Z",
+  "version": 1
+}

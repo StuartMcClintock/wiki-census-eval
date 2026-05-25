@@ -1,0 +1,16 @@
+{
+  "article": "Mount_Olive,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/49520/Mount_Olive__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f41e5550dc84c7b21129b9fab337c91f89c8c203d57adb8d52298e3a2a999194",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f41e5550dc84c7b21129b9fab337c91f89c8c203d57adb8d52298e3a2a999194",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/49520/Mount_Olive__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "49520",
+  "timestamp": "2026-05-24T23:50:17.503710Z",
+  "version": 1
+}

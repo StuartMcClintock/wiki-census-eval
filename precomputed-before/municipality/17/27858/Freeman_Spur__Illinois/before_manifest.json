@@ -1,0 +1,16 @@
+{
+  "article": "Freeman_Spur,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/27858/Freeman_Spur__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "250d46ba90f36f9bc74a4ae6ae9e5955f1538b51b549941fbf8e8c88263e7d41",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "250d46ba90f36f9bc74a4ae6ae9e5955f1538b51b549941fbf8e8c88263e7d41",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/27858/Freeman_Spur__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "27858",
+  "timestamp": "2026-05-24T23:38:14.397545Z",
+  "version": 1
+}

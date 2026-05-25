@@ -1,0 +1,16 @@
+{
+  "article": "Carbon_Hill,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/11176/Carbon_Hill__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dbf96d2fd7990512e1aabb467b0ac44fd5576e054182e6b64629f5f4d3653086",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dbf96d2fd7990512e1aabb467b0ac44fd5576e054182e6b64629f5f4d3653086",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/11176/Carbon_Hill__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "11176",
+  "timestamp": "2026-05-24T23:37:55.195896Z",
+  "version": 1
+}

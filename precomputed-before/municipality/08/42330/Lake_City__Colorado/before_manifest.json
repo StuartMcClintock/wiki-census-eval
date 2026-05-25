@@ -1,0 +1,16 @@
+{
+  "article": "Lake_City,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/42330/Lake_City__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2838ba34c6b1137d87a3f2ee78e2de6900276eb9a514ed0a6e28bbbe50146c9e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2838ba34c6b1137d87a3f2ee78e2de6900276eb9a514ed0a6e28bbbe50146c9e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/42330/Lake_City__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "42330",
+  "timestamp": "2026-05-24T23:35:30.838587Z",
+  "version": 1
+}

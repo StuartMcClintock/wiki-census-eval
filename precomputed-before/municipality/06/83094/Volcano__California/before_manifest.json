@@ -1,0 +1,16 @@
+{
+  "article": "Volcano,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/83094/Volcano__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ca76e660fa7069a42e9a3086a36ee3d1584dbe038af2a8fe1dee402d0275ddfa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ca76e660fa7069a42e9a3086a36ee3d1584dbe038af2a8fe1dee402d0275ddfa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/83094/Volcano__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "83094",
+  "timestamp": "2026-05-24T23:35:13.161410Z",
+  "version": 1
+}

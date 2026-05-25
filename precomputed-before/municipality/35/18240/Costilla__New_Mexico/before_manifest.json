@@ -1,0 +1,16 @@
+{
+  "article": "Costilla,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/18240/Costilla__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8e7e180caf4edc17c614d2cb240a39a7734dfc0ad95c6739cbec3a82e4219ecc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8e7e180caf4edc17c614d2cb240a39a7734dfc0ad95c6739cbec3a82e4219ecc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/18240/Costilla__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "18240",
+  "timestamp": "2026-05-24T23:58:26.802651Z",
+  "version": 1
+}

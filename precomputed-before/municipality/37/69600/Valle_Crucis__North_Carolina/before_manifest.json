@@ -1,0 +1,16 @@
+{
+  "article": "Valle_Crucis,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/69600/Valle_Crucis__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "31e4e3826597c034d6eeb13f92dd876e4c01e79fcacf9b165728c60a54b6be14",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "31e4e3826597c034d6eeb13f92dd876e4c01e79fcacf9b165728c60a54b6be14",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/69600/Valle_Crucis__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "69600",
+  "timestamp": "2026-05-25T00:02:26.943950Z",
+  "version": 1
+}

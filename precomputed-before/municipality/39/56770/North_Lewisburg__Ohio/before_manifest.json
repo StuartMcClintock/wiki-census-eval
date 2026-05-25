@@ -1,0 +1,16 @@
+{
+  "article": "North_Lewisburg,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/56770/North_Lewisburg__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a1a4e80af79fb1c22a9188cb3c2eee30e7f055befd77e4c85dd61aaf5bee1549",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a1a4e80af79fb1c22a9188cb3c2eee30e7f055befd77e4c85dd61aaf5bee1549",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/56770/North_Lewisburg__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "56770",
+  "timestamp": "2026-05-25T00:05:01.240613Z",
+  "version": 1
+}

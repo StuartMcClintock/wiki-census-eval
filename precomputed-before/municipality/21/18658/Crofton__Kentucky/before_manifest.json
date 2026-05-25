@@ -1,0 +1,16 @@
+{
+  "article": "Crofton,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/18658/Crofton__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3c9490d20782ba0384f27c9f7f8d83c77277fd4d7fbc9477cd923d5356edabed",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3c9490d20782ba0384f27c9f7f8d83c77277fd4d7fbc9477cd923d5356edabed",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/18658/Crofton__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "18658",
+  "timestamp": "2026-05-24T23:43:49.778718Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Arthur,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/03115/Arthur__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "81d1343a158958acb8725a706a4726c580c618043051eb2585431619243fdde3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "81d1343a158958acb8725a706a4726c580c618043051eb2585431619243fdde3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/03115/Arthur__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "03115",
+  "timestamp": "2026-05-24T23:40:24.137449Z",
+  "version": 1
+}

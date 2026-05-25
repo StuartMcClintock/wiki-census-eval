@@ -1,0 +1,16 @@
+{
+  "article": "Mount_Vernon,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/48020/Mount_Vernon__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5b2dc463d98ae8d38e5b8b0824bc6d58f444555cedaf97049564c50a3c91f877",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5b2dc463d98ae8d38e5b8b0824bc6d58f444555cedaf97049564c50a3c91f877",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/48020/Mount_Vernon__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "48020",
+  "timestamp": "2026-05-24T23:33:54.783779Z",
+  "version": 1
+}

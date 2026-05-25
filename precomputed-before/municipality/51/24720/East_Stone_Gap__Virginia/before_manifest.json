@@ -1,0 +1,16 @@
+{
+  "article": "East_Stone_Gap,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/24720/East_Stone_Gap__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e2c137fed3fae9d4380a89e17d931739f1598d2b8646e7e2ef345aa7a836507f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e2c137fed3fae9d4380a89e17d931739f1598d2b8646e7e2ef345aa7a836507f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/24720/East_Stone_Gap__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "24720",
+  "timestamp": "2026-05-25T00:19:11.015951Z",
+  "version": 1
+}

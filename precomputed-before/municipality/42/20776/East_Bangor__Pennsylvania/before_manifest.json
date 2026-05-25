@@ -1,0 +1,16 @@
+{
+  "article": "East_Bangor,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/20776/East_Bangor__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8a5b570e1665f7ade05bd9deeb757dc3aab9d07f4df2435e9147f4b258c7b8aa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8a5b570e1665f7ade05bd9deeb757dc3aab9d07f4df2435e9147f4b258c7b8aa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/20776/East_Bangor__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "20776",
+  "timestamp": "2026-05-25T00:06:55.514491Z",
+  "version": 1
+}

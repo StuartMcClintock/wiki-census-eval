@@ -1,0 +1,16 @@
+{
+  "article": "Stockett,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/71350/Stockett__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b73307f81c19d45b3609e03d80338500fa60ecfca5d8a91f7783bf63f2e29a8a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b73307f81c19d45b3609e03d80338500fa60ecfca5d8a91f7783bf63f2e29a8a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/71350/Stockett__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "71350",
+  "timestamp": "2026-05-24T23:54:52.585078Z",
+  "version": 1
+}

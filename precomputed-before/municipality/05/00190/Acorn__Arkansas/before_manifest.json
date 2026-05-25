@@ -1,0 +1,16 @@
+{
+  "article": "Acorn,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/00190/Acorn__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0517338274236e3e2fdbf7f0b66a0911b7b7cebb3a7443852d179a9235ea2279",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0517338274236e3e2fdbf7f0b66a0911b7b7cebb3a7443852d179a9235ea2279",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/00190/Acorn__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "00190",
+  "timestamp": "2026-05-24T23:33:16.860694Z",
+  "version": 1
+}

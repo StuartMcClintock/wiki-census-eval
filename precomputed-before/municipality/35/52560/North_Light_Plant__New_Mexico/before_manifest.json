@@ -1,0 +1,16 @@
+{
+  "article": "North_Light_Plant,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/52560/North_Light_Plant__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "587e4a1ef2ed7b6f85b1f50631d46689f681ca7042e2ac67a9d8050eb72c09d5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "587e4a1ef2ed7b6f85b1f50631d46689f681ca7042e2ac67a9d8050eb72c09d5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/52560/North_Light_Plant__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "52560",
+  "timestamp": "2026-05-24T23:58:44.765198Z",
+  "version": 1
+}

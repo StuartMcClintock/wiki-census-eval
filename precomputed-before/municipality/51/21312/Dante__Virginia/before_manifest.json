@@ -1,0 +1,16 @@
+{
+  "article": "Dante,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/21312/Dante__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2f849750a76784fe25ed96fb2bdac2748bcf7a7a6d8eb2e3aa66b249123bcf1f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2f849750a76784fe25ed96fb2bdac2748bcf7a7a6d8eb2e3aa66b249123bcf1f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/21312/Dante__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "21312",
+  "timestamp": "2026-05-25T00:19:08.679062Z",
+  "version": 1
+}

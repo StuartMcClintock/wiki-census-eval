@@ -1,0 +1,16 @@
+{
+  "article": "Cannonsburg,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/13100/Cannonsburg__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "16eb568056799ff3c76e1c4ca40531f308247ebf1ada66719241c787b8460185",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "16eb568056799ff3c76e1c4ca40531f308247ebf1ada66719241c787b8460185",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/13100/Cannonsburg__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "13100",
+  "timestamp": "2026-05-24T23:47:46.874760Z",
+  "version": 1
+}

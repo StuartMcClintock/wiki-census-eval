@@ -1,0 +1,16 @@
+{
+  "article": "Bowman,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/07620/Bowman__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6ebca5ae76d68a0b3f7ba7d10aaf5e4f821051faeaf4c7423413654cf4774adf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6ebca5ae76d68a0b3f7ba7d10aaf5e4f821051faeaf4c7423413654cf4774adf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/07620/Bowman__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "07620",
+  "timestamp": "2026-05-25T00:14:32.500212Z",
+  "version": 1
+}

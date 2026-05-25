@@ -1,0 +1,16 @@
+{
+  "article": "Moose_Wilson_Road,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/54402/Moose_Wilson_Road__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "249188c8f9e1e8aa832558f3f942dfe9c310a33aac6b7010a8eee563ba7aaa4d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "249188c8f9e1e8aa832558f3f942dfe9c310a33aac6b7010a8eee563ba7aaa4d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/54402/Moose_Wilson_Road__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "54402",
+  "timestamp": "2026-05-25T00:23:19.667955Z",
+  "version": 1
+}

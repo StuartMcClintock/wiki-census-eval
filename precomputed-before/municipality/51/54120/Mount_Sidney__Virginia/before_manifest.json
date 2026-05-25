@@ -1,0 +1,16 @@
+{
+  "article": "Mount_Sidney,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/54120/Mount_Sidney__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bea8f20a39be4bae8e3a0e028ff6d3504411a6286e25d403a215eff00a87e91b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bea8f20a39be4bae8e3a0e028ff6d3504411a6286e25d403a215eff00a87e91b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/54120/Mount_Sidney__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "54120",
+  "timestamp": "2026-05-25T00:19:27.933741Z",
+  "version": 1
+}

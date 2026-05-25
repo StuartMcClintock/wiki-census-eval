@@ -1,0 +1,16 @@
+{
+  "article": "Rosholt,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/56340/Rosholt__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "be9bd3a0e5d82183cd4bf1ad62c93078625a2dd24baed426cd6ce7fea3dbf6c1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "be9bd3a0e5d82183cd4bf1ad62c93078625a2dd24baed426cd6ce7fea3dbf6c1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/56340/Rosholt__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "56340",
+  "timestamp": "2026-05-25T00:12:45.856989Z",
+  "version": 1
+}

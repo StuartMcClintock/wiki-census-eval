@@ -1,0 +1,16 @@
+{
+  "article": "Deer_Creek,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/18940/Deer_Creek__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cb36a051fb03cb95f1d650ba534957726f784a1a3160faf35644d2be9f353f91",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cb36a051fb03cb95f1d650ba534957726f784a1a3160faf35644d2be9f353f91",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/18940/Deer_Creek__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "18940",
+  "timestamp": "2026-05-24T23:38:06.091152Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Udell,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/79410/Udell__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e1299f4b4b578a99a819993ea42a9933aff899e505e5443b50f3f8c0a97a3c54",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e1299f4b4b578a99a819993ea42a9933aff899e505e5443b50f3f8c0a97a3c54",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/79410/Udell__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "79410",
+  "timestamp": "2026-05-24T23:42:06.899828Z",
+  "version": 1
+}

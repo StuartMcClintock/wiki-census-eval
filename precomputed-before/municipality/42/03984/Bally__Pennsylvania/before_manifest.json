@@ -1,0 +1,16 @@
+{
+  "article": "Bally,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/03984/Bally__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3ff4d774b4e3de5175671d6d83ae50e7b0fcf9362c6d0a3736a02bb7a869c6cd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3ff4d774b4e3de5175671d6d83ae50e7b0fcf9362c6d0a3736a02bb7a869c6cd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/03984/Bally__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "03984",
+  "timestamp": "2026-05-25T00:06:12.876489Z",
+  "version": 1
+}

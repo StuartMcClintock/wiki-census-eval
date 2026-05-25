@@ -1,0 +1,16 @@
+{
+  "article": "Boydton,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/09016/Boydton__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d862557cca2f6d99e991d9b613656ada2f8f8acdf974fb0d4b8816f64ba984e2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d862557cca2f6d99e991d9b613656ada2f8f8acdf974fb0d4b8816f64ba984e2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/09016/Boydton__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "09016",
+  "timestamp": "2026-05-25T00:19:01.993819Z",
+  "version": 1
+}

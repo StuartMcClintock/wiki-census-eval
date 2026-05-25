@@ -1,0 +1,16 @@
+{
+  "article": "Idledale,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/38480/Idledale__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c234c181c63a2f5ca1d1343ddd7cec0156fb297b6def7b7ef62a21ef4ee5787d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c234c181c63a2f5ca1d1343ddd7cec0156fb297b6def7b7ef62a21ef4ee5787d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/38480/Idledale__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "38480",
+  "timestamp": "2026-05-24T23:35:29.201728Z",
+  "version": 1
+}

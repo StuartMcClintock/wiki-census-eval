@@ -1,0 +1,16 @@
+{
+  "article": "Converse,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/16360/Converse__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6da542eae68dc2ce5fd820c9b7b2d81d00319c28224b4409cba2e13ab2ed117d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6da542eae68dc2ce5fd820c9b7b2d81d00319c28224b4409cba2e13ab2ed117d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/16360/Converse__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "16360",
+  "timestamp": "2026-05-25T00:09:55.798500Z",
+  "version": 1
+}

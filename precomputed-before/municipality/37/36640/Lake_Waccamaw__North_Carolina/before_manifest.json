@@ -1,0 +1,16 @@
+{
+  "article": "Lake_Waccamaw,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/36640/Lake_Waccamaw__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "969bb2ef095996806207de1beea6b63432e90198c72b474f75f0ffb1fe6a499f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "969bb2ef095996806207de1beea6b63432e90198c72b474f75f0ffb1fe6a499f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/36640/Lake_Waccamaw__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "36640",
+  "timestamp": "2026-05-25T00:02:06.761046Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Forbestown,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/24750/Forbestown__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b36de78846624a35994bf2ca7f8eb3d8933783dfb65806b77be969aad92eb7f5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b36de78846624a35994bf2ca7f8eb3d8933783dfb65806b77be969aad92eb7f5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/24750/Forbestown__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "24750",
+  "timestamp": "2026-05-24T23:34:23.399104Z",
+  "version": 1
+}

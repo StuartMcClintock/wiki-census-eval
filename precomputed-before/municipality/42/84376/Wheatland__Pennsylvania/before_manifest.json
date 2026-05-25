@@ -1,0 +1,16 @@
+{
+  "article": "Wheatland,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/84376/Wheatland__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9a95855938ee7ffcebc08fba13b79e04aca271b30fc6ce84a47ec3c8c22bd7ca",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9a95855938ee7ffcebc08fba13b79e04aca271b30fc6ce84a47ec3c8c22bd7ca",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/84376/Wheatland__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "84376",
+  "timestamp": "2026-05-25T00:09:30.178685Z",
+  "version": 1
+}

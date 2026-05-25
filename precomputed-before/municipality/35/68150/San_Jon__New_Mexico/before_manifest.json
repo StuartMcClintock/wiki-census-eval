@@ -1,0 +1,16 @@
+{
+  "article": "San_Jon,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/68150/San_Jon__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "96051764be45fba2a1105f028b55c85cbd2e72b9b60e425f9b05907951e9c203",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "96051764be45fba2a1105f028b55c85cbd2e72b9b60e425f9b05907951e9c203",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/68150/San_Jon__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "68150",
+  "timestamp": "2026-05-24T23:58:53.044201Z",
+  "version": 1
+}

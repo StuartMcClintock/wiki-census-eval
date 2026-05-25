@@ -1,0 +1,16 @@
+{
+  "article": "Fredericktown,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/28658/Fredericktown__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aef83f91d406cc59b74c7d5a79f840703b1b276fad97e552b5987d80a15dc1d2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aef83f91d406cc59b74c7d5a79f840703b1b276fad97e552b5987d80a15dc1d2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/28658/Fredericktown__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "28658",
+  "timestamp": "2026-05-25T00:04:10.110104Z",
+  "version": 1
+}

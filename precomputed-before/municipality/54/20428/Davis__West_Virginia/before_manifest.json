@@ -1,0 +1,16 @@
+{
+  "article": "Davis,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/20428/Davis__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ffc05abfe2c13c4309f5ccc65cd714683a0cfbead8c3bd9bb19dbc625840dc18",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ffc05abfe2c13c4309f5ccc65cd714683a0cfbead8c3bd9bb19dbc625840dc18",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/20428/Davis__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "20428",
+  "timestamp": "2026-05-25T00:21:03.603518Z",
+  "version": 1
+}

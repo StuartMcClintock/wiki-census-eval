@@ -1,0 +1,16 @@
+{
+  "article": "De_Borgia,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/19675/De_Borgia__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d2d0dbac1f8020d3efe0aac0d13e0ab1e18aef36a402681e2ef6ab997dad1dc4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d2d0dbac1f8020d3efe0aac0d13e0ab1e18aef36a402681e2ef6ab997dad1dc4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/19675/De_Borgia__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "19675",
+  "timestamp": "2026-05-24T23:54:20.951104Z",
+  "version": 1
+}

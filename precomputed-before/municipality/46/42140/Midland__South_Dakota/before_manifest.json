@@ -1,0 +1,16 @@
+{
+  "article": "Midland,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/42140/Midland__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "35793b0c6c8fcf34e05af47c90e8b4a20852adcb70c4e5b41b052aee9454fcb4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "35793b0c6c8fcf34e05af47c90e8b4a20852adcb70c4e5b41b052aee9454fcb4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/42140/Midland__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "42140",
+  "timestamp": "2026-05-25T00:11:03.323363Z",
+  "version": 1
+}

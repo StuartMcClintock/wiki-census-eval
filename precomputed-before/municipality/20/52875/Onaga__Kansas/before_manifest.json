@@ -1,0 +1,16 @@
+{
+  "article": "Onaga,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/52875/Onaga__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a1aa9bfc8a4e3d41fcbc9ea131fbc64a7d7c66bb0019de75461fdb8455b03b1c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a1aa9bfc8a4e3d41fcbc9ea131fbc64a7d7c66bb0019de75461fdb8455b03b1c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/52875/Onaga__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "52875",
+  "timestamp": "2026-05-24T23:43:16.802121Z",
+  "version": 1
+}

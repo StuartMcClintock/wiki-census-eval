@@ -1,0 +1,16 @@
+{
+  "article": "Alma,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/02044/Alma__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c4abd35fb0f43c013ac0cf2de5df5cb80d958d0895d0bc5bd9a9869f1a2d7135",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c4abd35fb0f43c013ac0cf2de5df5cb80d958d0895d0bc5bd9a9869f1a2d7135",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/02044/Alma__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "02044",
+  "timestamp": "2026-05-25T00:15:01.080659Z",
+  "version": 1
+}

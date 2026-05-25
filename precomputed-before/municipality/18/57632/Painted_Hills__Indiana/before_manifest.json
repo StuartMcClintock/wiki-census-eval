@@ -1,0 +1,16 @@
+{
+  "article": "Painted_Hills,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/57632/Painted_Hills__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7b9cdf7b3cc20e472ddbd67884579cb0968efe0734d2af0c2d081795214864df",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7b9cdf7b3cc20e472ddbd67884579cb0968efe0734d2af0c2d081795214864df",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/57632/Painted_Hills__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "57632",
+  "timestamp": "2026-05-24T23:40:07.331706Z",
+  "version": 1
+}

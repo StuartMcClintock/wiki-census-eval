@@ -1,0 +1,16 @@
+{
+  "article": "Time,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/75419/Time__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "74ce4763c6bbb43a73e3cf5c0b7bfb7a49dd8e7172549e772d67f4cda6f613fa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "74ce4763c6bbb43a73e3cf5c0b7bfb7a49dd8e7172549e772d67f4cda6f613fa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/75419/Time__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "75419",
+  "timestamp": "2026-05-24T23:39:16.652613Z",
+  "version": 1
+}

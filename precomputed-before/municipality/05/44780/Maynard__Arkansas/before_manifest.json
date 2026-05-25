@@ -1,0 +1,16 @@
+{
+  "article": "Maynard,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/44780/Maynard__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "506b467e40ffd08a9a4afd96e803b6b69b64cd11bc2e4cab79891baef8718670",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "506b467e40ffd08a9a4afd96e803b6b69b64cd11bc2e4cab79891baef8718670",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/44780/Maynard__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "44780",
+  "timestamp": "2026-05-24T23:33:52.766865Z",
+  "version": 1
+}

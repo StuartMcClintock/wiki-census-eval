@@ -1,0 +1,16 @@
+{
+  "article": "Low_Moor,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/47010/Low_Moor__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2c0ee82bf351a45a2d9b26fa555c20d244b7e08a3f5232febf76a07250ac5043",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2c0ee82bf351a45a2d9b26fa555c20d244b7e08a3f5232febf76a07250ac5043",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/47010/Low_Moor__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "47010",
+  "timestamp": "2026-05-24T23:41:22.467345Z",
+  "version": 1
+}

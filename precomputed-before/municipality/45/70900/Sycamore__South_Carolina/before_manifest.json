@@ -1,0 +1,16 @@
+{
+  "article": "Sycamore,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/70900/Sycamore__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e2e207e319092885fa0ec34c010a9704156c591f3c2e9d5bde4729319702935c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e2e207e319092885fa0ec34c010a9704156c591f3c2e9d5bde4729319702935c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/70900/Sycamore__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "70900",
+  "timestamp": "2026-05-25T00:10:24.303079Z",
+  "version": 1
+}

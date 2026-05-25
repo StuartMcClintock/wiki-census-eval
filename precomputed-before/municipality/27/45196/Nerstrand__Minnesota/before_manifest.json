@@ -1,0 +1,16 @@
+{
+  "article": "Nerstrand,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/45196/Nerstrand__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "301c788222f985e2708abe2dee18fd53157d8a5b26c4169090d3d09f4d4afc64",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "301c788222f985e2708abe2dee18fd53157d8a5b26c4169090d3d09f4d4afc64",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/45196/Nerstrand__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "45196",
+  "timestamp": "2026-05-24T23:49:23.276214Z",
+  "version": 1
+}

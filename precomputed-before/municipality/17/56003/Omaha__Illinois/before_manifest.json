@@ -1,0 +1,16 @@
+{
+  "article": "Omaha,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/56003/Omaha__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c736a06f76ec19b8769bf4010c79eaaecedbedf8b27245571674ffd2486464eb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c736a06f76ec19b8769bf4010c79eaaecedbedf8b27245571674ffd2486464eb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/56003/Omaha__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "56003",
+  "timestamp": "2026-05-24T23:38:54.624149Z",
+  "version": 1
+}

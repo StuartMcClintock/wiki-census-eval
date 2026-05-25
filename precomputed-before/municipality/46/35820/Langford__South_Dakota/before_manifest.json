@@ -1,0 +1,16 @@
+{
+  "article": "Langford,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/35820/Langford__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e62251ca5ef8b8d34c9d9ad35f139b9e8c0044cd40845dbd9eeb514055c8dbb2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e62251ca5ef8b8d34c9d9ad35f139b9e8c0044cd40845dbd9eeb514055c8dbb2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/35820/Langford__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "35820",
+  "timestamp": "2026-05-25T00:10:44.666981Z",
+  "version": 1
+}

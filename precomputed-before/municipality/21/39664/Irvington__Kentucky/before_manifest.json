@@ -1,0 +1,16 @@
+{
+  "article": "Irvington,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/39664/Irvington__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "46fd34973bfa486d51f0ededb76dfb2e6845f1e89ec9561220869fb57e40a770",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "46fd34973bfa486d51f0ededb76dfb2e6845f1e89ec9561220869fb57e40a770",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/39664/Irvington__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "39664",
+  "timestamp": "2026-05-24T23:44:08.063715Z",
+  "version": 1
+}

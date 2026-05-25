@@ -1,0 +1,16 @@
+{
+  "article": "Creekside,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/17024/Creekside__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "729f15300642d425972e59814df5034cacab1a0c171394d7c5d92a8e19240bfe",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "729f15300642d425972e59814df5034cacab1a0c171394d7c5d92a8e19240bfe",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/17024/Creekside__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "17024",
+  "timestamp": "2026-05-25T00:06:47.715259Z",
+  "version": 1
+}

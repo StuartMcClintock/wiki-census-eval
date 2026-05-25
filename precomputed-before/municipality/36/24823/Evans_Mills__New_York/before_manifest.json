@@ -1,0 +1,16 @@
+{
+  "article": "Evans_Mills,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/24823/Evans_Mills__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8ee6534bee5cb8a032c24a8ab2d24bff24882ea0ccf043cf5572fad98e6ce5b8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8ee6534bee5cb8a032c24a8ab2d24bff24882ea0ccf043cf5572fad98e6ce5b8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/24823/Evans_Mills__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "24823",
+  "timestamp": "2026-05-25T00:00:42.013639Z",
+  "version": 1
+}

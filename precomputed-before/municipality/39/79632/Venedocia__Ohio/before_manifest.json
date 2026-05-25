@@ -1,0 +1,16 @@
+{
+  "article": "Venedocia,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/79632/Venedocia__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fdfcee97c2f292df8c242bff017b94df3452db04202687cf2c1f965c4f37adb2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fdfcee97c2f292df8c242bff017b94df3452db04202687cf2c1f965c4f37adb2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/79632/Venedocia__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "79632",
+  "timestamp": "2026-05-25T00:05:34.724114Z",
+  "version": 1
+}

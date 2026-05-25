@@ -1,0 +1,16 @@
+{
+  "article": "Coolidge,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/15400/Coolidge__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3eaafcc16c2f9f97125331f36ee0b953c55ad946ec615f0b633fb8eb988c8845",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3eaafcc16c2f9f97125331f36ee0b953c55ad946ec615f0b633fb8eb988c8845",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/15400/Coolidge__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "15400",
+  "timestamp": "2026-05-24T23:42:29.826682Z",
+  "version": 1
+}

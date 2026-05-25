@@ -1,0 +1,16 @@
+{
+  "article": "Silver_Lake,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/67600/Silver_Lake__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2c2d4e4ca8546ec31330d18aba85f386eab812b5e187059f1359e27d62952976",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2c2d4e4ca8546ec31330d18aba85f386eab812b5e187059f1359e27d62952976",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/67600/Silver_Lake__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "67600",
+  "timestamp": "2026-05-25T00:06:02.617931Z",
+  "version": 1
+}

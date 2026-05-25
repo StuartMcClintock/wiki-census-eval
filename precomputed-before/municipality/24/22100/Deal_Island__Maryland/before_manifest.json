@@ -1,0 +1,16 @@
+{
+  "article": "Deal_Island,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/22100/Deal_Island__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8dc47ccfce12e07aa43bb2f17567347bde7746af45b6e58121937e673926f1b3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8dc47ccfce12e07aa43bb2f17567347bde7746af45b6e58121937e673926f1b3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/22100/Deal_Island__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "22100",
+  "timestamp": "2026-05-24T23:47:19.376220Z",
+  "version": 1
+}

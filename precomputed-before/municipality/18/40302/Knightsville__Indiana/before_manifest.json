@@ -1,0 +1,16 @@
+{
+  "article": "Knightsville,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/40302/Knightsville__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "55ae5ef2cfd6acd94b25c71f59b892c8f186dcbf8641c03d8e1e2ffa8e37a271",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "55ae5ef2cfd6acd94b25c71f59b892c8f186dcbf8641c03d8e1e2ffa8e37a271",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/40302/Knightsville__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "40302",
+  "timestamp": "2026-05-24T23:39:41.316407Z",
+  "version": 1
+}

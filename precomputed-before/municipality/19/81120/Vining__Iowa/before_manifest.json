@@ -1,0 +1,16 @@
+{
+  "article": "Vining,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/81120/Vining__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "438ce403498e5a07c7e98c298e9a3190e294b2730e09bcce0159ad2d79260927",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "438ce403498e5a07c7e98c298e9a3190e294b2730e09bcce0159ad2d79260927",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/81120/Vining__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "81120",
+  "timestamp": "2026-05-24T23:42:08.689196Z",
+  "version": 1
+}

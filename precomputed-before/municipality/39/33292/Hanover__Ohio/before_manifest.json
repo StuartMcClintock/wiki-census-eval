@@ -1,0 +1,16 @@
+{
+  "article": "Hanover,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/33292/Hanover__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bb305073fae339d09c05fa89ad56f69482f5adfb0062a8024b2c6309808b6ec4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bb305073fae339d09c05fa89ad56f69482f5adfb0062a8024b2c6309808b6ec4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/33292/Hanover__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "33292",
+  "timestamp": "2026-05-25T00:04:15.613397Z",
+  "version": 1
+}

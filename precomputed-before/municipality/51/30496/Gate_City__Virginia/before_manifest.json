@@ -1,0 +1,16 @@
+{
+  "article": "Gate_City,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/30496/Gate_City__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f7677c0ce0e75a90c15fd7dad871b2cf66f16f348007f6a57ae89ff50aaa2ba2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f7677c0ce0e75a90c15fd7dad871b2cf66f16f348007f6a57ae89ff50aaa2ba2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/30496/Gate_City__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "30496",
+  "timestamp": "2026-05-25T00:19:14.369651Z",
+  "version": 1
+}

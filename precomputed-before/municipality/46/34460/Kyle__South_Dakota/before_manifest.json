@@ -1,0 +1,16 @@
+{
+  "article": "Kyle,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/34460/Kyle__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ca5a4c2becf60b515dff5739fba0a762c8abfa8e87c1311c4c52e60c80b395b1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ca5a4c2becf60b515dff5739fba0a762c8abfa8e87c1311c4c52e60c80b395b1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/34460/Kyle__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "34460",
+  "timestamp": "2026-05-25T00:10:44.058113Z",
+  "version": 1
+}

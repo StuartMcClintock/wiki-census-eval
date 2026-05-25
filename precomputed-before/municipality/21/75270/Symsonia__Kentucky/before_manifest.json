@@ -1,0 +1,16 @@
+{
+  "article": "Symsonia,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/75270/Symsonia__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9623aaa391395e98ca45d805510355a651bdbb7dec43172a72a856a5a0206e9a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9623aaa391395e98ca45d805510355a651bdbb7dec43172a72a856a5a0206e9a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/75270/Symsonia__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "75270",
+  "timestamp": "2026-05-24T23:44:23.116727Z",
+  "version": 1
+}

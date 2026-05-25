@@ -1,0 +1,16 @@
+{
+  "article": "Brookport,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/08706/Brookport__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5f1f8a572e4394514d6f025d8c9c6024924773f4ccc12f91d8d1af59220806b6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5f1f8a572e4394514d6f025d8c9c6024924773f4ccc12f91d8d1af59220806b6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/08706/Brookport__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "08706",
+  "timestamp": "2026-05-24T23:37:51.691831Z",
+  "version": 1
+}

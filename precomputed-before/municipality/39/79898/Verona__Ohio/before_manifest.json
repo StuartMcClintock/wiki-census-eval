@@ -1,0 +1,16 @@
+{
+  "article": "Verona,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/79898/Verona__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "eea1c6171641641f2118172ca41e857c31a739cee76d45c1f0187de4e140c829",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "eea1c6171641641f2118172ca41e857c31a739cee76d45c1f0187de4e140c829",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/79898/Verona__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "79898",
+  "timestamp": "2026-05-25T00:05:34.840354Z",
+  "version": 1
+}

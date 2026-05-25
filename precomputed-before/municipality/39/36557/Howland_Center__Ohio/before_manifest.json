@@ -1,0 +1,16 @@
+{
+  "article": "Howland_Center,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/36557/Howland_Center__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a02c948288bf8585f3715dd12a0aed6dfcd7767a19999cb8308d480ce7c2e128",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a02c948288bf8585f3715dd12a0aed6dfcd7767a19999cb8308d480ce7c2e128",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/36557/Howland_Center__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "36557",
+  "timestamp": "2026-05-25T00:04:19.847325Z",
+  "version": 1
+}

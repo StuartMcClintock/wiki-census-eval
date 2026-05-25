@@ -1,0 +1,16 @@
+{
+  "article": "Dundee,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/20420/Dundee__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6236907aafe3370f75d5c18b758e7e0eff58d0683420018afd9f3f89053d5dbd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6236907aafe3370f75d5c18b758e7e0eff58d0683420018afd9f3f89053d5dbd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/20420/Dundee__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "20420",
+  "timestamp": "2026-05-24T23:50:08.276337Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Buffalo,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/10090/Buffalo__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fdc599087eb1c11ba2b7dd6cb20091e12d53d99bde6006456b582a8e69cd6214",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fdc599087eb1c11ba2b7dd6cb20091e12d53d99bde6006456b582a8e69cd6214",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/10090/Buffalo__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "10090",
+  "timestamp": "2026-05-25T00:09:41.457609Z",
+  "version": 1
+}

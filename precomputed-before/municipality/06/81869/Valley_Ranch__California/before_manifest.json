@@ -1,0 +1,16 @@
+{
+  "article": "Valley_Ranch,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/81869/Valley_Ranch__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dba56b7d35ed4a4faf1749d3a5932be57bf17c11a000eef395892d574a05857e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dba56b7d35ed4a4faf1749d3a5932be57bf17c11a000eef395892d574a05857e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/81869/Valley_Ranch__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "81869",
+  "timestamp": "2026-05-24T23:35:12.325070Z",
+  "version": 1
+}

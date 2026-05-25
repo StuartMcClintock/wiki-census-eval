@@ -1,0 +1,16 @@
+{
+  "article": "Torrey,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/77010/Torrey__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d7b509d600a6027f84854ff4107b11969d5a381ef1995b751c3e637603e1ac8b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d7b509d600a6027f84854ff4107b11969d5a381ef1995b751c3e637603e1ac8b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/77010/Torrey__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "77010",
+  "timestamp": "2026-05-25T00:17:11.312424Z",
+  "version": 1
+}

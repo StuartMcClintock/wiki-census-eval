@@ -1,0 +1,16 @@
+{
+  "article": "Mound,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/52565/Mound__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4ed5bba12fb0635b2bf182e111ec87477db4fde9bf6baa7548c15487cf449944",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4ed5bba12fb0635b2bf182e111ec87477db4fde9bf6baa7548c15487cf449944",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/52565/Mound__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "52565",
+  "timestamp": "2026-05-24T23:45:02.569052Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Hiltons,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/37432/Hiltons__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8f99ebec723448d4144e09bbb6adb6d480af6898a6ba91f769cdd027bbfbbb78",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8f99ebec723448d4144e09bbb6adb6d480af6898a6ba91f769cdd027bbfbbb78",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/37432/Hiltons__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "37432",
+  "timestamp": "2026-05-25T00:19:17.846753Z",
+  "version": 1
+}

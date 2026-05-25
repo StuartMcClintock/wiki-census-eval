@@ -1,0 +1,16 @@
+{
+  "article": "Loganville,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/45400/Loganville__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1a5a0885934d671b31c517cc9282bc356243376bfabe93961e58dfc96335f262",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1a5a0885934d671b31c517cc9282bc356243376bfabe93961e58dfc96335f262",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/45400/Loganville__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "45400",
+  "timestamp": "2026-05-25T00:22:21.082042Z",
+  "version": 1
+}

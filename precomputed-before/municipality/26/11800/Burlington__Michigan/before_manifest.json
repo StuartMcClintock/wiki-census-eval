@@ -1,0 +1,16 @@
+{
+  "article": "Burlington,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/11800/Burlington__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d3cbcdb4ec52baca9150dd0e6c76c8a57dcfadb748b8f2c52828363b3726e48e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d3cbcdb4ec52baca9150dd0e6c76c8a57dcfadb748b8f2c52828363b3726e48e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/11800/Burlington__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "11800",
+  "timestamp": "2026-05-24T23:47:45.882883Z",
+  "version": 1
+}

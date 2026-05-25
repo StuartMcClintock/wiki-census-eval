@@ -1,0 +1,16 @@
+{
+  "article": "McFall,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/45020/McFall__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1570e5daff69e248c9cde4d85125309c4384660c942aa5519fda6b1864032425",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1570e5daff69e248c9cde4d85125309c4384660c942aa5519fda6b1864032425",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/45020/McFall__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "45020",
+  "timestamp": "2026-05-24T23:53:29.876442Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Sierra_Brooks,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/71774/Sierra_Brooks__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1cfe7cae01df7a28b9572df971f196c9d6f9e06ecda833d71ce5b3381eea7294",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1cfe7cae01df7a28b9572df971f196c9d6f9e06ecda833d71ce5b3381eea7294",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/71774/Sierra_Brooks__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "71774",
+  "timestamp": "2026-05-24T23:35:05.342950Z",
+  "version": 1
+}

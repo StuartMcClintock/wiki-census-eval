@@ -1,0 +1,16 @@
+{
+  "article": "Lancaster,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/42250/Lancaster__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d3b2a5d2360c3f97393e11d7434705f2351e66e634f4dec6b7730b9d9197fb18",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d3b2a5d2360c3f97393e11d7434705f2351e66e634f4dec6b7730b9d9197fb18",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/42250/Lancaster__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "42250",
+  "timestamp": "2026-05-25T00:22:19.247532Z",
+  "version": 1
+}

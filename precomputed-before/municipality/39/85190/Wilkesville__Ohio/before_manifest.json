@@ -1,0 +1,16 @@
+{
+  "article": "Wilkesville,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/85190/Wilkesville__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "384e572ebf965d7ca72f7dabc62c288354eb6bf8bf272c01ea7cb29071cfb88a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "384e572ebf965d7ca72f7dabc62c288354eb6bf8bf272c01ea7cb29071cfb88a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/85190/Wilkesville__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "85190",
+  "timestamp": "2026-05-25T00:05:39.371855Z",
+  "version": 1
+}

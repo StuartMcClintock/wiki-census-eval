@@ -1,0 +1,16 @@
+{
+  "article": "Junction,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/38778/Junction__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7da4f61471dc0fa6bd93dcb817c17a4d1d5ee50d2f840c29f72ff97b9f1cc18d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7da4f61471dc0fa6bd93dcb817c17a4d1d5ee50d2f840c29f72ff97b9f1cc18d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/38778/Junction__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "38778",
+  "timestamp": "2026-05-24T23:38:24.339632Z",
+  "version": 1
+}

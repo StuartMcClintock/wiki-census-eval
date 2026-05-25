@@ -1,0 +1,16 @@
+{
+  "article": "Winchester,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/76010/Winchester__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "24bf2978bd4ff4708b46ea0cfa49502342be2b5b109fb76ecf73c6ccc305c84d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "24bf2978bd4ff4708b46ea0cfa49502342be2b5b109fb76ecf73c6ccc305c84d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/76010/Winchester__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "76010",
+  "timestamp": "2026-05-24T23:34:15.384375Z",
+  "version": 1
+}

@@ -1,0 +1,52 @@
+==Demographics==
+{{US Census population
+|2020= 209
+|align-fn=center
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census/decade.html|title=Decennial Census of Population and Housing by Decades|publisher=[[US Census Bureau]]|access-date=|archive-date=July 6, 2022|archive-url=https://web.archive.org/web/20220706023553/https://www.census.gov/programs-surveys/decennial-census/decade.html|url-status=live}}</ref><br> 2020<ref name=2020CensusP2/><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A45|title=Census Population API|publisher=United States Census Bureau|accessdate=Oct 15, 2022|archive-date=February 13, 2023|archive-url=https://web.archive.org/web/20230213085226/https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A45|url-status=live}}</ref>
+}}
+
+===2020 census===
+{| class="wikitable"
+|+'''Pauline CDP, South Carolina – Demographic Profile'''<br> (''NH = Non-Hispanic'')
+!Race / Ethnicity
+!Pop 2020<ref name=2020CensusP2>{{Cite web|title=P2 HISPANIC OR LATINO, AND NOT HISPANIC OR LATINO BY RACE – 2020: DEC Redistricting Data (PL 94-171) – Pauline CDP, South Carolina|url=https://data.census.gov/cedsci/table?q=p2&g=1600000US4554970&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]]}}</ref>
+!% 2020
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|155
+|74.16%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|18
+|8.61%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|1
+|0.48%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|0
+|0.00%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|0.00%
+|-
+|[[Race and ethnicity in the United States census|Some Other Race]] alone (NH)
+|1
+|0.48%
+|-
+|[[Multiracial Americans|Mixed Race/Multi-Racial]] (NH)
+|16
+|7.66%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|18
+|8.61%
+|-
+|'''Total'''
+|'''209'''
+|'''100.00%'''
+|}
+''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos can be of any race.''
+

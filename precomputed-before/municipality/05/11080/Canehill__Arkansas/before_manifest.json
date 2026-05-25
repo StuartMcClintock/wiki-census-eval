@@ -1,0 +1,16 @@
+{
+  "article": "Canehill,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/11080/Canehill__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6fc27a900de7be0e0a3da00ad1ad65563164ced9be7dc8ae51d09caa4f5eb382",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6fc27a900de7be0e0a3da00ad1ad65563164ced9be7dc8ae51d09caa4f5eb382",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/11080/Canehill__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "11080",
+  "timestamp": "2026-05-24T23:33:24.054414Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Filley,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/16830/Filley__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ff92b11e53e55402b5a220a5ab05d9c1f252531c34085974d1445fe136be43a9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ff92b11e53e55402b5a220a5ab05d9c1f252531c34085974d1445fe136be43a9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/16830/Filley__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "16830",
+  "timestamp": "2026-05-24T23:55:26.767028Z",
+  "version": 1
+}

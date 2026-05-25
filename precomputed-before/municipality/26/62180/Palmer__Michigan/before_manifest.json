@@ -1,0 +1,16 @@
+{
+  "article": "Palmer,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/62180/Palmer__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c34613c36069a3a311b964f878c14840d060416ab70e625f4aa8a66be9a25e2e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c34613c36069a3a311b964f878c14840d060416ab70e625f4aa8a66be9a25e2e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/62180/Palmer__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "62180",
+  "timestamp": "2026-05-24T23:48:22.347403Z",
+  "version": 1
+}

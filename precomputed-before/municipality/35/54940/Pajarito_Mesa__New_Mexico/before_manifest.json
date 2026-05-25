@@ -1,0 +1,16 @@
+{
+  "article": "Pajarito_Mesa,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/54940/Pajarito_Mesa__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "52187f07e4fbe1f1a1eb915fd7e02b0b31feab2ced01bf9c5d0530a8fb1d3c58",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "52187f07e4fbe1f1a1eb915fd7e02b0b31feab2ced01bf9c5d0530a8fb1d3c58",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/54940/Pajarito_Mesa__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "54940",
+  "timestamp": "2026-05-24T23:58:46.138354Z",
+  "version": 1
+}

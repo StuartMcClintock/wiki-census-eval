@@ -1,0 +1,16 @@
+{
+  "article": "Buffalo,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/08992/Buffalo__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5649726c662f1d01e1fe0bbda38abe012feddba2a30314be7450bcb48b3da259",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5649726c662f1d01e1fe0bbda38abe012feddba2a30314be7450bcb48b3da259",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/08992/Buffalo__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "08992",
+  "timestamp": "2026-05-24T23:39:27.612098Z",
+  "version": 1
+}

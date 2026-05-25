@@ -1,0 +1,16 @@
+{
+  "article": "Soham,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/73680/Soham__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a711923dc806f350015d2f31c3dbcc41a988271ba4b89d1f382f95dcd5379b40",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a711923dc806f350015d2f31c3dbcc41a988271ba4b89d1f382f95dcd5379b40",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/73680/Soham__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "73680",
+  "timestamp": "2026-05-24T23:59:06.138555Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Fox_Chapel,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/27120/Fox_Chapel__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8f7f97ffa70684ac47f3522052a708c4a01b29079e1287312a50bb7bd0147118",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8f7f97ffa70684ac47f3522052a708c4a01b29079e1287312a50bb7bd0147118",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/27120/Fox_Chapel__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "27120",
+  "timestamp": "2026-05-25T00:07:11.457762Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Moorland,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/53895/Moorland__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8689d059ea8bf93ae24d5a5a118ef1cfbc3e89e28ce9f200a3ce158ccee38fdf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8689d059ea8bf93ae24d5a5a118ef1cfbc3e89e28ce9f200a3ce158ccee38fdf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/53895/Moorland__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "53895",
+  "timestamp": "2026-05-24T23:41:30.047732Z",
+  "version": 1
+}

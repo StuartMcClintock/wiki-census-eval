@@ -1,0 +1,16 @@
+{
+  "article": "Kiester,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/33056/Kiester__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fc0a0266f2db46b8d39dac174ce83cce9a53e0a0849e43ff25bdd14053f3bb8e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fc0a0266f2db46b8d39dac174ce83cce9a53e0a0849e43ff25bdd14053f3bb8e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/33056/Kiester__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "33056",
+  "timestamp": "2026-05-24T23:49:12.621514Z",
+  "version": 1
+}

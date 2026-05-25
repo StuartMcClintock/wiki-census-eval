@@ -1,0 +1,16 @@
+{
+  "article": "Omer,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/60660/Omer__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b8a45091b88e7e1fd73d639814cf9c93928bf4aae3e2d837854a1fffc38544d8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b8a45091b88e7e1fd73d639814cf9c93928bf4aae3e2d837854a1fffc38544d8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/60660/Omer__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "60660",
+  "timestamp": "2026-05-24T23:48:09.831595Z",
+  "version": 1
+}

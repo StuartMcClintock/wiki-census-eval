@@ -1,0 +1,16 @@
+{
+  "article": "Audubon_Park,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/02230/Audubon_Park__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "842179b4c3740a6b9328071ede5b2ee8a0c3c4efcf4cc183e965011aad5aab7e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "842179b4c3740a6b9328071ede5b2ee8a0c3c4efcf4cc183e965011aad5aab7e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/02230/Audubon_Park__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "02230",
+  "timestamp": "2026-05-24T23:57:39.357998Z",
+  "version": 1
+}

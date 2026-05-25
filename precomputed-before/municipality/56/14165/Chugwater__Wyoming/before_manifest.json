@@ -1,0 +1,16 @@
+{
+  "article": "Chugwater,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/14165/Chugwater__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cc2e089d14307bb9913600190221169bb3c34fdbd0ded74b43ee6ee85ffd3efe",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cc2e089d14307bb9913600190221169bb3c34fdbd0ded74b43ee6ee85ffd3efe",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/14165/Chugwater__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "14165",
+  "timestamp": "2026-05-25T00:23:10.420258Z",
+  "version": 1
+}

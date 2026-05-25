@@ -1,0 +1,16 @@
+{
+  "article": "Laurelville,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/42084/Laurelville__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1a33a1f51302b0250b8687ac67aadf71f520a1f5f3d95e533eaf0ed640b8d108",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1a33a1f51302b0250b8687ac67aadf71f520a1f5f3d95e533eaf0ed640b8d108",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/42084/Laurelville__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "42084",
+  "timestamp": "2026-05-25T00:04:37.093258Z",
+  "version": 1
+}

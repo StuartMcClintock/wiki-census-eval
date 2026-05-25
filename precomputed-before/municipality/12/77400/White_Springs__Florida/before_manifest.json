@@ -1,0 +1,16 @@
+{
+  "article": "White_Springs,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/77400/White_Springs__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a124d7ee567c5ab99bfdef2e7ef0d18dc5198cd2a900138d8a43f36e02f9f6cf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a124d7ee567c5ab99bfdef2e7ef0d18dc5198cd2a900138d8a43f36e02f9f6cf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/77400/White_Springs__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "77400",
+  "timestamp": "2026-05-24T23:36:25.173332Z",
+  "version": 1
+}

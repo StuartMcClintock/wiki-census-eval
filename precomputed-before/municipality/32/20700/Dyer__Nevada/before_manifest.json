@@ -1,0 +1,16 @@
+{
+  "article": "Dyer,_Nevada",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/32/20700/Dyer__Nevada/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b60cbf329e43a55b2fe6d136aef420c827ba0a3d60dda547fc91bed9c7db8a54",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b60cbf329e43a55b2fe6d136aef420c827ba0a3d60dda547fc91bed9c7db8a54",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/32/20700/Dyer__Nevada/manifest.json",
+  "state_fips": "32",
+  "status": "match",
+  "target_fips": "20700",
+  "timestamp": "2026-05-24T23:57:28.601236Z",
+  "version": 1
+}

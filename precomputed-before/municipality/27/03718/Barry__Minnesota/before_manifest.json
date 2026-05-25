@@ -1,0 +1,16 @@
+{
+  "article": "Barry,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/03718/Barry__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "667100fd8a84217c2348898dc47d29b10cf91a3f97567bf7a8455e3e982f01ce",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "667100fd8a84217c2348898dc47d29b10cf91a3f97567bf7a8455e3e982f01ce",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/03718/Barry__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "03718",
+  "timestamp": "2026-05-24T23:48:37.430295Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Glenfield,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/30660/Glenfield__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5625a5c88b12ee21658eb80b98c96dc35fbc1358f634668bb9d70ebc6847b457",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5625a5c88b12ee21658eb80b98c96dc35fbc1358f634668bb9d70ebc6847b457",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/30660/Glenfield__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "30660",
+  "timestamp": "2026-05-25T00:03:00.904810Z",
+  "version": 1
+}

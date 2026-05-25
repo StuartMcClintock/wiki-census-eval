@@ -1,0 +1,16 @@
+{
+  "article": "Conroy,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/15870/Conroy__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0cce7db1f6eac6e4e5bb23f5668917e6299acdbcef50707f119bb49838e635bb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0cce7db1f6eac6e4e5bb23f5668917e6299acdbcef50707f119bb49838e635bb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/15870/Conroy__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "15870",
+  "timestamp": "2026-05-24T23:40:36.686688Z",
+  "version": 1
+}

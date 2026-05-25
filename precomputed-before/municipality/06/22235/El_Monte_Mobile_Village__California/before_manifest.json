@@ -1,0 +1,16 @@
+{
+  "article": "El_Monte_Mobile_Village,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/22235/El_Monte_Mobile_Village__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1528a3d1e56eecd28d7b14edf09be1e996d91199b36e005c1a3aa6850659e5d8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1528a3d1e56eecd28d7b14edf09be1e996d91199b36e005c1a3aa6850659e5d8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/22235/El_Monte_Mobile_Village__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "22235",
+  "timestamp": "2026-05-24T23:34:21.586217Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Lake_City,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/40960/Lake_City__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dc47d802a97b748aad28f90b56cc51e57ec596002e780159103e9dd2870da0e6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dc47d802a97b748aad28f90b56cc51e57ec596002e780159103e9dd2870da0e6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/40960/Lake_City__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "40960",
+  "timestamp": "2026-05-25T00:07:46.838978Z",
+  "version": 1
+}

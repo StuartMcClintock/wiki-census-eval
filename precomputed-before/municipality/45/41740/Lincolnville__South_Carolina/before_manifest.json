@@ -1,0 +1,16 @@
+{
+  "article": "Lincolnville,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/41740/Lincolnville__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f571ca22dcc1578b8d75be06f5cafdc4ff2599ca11abb233d823d2e15d8b8504",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f571ca22dcc1578b8d75be06f5cafdc4ff2599ca11abb233d823d2e15d8b8504",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/41740/Lincolnville__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "41740",
+  "timestamp": "2026-05-25T00:10:10.312102Z",
+  "version": 1
+}

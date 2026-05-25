@@ -1,0 +1,16 @@
+{
+  "article": "Polk,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/39660/Polk__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ad403ce0a4409ba7459d4e3b0ee0578d269807b70cb976e0afcf86806aed796f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ad403ce0a4409ba7459d4e3b0ee0578d269807b70cb976e0afcf86806aed796f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/39660/Polk__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "39660",
+  "timestamp": "2026-05-24T23:56:03.948318Z",
+  "version": 1
+}

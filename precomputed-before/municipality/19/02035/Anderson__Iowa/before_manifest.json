@@ -1,0 +1,16 @@
+{
+  "article": "Anderson,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/02035/Anderson__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ac5f90969b973a2c7ae3402fc911bdfa1033af89fcf13c7d74aba021e1307dac",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ac5f90969b973a2c7ae3402fc911bdfa1033af89fcf13c7d74aba021e1307dac",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/02035/Anderson__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "02035",
+  "timestamp": "2026-05-24T23:40:22.493439Z",
+  "version": 1
+}

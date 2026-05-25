@@ -1,0 +1,16 @@
+{
+  "article": "Hewlett_Harbor,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/34308/Hewlett_Harbor__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9bf1cb6041294380b6bd545f34c021f96c646de38f47c96845d4f3ea3b7da4b9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9bf1cb6041294380b6bd545f34c021f96c646de38f47c96845d4f3ea3b7da4b9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/34308/Hewlett_Harbor__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "34308",
+  "timestamp": "2026-05-25T00:00:47.654925Z",
+  "version": 1
+}

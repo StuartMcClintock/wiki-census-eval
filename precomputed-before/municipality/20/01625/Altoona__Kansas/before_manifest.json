@@ -1,0 +1,16 @@
+{
+  "article": "Altoona,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/01625/Altoona__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "64a7f10d588b7a8e282b1e0bc7ca1c60f50de061046b6217374c8258ada33572",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "64a7f10d588b7a8e282b1e0bc7ca1c60f50de061046b6217374c8258ada33572",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/01625/Altoona__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "01625",
+  "timestamp": "2026-05-24T23:42:16.448433Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Miles,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/52050/Miles__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "89b345fd3b76615561e9d69bbf31d6ff2e9708d2afaf8c6cc4464faddf28e1b7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "89b345fd3b76615561e9d69bbf31d6ff2e9708d2afaf8c6cc4464faddf28e1b7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/52050/Miles__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "52050",
+  "timestamp": "2026-05-24T23:41:27.881503Z",
+  "version": 1
+}

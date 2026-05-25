@@ -1,0 +1,16 @@
+{
+  "article": "Stoneridge,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/75465/Stoneridge__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ddfaaba1daabb2d5056685e6220eb7af2e5cd11d7936fd5741ece9870151a03b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ddfaaba1daabb2d5056685e6220eb7af2e5cd11d7936fd5741ece9870151a03b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/75465/Stoneridge__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "75465",
+  "timestamp": "2026-05-24T23:59:06.729737Z",
+  "version": 1
+}

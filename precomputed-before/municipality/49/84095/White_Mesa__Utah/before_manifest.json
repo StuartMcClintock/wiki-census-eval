@@ -1,0 +1,16 @@
+{
+  "article": "White_Mesa,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/84095/White_Mesa__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ff9cb3e4f3edf757b1cc044f2177153276ba220316436ebd14a7a0bc17c9ebd9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ff9cb3e4f3edf757b1cc044f2177153276ba220316436ebd14a7a0bc17c9ebd9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/84095/White_Mesa__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "84095",
+  "timestamp": "2026-05-25T00:17:12.579913Z",
+  "version": 1
+}

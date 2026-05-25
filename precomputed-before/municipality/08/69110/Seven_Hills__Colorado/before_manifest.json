@@ -1,0 +1,16 @@
+{
+  "article": "Seven_Hills,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/69110/Seven_Hills__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7d50e79aca00fb29e79036e0902bc8b0c90aa0ec54e835a7c259ef4ac40c357e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7d50e79aca00fb29e79036e0902bc8b0c90aa0ec54e835a7c259ef4ac40c357e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/69110/Seven_Hills__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "69110",
+  "timestamp": "2026-05-24T23:35:40.468801Z",
+  "version": 1
+}

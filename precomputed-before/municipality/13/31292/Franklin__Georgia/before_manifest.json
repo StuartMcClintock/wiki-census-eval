@@ -1,0 +1,16 @@
+{
+  "article": "Franklin,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/31292/Franklin__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0a1ef15a1ac39a5805f3adc16e6f4c60899ef7dd68c090b58591b0d659312cac",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0a1ef15a1ac39a5805f3adc16e6f4c60899ef7dd68c090b58591b0d659312cac",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/31292/Franklin__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "31292",
+  "timestamp": "2026-05-24T23:36:37.106967Z",
+  "version": 1
+}

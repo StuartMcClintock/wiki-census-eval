@@ -1,0 +1,16 @@
+{
+  "article": "Crowley,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/18750/Crowley__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "45f0e2cb0efcb0745233ad32047e8a67a3467b77bf9098aa861fc4d989c6215c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "45f0e2cb0efcb0745233ad32047e8a67a3467b77bf9098aa861fc4d989c6215c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/18750/Crowley__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "18750",
+  "timestamp": "2026-05-24T23:35:23.227615Z",
+  "version": 1
+}

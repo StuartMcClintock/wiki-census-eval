@@ -1,0 +1,114 @@
+==Demographics==
+{{US Census population
+|align=left
+|1900= 3775
+|1910= 6042
+|1920= 7301
+|1930= 7956
+|1940= 7470
+|1950= 6941
+|1960= 5164
+|1970= 3704
+|1980= 2892
+|1990= 2503
+|2000= 2315
+|2010= 2122
+|2020= 1896
+|footnote=Sources:<ref>{{cite web|title=Population of Civil Divisions Less Than Counties|url=http://www2.census.gov/prod2/decennial/documents/33405927v1ch06.pdf|work=U.S. Census 1900|publisher=U.S. Census Bureau|access-date=November 22, 2013}}</ref><ref>{{cite web|title=Number and Distribution of Inhabitants:Pennsylvania-Tennessee|url=http://www2.census.gov/prod2/decennial/documents/03815512v1ch09.pdf|work=Fifteenth Census|publisher=U.S. Census Bureau}}</ref><ref>{{cite web|title=Number of Inhabitants: Pennsylvania|url=http://www2.census.gov/prod2/decennial/documents/17216604v1p40ch02.pdf|work=18th Census of the United States|publisher=U.S. Census Bureau|access-date=November 22, 2013}}</ref><ref>{{cite web|title=Pennsylvania: Population and Housing Unit Counts|url=https://www.census.gov/prod/cen1990/cph2/cph-2-40.pdf|publisher=U.S. Census Bureau|access-date=November 22, 2013}}</ref><ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=January 31, 2008|title=U.S. Census website}}</ref><ref>{{cite web|title=Annual Estimates of the Resident Population|url=https://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012-3.html|publisher=U.S. Census Bureau|access-date=November 22, 2013|url-status=dead|archive-url=https://web.archive.org/web/20131019235623/http://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012-3.html|archive-date=October 19, 2013}}</ref>
+}}
+
+===2020 census===
+{| class="wikitable" style="text-align:center;"
+|+'''Rankin borough, Pennsylvania – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Rankin borough, Alleghany County, Pennsylvania |url=https://data.census.gov/table?g=060XX00US4200363408&tid=DECENNIALSF12000.P004|website=[[United States Census Bureau]] |access-date= }}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Rankin borough, Alleghany County, Pennsylvania |url=https://data.census.gov/cedsci/table?q=p2&g=060XX00US4200363408&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Rankin borough, Alleghany County, Pennsylvania |url=https://data.census.gov/cedsci/table?q=p2&g=060XX00US4200363408&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!% 2000
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|648
+|381
+|style='background: #ffffe6; |256
+|27.99%
+|17.95%
+|style='background: #ffffe6; |13.50%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|1,601
+|1,629
+|style='background: #ffffe6; |1,504
+|69.16%
+|76.77%
+|style='background: #ffffe6; |79.32%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|3
+|6
+|style='background: #ffffe6; |0
+|0.13%
+|0.28%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|4
+|3
+|style='background: #ffffe6; |6
+|0.17%
+|0.14%
+|style='background: #ffffe6; |0.32%
+|-
+|[[Native Hawaiian]] or [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|7
+|18
+|style='background: #ffffe6; |9
+|0.30%
+|0.85%
+|style='background: #ffffe6; |0.47%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|44
+|63
+|style='background: #ffffe6; |73
+|1.90%
+|2.97%
+|style='background: #ffffe6; |3.85%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|8
+|22
+|style='background: #ffffe6; |48
+|0.35%
+|1.04%
+|style='background: #ffffe6; |2.53%
+|-
+|'''Total'''
+|'''2,315'''
+|'''2,122'''
+|style='background: #ffffe6; |'''1,896'''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+===2000 census===
+As of the [[2000 United States census|2000 census]],<ref name="GR2" /> there were 2,315 people, 1,002 households, and 603 families residing in the borough. The population density was {{convert|5,299.5|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 1,126 housing units at an average density of {{convert|2,577.6|/sqmi|/km2|sp=us|adj=off}}. The [[Race and ethnicity in the United States census|racial makeup]] of the borough was 27.99% White, 69.33% African American, 0.13% Native American, 0.17% Asian, 0.39% from other races, and 1.99% from two or more races. Hispanic or Latino of any race were 0.35% of the population. 6.8% were of [[Italians|Italian]] and 5.2% [[Slovaks|Slovak]] ancestry according to 2000 census. 97.8% spoke [[English language|English]], 1.2% [[Spanish language|Spanish]] and 1.0% [[Slovak language|Slovak]] as their first language.
+
+The [[2010 United States census|2010 census]] revealed there were 2,122 people residing in Rankin. The population density was 4,858.7 people per square mile (1,862.0&nbsp;km<sup>2</sup>). The racial makeup was 18.05% White, 80.25% African American, 0.47% Asian, 0.99% from other races, and Hispanic or Latino of any race were 0.24% of the population.
+
+There were 1,002 households, out of which 33.6% had children under the age of 18 living with them, 20.5% were married couples living together, 34.5% had a female householder with no husband present, and 39.8% were non-families. 37.3% of all households were made up of individuals, and 16.9% had someone living alone who was 65 years of age or older. The average household size was 2.30 and the average family size was 3.02.
+
+In the borough the population was spread out, with 32.7% under the age of 18, 8.5% from 18 to 24, 23.2% from 25 to 44, 18.3% from 45 to 64, and 17.2% who were 65 years of age or older. The median age was 32 years. For every 100 females, there were 68.1 males. For every 100 females aged 18 and over, there were 59.7 males.
+
+The median income for a household in the borough was $13,832, and the median income for a family was $18,625. Males had a median income of $30,000 versus $21,302 for females. The [[per capita income]] for the borough was $9,946. About 40.2% of families and 45.0% of the population were below the [[poverty line]], including 66.8% of those under age 18 and 27.5% of those age 65 or over.
+

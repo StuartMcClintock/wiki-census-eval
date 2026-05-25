@@ -1,0 +1,16 @@
+{
+  "article": "Blue_Sky,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/07420/Blue_Sky__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6f2d14b6ccb0e3ca41d736db310501153f80d5f292e5d3ab7ed3e5c884da3dc0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6f2d14b6ccb0e3ca41d736db310501153f80d5f292e5d3ab7ed3e5c884da3dc0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/07420/Blue_Sky__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "07420",
+  "timestamp": "2026-05-24T23:35:19.175798Z",
+  "version": 1
+}

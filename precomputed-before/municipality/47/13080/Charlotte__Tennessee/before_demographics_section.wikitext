@@ -1,0 +1,63 @@
+==Demographics==
+{{US Census population
+|1870= 276
+|1890= 427
+|1910= 236
+|1920= 200
+|1930= 291
+|1940= 470
+|1950= 478
+|1960= 551
+|1970= 610
+|1980= 788
+|1990= 854
+|2000= 1153
+|2010= 1235
+|2020= 1656
+|footnote=Sources:<ref name="GR9">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|publisher=[[United States Census Bureau]]|accessdate=March 4, 2012|title=Census of Population and Housing: Decennial Censuses}}</ref><ref name=CensusPopEst>{{cite web|title=Incorporated Places and Minor Civil Divisions Datasets: Subcounty Resident Population Estimates: April 1, 2010 to July 1, 2012|url=https://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|work=Population Estimates|publisher=U.S. Census Bureau|accessdate=December 11, 2013|url-status=dead|archiveurl=https://web.archive.org/web/20130611010502/http://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|archivedate=June 11, 2013}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A47|title=Census Population API|publisher=United States Census Bureau|accessdate=October 15, 2022}}</ref>
+}}
+
+===2020 census===
+{| class="wikitable" style="text-align:right"
+|+Charlotte racial composition<ref>{{Cite web|title=Explore Census Data|url=https://data.census.gov/cedsci/table?g=1600000US4713080&tid=DECENNIALPL2020.P2|access-date=December 27, 2021|website=data.census.gov}}</ref>
+!scope="col"| Race
+!scope="col"| Number
+!scope="col"| Percentage
+|-
+!scope="row"| [[White (U.S. Census)|White]] (non-Hispanic)
+| 1,448
+| 87.44%
+|-
+!scope="row"| [[African American (U.S. Census)|Black or African American]] (non-Hispanic)
+| 110
+| 6.64%
+|-
+!scope="row"| [[Native American (U.S. Census)|Native American]]
+| 2
+| 0.12%
+|-
+!scope="row"| [[Asian (U.S. Census)|Asian]]
+| 5
+| 0.3%
+|-
+!scope="row"| [[Race (United States Census)|Other/Mixed]]
+| 42
+| 2.54%
+|-
+!scope="row"| [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]]
+| 49
+| 2.96%
+|}
+As of the [[2020 United States census]], there were 1,656 people, 537 households, and 329 families residing in the town.
+
+===2000 census===
+As of the [[census]]<ref name="GR2" /> of 2000, there were 1,153 people, 395 households, and 272 families residing in the town. The population density was {{convert|661.0|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 413 housing units at an average density of {{convert|236.8|/sqmi|/km2|sp=us|adj=off}}. The racial makeup of the town was 86.82% [[White (U.S. Census)|White]], 10.67% [[African American (U.S. Census)|African American]], 0.35% [[Native American (U.S. Census)|Native American]], 0.17% [[Asian (U.S. Census)|Asian]], 0.09% [[Pacific Islander (U.S. Census)|Pacific Islander]], 0.26% from [[Race (United States Census)|other races]], and 1.65% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 1.21% of the population.
+
+[[Image:Voorhies-james-house-tn1.jpg|left|thumb|The Voorhies-James House in Charlotte, built in 1806]]
+
+There were 395 households, out of which 30.1% had children under the age of 18 living with them, 52.2% were [[Marriage|married couples]] living together, 11.9% had a female householder with no husband present, and 31.1% were non-families. 26.8% of all households were made up of individuals, and 12.4% had someone living alone who was 65 years of age or older. The average household size was 2.50 and the average family size was 3.03.
+
+In the town, the population was spread out, with 21.9% under the age of 18, 10.0% from 18 to 24, 35.5% from 25 to 44, 20.3% from 45 to 64, and 12.3% who were 65 years of age or older. The median age was 34 years. For every 100 females, there were 111.9 males. For every 100 females age 18 and over, there were 120.0 males.
+
+The median income for a household in the town was $32,279, and the median income for a family was $40,795. Males had a median income of $30,172 versus $21,442 for females. The [[per capita income]] for the town was $15,061. About 7.0% of families and 10.6% of the population were below the [[poverty line]], including 18.4% of those under age 18 and 14.4% of those age 65 or over.
+

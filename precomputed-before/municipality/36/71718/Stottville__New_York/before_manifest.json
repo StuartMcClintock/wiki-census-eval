@@ -1,0 +1,16 @@
+{
+  "article": "Stottville,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/71718/Stottville__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f8aecbcc93a49ee11471618726aa9f9543b4297910411000087af3da6a7bbc30",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f8aecbcc93a49ee11471618726aa9f9543b4297910411000087af3da6a7bbc30",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/71718/Stottville__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "71718",
+  "timestamp": "2026-05-25T00:01:18.500676Z",
+  "version": 1
+}

@@ -1,0 +1,47 @@
+==Demographics==
+{{US Census population
+| align = left
+| 1980 = 222
+| 1990 = 265
+| 2000 = 467
+| 2010 = 518
+| 2020 = 554
+| footnote = U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2015 }}</ref>
+}}
+
+{| class="wikitable"
+|+'''Annetta North racial composition as of 2020'''<ref name=":0">{{Cite web |title=Explore Census Data |url=https://data.census.gov/cedsci/table?g=1600000US4803340&tid=DECENNIALPL2020.P2 |access-date=May 21, 2022 |website=data.census.gov}}</ref><br /> (NH = Non-Hispanic){{efn|Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos can be of any race.<ref>{{cite web |title=About the Hispanic Population and its Origin |url=https://www.census.gov/topics/population/hispanic-origin/about.html |website=www.census.gov |access-date=May 18, 2022}}</ref>}}
+!Race
+!Number
+!Percentage
+|-
+|[[Non-Hispanic or Latino whites|White]] (NH)
+|491
+|88.63%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] (NH)
+|13
+|2.35%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] (NH)
+|1
+|0.18%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] (NH)
+|1
+|0.18%
+|-
+|[[Multiracial Americans|Mixed/Multi-Racial]] (NH)
+|18
+|3.25%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]]
+|30
+|5.42%
+|-
+|'''Total'''
+|'''554'''
+|
+|}
+As of the [[2020 United States census]], there were 554 people, 167 households, and 132 families residing in the town.
+

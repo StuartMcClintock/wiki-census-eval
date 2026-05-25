@@ -1,0 +1,16 @@
+{
+  "article": "Robeline,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/65325/Robeline__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8bfeca0dcd9dad33a0fba4f74413d23979565d9659c392f809ae6629331c3dc6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8bfeca0dcd9dad33a0fba4f74413d23979565d9659c392f809ae6629331c3dc6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/65325/Robeline__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "65325",
+  "timestamp": "2026-05-24T23:45:07.074168Z",
+  "version": 1
+}

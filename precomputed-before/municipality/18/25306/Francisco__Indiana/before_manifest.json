@@ -1,0 +1,16 @@
+{
+  "article": "Francisco,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/25306/Francisco__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "feacad71d3eacbdab0e9d71b56a29c517149ffcaef4e2e5a801c5380777de7c7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "feacad71d3eacbdab0e9d71b56a29c517149ffcaef4e2e5a801c5380777de7c7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/25306/Francisco__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "25306",
+  "timestamp": "2026-05-24T23:39:35.934934Z",
+  "version": 1
+}

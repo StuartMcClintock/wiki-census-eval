@@ -1,0 +1,16 @@
+{
+  "article": "Amherst,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/01672/Amherst__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "685ccfb676a578d3e14876a20f2ba5762b5b7cee86716f73a2c68baf6c0e35d6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "685ccfb676a578d3e14876a20f2ba5762b5b7cee86716f73a2c68baf6c0e35d6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/01672/Amherst__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "01672",
+  "timestamp": "2026-05-25T00:17:21.319951Z",
+  "version": 1
+}

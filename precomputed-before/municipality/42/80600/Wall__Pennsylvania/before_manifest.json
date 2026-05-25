@@ -1,0 +1,16 @@
+{
+  "article": "Wall,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/80600/Wall__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "eaaa0bd8c6b630e9dcf44cbe26bf1e45066e2dff14c7d5b712c679c1822437e7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "eaaa0bd8c6b630e9dcf44cbe26bf1e45066e2dff14c7d5b712c679c1822437e7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/80600/Wall__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "80600",
+  "timestamp": "2026-05-25T00:09:23.456246Z",
+  "version": 1
+}

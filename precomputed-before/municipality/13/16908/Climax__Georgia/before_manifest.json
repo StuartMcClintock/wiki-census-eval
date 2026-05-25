@@ -1,0 +1,16 @@
+{
+  "article": "Climax,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/16908/Climax__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "660d12ea6d07b4fe8e43258684cd913c274bf1c136f5be57079fe05fe25410b1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "660d12ea6d07b4fe8e43258684cd913c274bf1c136f5be57079fe05fe25410b1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/16908/Climax__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "16908",
+  "timestamp": "2026-05-24T23:36:32.002368Z",
+  "version": 1
+}

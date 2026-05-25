@@ -1,0 +1,16 @@
+{
+  "article": "Center_Hill,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/11325/Center_Hill__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "76f60dc312c7731858c9ec4fbb9d4c786d634de7f70f67792a8d529892e88b0f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "76f60dc312c7731858c9ec4fbb9d4c786d634de7f70f67792a8d529892e88b0f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/11325/Center_Hill__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "11325",
+  "timestamp": "2026-05-24T23:36:09.401986Z",
+  "version": 1
+}

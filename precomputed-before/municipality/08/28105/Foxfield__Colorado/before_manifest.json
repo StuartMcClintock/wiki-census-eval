@@ -1,0 +1,16 @@
+{
+  "article": "Foxfield,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/28105/Foxfield__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "11c45efa930edccda5847ad92a180c9664c8df8f0cad7a88573297728be4056d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "11c45efa930edccda5847ad92a180c9664c8df8f0cad7a88573297728be4056d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/28105/Foxfield__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "28105",
+  "timestamp": "2026-05-24T23:35:25.766162Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Secretary,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/70900/Secretary__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8d55b05aaefe0127b39262635ef184248d25a7491f0c3ebdb514211f117a4961",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8d55b05aaefe0127b39262635ef184248d25a7491f0c3ebdb514211f117a4961",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/70900/Secretary__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "70900",
+  "timestamp": "2026-05-24T23:47:33.412186Z",
+  "version": 1
+}

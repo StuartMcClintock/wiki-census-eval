@@ -1,0 +1,16 @@
+{
+  "article": "Port_Hadlock-Irondale,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/55620/Port_Hadlock-Irondale__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ea5f57927cc6df0c559c3754ea58e9565f439583dd5a9a2fbb74fef4be6c4dd4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ea5f57927cc6df0c559c3754ea58e9565f439583dd5a9a2fbb74fef4be6c4dd4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/55620/Port_Hadlock-Irondale__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "55620",
+  "timestamp": "2026-05-25T00:20:28.743454Z",
+  "version": 1
+}

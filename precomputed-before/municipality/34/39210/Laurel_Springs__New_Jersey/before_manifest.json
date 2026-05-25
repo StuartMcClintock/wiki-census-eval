@@ -1,0 +1,16 @@
+{
+  "article": "Laurel_Springs,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/39210/Laurel_Springs__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "db3875c4224fb7680d4424b7e78ef5daea5e37357f0c2a1f8860dbff54d6edb2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "db3875c4224fb7680d4424b7e78ef5daea5e37357f0c2a1f8860dbff54d6edb2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/39210/Laurel_Springs__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "39210",
+  "timestamp": "2026-05-24T23:57:52.889324Z",
+  "version": 1
+}

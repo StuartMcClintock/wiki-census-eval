@@ -1,0 +1,16 @@
+{
+  "article": "Chalkhill,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/12512/Chalkhill__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "86cb4d7e86774f5c739d6fbd5083012a139c56fb0c235831f6dfed956005af58",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "86cb4d7e86774f5c739d6fbd5083012a139c56fb0c235831f6dfed956005af58",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/12512/Chalkhill__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "12512",
+  "timestamp": "2026-05-25T00:06:39.356604Z",
+  "version": 1
+}

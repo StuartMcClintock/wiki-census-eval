@@ -1,0 +1,16 @@
+{
+  "article": "Pinecroft,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/60384/Pinecroft__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ba4ac9e6e1c8919d15350b41879b90505697f0398b18ce2dd19ecee1c2b70091",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ba4ac9e6e1c8919d15350b41879b90505697f0398b18ce2dd19ecee1c2b70091",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/60384/Pinecroft__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "60384",
+  "timestamp": "2026-05-25T00:08:29.414017Z",
+  "version": 1
+}

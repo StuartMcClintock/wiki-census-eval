@@ -1,0 +1,16 @@
+{
+  "article": "Pennside,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/59176/Pennside__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "18bd0551726d7301001e0c0d14e6420de9cb1e006799443d0bf3e22b1b3945a6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "18bd0551726d7301001e0c0d14e6420de9cb1e006799443d0bf3e22b1b3945a6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/59176/Pennside__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "59176",
+  "timestamp": "2026-05-25T00:08:27.832239Z",
+  "version": 1
+}

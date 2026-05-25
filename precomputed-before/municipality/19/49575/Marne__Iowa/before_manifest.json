@@ -1,0 +1,16 @@
+{
+  "article": "Marne,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/49575/Marne__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "44d87819a178f544f39019ce96ed8e278209aa4db5c27faa272c162efc753b03",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "44d87819a178f544f39019ce96ed8e278209aa4db5c27faa272c162efc753b03",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/49575/Marne__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "49575",
+  "timestamp": "2026-05-24T23:41:25.189456Z",
+  "version": 1
+}

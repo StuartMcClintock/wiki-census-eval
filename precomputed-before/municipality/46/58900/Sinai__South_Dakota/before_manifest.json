@@ -1,0 +1,16 @@
+{
+  "article": "Sinai,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/58900/Sinai__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a3b6f3068bce9d3b5344bbce3be30e60eae4d242a8ec79f89bbf2cf6762da381",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a3b6f3068bce9d3b5344bbce3be30e60eae4d242a8ec79f89bbf2cf6762da381",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/58900/Sinai__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "58900",
+  "timestamp": "2026-05-25T00:12:47.503289Z",
+  "version": 1
+}

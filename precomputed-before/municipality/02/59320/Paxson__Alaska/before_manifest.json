@@ -1,0 +1,16 @@
+{
+  "article": "Paxson,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/59320/Paxson__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "74c9053a7c301f67970d59c53b7de809c3e928fe60f181981b99998d3fa22071",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "74c9053a7c301f67970d59c53b7de809c3e928fe60f181981b99998d3fa22071",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/59320/Paxson__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "59320",
+  "timestamp": "2026-05-24T23:32:30.055427Z",
+  "version": 1
+}

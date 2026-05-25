@@ -1,0 +1,16 @@
+{
+  "article": "Gunnison,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/29900/Gunnison__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b74f89c3fe0c4692f9701e17c316b291858ad80e04075a15885e9802e430f7ff",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b74f89c3fe0c4692f9701e17c316b291858ad80e04075a15885e9802e430f7ff",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/29900/Gunnison__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "29900",
+  "timestamp": "2026-05-24T23:50:11.488323Z",
+  "version": 1
+}

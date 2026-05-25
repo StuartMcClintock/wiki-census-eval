@@ -1,0 +1,16 @@
+{
+  "article": "Cheneyville,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/14660/Cheneyville__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ef05f03c9f2f5c176b1bf010f7a49b6490152dee04dabc0006cb6d8060d4df69",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ef05f03c9f2f5c176b1bf010f7a49b6490152dee04dabc0006cb6d8060d4df69",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/14660/Cheneyville__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "14660",
+  "timestamp": "2026-05-24T23:44:31.885691Z",
+  "version": 1
+}

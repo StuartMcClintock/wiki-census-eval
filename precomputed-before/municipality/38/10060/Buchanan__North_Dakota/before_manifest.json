@@ -1,0 +1,16 @@
+{
+  "article": "Buchanan,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/10060/Buchanan__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d8296fc47bcbbef379d5e1ecbd3d49c57a379d8055018d4d3d0b0b6ef96bfd46",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d8296fc47bcbbef379d5e1ecbd3d49c57a379d8055018d4d3d0b0b6ef96bfd46",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/10060/Buchanan__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "10060",
+  "timestamp": "2026-05-25T00:02:36.233587Z",
+  "version": 1
+}

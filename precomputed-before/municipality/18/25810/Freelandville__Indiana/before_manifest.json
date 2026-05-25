@@ -1,0 +1,16 @@
+{
+  "article": "Freelandville,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/25810/Freelandville__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4bc81f6fab8421cbf632bcb7431882b0703644eec4446e6da12b1d7f02df3615",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4bc81f6fab8421cbf632bcb7431882b0703644eec4446e6da12b1d7f02df3615",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/25810/Freelandville__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "25810",
+  "timestamp": "2026-05-24T23:39:36.191754Z",
+  "version": 1
+}

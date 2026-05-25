@@ -1,0 +1,16 @@
+{
+  "article": "Shipshewana,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/69480/Shipshewana__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "981e17eafa0aec9f51c618ae59b85be7dceeaefad2ddf17d21b7088d27e77eaa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "981e17eafa0aec9f51c618ae59b85be7dceeaefad2ddf17d21b7088d27e77eaa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/69480/Shipshewana__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "69480",
+  "timestamp": "2026-05-24T23:40:12.851767Z",
+  "version": 1
+}

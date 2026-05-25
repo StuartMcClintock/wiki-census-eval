@@ -1,0 +1,16 @@
+{
+  "article": "Plaucheville,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/60985/Plaucheville__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d20732b161e6c81eb9601e01c0d40767f1df124e6ac9b00062900b258bf25c79",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d20732b161e6c81eb9601e01c0d40767f1df124e6ac9b00062900b258bf25c79",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/60985/Plaucheville__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "60985",
+  "timestamp": "2026-05-24T23:45:05.230544Z",
+  "version": 1
+}

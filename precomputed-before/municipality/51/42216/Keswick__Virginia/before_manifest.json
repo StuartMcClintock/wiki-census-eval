@@ -1,0 +1,16 @@
+{
+  "article": "Keswick,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/42216/Keswick__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fb9484cc06d49a14bea652f49b4899f0d51ac507358c6c5e1f89041df374a385",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fb9484cc06d49a14bea652f49b4899f0d51ac507358c6c5e1f89041df374a385",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/42216/Keswick__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "42216",
+  "timestamp": "2026-05-25T00:19:20.438649Z",
+  "version": 1
+}

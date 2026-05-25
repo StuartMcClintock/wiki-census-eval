@@ -1,0 +1,16 @@
+{
+  "article": "Robbins,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/62168/Robbins__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4eb75ad6f1e2900bcad5d264cbd47daba7ffc1602f8df8a4a2bddf2fe101e971",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4eb75ad6f1e2900bcad5d264cbd47daba7ffc1602f8df8a4a2bddf2fe101e971",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/62168/Robbins__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "62168",
+  "timestamp": "2026-05-24T23:35:02.025204Z",
+  "version": 1
+}

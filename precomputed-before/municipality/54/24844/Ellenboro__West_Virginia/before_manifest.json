@@ -1,0 +1,16 @@
+{
+  "article": "Ellenboro,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/24844/Ellenboro__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "72fd64703d613f1c1166ce8e3fe5b8cedc933744f6e8b22dd1b8d30ff5d2d4a5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "72fd64703d613f1c1166ce8e3fe5b8cedc933744f6e8b22dd1b8d30ff5d2d4a5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/24844/Ellenboro__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "24844",
+  "timestamp": "2026-05-25T00:21:05.426073Z",
+  "version": 1
+}

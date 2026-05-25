@@ -1,0 +1,16 @@
+{
+  "article": "Stonewall_Gap,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/74275/Stonewall_Gap__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e1986eaff134214a3f7b08753b2e77dcd4c1d9af30a574ee4e8520dbdeb0cd60",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e1986eaff134214a3f7b08753b2e77dcd4c1d9af30a574ee4e8520dbdeb0cd60",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/74275/Stonewall_Gap__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "74275",
+  "timestamp": "2026-05-24T23:35:41.844888Z",
+  "version": 1
+}

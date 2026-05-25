@@ -1,0 +1,16 @@
+{
+  "article": "Lake_St._Clair,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/40039/Lake_St._Clair__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5e26448dc00040a41a322e01ecf2767c30ae5a9f4a5b156a19a713a17dc9ded8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5e26448dc00040a41a322e01ecf2767c30ae5a9f4a5b156a19a713a17dc9ded8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/40039/Lake_St._Clair__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "40039",
+  "timestamp": "2026-05-24T23:53:25.019656Z",
+  "version": 1
+}

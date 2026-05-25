@@ -1,0 +1,16 @@
+{
+  "article": "Mound_City,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/44020/Mound_City__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c11d8db7caf64bbf7a6a61626e9eb8b7b5a135c782d311d44bbfbefd9be2b881",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c11d8db7caf64bbf7a6a61626e9eb8b7b5a135c782d311d44bbfbefd9be2b881",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/44020/Mound_City__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "44020",
+  "timestamp": "2026-05-25T00:11:04.317490Z",
+  "version": 1
+}

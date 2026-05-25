@@ -1,0 +1,16 @@
+{
+  "article": "Popejoy,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/64110/Popejoy__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c0fecb8d0984c41a54133f76e3de911010ddd4b55955e8314cd0b83ef39248df",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c0fecb8d0984c41a54133f76e3de911010ddd4b55955e8314cd0b83ef39248df",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/64110/Popejoy__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "64110",
+  "timestamp": "2026-05-24T23:41:39.078023Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Adamsville,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/00380/Adamsville__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1399d819a46c260bcaad13996864a232f12248aa73ba04a876ee2b81479e6e8e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1399d819a46c260bcaad13996864a232f12248aa73ba04a876ee2b81479e6e8e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/00380/Adamsville__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "00380",
+  "timestamp": "2026-05-25T00:03:28.654290Z",
+  "version": 1
+}

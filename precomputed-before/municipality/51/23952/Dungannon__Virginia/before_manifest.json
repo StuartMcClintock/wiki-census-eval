@@ -1,0 +1,16 @@
+{
+  "article": "Dungannon,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/23952/Dungannon__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d841b68a4cf0df79df94a1b0b67c9582cb5321a086dbe24d64e87e53065c2725",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d841b68a4cf0df79df94a1b0b67c9582cb5321a086dbe24d64e87e53065c2725",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/23952/Dungannon__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "23952",
+  "timestamp": "2026-05-25T00:19:10.606595Z",
+  "version": 1
+}

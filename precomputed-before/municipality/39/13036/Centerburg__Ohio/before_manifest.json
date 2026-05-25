@@ -1,0 +1,16 @@
+{
+  "article": "Centerburg,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/13036/Centerburg__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b48b63eaed89b628e8a36295eca02ce0f93504f4aa10e2f55bcf67081588d288",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b48b63eaed89b628e8a36295eca02ce0f93504f4aa10e2f55bcf67081588d288",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/13036/Centerburg__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "13036",
+  "timestamp": "2026-05-25T00:03:53.215025Z",
+  "version": 1
+}

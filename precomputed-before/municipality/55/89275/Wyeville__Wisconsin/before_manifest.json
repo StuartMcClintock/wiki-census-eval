@@ -1,0 +1,16 @@
+{
+  "article": "Wyeville,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/89275/Wyeville__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1555cbdb70f7cb832bd005198eceebdf3be92f9f31ad440dd3bc09b17643518c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1555cbdb70f7cb832bd005198eceebdf3be92f9f31ad440dd3bc09b17643518c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/89275/Wyeville__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "89275",
+  "timestamp": "2026-05-25T00:23:05.797934Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "North_Fond_du_Lac,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/58000/North_Fond_du_Lac__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "20befc03814cef7110b9b005d5967d5bf721e536d7a5a97f395a22ef30bb1c19",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "20befc03814cef7110b9b005d5967d5bf721e536d7a5a97f395a22ef30bb1c19",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/58000/North_Fond_du_Lac__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "58000",
+  "timestamp": "2026-05-25T00:22:30.082958Z",
+  "version": 1
+}

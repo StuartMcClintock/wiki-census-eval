@@ -1,0 +1,16 @@
+{
+  "article": "Foscoe,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/24380/Foscoe__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7e0d59ea30a0a10491ebefd0bcbabf84f62129c069d0144cc22c0e2104c2e8ac",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7e0d59ea30a0a10491ebefd0bcbabf84f62129c069d0144cc22c0e2104c2e8ac",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/24380/Foscoe__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "24380",
+  "timestamp": "2026-05-25T00:01:56.418097Z",
+  "version": 1
+}

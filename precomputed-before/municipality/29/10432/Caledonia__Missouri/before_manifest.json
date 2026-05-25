@@ -1,0 +1,16 @@
+{
+  "article": "Caledonia,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/10432/Caledonia__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f023d1255e8744f596350aeffcf33ba7a29bb7fe873ae68ab4952d6851266fe4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f023d1255e8744f596350aeffcf33ba7a29bb7fe873ae68ab4952d6851266fe4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/10432/Caledonia__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "10432",
+  "timestamp": "2026-05-24T23:50:51.942494Z",
+  "version": 1
+}

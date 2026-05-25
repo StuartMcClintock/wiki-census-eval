@@ -1,0 +1,16 @@
+{
+  "article": "Colon,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/17360/Colon__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "704dd4958d59aec1025f5759fb355e87ef9ba418b0a5019850cabc946f05ddd2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "704dd4958d59aec1025f5759fb355e87ef9ba418b0a5019850cabc946f05ddd2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/17360/Colon__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "17360",
+  "timestamp": "2026-05-24T23:47:49.576639Z",
+  "version": 1
+}

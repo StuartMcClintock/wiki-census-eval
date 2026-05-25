@@ -1,0 +1,16 @@
+{
+  "article": "Golconda,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/30133/Golconda__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "965fc8b0616b9edc1dbd3c74b2daaa24a8d8884c09e0ced26b60d11d729efb1b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "965fc8b0616b9edc1dbd3c74b2daaa24a8d8884c09e0ced26b60d11d729efb1b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/30133/Golconda__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "30133",
+  "timestamp": "2026-05-24T23:38:16.113982Z",
+  "version": 1
+}

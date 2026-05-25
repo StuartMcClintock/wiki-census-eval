@@ -1,0 +1,16 @@
+{
+  "article": "Tarlton,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/76148/Tarlton__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4ccd5bd91212d8856100445fb97bf6bd0cb284394059f5ac846bdd3f06a3dc72",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4ccd5bd91212d8856100445fb97bf6bd0cb284394059f5ac846bdd3f06a3dc72",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/76148/Tarlton__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "76148",
+  "timestamp": "2026-05-25T00:05:31.518256Z",
+  "version": 1
+}

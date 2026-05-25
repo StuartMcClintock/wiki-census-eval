@@ -1,0 +1,16 @@
+{
+  "article": "Big_Lake,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/06050/Big_Lake__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aac96e47f1a5af624ee0562a5ddadaa17711a8c6bea7e0563df586d66a47fb55",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aac96e47f1a5af624ee0562a5ddadaa17711a8c6bea7e0563df586d66a47fb55",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/06050/Big_Lake__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "06050",
+  "timestamp": "2026-05-25T00:20:02.640883Z",
+  "version": 1
+}

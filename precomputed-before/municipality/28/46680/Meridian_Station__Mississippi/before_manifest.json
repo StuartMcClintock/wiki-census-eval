@@ -1,0 +1,16 @@
+{
+  "article": "Meridian_Station,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/46680/Meridian_Station__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7a33b06a82e2377ffa3a40f1985debca5fbd4944e189ec79c07888e0392038d6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7a33b06a82e2377ffa3a40f1985debca5fbd4944e189ec79c07888e0392038d6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/46680/Meridian_Station__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "46680",
+  "timestamp": "2026-05-24T23:50:16.513542Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Sprague_River,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/69400/Sprague_River__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "70bcab8f8f2116d69e4c758834352a7f088e5d248d5d5d936831396ef0fb4231",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "70bcab8f8f2116d69e4c758834352a7f088e5d248d5d5d936831396ef0fb4231",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/69400/Sprague_River__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "69400",
+  "timestamp": "2026-05-25T00:06:02.940362Z",
+  "version": 1
+}

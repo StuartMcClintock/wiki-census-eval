@@ -1,0 +1,16 @@
+{
+  "article": "Geneva,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/28768/Geneva__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e3b1d3bc982df3dc0591fdb1a5a12155a3693f5e768bc56e959402786302516b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e3b1d3bc982df3dc0591fdb1a5a12155a3693f5e768bc56e959402786302516b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/28768/Geneva__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "28768",
+  "timestamp": "2026-05-25T00:07:15.108859Z",
+  "version": 1
+}

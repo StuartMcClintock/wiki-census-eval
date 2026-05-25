@@ -1,0 +1,16 @@
+{
+  "article": "Bear_Creek_Village,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/04599/Bear_Creek_Village__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1731c2b960e22140475e6aa8b68f6386f24ec4d71f22df488b994ce662651773",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1731c2b960e22140475e6aa8b68f6386f24ec4d71f22df488b994ce662651773",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/04599/Bear_Creek_Village__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "04599",
+  "timestamp": "2026-05-25T00:06:13.739714Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Glenview_Manor,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/31420/Glenview_Manor__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "047a17dab61bc37f8fc50728e91a9382625d0ea30f8734e3619ac63c4a860c7a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "047a17dab61bc37f8fc50728e91a9382625d0ea30f8734e3619ac63c4a860c7a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/31420/Glenview_Manor__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "31420",
+  "timestamp": "2026-05-24T23:44:04.600683Z",
+  "version": 1
+}

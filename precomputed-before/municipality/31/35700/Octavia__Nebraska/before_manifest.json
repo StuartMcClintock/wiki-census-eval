@@ -1,0 +1,16 @@
+{
+  "article": "Octavia,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/35700/Octavia__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0aef418bdb3ebd2095453cd1acf7f1fb2a22a6310357439ba7b3ee989d5527a4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0aef418bdb3ebd2095453cd1acf7f1fb2a22a6310357439ba7b3ee989d5527a4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/35700/Octavia__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "35700",
+  "timestamp": "2026-05-24T23:55:57.099076Z",
+  "version": 1
+}

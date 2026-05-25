@@ -1,0 +1,16 @@
+{
+  "article": "Girard,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/29232/Girard__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e57e1f12be3cc6394f82b8d398a7cbb4a968f14f19abd47da263c9633707b0da",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e57e1f12be3cc6394f82b8d398a7cbb4a968f14f19abd47da263c9633707b0da",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/29232/Girard__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "29232",
+  "timestamp": "2026-05-25T00:07:15.796419Z",
+  "version": 1
+}

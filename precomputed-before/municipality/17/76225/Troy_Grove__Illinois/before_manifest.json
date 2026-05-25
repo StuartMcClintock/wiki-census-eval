@@ -1,0 +1,16 @@
+{
+  "article": "Troy_Grove,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/76225/Troy_Grove__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "558b7a8e51ce2ffb374a301795a860d706c19388505f9ebc3874117f0f5264c7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "558b7a8e51ce2ffb374a301795a860d706c19388505f9ebc3874117f0f5264c7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/76225/Troy_Grove__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "76225",
+  "timestamp": "2026-05-24T23:39:17.865253Z",
+  "version": 1
+}

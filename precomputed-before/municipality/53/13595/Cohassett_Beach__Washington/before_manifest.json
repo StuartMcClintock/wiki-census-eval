@@ -1,0 +1,16 @@
+{
+  "article": "Cohassett_Beach,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/13595/Cohassett_Beach__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9e8bac13fccaf133e38b7288a4d055720064d1370f8cef34ec41e8997d50b579",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9e8bac13fccaf133e38b7288a4d055720064d1370f8cef34ec41e8997d50b579",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/13595/Cohassett_Beach__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "13595",
+  "timestamp": "2026-05-25T00:20:06.809681Z",
+  "version": 1
+}

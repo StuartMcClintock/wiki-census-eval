@@ -1,0 +1,16 @@
+{
+  "article": "Reinholds,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/64112/Reinholds__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0172f42579c2588fc55ba74f688d3f207cc05070c2b9658cbd82e08c47f3d977",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0172f42579c2588fc55ba74f688d3f207cc05070c2b9658cbd82e08c47f3d977",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/64112/Reinholds__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "64112",
+  "timestamp": "2026-05-25T00:08:36.991739Z",
+  "version": 1
+}

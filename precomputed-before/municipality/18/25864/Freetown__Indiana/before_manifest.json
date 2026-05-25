@@ -1,0 +1,16 @@
+{
+  "article": "Freetown,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/25864/Freetown__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e1d05a1d2cd2b78d35b4e217e2526029f201bffd90c00decf7382f4e6291d897",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e1d05a1d2cd2b78d35b4e217e2526029f201bffd90c00decf7382f4e6291d897",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/25864/Freetown__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "25864",
+  "timestamp": "2026-05-24T23:39:36.293872Z",
+  "version": 1
+}

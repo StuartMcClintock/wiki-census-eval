@@ -1,0 +1,16 @@
+{
+  "article": "Esbon,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/21600/Esbon__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d95bbfed9f286227b4250bbc0cfe6f464a0528f7e90561473d04cb0f7eda33e6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d95bbfed9f286227b4250bbc0cfe6f464a0528f7e90561473d04cb0f7eda33e6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/21600/Esbon__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "21600",
+  "timestamp": "2026-05-24T23:42:36.998512Z",
+  "version": 1
+}

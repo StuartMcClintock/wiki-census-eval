@@ -1,0 +1,16 @@
+{
+  "article": "Lyman,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/40770/Lyman__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c6ed0394a0b25fd88624acede82cd5e0cf16150108209a11d30a29f57fd4d73f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c6ed0394a0b25fd88624acede82cd5e0cf16150108209a11d30a29f57fd4d73f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/40770/Lyman__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "40770",
+  "timestamp": "2026-05-25T00:20:20.913196Z",
+  "version": 1
+}

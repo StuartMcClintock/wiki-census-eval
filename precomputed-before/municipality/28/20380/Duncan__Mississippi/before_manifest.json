@@ -1,0 +1,16 @@
+{
+  "article": "Duncan,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/20380/Duncan__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "41d5e1653538697d8c548604a5fba299995fae5ffc1a316ce44c5a14369c193a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "41d5e1653538697d8c548604a5fba299995fae5ffc1a316ce44c5a14369c193a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/20380/Duncan__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "20380",
+  "timestamp": "2026-05-24T23:50:08.086320Z",
+  "version": 1
+}

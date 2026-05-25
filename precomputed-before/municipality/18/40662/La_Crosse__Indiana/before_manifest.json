@@ -1,0 +1,16 @@
+{
+  "article": "La_Crosse,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/40662/La_Crosse__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9ca6ece2d487a2ece1357493050f15caa3e9951c872a73d16c2ae99c92226ed3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9ca6ece2d487a2ece1357493050f15caa3e9951c872a73d16c2ae99c92226ed3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/40662/La_Crosse__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "40662",
+  "timestamp": "2026-05-24T23:39:52.642870Z",
+  "version": 1
+}

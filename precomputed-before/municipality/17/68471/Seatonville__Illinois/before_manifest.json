@@ -1,0 +1,16 @@
+{
+  "article": "Seatonville,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/68471/Seatonville__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f3a583866d44d0359c404904a497f020856af9dc7d769358c774906998f5e5c6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f3a583866d44d0359c404904a497f020856af9dc7d769358c774906998f5e5c6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/68471/Seatonville__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "68471",
+  "timestamp": "2026-05-24T23:39:10.346685Z",
+  "version": 1
+}

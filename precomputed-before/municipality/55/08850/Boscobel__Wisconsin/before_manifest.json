@@ -1,0 +1,16 @@
+{
+  "article": "Boscobel,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/08850/Boscobel__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8b879d6cc925cb793d3170d18cb835ad0e9d990b32efc29b1fe493ccc4f08084",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8b879d6cc925cb793d3170d18cb835ad0e9d990b32efc29b1fe493ccc4f08084",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/08850/Boscobel__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "08850",
+  "timestamp": "2026-05-25T00:21:38.346200Z",
+  "version": 1
+}

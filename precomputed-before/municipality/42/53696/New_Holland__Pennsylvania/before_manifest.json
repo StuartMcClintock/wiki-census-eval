@@ -1,0 +1,16 @@
+{
+  "article": "New_Holland,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/53696/New_Holland__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "592579e7202ef04e842364bd91251400df44d99b98aff984c6a2e44846090b2c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "592579e7202ef04e842364bd91251400df44d99b98aff984c6a2e44846090b2c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/53696/New_Holland__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "53696",
+  "timestamp": "2026-05-25T00:08:16.263033Z",
+  "version": 1
+}

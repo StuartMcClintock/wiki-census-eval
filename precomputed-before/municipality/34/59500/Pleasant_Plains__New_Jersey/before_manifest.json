@@ -1,0 +1,16 @@
+{
+  "article": "Pleasant_Plains,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/59500/Pleasant_Plains__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "eb8a5a0e5781bc8e69f4a52663f1454e718428080df80ebd6ad5fca95b26cec5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "eb8a5a0e5781bc8e69f4a52663f1454e718428080df80ebd6ad5fca95b26cec5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/59500/Pleasant_Plains__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "59500",
+  "timestamp": "2026-05-24T23:57:58.361583Z",
+  "version": 1
+}

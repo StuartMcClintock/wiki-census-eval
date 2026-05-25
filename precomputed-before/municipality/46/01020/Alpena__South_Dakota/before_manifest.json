@@ -1,0 +1,16 @@
+{
+  "article": "Alpena,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/01020/Alpena__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "26b9b02f159a6dc2fbb3541e22f05bcaa37343c92898767e41b7efeb3b56eed2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "26b9b02f159a6dc2fbb3541e22f05bcaa37343c92898767e41b7efeb3b56eed2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/01020/Alpena__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "01020",
+  "timestamp": "2026-05-25T00:10:29.440642Z",
+  "version": 1
+}

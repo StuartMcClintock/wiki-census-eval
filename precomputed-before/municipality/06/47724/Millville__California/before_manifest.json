@@ -1,0 +1,16 @@
+{
+  "article": "Millville,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/47724/Millville__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "15da04059420df41316104eca5583a85cd89c04ba7b1a58d7d64f7a43a8850c7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "15da04059420df41316104eca5583a85cd89c04ba7b1a58d7d64f7a43a8850c7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/47724/Millville__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "47724",
+  "timestamp": "2026-05-24T23:34:39.304124Z",
+  "version": 1
+}

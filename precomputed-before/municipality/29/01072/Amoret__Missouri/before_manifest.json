@@ -1,0 +1,16 @@
+{
+  "article": "Amoret,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/01072/Amoret__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6506504fcb3f97b6e4697fb0233ed888c1b507ae1ed69fe6c833a4abfea9167d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6506504fcb3f97b6e4697fb0233ed888c1b507ae1ed69fe6c833a4abfea9167d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/01072/Amoret__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "01072",
+  "timestamp": "2026-05-24T23:50:31.281376Z",
+  "version": 1
+}

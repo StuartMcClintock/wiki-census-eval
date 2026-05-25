@@ -1,0 +1,16 @@
+{
+  "article": "Murray,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/33425/Murray__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "24070b1c8c9bf3ca709bfd7c7859971cc1b830b2e84e7f6cbb2f3d87fb177a66",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "24070b1c8c9bf3ca709bfd7c7859971cc1b830b2e84e7f6cbb2f3d87fb177a66",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/33425/Murray__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "33425",
+  "timestamp": "2026-05-24T23:55:54.602252Z",
+  "version": 1
+}

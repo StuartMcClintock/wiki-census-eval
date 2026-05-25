@@ -1,0 +1,16 @@
+{
+  "article": "Brimley,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/10680/Brimley__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "34be8e185d6cfa182c31c83af4a6ce6c4fa0996760bce8416099f72164beb058",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "34be8e185d6cfa182c31c83af4a6ce6c4fa0996760bce8416099f72164beb058",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/10680/Brimley__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "10680",
+  "timestamp": "2026-05-24T23:47:45.109717Z",
+  "version": 1
+}

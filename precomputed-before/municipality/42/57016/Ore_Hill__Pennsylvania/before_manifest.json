@@ -1,0 +1,16 @@
+{
+  "article": "Ore_Hill,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/57016/Ore_Hill__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bc15b07db44e3ffbaa96f74537c28bd8f69b086c2739ce568342dbce0ba7c786",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bc15b07db44e3ffbaa96f74537c28bd8f69b086c2739ce568342dbce0ba7c786",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/57016/Ore_Hill__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "57016",
+  "timestamp": "2026-05-25T00:08:23.726371Z",
+  "version": 1
+}

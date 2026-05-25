@@ -1,0 +1,16 @@
+{
+  "article": "Douglas,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/21328/Douglas__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d8a79d42ce22d57530b556114b2090e3c94c80f1bcb1185c3bae231011b2734e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d8a79d42ce22d57530b556114b2090e3c94c80f1bcb1185c3bae231011b2734e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/21328/Douglas__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "21328",
+  "timestamp": "2026-05-24T23:31:53.583001Z",
+  "version": 1
+}

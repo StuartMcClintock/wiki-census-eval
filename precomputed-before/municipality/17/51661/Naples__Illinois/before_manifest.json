@@ -1,0 +1,16 @@
+{
+  "article": "Naples,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/51661/Naples__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "02c81f3e7ab8cc628e0327902b820de530f8fb12ee30788432449f3591b12176",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "02c81f3e7ab8cc628e0327902b820de530f8fb12ee30788432449f3591b12176",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/51661/Naples__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "51661",
+  "timestamp": "2026-05-24T23:38:38.641601Z",
+  "version": 1
+}

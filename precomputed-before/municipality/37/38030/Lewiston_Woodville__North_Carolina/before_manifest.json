@@ -1,0 +1,16 @@
+{
+  "article": "Lewiston_Woodville,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/38030/Lewiston_Woodville__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1b0d315f8b8bd75282a3b9c352cf8db86482a1b6d74de60a48a35a06f9e93be2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1b0d315f8b8bd75282a3b9c352cf8db86482a1b6d74de60a48a35a06f9e93be2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/38030/Lewiston_Woodville__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "38030",
+  "timestamp": "2026-05-25T00:02:07.428367Z",
+  "version": 1
+}

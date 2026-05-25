@@ -1,0 +1,16 @@
+{
+  "article": "Speed,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/63720/Speed__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fff72dd9efd21e866be8bcb5ba1b531170705fc3214aa621c67c09b0d142f6b5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fff72dd9efd21e866be8bcb5ba1b531170705fc3214aa621c67c09b0d142f6b5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/63720/Speed__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "63720",
+  "timestamp": "2026-05-25T00:02:24.094711Z",
+  "version": 1
+}

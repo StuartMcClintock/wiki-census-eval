@@ -1,0 +1,16 @@
+{
+  "article": "Manzano,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/46730/Manzano__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aa6c56f22b715a16dc6188c14d88c00d0edea81a2ba4036c08c3547b44791f51",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aa6c56f22b715a16dc6188c14d88c00d0edea81a2ba4036c08c3547b44791f51",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/46730/Manzano__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "46730",
+  "timestamp": "2026-05-24T23:58:40.886081Z",
+  "version": 1
+}

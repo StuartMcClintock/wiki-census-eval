@@ -1,0 +1,76 @@
+==Demographics==
+{{US Census population
+|2010= 181
+|2020= 776
+|align-fn=center
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census/decade.html|title=Decennial Census of Population and Housing by Decades|publisher=[[US Census Bureau]]|access-date=}}</ref><br> 2010<ref name=2010CensusP2/> 2020<ref name=2020CensusP2/><br> Prior to the 2020 census, [[Goodwill, South Dakota|Goodwill CDP]]<br> was merged into Agency Village CDP<ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A46|title=Census Population API|publisher=United States Census Bureau|accessdate=Oct 15, 2022}}</ref>
+}}
+
+===2020 census===
+{| class="wikitable"
+|+'''Agency Village CDP, South Dakota – Demographic Profile'''<br> (''NH = Non-Hispanic'')
+!Race / Ethnicity
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2 HISPANIC OR LATINO, AND NOT HISPANIC OR LATINO BY RACE – 2010: DEC Redistricting Data (PL 94-171) – Agency Village CDP, South Dakota|url=https://data.census.gov/cedsci/table?q=p2&g=1600000US4600520&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]]}}</ref>
+!Pop 2020<ref name=2020CensusP2>{{Cite web|title=P2 HISPANIC OR LATINO, AND NOT HISPANIC OR LATINO BY RACE – 2020: DEC Redistricting Data (PL 94-171) – Agency Village CDP, South Dakota|url=https://data.census.gov/cedsci/table?q=p2&g=1600000US4600520&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]]}}</ref>
+!% 2010
+!% 2020
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|11
+|18
+|6.08%
+|2.32%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|1
+|2
+|0.55%
+|0.26%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|159
+|707
+|87.85%
+|91.11%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|0
+|0
+|0.00%
+|0.00%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|0
+|0.00%
+|0.00%
+|-
+|[[Race and ethnicity in the United States census|Some Other Race]] alone (NH)
+|0
+|2
+|0.00%
+|0.26%
+|-
+|[[Multiracial Americans|Mixed Race/Multi-Racial]] (NH)
+|6
+|38
+|3.31%
+|4.90%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|4
+|9
+|2.21%
+|1.16%
+|-
+|'''Total'''
+|'''181'''
+|'''776'''
+|'''100.00%'''
+|'''100.00%'''
+|}
+''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos can be of any race.''
+
+===2000 population===
+Agency Village was not counted separately during the [[2000 United States census|2000 Census]].<ref name=ND2000>{{cite web |url=https://www.census.gov/prod/cen2000/phc-3-36.pdf |title=Population and Housing Unit Counts, North Dakota |author=U.S. Census Bureau |authorlink=United States Census Bureau |work=2000 Census of Population and Housing |publisher=[[United States Government Publishing Office|Government Printing Office]] |year=2003|access-date=2008-07-20}}</ref> The township reported 277 people, 83 households, and 70 families.<ref>{{Cite web |title=Census 2000 Profiles, Agency Township |url=http://censtats.census.gov/data/SD/0604610900500.pdf |archive-url=https://web.archive.org/web/20120512151249/http://censtats.census.gov/data/SD/0604610900500.pdf |archive-date=2012-05-12 |website=U.S. Census Bureau}}</ref>
+

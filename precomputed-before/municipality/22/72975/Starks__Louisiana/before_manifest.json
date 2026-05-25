@@ -1,0 +1,16 @@
+{
+  "article": "Starks,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/72975/Starks__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aadb60ca520bbf2d4dbb44f34b595d0b4641d6b3bd6401b18a6e4510acbbb79b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aadb60ca520bbf2d4dbb44f34b595d0b4641d6b3bd6401b18a6e4510acbbb79b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/72975/Starks__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "72975",
+  "timestamp": "2026-05-24T23:45:09.914896Z",
+  "version": 1
+}

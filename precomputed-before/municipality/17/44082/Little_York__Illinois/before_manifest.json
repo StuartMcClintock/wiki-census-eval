@@ -1,0 +1,16 @@
+{
+  "article": "Little_York,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/44082/Little_York__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bfa54a2d203e98cdd06c20d824c670c42cd91c8f1b259b9d419aa79fb633e4fb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bfa54a2d203e98cdd06c20d824c670c42cd91c8f1b259b9d419aa79fb633e4fb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/44082/Little_York__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "44082",
+  "timestamp": "2026-05-24T23:38:29.554325Z",
+  "version": 1
+}

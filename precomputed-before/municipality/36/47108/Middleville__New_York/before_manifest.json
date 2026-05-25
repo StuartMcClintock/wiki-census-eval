@@ -1,0 +1,16 @@
+{
+  "article": "Middleville,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/47108/Middleville__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9a3a2784a8a2b0b8e986c39a43cb88903340ffbf8fdff0e8c2d132f4ebdc7ccc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9a3a2784a8a2b0b8e986c39a43cb88903340ffbf8fdff0e8c2d132f4ebdc7ccc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/47108/Middleville__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "47108",
+  "timestamp": "2026-05-25T00:00:54.336986Z",
+  "version": 1
+}

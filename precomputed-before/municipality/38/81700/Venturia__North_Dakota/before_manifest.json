@@ -1,0 +1,16 @@
+{
+  "article": "Venturia,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/81700/Venturia__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "772c3d8fd83072a65e33c2cb71cc9408cdf223dd6325605e75079e34e71ddb8c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "772c3d8fd83072a65e33c2cb71cc9408cdf223dd6325605e75079e34e71ddb8c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/81700/Venturia__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "81700",
+  "timestamp": "2026-05-25T00:03:25.546976Z",
+  "version": 1
+}

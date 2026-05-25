@@ -1,0 +1,16 @@
+{
+  "article": "Au_Sable,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/04280/Au_Sable__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "88e36b529b2d7e67e62e8655a3f759fee34eb74b07404eb5ff9b1e88b504dc7a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "88e36b529b2d7e67e62e8655a3f759fee34eb74b07404eb5ff9b1e88b504dc7a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/04280/Au_Sable__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "04280",
+  "timestamp": "2026-05-24T23:47:41.852669Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Northlakes,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/47695/Northlakes__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4dc5c228af8b0cb9da2a20555e8cb396464057ad7e911b343d9132b7040a5013",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4dc5c228af8b0cb9da2a20555e8cb396464057ad7e911b343d9132b7040a5013",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/47695/Northlakes__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "47695",
+  "timestamp": "2026-05-25T00:02:13.778148Z",
+  "version": 1
+}

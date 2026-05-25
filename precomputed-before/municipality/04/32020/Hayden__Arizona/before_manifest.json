@@ -1,0 +1,16 @@
+{
+  "article": "Hayden,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/32020/Hayden__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "282b60bdd6d09bcb1ad1a3c7ee57efee3df8371ac0dcbda165d961afd5960ae2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "282b60bdd6d09bcb1ad1a3c7ee57efee3df8371ac0dcbda165d961afd5960ae2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/32020/Hayden__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "32020",
+  "timestamp": "2026-05-24T23:32:56.355721Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Lazy_Acres,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/44270/Lazy_Acres__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d355bd8856c84a89d63e2dc217f828b3374be5108e1964c8716920ac18447eb3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d355bd8856c84a89d63e2dc217f828b3374be5108e1964c8716920ac18447eb3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/44270/Lazy_Acres__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "44270",
+  "timestamp": "2026-05-24T23:35:31.275476Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Liberty_Center,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/43414/Liberty_Center__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "62c4f8b2cab451556674871f4eebc7d2741f39ad73813e355df8dc3bb2a7794f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "62c4f8b2cab451556674871f4eebc7d2741f39ad73813e355df8dc3bb2a7794f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/43414/Liberty_Center__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "43414",
+  "timestamp": "2026-05-25T00:04:38.010633Z",
+  "version": 1
+}

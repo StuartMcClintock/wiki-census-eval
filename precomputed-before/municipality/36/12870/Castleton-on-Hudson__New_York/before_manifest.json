@@ -1,0 +1,16 @@
+{
+  "article": "Castleton-on-Hudson,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/12870/Castleton-on-Hudson__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "651439187b3b73823165c3aaf5340e99900e1c105c98b303c705c85c0080b878",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "651439187b3b73823165c3aaf5340e99900e1c105c98b303c705c85c0080b878",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/12870/Castleton-on-Hudson__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "12870",
+  "timestamp": "2026-05-25T00:00:34.760665Z",
+  "version": 1
+}

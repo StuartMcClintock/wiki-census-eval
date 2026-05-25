@@ -1,0 +1,16 @@
+{
+  "article": "Fowlerton,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/27144/Fowlerton__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cfcd76b93771c34fc0db2e64bb1204cc8c701baf5129d86271a479bab00c631e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cfcd76b93771c34fc0db2e64bb1204cc8c701baf5129d86271a479bab00c631e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/27144/Fowlerton__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "27144",
+  "timestamp": "2026-05-25T00:15:37.171110Z",
+  "version": 1
+}

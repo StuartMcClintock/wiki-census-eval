@@ -1,0 +1,16 @@
+{
+  "article": "Easton,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/22151/Easton__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1f060560daff770730496975414a88158d416fa08f9fece8fd67fd23a3c3963e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1f060560daff770730496975414a88158d416fa08f9fece8fd67fd23a3c3963e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/22151/Easton__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "22151",
+  "timestamp": "2026-05-24T23:38:08.711800Z",
+  "version": 1
+}

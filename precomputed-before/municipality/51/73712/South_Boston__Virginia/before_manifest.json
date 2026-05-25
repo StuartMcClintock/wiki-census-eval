@@ -1,0 +1,16 @@
+{
+  "article": "South_Boston,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/73712/South_Boston__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d63b22c2c94872a8bdbf34ee3a0c88d6a2d55555fadcb0a02c3d1257509a18a5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d63b22c2c94872a8bdbf34ee3a0c88d6a2d55555fadcb0a02c3d1257509a18a5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/73712/South_Boston__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "73712",
+  "timestamp": "2026-05-25T00:19:38.813356Z",
+  "version": 1
+}

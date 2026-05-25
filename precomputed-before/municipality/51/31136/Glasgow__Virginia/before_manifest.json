@@ -1,0 +1,16 @@
+{
+  "article": "Glasgow,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/31136/Glasgow__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e82b23e7ff83ff6308d5a131f8a4e7204366bdc9269f7656a55e63b8ced4e4e1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e82b23e7ff83ff6308d5a131f8a4e7204366bdc9269f7656a55e63b8ced4e4e1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/31136/Glasgow__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "31136",
+  "timestamp": "2026-05-25T00:19:14.570618Z",
+  "version": 1
+}

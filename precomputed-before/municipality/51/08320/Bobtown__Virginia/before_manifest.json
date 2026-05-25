@@ -1,0 +1,16 @@
+{
+  "article": "Bobtown,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/08320/Bobtown__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2635bc501774fd246fe2c5d78edefc68106d82fd4c709e94553a759f3323c8e6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2635bc501774fd246fe2c5d78edefc68106d82fd4c709e94553a759f3323c8e6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/08320/Bobtown__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "08320",
+  "timestamp": "2026-05-25T00:19:01.157380Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Golden_Beach,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/26250/Golden_Beach__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e762266012533791aac64e65b0f09597a4f512aea6a8c7796b6c1a3ece285942",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e762266012533791aac64e65b0f09597a4f512aea6a8c7796b6c1a3ece285942",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/26250/Golden_Beach__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "26250",
+  "timestamp": "2026-05-24T23:36:12.559496Z",
+  "version": 1
+}

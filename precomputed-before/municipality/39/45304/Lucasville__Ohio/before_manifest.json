@@ -1,0 +1,16 @@
+{
+  "article": "Lucasville,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/45304/Lucasville__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "acb8bf820451f13c9fed9b3eee914935166ffd1b710abdfbf1c23ee70df9e3e8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "acb8bf820451f13c9fed9b3eee914935166ffd1b710abdfbf1c23ee70df9e3e8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/45304/Lucasville__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "45304",
+  "timestamp": "2026-05-25T00:04:40.341241Z",
+  "version": 1
+}

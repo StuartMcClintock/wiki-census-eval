@@ -1,0 +1,16 @@
+{
+  "article": "Salladasburg,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/67616/Salladasburg__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "347b7a7e5e89199ee29be1bdcdfa928416584161a139f72d885f8ff0ccafeecf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "347b7a7e5e89199ee29be1bdcdfa928416584161a139f72d885f8ff0ccafeecf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/67616/Salladasburg__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "67616",
+  "timestamp": "2026-05-25T00:08:55.964847Z",
+  "version": 1
+}

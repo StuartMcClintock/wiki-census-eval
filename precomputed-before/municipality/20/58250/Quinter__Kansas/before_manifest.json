@@ -1,0 +1,16 @@
+{
+  "article": "Quinter,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/58250/Quinter__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "92b00615dc3b4a4688e78c488eeae09fca3ebc9677a19f4a2795bb72d06e6be7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "92b00615dc3b4a4688e78c488eeae09fca3ebc9677a19f4a2795bb72d06e6be7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/58250/Quinter__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "58250",
+  "timestamp": "2026-05-24T23:43:22.644915Z",
+  "version": 1
+}

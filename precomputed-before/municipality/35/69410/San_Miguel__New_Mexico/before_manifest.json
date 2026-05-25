@@ -1,0 +1,16 @@
+{
+  "article": "San_Miguel,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/69410/San_Miguel__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b4d5507b62c83884939b17d81640e484846a963a86227865070fc8869366066b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b4d5507b62c83884939b17d81640e484846a963a86227865070fc8869366066b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/69410/San_Miguel__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "69410",
+  "timestamp": "2026-05-24T23:58:53.357101Z",
+  "version": 1
+}

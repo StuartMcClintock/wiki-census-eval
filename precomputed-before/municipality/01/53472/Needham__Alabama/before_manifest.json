@@ -1,0 +1,16 @@
+{
+  "article": "Needham,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/53472/Needham__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "44532e576043919a902a8acab3b833a3d726211defe93f6f3f5467631f2dea9b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "44532e576043919a902a8acab3b833a3d726211defe93f6f3f5467631f2dea9b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/53472/Needham__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "53472",
+  "timestamp": "2026-05-24T23:32:06.091293Z",
+  "version": 1
+}

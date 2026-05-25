@@ -1,0 +1,16 @@
+{
+  "article": "Ashburn,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/02152/Ashburn__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "101e16c809a8f9f2d028cd8399f973313667b8c9ced456f686db4724083547a3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "101e16c809a8f9f2d028cd8399f973313667b8c9ced456f686db4724083547a3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/02152/Ashburn__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "02152",
+  "timestamp": "2026-05-24T23:50:43.779719Z",
+  "version": 1
+}

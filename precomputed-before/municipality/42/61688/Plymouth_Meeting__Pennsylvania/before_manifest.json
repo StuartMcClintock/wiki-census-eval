@@ -1,0 +1,16 @@
+{
+  "article": "Plymouth_Meeting,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/61688/Plymouth_Meeting__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aec4dc619a7282a2499eb9843b2882a63955dad25ed22303cbb06d3c5a54fab6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aec4dc619a7282a2499eb9843b2882a63955dad25ed22303cbb06d3c5a54fab6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/61688/Plymouth_Meeting__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "61688",
+  "timestamp": "2026-05-25T00:08:31.007391Z",
+  "version": 1
+}

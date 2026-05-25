@@ -1,0 +1,16 @@
+{
+  "article": "Springbrook,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/74780/Springbrook__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4b566c762971392dc1e233f3f132aaf7a9e18e1519f7413364c62c362fdd8ac4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4b566c762971392dc1e233f3f132aaf7a9e18e1519f7413364c62c362fdd8ac4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/74780/Springbrook__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "74780",
+  "timestamp": "2026-05-25T00:03:23.021428Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Dresden,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/18600/Dresden__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "91112a98aa3352fb9ff67c6fd33bca4eb62f550a47e7a0842a86204e72d8f96a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "91112a98aa3352fb9ff67c6fd33bca4eb62f550a47e7a0842a86204e72d8f96a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/18600/Dresden__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "18600",
+  "timestamp": "2026-05-24T23:42:33.409759Z",
+  "version": 1
+}

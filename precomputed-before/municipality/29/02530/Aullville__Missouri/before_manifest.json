@@ -1,0 +1,16 @@
+{
+  "article": "Aullville,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/02530/Aullville__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fd10bbade5d3bd82e8c4f6c8f184750943d593797a3b2bbb37738a6808306f14",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fd10bbade5d3bd82e8c4f6c8f184750943d593797a3b2bbb37738a6808306f14",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/02530/Aullville__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "02530",
+  "timestamp": "2026-05-24T23:50:44.115978Z",
+  "version": 1
+}

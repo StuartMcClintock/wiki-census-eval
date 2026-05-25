@@ -1,0 +1,16 @@
+{
+  "article": "Rosa,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/66408/Rosa__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f11a4f96a15ab78537b867a326309bc35af1c294486003ba52a77ba8034acc8a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f11a4f96a15ab78537b867a326309bc35af1c294486003ba52a77ba8034acc8a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/66408/Rosa__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "66408",
+  "timestamp": "2026-05-24T23:32:11.281882Z",
+  "version": 1
+}

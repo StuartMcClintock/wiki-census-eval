@@ -1,0 +1,80 @@
+==Demographics==
+{{US Census population
+|2010= 244
+|2020= 213
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=http://www.census.gov/prod/www/decennial.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2016}}</ref><br>2010<ref name=Census2010>[http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/1600000US3408020 DP-1 - Profile of General Population and Housing Characteristics: 2010 Demographic Profile Data for Broadway CDP, New Jersey] {{Webarchive|url=https://archive.today/20200212162927/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/1600000US3408020 |date=2020-02-12 }}, [[United States Census Bureau]]. Accessed September 30, 2012.</ref> 2020<ref name=Census2020/>
+}}
+
+Broadway first appeared as a [[census designated place]] in the [[2010 U.S. census]].<ref>{{Cite web|title= 2010 Census of Population - Population and Housing Unit Counts - New Jersey |url=https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-32.pdf|website=[[United States Census Bureau]]|archive-url=https://web.archive.org/web/20251111220031/https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-32.pdf| archive-date=November 11, 2025}}</ref>
+
+===2020 census===
+{| class="wikitable sortable" style="text-align:center;"
+|+'''Broadway CDP, New Jersey – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Broadway CDP, New Jersey|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US3407660&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!style="background-color: #ffffb3;" |Pop 2020<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Broadway CDP, New Jersey|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US3407660&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!% 2010
+!style="background-color: #ffffb3;" |% 2020
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|228
+|style='background: #ffffe6; |174
+|93.44%
+|style='background: #ffffe6; |81.69%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|0
+|style='background: #ffffe6; |3
+|0.00%
+|style='background: #ffffe6; |1.41%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|3
+|style='background: #ffffe6; |9
+|1.23%
+|style='background: #ffffe6; |4.23%
+|-
+|[[Native Hawaiian]] or [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|0
+|style='background: #ffffe6; |3
+|0.00%
+|style='background: #ffffe6; |1.41%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|4
+|style='background: #ffffe6; |9
+|1.64%
+|style='background: #ffffe6; |4.23%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|9
+|style='background: #ffffe6; |15
+|3.69%
+|style='background: #ffffe6; |7.04%
+|-
+|'''Total'''
+|'''244'''
+|style='background: #ffffe6; |'''213 '''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+===2010 census===
+The [[2010 United States census]] counted 244 people, 106 households, and 62 families in the CDP. The [[population density]] was {{convert|657.4|/sqmi}}. There were 127 housing units at an average density of {{convert|342.1|/sqmi}}. The racial makeup was 97.13% (237) [[White (U.S. census)|White]], 0.00% (0) [[Black (U.S. census)|Black or African American]], 0.00% (0) [[Native American (U.S. census)|Native American]], 1.23% (3) [[Asian (U.S. census)|Asian]], 0.00% (0) [[Pacific Islander (U.S. census)|Pacific Islander]], 0.00% (0) from [[Race and ethnicity in the United States census|other races]], and 1.64% (4) from two or more races. [[Hispanic (U.S. census)|Hispanic or Latino]] of any race were 3.69% (9) of the population.<ref name=Census2010/>
+
+Of the 106 households, 16.0% had children under the age of 18; 39.6% were married couples living together; 13.2% had a female householder with no husband present and 41.5% were non-families. Of all households, 31.1% were made up of individuals and 12.3% had someone living alone who was 65 years of age or older. The average household size was 2.30 and the average family size was 2.89.<ref name=Census2010/>
+
+16.0% of the population were under the age of 18, 14.3% from 18 to 24, 18.4% from 25 to 44, 35.2% from 45 to 64, and 16.0% who were 65 years of age or older. The median age was 45.3 years. For every 100 females, the population had 100.0 males. For every 100 females ages 18 and older there were 93.4 males.<ref name=Census2010/>
+

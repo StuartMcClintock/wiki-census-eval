@@ -1,0 +1,16 @@
+{
+  "article": "Summer_Set,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/71508/Summer_Set__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "500f7a5258b3f20b8f1cf3f832373585c72568d04d03236770986fa27a6890e4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "500f7a5258b3f20b8f1cf3f832373585c72568d04d03236770986fa27a6890e4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/71508/Summer_Set__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "71508",
+  "timestamp": "2026-05-24T23:53:51.889348Z",
+  "version": 1
+}

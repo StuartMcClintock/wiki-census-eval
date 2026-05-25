@@ -1,0 +1,16 @@
+{
+  "article": "Elmdale,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/18872/Elmdale__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "25b3baf8fb9b51301986c76f3dabf7c5237f6b06712b295b46f95e56b69b3686",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "25b3baf8fb9b51301986c76f3dabf7c5237f6b06712b295b46f95e56b69b3686",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/18872/Elmdale__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "18872",
+  "timestamp": "2026-05-24T23:48:52.545489Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Creola,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/18295/Creola__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "69bdfde5955eda798a2a90b8efb294502da935c5ea38aa36c768c88f3c0f2049",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "69bdfde5955eda798a2a90b8efb294502da935c5ea38aa36c768c88f3c0f2049",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/18295/Creola__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "18295",
+  "timestamp": "2026-05-24T23:44:44.308735Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Andres,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/01517/Andres__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "408a9c89379025b6a392e845737a30bceffa503ad4ad2b22842784a7790dc90e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "408a9c89379025b6a392e845737a30bceffa503ad4ad2b22842784a7790dc90e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/01517/Andres__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "01517",
+  "timestamp": "2026-05-24T23:37:33.179383Z",
+  "version": 1
+}

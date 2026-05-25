@@ -1,0 +1,16 @@
+{
+  "article": "Fairhaven,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/23196/Fairhaven__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4feee1357a3372056cf132d84bc231d8ff5d6674ebb082f7235dc79ee9bed0ee",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4feee1357a3372056cf132d84bc231d8ff5d6674ebb082f7235dc79ee9bed0ee",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/23196/Fairhaven__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "23196",
+  "timestamp": "2026-05-24T23:34:22.123237Z",
+  "version": 1
+}

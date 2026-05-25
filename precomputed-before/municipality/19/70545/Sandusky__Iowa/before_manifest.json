@@ -1,0 +1,16 @@
+{
+  "article": "Sandusky,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/70545/Sandusky__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e3fe652f50ec941489dde64c343a2ddc31cd55454ae0e3c44232d4fc734c6dbf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e3fe652f50ec941489dde64c343a2ddc31cd55454ae0e3c44232d4fc734c6dbf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/70545/Sandusky__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "70545",
+  "timestamp": "2026-05-24T23:41:47.029959Z",
+  "version": 1
+}

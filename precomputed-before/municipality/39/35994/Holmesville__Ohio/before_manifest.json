@@ -1,0 +1,16 @@
+{
+  "article": "Holmesville,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/35994/Holmesville__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c21c5829ab5002c6b4e8d9cf353dc54bf861f41fcc24da12bd98b4ca62c574f1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c21c5829ab5002c6b4e8d9cf353dc54bf861f41fcc24da12bd98b4ca62c574f1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/35994/Holmesville__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "35994",
+  "timestamp": "2026-05-25T00:04:19.358766Z",
+  "version": 1
+}

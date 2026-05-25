@@ -1,0 +1,16 @@
+{
+  "article": "Cumberland,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/20768/Cumberland__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b550427cfc3427b865bb24209eab4733dfb9b3d6df91ab89d621b3cefb51cc59",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b550427cfc3427b865bb24209eab4733dfb9b3d6df91ab89d621b3cefb51cc59",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/20768/Cumberland__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "20768",
+  "timestamp": "2026-05-25T00:19:08.337377Z",
+  "version": 1
+}

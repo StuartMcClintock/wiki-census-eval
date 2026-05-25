@@ -1,0 +1,16 @@
+{
+  "article": "Ohoopee,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/57876/Ohoopee__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f902465fc6fc82d080e5a5052d2abcae301ca87901d398db65fc48e7d83caaf6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f902465fc6fc82d080e5a5052d2abcae301ca87901d398db65fc48e7d83caaf6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/57876/Ohoopee__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "57876",
+  "timestamp": "2026-05-24T23:37:02.533942Z",
+  "version": 1
+}

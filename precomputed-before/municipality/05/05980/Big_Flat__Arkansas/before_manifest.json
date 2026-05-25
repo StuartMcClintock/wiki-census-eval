@@ -1,0 +1,16 @@
+{
+  "article": "Big_Flat,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/05980/Big_Flat__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5de42c0d844c3a4aec7c31fe464cac1afd36115308a979c8f121b0edbea4c854",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5de42c0d844c3a4aec7c31fe464cac1afd36115308a979c8f121b0edbea4c854",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/05980/Big_Flat__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "05980",
+  "timestamp": "2026-05-24T23:33:20.828425Z",
+  "version": 1
+}

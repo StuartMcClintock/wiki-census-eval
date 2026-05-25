@@ -1,0 +1,16 @@
+{
+  "article": "Summerton,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/70225/Summerton__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "60680eef59bc3d32d510f0b69a853d9dd39f657d0f0015d552b3bd00e9cff51c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "60680eef59bc3d32d510f0b69a853d9dd39f657d0f0015d552b3bd00e9cff51c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/70225/Summerton__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "70225",
+  "timestamp": "2026-05-25T00:10:23.961508Z",
+  "version": 1
+}

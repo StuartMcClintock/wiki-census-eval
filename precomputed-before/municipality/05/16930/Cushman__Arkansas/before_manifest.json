@@ -1,0 +1,16 @@
+{
+  "article": "Cushman,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/16930/Cushman__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d62b61cdcbb9a9b3e87205ca123f2cafed97e91d68f7017a01deefa6a10896e7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d62b61cdcbb9a9b3e87205ca123f2cafed97e91d68f7017a01deefa6a10896e7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/16930/Cushman__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "16930",
+  "timestamp": "2026-05-24T23:33:26.457709Z",
+  "version": 1
+}

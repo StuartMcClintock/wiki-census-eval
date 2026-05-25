@@ -1,0 +1,16 @@
+{
+  "article": "Forest_City,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/26560/Forest_City__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "780caac47e623026a549c448c2ba9f312048331e3ff407e7022cfff41f800834",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "780caac47e623026a549c448c2ba9f312048331e3ff407e7022cfff41f800834",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/26560/Forest_City__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "26560",
+  "timestamp": "2026-05-25T00:07:10.293188Z",
+  "version": 1
+}

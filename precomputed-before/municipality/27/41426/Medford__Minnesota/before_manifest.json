@@ -1,0 +1,16 @@
+{
+  "article": "Medford,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/41426/Medford__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b4aeefd2c5d81e682f772fa1c5a597f14178231382c626a1ea42640877f3e5c7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b4aeefd2c5d81e682f772fa1c5a597f14178231382c626a1ea42640877f3e5c7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/41426/Medford__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "41426",
+  "timestamp": "2026-05-24T23:49:19.777745Z",
+  "version": 1
+}

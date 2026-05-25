@@ -1,0 +1,16 @@
+{
+  "article": "Leslie,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/39460/Leslie__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a5599f51b2207414aaba8d3d96f93379b7f277bf86b44e2b92044808ee6129d2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a5599f51b2207414aaba8d3d96f93379b7f277bf86b44e2b92044808ee6129d2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/39460/Leslie__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "39460",
+  "timestamp": "2026-05-24T23:33:50.346861Z",
+  "version": 1
+}

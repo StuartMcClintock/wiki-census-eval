@@ -1,0 +1,16 @@
+{
+  "article": "Cool_Valley,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/16228/Cool_Valley__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "479f6654aa03f1e19ba4579cbbf84c862afbb2d1172744689effb098a0d77ba2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "479f6654aa03f1e19ba4579cbbf84c862afbb2d1172744689effb098a0d77ba2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/16228/Cool_Valley__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "16228",
+  "timestamp": "2026-05-24T23:51:00.754450Z",
+  "version": 1
+}

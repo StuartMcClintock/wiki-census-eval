@@ -1,0 +1,16 @@
+{
+  "article": "Lynndyl,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/46740/Lynndyl__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "de04b86f1f7633427645e81a1a3f1c1a09f38977813181cbb916205eb1a74858",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "de04b86f1f7633427645e81a1a3f1c1a09f38977813181cbb916205eb1a74858",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/46740/Lynndyl__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "46740",
+  "timestamp": "2026-05-25T00:17:04.941584Z",
+  "version": 1
+}

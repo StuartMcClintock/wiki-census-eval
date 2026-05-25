@@ -1,0 +1,16 @@
+{
+  "article": "Gold_Hill,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/26800/Gold_Hill__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0ca94f3ed5374ef6f4d3ab525e157021c58c2a8d44bd4ad87378172d36220e9f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0ca94f3ed5374ef6f4d3ab525e157021c58c2a8d44bd4ad87378172d36220e9f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/26800/Gold_Hill__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "26800",
+  "timestamp": "2026-05-25T00:01:58.297818Z",
+  "version": 1
+}

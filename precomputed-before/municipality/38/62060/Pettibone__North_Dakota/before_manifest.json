@@ -1,0 +1,16 @@
+{
+  "article": "Pettibone,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/62060/Pettibone__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "af847d9e69d9ad1461b20669c6d9a9cc8f63a5b86f11e9500b73352f218813ba",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "af847d9e69d9ad1461b20669c6d9a9cc8f63a5b86f11e9500b73352f218813ba",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/62060/Pettibone__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "62060",
+  "timestamp": "2026-05-25T00:03:16.932845Z",
+  "version": 1
+}

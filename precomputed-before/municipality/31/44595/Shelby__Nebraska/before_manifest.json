@@ -1,0 +1,16 @@
+{
+  "article": "Shelby,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/44595/Shelby__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "409eaeb724203007ff5fd99f05c20c8cb9489486da984328de1b3526cf1e2424",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "409eaeb724203007ff5fd99f05c20c8cb9489486da984328de1b3526cf1e2424",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/44595/Shelby__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "44595",
+  "timestamp": "2026-05-24T23:57:15.882292Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Opdyke,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/56198/Opdyke__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "efacbd56fb1e17d1cedc3e04fd3b55710aebdc3ab717bdb8c84485e4e0b7ae53",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "efacbd56fb1e17d1cedc3e04fd3b55710aebdc3ab717bdb8c84485e4e0b7ae53",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/56198/Opdyke__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "56198",
+  "timestamp": "2026-05-24T23:38:54.848796Z",
+  "version": 1
+}

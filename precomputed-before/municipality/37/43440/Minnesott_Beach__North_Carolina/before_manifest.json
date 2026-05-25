@@ -1,0 +1,16 @@
+{
+  "article": "Minnesott_Beach,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/43440/Minnesott_Beach__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7d87a0a138948539977e194915c428e89b0e23c360865ce3b61664469bab6d8e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7d87a0a138948539977e194915c428e89b0e23c360865ce3b61664469bab6d8e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/43440/Minnesott_Beach__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "43440",
+  "timestamp": "2026-05-25T00:02:11.554384Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "King_Salmon,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/39630/King_Salmon__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f578a7a2ec3f03763883896e951023fb34332e694e12d50de924761c946bd3b7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f578a7a2ec3f03763883896e951023fb34332e694e12d50de924761c946bd3b7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/39630/King_Salmon__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "39630",
+  "timestamp": "2026-05-24T23:32:24.723238Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Edgerton,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/21250/Edgerton__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ef8d1f843b9e395520968132bf508549e2d59a4d6ba83df88b0f03d6f69e95fd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ef8d1f843b9e395520968132bf508549e2d59a4d6ba83df88b0f03d6f69e95fd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/21250/Edgerton__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "21250",
+  "timestamp": "2026-05-24T23:51:05.384352Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Glenwood,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/29580/Glenwood__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e98f931c6d15717dfd18ec1fad95bcffa947509da10da497c70341a9be008bd5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e98f931c6d15717dfd18ec1fad95bcffa947509da10da497c70341a9be008bd5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/29580/Glenwood__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "29580",
+  "timestamp": "2026-05-25T00:17:00.839466Z",
+  "version": 1
+}

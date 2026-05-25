@@ -1,0 +1,16 @@
+{
+  "article": "Litchfield_Beach,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/41830/Litchfield_Beach__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "899a5f83dea67a6947e5c14914ba5d13341f1cc9e9c849970fd06a4d0677047a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "899a5f83dea67a6947e5c14914ba5d13341f1cc9e9c849970fd06a4d0677047a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/41830/Litchfield_Beach__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "41830",
+  "timestamp": "2026-05-25T00:10:10.421100Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Maysville,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/42100/Maysville__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "792553c75da3aacc9e3463ba6a1c3fbead18ec2e90dc5c15b818ecd3aa1820f0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "792553c75da3aacc9e3463ba6a1c3fbead18ec2e90dc5c15b818ecd3aa1820f0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/42100/Maysville__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "42100",
+  "timestamp": "2026-05-25T00:02:10.614971Z",
+  "version": 1
+}

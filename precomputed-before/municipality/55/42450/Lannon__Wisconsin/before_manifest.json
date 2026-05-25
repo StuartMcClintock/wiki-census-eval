@@ -1,0 +1,16 @@
+{
+  "article": "Lannon,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/42450/Lannon__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "09d51cf986efa253aa64b51cc9c21ff8d2df6fddbd936173d490c5df8dc8153e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "09d51cf986efa253aa64b51cc9c21ff8d2df6fddbd936173d490c5df8dc8153e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/42450/Lannon__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "42450",
+  "timestamp": "2026-05-25T00:22:19.380372Z",
+  "version": 1
+}

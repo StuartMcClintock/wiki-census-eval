@@ -1,0 +1,16 @@
+{
+  "article": "Marmarth,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/50860/Marmarth__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f1f440d566cf57273d2e4e317d15980b91acd9ef4f20139486e6042026b16a16",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f1f440d566cf57273d2e4e317d15980b91acd9ef4f20139486e6042026b16a16",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/50860/Marmarth__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "50860",
+  "timestamp": "2026-05-25T00:03:11.305231Z",
+  "version": 1
+}

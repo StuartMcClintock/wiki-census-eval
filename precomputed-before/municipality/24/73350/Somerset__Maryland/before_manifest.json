@@ -1,0 +1,16 @@
+{
+  "article": "Somerset,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/73350/Somerset__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b00f299db4923034eb2815632af6c23f2db0a67c2bf189c75db96eccb66c5e2d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b00f299db4923034eb2815632af6c23f2db0a67c2bf189c75db96eccb66c5e2d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/73350/Somerset__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "73350",
+  "timestamp": "2026-05-24T23:47:33.984397Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Gillisonville,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/29140/Gillisonville__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0576c114dab9e6be922597fcbce91623eb8295ce2ee7219345cf92aa62a15760",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0576c114dab9e6be922597fcbce91623eb8295ce2ee7219345cf92aa62a15760",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/29140/Gillisonville__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "29140",
+  "timestamp": "2026-05-25T00:10:04.410474Z",
+  "version": 1
+}

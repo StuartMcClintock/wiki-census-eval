@@ -1,0 +1,16 @@
+{
+  "article": "Valley_Head,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/78240/Valley_Head__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1cca281905f1de284392bbdd1a3afd6109cd35166f07b4f6ea3d6805a328eac8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1cca281905f1de284392bbdd1a3afd6109cd35166f07b4f6ea3d6805a328eac8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/78240/Valley_Head__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "78240",
+  "timestamp": "2026-05-24T23:32:15.029224Z",
+  "version": 1
+}

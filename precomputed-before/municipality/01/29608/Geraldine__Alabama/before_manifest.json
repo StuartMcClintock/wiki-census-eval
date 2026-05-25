@@ -1,0 +1,16 @@
+{
+  "article": "Geraldine,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/29608/Geraldine__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d010482d497f8979fc31a670015dc9f5071cd8c5ac4dea62b411040fd66f79f2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d010482d497f8979fc31a670015dc9f5071cd8c5ac4dea62b411040fd66f79f2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/29608/Geraldine__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "29608",
+  "timestamp": "2026-05-24T23:31:57.318020Z",
+  "version": 1
+}

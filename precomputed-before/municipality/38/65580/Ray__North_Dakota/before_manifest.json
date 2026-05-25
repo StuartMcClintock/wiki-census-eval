@@ -1,0 +1,16 @@
+{
+  "article": "Ray,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/65580/Ray__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "efc3b69d509c1436ac1ac0df8ff0bf6ba6b9f7c9907934ea128aeff7acb3eba6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "efc3b69d509c1436ac1ac0df8ff0bf6ba6b9f7c9907934ea128aeff7acb3eba6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/65580/Ray__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "65580",
+  "timestamp": "2026-05-25T00:03:18.297521Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Lyden,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/45400/Lyden__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cbf5629a3f7d5a3c44bfb7bea0152db23b60e0f7e37a6df5ca53f584126e9b50",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cbf5629a3f7d5a3c44bfb7bea0152db23b60e0f7e37a6df5ca53f584126e9b50",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/45400/Lyden__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "45400",
+  "timestamp": "2026-05-24T23:58:39.961643Z",
+  "version": 1
+}

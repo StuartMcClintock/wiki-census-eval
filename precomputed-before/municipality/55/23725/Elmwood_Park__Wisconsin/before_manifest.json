@@ -1,0 +1,16 @@
+{
+  "article": "Elmwood_Park,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/23725/Elmwood_Park__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bf4d7b09ed27b48039b8e59a7cbc254389020b033047bbc7f040ee6907cdbbfd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bf4d7b09ed27b48039b8e59a7cbc254389020b033047bbc7f040ee6907cdbbfd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/23725/Elmwood_Park__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "23725",
+  "timestamp": "2026-05-25T00:22:04.658649Z",
+  "version": 1
+}

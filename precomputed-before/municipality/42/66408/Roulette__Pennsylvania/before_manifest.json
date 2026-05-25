@@ -1,0 +1,16 @@
+{
+  "article": "Roulette,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/66408/Roulette__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e86810a80684a182f8a1992f3f8498939dd67d2cc0df1a603d658dfd2e6da711",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e86810a80684a182f8a1992f3f8498939dd67d2cc0df1a603d658dfd2e6da711",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/66408/Roulette__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "66408",
+  "timestamp": "2026-05-25T00:08:53.653217Z",
+  "version": 1
+}

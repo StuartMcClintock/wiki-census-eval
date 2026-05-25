@@ -1,0 +1,16 @@
+{
+  "article": "Saugerties_South,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/65310/Saugerties_South__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5e92b3fe0ec97028f821c73d0bc27d05cd8ae4a93987e0898470a4e28755eb72",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5e92b3fe0ec97028f821c73d0bc27d05cd8ae4a93987e0898470a4e28755eb72",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/65310/Saugerties_South__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "65310",
+  "timestamp": "2026-05-25T00:01:11.715019Z",
+  "version": 1
+}

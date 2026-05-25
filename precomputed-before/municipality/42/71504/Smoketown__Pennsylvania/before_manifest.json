@@ -1,0 +1,16 @@
+{
+  "article": "Smoketown,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/71504/Smoketown__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4c411b543f524340eea9265192bff6e5e6aeb3abde1bd26108922aa192fb60ab",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4c411b543f524340eea9265192bff6e5e6aeb3abde1bd26108922aa192fb60ab",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/71504/Smoketown__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "71504",
+  "timestamp": "2026-05-25T00:09:06.710279Z",
+  "version": 1
+}

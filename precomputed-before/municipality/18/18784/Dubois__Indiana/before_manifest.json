@@ -1,0 +1,16 @@
+{
+  "article": "Dubois,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/18784/Dubois__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "eee47c34e5f3ab8bad7289cbb4cde1605c1c3d463673fffe07cbad7207001ce0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "eee47c34e5f3ab8bad7289cbb4cde1605c1c3d463673fffe07cbad7207001ce0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/18784/Dubois__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "18784",
+  "timestamp": "2026-05-24T23:39:32.970293Z",
+  "version": 1
+}

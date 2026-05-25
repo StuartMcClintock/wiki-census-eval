@@ -1,0 +1,16 @@
+{
+  "article": "Oto,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/60240/Oto__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "063fb2fa11357629697837f433c65095fb368a328a63f1c3e30020fe72464f02",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "063fb2fa11357629697837f433c65095fb368a328a63f1c3e30020fe72464f02",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/60240/Oto__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "60240",
+  "timestamp": "2026-05-24T23:41:35.721528Z",
+  "version": 1
+}

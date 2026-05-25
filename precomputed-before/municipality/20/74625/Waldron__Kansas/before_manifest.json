@@ -1,0 +1,16 @@
+{
+  "article": "Waldron,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/74625/Waldron__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d57d6c7d0662dc7ddec8aecb38aed46a234ce933ff2dd553e0f6b2ca9fe8fc48",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d57d6c7d0662dc7ddec8aecb38aed46a234ce933ff2dd553e0f6b2ca9fe8fc48",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/74625/Waldron__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "74625",
+  "timestamp": "2026-05-24T23:43:35.387647Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Boyd,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/09075/Boyd__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e0a478e3d084ca5f73a0fcdae6338b65a5d38da82e3591e09f49419da89f1e57",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e0a478e3d084ca5f73a0fcdae6338b65a5d38da82e3591e09f49419da89f1e57",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/09075/Boyd__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "09075",
+  "timestamp": "2026-05-25T00:21:38.735436Z",
+  "version": 1
+}

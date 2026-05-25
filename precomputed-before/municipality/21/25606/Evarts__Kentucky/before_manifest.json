@@ -1,0 +1,16 @@
+{
+  "article": "Evarts,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/25606/Evarts__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d70f7eb33cf1118b4f51f7444ee0ef60ce0e681da6bd61df5fb66b2712cd54be",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d70f7eb33cf1118b4f51f7444ee0ef60ce0e681da6bd61df5fb66b2712cd54be",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/25606/Evarts__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "25606",
+  "timestamp": "2026-05-24T23:44:01.729826Z",
+  "version": 1
+}

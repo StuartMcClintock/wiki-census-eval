@@ -1,0 +1,16 @@
+{
+  "article": "Lewisburg,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/43640/Lewisburg__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c248033eb9f0681e6f2fa5b97060b7f81ac20e284ec3d0598e0f16e1f60c4f32",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c248033eb9f0681e6f2fa5b97060b7f81ac20e284ec3d0598e0f16e1f60c4f32",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/43640/Lewisburg__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "43640",
+  "timestamp": "2026-05-24T23:44:53.942496Z",
+  "version": 1
+}

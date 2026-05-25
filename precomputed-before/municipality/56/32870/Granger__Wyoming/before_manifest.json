@@ -1,0 +1,16 @@
+{
+  "article": "Granger,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/32870/Granger__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "807204adabfa6ae0afb20a835002fa145eb7e509c6597480f0671ee52aeb2d17",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "807204adabfa6ae0afb20a835002fa145eb7e509c6597480f0671ee52aeb2d17",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/32870/Granger__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "32870",
+  "timestamp": "2026-05-25T00:23:14.526942Z",
+  "version": 1
+}

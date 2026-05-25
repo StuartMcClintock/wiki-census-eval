@@ -1,0 +1,16 @@
+{
+  "article": "Avon-by-the-Sea,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/02440/Avon-by-the-Sea__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c85feb86d25f92cce256240b72b3bea9a72648642cb67c4a49f15f24ea24ecbf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c85feb86d25f92cce256240b72b3bea9a72648642cb67c4a49f15f24ea24ecbf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/02440/Avon-by-the-Sea__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "02440",
+  "timestamp": "2026-05-24T23:57:39.745458Z",
+  "version": 1
+}

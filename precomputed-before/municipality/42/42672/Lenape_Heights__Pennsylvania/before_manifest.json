@@ -1,0 +1,16 @@
+{
+  "article": "Lenape_Heights,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/42672/Lenape_Heights__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4d91e8bba8e33de150a2387e1f3b45d69ff643acc0e9452c6d21b0d043b9668c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4d91e8bba8e33de150a2387e1f3b45d69ff643acc0e9452c6d21b0d043b9668c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/42672/Lenape_Heights__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "42672",
+  "timestamp": "2026-05-25T00:07:50.708604Z",
+  "version": 1
+}

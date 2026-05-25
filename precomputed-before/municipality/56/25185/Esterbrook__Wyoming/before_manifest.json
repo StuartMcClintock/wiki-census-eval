@@ -1,0 +1,16 @@
+{
+  "article": "Esterbrook,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/25185/Esterbrook__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5abb3909994276d4ddc79aece2681da29fd5b78b0c90d76365d2b2d3192ceec2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5abb3909994276d4ddc79aece2681da29fd5b78b0c90d76365d2b2d3192ceec2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/25185/Esterbrook__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "25185",
+  "timestamp": "2026-05-25T00:23:12.824186Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Frazeysburg,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/28574/Frazeysburg__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8077ef124aa6b1be560ae7063c5a34efec6495a275dafc8de33f3016d44ae7ee",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8077ef124aa6b1be560ae7063c5a34efec6495a275dafc8de33f3016d44ae7ee",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/28574/Frazeysburg__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "28574",
+  "timestamp": "2026-05-25T00:04:09.916041Z",
+  "version": 1
+}

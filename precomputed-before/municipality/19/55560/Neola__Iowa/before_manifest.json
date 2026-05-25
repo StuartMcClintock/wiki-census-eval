@@ -1,0 +1,16 @@
+{
+  "article": "Neola,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/55560/Neola__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "635cf7a1532732c1cb2a24db018ca585c251f9ec30e19302a8ddbd828b8b282e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "635cf7a1532732c1cb2a24db018ca585c251f9ec30e19302a8ddbd828b8b282e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/55560/Neola__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "55560",
+  "timestamp": "2026-05-24T23:41:31.507016Z",
+  "version": 1
+}

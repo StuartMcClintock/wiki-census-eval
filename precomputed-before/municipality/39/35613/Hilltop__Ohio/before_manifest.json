@@ -1,0 +1,16 @@
+{
+  "article": "Hilltop,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/35613/Hilltop__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b612a9cb3a6587907d2a8879655138ded6f1d9776405593e9dbe1e9656c10a1a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b612a9cb3a6587907d2a8879655138ded6f1d9776405593e9dbe1e9656c10a1a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/35613/Hilltop__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "35613",
+  "timestamp": "2026-05-25T00:04:18.281324Z",
+  "version": 1
+}

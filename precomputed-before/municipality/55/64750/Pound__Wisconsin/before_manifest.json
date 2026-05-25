@@ -1,0 +1,16 @@
+{
+  "article": "Pound,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/64750/Pound__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "24c0ca3c9d695391769580f0d1c9c908412b28e95f661343a054d126ef70e36f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "24c0ca3c9d695391769580f0d1c9c908412b28e95f661343a054d126ef70e36f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/64750/Pound__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "64750",
+  "timestamp": "2026-05-25T00:22:35.589655Z",
+  "version": 1
+}

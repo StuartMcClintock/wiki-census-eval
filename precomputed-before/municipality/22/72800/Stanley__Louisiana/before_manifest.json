@@ -1,0 +1,16 @@
+{
+  "article": "Stanley,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/72800/Stanley__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "84eb98c365f1aa4dcc7d51b039adb9821b0c0c1d37c61b94bddcd2517264b881",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "84eb98c365f1aa4dcc7d51b039adb9821b0c0c1d37c61b94bddcd2517264b881",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/72800/Stanley__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "72800",
+  "timestamp": "2026-05-24T23:45:09.805605Z",
+  "version": 1
+}

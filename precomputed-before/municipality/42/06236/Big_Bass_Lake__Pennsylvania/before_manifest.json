@@ -1,0 +1,16 @@
+{
+  "article": "Big_Bass_Lake,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/06236/Big_Bass_Lake__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9952f5fa1237fee19709d710369a2f4b93c64027d900a28150029d26ae5d87fd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9952f5fa1237fee19709d710369a2f4b93c64027d900a28150029d26ae5d87fd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/06236/Big_Bass_Lake__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "06236",
+  "timestamp": "2026-05-25T00:06:16.905504Z",
+  "version": 1
+}

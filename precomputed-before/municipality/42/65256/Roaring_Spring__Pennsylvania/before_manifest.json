@@ -1,0 +1,16 @@
+{
+  "article": "Roaring_Spring,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/65256/Roaring_Spring__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4bca307b6cddbf1e3862f656b3b7bffa3e70802c2faa5ce010619fffd3e751c8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4bca307b6cddbf1e3862f656b3b7bffa3e70802c2faa5ce010619fffd3e751c8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/65256/Roaring_Spring__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "65256",
+  "timestamp": "2026-05-25T00:08:50.605755Z",
+  "version": 1
+}

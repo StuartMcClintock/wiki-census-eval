@@ -1,0 +1,16 @@
+{
+  "article": "Amesville,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/01784/Amesville__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "75114fc018cc2d369a7ad17dd0fdf4ace082f58c5331c41ea3defa39abd3dc15",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "75114fc018cc2d369a7ad17dd0fdf4ace082f58c5331c41ea3defa39abd3dc15",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/01784/Amesville__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "01784",
+  "timestamp": "2026-05-25T00:03:29.749032Z",
+  "version": 1
+}

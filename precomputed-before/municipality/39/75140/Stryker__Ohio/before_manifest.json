@@ -1,0 +1,16 @@
+{
+  "article": "Stryker,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/75140/Stryker__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d6aa8889448ca15a0648198a35ba1027e1573e9b23d8126d55ec7c0ca7ed4192",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d6aa8889448ca15a0648198a35ba1027e1573e9b23d8126d55ec7c0ca7ed4192",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/75140/Stryker__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "75140",
+  "timestamp": "2026-05-25T00:05:30.538860Z",
+  "version": 1
+}

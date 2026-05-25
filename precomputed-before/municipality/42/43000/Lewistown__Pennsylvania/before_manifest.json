@@ -1,0 +1,16 @@
+{
+  "article": "Lewistown,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/43000/Lewistown__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f2e34e0faa01f6fb57446b96ac0710f4c074ce15da7f90cc3dc9ac198f481e02",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f2e34e0faa01f6fb57446b96ac0710f4c074ce15da7f90cc3dc9ac198f481e02",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/43000/Lewistown__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "43000",
+  "timestamp": "2026-05-25T00:07:51.604737Z",
+  "version": 1
+}

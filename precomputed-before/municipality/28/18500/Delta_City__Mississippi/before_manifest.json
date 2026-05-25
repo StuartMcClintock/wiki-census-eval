@@ -1,0 +1,16 @@
+{
+  "article": "Delta_City,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/18500/Delta_City__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bf89a3268a92d3a1c71249e84bec9962196308dd86eaa53edfbae611637fab4f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bf89a3268a92d3a1c71249e84bec9962196308dd86eaa53edfbae611637fab4f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/18500/Delta_City__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "18500",
+  "timestamp": "2026-05-24T23:50:07.033242Z",
+  "version": 1
+}

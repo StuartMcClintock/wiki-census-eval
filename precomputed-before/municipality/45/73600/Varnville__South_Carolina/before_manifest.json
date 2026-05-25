@@ -1,0 +1,16 @@
+{
+  "article": "Varnville,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/73600/Varnville__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6b44435a5244852064c71ad458147c871f646cf2343f053fcabcea99aeb7a681",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6b44435a5244852064c71ad458147c871f646cf2343f053fcabcea99aeb7a681",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/73600/Varnville__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "73600",
+  "timestamp": "2026-05-25T00:10:26.084793Z",
+  "version": 1
+}

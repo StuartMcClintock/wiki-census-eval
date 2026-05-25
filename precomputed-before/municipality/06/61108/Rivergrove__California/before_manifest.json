@@ -1,0 +1,16 @@
+{
+  "article": "Rivergrove,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/61108/Rivergrove__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3dfe74ca8fd33cefd498eb2643619d9b1e8227c15888513a58764e63c1ede5c7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3dfe74ca8fd33cefd498eb2643619d9b1e8227c15888513a58764e63c1ede5c7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/61108/Rivergrove__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "61108",
+  "timestamp": "2026-05-24T23:35:01.800302Z",
+  "version": 1
+}

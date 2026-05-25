@@ -1,0 +1,16 @@
+{
+  "article": "Piper_City,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/60079/Piper_City__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0b204e4a846044b8069b50e9bd9088c1a4c5637abe99f38679df3c2faa294b16",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0b204e4a846044b8069b50e9bd9088c1a4c5637abe99f38679df3c2faa294b16",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/60079/Piper_City__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "60079",
+  "timestamp": "2026-05-24T23:39:02.294563Z",
+  "version": 1
+}

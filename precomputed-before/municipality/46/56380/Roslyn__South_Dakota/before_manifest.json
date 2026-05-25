@@ -1,0 +1,16 @@
+{
+  "article": "Roslyn,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/56380/Roslyn__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "969dc07530628ee97da680a2c3bc88cb349c40c635b718ebe0dd062db033d3e2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "969dc07530628ee97da680a2c3bc88cb349c40c635b718ebe0dd062db033d3e2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/56380/Roslyn__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "56380",
+  "timestamp": "2026-05-25T00:12:45.959436Z",
+  "version": 1
+}

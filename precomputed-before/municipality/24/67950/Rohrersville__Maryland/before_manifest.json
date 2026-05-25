@@ -1,0 +1,16 @@
+{
+  "article": "Rohrersville,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/67950/Rohrersville__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c3abe5c9a9a29d4a211f0724759de764f8fb7c5f5b50c2f1d58bf8ef74611a98",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c3abe5c9a9a29d4a211f0724759de764f8fb7c5f5b50c2f1d58bf8ef74611a98",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/67950/Rohrersville__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "67950",
+  "timestamp": "2026-05-24T23:47:32.696077Z",
+  "version": 1
+}

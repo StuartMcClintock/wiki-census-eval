@@ -1,0 +1,16 @@
+{
+  "article": "Iliff,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/38590/Iliff__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0333273093fab204064ccc74a7166d99a25b8b72613d497bdfb10ec1e850ee8c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0333273093fab204064ccc74a7166d99a25b8b72613d497bdfb10ec1e850ee8c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/38590/Iliff__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "38590",
+  "timestamp": "2026-05-24T23:35:29.435168Z",
+  "version": 1
+}

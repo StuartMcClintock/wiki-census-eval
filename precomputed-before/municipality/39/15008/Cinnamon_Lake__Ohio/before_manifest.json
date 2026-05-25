@@ -1,0 +1,16 @@
+{
+  "article": "Cinnamon_Lake,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/15008/Cinnamon_Lake__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "93b0421e9399bfe1043729c29223ab76a2c013021c97895ab9a6ee573778f390",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "93b0421e9399bfe1043729c29223ab76a2c013021c97895ab9a6ee573778f390",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/15008/Cinnamon_Lake__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "15008",
+  "timestamp": "2026-05-25T00:03:54.926515Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Greenwood,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/31667/Greenwood__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "63c7f62e84af0c93468d2d5500962fa7570ea2376a2e70206e89d07ac12750bb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "63c7f62e84af0c93468d2d5500962fa7570ea2376a2e70206e89d07ac12750bb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/31667/Greenwood__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "31667",
+  "timestamp": "2026-05-24T23:38:17.882648Z",
+  "version": 1
+}

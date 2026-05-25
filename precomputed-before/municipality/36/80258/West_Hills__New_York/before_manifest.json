@@ -1,0 +1,16 @@
+{
+  "article": "West_Hills,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/80258/West_Hills__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0bcc2f7b9e09b6475a1c33eb670f3d57448ace08c3adf693e8d646517c4f4a26",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0bcc2f7b9e09b6475a1c33eb670f3d57448ace08c3adf693e8d646517c4f4a26",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/80258/West_Hills__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "80258",
+  "timestamp": "2026-05-25T00:01:25.758256Z",
+  "version": 1
+}

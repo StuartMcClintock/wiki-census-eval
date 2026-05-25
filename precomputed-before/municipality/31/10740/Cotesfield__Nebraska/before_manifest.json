@@ -1,0 +1,16 @@
+{
+  "article": "Cotesfield,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/10740/Cotesfield__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "86b31f67f9267a37974d742e12ab5f1a1147c28401bd9c9565b6685d63354658",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "86b31f67f9267a37974d742e12ab5f1a1147c28401bd9c9565b6685d63354658",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/10740/Cotesfield__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "10740",
+  "timestamp": "2026-05-24T23:55:19.573839Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Town_and_Country,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/72170/Town_and_Country__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d1069d04ea18fdce0a21554057cca2ed6bf74776b078187707cc4a6f1c1ba1ad",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d1069d04ea18fdce0a21554057cca2ed6bf74776b078187707cc4a6f1c1ba1ad",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/72170/Town_and_Country__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "72170",
+  "timestamp": "2026-05-25T00:20:36.211411Z",
+  "version": 1
+}

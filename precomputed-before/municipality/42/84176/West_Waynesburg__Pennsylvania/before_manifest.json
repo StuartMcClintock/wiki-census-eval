@@ -1,0 +1,16 @@
+{
+  "article": "West_Waynesburg,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/84176/West_Waynesburg__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1c318f3b267a595f22d2fc8f52b9f3b7e59c4c4a0b91ad7d2be87ea0b2ccef6c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1c318f3b267a595f22d2fc8f52b9f3b7e59c4c4a0b91ad7d2be87ea0b2ccef6c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/84176/West_Waynesburg__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "84176",
+  "timestamp": "2026-05-25T00:09:29.837304Z",
+  "version": 1
+}

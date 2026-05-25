@@ -1,0 +1,16 @@
+{
+  "article": "Cedar_Crest,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/11836/Cedar_Crest__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b1856ca4de6a7e5607d0da222529fc4033df6c55878ae8651b72de389c3d2af8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b1856ca4de6a7e5607d0da222529fc4033df6c55878ae8651b72de389c3d2af8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/11836/Cedar_Crest__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "11836",
+  "timestamp": "2026-05-25T00:06:38.348577Z",
+  "version": 1
+}

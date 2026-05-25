@@ -1,0 +1,16 @@
+{
+  "article": "Story,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/73615/Story__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a3465f1c7da510294837476a9a2ed00e9b3c318636e6d9da4b01a7dad39d82dc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a3465f1c7da510294837476a9a2ed00e9b3c318636e6d9da4b01a7dad39d82dc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/73615/Story__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "73615",
+  "timestamp": "2026-05-25T00:23:24.040337Z",
+  "version": 1
+}

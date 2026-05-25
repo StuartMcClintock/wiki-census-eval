@@ -1,0 +1,16 @@
+{
+  "article": "Geraldine,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/30400/Geraldine__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "705ec7d9c7bd1b74a744f887c561ebdba7b83870c62f148a5231aa8627a9cf09",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "705ec7d9c7bd1b74a744f887c561ebdba7b83870c62f148a5231aa8627a9cf09",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/30400/Geraldine__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "30400",
+  "timestamp": "2026-05-24T23:54:26.457746Z",
+  "version": 1
+}

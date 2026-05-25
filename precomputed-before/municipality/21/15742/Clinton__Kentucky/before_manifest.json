@@ -1,0 +1,16 @@
+{
+  "article": "Clinton,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/15742/Clinton__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5a08593f72a98ad61c67e36d4c48208e219efed0f521224ee5f40653bf1ea210",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5a08593f72a98ad61c67e36d4c48208e219efed0f521224ee5f40653bf1ea210",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/15742/Clinton__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "15742",
+  "timestamp": "2026-05-24T23:43:48.247007Z",
+  "version": 1
+}

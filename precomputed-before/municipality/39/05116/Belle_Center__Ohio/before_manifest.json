@@ -1,0 +1,16 @@
+{
+  "article": "Belle_Center,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/05116/Belle_Center__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "37c2ada86a09e6fe12e636952458024fdb68c0c4c50cec2b70b5dd3cb029dacf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "37c2ada86a09e6fe12e636952458024fdb68c0c4c50cec2b70b5dd3cb029dacf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/05116/Belle_Center__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "05116",
+  "timestamp": "2026-05-25T00:03:33.422993Z",
+  "version": 1
+}

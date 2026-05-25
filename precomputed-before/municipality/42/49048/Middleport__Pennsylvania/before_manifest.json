@@ -1,0 +1,16 @@
+{
+  "article": "Middleport,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/49048/Middleport__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "078d0e70f0832845119160f1b54b1af19d9318810653f19a7f9acfda0f0aee50",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "078d0e70f0832845119160f1b54b1af19d9318810653f19a7f9acfda0f0aee50",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/49048/Middleport__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "49048",
+  "timestamp": "2026-05-25T00:08:05.021713Z",
+  "version": 1
+}

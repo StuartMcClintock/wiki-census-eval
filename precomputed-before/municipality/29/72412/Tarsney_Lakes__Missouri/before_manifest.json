@@ -1,0 +1,16 @@
+{
+  "article": "Tarsney_Lakes,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/72412/Tarsney_Lakes__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "06fcdc2ee543ceb82230a3fe023f15c0f01a1cac0bde375c1eab938d1c6fe74c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "06fcdc2ee543ceb82230a3fe023f15c0f01a1cac0bde375c1eab938d1c6fe74c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/72412/Tarsney_Lakes__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "72412",
+  "timestamp": "2026-05-24T23:53:53.221098Z",
+  "version": 1
+}

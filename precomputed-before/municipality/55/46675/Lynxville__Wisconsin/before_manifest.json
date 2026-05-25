@@ -1,0 +1,16 @@
+{
+  "article": "Lynxville,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/46675/Lynxville__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "432e179822a89ec002170b4c5cf3b532b844be4dd06f570ec386c479f5cb3b5a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "432e179822a89ec002170b4c5cf3b532b844be4dd06f570ec386c479f5cb3b5a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/46675/Lynxville__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "46675",
+  "timestamp": "2026-05-25T00:22:22.470849Z",
+  "version": 1
+}

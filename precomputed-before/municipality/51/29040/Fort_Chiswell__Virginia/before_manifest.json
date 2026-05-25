@@ -1,0 +1,16 @@
+{
+  "article": "Fort_Chiswell,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/29040/Fort_Chiswell__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1e313a464b759598c99332f811642134201630a6622a949a145661a1936f4bc7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1e313a464b759598c99332f811642134201630a6622a949a145661a1936f4bc7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/29040/Fort_Chiswell__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "29040",
+  "timestamp": "2026-05-25T00:19:13.649747Z",
+  "version": 1
+}

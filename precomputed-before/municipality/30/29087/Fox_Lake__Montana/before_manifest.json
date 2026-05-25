@@ -1,0 +1,16 @@
+{
+  "article": "Fox_Lake,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/29087/Fox_Lake__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8e40bcea95fc72f6139b28e7939181ed30ec5bca835eca324a34bcd5d7155b8b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8e40bcea95fc72f6139b28e7939181ed30ec5bca835eca324a34bcd5d7155b8b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/29087/Fox_Lake__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "29087",
+  "timestamp": "2026-05-24T23:54:25.592226Z",
+  "version": 1
+}

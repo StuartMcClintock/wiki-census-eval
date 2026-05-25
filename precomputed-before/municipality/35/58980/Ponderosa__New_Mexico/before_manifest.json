@@ -1,0 +1,16 @@
+{
+  "article": "Ponderosa,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/58980/Ponderosa__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6adbed733eff7b2d988aac4fe65b206aa3e196fa1c3d9f8ab71b5f71411a97d3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6adbed733eff7b2d988aac4fe65b206aa3e196fa1c3d9f8ab71b5f71411a97d3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/58980/Ponderosa__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "58980",
+  "timestamp": "2026-05-24T23:58:48.157782Z",
+  "version": 1
+}

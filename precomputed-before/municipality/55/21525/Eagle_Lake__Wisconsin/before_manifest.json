@@ -1,0 +1,16 @@
+{
+  "article": "Eagle_Lake,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/21525/Eagle_Lake__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "50c1fdabdb8724b546a128e3818d9496a7f60508ca80eafbd0ca6815a6e95a50",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "50c1fdabdb8724b546a128e3818d9496a7f60508ca80eafbd0ca6815a6e95a50",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/21525/Eagle_Lake__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "21525",
+  "timestamp": "2026-05-25T00:22:02.553239Z",
+  "version": 1
+}

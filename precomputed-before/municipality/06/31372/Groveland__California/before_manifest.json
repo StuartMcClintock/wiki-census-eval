@@ -1,0 +1,16 @@
+{
+  "article": "Groveland,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/31372/Groveland__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1684691cec255616250646300b02399fed377c851630d9276b0f5f75c749afbc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1684691cec255616250646300b02399fed377c851630d9276b0f5f75c749afbc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/31372/Groveland__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "31372",
+  "timestamp": "2026-05-24T23:34:27.047660Z",
+  "version": 1
+}

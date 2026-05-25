@@ -1,0 +1,16 @@
+{
+  "article": "Tilden,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/75263/Tilden__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fef8d100509cd980741ca57d1941ff0ced0c7f61c9314c8f9d836a261edc1d03",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fef8d100509cd980741ca57d1941ff0ced0c7f61c9314c8f9d836a261edc1d03",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/75263/Tilden__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "75263",
+  "timestamp": "2026-05-24T23:39:16.451789Z",
+  "version": 1
+}

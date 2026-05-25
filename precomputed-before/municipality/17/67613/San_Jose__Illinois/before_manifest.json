@@ -1,0 +1,16 @@
+{
+  "article": "San_Jose,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/67613/San_Jose__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ebfb09f728e1946d9292d2efb2e0d858608c15d6bf061912215c281283d86d43",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ebfb09f728e1946d9292d2efb2e0d858608c15d6bf061912215c281283d86d43",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/67613/San_Jose__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "67613",
+  "timestamp": "2026-05-24T23:39:09.288705Z",
+  "version": 1
+}

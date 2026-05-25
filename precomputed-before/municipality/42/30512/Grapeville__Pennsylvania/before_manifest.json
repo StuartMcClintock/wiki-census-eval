@@ -1,0 +1,16 @@
+{
+  "article": "Grapeville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/30512/Grapeville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "59229c45ddb7df5b653d76716d2aabaabe2206c4895d31f5d319d968141474c8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "59229c45ddb7df5b653d76716d2aabaabe2206c4895d31f5d319d968141474c8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/30512/Grapeville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "30512",
+  "timestamp": "2026-05-25T00:07:18.968755Z",
+  "version": 1
+}

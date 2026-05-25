@@ -1,0 +1,16 @@
+{
+  "article": "Chistochina,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/14000/Chistochina__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3e63fea0c799d871da58249f550b30d931cd9a33a3812678132b0f5ff9b6a89b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3e63fea0c799d871da58249f550b30d931cd9a33a3812678132b0f5ff9b6a89b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/14000/Chistochina__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "14000",
+  "timestamp": "2026-05-24T23:32:19.552788Z",
+  "version": 1
+}

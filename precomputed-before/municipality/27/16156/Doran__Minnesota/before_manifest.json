@@ -1,0 +1,16 @@
+{
+  "article": "Doran,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/16156/Doran__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5615440b30a8050a333fe348077c1d99bb911f6cd50447c5891c50259c93b50b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5615440b30a8050a333fe348077c1d99bb911f6cd50447c5891c50259c93b50b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/16156/Doran__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "16156",
+  "timestamp": "2026-05-24T23:48:50.112499Z",
+  "version": 1
+}

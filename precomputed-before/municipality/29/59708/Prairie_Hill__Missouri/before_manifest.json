@@ -1,0 +1,16 @@
+{
+  "article": "Prairie_Hill,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/59708/Prairie_Hill__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7319241fa9b61b78b23db73b7201450a39ca2e310815b7f31de8fca8823a4956",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7319241fa9b61b78b23db73b7201450a39ca2e310815b7f31de8fca8823a4956",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/59708/Prairie_Hill__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "59708",
+  "timestamp": "2026-05-24T23:53:43.551345Z",
+  "version": 1
+}

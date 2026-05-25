@@ -1,0 +1,16 @@
+{
+  "article": "Maverick_Mountain,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/48585/Maverick_Mountain__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "32a095d9a7518bc5b0f8e158ecf3da6e5ade8098a75e8ce60c25b379dd8b1c6b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "32a095d9a7518bc5b0f8e158ecf3da6e5ade8098a75e8ce60c25b379dd8b1c6b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/48585/Maverick_Mountain__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "48585",
+  "timestamp": "2026-05-24T23:54:37.600496Z",
+  "version": 1
+}

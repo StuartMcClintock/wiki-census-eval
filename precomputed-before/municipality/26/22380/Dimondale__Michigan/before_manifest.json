@@ -1,0 +1,16 @@
+{
+  "article": "Dimondale,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/22380/Dimondale__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2c658a3c4679ea7c566220b6c0b4eac621492049b9a0a2f98ba427ee7d817be6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2c658a3c4679ea7c566220b6c0b4eac621492049b9a0a2f98ba427ee7d817be6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/22380/Dimondale__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "22380",
+  "timestamp": "2026-05-24T23:47:51.765820Z",
+  "version": 1
+}

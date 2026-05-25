@@ -1,0 +1,16 @@
+{
+  "article": "Camargo,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/12052/Camargo__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dfab68308144a41213f59c1d1da56f2f89ee754673499a88642e50c5e1a43576",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dfab68308144a41213f59c1d1da56f2f89ee754673499a88642e50c5e1a43576",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/12052/Camargo__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "12052",
+  "timestamp": "2026-05-24T23:43:46.402839Z",
+  "version": 1
+}

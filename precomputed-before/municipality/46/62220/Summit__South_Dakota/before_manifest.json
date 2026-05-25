@@ -1,0 +1,16 @@
+{
+  "article": "Summit,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/62220/Summit__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2a2cf090ffed38e0d928268b7c6c1336a727aaebf3fd64fa4e127ad6584368fa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2a2cf090ffed38e0d928268b7c6c1336a727aaebf3fd64fa4e127ad6584368fa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/62220/Summit__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "62220",
+  "timestamp": "2026-05-25T00:12:49.075638Z",
+  "version": 1
+}

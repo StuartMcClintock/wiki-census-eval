@@ -1,0 +1,16 @@
+{
+  "article": "Columbus,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/15846/Columbus__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a220998d919be46a460784a179c52128098177e103ec0be7f15dc0d27880a69a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a220998d919be46a460784a179c52128098177e103ec0be7f15dc0d27880a69a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/15846/Columbus__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "15846",
+  "timestamp": "2026-05-24T23:38:02.279996Z",
+  "version": 1
+}

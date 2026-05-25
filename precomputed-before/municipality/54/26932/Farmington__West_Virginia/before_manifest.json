@@ -1,0 +1,16 @@
+{
+  "article": "Farmington,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/26932/Farmington__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7def08fa4afcdce9145bb9389cc287bf94b3c57ae16ac7b53ab1891c06884091",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7def08fa4afcdce9145bb9389cc287bf94b3c57ae16ac7b53ab1891c06884091",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/26932/Farmington__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "26932",
+  "timestamp": "2026-05-25T00:21:06.177786Z",
+  "version": 1
+}

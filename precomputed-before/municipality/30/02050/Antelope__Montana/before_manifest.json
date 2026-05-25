@@ -1,0 +1,16 @@
+{
+  "article": "Antelope,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/02050/Antelope__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d14e7d2e9b0199402a0206a2b738e2b511a2a6cb8760a47f51faea07a38a7343",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d14e7d2e9b0199402a0206a2b738e2b511a2a6cb8760a47f51faea07a38a7343",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/02050/Antelope__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "02050",
+  "timestamp": "2026-05-24T23:54:12.572535Z",
+  "version": 1
+}

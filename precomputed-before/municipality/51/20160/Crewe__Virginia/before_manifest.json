@@ -1,0 +1,16 @@
+{
+  "article": "Crewe,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/20160/Crewe__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ce9148dd7d123c94a1878515d8706e76bc752e106b8f040b29dacb78d63c47d8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ce9148dd7d123c94a1878515d8706e76bc752e106b8f040b29dacb78d63c47d8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/20160/Crewe__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "20160",
+  "timestamp": "2026-05-25T00:19:07.886259Z",
+  "version": 1
+}

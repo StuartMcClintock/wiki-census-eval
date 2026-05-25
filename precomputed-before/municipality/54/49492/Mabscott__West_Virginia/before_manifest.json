@@ -1,0 +1,16 @@
+{
+  "article": "Mabscott,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/49492/Mabscott__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f84a23c927d0ea4c906cc5b2ecbb392f58ab8b05b28b6179104630fe71526f71",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f84a23c927d0ea4c906cc5b2ecbb392f58ab8b05b28b6179104630fe71526f71",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/49492/Mabscott__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "49492",
+  "timestamp": "2026-05-25T00:21:15.444846Z",
+  "version": 1
+}

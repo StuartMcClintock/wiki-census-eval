@@ -1,0 +1,16 @@
+{
+  "article": "Altenburg,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/00928/Altenburg__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ceed740b88ed4b124a091349f18363269008f4033ba9a90d2fcb66be476d1bff",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ceed740b88ed4b124a091349f18363269008f4033ba9a90d2fcb66be476d1bff",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/00928/Altenburg__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "00928",
+  "timestamp": "2026-05-24T23:50:31.042822Z",
+  "version": 1
+}

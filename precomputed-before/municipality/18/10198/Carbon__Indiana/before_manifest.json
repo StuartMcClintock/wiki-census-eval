@@ -1,0 +1,16 @@
+{
+  "article": "Carbon,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/10198/Carbon__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b1a3bf90d7410c998ec223bcadf167b92bd9af2d947d2df92c1686f586855c49",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b1a3bf90d7410c998ec223bcadf167b92bd9af2d947d2df92c1686f586855c49",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/10198/Carbon__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "10198",
+  "timestamp": "2026-05-24T23:39:29.102652Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Isleton,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/36882/Isleton__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "62912647d1a649b974f144e25df5cb5ee18548fe253cb400f42b7bf37f15234e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "62912647d1a649b974f144e25df5cb5ee18548fe253cb400f42b7bf37f15234e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/36882/Isleton__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "36882",
+  "timestamp": "2026-05-24T23:34:29.997675Z",
+  "version": 1
+}

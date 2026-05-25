@@ -1,0 +1,16 @@
+{
+  "article": "West_Valley,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/81138/West_Valley__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a3d9809738addd28ad747ccd336a7d2bdc988f2aa2afe13ee48fd6f897abe039",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a3d9809738addd28ad747ccd336a7d2bdc988f2aa2afe13ee48fd6f897abe039",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/81138/West_Valley__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "81138",
+  "timestamp": "2026-05-25T00:01:26.730162Z",
+  "version": 1
+}

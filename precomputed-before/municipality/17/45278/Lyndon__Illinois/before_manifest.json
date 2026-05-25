@@ -1,0 +1,16 @@
+{
+  "article": "Lyndon,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/45278/Lyndon__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c38354375a3ec853325bfda3c665bcdb7e2927f7877479b18cc7d7fafc38d1a6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c38354375a3ec853325bfda3c665bcdb7e2927f7877479b18cc7d7fafc38d1a6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/45278/Lyndon__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "45278",
+  "timestamp": "2026-05-24T23:38:31.224464Z",
+  "version": 1
+}

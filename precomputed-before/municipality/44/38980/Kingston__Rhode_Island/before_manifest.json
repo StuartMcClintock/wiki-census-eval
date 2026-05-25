@@ -1,0 +1,16 @@
+{
+  "article": "Kingston,_Rhode_Island",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/44/38980/Kingston__Rhode_Island/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3dd9adcb3d573fba46ee11e97adc6263a6052cbc0ccae002778498f72cec3482",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3dd9adcb3d573fba46ee11e97adc6263a6052cbc0ccae002778498f72cec3482",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/44/38980/Kingston__Rhode_Island/manifest.json",
+  "state_fips": "44",
+  "status": "match",
+  "target_fips": "38980",
+  "timestamp": "2026-05-25T00:09:37.287087Z",
+  "version": 1
+}

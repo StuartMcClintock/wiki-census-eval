@@ -1,0 +1,16 @@
+{
+  "article": "Volcano_Golf_Course,_Hawaii",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/15/72468/Volcano_Golf_Course__Hawaii/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b5890447ccda7ddf6f35c6ee25fff0b817f5fa4f467b4984481fc6a2a9bf735a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b5890447ccda7ddf6f35c6ee25fff0b817f5fa4f467b4984481fc6a2a9bf735a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/15/72468/Volcano_Golf_Course__Hawaii/manifest.json",
+  "state_fips": "15",
+  "status": "match",
+  "target_fips": "72468",
+  "timestamp": "2026-05-24T23:37:15.015096Z",
+  "version": 1
+}

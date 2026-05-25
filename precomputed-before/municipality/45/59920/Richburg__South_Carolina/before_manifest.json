@@ -1,0 +1,16 @@
+{
+  "article": "Richburg,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/59920/Richburg__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e15de13034461815377a7349f8ea224cda6880673078d64592767c9634f36817",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e15de13034461815377a7349f8ea224cda6880673078d64592767c9634f36817",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/59920/Richburg__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "59920",
+  "timestamp": "2026-05-25T00:10:19.048536Z",
+  "version": 1
+}

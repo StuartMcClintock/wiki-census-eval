@@ -1,0 +1,16 @@
+{
+  "article": "Arkabutla,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/01940/Arkabutla__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b2ec09ea186935450911b837f3fe13ba740e52eedb53d221b5fc20606d920a18",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b2ec09ea186935450911b837f3fe13ba740e52eedb53d221b5fc20606d920a18",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/01940/Arkabutla__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "01940",
+  "timestamp": "2026-05-24T23:50:01.357843Z",
+  "version": 1
+}

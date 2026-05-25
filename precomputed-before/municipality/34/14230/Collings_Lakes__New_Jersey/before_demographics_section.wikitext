@@ -1,0 +1,112 @@
+==Demographics==
+{{US Census population
+|1980= 2093
+|1990= 2046
+|2000= 1726
+|2010= 1706
+|2020= 1501
+|footnote=Population sources:<br> 1950<ref name=CensusNJ1950CDP>{{Cite web|title= 1950 Census of Population - Number of Inhabitants - New Jersey |url=https://www2.census.gov/library/publications/decennial/1950/population-volume-2/23024255v2p30ch1.pdf|website=[[United States Census Bureau]]|archive-url=https://web.archive.org/web/20250323234824/https://www2.census.gov/library/publications/decennial/1950/population-volume-2/23024255v2p30ch1.pdf| archive-date=March 23, 2025}}</ref> 1960<ref name=CensusNJ1960CDP>{{Cite web|title= 1960 Census of Population - Number of Inhabitants - New Jersey |url=https://www2.census.gov/library/publications/decennial/1960/population-volume-1/21260894v1p32ch2.pdf|website=[[United States Census Bureau]]|archive-url= https://web.archive.org/web/20250322203807/https://www2.census.gov/library/publications/decennial/1960/population-volume-1/21260894v1p32ch2.pdf| archive-date=March 22, 2025}}</ref> 1970<ref name=CensusNJ1970CDP>{{Cite web|title= 1970 Census of Population - Charecteristics of the Population - New Jersey |url=https://www2.census.gov/prod2/decennial/documents/1970a_nj1-01.pdf|website=[[United States Census Bureau]]|archive-url= https://web.archive.org/web/20250413231101/https://www2.census.gov/prod2/decennial/documents/1970a_nj1-01.pdf| archive-date=April 13, 2025}}</ref><ref>Staff. [https://books.google.com/books?id=1AVxMztHPuoC&pg=PA50 ''1980 Census of Population: Number of Inhabitants United States Summary''], p. 1-140. [[United States Census Bureau]], June 1983. Accessed 17 June 2013.</ref><br> 1980<ref name=CensusNJ1980CDP>{{Cite web|title= 1980 Census of Population - Volume 1 - Characteristics of the Population - Number of Inhabitants - New Jersey|url=https://www2.census.gov/prod2/decennial/documents/1980a_njAB-01.pdf|website=[[United States Census Bureau]]|archive-url= https://web.archive.org/web/20250208034839/https://www2.census.gov/prod2/decennial/documents/1980a_njAB-01.pdf| archive-date=February 8, 2025}}</ref> 1990<ref name=CensusNJ1990CDP>{{Cite web|title= 1990 Census of Population - Population and Housing Unit Counts - New Jersey|url=https://www2.census.gov/library/publications/decennial/1990/cph-2/cph-2-32.pdf|website=[[United States Census Bureau]]|archive-url= https://web.archive.org/web/20250323205725/https://www2.census.gov/library/publications/decennial/1990/cph-2/cph-2-32.pdf| archive-date=March 23, 2025}}</ref> 2000<ref name=CensusNJ2000CDP>{{Cite web|title=2000 Census of Population and Housing - Population and Housing Unit Counts - New Jersey |url=https://www2.census.gov/library/publications/2003/dec/phc-3-6.pdf|website=[[United States Census Bureau]]|archive-url=https://web.archive.org/web/20250326080925/https://www2.census.gov/library/publications/2003/dec/phc-3-32.pdf| archive-date=March 26, 2025}}</ref><br> 2010<ref name=CensusNJ2010CDP>{{Cite web|title= 2010 Census of Population - Population and Housing Unit Counts - New Jersey |url=https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-32.pdf|website=[[United States Census Bureau]]|archive-url=https://web.archive.org/web/20251111220031/https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-32.pdf| archive-date=November 11, 2025}}</ref> 2020<ref name=Census2020/>
+}}
+
+Collins Lakes first appeared as a [[census designated place]] in the [[1980 U.S. census]].<ref name=CensusNJ1980CDP/>
+
+===2020 census===
+{| class="wikitable sortable" style="text-align:center;"
+|+'''Collings Lakes CDP, New Jersey – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Collings Lakes CDP, New Jersey|url=https://data.census.gov/table?g=160XX00US3414230&tid=DECENNIALSF12000.P004|website=[[United States Census Bureau]] |access-date= }}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Collings Lakes CDP, New Jersey|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US3414230&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!style="background-color: #ffffb3;" |Pop 2020<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Collings Lakes CDP, New Jersey|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US3414230&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!% 2000
+!% 2010
+!style="background-color: #ffffb3;" |% 2020
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|1,479
+|1,370
+|style='background: #ffffe6; |1,164
+|85.69%
+|80.30%
+|style='background: #ffffe6; |77.55%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|66
+|89
+|style='background: #ffffe6; |64
+|3.82%
+|5.22%
+|style='background: #ffffe6; |4.26%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|5
+|1
+|style='background: #ffffe6; |0
+|0.29%
+|0.06%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|5
+|10
+|style='background: #ffffe6; |10
+|0.29%
+|0.59%
+|style='background: #ffffe6; |0.67%
+|-
+|[[Native Hawaiian]] or [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|2
+|style='background: #ffffe6; |0
+|0.00%
+|0.12%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|0
+|5
+|style='background: #ffffe6; |5
+|0.00%
+|0.29%
+|style='background: #ffffe6; |0.33%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|24
+|36
+|style='background: #ffffe6; |81
+|1.39%
+|2.11%
+|style='background: #ffffe6; |5.40%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|147
+|193
+|style='background: #ffffe6; |177
+|8.52%
+|11.31%
+|style='background: #ffffe6; |11.79%
+|-
+|'''Total'''
+|'''1,726'''
+|'''1,706'''
+|style='background: #ffffe6; |'''1,501 '''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+===2010 census===
+The [[2010 United States census]] counted 1,706 people, 575 households, and 442 families in the CDP. The [[population density]] was {{convert|2669.9|/mi2|/km2|disp=preunit|people&nbsp;|people|}}. There were 605 housing units at an average density of {{convert|946.8|/mi2|/km2|disp=preunit|units&nbsp;|units|}}. The racial makeup was 86.23% (1,471) [[White (U.S. census)|White]], 5.98% (102) [[Black (U.S. census)|Black or African American]], 0.53% (9) [[Native American (U.S. census)|Native American]], 0.59% (10) [[Asian (U.S. census)|Asian]], 0.12% (2) [[Pacific Islander (U.S. census)|Pacific Islander]], 3.11% (53) from [[Race and ethnicity in the United States census|other races]], and 3.46% (59) from two or more races. [[Hispanic (U.S. census)|Hispanic or Latino]] of any race were 11.31% (193) of the population.<ref name=Census2010>[http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/1600000US3414230 DP-1 - Profile of General Population and Housing Characteristics: 2010 Demographic Profile Data for Collings Lakes CDP, New Jersey] {{Webarchive|url=https://archive.today/20200212133312/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/1600000US3414230 |date=2020-02-12 }}, [[United States Census Bureau]]. Accessed June 16, 2013.</ref>
+
+Of the 575 households, 33.2% had children under the age of 18; 58.4% were married couples living together; 14.1% had a female householder with no husband present and 23.1% were non-families. Of all households, 17.7% were made up of individuals and 4.3% had someone living alone who was 65 years of age or older. The average household size was 2.97 and the average family size was 3.38.<ref name=Census2010/>
+
+25.3% of the population were under the age of 18, 9.4% from 18 to 24, 25.5% from 25 to 44, 29.2% from 45 to 64, and 10.6% who were 65 years of age or older. The median age was 38.3 years. For every 100 females, the population had 97.2 males. For every 100 females ages 18 and older there were 92.0 males.<ref name=Census2010/>
+
+===2000 census===
+As of the [[2000 United States census]]<ref name="GR2" /> there were 1,726 people, 564 households, and 463 families residing in the CDP. The [[population density]] was {{convert|994.6|/km2|/mi2|disp=preunit|people|people|abbr=on}}. There were 596 housing units at an average density of {{convert|343.5|/km2|/mi2|disp=preunit|units|units|abbr=on}}. The racial makeup of the CDP was 88.76% [[White (U.S. Census)|White]], 4.11% [[African American (U.S. Census)|African American]], 0.29% [[Native American (U.S. Census)|Native American]], 0.29% [[Asian (U.S. Census)|Asian]], 4.58% from [[Race (United States Census)|other races]], and 1.97% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 8.52% of the population.<ref name=Census2000>[http://factfinder.census.gov/bkmk/table/1.0/en/DEC/00_SF1/DP1/1600000US3414230 DP-1 - Profile of General Demographic Characteristics: 2000 from the Census 2000 Summary File 1 (SF 1) 100-Percent Data for Collings Lakes CDP, New Jersey] {{Webarchive|url=https://archive.today/20200212095243/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/00_SF1/DP1/1600000US3414230 |date=2020-02-12 }}, [[United States Census Bureau]]. Accessed June 16, 2013.</ref>
+
+There were 564 households, out of which 39.7% had children under the age of 18 living with them, 61.7% were [[Marriage|married couples]] living together, 13.8% had a female householder with no husband present, and 17.9% were non-families. 13.1% of all households were made up of individuals, and 4.8% had someone living alone who was 65 years of age or older. The average household size was 3.06 and the average family size was 3.29.<ref name=Census2000/>
+
+In the CDP the population was spread out, with 28.2% under the age of 18, 9.0% from 18 to 24, 31.4% from 25 to 44, 24.5% from 45 to 64, and 6.9% who were 65 years of age or older. The median age was 34 years. For every 100 females, there were 100.2 males. For every 100 females age 18 and over, there were 95.9 males.<ref name=Census2000/>
+
+The median income for a household in the CDP was $51,042, and the median income for a family was $51,083. Males had a median income of $36,346 versus $25,924 for females. The [[per capita income]] for the CDP was $17,903. About 6.3% of families and 8.6% of the population were below the [[poverty line]], including 16.0% of those under age 18 and 8.5% of those age 65 or over.<ref name=Census2000/>
+

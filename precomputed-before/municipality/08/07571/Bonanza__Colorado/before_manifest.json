@@ -1,0 +1,16 @@
+{
+  "article": "Bonanza,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/07571/Bonanza__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "80a8a9efb29b521c9a7445f3d99f852fbf1c492954f56d063cd764efe3d0d062",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "80a8a9efb29b521c9a7445f3d99f852fbf1c492954f56d063cd764efe3d0d062",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/07571/Bonanza__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "07571",
+  "timestamp": "2026-05-24T23:35:19.375218Z",
+  "version": 1
+}

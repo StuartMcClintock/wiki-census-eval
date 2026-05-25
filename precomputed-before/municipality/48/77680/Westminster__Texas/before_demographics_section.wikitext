@@ -1,0 +1,111 @@
+==Demographics==
+{{US Census population
+| 1920 = 631
+| 1930 = 268
+| 1940 = 290
+| 1950 = 192
+| 1960 = 194
+| 1970 = 257
+| 1980 = 278
+| 1990 = 388
+| 2000 = 390
+| 2010 = 861
+| 2020 = 1035
+| align-fn = center
+| footnote = U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census/decade.html|title=Decennial Census by Decade|publisher=[[US Census Bureau]]|access-date=}}</ref><br> 1850–1900<ref name=1900CensusTX>{{Cite web|title= 1900 Census of Population - Population of Texas By Counties And Minor Civil Divisions |url=https://www2.census.gov/library/publications/decennial/1900/bulletins/demographic/49-population-tx.pdf|website=[[United States Census Bureau]]}}</ref> 1910<ref name=1910CensusTX>{{Cite web|title=1910 Census of Population - Supplement for Texas|url=https://www2.census.gov/library/publications/decennial/1910/abstract/supplement-tx-p1.pdf|website=[[United States Census Bureau]]|access-date=July 14, 2024|archive-date=March 30, 2025|archive-url=https://web.archive.org/web/20250330000710/https://www2.census.gov/library/publications/decennial/1910/abstract/supplement-tx-p1.pdf|url-status=dead}}</ref><br> 1920<ref name=1920CensusTX>{{Cite web|title= 1920 Census of Population - Number of Inhabitants - Texas |url=https://www2.census.gov/library/publications/decennial/1920/bulletins/demographics/population-tx-number-of-inhabitants.pdf|website=[[United States Census Bureau]]}}</ref> 1930<ref name=1930CensusTX>{{Cite web|title= 1930 Census of Population - Number of Inhabitants - Texas |url=https://www2.census.gov/library/publications/decennial/1930/population-volume-1/03815512v1ch10.pdf|website=[[United States Census Bureau]]}}</ref> 1940<ref name=1940CensusTX>{{Cite web|title= 1940 Census of Population - Number of Inhabitants - Texas |url=https://www2.census.gov/library/publications/decennial/1940/population-volume-1/33973538v1ch09.pdf|website=[[United States Census Bureau]]}}</ref><br>
+1950<ref name=1950CensusTX>{{Cite web|title= 1950 Census of Population - Number of Inhabitants - Texas |url=https://www2.census.gov/library/publications/decennial/1950/population-volume-1/vol-01-46.pdf|website=[[United States Census Bureau]]}}</ref> 1960<ref name=1960CensusTX>{{Cite web|title= 1960 Census of Population - Number of Inhabitants - Texas |url=https://www2.census.gov/library/publications/decennial/1960/population-volume-1/33255142v1p45ch02.pdf|website=[[United States Census Bureau]]}}</ref> 1970<ref name=1970CensusTX>{{Cite web|title= 1970 Census of Population - Number of Inhabitants - Texas |url=https://www2.census.gov/prod2/decennial/documents/00496492v1p45s1ch02.pdf|website=[[United States Census Bureau]]}}</ref><br> 1980<ref name=1980CensusTX>{{Cite web|title= 1980 Census of Population - Number of Inhabitants - Texas |url=https://www2.census.gov/library/publications/decennial/1980/volume-1/texas/1980a_txab-01.pdf|website=[[United States Census Bureau]]}}</ref> 1990<ref name=1990CensusTX>{{Cite web|title=1990 Census of Population - Population and Housing Unit Counts - Texas |url=https://www2.census.gov/library/publications/decennial/1990/cph-2/cph-2-45.pdf|website=[[United States Census Bureau]]}}</ref> 2000<ref name=2000CensusTX>{{Cite web|title=2000 Census of Population - Population and Housing Unit Counts - Texas |url=https://www2.census.gov/library/publications/2003/dec/phc-3-45.pdf|website=[[United States Census Bureau]]}}</ref><br> 2010<ref name=2010CensusTX>{{Cite web|title=2010 Census of Population - Population and Housing Unit Counts - Texas |url=https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-45.pdf|website=[[United States Census Bureau]]}}</ref> 2020<ref name=2020CensusP2/>
+}}
+
+Westminster first appeared as a town in the [[1920 U.S. census]];<ref name=1920CensusTX/> and after disincorporation was listed as a [[census designated place]] in the [[2010 U.S. census]].<ref name=2010CensusTX/>
+
+{| class="wikitable" style="text-align:center;"
+|+'''Westminster CDP, Texas – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Westminster city, Texas|url=https://data.census.gov/table?g=160XX00US4877680&tid=DECENNIALSF12000.P004|website=[[United States Census Bureau]] |access-date= }}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Westminster CDP, Texas|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US4877680&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Westminster CDP, Texas|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US4877680&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!% 2000
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|364
+|677
+|style='background: #ffffe6; |637
+|93.33%
+|78.63%
+|style='background: #ffffe6; |61.55%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|1
+|3
+|style='background: #ffffe6; |8
+|0.26%
+|0.35%
+|style='background: #ffffe6; |0.77%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|1
+|5
+|style='background: #ffffe6; |2
+|0.26%
+|0.58%
+|style='background: #ffffe6; |0.19%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|1
+|0
+|style='background: #ffffe6; |7
+|0.26%
+|0.00%
+|style='background: #ffffe6; |0.68%
+|-
+|[[Native Hawaiian]] or [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |1
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.10%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|0
+|9
+|style='background: #ffffe6; |65
+|0.00%
+|1.05%
+|style='background: #ffffe6; |6.28%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|23
+|167
+|style='background: #ffffe6; |315
+|5.90%
+|19.40%
+|style='background: #ffffe6; |30.43%
+|-
+|'''Total'''
+|'''390'''
+|'''861'''
+|style='background: #ffffe6; |'''1,035'''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+As of the [[census]]<ref name="GR2" /> of 2000, there were 390 people, 140 households, and 112 families residing in the city. The population density was {{convert|214.7|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 161 housing units at an average density of {{convert|88.6|/sqmi|/km2|sp=us|adj=off}}. The racial makeup of the city was 97.18% [[White (U.S. Census)|White]], 0.26% [[African American (U.S. Census)|African American]], 0.26% [[Native American (U.S. Census)|Native American]], 0.26% [[Asian (U.S. Census)|Asian]], 2.05% from [[Race (United States Census)|other races]]. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 5.90% of the population.
+
+There were 140 households, out of which 32.1% had children under the age of 18 living with them, 62.9% were [[Marriage|married couples]] living together, 11.4% had a female householder with no husband present, and 20.0% were non-families. 17.1% of all households were made up of individuals, and 4.3% had someone living alone who was 65 years of age or older. The average household size was 2.79 and the average family size was 3.13.
+
+In the city the population was spread out, with 27.7% under the age of 18, 7.9% from 18 to 24, 31.5% from 25 to 44, 25.9% from 45 to 64, and 6.9% who were 65 years of age or older. The median age was 35 years. For every 100 females, there were 97.0 males. For every 100 females age 18 and over, there were 104.3 males.
+
+The median income for a household in the city was $42,083, and the median income for a family was $45,000. Males had a median income of $30,938 versus $24,063 for females. The [[per capita income]] for the city was $17,248. About 5.9% of families and 10.4% of the population were below the [[poverty line]], including 18.8% of those under age 18 and none of those age 65 or over.
+

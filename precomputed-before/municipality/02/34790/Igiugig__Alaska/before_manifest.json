@@ -1,0 +1,16 @@
+{
+  "article": "Igiugig,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/34790/Igiugig__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c5fac8090a5d977e6b10c5f012d4cfc4527d73aa75df26d4b1d9fe86bff936e2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c5fac8090a5d977e6b10c5f012d4cfc4527d73aa75df26d4b1d9fe86bff936e2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/34790/Igiugig__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "34790",
+  "timestamp": "2026-05-24T23:32:23.877780Z",
+  "version": 1
+}

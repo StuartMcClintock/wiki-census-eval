@@ -1,0 +1,16 @@
+{
+  "article": "Wilhoit,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/82950/Wilhoit__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "592953300bade44eb80597a0f169b4c32b537d4ad83a070116e231a22a5fff06",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "592953300bade44eb80597a0f169b4c32b537d4ad83a070116e231a22a5fff06",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/82950/Wilhoit__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "82950",
+  "timestamp": "2026-05-24T23:33:15.097072Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Pickens,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/57200/Pickens__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "19a6e7c2bfab69cb7e4ff1d82911aa92446a7e918417668b18a9e9790b1552e3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "19a6e7c2bfab69cb7e4ff1d82911aa92446a7e918417668b18a9e9790b1552e3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/57200/Pickens__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "57200",
+  "timestamp": "2026-05-24T23:50:20.136182Z",
+  "version": 1
+}

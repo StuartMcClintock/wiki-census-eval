@@ -1,0 +1,16 @@
+{
+  "article": "Coin,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/14970/Coin__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8adc88034eede5f3ceb20bcf250b023454b346f01076c9c899b0738d1f4bda5e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8adc88034eede5f3ceb20bcf250b023454b346f01076c9c899b0738d1f4bda5e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/14970/Coin__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "14970",
+  "timestamp": "2026-05-24T23:40:35.811827Z",
+  "version": 1
+}

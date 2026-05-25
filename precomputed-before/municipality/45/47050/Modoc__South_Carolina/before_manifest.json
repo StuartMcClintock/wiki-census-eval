@@ -1,0 +1,16 @@
+{
+  "article": "Modoc,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/47050/Modoc__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "800e9be59038f4876c9c949c73dd9da9e8230fca3dc74225fe01ffe7d4ce7275",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "800e9be59038f4876c9c949c73dd9da9e8230fca3dc74225fe01ffe7d4ce7275",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/47050/Modoc__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "47050",
+  "timestamp": "2026-05-25T00:10:13.253349Z",
+  "version": 1
+}

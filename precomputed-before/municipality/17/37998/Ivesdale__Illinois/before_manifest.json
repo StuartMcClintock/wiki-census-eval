@@ -1,0 +1,16 @@
+{
+  "article": "Ivesdale,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/37998/Ivesdale__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ae6d9cb16031d6caee690d7181a2d7316523574000e2b0a0917b642ec4f1c0c4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ae6d9cb16031d6caee690d7181a2d7316523574000e2b0a0917b642ec4f1c0c4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/37998/Ivesdale__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "37998",
+  "timestamp": "2026-05-24T23:38:23.398081Z",
+  "version": 1
+}

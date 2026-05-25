@@ -1,0 +1,16 @@
+{
+  "article": "Lavelle,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/41904/Lavelle__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cd2fbbfc5f4804f212bb96c5e28fe99102f04f9274b3e72ae2b2370ac83c511d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cd2fbbfc5f4804f212bb96c5e28fe99102f04f9274b3e72ae2b2370ac83c511d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/41904/Lavelle__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "41904",
+  "timestamp": "2026-05-25T00:07:49.189262Z",
+  "version": 1
+}

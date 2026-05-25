@@ -1,0 +1,16 @@
+{
+  "article": "Rawls_Springs,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/61080/Rawls_Springs__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f6b82df7a82253afd06c1b37f5fb51873229bab03e0335aa637f13b8f76de1a1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f6b82df7a82253afd06c1b37f5fb51873229bab03e0335aa637f13b8f76de1a1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/61080/Rawls_Springs__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "61080",
+  "timestamp": "2026-05-24T23:50:21.509694Z",
+  "version": 1
+}

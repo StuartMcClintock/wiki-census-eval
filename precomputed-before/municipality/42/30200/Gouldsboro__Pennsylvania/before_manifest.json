@@ -1,0 +1,16 @@
+{
+  "article": "Gouldsboro,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/30200/Gouldsboro__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3c53bf369011064cab05cb9801593fde0e4f9c46e34c1cb81b627ce37ca7f788",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3c53bf369011064cab05cb9801593fde0e4f9c46e34c1cb81b627ce37ca7f788",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/30200/Gouldsboro__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "30200",
+  "timestamp": "2026-05-25T00:07:18.561580Z",
+  "version": 1
+}

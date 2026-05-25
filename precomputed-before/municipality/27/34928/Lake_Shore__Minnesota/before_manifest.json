@@ -1,0 +1,16 @@
+{
+  "article": "Lake_Shore,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/34928/Lake_Shore__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e56889c4b65d0d558a40de3479d6e97d3be16bfbe7f613e57af094d0f654a991",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e56889c4b65d0d558a40de3479d6e97d3be16bfbe7f613e57af094d0f654a991",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/34928/Lake_Shore__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "34928",
+  "timestamp": "2026-05-24T23:49:14.400711Z",
+  "version": 1
+}

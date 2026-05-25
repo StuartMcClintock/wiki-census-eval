@@ -1,0 +1,16 @@
+{
+  "article": "Hopwood,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/35728/Hopwood__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7c1f1eb96ad64c1eaa3b7f4fdaf66bb07e23692918d4d1cfff6718b53dc19b9f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7c1f1eb96ad64c1eaa3b7f4fdaf66bb07e23692918d4d1cfff6718b53dc19b9f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/35728/Hopwood__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "35728",
+  "timestamp": "2026-05-25T00:07:27.691672Z",
+  "version": 1
+}

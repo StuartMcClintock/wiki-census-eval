@@ -1,0 +1,16 @@
+{
+  "article": "Cedar_Mills,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/10468/Cedar_Mills__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dd2eb881b23b16b25ef93ad888be75d855e2cd8565b4ac659caf8b81b26e955f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dd2eb881b23b16b25ef93ad888be75d855e2cd8565b4ac659caf8b81b26e955f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/10468/Cedar_Mills__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "10468",
+  "timestamp": "2026-05-24T23:48:44.161336Z",
+  "version": 1
+}

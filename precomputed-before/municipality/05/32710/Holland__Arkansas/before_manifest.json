@@ -1,0 +1,16 @@
+{
+  "article": "Holland,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/32710/Holland__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "53be909b278c87c5d0fead7ca5d57f0b42f24bf224b08954ebf354e091e2ceff",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "53be909b278c87c5d0fead7ca5d57f0b42f24bf224b08954ebf354e091e2ceff",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/32710/Holland__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "32710",
+  "timestamp": "2026-05-24T23:33:46.750357Z",
+  "version": 1
+}

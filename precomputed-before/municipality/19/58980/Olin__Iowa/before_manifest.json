@@ -1,0 +1,16 @@
+{
+  "article": "Olin,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/58980/Olin__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ffade1eb858a21a8a1ace2933bff6bf510699c019c0481b7d519b1d544815657",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ffade1eb858a21a8a1ace2933bff6bf510699c019c0481b7d519b1d544815657",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/58980/Olin__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "58980",
+  "timestamp": "2026-05-24T23:41:34.693744Z",
+  "version": 1
+}

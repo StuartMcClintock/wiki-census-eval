@@ -1,0 +1,16 @@
+{
+  "article": "MacDonnell_Heights,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/44105/MacDonnell_Heights__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "da7281b4c6b8b8774c7cc8f1ca9453852b4afac1e4dc95917f1689a92e4163d6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "da7281b4c6b8b8774c7cc8f1ca9453852b4afac1e4dc95917f1689a92e4163d6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/44105/MacDonnell_Heights__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "44105",
+  "timestamp": "2026-05-25T00:00:52.859287Z",
+  "version": 1
+}

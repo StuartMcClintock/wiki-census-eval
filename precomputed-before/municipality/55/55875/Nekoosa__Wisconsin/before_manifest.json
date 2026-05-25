@@ -1,0 +1,16 @@
+{
+  "article": "Nekoosa,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/55875/Nekoosa__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1e16a3912dc24efa5fe6f31185c34fb6dba9f66b4b9ae8ef26881e8a7f4589b1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1e16a3912dc24efa5fe6f31185c34fb6dba9f66b4b9ae8ef26881e8a7f4589b1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/55875/Nekoosa__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "55875",
+  "timestamp": "2026-05-25T00:22:27.984244Z",
+  "version": 1
+}

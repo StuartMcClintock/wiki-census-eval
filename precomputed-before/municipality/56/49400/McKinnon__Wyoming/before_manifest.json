@@ -1,0 +1,16 @@
+{
+  "article": "McKinnon,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/49400/McKinnon__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4fb8e987ee49e5d0c2f47bbed5d9eed28b2f0dfcb3d3fd3d27906243a6e4dd5d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4fb8e987ee49e5d0c2f47bbed5d9eed28b2f0dfcb3d3fd3d27906243a6e4dd5d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/49400/McKinnon__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "49400",
+  "timestamp": "2026-05-25T00:23:18.453554Z",
+  "version": 1
+}

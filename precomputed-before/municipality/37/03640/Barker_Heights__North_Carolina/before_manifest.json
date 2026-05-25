@@ -1,0 +1,16 @@
+{
+  "article": "Barker_Heights,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/03640/Barker_Heights__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c5b3293fd1425e4fc02fc3a328f3a5e1348df2efd437003f590bd0d905f7feb1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c5b3293fd1425e4fc02fc3a328f3a5e1348df2efd437003f590bd0d905f7feb1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/03640/Barker_Heights__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "03640",
+  "timestamp": "2026-05-25T00:01:42.842587Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Baileyville,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/03337/Baileyville__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2c4a31f04f2b428f2c5093ad79c2ece51d458ccf584cad660266ba281e9c86bb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2c4a31f04f2b428f2c5093ad79c2ece51d458ccf584cad660266ba281e9c86bb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/03337/Baileyville__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "03337",
+  "timestamp": "2026-05-24T23:37:35.484666Z",
+  "version": 1
+}

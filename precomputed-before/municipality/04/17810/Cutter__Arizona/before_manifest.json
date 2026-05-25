@@ -1,0 +1,16 @@
+{
+  "article": "Cutter,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/17810/Cutter__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b48aabea715ede7a51cd4f0343c12ad2d50cf2175f7e2d0c1933e821349779db",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b48aabea715ede7a51cd4f0343c12ad2d50cf2175f7e2d0c1933e821349779db",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/17810/Cutter__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "17810",
+  "timestamp": "2026-05-24T23:32:51.956588Z",
+  "version": 1
+}

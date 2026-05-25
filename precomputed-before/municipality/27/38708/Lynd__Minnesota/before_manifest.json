@@ -1,0 +1,16 @@
+{
+  "article": "Lynd,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/38708/Lynd__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ba2f1d11c09d41424565835a3e45fd823e1a443558f2190d75339af98d2a60bd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ba2f1d11c09d41424565835a3e45fd823e1a443558f2190d75339af98d2a60bd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/38708/Lynd__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "38708",
+  "timestamp": "2026-05-24T23:49:17.507741Z",
+  "version": 1
+}

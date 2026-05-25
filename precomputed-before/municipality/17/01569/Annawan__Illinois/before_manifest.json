@@ -1,0 +1,16 @@
+{
+  "article": "Annawan,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/01569/Annawan__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4e61a32e677f322d0d0f867ff1b4fd9b001a476fcd11bae1fc88e869a0c2c891",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4e61a32e677f322d0d0f867ff1b4fd9b001a476fcd11bae1fc88e869a0c2c891",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/01569/Annawan__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "01569",
+  "timestamp": "2026-05-24T23:37:33.443423Z",
+  "version": 1
+}

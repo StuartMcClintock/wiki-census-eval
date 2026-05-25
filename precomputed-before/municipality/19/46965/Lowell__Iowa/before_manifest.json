@@ -1,0 +1,16 @@
+{
+  "article": "Lowell,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/46965/Lowell__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "67ec9754b6f213b433d2005aa62eae43187be230c15b8ce2aff383a04ad527a8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "67ec9754b6f213b433d2005aa62eae43187be230c15b8ce2aff383a04ad527a8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/46965/Lowell__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "46965",
+  "timestamp": "2026-05-24T23:41:22.366417Z",
+  "version": 1
+}

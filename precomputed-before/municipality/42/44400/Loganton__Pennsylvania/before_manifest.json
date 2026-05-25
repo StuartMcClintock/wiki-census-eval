@@ -1,0 +1,16 @@
+{
+  "article": "Loganton,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/44400/Loganton__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1b6f0177d3c60c3b3ee7a3337af5aed9c3bdcf0047ccbd01f3b7bcba72d9d0e4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1b6f0177d3c60c3b3ee7a3337af5aed9c3bdcf0047ccbd01f3b7bcba72d9d0e4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/44400/Loganton__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "44400",
+  "timestamp": "2026-05-25T00:07:53.750497Z",
+  "version": 1
+}

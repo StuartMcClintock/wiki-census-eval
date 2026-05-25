@@ -1,0 +1,16 @@
+{
+  "article": "Blanchardville,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/08125/Blanchardville__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ffa78c6e1c853cf549a84783470743eb0e0bc6a3a6966d29e88af27edb345ded",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ffa78c6e1c853cf549a84783470743eb0e0bc6a3a6966d29e88af27edb345ded",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/08125/Blanchardville__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "08125",
+  "timestamp": "2026-05-25T00:21:37.278049Z",
+  "version": 1
+}

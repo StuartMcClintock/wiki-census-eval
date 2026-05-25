@@ -1,0 +1,16 @@
+{
+  "article": "Keeler_Farm,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/35595/Keeler_Farm__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "621dded28ee5e28f46f61b3cff6ddf4f767bfae1233a471dc6940d9f52fa17c2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "621dded28ee5e28f46f61b3cff6ddf4f767bfae1233a471dc6940d9f52fa17c2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/35595/Keeler_Farm__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "35595",
+  "timestamp": "2026-05-24T23:58:35.211462Z",
+  "version": 1
+}

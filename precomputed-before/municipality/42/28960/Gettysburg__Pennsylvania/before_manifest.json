@@ -1,0 +1,16 @@
+{
+  "article": "Gettysburg,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/28960/Gettysburg__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5c78892aed4dcd12277203161120b60e58996bb0e43c57a7487486b2791d2262",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5c78892aed4dcd12277203161120b60e58996bb0e43c57a7487486b2791d2262",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/28960/Gettysburg__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "28960",
+  "timestamp": "2026-05-25T00:07:15.249125Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Irwinton,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/41400/Irwinton__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f0698f15489133b7bd533b14d6870ee59cdf61e7ec45473b68a43dfc945739e3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f0698f15489133b7bd533b14d6870ee59cdf61e7ec45473b68a43dfc945739e3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/41400/Irwinton__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "41400",
+  "timestamp": "2026-05-24T23:36:51.310078Z",
+  "version": 1
+}

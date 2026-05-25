@@ -1,0 +1,16 @@
+{
+  "article": "Somerville,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/71496/Somerville__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c0f6344ca0df6f3adb28f9400e04eb9b1106286d045717a9f9e0dd9e4d8efcce",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c0f6344ca0df6f3adb28f9400e04eb9b1106286d045717a9f9e0dd9e4d8efcce",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/71496/Somerville__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "71496",
+  "timestamp": "2026-05-24T23:32:12.854814Z",
+  "version": 1
+}

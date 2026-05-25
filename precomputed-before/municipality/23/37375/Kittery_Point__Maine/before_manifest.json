@@ -1,0 +1,16 @@
+{
+  "article": "Kittery_Point,_Maine",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/23/37375/Kittery_Point__Maine/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "67c34641c718f3793f29e1c3ff27c8941ffc922c7b777e143f104bd229a07aba",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "67c34641c718f3793f29e1c3ff27c8941ffc922c7b777e143f104bd229a07aba",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/23/37375/Kittery_Point__Maine/manifest.json",
+  "state_fips": "23",
+  "status": "match",
+  "target_fips": "37375",
+  "timestamp": "2026-05-24T23:45:13.107169Z",
+  "version": 1
+}

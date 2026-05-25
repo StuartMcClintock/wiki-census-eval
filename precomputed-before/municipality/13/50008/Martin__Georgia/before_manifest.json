@@ -1,0 +1,16 @@
+{
+  "article": "Martin,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/50008/Martin__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f067ccf4e331c7252cad0608852181b5c03161044def616452f2486f01335980",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f067ccf4e331c7252cad0608852181b5c03161044def616452f2486f01335980",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/50008/Martin__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "50008",
+  "timestamp": "2026-05-24T23:36:54.562243Z",
+  "version": 1
+}

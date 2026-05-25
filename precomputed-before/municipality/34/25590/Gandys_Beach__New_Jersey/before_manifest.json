@@ -1,0 +1,16 @@
+{
+  "article": "Gandys_Beach,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/25590/Gandys_Beach__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3881c00128a12e8bc1f7ed1e60fbb9931b13021352bb08a6309a0d17f8f3c59c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3881c00128a12e8bc1f7ed1e60fbb9931b13021352bb08a6309a0d17f8f3c59c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/25590/Gandys_Beach__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "25590",
+  "timestamp": "2026-05-24T23:57:48.687695Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Kingston,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/40376/Kingston__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9a4917ec6ed0e01b0aa549f19cfd36448e1c14309f05f7dbd207781e0122cbbf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9a4917ec6ed0e01b0aa549f19cfd36448e1c14309f05f7dbd207781e0122cbbf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/40376/Kingston__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "40376",
+  "timestamp": "2026-05-25T00:04:23.014488Z",
+  "version": 1
+}

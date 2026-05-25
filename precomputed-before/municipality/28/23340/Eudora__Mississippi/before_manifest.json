@@ -1,0 +1,16 @@
+{
+  "article": "Eudora,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/23340/Eudora__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "90776e6f6b65aac14dcf5aa44b482f43e5f9e5940dea37a7b8dbe0576010579d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "90776e6f6b65aac14dcf5aa44b482f43e5f9e5940dea37a7b8dbe0576010579d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/23340/Eudora__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "23340",
+  "timestamp": "2026-05-24T23:50:09.390739Z",
+  "version": 1
+}

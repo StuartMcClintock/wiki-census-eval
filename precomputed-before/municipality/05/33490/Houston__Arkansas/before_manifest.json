@@ -1,0 +1,16 @@
+{
+  "article": "Houston,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/33490/Houston__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fedb0b1a3dee11dd9bf5ff90172d69ebab13ba557a0caa83189b5189186e052e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fedb0b1a3dee11dd9bf5ff90172d69ebab13ba557a0caa83189b5189186e052e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/33490/Houston__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "33490",
+  "timestamp": "2026-05-24T23:33:47.175667Z",
+  "version": 1
+}

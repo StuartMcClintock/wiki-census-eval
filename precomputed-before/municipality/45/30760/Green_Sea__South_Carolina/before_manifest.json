@@ -1,0 +1,16 @@
+{
+  "article": "Green_Sea,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/30760/Green_Sea__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "551a19ab16b4c7e35d71e6d0c2aa6c954d2f954d4466fa40e85067d58658cbde",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "551a19ab16b4c7e35d71e6d0c2aa6c954d2f954d4466fa40e85067d58658cbde",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/30760/Green_Sea__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "30760",
+  "timestamp": "2026-05-25T00:10:05.417941Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Burr_Oak,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/11920/Burr_Oak__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "129772df0aefbb71a41f09396c11cbf77d4f8fb809933a65bfca963da32c9da9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "129772df0aefbb71a41f09396c11cbf77d4f8fb809933a65bfca963da32c9da9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/11920/Burr_Oak__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "11920",
+  "timestamp": "2026-05-24T23:47:45.984315Z",
+  "version": 1
+}

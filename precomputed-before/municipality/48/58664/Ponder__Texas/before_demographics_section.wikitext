@@ -1,0 +1,58 @@
+==Demographics==
+{{US Census population
+| 1970 = 208
+| 1980 = 297
+| 1990 = 432
+| 2000 = 507
+| 2010 = 1395
+| 2020 = 2442
+| 2020n = 
+| estyear = 2023
+| estimate = 2757
+|estref={{increase}}
+| footnote = U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|access-date=June 4, 2015}}</ref><ref>{{Cite web |publisher=United States Census Bureau |title=City and Town Population Totals: 2020-2023 |url=https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html |access-date=2024-11-15 |website=Census.gov |language=en}}</ref><ref>{{Cite web |publisher=United States Census Bureau |title=City and Town Population Totals: 2020-2021 |url=https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html |access-date=February 26, 2023 |website=Census.gov}}</ref>
+}}
+{| class="wikitable"
+|+'''Ponder racial composition as of 2020'''<ref name=":0">{{Cite web |title=Explore Census Data |url=https://data.census.gov/cedsci/table?g=1600000US4858664&tid=DECENNIALPL2020.P2 |access-date=May 22, 2022 |website=data.census.gov}}</ref><br /> (NH = Non-Hispanic){{efn|Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos can be of any race.<ref>https://www.census.gov/ {{nonspecific|date=August 2022}}</ref><ref>{{cite web |title=About the Hispanic Population and its Origin |url=https://www.census.gov/topics/population/hispanic-origin/about.html |website=www.census.gov |access-date=May 18, 2022}}</ref>}}
+!Race
+!Number
+!Percentage
+|-
+|[[Non-Hispanic or Latino whites|White]] (NH)
+|1,749
+|71.62%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] (NH)
+|83
+|3.4%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] (NH)
+|15
+|0.61%
+|-
+|[[Asian Americans|Asian]] (NH)
+|29
+|1.19%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] (NH)
+|1
+|0.04%
+|-
+|Some Other Race (NH)
+|8
+|0.33%
+|-
+|[[Multiracial Americans|Mixed/Multi-Racial]] (NH)
+|134
+|5.49%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]]
+|423
+|17.32%
+|-
+|'''Total'''
+|'''2,442'''
+|
+|}
+As of the [[2020 United States census]], there were 2,442 people, 798 households, and 600 families residing in the town.
+

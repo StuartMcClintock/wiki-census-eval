@@ -1,0 +1,16 @@
+{
+  "article": "Herlong,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/33336/Herlong__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fb5aa536e48cd36e5179d1b78d1a5132920eaa3ad4a87d25e7d22c42c504e151",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fb5aa536e48cd36e5179d1b78d1a5132920eaa3ad4a87d25e7d22c42c504e151",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/33336/Herlong__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "33336",
+  "timestamp": "2026-05-24T23:34:27.855678Z",
+  "version": 1
+}

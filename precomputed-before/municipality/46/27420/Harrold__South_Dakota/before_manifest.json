@@ -1,0 +1,16 @@
+{
+  "article": "Harrold,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/27420/Harrold__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "65a9811c1491c76790e06e9d5e37441354e8ad4b48ccd48071adcbb64e1a973f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "65a9811c1491c76790e06e9d5e37441354e8ad4b48ccd48071adcbb64e1a973f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/27420/Harrold__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "27420",
+  "timestamp": "2026-05-25T00:10:41.007207Z",
+  "version": 1
+}

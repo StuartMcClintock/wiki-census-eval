@@ -1,0 +1,16 @@
+{
+  "article": "Elida,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/24808/Elida__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e1824a93b84bd10425e879c77d2cf91578519240212ad2a5712b7678eda72aa9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e1824a93b84bd10425e879c77d2cf91578519240212ad2a5712b7678eda72aa9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/24808/Elida__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "24808",
+  "timestamp": "2026-05-25T00:04:07.244314Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Towanda,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/77168/Towanda__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "848430fbc6a0202773358990fd480acb006d029cd6ac82fe4e45f6b3921a4779",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "848430fbc6a0202773358990fd480acb006d029cd6ac82fe4e45f6b3921a4779",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/77168/Towanda__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "77168",
+  "timestamp": "2026-05-25T00:09:17.619209Z",
+  "version": 1
+}

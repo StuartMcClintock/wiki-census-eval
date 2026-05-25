@@ -1,0 +1,52 @@
+==Demographics==
+{{US Census population
+|1890= 134
+|1900= 294
+|1910= 474
+|1920= 694
+|1930= 969
+|1940= 1115
+|1950= 1514
+|1960= 1714
+|1970= 1661
+|1980= 1554
+|1990= 1742
+|2000= 1884
+|2010= 2321
+|2020= 2990
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|access-date=June 4, 2015}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A45|title=Census Population API|publisher=United States Census Bureau|accessdate=Oct 15, 2022}}</ref>
+}}
+
+===2020 census===
+{| class="wikitable"
+|+Inman racial composition<ref>{{Cite web|title=Explore Census Data|url=https://data.census.gov/cedsci/table?g=1600000US4535755&tid=DECENNIALPL2020.P2|access-date=2021-12-10|website=data.census.gov}}</ref>
+!Race
+!Num.
+!Perc.
+|-
+|[[White (U.S. Census)|White]] (non-Hispanic)
+|2,081
+|69.6%
+|-
+|[[African American (U.S. Census)|Black or African American]] (non-Hispanic)
+|488
+|16.32%
+|-
+|[[Native American (U.S. Census)|Native American]]
+|5
+|0.17%
+|-
+|[[Asian (U.S. Census)|Asian]]
+|122
+|4.08%
+|-
+|[[Race (United States Census)|Other/Mixed]]
+|138
+|4.62%
+|-
+|[[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]]
+|156
+|5.22%
+|}
+As of the [[2020 United States census]], there were 2,990 people, 1,141 households, and 604 families residing in the city with the median household income of $51,210. The median property value was $106,000, and the homeownership rate was 62%. Most people commuted by driving alone, with an average commute time of 20.5 minutes, and households owned an average of two cars.
+

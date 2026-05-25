@@ -1,0 +1,16 @@
+{
+  "article": "Shanor-Northvue,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/69715/Shanor-Northvue__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "941c30165071fe5ea582726d99ec2bfd5eb25e3eae132c40b82720df5fb6833e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "941c30165071fe5ea582726d99ec2bfd5eb25e3eae132c40b82720df5fb6833e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/69715/Shanor-Northvue__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "69715",
+  "timestamp": "2026-05-25T00:09:01.525765Z",
+  "version": 1
+}

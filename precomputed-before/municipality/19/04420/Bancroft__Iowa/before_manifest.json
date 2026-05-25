@@ -1,0 +1,16 @@
+{
+  "article": "Bancroft,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/04420/Bancroft__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3e35b40ed8b1ef0acab434d957ad3738e9cd878c0675c925b908e5e55aac90f6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3e35b40ed8b1ef0acab434d957ad3738e9cd878c0675c925b908e5e55aac90f6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/04420/Bancroft__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "04420",
+  "timestamp": "2026-05-24T23:40:25.470353Z",
+  "version": 1
+}

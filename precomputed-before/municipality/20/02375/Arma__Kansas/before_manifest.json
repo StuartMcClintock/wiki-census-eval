@@ -1,0 +1,16 @@
+{
+  "article": "Arma,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/02375/Arma__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f7f2bbc8c1e3731a9eeb9c44b94fec325a2ba82babb59c20e2a7ff595a7cc3a5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f7f2bbc8c1e3731a9eeb9c44b94fec325a2ba82babb59c20e2a7ff595a7cc3a5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/02375/Arma__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "02375",
+  "timestamp": "2026-05-24T23:42:17.442480Z",
+  "version": 1
+}

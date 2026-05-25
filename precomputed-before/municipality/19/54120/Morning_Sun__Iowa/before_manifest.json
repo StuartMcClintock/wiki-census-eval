@@ -1,0 +1,16 @@
+{
+  "article": "Morning_Sun,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/54120/Morning_Sun__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4f6605049c7421996cd53b6529c36c94c14bd85bfe0b64f01a622d8a4c962b10",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4f6605049c7421996cd53b6529c36c94c14bd85bfe0b64f01a622d8a4c962b10",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/54120/Morning_Sun__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "54120",
+  "timestamp": "2026-05-24T23:41:30.351580Z",
+  "version": 1
+}

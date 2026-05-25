@@ -1,0 +1,16 @@
+{
+  "article": "Glenn_Springs,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/29320/Glenn_Springs__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a5864e04bae5f29a43d54412bf7e68ba88bfb6d35a805d3b5a1a039c9b32cc83",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a5864e04bae5f29a43d54412bf7e68ba88bfb6d35a805d3b5a1a039c9b32cc83",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/29320/Glenn_Springs__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "29320",
+  "timestamp": "2026-05-25T00:10:04.605689Z",
+  "version": 1
+}

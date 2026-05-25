@@ -1,0 +1,16 @@
+{
+  "article": "Barboursville,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/04392/Barboursville__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0a324ae19064c8f91eb16a06468a5325473f5d1eb5608361839558b25f66a758",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0a324ae19064c8f91eb16a06468a5325473f5d1eb5608361839558b25f66a758",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/04392/Barboursville__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "04392",
+  "timestamp": "2026-05-25T00:17:33.692898Z",
+  "version": 1
+}

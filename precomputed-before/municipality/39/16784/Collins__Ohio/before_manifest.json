@@ -1,0 +1,16 @@
+{
+  "article": "Collins,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/16784/Collins__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c1ddd67ecd12ee1ef733802f7a7395ca7f5032cb2150070740105878af12e3f0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c1ddd67ecd12ee1ef733802f7a7395ca7f5032cb2150070740105878af12e3f0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/16784/Collins__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "16784",
+  "timestamp": "2026-05-25T00:03:56.295200Z",
+  "version": 1
+}

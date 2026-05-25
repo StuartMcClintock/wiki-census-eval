@@ -1,0 +1,16 @@
+{
+  "article": "Grimes,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/31288/Grimes__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3028e3700d4a02d6571c6bd8d199ccdae54adb4217cb39f69e5c823e1b075db3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3028e3700d4a02d6571c6bd8d199ccdae54adb4217cb39f69e5c823e1b075db3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/31288/Grimes__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "31288",
+  "timestamp": "2026-05-24T23:34:26.916794Z",
+  "version": 1
+}

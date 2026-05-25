@@ -1,0 +1,16 @@
+{
+  "article": "Tilden,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/48935/Tilden__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b4d2b43128e8a5ff301cf5da2851c0dba2e90aab6672189c6bfe068006b3b76f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b4d2b43128e8a5ff301cf5da2851c0dba2e90aab6672189c6bfe068006b3b76f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/48935/Tilden__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "48935",
+  "timestamp": "2026-05-24T23:57:21.110639Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Iroquois,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/37712/Iroquois__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fb331a62a39838201750572666f1e5a119c4ac146790cc5a112846c06fa21333",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fb331a62a39838201750572666f1e5a119c4ac146790cc5a112846c06fa21333",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/37712/Iroquois__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "37712",
+  "timestamp": "2026-05-24T23:38:22.848641Z",
+  "version": 1
+}

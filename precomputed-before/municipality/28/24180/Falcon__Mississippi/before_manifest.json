@@ -1,0 +1,16 @@
+{
+  "article": "Falcon,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/24180/Falcon__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c5502f313514615379906bd0e5602234a77b3185017966524613ab2e17eb95ee",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c5502f313514615379906bd0e5602234a77b3185017966524613ab2e17eb95ee",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/24180/Falcon__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "24180",
+  "timestamp": "2026-05-24T23:50:09.573323Z",
+  "version": 1
+}

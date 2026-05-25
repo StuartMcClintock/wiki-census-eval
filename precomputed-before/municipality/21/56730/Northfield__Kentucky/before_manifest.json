@@ -1,0 +1,16 @@
+{
+  "article": "Northfield,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/56730/Northfield__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1f97369b925fc1384a9a6c8425ae7fbd4cea0ad51d8eb0425be29b41a62057b4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1f97369b925fc1384a9a6c8425ae7fbd4cea0ad51d8eb0425be29b41a62057b4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/56730/Northfield__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "56730",
+  "timestamp": "2026-05-24T23:44:14.369714Z",
+  "version": 1
+}

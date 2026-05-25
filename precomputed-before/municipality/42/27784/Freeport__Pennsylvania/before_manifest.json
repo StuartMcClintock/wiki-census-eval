@@ -1,0 +1,16 @@
+{
+  "article": "Freeport,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/27784/Freeport__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "02db10b680dea0f67ddc6603a63d195d7097982d0a8b82f54e8037b919f44b37",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "02db10b680dea0f67ddc6603a63d195d7097982d0a8b82f54e8037b919f44b37",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/27784/Freeport__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "27784",
+  "timestamp": "2026-05-25T00:07:12.710494Z",
+  "version": 1
+}

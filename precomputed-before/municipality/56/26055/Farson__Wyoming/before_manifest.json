@@ -1,0 +1,16 @@
+{
+  "article": "Farson,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/26055/Farson__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7efb3319867e28e9f1b7c6cc7b86f716469daebc524b21d189a05f2827b14def",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7efb3319867e28e9f1b7c6cc7b86f716469daebc524b21d189a05f2827b14def",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/26055/Farson__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "26055",
+  "timestamp": "2026-05-25T00:23:13.320505Z",
+  "version": 1
+}

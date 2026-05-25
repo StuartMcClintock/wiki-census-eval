@@ -1,0 +1,16 @@
+{
+  "article": "Nicholson,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/54400/Nicholson__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7703a42563c03c6ae3ac65d6bf2f61242ad3f476e5614f79aaca7e5372f0af80",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7703a42563c03c6ae3ac65d6bf2f61242ad3f476e5614f79aaca7e5372f0af80",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/54400/Nicholson__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "54400",
+  "timestamp": "2026-05-25T00:08:19.046280Z",
+  "version": 1
+}

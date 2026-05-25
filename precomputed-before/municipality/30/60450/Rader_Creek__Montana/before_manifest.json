@@ -1,0 +1,16 @@
+{
+  "article": "Rader_Creek,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/60450/Rader_Creek__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ec3e87f4e1cb9bb690ba0b6661f094dfc057efa6abbb7d50c5546a21b5cf3074",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ec3e87f4e1cb9bb690ba0b6661f094dfc057efa6abbb7d50c5546a21b5cf3074",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/60450/Rader_Creek__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "60450",
+  "timestamp": "2026-05-24T23:54:44.717153Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Theresa,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/79375/Theresa__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c6d8f86fbd87efda0a0a413b5ada87bd94a53882de34f65ca2c916e03cbd35dc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c6d8f86fbd87efda0a0a413b5ada87bd94a53882de34f65ca2c916e03cbd35dc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/79375/Theresa__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "79375",
+  "timestamp": "2026-05-25T00:22:46.604128Z",
+  "version": 1
+}

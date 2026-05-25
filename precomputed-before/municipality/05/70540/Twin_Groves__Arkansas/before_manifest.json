@@ -1,0 +1,16 @@
+{
+  "article": "Twin_Groves,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/70540/Twin_Groves__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4254ab23a46fdfdb2cb525664ca9e52e59d18df54e6fa1017709169cef374f7c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4254ab23a46fdfdb2cb525664ca9e52e59d18df54e6fa1017709169cef374f7c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/70540/Twin_Groves__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "70540",
+  "timestamp": "2026-05-24T23:34:11.719015Z",
+  "version": 1
+}

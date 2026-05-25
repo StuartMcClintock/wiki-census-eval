@@ -1,0 +1,50 @@
+==Demographics==
+{{US Census population
+| 1940 = 197
+| 1950 = 266
+| 1960 = 307
+| 1970 = 374
+| 1980 = 671
+| 1990 = 672
+| 2000 = 658
+| 2010 = 682
+| 2020 = 641
+| footnote = U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|access-date=June 4, 2015}}</ref>
+}}
+
+{| class="wikitable"
+|+'''Westover Hills racial composition as of 2020'''<ref>{{cite web |title=Explore Census Data |url=https://data.census.gov/cedsci/table?g=1600000US4877788&tid=DECENNIALPL2020.P2 |access-date=May 22, 2022 |website=data.census.gov}}</ref><br> (NH = Non-Hispanic){{efn|Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos can be of any race.<ref>{{Cite web|url=https://www.census.gov/en.html|title=Census.gov|publisher=US Census Bureau}}</ref><ref>{{cite web |title=About the Hispanic Population and its Origin |url=https://www.census.gov/topics/population/hispanic-origin/about.html |website=www.census.gov |access-date=May 18, 2022}}</ref>}}
+!Race
+!Number
+!Percentage
+|-
+|[[Non-Hispanic or Latino whites|White]] (NH)
+|601
+|93.76%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] (NH)
+|1
+|0.16%
+|-
+|[[Asian Americans|Asian]] (NH)
+|9
+|1.4%
+|-
+|Some other race (NH)
+|4
+|0.62%
+|-
+|[[Multiracial Americans|Mixed/multi-racial]] (NH)
+|12
+|1.87%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]]
+|14
+|2.18%
+|-
+|'''Total'''
+|'''641'''
+|
+|}
+As of the [[2020 United States census]], there were 641 people, 300 households, and 247 families residing in the town.
+

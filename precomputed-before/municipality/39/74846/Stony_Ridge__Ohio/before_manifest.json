@@ -1,0 +1,16 @@
+{
+  "article": "Stony_Ridge,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/74846/Stony_Ridge__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "408bc77206d5645879781ba9b17b3b62f806b05fc529d6bbaa3bfb5b6ab9975f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "408bc77206d5645879781ba9b17b3b62f806b05fc529d6bbaa3bfb5b6ab9975f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/74846/Stony_Ridge__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "74846",
+  "timestamp": "2026-05-25T00:05:30.144076Z",
+  "version": 1
+}

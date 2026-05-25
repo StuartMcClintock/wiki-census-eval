@@ -1,0 +1,16 @@
+{
+  "article": "New_Hamburg,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/51842/New_Hamburg__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cafc626746f29a41c857903700166da7f213d6e067c79b3c14a7b97786174563",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cafc626746f29a41c857903700166da7f213d6e067c79b3c14a7b97786174563",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/51842/New_Hamburg__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "51842",
+  "timestamp": "2026-05-24T23:53:35.892128Z",
+  "version": 1
+}

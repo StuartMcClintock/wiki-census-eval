@@ -1,0 +1,16 @@
+{
+  "article": "Akron,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/00700/Akron__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "473daaacfa2cff5c5135709977ba8addd0836cf569ddb0760ccabfcb1ef329ff",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "473daaacfa2cff5c5135709977ba8addd0836cf569ddb0760ccabfcb1ef329ff",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/00700/Akron__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "00700",
+  "timestamp": "2026-05-24T23:47:40.105948Z",
+  "version": 1
+}

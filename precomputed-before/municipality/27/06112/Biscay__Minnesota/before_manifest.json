@@ -1,0 +1,16 @@
+{
+  "article": "Biscay,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/06112/Biscay__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7efa5566d33d17fec9c103d2c64151c66a8b57f6147b9928a17d72c1e6b975a1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7efa5566d33d17fec9c103d2c64151c66a8b57f6147b9928a17d72c1e6b975a1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/06112/Biscay__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "06112",
+  "timestamp": "2026-05-24T23:48:39.963460Z",
+  "version": 1
+}

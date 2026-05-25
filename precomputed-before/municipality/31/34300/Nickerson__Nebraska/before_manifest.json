@@ -1,0 +1,16 @@
+{
+  "article": "Nickerson,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/34300/Nickerson__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ad4d9d262dd4ca8c1e6640d02fa8c6d9b71dd1b7f83ea26b03e07b02bfdae744",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ad4d9d262dd4ca8c1e6640d02fa8c6d9b71dd1b7f83ea26b03e07b02bfdae744",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/34300/Nickerson__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "34300",
+  "timestamp": "2026-05-24T23:55:55.786719Z",
+  "version": 1
+}

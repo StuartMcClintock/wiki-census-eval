@@ -1,0 +1,16 @@
+{
+  "article": "River_Forest,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/64728/River_Forest__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8753955fea512e144fbe24b1cfb624b92ba27dbb6aaea5f58faf40244d8ec85f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8753955fea512e144fbe24b1cfb624b92ba27dbb6aaea5f58faf40244d8ec85f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/64728/River_Forest__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "64728",
+  "timestamp": "2026-05-24T23:40:10.016684Z",
+  "version": 1
+}

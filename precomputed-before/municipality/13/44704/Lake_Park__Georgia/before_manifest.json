@@ -1,0 +1,16 @@
+{
+  "article": "Lake_Park,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/44704/Lake_Park__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7e20406e1fb107b4ee0f3af484e5c2f2cdd5b1d7c097ac78d97d84cdb8bbe5d3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7e20406e1fb107b4ee0f3af484e5c2f2cdd5b1d7c097ac78d97d84cdb8bbe5d3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/44704/Lake_Park__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "44704",
+  "timestamp": "2026-05-24T23:36:52.674987Z",
+  "version": 1
+}

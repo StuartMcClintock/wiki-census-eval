@@ -1,0 +1,16 @@
+{
+  "article": "Staatsburg,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/70552/Staatsburg__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5ec82718c27b9f7222144c50987bb00f6607e9fff80cccaf1f52aa8b22b60455",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5ec82718c27b9f7222144c50987bb00f6607e9fff80cccaf1f52aa8b22b60455",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/70552/Staatsburg__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "70552",
+  "timestamp": "2026-05-25T00:01:17.802290Z",
+  "version": 1
+}

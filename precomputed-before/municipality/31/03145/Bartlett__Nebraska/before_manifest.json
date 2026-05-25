@@ -1,0 +1,16 @@
+{
+  "article": "Bartlett,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/03145/Bartlett__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "654088e8445c5cc1696a61ca446dc3e00059bb3e64f2fccfb00a6e26c76fe4b8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "654088e8445c5cc1696a61ca446dc3e00059bb3e64f2fccfb00a6e26c76fe4b8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/03145/Bartlett__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "03145",
+  "timestamp": "2026-05-24T23:55:10.157264Z",
+  "version": 1
+}

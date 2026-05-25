@@ -1,0 +1,16 @@
+{
+  "article": "Mackinaw_City,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/50320/Mackinaw_City__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dd0bac4bbad9eb2c7b8e568af5cd2632a2f8312c5f0bcb903d2d192c06697136",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dd0bac4bbad9eb2c7b8e568af5cd2632a2f8312c5f0bcb903d2d192c06697136",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/50320/Mackinaw_City__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "50320",
+  "timestamp": "2026-05-24T23:48:04.286309Z",
+  "version": 1
+}

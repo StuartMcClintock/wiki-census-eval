@@ -1,0 +1,16 @@
+{
+  "article": "LeRoy,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/39650/LeRoy__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cb3a41bb51af3928aacc7bb86c8132dc3aec6ebe76205b9b190e7be29d33b8fe",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cb3a41bb51af3928aacc7bb86c8132dc3aec6ebe76205b9b190e7be29d33b8fe",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/39650/LeRoy__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "39650",
+  "timestamp": "2026-05-24T23:43:02.591780Z",
+  "version": 1
+}

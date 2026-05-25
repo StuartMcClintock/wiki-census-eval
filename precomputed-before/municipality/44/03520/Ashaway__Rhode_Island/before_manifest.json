@@ -1,0 +1,16 @@
+{
+  "article": "Ashaway,_Rhode_Island",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/44/03520/Ashaway__Rhode_Island/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0e46eb552ab61f6383478a60cc8710b8af035713866fc6a2610924089d30e2ab",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0e46eb552ab61f6383478a60cc8710b8af035713866fc6a2610924089d30e2ab",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/44/03520/Ashaway__Rhode_Island/manifest.json",
+  "state_fips": "44",
+  "status": "match",
+  "target_fips": "03520",
+  "timestamp": "2026-05-25T00:09:35.874532Z",
+  "version": 1
+}

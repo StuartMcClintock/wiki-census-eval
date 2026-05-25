@@ -1,0 +1,16 @@
+{
+  "article": "Gramling,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/30220/Gramling__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d382de3d2376e6c4cb4239d0dd5868affa608ddd91c5116b5418eb4962b17531",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d382de3d2376e6c4cb4239d0dd5868affa608ddd91c5116b5418eb4962b17531",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/30220/Gramling__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "30220",
+  "timestamp": "2026-05-25T00:10:04.931609Z",
+  "version": 1
+}

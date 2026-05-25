@@ -1,0 +1,16 @@
+{
+  "article": "Winnetoon,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/53345/Winnetoon__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8f0189046bf8222633d45ce23384364e59ce97c6c1cfaf6c65b0dcbf153b1b7c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8f0189046bf8222633d45ce23384364e59ce97c6c1cfaf6c65b0dcbf153b1b7c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/53345/Winnetoon__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "53345",
+  "timestamp": "2026-05-24T23:57:25.659618Z",
+  "version": 1
+}

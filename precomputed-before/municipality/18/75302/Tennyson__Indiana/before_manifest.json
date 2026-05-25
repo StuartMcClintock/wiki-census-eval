@@ -1,0 +1,16 @@
+{
+  "article": "Tennyson,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/75302/Tennyson__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "136edc539be298f6684ece8a83a646fc18024ab7485008e02ec64bc017f76b3f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "136edc539be298f6684ece8a83a646fc18024ab7485008e02ec64bc017f76b3f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/75302/Tennyson__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "75302",
+  "timestamp": "2026-05-24T23:40:16.131502Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Maribel,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/49250/Maribel__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ad624aad0561509f1711ab7cac8943b41e39bd8a0b1d144f7ab057c1262cb4cb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ad624aad0561509f1711ab7cac8943b41e39bd8a0b1d144f7ab057c1262cb4cb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/49250/Maribel__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "49250",
+  "timestamp": "2026-05-25T00:22:23.244144Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Pearl_City,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/58369/Pearl_City__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b9eac430cd9a168c525238ddbbca6ef803c1965138e3bcd41da7891208fedc7b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b9eac430cd9a168c525238ddbbca6ef803c1965138e3bcd41da7891208fedc7b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/58369/Pearl_City__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "58369",
+  "timestamp": "2026-05-24T23:39:01.514976Z",
+  "version": 1
+}

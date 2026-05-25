@@ -1,0 +1,16 @@
+{
+  "article": "Milton,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/52200/Milton__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3ad11a56ca44418e45410b351c62bb5aa5fead8f7a6fa484fcbd7e66ce898daa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3ad11a56ca44418e45410b351c62bb5aa5fead8f7a6fa484fcbd7e66ce898daa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/52200/Milton__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "52200",
+  "timestamp": "2026-05-25T00:22:25.417458Z",
+  "version": 1
+}

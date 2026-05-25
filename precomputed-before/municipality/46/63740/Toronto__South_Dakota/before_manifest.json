@@ -1,0 +1,16 @@
+{
+  "article": "Toronto,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/63740/Toronto__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "354d4b5fd10549d15291fc35b36d792d75840aaf7ee5e8fb1aadc75219421c7f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "354d4b5fd10549d15291fc35b36d792d75840aaf7ee5e8fb1aadc75219421c7f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/63740/Toronto__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "63740",
+  "timestamp": "2026-05-25T00:14:25.684593Z",
+  "version": 1
+}

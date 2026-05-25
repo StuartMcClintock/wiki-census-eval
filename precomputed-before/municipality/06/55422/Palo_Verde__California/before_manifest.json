@@ -1,0 +1,16 @@
+{
+  "article": "Palo_Verde,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/55422/Palo_Verde__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1703896db2fd485b6ec8e6a803d790c4efecb8f4cd1e20896454eb55c257fe82",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1703896db2fd485b6ec8e6a803d790c4efecb8f4cd1e20896454eb55c257fe82",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/55422/Palo_Verde__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "55422",
+  "timestamp": "2026-05-24T23:34:45.037446Z",
+  "version": 1
+}

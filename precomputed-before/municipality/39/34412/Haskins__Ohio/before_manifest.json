@@ -1,0 +1,16 @@
+{
+  "article": "Haskins,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/34412/Haskins__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ea1a2704450900567ee5766cc9bb9a7949788a9ae03fed0ae9846d45619d2ca8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ea1a2704450900567ee5766cc9bb9a7949788a9ae03fed0ae9846d45619d2ca8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/34412/Haskins__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "34412",
+  "timestamp": "2026-05-25T00:04:16.561389Z",
+  "version": 1
+}

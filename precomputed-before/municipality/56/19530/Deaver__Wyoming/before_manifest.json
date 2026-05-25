@@ -1,0 +1,16 @@
+{
+  "article": "Deaver,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/19530/Deaver__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3a5d7ef4fcd091b45a8c41188ba016ba730e02bdbe95afdb624b9434e2b66ecd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3a5d7ef4fcd091b45a8c41188ba016ba730e02bdbe95afdb624b9434e2b66ecd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/19530/Deaver__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "19530",
+  "timestamp": "2026-05-25T00:23:11.652646Z",
+  "version": 1
+}

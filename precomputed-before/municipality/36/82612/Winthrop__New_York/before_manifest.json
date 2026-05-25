@@ -1,0 +1,16 @@
+{
+  "article": "Winthrop,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/82612/Winthrop__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ad4081fe7c19cd0ff3a10294d6608afd970e404b402583d9ea54c3672ba8634b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ad4081fe7c19cd0ff3a10294d6608afd970e404b402583d9ea54c3672ba8634b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/82612/Winthrop__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "82612",
+  "timestamp": "2026-05-25T00:01:38.667670Z",
+  "version": 1
+}

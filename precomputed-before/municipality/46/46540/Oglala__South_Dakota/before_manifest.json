@@ -1,0 +1,16 @@
+{
+  "article": "Oglala,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/46540/Oglala__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "07659f7760cdf1b15fe3424d72575970ea5810df69efe68db443b46d31f5bde3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "07659f7760cdf1b15fe3424d72575970ea5810df69efe68db443b46d31f5bde3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/46540/Oglala__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "46540",
+  "timestamp": "2026-05-25T00:11:06.458586Z",
+  "version": 1
+}

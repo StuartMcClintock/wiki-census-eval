@@ -1,0 +1,16 @@
+{
+  "article": "Roebuck,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/61720/Roebuck__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6b44ed424cb3cee6355cd15dce2e289353f9ba2e85b78c0675881c9f49cf5ef4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6b44ed424cb3cee6355cd15dce2e289353f9ba2e85b78c0675881c9f49cf5ef4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/61720/Roebuck__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "61720",
+  "timestamp": "2026-05-25T00:10:19.663972Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Pe\u00f1asco,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/55900/Pe_asco__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1cad7965ae21114e4d1863a2e841daa3429611abf3fdd2bfdf2077cdb436f745",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1cad7965ae21114e4d1863a2e841daa3429611abf3fdd2bfdf2077cdb436f745",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/55900/Pe_asco__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "55900",
+  "timestamp": "2026-05-24T23:58:46.848462Z",
+  "version": 1
+}

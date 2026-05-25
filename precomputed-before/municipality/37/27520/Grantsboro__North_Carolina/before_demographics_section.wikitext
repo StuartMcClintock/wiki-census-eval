@@ -1,0 +1,43 @@
+==Demographics==
+{{US Census population
+|2010= 688
+|2020= 692
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/prod/www/decennial.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2015|url-status=dead|archiveurl=https://web.archive.org/web/20150507121432/http://www.census.gov/prod/www/decennial.html|archivedate=May 7, 2015}}</ref>
+}}
+
+===2020 census===
+{| class="wikitable" style="text-align:right"
+|+Grantsboro racial composition<ref>{{Cite web|title=Explore Census Data|url=https://data.census.gov/cedsci/table?g=1600000US3727520&tid=DECENNIALPL2020.P2|access-date=2021-12-23|website=data.census.gov}}</ref>
+!scope="col"| Race
+!scope="col"| Number
+!scope="col"| Percentage
+|-
+!scope="row"| [[White (U.S. Census)|White]] (non-Hispanic)
+| 523
+| 75.58%
+|-
+!scope="row"| [[African American (U.S. Census)|Black or African American]] (non-Hispanic)
+| 73
+| 10.55%
+|-
+!scope="row"| [[Native American (U.S. Census)|Native American]]
+| 3
+| 0.43%
+|-
+!scope="row"| [[Asian (U.S. Census)|Asian]]
+| 2
+| 0.29%
+|-
+!scope="row"| [[Race (United States Census)|Other/Mixed]]
+| 40
+| 5.78%
+|-
+!scope="row"| [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]]
+| 51
+| 7.37%
+|}
+As of the [[2020 United States census]], there were 692 people, 247 households, and 177 families residing in the town.
+
+===2010 census===
+Grantsboro had a population of 688 in 2010.<ref>{{cite web | url = https://www.census.gov/popest/cities/tables/SUB-EST2006-04-37.csv | title = Table 4. Annual Estimates of the Population for Incorporated Places in North Carolina: April 1, 2000 to July 1, 2006 | format = [[comma-separated values|CSV]] | work = | publisher = [[United States Census Bureau]], Population Division | date = 2007-06-28 | accessdate = 2008-04-28}}</ref>
+

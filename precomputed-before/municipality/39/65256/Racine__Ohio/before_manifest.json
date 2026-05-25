@@ -1,0 +1,16 @@
+{
+  "article": "Racine,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/65256/Racine__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1189888ff035beeb9d8f49845ec300e0c7861da157725497a9074a04a2e63ea8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1189888ff035beeb9d8f49845ec300e0c7861da157725497a9074a04a2e63ea8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/65256/Racine__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "65256",
+  "timestamp": "2026-05-25T00:05:09.189233Z",
+  "version": 1
+}

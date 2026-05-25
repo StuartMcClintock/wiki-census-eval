@@ -1,0 +1,16 @@
+{
+  "article": "Allenhurst,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/00730/Allenhurst__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b4a3a63beb27bf322094c994a190fdb4692e4ac3983be4d8f72577c121e351db",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b4a3a63beb27bf322094c994a190fdb4692e4ac3983be4d8f72577c121e351db",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/00730/Allenhurst__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "00730",
+  "timestamp": "2026-05-24T23:57:38.037977Z",
+  "version": 1
+}

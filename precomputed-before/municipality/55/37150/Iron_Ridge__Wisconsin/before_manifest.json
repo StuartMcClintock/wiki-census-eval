@@ -1,0 +1,16 @@
+{
+  "article": "Iron_Ridge,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/37150/Iron_Ridge__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c87f23c751178e2096ee77bb9d0883d0abdf63e9e5c23060c44ed1141ab9b8d2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c87f23c751178e2096ee77bb9d0883d0abdf63e9e5c23060c44ed1141ab9b8d2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/37150/Iron_Ridge__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "37150",
+  "timestamp": "2026-05-25T00:22:14.357842Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Burdick,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/09300/Burdick__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c8e916ed5b0750f0e2d29126135fc9bd4b879837c5dc348b77e3278d8ccfd15f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c8e916ed5b0750f0e2d29126135fc9bd4b879837c5dc348b77e3278d8ccfd15f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/09300/Burdick__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "09300",
+  "timestamp": "2026-05-24T23:42:24.469101Z",
+  "version": 1
+}

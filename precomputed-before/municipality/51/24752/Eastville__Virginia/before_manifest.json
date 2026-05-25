@@ -1,0 +1,16 @@
+{
+  "article": "Eastville,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/24752/Eastville__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "707ec033eb88a858aae58c99828e4f8da3e185099773cdf7f4d9ba7d5b3b0bc0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "707ec033eb88a858aae58c99828e4f8da3e185099773cdf7f4d9ba7d5b3b0bc0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/24752/Eastville__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "24752",
+  "timestamp": "2026-05-25T00:19:11.132553Z",
+  "version": 1
+}

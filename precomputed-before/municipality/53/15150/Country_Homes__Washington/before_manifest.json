@@ -1,0 +1,16 @@
+{
+  "article": "Country_Homes,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/15150/Country_Homes__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "959b83f73f9acfe80c120b64b9b70c34ac03cada2600d65790604a156d4d6da7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "959b83f73f9acfe80c120b64b9b70c34ac03cada2600d65790604a156d4d6da7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/15150/Country_Homes__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "15150",
+  "timestamp": "2026-05-25T00:20:08.227827Z",
+  "version": 1
+}

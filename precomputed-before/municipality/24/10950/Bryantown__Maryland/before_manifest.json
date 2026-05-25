@@ -1,0 +1,16 @@
+{
+  "article": "Bryantown,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/10950/Bryantown__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5d4877d796702a8b7cbdd4b4f56b8dfe9d00c13b98a0219a6a6ae5a2548e69a6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5d4877d796702a8b7cbdd4b4f56b8dfe9d00c13b98a0219a6a6ae5a2548e69a6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/10950/Bryantown__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "10950",
+  "timestamp": "2026-05-24T23:47:15.565550Z",
+  "version": 1
+}

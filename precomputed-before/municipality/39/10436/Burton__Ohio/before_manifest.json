@@ -1,0 +1,16 @@
+{
+  "article": "Burton,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/10436/Burton__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ffe11844fa7f60dc11ee7cea396b0b91cf7c14b23f931326f293989dbb7a058d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ffe11844fa7f60dc11ee7cea396b0b91cf7c14b23f931326f293989dbb7a058d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/10436/Burton__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "10436",
+  "timestamp": "2026-05-25T00:03:51.088581Z",
+  "version": 1
+}

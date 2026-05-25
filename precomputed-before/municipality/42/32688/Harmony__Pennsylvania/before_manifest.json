@@ -1,0 +1,16 @@
+{
+  "article": "Harmony,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/32688/Harmony__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7c5765e0c3a59bd546abe35ea0d42defbfc520cd0788c0025757ca437ac7a90a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7c5765e0c3a59bd546abe35ea0d42defbfc520cd0788c0025757ca437ac7a90a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/32688/Harmony__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "32688",
+  "timestamp": "2026-05-25T00:07:22.202259Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Wauzeka,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/84725/Wauzeka__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ad278a49c763261803ab8e3e242fde21712f6e74bae0fd6d8284c480763c50b2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ad278a49c763261803ab8e3e242fde21712f6e74bae0fd6d8284c480763c50b2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/84725/Wauzeka__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "84725",
+  "timestamp": "2026-05-25T00:23:02.542243Z",
+  "version": 1
+}

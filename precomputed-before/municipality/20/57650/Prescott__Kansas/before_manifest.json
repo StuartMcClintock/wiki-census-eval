@@ -1,0 +1,16 @@
+{
+  "article": "Prescott,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/57650/Prescott__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c9c57cea163fa185f6361afc7041bf329e80a5d911ae382a11f7385fafc45494",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c9c57cea163fa185f6361afc7041bf329e80a5d911ae382a11f7385fafc45494",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/57650/Prescott__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "57650",
+  "timestamp": "2026-05-24T23:43:21.779900Z",
+  "version": 1
+}

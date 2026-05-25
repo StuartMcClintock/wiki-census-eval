@@ -1,0 +1,16 @@
+{
+  "article": "West_Union,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/86116/West_Union__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3a006934b646987c063601499ba1889124d2b1d5a1a8cb8ca4934d3bbba7b74a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3a006934b646987c063601499ba1889124d2b1d5a1a8cb8ca4934d3bbba7b74a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/86116/West_Union__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "86116",
+  "timestamp": "2026-05-25T00:21:29.582146Z",
+  "version": 1
+}

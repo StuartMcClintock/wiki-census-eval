@@ -1,0 +1,16 @@
+{
+  "article": "Beulah_Valley,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/06602/Beulah_Valley__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8acadd4908ec3f068db0f8980c7e02557d770e3944a96a7b522ef65dde5779a9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8acadd4908ec3f068db0f8980c7e02557d770e3944a96a7b522ef65dde5779a9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/06602/Beulah_Valley__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "06602",
+  "timestamp": "2026-05-24T23:35:18.641542Z",
+  "version": 1
+}

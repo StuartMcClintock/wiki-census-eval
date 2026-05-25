@@ -1,0 +1,16 @@
+{
+  "article": "Mount_Erie,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/50933/Mount_Erie__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0341dbf36f8459e855016638059a005c3237cbeec47c346e8af29fe923f18335",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0341dbf36f8459e855016638059a005c3237cbeec47c346e8af29fe923f18335",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/50933/Mount_Erie__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "50933",
+  "timestamp": "2026-05-24T23:38:37.627019Z",
+  "version": 1
+}

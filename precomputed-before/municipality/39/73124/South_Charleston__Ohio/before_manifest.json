@@ -1,0 +1,16 @@
+{
+  "article": "South_Charleston,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/73124/South_Charleston__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0d839f81ca84c1b6be4485ddf0b8a32d550e1ff09d280666f33512ab6560d684",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0d839f81ca84c1b6be4485ddf0b8a32d550e1ff09d280666f33512ab6560d684",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/73124/South_Charleston__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "73124",
+  "timestamp": "2026-05-25T00:05:28.248470Z",
+  "version": 1
+}

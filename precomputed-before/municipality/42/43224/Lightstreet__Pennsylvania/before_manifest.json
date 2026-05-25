@@ -1,0 +1,16 @@
+{
+  "article": "Lightstreet,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/43224/Lightstreet__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fd9d28afb27a2181895bcccbc57a694326ee8f8d21093cf336793b9c3dc1270b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fd9d28afb27a2181895bcccbc57a694326ee8f8d21093cf336793b9c3dc1270b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/43224/Lightstreet__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "43224",
+  "timestamp": "2026-05-25T00:07:51.710966Z",
+  "version": 1
+}

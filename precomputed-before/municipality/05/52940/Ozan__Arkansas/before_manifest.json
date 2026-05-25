@@ -1,0 +1,16 @@
+{
+  "article": "Ozan,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/52940/Ozan__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "98532400f220acc447028d97ea1e65897aeff9f033fde074d338b5304978ec9d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "98532400f220acc447028d97ea1e65897aeff9f033fde074d338b5304978ec9d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/52940/Ozan__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "52940",
+  "timestamp": "2026-05-24T23:34:02.149937Z",
+  "version": 1
+}

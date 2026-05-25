@@ -1,0 +1,16 @@
+{
+  "article": "Signal_Mountain,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/68540/Signal_Mountain__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3b1e4343e772ca4e11bf78df91d24fa8aac43c97229ead6f8296fc8d4e6918db",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3b1e4343e772ca4e11bf78df91d24fa8aac43c97229ead6f8296fc8d4e6918db",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/68540/Signal_Mountain__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "68540",
+  "timestamp": "2026-05-25T00:14:54.061677Z",
+  "version": 1
+}

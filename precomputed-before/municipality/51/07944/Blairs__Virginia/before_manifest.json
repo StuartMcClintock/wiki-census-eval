@@ -1,0 +1,16 @@
+{
+  "article": "Blairs,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/07944/Blairs__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9b19a0ac6187f5e75c864ac10ce1e3d5359f607b28837b11a01cbfae639fbe8d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9b19a0ac6187f5e75c864ac10ce1e3d5359f607b28837b11a01cbfae639fbe8d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/07944/Blairs__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "07944",
+  "timestamp": "2026-05-25T00:17:35.879122Z",
+  "version": 1
+}

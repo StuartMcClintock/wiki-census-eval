@@ -1,0 +1,16 @@
+{
+  "article": "Everett,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/24304/Everett__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fe8569b00fb61d317e5262695d9215aa38bd53f25982968fbdf9af3ade94b5db",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fe8569b00fb61d317e5262695d9215aa38bd53f25982968fbdf9af3ade94b5db",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/24304/Everett__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "24304",
+  "timestamp": "2026-05-25T00:07:05.756552Z",
+  "version": 1
+}

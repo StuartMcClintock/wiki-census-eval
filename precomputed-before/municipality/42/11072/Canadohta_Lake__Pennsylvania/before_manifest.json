@@ -1,0 +1,16 @@
+{
+  "article": "Canadohta_Lake,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/11072/Canadohta_Lake__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c693667db99dcf971af4087e66b14ba5ebe8968c9b59e604e7ee352db7e85aa1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c693667db99dcf971af4087e66b14ba5ebe8968c9b59e604e7ee352db7e85aa1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/11072/Canadohta_Lake__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "11072",
+  "timestamp": "2026-05-25T00:06:25.091812Z",
+  "version": 1
+}

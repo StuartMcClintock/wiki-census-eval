@@ -1,0 +1,16 @@
+{
+  "article": "Concord,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/10250/Concord__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "39ec0ebe1b2a6777ed26fb9fc55ea2e9706812db2a1313f847ee88c25513d2c1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "39ec0ebe1b2a6777ed26fb9fc55ea2e9706812db2a1313f847ee88c25513d2c1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/10250/Concord__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "10250",
+  "timestamp": "2026-05-24T23:55:19.006822Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Schuyler,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/70704/Schuyler__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "96a99928c737efed488eb5987f74f31fab70f6c213e7703dae12a7016fcd8ff4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "96a99928c737efed488eb5987f74f31fab70f6c213e7703dae12a7016fcd8ff4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/70704/Schuyler__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "70704",
+  "timestamp": "2026-05-25T00:19:36.314036Z",
+  "version": 1
+}

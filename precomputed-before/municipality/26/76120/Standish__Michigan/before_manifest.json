@@ -1,0 +1,16 @@
+{
+  "article": "Standish,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/76120/Standish__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f777cebe967fb31b08448fde1be9b17dc8b7b93802f0a9b419a786f94133147b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f777cebe967fb31b08448fde1be9b17dc8b7b93802f0a9b419a786f94133147b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/76120/Standish__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "76120",
+  "timestamp": "2026-05-24T23:48:28.869916Z",
+  "version": 1
+}

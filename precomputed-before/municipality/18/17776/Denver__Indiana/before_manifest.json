@@ -1,0 +1,16 @@
+{
+  "article": "Denver,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/17776/Denver__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d1af08918df6c5f0463f4eec11499e7ecfa9670402e03d172f0d89d8423e5bcf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d1af08918df6c5f0463f4eec11499e7ecfa9670402e03d172f0d89d8423e5bcf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/17776/Denver__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "17776",
+  "timestamp": "2026-05-24T23:39:32.533416Z",
+  "version": 1
+}

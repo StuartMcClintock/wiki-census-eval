@@ -1,0 +1,16 @@
+{
+  "article": "Colona,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/15825/Colona__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bfc044f1bfd0c3f4745dbe8352051accd1f0ef2286ff83d6dbd3f5de6130220a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bfc044f1bfd0c3f4745dbe8352051accd1f0ef2286ff83d6dbd3f5de6130220a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/15825/Colona__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "15825",
+  "timestamp": "2026-05-24T23:35:22.123294Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Villard,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/67144/Villard__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "df80dde7a7b655286973ca96ffd597ef17b4d649bb9e66ab698ddd37a16bdffb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "df80dde7a7b655286973ca96ffd597ef17b4d649bb9e66ab698ddd37a16bdffb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/67144/Villard__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "67144",
+  "timestamp": "2026-05-24T23:49:51.352662Z",
+  "version": 1
+}

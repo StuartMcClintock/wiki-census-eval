@@ -1,0 +1,16 @@
+{
+  "article": "Lewis_Run,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/42984/Lewis_Run__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "81d767a9da58b92ace6179e239522f0f094e57dae8577285a047ddb26c6f0da2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "81d767a9da58b92ace6179e239522f0f094e57dae8577285a047ddb26c6f0da2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/42984/Lewis_Run__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "42984",
+  "timestamp": "2026-05-25T00:07:51.463377Z",
+  "version": 1
+}

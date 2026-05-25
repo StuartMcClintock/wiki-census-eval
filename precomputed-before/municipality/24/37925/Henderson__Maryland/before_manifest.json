@@ -1,0 +1,16 @@
+{
+  "article": "Henderson,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/37925/Henderson__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "959baf0efc73ac819a9ed180cdbe64a40068587da1e57ccec674eb2e53500270",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "959baf0efc73ac819a9ed180cdbe64a40068587da1e57ccec674eb2e53500270",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/37925/Henderson__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "37925",
+  "timestamp": "2026-05-24T23:47:23.967026Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Stone_Creek,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/74804/Stone_Creek__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1e60b7d7e92a43a23ccece972a9fbc33d194217523a601344932a794036595fe",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1e60b7d7e92a43a23ccece972a9fbc33d194217523a601344932a794036595fe",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/74804/Stone_Creek__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "74804",
+  "timestamp": "2026-05-25T00:05:29.948241Z",
+  "version": 1
+}

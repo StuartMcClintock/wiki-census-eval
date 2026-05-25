@@ -1,0 +1,16 @@
+{
+  "article": "Gauley_Bridge,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/30364/Gauley_Bridge__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ae24ff76f60f31c1c5b55f5af706779a6f4b65197672c58282df113f1ae7eceb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ae24ff76f60f31c1c5b55f5af706779a6f4b65197672c58282df113f1ae7eceb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/30364/Gauley_Bridge__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "30364",
+  "timestamp": "2026-05-25T00:21:07.838052Z",
+  "version": 1
+}

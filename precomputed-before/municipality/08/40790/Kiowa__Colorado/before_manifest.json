@@ -1,0 +1,16 @@
+{
+  "article": "Kiowa,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/40790/Kiowa__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e0802ad6291d7ee1da3e8c2416514fe7ad6d27b71261cfd91fd0420cce6413c8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e0802ad6291d7ee1da3e8c2416514fe7ad6d27b71261cfd91fd0420cce6413c8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/40790/Kiowa__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "40790",
+  "timestamp": "2026-05-24T23:35:30.180066Z",
+  "version": 1
+}

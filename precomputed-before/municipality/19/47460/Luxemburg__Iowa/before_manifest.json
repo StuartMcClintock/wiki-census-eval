@@ -1,0 +1,16 @@
+{
+  "article": "Luxemburg,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/47460/Luxemburg__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f5ecf4ec67566229455e034cfa98f14c14394421bb476c85b0205b8008d0e13f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f5ecf4ec67566229455e034cfa98f14c14394421bb476c85b0205b8008d0e13f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/47460/Luxemburg__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "47460",
+  "timestamp": "2026-05-24T23:41:23.080243Z",
+  "version": 1
+}

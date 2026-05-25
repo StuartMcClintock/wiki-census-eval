@@ -1,0 +1,16 @@
+{
+  "article": "Lake_Marcel-Stillwater,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/37538/Lake_Marcel-Stillwater__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "097f9bb3c2c00d761db703e1aee87204b626e61e41a52c28d1c16b9385908876",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "097f9bb3c2c00d761db703e1aee87204b626e61e41a52c28d1c16b9385908876",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/37538/Lake_Marcel-Stillwater__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "37538",
+  "timestamp": "2026-05-25T00:20:18.831963Z",
+  "version": 1
+}

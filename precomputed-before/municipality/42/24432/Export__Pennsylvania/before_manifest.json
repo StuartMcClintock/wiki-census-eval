@@ -1,0 +1,16 @@
+{
+  "article": "Export,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/24432/Export__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fe5d8fb27d059bc0ec28693f793a4c4c8f74602fda5a839c7f551cb0a197af1b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fe5d8fb27d059bc0ec28693f793a4c4c8f74602fda5a839c7f551cb0a197af1b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/24432/Export__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "24432",
+  "timestamp": "2026-05-25T00:07:06.178661Z",
+  "version": 1
+}

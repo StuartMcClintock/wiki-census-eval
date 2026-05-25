@@ -1,0 +1,16 @@
+{
+  "article": "Mokelumne_Hill,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/48480/Mokelumne_Hill__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b26ed035eba841797c3b733455bd85976ea012b93097b48dcee5bcf38f8f2ecc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b26ed035eba841797c3b733455bd85976ea012b93097b48dcee5bcf38f8f2ecc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/48480/Mokelumne_Hill__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "48480",
+  "timestamp": "2026-05-24T23:34:40.065287Z",
+  "version": 1
+}

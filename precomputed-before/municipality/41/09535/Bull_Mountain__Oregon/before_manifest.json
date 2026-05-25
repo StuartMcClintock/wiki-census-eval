@@ -1,0 +1,16 @@
+{
+  "article": "Bull_Mountain,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/09535/Bull_Mountain__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e0194539107f33d5884a5ac01bcb5e50375fd6a8ed5508d34afa48e44533922c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e0194539107f33d5884a5ac01bcb5e50375fd6a8ed5508d34afa48e44533922c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/09535/Bull_Mountain__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "09535",
+  "timestamp": "2026-05-25T00:05:44.271501Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Green_Grass,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/25900/Green_Grass__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0c9d90a3ab820bd57298cb0f2d2e735d3e588ad4bd8c2975fac0fe35604e8877",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0c9d90a3ab820bd57298cb0f2d2e735d3e588ad4bd8c2975fac0fe35604e8877",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/25900/Green_Grass__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "25900",
+  "timestamp": "2026-05-25T00:10:40.397343Z",
+  "version": 1
+}

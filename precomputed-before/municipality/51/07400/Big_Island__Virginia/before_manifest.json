@@ -1,0 +1,16 @@
+{
+  "article": "Big_Island,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/07400/Big_Island__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5f2a44020bbfac7cfbe98ae76e07123993adc192a69a0c8c0a62406fd1b16957",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5f2a44020bbfac7cfbe98ae76e07123993adc192a69a0c8c0a62406fd1b16957",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/07400/Big_Island__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "07400",
+  "timestamp": "2026-05-25T00:17:35.401992Z",
+  "version": 1
+}

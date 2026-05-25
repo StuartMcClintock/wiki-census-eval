@@ -1,0 +1,16 @@
+{
+  "article": "Ranshaw,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/63416/Ranshaw__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5e0b00b73295aa9c4ae9bff0a36e89320adb55e6c83fd13a5ae9b45c58937f62",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5e0b00b73295aa9c4ae9bff0a36e89320adb55e6c83fd13a5ae9b45c58937f62",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/63416/Ranshaw__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "63416",
+  "timestamp": "2026-05-25T00:08:35.499472Z",
+  "version": 1
+}

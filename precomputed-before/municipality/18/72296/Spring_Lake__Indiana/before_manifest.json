@@ -1,0 +1,16 @@
+{
+  "article": "Spring_Lake,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/72296/Spring_Lake__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b4dfa892e1d5caf0e044fe1cb06f1cb54b33481094d9363c2ff9e2c047fc9978",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b4dfa892e1d5caf0e044fe1cb06f1cb54b33481094d9363c2ff9e2c047fc9978",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/72296/Spring_Lake__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "72296",
+  "timestamp": "2026-05-24T23:40:13.997065Z",
+  "version": 1
+}

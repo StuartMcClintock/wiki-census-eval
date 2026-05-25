@@ -1,0 +1,16 @@
+{
+  "article": "Barnes_Lake,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/05466/Barnes_Lake__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0f068e0bc6d9360343c89417ae5fff1b39e6e3d8dd78c0ac5c278de1309d4512",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0f068e0bc6d9360343c89417ae5fff1b39e6e3d8dd78c0ac5c278de1309d4512",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/05466/Barnes_Lake__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "05466",
+  "timestamp": "2026-05-24T23:47:42.199155Z",
+  "version": 1
+}

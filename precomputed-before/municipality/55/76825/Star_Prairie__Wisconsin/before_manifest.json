@@ -1,0 +1,16 @@
+{
+  "article": "Star_Prairie,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/76825/Star_Prairie__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b2b65240dfdfbde6ce0b0fa6f6faadaca9898a77ab13251801ab6b64638349a5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b2b65240dfdfbde6ce0b0fa6f6faadaca9898a77ab13251801ab6b64638349a5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/76825/Star_Prairie__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "76825",
+  "timestamp": "2026-05-25T00:22:44.815745Z",
+  "version": 1
+}

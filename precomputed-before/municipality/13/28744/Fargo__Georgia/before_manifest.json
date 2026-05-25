@@ -1,0 +1,16 @@
+{
+  "article": "Fargo,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/28744/Fargo__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "21b58a92139eeb6b4d0feff0a0c62bca36fd63f2a2027b92bedc5b5df51b62ef",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "21b58a92139eeb6b4d0feff0a0c62bca36fd63f2a2027b92bedc5b5df51b62ef",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/28744/Fargo__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "28744",
+  "timestamp": "2026-05-24T23:36:36.665330Z",
+  "version": 1
+}

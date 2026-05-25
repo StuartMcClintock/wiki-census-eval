@@ -1,0 +1,16 @@
+{
+  "article": "Glenfield,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/29592/Glenfield__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "48df707f7327bcb8534d1daac90392d71f795a3133251c02b9d408db54e58e98",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "48df707f7327bcb8534d1daac90392d71f795a3133251c02b9d408db54e58e98",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/29592/Glenfield__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "29592",
+  "timestamp": "2026-05-25T00:07:16.594654Z",
+  "version": 1
+}

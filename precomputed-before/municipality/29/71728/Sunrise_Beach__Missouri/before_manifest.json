@@ -1,0 +1,16 @@
+{
+  "article": "Sunrise_Beach,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/71728/Sunrise_Beach__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2f8c4af9eb2173c3c3e0e7af95c09d02e886ef236211e7239478ad35f0dd4f2e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2f8c4af9eb2173c3c3e0e7af95c09d02e886ef236211e7239478ad35f0dd4f2e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/71728/Sunrise_Beach__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "71728",
+  "timestamp": "2026-05-24T23:53:52.256575Z",
+  "version": 1
+}

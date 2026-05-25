@@ -1,0 +1,16 @@
+{
+  "article": "Bowbells,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/08500/Bowbells__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "20f6f6e39b41cf54e0959301800a2137315148369780e79bd86511a2eaf8cd88",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "20f6f6e39b41cf54e0959301800a2137315148369780e79bd86511a2eaf8cd88",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/08500/Bowbells__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "08500",
+  "timestamp": "2026-05-25T00:02:35.352496Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Linndale,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/43918/Linndale__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2edd3056f1a5e3d15b7f9f4c0b251a5cc299f00f53e771548e12df6f1a336ba7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2edd3056f1a5e3d15b7f9f4c0b251a5cc299f00f53e771548e12df6f1a336ba7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/43918/Linndale__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "43918",
+  "timestamp": "2026-05-25T00:04:38.560746Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Hamler,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/33096/Hamler__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bb959e720d28c7b93ff88a156dd67c8fa356d87794607a5d99d242abd3b79ef4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bb959e720d28c7b93ff88a156dd67c8fa356d87794607a5d99d242abd3b79ef4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/33096/Hamler__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "33096",
+  "timestamp": "2026-05-25T00:04:15.297676Z",
+  "version": 1
+}

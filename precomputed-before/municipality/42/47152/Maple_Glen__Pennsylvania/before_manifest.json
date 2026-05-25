@@ -1,0 +1,16 @@
+{
+  "article": "Maple_Glen,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/47152/Maple_Glen__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d4ec8f565eab4a0d62e70251b9c43cd9269dc9b74506bedf647068d7b24db017",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d4ec8f565eab4a0d62e70251b9c43cd9269dc9b74506bedf647068d7b24db017",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/47152/Maple_Glen__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "47152",
+  "timestamp": "2026-05-25T00:07:57.832592Z",
+  "version": 1
+}

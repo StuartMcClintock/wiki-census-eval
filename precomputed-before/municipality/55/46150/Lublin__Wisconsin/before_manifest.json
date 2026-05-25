@@ -1,0 +1,16 @@
+{
+  "article": "Lublin,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/46150/Lublin__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3595db6aeb22bcc5d1762d99013f6e29d7da33cea49519ac2d169f93cadcc6d3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3595db6aeb22bcc5d1762d99013f6e29d7da33cea49519ac2d169f93cadcc6d3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/46150/Lublin__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "46150",
+  "timestamp": "2026-05-25T00:22:21.892199Z",
+  "version": 1
+}

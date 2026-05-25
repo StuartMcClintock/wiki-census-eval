@@ -1,0 +1,16 @@
+{
+  "article": "Woodcock,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/86160/Woodcock__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "df9b8e53c493ac54b1ff7327a6acb882951443fe4ccd3490ca7d2821e44d46b7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "df9b8e53c493ac54b1ff7327a6acb882951443fe4ccd3490ca7d2821e44d46b7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/86160/Woodcock__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "86160",
+  "timestamp": "2026-05-25T00:09:32.774739Z",
+  "version": 1
+}

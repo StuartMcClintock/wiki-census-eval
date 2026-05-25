@@ -1,0 +1,16 @@
+{
+  "article": "Moscow,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/48600/Moscow__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7926b5f793c7ee99a15cbd09b4afbb9047567f50d345e8c0f2a981719c29c177",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7926b5f793c7ee99a15cbd09b4afbb9047567f50d345e8c0f2a981719c29c177",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/48600/Moscow__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "48600",
+  "timestamp": "2026-05-24T23:43:11.167795Z",
+  "version": 1
+}

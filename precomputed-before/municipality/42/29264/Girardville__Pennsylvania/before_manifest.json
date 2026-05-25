@@ -1,0 +1,16 @@
+{
+  "article": "Girardville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/29264/Girardville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "01919e4a72a1f633089b9b7d699b670ee4e6d610edc586a94a2cdf5bf882f445",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "01919e4a72a1f633089b9b7d699b670ee4e6d610edc586a94a2cdf5bf882f445",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/29264/Girardville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "29264",
+  "timestamp": "2026-05-25T00:07:15.944378Z",
+  "version": 1
+}

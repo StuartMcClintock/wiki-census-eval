@@ -1,0 +1,16 @@
+{
+  "article": "Urich,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/75346/Urich__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8649319030053a885151fe4ff6947409f33f6b89355b0d9d9b444628ae885a4b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8649319030053a885151fe4ff6947409f33f6b89355b0d9d9b444628ae885a4b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/75346/Urich__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "75346",
+  "timestamp": "2026-05-24T23:53:55.073727Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Lincoln,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/43675/Lincoln__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d4ca54a4001db34bd209a0b5c0dc02b0b94b9328065153164c70a723e52e4e8a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d4ca54a4001db34bd209a0b5c0dc02b0b94b9328065153164c70a723e52e4e8a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/43675/Lincoln__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "43675",
+  "timestamp": "2026-05-24T23:54:35.243180Z",
+  "version": 1
+}

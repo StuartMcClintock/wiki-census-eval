@@ -1,0 +1,16 @@
+{
+  "article": "Mason,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/47449/Mason__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b72bda8d2f50aff4377dd9ac04fb8d90867eddb2ea629ae44ad76cc94ae0a81e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b72bda8d2f50aff4377dd9ac04fb8d90867eddb2ea629ae44ad76cc94ae0a81e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/47449/Mason__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "47449",
+  "timestamp": "2026-05-24T23:38:33.889945Z",
+  "version": 1
+}

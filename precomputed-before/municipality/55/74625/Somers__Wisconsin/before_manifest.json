@@ -1,0 +1,16 @@
+{
+  "article": "Somers,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/74625/Somers__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d3736a0f4b416a0327266b15ede9e530744461ac9dd862220ebf309103ef8d28",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d3736a0f4b416a0327266b15ede9e530744461ac9dd862220ebf309103ef8d28",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/74625/Somers__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "74625",
+  "timestamp": "2026-05-25T00:22:43.814473Z",
+  "version": 1
+}

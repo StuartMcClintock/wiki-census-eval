@@ -1,0 +1,16 @@
+{
+  "article": "Healy,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/31200/Healy__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d7e0a11215391da56c5675752ec6f68afdaaa2dc439104458d97f8ffd8e17f36",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d7e0a11215391da56c5675752ec6f68afdaaa2dc439104458d97f8ffd8e17f36",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/31200/Healy__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "31200",
+  "timestamp": "2026-05-24T23:42:45.809932Z",
+  "version": 1
+}

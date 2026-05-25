@@ -1,0 +1,16 @@
+{
+  "article": "Cotton_City,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/18310/Cotton_City__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c157a36f94b46f9ab76ea5592ef77c0cd2289561eb2c3326d4f78171d913417f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c157a36f94b46f9ab76ea5592ef77c0cd2289561eb2c3326d4f78171d913417f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/18310/Cotton_City__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "18310",
+  "timestamp": "2026-05-24T23:58:26.899823Z",
+  "version": 1
+}

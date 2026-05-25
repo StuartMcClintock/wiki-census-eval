@@ -1,0 +1,16 @@
+{
+  "article": "Birch_Creek_Colony,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/06815/Birch_Creek_Colony__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "84e7a6efef65ed63c75c284a0c3c77b4775365033a7fe714a035c2d95a4948de",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "84e7a6efef65ed63c75c284a0c3c77b4775365033a7fe714a035c2d95a4948de",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/06815/Birch_Creek_Colony__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "06815",
+  "timestamp": "2026-05-24T23:54:15.222069Z",
+  "version": 1
+}

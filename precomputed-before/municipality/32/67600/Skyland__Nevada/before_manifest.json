@@ -1,0 +1,16 @@
+{
+  "article": "Skyland,_Nevada",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/32/67600/Skyland__Nevada/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4383089488d170df63a02720015632b1700bde3df60302ba2f3fb1c1066b2722",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4383089488d170df63a02720015632b1700bde3df60302ba2f3fb1c1066b2722",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/32/67600/Skyland__Nevada/manifest.json",
+  "state_fips": "32",
+  "status": "match",
+  "target_fips": "67600",
+  "timestamp": "2026-05-24T23:57:33.825542Z",
+  "version": 1
+}

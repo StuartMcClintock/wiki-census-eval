@@ -1,0 +1,16 @@
+{
+  "article": "Venango,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/50230/Venango__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d7e99bfb1ade34a46dc3a4a06c6aa56a059ba340a4cb14ec4b81cbe5288d473d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d7e99bfb1ade34a46dc3a4a06c6aa56a059ba340a4cb14ec4b81cbe5288d473d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/50230/Venango__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "50230",
+  "timestamp": "2026-05-24T23:57:22.408590Z",
+  "version": 1
+}

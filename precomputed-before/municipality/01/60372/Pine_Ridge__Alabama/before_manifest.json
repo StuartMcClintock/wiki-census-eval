@@ -1,0 +1,16 @@
+{
+  "article": "Pine_Ridge,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/60372/Pine_Ridge__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d619521b2134f4befb634cf6c10ddbbbad0396f9e8ee6a5fcbca70024acdd4a6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d619521b2134f4befb634cf6c10ddbbbad0396f9e8ee6a5fcbca70024acdd4a6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/60372/Pine_Ridge__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "60372",
+  "timestamp": "2026-05-24T23:32:09.142717Z",
+  "version": 1
+}

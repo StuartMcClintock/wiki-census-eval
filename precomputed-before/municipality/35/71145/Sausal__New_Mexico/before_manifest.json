@@ -1,0 +1,16 @@
+{
+  "article": "Sausal,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/71145/Sausal__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5ec970102b3df804a018adfc6b5695f6eb4d3dda9f4ad4cc2e873d300de75929",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5ec970102b3df804a018adfc6b5695f6eb4d3dda9f4ad4cc2e873d300de75929",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/71145/Sausal__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "71145",
+  "timestamp": "2026-05-24T23:58:54.419575Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Arlington_Heights,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/03008/Arlington_Heights__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "134f2d8d6716f059275fcbb657a5b7a96a2058b7ab8ff8245e513da0d00b43cc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "134f2d8d6716f059275fcbb657a5b7a96a2058b7ab8ff8245e513da0d00b43cc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/03008/Arlington_Heights__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "03008",
+  "timestamp": "2026-05-25T00:06:09.224750Z",
+  "version": 1
+}

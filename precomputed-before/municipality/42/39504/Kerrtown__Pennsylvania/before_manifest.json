@@ -1,0 +1,16 @@
+{
+  "article": "Kerrtown,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/39504/Kerrtown__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9c0bf57ec4d50eee5028dce5e630e3d2b21b99fb9dc43e24adc16dfc1e5e180b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9c0bf57ec4d50eee5028dce5e630e3d2b21b99fb9dc43e24adc16dfc1e5e180b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/39504/Kerrtown__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "39504",
+  "timestamp": "2026-05-25T00:07:44.682409Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "North_Branch,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/58080/North_Branch__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "db91cb88793e7794da0231ce9de4baccce913f86024f285abfe896e1aaf9a308",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "db91cb88793e7794da0231ce9de4baccce913f86024f285abfe896e1aaf9a308",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/58080/North_Branch__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "58080",
+  "timestamp": "2026-05-24T23:48:08.988716Z",
+  "version": 1
+}

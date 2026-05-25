@@ -1,0 +1,16 @@
+{
+  "article": "Junction_City,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/36130/Junction_City__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8f3b7f9e1c69712ad15629a6062abfb4c79356a7aff196f50c5809dc1d032da2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8f3b7f9e1c69712ad15629a6062abfb4c79356a7aff196f50c5809dc1d032da2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/36130/Junction_City__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "36130",
+  "timestamp": "2026-05-24T23:33:48.689185Z",
+  "version": 1
+}

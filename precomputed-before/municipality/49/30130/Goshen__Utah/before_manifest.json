@@ -1,0 +1,16 @@
+{
+  "article": "Goshen,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/30130/Goshen__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6004d8c6ee20ea5432d0ad3ef543a16ff4fc321b6cf0a9b140045f169cb2c40f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6004d8c6ee20ea5432d0ad3ef543a16ff4fc321b6cf0a9b140045f169cb2c40f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/30130/Goshen__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "30130",
+  "timestamp": "2026-05-25T00:17:00.937224Z",
+  "version": 1
+}

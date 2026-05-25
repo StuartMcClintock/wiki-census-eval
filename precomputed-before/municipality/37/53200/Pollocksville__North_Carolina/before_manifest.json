@@ -1,0 +1,16 @@
+{
+  "article": "Pollocksville,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/53200/Pollocksville__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "269e73ac141998c32f778ef534f12bb95465a294307a93a8dbf6e2b73797195b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "269e73ac141998c32f778ef534f12bb95465a294307a93a8dbf6e2b73797195b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/53200/Pollocksville__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "53200",
+  "timestamp": "2026-05-25T00:02:16.699989Z",
+  "version": 1
+}

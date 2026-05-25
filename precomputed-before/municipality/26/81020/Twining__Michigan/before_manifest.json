@@ -1,0 +1,16 @@
+{
+  "article": "Twining,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/81020/Twining__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fd1799d2dfbfd2e72a8680a0a9701fe1b0ff376e017d8a88281c4b30f1a4fe42",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fd1799d2dfbfd2e72a8680a0a9701fe1b0ff376e017d8a88281c4b30f1a4fe42",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/81020/Twining__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "81020",
+  "timestamp": "2026-05-24T23:48:31.028530Z",
+  "version": 1
+}

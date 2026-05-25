@@ -1,0 +1,16 @@
+{
+  "article": "Moses_Lake_North,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/47280/Moses_Lake_North__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "92f7d9260304203fe30c8a17f4a70da33b5443da2f32316c0f3e1daaebfe3850",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "92f7d9260304203fe30c8a17f4a70da33b5443da2f32316c0f3e1daaebfe3850",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/47280/Moses_Lake_North__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "47280",
+  "timestamp": "2026-05-25T00:20:24.181178Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Seminary,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/66400/Seminary__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f60cf866523f0efdbeb7bf2179c4b912c1df292cd30bc670e6f8cda7dd85508c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f60cf866523f0efdbeb7bf2179c4b912c1df292cd30bc670e6f8cda7dd85508c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/66400/Seminary__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "66400",
+  "timestamp": "2026-05-24T23:50:23.630438Z",
+  "version": 1
+}

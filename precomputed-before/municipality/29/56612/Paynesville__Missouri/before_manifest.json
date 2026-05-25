@@ -1,0 +1,16 @@
+{
+  "article": "Paynesville,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/56612/Paynesville__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aed30d90c9c43d84cef6ac9e7177c6f5a114e04c2c60c0614a4452283da1c2ee",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aed30d90c9c43d84cef6ac9e7177c6f5a114e04c2c60c0614a4452283da1c2ee",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/56612/Paynesville__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "56612",
+  "timestamp": "2026-05-24T23:53:40.669749Z",
+  "version": 1
+}

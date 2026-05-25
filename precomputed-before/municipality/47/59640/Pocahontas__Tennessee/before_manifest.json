@@ -1,0 +1,16 @@
+{
+  "article": "Pocahontas,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/59640/Pocahontas__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1e0988024db0766a0de016958adc0df276b19e8b2b558459537de03e08d92197",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1e0988024db0766a0de016958adc0df276b19e8b2b558459537de03e08d92197",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/59640/Pocahontas__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "59640",
+  "timestamp": "2026-05-25T00:14:51.395848Z",
+  "version": 1
+}

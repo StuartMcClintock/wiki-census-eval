@@ -1,0 +1,16 @@
+{
+  "article": "Pine_Valley,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/59520/Pine_Valley__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e286d1f82f6043e254e225303270fd6230d7c5f767a6ac48ad85ed92f1b32310",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e286d1f82f6043e254e225303270fd6230d7c5f767a6ac48ad85ed92f1b32310",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/59520/Pine_Valley__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "59520",
+  "timestamp": "2026-05-24T23:35:37.040577Z",
+  "version": 1
+}

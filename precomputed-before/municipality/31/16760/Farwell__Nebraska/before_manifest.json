@@ -1,0 +1,16 @@
+{
+  "article": "Farwell,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/16760/Farwell__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6e062c83791b037646dc2994aa4cc8674e9b2d3dd5025d3e5a5cd7984f4fa04a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6e062c83791b037646dc2994aa4cc8674e9b2d3dd5025d3e5a5cd7984f4fa04a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/16760/Farwell__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "16760",
+  "timestamp": "2026-05-24T23:55:26.665080Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Belgreen,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/05140/Belgreen__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fbf2467480ec8ce98335254fc77348c824bf7a9c74f5fe6536c00a2498a05364",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fbf2467480ec8ce98335254fc77348c824bf7a9c74f5fe6536c00a2498a05364",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/05140/Belgreen__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "05140",
+  "timestamp": "2026-05-24T23:31:49.241199Z",
+  "version": 1
+}

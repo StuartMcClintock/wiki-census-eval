@@ -1,0 +1,16 @@
+{
+  "article": "Geistown,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/28720/Geistown__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bb805292d873c6e6becc7a84b4674a92d9e4a758409e6332bb0deb067ab56a86",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bb805292d873c6e6becc7a84b4674a92d9e4a758409e6332bb0deb067ab56a86",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/28720/Geistown__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "28720",
+  "timestamp": "2026-05-25T00:07:15.007843Z",
+  "version": 1
+}

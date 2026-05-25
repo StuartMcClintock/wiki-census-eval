@@ -1,0 +1,16 @@
+{
+  "article": "Lake_Barcroft,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/43352/Lake_Barcroft__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fa49dd2dc08df085bdfdccd6d9130b6aa163d64e590a9e3c1db1bb1072e2fe44",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fa49dd2dc08df085bdfdccd6d9130b6aa163d64e590a9e3c1db1bb1072e2fe44",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/43352/Lake_Barcroft__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "43352",
+  "timestamp": "2026-05-25T00:19:21.318358Z",
+  "version": 1
+}

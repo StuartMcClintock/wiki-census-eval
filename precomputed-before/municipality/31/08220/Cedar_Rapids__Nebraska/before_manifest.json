@@ -1,0 +1,16 @@
+{
+  "article": "Cedar_Rapids,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/08220/Cedar_Rapids__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fd7760c2693c3d2e1c5376e8884cdc9d322a61c7add61d244f6aa44a03724d19",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fd7760c2693c3d2e1c5376e8884cdc9d322a61c7add61d244f6aa44a03724d19",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/08220/Cedar_Rapids__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "08220",
+  "timestamp": "2026-05-24T23:55:16.998938Z",
+  "version": 1
+}

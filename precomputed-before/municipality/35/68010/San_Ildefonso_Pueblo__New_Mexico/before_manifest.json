@@ -1,0 +1,16 @@
+{
+  "article": "San_Ildefonso_Pueblo,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/68010/San_Ildefonso_Pueblo__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "83fb1b20ac89df0d9a0b15adfb0ddf5d1a01864930590ed64e4681f3b5cd2932",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "83fb1b20ac89df0d9a0b15adfb0ddf5d1a01864930590ed64e4681f3b5cd2932",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/68010/San_Ildefonso_Pueblo__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "68010",
+  "timestamp": "2026-05-24T23:58:52.903385Z",
+  "version": 1
+}

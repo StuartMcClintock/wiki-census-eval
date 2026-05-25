@@ -1,0 +1,16 @@
+{
+  "article": "Almira,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/01500/Almira__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e5e6e045646c67543b1e725da1e33b393b285eb44b16cc1148ae9d64ea4af02e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e5e6e045646c67543b1e725da1e33b393b285eb44b16cc1148ae9d64ea4af02e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/01500/Almira__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "01500",
+  "timestamp": "2026-05-25T00:19:47.226354Z",
+  "version": 1
+}

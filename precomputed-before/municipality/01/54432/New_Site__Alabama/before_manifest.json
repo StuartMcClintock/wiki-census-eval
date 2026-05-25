@@ -1,0 +1,16 @@
+{
+  "article": "New_Site,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/54432/New_Site__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2f7ed10bff7f9a2fb3a969e44532eda8606fd495c5e1202d3db0a628ff4a0176",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2f7ed10bff7f9a2fb3a969e44532eda8606fd495c5e1202d3db0a628ff4a0176",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/54432/New_Site__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "54432",
+  "timestamp": "2026-05-24T23:32:06.543189Z",
+  "version": 1
+}

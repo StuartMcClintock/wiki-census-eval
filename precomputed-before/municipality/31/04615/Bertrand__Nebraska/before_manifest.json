@@ -1,0 +1,16 @@
+{
+  "article": "Bertrand,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/04615/Bertrand__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "64c1a665c288269889dd4f2c5f055e00ab16f88875579e75d62e4a503d160133",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "64c1a665c288269889dd4f2c5f055e00ab16f88875579e75d62e4a503d160133",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/04615/Bertrand__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "04615",
+  "timestamp": "2026-05-24T23:55:12.297071Z",
+  "version": 1
+}

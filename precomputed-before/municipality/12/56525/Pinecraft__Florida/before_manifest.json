@@ -1,0 +1,16 @@
+{
+  "article": "Pinecraft,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/56525/Pinecraft__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": false,
+  "current_hash": null,
+  "location_kind": "municipality",
+  "manifest_had_section": false,
+  "manifest_hash": null,
+  "reason": "no demographics section then or now",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/56525/Pinecraft__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "56525",
+  "timestamp": "2026-05-24T23:36:20.700895Z",
+  "version": 1
+}

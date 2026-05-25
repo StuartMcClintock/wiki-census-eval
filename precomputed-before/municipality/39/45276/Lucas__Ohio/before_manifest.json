@@ -1,0 +1,16 @@
+{
+  "article": "Lucas,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/45276/Lucas__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f1b0f7aa79c6cd84c62dcb5aeb9178d1c080fbaa8fba46ce584312eb2443e20a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f1b0f7aa79c6cd84c62dcb5aeb9178d1c080fbaa8fba46ce584312eb2443e20a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/45276/Lucas__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "45276",
+  "timestamp": "2026-05-25T00:04:40.252965Z",
+  "version": 1
+}

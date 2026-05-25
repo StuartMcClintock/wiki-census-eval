@@ -1,0 +1,16 @@
+{
+  "article": "Kimberly,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/39650/Kimberly__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "917a94654bf6530e0011d7a2834a4087a30a831ea3d8a3c07b1e7edf4cd2c41d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "917a94654bf6530e0011d7a2834a4087a30a831ea3d8a3c07b1e7edf4cd2c41d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/39650/Kimberly__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "39650",
+  "timestamp": "2026-05-25T00:22:16.474036Z",
+  "version": 1
+}

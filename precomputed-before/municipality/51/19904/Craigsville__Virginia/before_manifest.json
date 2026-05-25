@@ -1,0 +1,16 @@
+{
+  "article": "Craigsville,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/19904/Craigsville__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bae7cff5cdfd75bda38078028805b2e49b64ef21b12e788c3f22e0f28ff3f330",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bae7cff5cdfd75bda38078028805b2e49b64ef21b12e788c3f22e0f28ff3f330",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/19904/Craigsville__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "19904",
+  "timestamp": "2026-05-25T00:19:07.784008Z",
+  "version": 1
+}

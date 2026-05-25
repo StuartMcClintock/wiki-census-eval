@@ -1,0 +1,16 @@
+{
+  "article": "New_London,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/56925/New_London__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d995d5fbcdcc08431b92d4b211fc5479a63e8a02f4231087ccfb3c55eb8f106a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d995d5fbcdcc08431b92d4b211fc5479a63e8a02f4231087ccfb3c55eb8f106a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/56925/New_London__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "56925",
+  "timestamp": "2026-05-25T00:22:29.363107Z",
+  "version": 1
+}

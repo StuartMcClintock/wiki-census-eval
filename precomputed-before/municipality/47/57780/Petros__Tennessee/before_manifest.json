@@ -1,0 +1,16 @@
+{
+  "article": "Petros,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/57780/Petros__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1e64d23da101aa55d893731a7a41b32eecfdb7abf802f22dbb0083eaec0ba35b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1e64d23da101aa55d893731a7a41b32eecfdb7abf802f22dbb0083eaec0ba35b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/57780/Petros__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "57780",
+  "timestamp": "2026-05-25T00:14:50.821740Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Witts_Springs,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/76460/Witts_Springs__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bfaa526b1f8970755fbf5ca7749cb6c288a07777c3e81cae277a137836d68849",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bfaa526b1f8970755fbf5ca7749cb6c288a07777c3e81cae277a137836d68849",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/76460/Witts_Springs__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "76460",
+  "timestamp": "2026-05-24T23:34:15.713580Z",
+  "version": 1
+}

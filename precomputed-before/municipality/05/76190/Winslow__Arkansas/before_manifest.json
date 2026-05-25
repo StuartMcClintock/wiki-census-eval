@@ -1,0 +1,16 @@
+{
+  "article": "Winslow,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/76190/Winslow__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "78e1ecd5eedb5b33dced7569f1b7086d85cbbf38e028b90ede762f8b838e86fa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "78e1ecd5eedb5b33dced7569f1b7086d85cbbf38e028b90ede762f8b838e86fa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/76190/Winslow__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "76190",
+  "timestamp": "2026-05-24T23:34:15.481567Z",
+  "version": 1
+}

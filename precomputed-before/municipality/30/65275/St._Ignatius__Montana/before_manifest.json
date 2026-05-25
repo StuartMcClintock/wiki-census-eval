@@ -1,0 +1,16 @@
+{
+  "article": "St._Ignatius,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/65275/St._Ignatius__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4261f184dd5f90009792f463d849a013081a1c192d7cf6ca8674455aacc4e48f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4261f184dd5f90009792f463d849a013081a1c192d7cf6ca8674455aacc4e48f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/65275/St._Ignatius__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "65275",
+  "timestamp": "2026-05-24T23:54:48.700396Z",
+  "version": 1
+}

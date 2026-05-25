@@ -1,0 +1,16 @@
+{
+  "article": "Moraine,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/52010/Moraine__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cb21bf43fb6fe30d7884ccdef80486f639e8fa778d606beb9caa8f5f79dbedb3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cb21bf43fb6fe30d7884ccdef80486f639e8fa778d606beb9caa8f5f79dbedb3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/52010/Moraine__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "52010",
+  "timestamp": "2026-05-25T00:04:48.210196Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Tilghmanton,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/77925/Tilghmanton__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c68e359c80199bc8974fc6afb9df26faab082c756fe61f178debc195b03ceeaf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c68e359c80199bc8974fc6afb9df26faab082c756fe61f178debc195b03ceeaf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/77925/Tilghmanton__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "77925",
+  "timestamp": "2026-05-24T23:47:35.198559Z",
+  "version": 1
+}

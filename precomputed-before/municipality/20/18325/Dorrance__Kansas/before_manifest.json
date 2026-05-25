@@ -1,0 +1,16 @@
+{
+  "article": "Dorrance,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/18325/Dorrance__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c875edbff395009da2ab0b6e37298d767404c38461afd57478959129bb76585b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c875edbff395009da2ab0b6e37298d767404c38461afd57478959129bb76585b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/18325/Dorrance__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "18325",
+  "timestamp": "2026-05-24T23:42:33.165379Z",
+  "version": 1
+}

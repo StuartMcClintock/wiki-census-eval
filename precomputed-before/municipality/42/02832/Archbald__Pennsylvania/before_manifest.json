@@ -1,0 +1,16 @@
+{
+  "article": "Archbald,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/02832/Archbald__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a2bbc278ba0e7ec700873273d6c8a05ec3b0d64fe1677936d2a4d09a982dbe21",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a2bbc278ba0e7ec700873273d6c8a05ec3b0d64fe1677936d2a4d09a982dbe21",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/02832/Archbald__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "02832",
+  "timestamp": "2026-05-25T00:06:08.926071Z",
+  "version": 1
+}

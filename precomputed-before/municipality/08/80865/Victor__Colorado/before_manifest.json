@@ -1,0 +1,16 @@
+{
+  "article": "Victor,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/80865/Victor__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "93be366dc670d5c6c7bbd649ce99bfe34b77d14029256284bd66135f5941b7e6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "93be366dc670d5c6c7bbd649ce99bfe34b77d14029256284bd66135f5941b7e6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/80865/Victor__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "80865",
+  "timestamp": "2026-05-24T23:35:54.642086Z",
+  "version": 1
+}

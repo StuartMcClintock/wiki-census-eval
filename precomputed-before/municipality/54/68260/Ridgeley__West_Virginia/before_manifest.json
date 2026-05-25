@@ -1,0 +1,16 @@
+{
+  "article": "Ridgeley,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/68260/Ridgeley__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "92ff3511b87ab36d1229511022f5900e81055a37741b14bcc28dedc5fcac0573",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "92ff3511b87ab36d1229511022f5900e81055a37741b14bcc28dedc5fcac0573",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/68260/Ridgeley__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "68260",
+  "timestamp": "2026-05-25T00:21:23.520729Z",
+  "version": 1
+}

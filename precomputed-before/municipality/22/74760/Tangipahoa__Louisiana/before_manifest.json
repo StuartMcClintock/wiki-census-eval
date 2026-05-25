@@ -1,0 +1,16 @@
+{
+  "article": "Tangipahoa,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/74760/Tangipahoa__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8c82c2dc44aa0f4ebc962294e42eb95962c36ea269ea434c563103bb5ec77538",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8c82c2dc44aa0f4ebc962294e42eb95962c36ea269ea434c563103bb5ec77538",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/74760/Tangipahoa__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "74760",
+  "timestamp": "2026-05-24T23:45:10.549378Z",
+  "version": 1
+}

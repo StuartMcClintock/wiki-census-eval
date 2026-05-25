@@ -1,0 +1,16 @@
+{
+  "article": "Plattsburgh_West,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/58601/Plattsburgh_West__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "017694afeb428ac4e16d3b2cba90c5c737a1bce218d33353bc9e0eebbb3a054d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "017694afeb428ac4e16d3b2cba90c5c737a1bce218d33353bc9e0eebbb3a054d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/58601/Plattsburgh_West__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "58601",
+  "timestamp": "2026-05-25T00:01:04.560473Z",
+  "version": 1
+}

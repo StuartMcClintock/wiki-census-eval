@@ -1,0 +1,16 @@
+{
+  "article": "Lasara,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/41548/Lasara__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "abc8b64434e42c1a51df16fe4353f0172094be9b8c026ae7f68bd5a2bdf2ebda",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "abc8b64434e42c1a51df16fe4353f0172094be9b8c026ae7f68bd5a2bdf2ebda",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/41548/Lasara__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "41548",
+  "timestamp": "2026-05-25T00:15:52.706432Z",
+  "version": 1
+}

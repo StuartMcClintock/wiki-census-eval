@@ -1,0 +1,16 @@
+{
+  "article": "Doyle,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/21500/Doyle__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4de4d8e54761d5c08fa9a9a0e03c2afa5d5e17b1d5108b164933eb303a6a6e5b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4de4d8e54761d5c08fa9a9a0e03c2afa5d5e17b1d5108b164933eb303a6a6e5b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/21500/Doyle__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "21500",
+  "timestamp": "2026-05-25T00:14:37.013998Z",
+  "version": 1
+}

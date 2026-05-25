@@ -1,0 +1,16 @@
+{
+  "article": "Satanta,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/63150/Satanta__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4a03355433bf5d696955e92b593920612c0bea2bb148c926fafcd391adf6863f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4a03355433bf5d696955e92b593920612c0bea2bb148c926fafcd391adf6863f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/63150/Satanta__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "63150",
+  "timestamp": "2026-05-24T23:43:27.074440Z",
+  "version": 1
+}

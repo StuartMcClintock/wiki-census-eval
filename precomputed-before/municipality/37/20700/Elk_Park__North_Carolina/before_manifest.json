@@ -1,0 +1,16 @@
+{
+  "article": "Elk_Park,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/20700/Elk_Park__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b88ed79570b1cfc1f3c1578ce2c68b0c79c7df0dd2c5c0ad7cf1406f664e6753",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b88ed79570b1cfc1f3c1578ce2c68b0c79c7df0dd2c5c0ad7cf1406f664e6753",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/20700/Elk_Park__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "20700",
+  "timestamp": "2026-05-25T00:01:54.465007Z",
+  "version": 1
+}

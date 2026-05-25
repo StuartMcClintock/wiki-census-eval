@@ -1,0 +1,16 @@
+{
+  "article": "Gonvick,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/24344/Gonvick__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9ba708dd51779eb7461f36086b8879f3d56729412240dfd715c40f50ced3a3ea",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9ba708dd51779eb7461f36086b8879f3d56729412240dfd715c40f50ced3a3ea",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/24344/Gonvick__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "24344",
+  "timestamp": "2026-05-24T23:49:02.912163Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Murray,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/55065/Murray__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "78bafce903a3dd95218e6623abba0b8b102fff3db3f9ce7f98b95f9270ba7787",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "78bafce903a3dd95218e6623abba0b8b102fff3db3f9ce7f98b95f9270ba7787",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/55065/Murray__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "55065",
+  "timestamp": "2026-05-24T23:41:31.205650Z",
+  "version": 1
+}

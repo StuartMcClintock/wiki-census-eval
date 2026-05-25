@@ -1,0 +1,16 @@
+{
+  "article": "Crabtree,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/16816/Crabtree__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b9eb75ae6ae395bc8f33c805abb84950b964912a6c3e571398a66dcc502c412b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b9eb75ae6ae395bc8f33c805abb84950b964912a6c3e571398a66dcc502c412b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/16816/Crabtree__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "16816",
+  "timestamp": "2026-05-25T00:06:47.387392Z",
+  "version": 1
+}

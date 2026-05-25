@@ -1,0 +1,16 @@
+{
+  "article": "Bayport,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/04250/Bayport__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e37e891ab2dd110a0ff8e6eeeb4b7ea527a93ec7a26b55ae2793c1cc9b1074af",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e37e891ab2dd110a0ff8e6eeeb4b7ea527a93ec7a26b55ae2793c1cc9b1074af",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/04250/Bayport__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "04250",
+  "timestamp": "2026-05-24T23:36:07.308583Z",
+  "version": 1
+}

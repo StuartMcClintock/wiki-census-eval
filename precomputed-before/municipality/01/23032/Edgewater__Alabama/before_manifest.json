@@ -1,0 +1,16 @@
+{
+  "article": "Edgewater,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/23032/Edgewater__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "586ff33824766d01cd106f65ab81f4cb519e48494eaa560a51b7e563d5824e0a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "586ff33824766d01cd106f65ab81f4cb519e48494eaa560a51b7e563d5824e0a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/23032/Edgewater__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "23032",
+  "timestamp": "2026-05-24T23:31:54.132868Z",
+  "version": 1
+}

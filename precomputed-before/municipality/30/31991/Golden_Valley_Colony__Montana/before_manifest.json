@@ -1,0 +1,16 @@
+{
+  "article": "Golden_Valley_Colony,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/31991/Golden_Valley_Colony__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b4cddbf8074414a67033acd0d027317a433acd477a18d352ce634005cbad2bdc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b4cddbf8074414a67033acd0d027317a433acd477a18d352ce634005cbad2bdc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/31991/Golden_Valley_Colony__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "31991",
+  "timestamp": "2026-05-24T23:54:27.588083Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Sand_Fork,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/71620/Sand_Fork__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3571b91397febe866290739690372cfdf7d001d5ba1e12d887d7582e277eec47",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3571b91397febe866290739690372cfdf7d001d5ba1e12d887d7582e277eec47",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/71620/Sand_Fork__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "71620",
+  "timestamp": "2026-05-25T00:21:24.728380Z",
+  "version": 1
+}

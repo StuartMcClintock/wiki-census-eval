@@ -1,0 +1,16 @@
+{
+  "article": "Rochester,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/62636/Rochester__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c2c79167f5b9ad206518412918c23e53479e97c00241b9276b7fc5d4ca24047b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c2c79167f5b9ad206518412918c23e53479e97c00241b9276b7fc5d4ca24047b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/62636/Rochester__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "62636",
+  "timestamp": "2026-05-25T00:16:31.208355Z",
+  "version": 1
+}

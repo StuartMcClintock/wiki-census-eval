@@ -1,0 +1,16 @@
+{
+  "article": "Stedman,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/64840/Stedman__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4a09f2bf7e484c08405ad15482dd159660b607cb4cd5a8a953e0e5687e4c0cdb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4a09f2bf7e484c08405ad15482dd159660b607cb4cd5a8a953e0e5687e4c0cdb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/64840/Stedman__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "64840",
+  "timestamp": "2026-05-25T00:02:24.990587Z",
+  "version": 1
+}

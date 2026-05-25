@@ -1,0 +1,16 @@
+{
+  "article": "Bainbridge,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/03800/Bainbridge__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fbe6d3e5b43e7cf72f0c610694140abd00d382c25d1240ae46977a8be0f3f075",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fbe6d3e5b43e7cf72f0c610694140abd00d382c25d1240ae46977a8be0f3f075",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/03800/Bainbridge__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "03800",
+  "timestamp": "2026-05-25T00:06:12.338650Z",
+  "version": 1
+}

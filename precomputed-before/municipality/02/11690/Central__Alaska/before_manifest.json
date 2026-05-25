@@ -1,0 +1,16 @@
+{
+  "article": "Central,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/11690/Central__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "107f691ad2835c35f9e59ef653060f67cf1a1568b35f9c68230863adf3f42636",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "107f691ad2835c35f9e59ef653060f67cf1a1568b35f9c68230863adf3f42636",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/11690/Central__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "11690",
+  "timestamp": "2026-05-24T23:32:18.552861Z",
+  "version": 1
+}

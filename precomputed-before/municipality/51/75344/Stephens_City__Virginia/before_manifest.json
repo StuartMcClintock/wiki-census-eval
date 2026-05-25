@@ -1,0 +1,16 @@
+{
+  "article": "Stephens_City,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/75344/Stephens_City__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8ef29e2c88c33d0857e607e3673240df255afdd5488b4a78ad5e44878627255b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8ef29e2c88c33d0857e607e3673240df255afdd5488b4a78ad5e44878627255b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/75344/Stephens_City__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "75344",
+  "timestamp": "2026-05-25T00:19:39.714577Z",
+  "version": 1
+}

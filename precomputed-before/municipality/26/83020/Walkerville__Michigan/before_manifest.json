@@ -1,0 +1,16 @@
+{
+  "article": "Walkerville,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/83020/Walkerville__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7d7d25f571ebcc6cd8871d7be09369bd12bfdcaf1bb33e9cf37060c3d386e5e0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7d7d25f571ebcc6cd8871d7be09369bd12bfdcaf1bb33e9cf37060c3d386e5e0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/83020/Walkerville__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "83020",
+  "timestamp": "2026-05-24T23:48:32.077667Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Deputy,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/17812/Deputy__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d9a96448f23774a2ee1d8d3c955c1ac2709dc56b086650aa94bafe42cb37a402",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d9a96448f23774a2ee1d8d3c955c1ac2709dc56b086650aa94bafe42cb37a402",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/17812/Deputy__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "17812",
+  "timestamp": "2026-05-24T23:39:32.636578Z",
+  "version": 1
+}

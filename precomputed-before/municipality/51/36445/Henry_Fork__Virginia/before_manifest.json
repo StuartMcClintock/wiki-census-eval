@@ -1,0 +1,16 @@
+{
+  "article": "Henry_Fork,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/36445/Henry_Fork__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1e9cf1c9160668d8930f7c132898fdb7e70be023dd3e64c026afa1f3817c78d4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1e9cf1c9160668d8930f7c132898fdb7e70be023dd3e64c026afa1f3817c78d4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/36445/Henry_Fork__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "36445",
+  "timestamp": "2026-05-25T00:19:17.549396Z",
+  "version": 1
+}

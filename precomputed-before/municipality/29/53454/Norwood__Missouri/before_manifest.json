@@ -1,0 +1,16 @@
+{
+  "article": "Norwood,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/53454/Norwood__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ccf164d7de923fcd8860ee8ac40e521f42d099ec4d64f70ecf367ca55b98188f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ccf164d7de923fcd8860ee8ac40e521f42d099ec4d64f70ecf367ca55b98188f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/53454/Norwood__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "53454",
+  "timestamp": "2026-05-24T23:53:36.929909Z",
+  "version": 1
+}

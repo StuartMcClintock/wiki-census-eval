@@ -1,0 +1,16 @@
+{
+  "article": "Egan,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/23025/Egan__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7255b9040164012226270813464a899a9963a3c2637eb1e010b870c568cd2bde",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7255b9040164012226270813464a899a9963a3c2637eb1e010b870c568cd2bde",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/23025/Egan__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "23025",
+  "timestamp": "2026-05-24T23:44:46.509715Z",
+  "version": 1
+}

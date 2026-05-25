@@ -1,0 +1,16 @@
+{
+  "article": "Pisgah,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/60720/Pisgah__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0f9b68ac4e29aefd30f72de2097824c7334c76f20e2f0b20781874fed5795c0a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0f9b68ac4e29aefd30f72de2097824c7334c76f20e2f0b20781874fed5795c0a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/60720/Pisgah__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "60720",
+  "timestamp": "2026-05-24T23:32:09.237663Z",
+  "version": 1
+}

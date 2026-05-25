@@ -1,0 +1,16 @@
+{
+  "article": "Sherman,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/67200/Sherman__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "14a392c7bbe3d3ffefcc61052c3ae2869a972135add5be5a5dea2f0a08f018d5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "14a392c7bbe3d3ffefcc61052c3ae2869a972135add5be5a5dea2f0a08f018d5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/67200/Sherman__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "67200",
+  "timestamp": "2026-05-24T23:50:24.224156Z",
+  "version": 1
+}

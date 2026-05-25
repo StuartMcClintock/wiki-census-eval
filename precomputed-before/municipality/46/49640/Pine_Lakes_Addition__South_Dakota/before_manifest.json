@@ -1,0 +1,16 @@
+{
+  "article": "Pine_Lakes_Addition,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/49640/Pine_Lakes_Addition__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "199d5661dbcacc65b65bc064d6d098a60a5eb29d3d4b2f2ea7f561dfabc94409",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "199d5661dbcacc65b65bc064d6d098a60a5eb29d3d4b2f2ea7f561dfabc94409",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/49640/Pine_Lakes_Addition__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "49640",
+  "timestamp": "2026-05-25T00:11:08.422096Z",
+  "version": 1
+}

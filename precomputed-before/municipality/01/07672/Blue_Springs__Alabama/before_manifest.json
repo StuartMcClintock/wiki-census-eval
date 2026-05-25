@@ -1,0 +1,16 @@
+{
+  "article": "Blue_Springs,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/07672/Blue_Springs__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ff95f6df967f7f18bd2e9b245f82fdaba8b54a0323ac98afa3a49afe99ec3b0d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ff95f6df967f7f18bd2e9b245f82fdaba8b54a0323ac98afa3a49afe99ec3b0d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/07672/Blue_Springs__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "07672",
+  "timestamp": "2026-05-24T23:31:49.836325Z",
+  "version": 1
+}

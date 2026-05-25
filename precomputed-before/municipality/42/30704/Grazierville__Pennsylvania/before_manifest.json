@@ -1,0 +1,16 @@
+{
+  "article": "Grazierville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/30704/Grazierville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6b06c487a2a49bb0466dd5ed81d722779e71dad3ba819556b44a3883ce8e1a6e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6b06c487a2a49bb0466dd5ed81d722779e71dad3ba819556b44a3883ce8e1a6e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/30704/Grazierville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "30704",
+  "timestamp": "2026-05-25T00:07:19.268218Z",
+  "version": 1
+}

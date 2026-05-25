@@ -1,0 +1,16 @@
+{
+  "article": "Beech_Mountain,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/04510/Beech_Mountain__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a7aea45ce80f837fadd1ded2b87a55ef7e59f7c79c21bd19e0fb528add6a8d5d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a7aea45ce80f837fadd1ded2b87a55ef7e59f7c79c21bd19e0fb528add6a8d5d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/04510/Beech_Mountain__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "04510",
+  "timestamp": "2026-05-25T00:01:44.016269Z",
+  "version": 1
+}

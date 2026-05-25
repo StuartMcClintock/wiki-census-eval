@@ -1,0 +1,16 @@
+{
+  "article": "Salix,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/70320/Salix__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2c9994b4172a80fa3010f8de046357bb126805091db03f24256f53b3661813ba",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2c9994b4172a80fa3010f8de046357bb126805091db03f24256f53b3661813ba",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/70320/Salix__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "70320",
+  "timestamp": "2026-05-24T23:41:46.912080Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Meire_Grove,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/41534/Meire_Grove__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f9e7d2bec60167a1e875f30676413d1d5d14dee81f15f364dc2531a030f7d714",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f9e7d2bec60167a1e875f30676413d1d5d14dee81f15f364dc2531a030f7d714",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/41534/Meire_Grove__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "41534",
+  "timestamp": "2026-05-24T23:49:20.039076Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Grubbs,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/29020/Grubbs__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c888f93360f2946b3e0afabeb7cf19505c2897e4f5d5ee0922db8fdf89a48143",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c888f93360f2946b3e0afabeb7cf19505c2897e4f5d5ee0922db8fdf89a48143",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/29020/Grubbs__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "29020",
+  "timestamp": "2026-05-24T23:33:44.351445Z",
+  "version": 1
+}

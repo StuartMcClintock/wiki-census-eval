@@ -1,0 +1,16 @@
+{
+  "article": "Albee,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/00620/Albee__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "743d75456a69a08eb37f6c7d4af21d190afb00eadbb1e66a8578b56dba5d513b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "743d75456a69a08eb37f6c7d4af21d190afb00eadbb1e66a8578b56dba5d513b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/00620/Albee__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "00620",
+  "timestamp": "2026-05-25T00:10:29.196769Z",
+  "version": 1
+}

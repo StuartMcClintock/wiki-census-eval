@@ -1,0 +1,16 @@
+{
+  "article": "Mifflin,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/49272/Mifflin__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0794941eb713ac67701d8cbca3c60efe5a4dd8538ad26b15bf83e61ad08a726d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0794941eb713ac67701d8cbca3c60efe5a4dd8538ad26b15bf83e61ad08a726d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/49272/Mifflin__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "49272",
+  "timestamp": "2026-05-25T00:08:05.261283Z",
+  "version": 1
+}

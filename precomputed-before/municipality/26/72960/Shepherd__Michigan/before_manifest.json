@@ -1,0 +1,16 @@
+{
+  "article": "Shepherd,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/72960/Shepherd__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ff50f043b8f7d47d0083ddb95e90be93cddda6a11793428de5ec3d6bd204d80e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ff50f043b8f7d47d0083ddb95e90be93cddda6a11793428de5ec3d6bd204d80e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/72960/Shepherd__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "72960",
+  "timestamp": "2026-05-24T23:48:27.787906Z",
+  "version": 1
+}

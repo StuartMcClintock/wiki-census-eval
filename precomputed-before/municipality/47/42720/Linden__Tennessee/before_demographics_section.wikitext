@@ -1,0 +1,63 @@
+==Demographics==
+{{US Census population
+|1870= 149
+|1880= 189
+|1890= 330
+|1930= 539
+|1940= 641
+|1950= 854
+|1960= 1086
+|1970= 1062
+|1980= 1087
+|1990= 1099
+|2000= 1015
+|2010= 908
+|2020= 997
+|footnote=Sources:<ref name="GR9">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|publisher=[[United States Census Bureau]]|accessdate=March 4, 2012|title=Census of Population and Housing: Decennial Censuses}}</ref><ref name=CensusPopEst>{{cite web|title=Incorporated Places and Minor Civil Divisions Datasets: Subcounty Resident Population Estimates: April 1, 2010 to July 1, 2012|url=https://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|work=Population Estimates|publisher=U.S. Census Bureau|accessdate=December 11, 2013|url-status=dead|archiveurl=https://web.archive.org/web/20130611010502/http://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|archivedate=June 11, 2013}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A47|title=Census Population API|publisher=United States Census Bureau|accessdate=October 15, 2022}}</ref>
+}}
+
+===2020 census===
+{| class="wikitable" style="text-align:right"
+|+Linden racial composition<ref>{{Cite web|title=Explore Census Data|url=https://data.census.gov/cedsci/table?g=1600000US4742720&tid=DECENNIALPL2020.P2|access-date=December 27, 2021|website=data.census.gov}}</ref>
+!scope="col"| Race
+!scope="col"| Number
+!scope="col"| Percentage
+|-
+!scope="row"| [[White (U.S. Census)|White]] (non-Hispanic)
+| 847
+| 84.95%
+|-
+!scope="row"| [[African American (U.S. Census)|Black or African American]] (non-Hispanic)
+| 73
+| 7.32%
+|-
+!scope="row"| [[Native American (U.S. Census)|Native American]]
+| 4
+| 0.4%
+|-
+!scope="row"| [[Asian (U.S. Census)|Asian]]
+| 12
+| 1.2%
+|-
+!scope="row"| [[Race (United States Census)|Other/Mixed]]
+| 41
+| 4.11%
+|-
+!scope="row"| [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]]
+| 20
+| 2.01%
+|}
+As of the [[2020 United States census]], there were 997 people, 468 households, and 257 families residing in the town.
+
+===2000 census===
+As of the [[census]]<ref name="GR2" /> of 2000, there were 1,015 people, 400 households, and 233 families residing in the town. The population density was {{convert|1,040.9|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 461 housing units at an average density of {{convert|472.8|/sqmi|/km2|sp=us|adj=off}}. The racial makeup of the town was 93.0%[[White (U.S. Census)|White]], 5.52% [[African American (U.S. Census)|African American]], 0.49% [[Native American (U.S. Census)|Native American]], 0.20% [[Asian (U.S. Census)|Asian]], and 0.49% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 0.39% of the population.
+
+There were 400 households, out of which 26.3% had children under the age of 18 living with them, 44.0% were married couples living together, 12.3% had a female householder with no husband present, and 41.8% were non-families. 37.5% of all households were made up of individuals, and 24.0% had someone living alone who was 65&nbsp;years of age or older. The average household size was 2.25 and the average family size was 2.97.
+
+In the town, the age distribution of the population shows 22.6% under the age of 18, 6.6% from 18 to 24, 21.3% from 25 to 44, 19.6% from 45 to 64, and 30.0% who were 65&nbsp;years of age or older. The median age was 45&nbsp;years. For every 100 females, there were 76.2 males. For every 100 females age 18 and over, there were 69.8 males.
+
+The median income for a household in the town was $25,134, and the median income for a family was $31,000. Males had a median income of $24,500 versus $21,063 for females. The [[per capita income]] for the town was $19,410. About 16.8% of families and 23.9% of the population were below the [[poverty line]], including 27.5% of those under age 18 and 23.1% of those age 65 or over.
+
+[[File:Street scene - NARA - 280624.jpg|thumb|250px|left|Downtown Linden, Tennessee in 1940 showing the hotel and a Gulf oil station.]]
+{{clear}}
+

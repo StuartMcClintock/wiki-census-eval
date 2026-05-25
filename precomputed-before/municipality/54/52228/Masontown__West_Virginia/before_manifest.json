@@ -1,0 +1,16 @@
+{
+  "article": "Masontown,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/52228/Masontown__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8440f805963701f00dc64b7587a96e750a9ebc68978ef8302ed0892f77774182",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8440f805963701f00dc64b7587a96e750a9ebc68978ef8302ed0892f77774182",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/52228/Masontown__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "52228",
+  "timestamp": "2026-05-25T00:21:16.334836Z",
+  "version": 1
+}

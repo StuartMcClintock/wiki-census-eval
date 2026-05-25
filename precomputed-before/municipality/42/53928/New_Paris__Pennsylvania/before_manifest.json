@@ -1,0 +1,16 @@
+{
+  "article": "New_Paris,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/53928/New_Paris__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "41c128ef1c4c0c5a7afefd0445170b2edc477bf885f3393c81aa3a6c30ebf0c9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "41c128ef1c4c0c5a7afefd0445170b2edc477bf885f3393c81aa3a6c30ebf0c9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/53928/New_Paris__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "53928",
+  "timestamp": "2026-05-25T00:08:17.353183Z",
+  "version": 1
+}

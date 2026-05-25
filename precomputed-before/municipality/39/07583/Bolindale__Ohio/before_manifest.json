@@ -1,0 +1,16 @@
+{
+  "article": "Bolindale,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/07583/Bolindale__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "69285a78ed1eb2df3854acbf2613e2ea79af7246b3b683b369f4b33619def661",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "69285a78ed1eb2df3854acbf2613e2ea79af7246b3b683b369f4b33619def661",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/07583/Bolindale__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "07583",
+  "timestamp": "2026-05-25T00:03:36.424319Z",
+  "version": 1
+}

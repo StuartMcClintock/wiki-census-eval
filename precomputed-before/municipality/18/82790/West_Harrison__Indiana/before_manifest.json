@@ -1,0 +1,16 @@
+{
+  "article": "West_Harrison,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/82790/West_Harrison__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fe25a8e3ddadef89228231fe03c0c0971e2b4e76317dfd3a5ebbccbc069a384f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fe25a8e3ddadef89228231fe03c0c0971e2b4e76317dfd3a5ebbccbc069a384f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/82790/West_Harrison__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "82790",
+  "timestamp": "2026-05-24T23:40:18.468953Z",
+  "version": 1
+}

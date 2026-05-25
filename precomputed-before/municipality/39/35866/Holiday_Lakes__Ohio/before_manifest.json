@@ -1,0 +1,16 @@
+{
+  "article": "Holiday_Lakes,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/35866/Holiday_Lakes__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c47b724b6a9d080d67ae5c7442646549e6c6a47bfe99ef5d1498e9c8f5af9054",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c47b724b6a9d080d67ae5c7442646549e6c6a47bfe99ef5d1498e9c8f5af9054",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/35866/Holiday_Lakes__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "35866",
+  "timestamp": "2026-05-25T00:04:18.838160Z",
+  "version": 1
+}

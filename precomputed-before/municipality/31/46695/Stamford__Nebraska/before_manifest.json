@@ -1,0 +1,16 @@
+{
+  "article": "Stamford,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/46695/Stamford__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3b37465be4fb3aef6a0bc3ed5d185101de0d258e52a96cb290295cb0ed2c1ea9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3b37465be4fb3aef6a0bc3ed5d185101de0d258e52a96cb290295cb0ed2c1ea9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/46695/Stamford__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "46695",
+  "timestamp": "2026-05-24T23:57:17.385773Z",
+  "version": 1
+}

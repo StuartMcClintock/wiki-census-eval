@@ -1,0 +1,16 @@
+{
+  "article": "Hawk_Point,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/31024/Hawk_Point__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8ba9da43e88be17713274461babbf1bb48f336573e5f646970eb084828ea5247",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8ba9da43e88be17713274461babbf1bb48f336573e5f646970eb084828ea5247",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/31024/Hawk_Point__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "31024",
+  "timestamp": "2026-05-24T23:53:16.809142Z",
+  "version": 1
+}

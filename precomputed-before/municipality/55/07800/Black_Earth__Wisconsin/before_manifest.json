@@ -1,0 +1,16 @@
+{
+  "article": "Black_Earth,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/07800/Black_Earth__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4805e11850a79b5e7b8260a1cf1d66e11f2b2375d636ad3e111009f1988c1338",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4805e11850a79b5e7b8260a1cf1d66e11f2b2375d636ad3e111009f1988c1338",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/07800/Black_Earth__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "07800",
+  "timestamp": "2026-05-25T00:21:36.895065Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Amherst,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/01290/Amherst__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fd26eb46cd6dea6d98e575a298c073f6c1f27470dc709df5f9406b0c5062ed4f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fd26eb46cd6dea6d98e575a298c073f6c1f27470dc709df5f9406b0c5062ed4f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/01290/Amherst__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "01290",
+  "timestamp": "2026-05-24T23:55:07.803534Z",
+  "version": 1
+}

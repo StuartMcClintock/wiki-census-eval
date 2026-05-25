@@ -1,0 +1,16 @@
+{
+  "article": "Corning,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/18770/Corning__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e430a8b1265c25222cda88d6801cf82f38ba9fe527b45ef5670c54cded31abe6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e430a8b1265c25222cda88d6801cf82f38ba9fe527b45ef5670c54cded31abe6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/18770/Corning__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "18770",
+  "timestamp": "2026-05-25T00:04:01.291313Z",
+  "version": 1
+}

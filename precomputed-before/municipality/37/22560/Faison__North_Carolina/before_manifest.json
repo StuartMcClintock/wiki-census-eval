@@ -1,0 +1,16 @@
+{
+  "article": "Faison,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/22560/Faison__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "57b5b86c580a05276c1748e364e08001d8a1816e2f12ee23d6a00fc4787e3da1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "57b5b86c580a05276c1748e364e08001d8a1816e2f12ee23d6a00fc4787e3da1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/22560/Faison__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "22560",
+  "timestamp": "2026-05-25T00:01:55.497948Z",
+  "version": 1
+}

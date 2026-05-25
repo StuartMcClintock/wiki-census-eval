@@ -1,0 +1,16 @@
+{
+  "article": "Winstonville,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/80800/Winstonville__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7796d5f06a5caddae39d0daef04143c0ae8b9cdd6f18e1bc01287a79d516f40d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7796d5f06a5caddae39d0daef04143c0ae8b9cdd6f18e1bc01287a79d516f40d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/80800/Winstonville__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "80800",
+  "timestamp": "2026-05-24T23:50:29.679166Z",
+  "version": 1
+}

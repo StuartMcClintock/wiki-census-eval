@@ -1,0 +1,16 @@
+{
+  "article": "Paris,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/60580/Paris__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ed301df51f1a3c54da01ebd859edcd518930c756cf26208ae7b0c32cfedde1b3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ed301df51f1a3c54da01ebd859edcd518930c756cf26208ae7b0c32cfedde1b3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/60580/Paris__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "60580",
+  "timestamp": "2026-05-24T23:37:26.686142Z",
+  "version": 1
+}

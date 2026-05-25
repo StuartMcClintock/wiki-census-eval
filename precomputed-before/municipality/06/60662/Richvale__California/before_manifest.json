@@ -1,0 +1,16 @@
+{
+  "article": "Richvale,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/60662/Richvale__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c3b71182436a24f428aa573db63f7067b90bd45e35013ea5eacc04896778295c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c3b71182436a24f428aa573db63f7067b90bd45e35013ea5eacc04896778295c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/60662/Richvale__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "60662",
+  "timestamp": "2026-05-24T23:35:01.301932Z",
+  "version": 1
+}

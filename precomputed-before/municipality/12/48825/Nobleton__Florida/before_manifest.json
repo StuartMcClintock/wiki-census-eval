@@ -1,0 +1,16 @@
+{
+  "article": "Nobleton,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/48825/Nobleton__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b4b702e4e8f9b1d9338982bd6c57fb56791c2c9d32858ecc09510bfdf838daaf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b4b702e4e8f9b1d9338982bd6c57fb56791c2c9d32858ecc09510bfdf838daaf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/48825/Nobleton__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "48825",
+  "timestamp": "2026-05-24T23:36:19.439031Z",
+  "version": 1
+}

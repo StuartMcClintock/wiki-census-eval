@@ -1,0 +1,16 @@
+{
+  "article": "Trout_Valley,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/79680/Trout_Valley__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2048491f8f2655a2a6c88b3e3f52dcef40ac57dcec3ea6756f3ced0a8d9163c9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2048491f8f2655a2a6c88b3e3f52dcef40ac57dcec3ea6756f3ced0a8d9163c9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/79680/Trout_Valley__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "79680",
+  "timestamp": "2026-05-24T23:59:09.507615Z",
+  "version": 1
+}

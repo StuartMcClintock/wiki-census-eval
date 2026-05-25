@@ -1,0 +1,16 @@
+{
+  "article": "Naval_Academy,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/55050/Naval_Academy__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ce9f8dec2fb9b4ee487a9f0a4e1bc730d74557c56e2330df375dafb37eb72ceb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ce9f8dec2fb9b4ee487a9f0a4e1bc730d74557c56e2330df375dafb37eb72ceb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/55050/Naval_Academy__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "55050",
+  "timestamp": "2026-05-24T23:47:29.067194Z",
+  "version": 1
+}

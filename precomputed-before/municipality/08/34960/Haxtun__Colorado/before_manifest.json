@@ -1,0 +1,16 @@
+{
+  "article": "Haxtun,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/34960/Haxtun__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "740e7016f43fc32169ebf8bca932209b84d31ff7f4680f8fdf4b392b60bb50d4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "740e7016f43fc32169ebf8bca932209b84d31ff7f4680f8fdf4b392b60bb50d4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/34960/Haxtun__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "34960",
+  "timestamp": "2026-05-24T23:35:27.900459Z",
+  "version": 1
+}

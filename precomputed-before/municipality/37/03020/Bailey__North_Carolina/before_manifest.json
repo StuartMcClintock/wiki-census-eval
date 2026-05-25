@@ -1,0 +1,16 @@
+{
+  "article": "Bailey,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/03020/Bailey__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "da76b0c7e7ddff46bbaf1f83f013c12ef41df6e740a0328b056e984cb44e48c0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "da76b0c7e7ddff46bbaf1f83f013c12ef41df6e740a0328b056e984cb44e48c0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/03020/Bailey__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "03020",
+  "timestamp": "2026-05-25T00:01:42.255702Z",
+  "version": 1
+}

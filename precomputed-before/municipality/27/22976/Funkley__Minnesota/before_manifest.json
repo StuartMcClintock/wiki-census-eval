@@ -1,0 +1,16 @@
+{
+  "article": "Funkley,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/22976/Funkley__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cac272f9b2de9c4cc605e8991ff1dbc5e88f19aea6873ce15223fb31540ab159",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cac272f9b2de9c4cc605e8991ff1dbc5e88f19aea6873ce15223fb31540ab159",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/22976/Funkley__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "22976",
+  "timestamp": "2026-05-24T23:49:01.284141Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Rothschild,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/69725/Rothschild__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3f444e743c18122bc8a7a05736909603cded90e0a23e564837a22bdaf7e03e6b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3f444e743c18122bc8a7a05736909603cded90e0a23e564837a22bdaf7e03e6b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/69725/Rothschild__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "69725",
+  "timestamp": "2026-05-25T00:22:40.059908Z",
+  "version": 1
+}

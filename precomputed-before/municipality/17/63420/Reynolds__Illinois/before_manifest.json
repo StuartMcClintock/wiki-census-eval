@@ -1,0 +1,16 @@
+{
+  "article": "Reynolds,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/63420/Reynolds__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "31f6449a57c024067e6b2e78b357454e5998f6063939a60412d5e779ce64ed73",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "31f6449a57c024067e6b2e78b357454e5998f6063939a60412d5e779ce64ed73",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/63420/Reynolds__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "63420",
+  "timestamp": "2026-05-24T23:39:05.302496Z",
+  "version": 1
+}

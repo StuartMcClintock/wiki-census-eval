@@ -1,0 +1,16 @@
+{
+  "article": "Tower,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/65272/Tower__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c244d0d85a4f9a21350957b2269aa2cd6d45dfe7558aba5bd44a2e9152103e68",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c244d0d85a4f9a21350957b2269aa2cd6d45dfe7558aba5bd44a2e9152103e68",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/65272/Tower__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "65272",
+  "timestamp": "2026-05-24T23:49:49.116538Z",
+  "version": 1
+}

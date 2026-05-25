@@ -1,0 +1,16 @@
+{
+  "article": "Morgan_Heights,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/51975/Morgan_Heights__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e5abe660624238bfde0842b6ac296c232eb076cb53afb1a7c49bf565d1765d34",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e5abe660624238bfde0842b6ac296c232eb076cb53afb1a7c49bf565d1765d34",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/51975/Morgan_Heights__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "51975",
+  "timestamp": "2026-05-24T23:35:33.334071Z",
+  "version": 1
+}

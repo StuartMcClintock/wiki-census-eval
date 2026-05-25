@@ -1,0 +1,16 @@
+{
+  "article": "Shannon_Colony,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/58332/Shannon_Colony__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d3f51fd92cd6bd86abb50aa6ff3744823f9dd7e288dda4fc8b7ac9834e9f4631",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d3f51fd92cd6bd86abb50aa6ff3744823f9dd7e288dda4fc8b7ac9834e9f4631",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/58332/Shannon_Colony__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "58332",
+  "timestamp": "2026-05-25T00:12:46.932266Z",
+  "version": 1
+}

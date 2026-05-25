@@ -1,0 +1,16 @@
+{
+  "article": "Elloree,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/23470/Elloree__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "259a0f8cc11ece68af4c44cb583060adc6cf21d0436cc6d192e12d6011ac4f40",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "259a0f8cc11ece68af4c44cb583060adc6cf21d0436cc6d192e12d6011ac4f40",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/23470/Elloree__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "23470",
+  "timestamp": "2026-05-25T00:10:01.896397Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Cavalier,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/12940/Cavalier__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "24742515a25fe93686d50662f2cfb5277e4da082360eacdeb2809ec1951e925f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "24742515a25fe93686d50662f2cfb5277e4da082360eacdeb2809ec1951e925f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/12940/Cavalier__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "12940",
+  "timestamp": "2026-05-25T00:02:37.800744Z",
+  "version": 1
+}

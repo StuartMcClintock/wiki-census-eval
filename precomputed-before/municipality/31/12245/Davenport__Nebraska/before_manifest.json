@@ -1,0 +1,16 @@
+{
+  "article": "Davenport,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/12245/Davenport__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9170858a5e57320bd9f4ce5d4632fb467846192aedec1e8aae50263481c03023",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9170858a5e57320bd9f4ce5d4632fb467846192aedec1e8aae50263481c03023",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/12245/Davenport__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "12245",
+  "timestamp": "2026-05-24T23:55:21.568619Z",
+  "version": 1
+}

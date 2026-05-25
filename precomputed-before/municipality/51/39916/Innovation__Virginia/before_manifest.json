@@ -1,0 +1,16 @@
+{
+  "article": "Innovation,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/39916/Innovation__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aef016fe971c9f5e8a4df8cb66d40d576d04f6a703287697bc4c1056dcad1044",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aef016fe971c9f5e8a4df8cb66d40d576d04f6a703287697bc4c1056dcad1044",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/39916/Innovation__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "39916",
+  "timestamp": "2026-05-25T00:19:18.865538Z",
+  "version": 1
+}

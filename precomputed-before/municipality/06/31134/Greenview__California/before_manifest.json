@@ -1,0 +1,16 @@
+{
+  "article": "Greenview,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/31134/Greenview__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ec7c21c4fcb4492855a6bac6557731d618b0c4db0ed70b7bc033ae4f9fdfcd94",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ec7c21c4fcb4492855a6bac6557731d618b0c4db0ed70b7bc033ae4f9fdfcd94",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/31134/Greenview__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "31134",
+  "timestamp": "2026-05-24T23:34:26.690176Z",
+  "version": 1
+}

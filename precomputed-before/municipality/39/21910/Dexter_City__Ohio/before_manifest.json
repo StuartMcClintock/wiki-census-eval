@@ -1,0 +1,16 @@
+{
+  "article": "Dexter_City,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/21910/Dexter_City__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "afebcc3a9cc7cb0b827252461566ec59d801cdf30494481f630e470fb835fe2a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "afebcc3a9cc7cb0b827252461566ec59d801cdf30494481f630e470fb835fe2a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/21910/Dexter_City__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "21910",
+  "timestamp": "2026-05-25T00:04:04.611613Z",
+  "version": 1
+}

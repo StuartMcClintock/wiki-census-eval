@@ -1,0 +1,16 @@
+{
+  "article": "Bryce_Canyon_City,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/08787/Bryce_Canyon_City__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "57f3d514b3452627c5611cde2008c28d8de9e3500e42c13f274e9ab4ed56c94e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "57f3d514b3452627c5611cde2008c28d8de9e3500e42c13f274e9ab4ed56c94e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/08787/Bryce_Canyon_City__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "08787",
+  "timestamp": "2026-05-25T00:16:54.674257Z",
+  "version": 1
+}

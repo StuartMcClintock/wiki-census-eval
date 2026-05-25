@@ -1,0 +1,16 @@
+{
+  "article": "Wyoming,_Rhode_Island",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/44/80960/Wyoming__Rhode_Island/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1f3e6bbce8637ccff486438d04e602541afc054232b286e80a02f31ea2f4d0f8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1f3e6bbce8637ccff486438d04e602541afc054232b286e80a02f31ea2f4d0f8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/44/80960/Wyoming__Rhode_Island/manifest.json",
+  "state_fips": "44",
+  "status": "match",
+  "target_fips": "80960",
+  "timestamp": "2026-05-25T00:09:37.934362Z",
+  "version": 1
+}

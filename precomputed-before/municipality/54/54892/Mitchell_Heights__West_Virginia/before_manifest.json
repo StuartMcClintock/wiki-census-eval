@@ -1,0 +1,16 @@
+{
+  "article": "Mitchell_Heights,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/54892/Mitchell_Heights__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "96d684f2afd2ad76f6c2183869e1d94ddf7d2ef41896ea40313836ed9d4636ec",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "96d684f2afd2ad76f6c2183869e1d94ddf7d2ef41896ea40313836ed9d4636ec",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/54892/Mitchell_Heights__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "54892",
+  "timestamp": "2026-05-25T00:21:17.572535Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Berlin,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/05776/Berlin__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b38648946dc595601a4afe0fc06220a945e34207090ebcee07eb65c9dc56573d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b38648946dc595601a4afe0fc06220a945e34207090ebcee07eb65c9dc56573d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/05776/Berlin__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "05776",
+  "timestamp": "2026-05-25T00:06:16.417219Z",
+  "version": 1
+}

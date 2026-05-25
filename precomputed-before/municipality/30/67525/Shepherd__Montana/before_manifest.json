@@ -1,0 +1,16 @@
+{
+  "article": "Shepherd,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/67525/Shepherd__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "67902b395853f77fa1c514aa580161f8d1794fb7429e922038b88ae9334fae6c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "67902b395853f77fa1c514aa580161f8d1794fb7429e922038b88ae9334fae6c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/67525/Shepherd__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "67525",
+  "timestamp": "2026-05-24T23:54:50.459699Z",
+  "version": 1
+}

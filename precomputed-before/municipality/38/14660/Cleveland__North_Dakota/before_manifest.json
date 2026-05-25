@@ -1,0 +1,16 @@
+{
+  "article": "Cleveland,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/14660/Cleveland__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9bd7daf263916ce1fc5c4103319a878d1123b29241d5ad41a77daf3afb29a487",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9bd7daf263916ce1fc5c4103319a878d1123b29241d5ad41a77daf3afb29a487",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/14660/Cleveland__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "14660",
+  "timestamp": "2026-05-25T00:02:38.350952Z",
+  "version": 1
+}

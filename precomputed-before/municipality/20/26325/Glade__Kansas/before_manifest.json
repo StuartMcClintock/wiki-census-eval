@@ -1,0 +1,16 @@
+{
+  "article": "Glade,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/26325/Glade__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "54ee79e49b6bdf8aaaed5dc1bbce6df8f359968fbf26774d5bbf9db3e421c34d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "54ee79e49b6bdf8aaaed5dc1bbce6df8f359968fbf26774d5bbf9db3e421c34d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/26325/Glade__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "26325",
+  "timestamp": "2026-05-24T23:42:41.238794Z",
+  "version": 1
+}

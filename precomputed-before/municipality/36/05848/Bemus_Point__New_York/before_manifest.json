@@ -1,0 +1,16 @@
+{
+  "article": "Bemus_Point,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/05848/Bemus_Point__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2592ae8b288add1691d6edc02fd5930927ea5fb29bba8884e657fa8a6182d2c4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2592ae8b288add1691d6edc02fd5930927ea5fb29bba8884e657fa8a6182d2c4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/05848/Bemus_Point__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "05848",
+  "timestamp": "2026-05-25T00:00:31.939146Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Plumville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/61632/Plumville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c07ff247c5a8e18e856199d4fa3b3da4e59a6ec2ebe0772f6178204103982909",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c07ff247c5a8e18e856199d4fa3b3da4e59a6ec2ebe0772f6178204103982909",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/61632/Plumville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "61632",
+  "timestamp": "2026-05-25T00:08:30.718681Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Nashville,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/53634/Nashville__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8543e7617e66c7ffb52676bf9878f934fd4758645d1ef298407dd4633541b88e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8543e7617e66c7ffb52676bf9878f934fd4758645d1ef298407dd4633541b88e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/53634/Nashville__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "53634",
+  "timestamp": "2026-05-25T00:04:50.201345Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Carbonville,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/10440/Carbonville__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cb13d3101ac7388a04dd902e1e61a326aa27b11c7315e4b2c572df8b2aa85aec",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cb13d3101ac7388a04dd902e1e61a326aa27b11c7315e4b2c572df8b2aa85aec",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/10440/Carbonville__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "10440",
+  "timestamp": "2026-05-25T00:16:54.990931Z",
+  "version": 1
+}

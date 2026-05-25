@@ -1,0 +1,16 @@
+{
+  "article": "Barberton,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/04195/Barberton__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8d494a74761ec08621c2740220512917fe3097819e4f1707249a1a20febf6a11",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8d494a74761ec08621c2740220512917fe3097819e4f1707249a1a20febf6a11",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/04195/Barberton__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "04195",
+  "timestamp": "2026-05-25T00:20:01.114834Z",
+  "version": 1
+}

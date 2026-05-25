@@ -1,0 +1,16 @@
+{
+  "article": "Raglesville,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/62712/Raglesville__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5bda6dbbfbae011117673d39afafe2e596fcfef29affcdccc2bd58c9f5ab335c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5bda6dbbfbae011117673d39afafe2e596fcfef29affcdccc2bd58c9f5ab335c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/62712/Raglesville__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "62712",
+  "timestamp": "2026-05-24T23:40:09.123020Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Central,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/12460/Central__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5c9ffcccf12c08cac0a1a76ef30cc6cb95ffe5236165ef8cb6227d2c3d7b6eae",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5c9ffcccf12c08cac0a1a76ef30cc6cb95ffe5236165ef8cb6227d2c3d7b6eae",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/12460/Central__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "12460",
+  "timestamp": "2026-05-25T00:14:34.249868Z",
+  "version": 1
+}

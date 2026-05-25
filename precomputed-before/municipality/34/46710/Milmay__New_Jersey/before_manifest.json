@@ -1,0 +1,16 @@
+{
+  "article": "Milmay,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/46710/Milmay__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5e326717aa03448c441b8f8a76f41666a4bad809b5903ee7de6e99bf51806a14",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5e326717aa03448c441b8f8a76f41666a4bad809b5903ee7de6e99bf51806a14",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/46710/Milmay__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "46710",
+  "timestamp": "2026-05-24T23:57:55.362649Z",
+  "version": 1
+}

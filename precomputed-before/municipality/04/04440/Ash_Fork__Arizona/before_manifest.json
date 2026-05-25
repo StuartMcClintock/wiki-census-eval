@@ -1,0 +1,16 @@
+{
+  "article": "Ash_Fork,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/04440/Ash_Fork__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0414de19c1d06c5455a1885cb2960fbaf54b13b53adbeeae0754dfab557acb93",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0414de19c1d06c5455a1885cb2960fbaf54b13b53adbeeae0754dfab557acb93",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/04440/Ash_Fork__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "04440",
+  "timestamp": "2026-05-24T23:32:48.037172Z",
+  "version": 1
+}

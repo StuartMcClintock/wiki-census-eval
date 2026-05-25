@@ -1,0 +1,16 @@
+{
+  "article": "Kamrar,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/40215/Kamrar__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "49afcfaacd0c9c159c2031bb03595ebdd1cbfd76a893388e8438d905ddd7e0a7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "49afcfaacd0c9c159c2031bb03595ebdd1cbfd76a893388e8438d905ddd7e0a7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/40215/Kamrar__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "40215",
+  "timestamp": "2026-05-24T23:41:14.106043Z",
+  "version": 1
+}

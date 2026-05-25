@@ -1,0 +1,16 @@
+{
+  "article": "Vermontville,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/81960/Vermontville__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "be257871c29f8ce02fbfc486c2d4d95a6335d68d4e65a23ba1f022257c4ae45b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "be257871c29f8ce02fbfc486c2d4d95a6335d68d4e65a23ba1f022257c4ae45b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/81960/Vermontville__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "81960",
+  "timestamp": "2026-05-24T23:48:31.664991Z",
+  "version": 1
+}

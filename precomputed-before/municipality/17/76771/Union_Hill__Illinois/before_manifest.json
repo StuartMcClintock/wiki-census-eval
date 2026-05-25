@@ -1,0 +1,16 @@
+{
+  "article": "Union_Hill,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/76771/Union_Hill__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "04936fee44910aa6d54bf1b47c202389049d4bbb04c1f4c8681e419e9bf89c07",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "04936fee44910aa6d54bf1b47c202389049d4bbb04c1f4c8681e419e9bf89c07",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/76771/Union_Hill__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "76771",
+  "timestamp": "2026-05-24T23:39:18.196175Z",
+  "version": 1
+}

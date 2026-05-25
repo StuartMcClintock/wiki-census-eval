@@ -1,0 +1,16 @@
+{
+  "article": "Lakeview,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/37926/Lakeview__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "530a1c951a88a784d2ae0d45f23c9e04f5b1e2d716a507dda1a599fbbca3ce7c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "530a1c951a88a784d2ae0d45f23c9e04f5b1e2d716a507dda1a599fbbca3ce7c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/37926/Lakeview__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "37926",
+  "timestamp": "2026-05-25T00:20:19.157757Z",
+  "version": 1
+}

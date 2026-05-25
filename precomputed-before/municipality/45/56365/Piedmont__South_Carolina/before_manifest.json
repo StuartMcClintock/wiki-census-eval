@@ -1,0 +1,16 @@
+{
+  "article": "Piedmont,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/56365/Piedmont__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a1e51d523e8c7a04d5ff4c39742d6e187f9410b41635bcb1db785962073b8b2f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a1e51d523e8c7a04d5ff4c39742d6e187f9410b41635bcb1db785962073b8b2f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/56365/Piedmont__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "56365",
+  "timestamp": "2026-05-25T00:10:17.251306Z",
+  "version": 1
+}

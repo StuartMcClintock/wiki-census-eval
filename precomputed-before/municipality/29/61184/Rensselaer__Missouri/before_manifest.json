@@ -1,0 +1,16 @@
+{
+  "article": "Rensselaer,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/61184/Rensselaer__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fbad9d61493a90e720b64ced0cee1808b50c2b99900bef251beeda8c39e0851b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fbad9d61493a90e720b64ced0cee1808b50c2b99900bef251beeda8c39e0851b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/61184/Rensselaer__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "61184",
+  "timestamp": "2026-05-24T23:53:45.319621Z",
+  "version": 1
+}

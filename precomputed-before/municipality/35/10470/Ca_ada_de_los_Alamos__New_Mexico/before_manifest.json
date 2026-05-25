@@ -1,0 +1,16 @@
+{
+  "article": "Ca\u00f1ada_de_los_Alamos,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/10470/Ca_ada_de_los_Alamos__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b5d714465458b47fedb7764f619568004b6e32f375d4805fc74be98670fff0af",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b5d714465458b47fedb7764f619568004b6e32f375d4805fc74be98670fff0af",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/10470/Ca_ada_de_los_Alamos__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "10470",
+  "timestamp": "2026-05-24T23:58:22.182128Z",
+  "version": 1
+}

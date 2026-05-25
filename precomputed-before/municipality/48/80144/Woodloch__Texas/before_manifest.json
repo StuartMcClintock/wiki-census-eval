@@ -1,0 +1,16 @@
+{
+  "article": "Woodloch,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/80144/Woodloch__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3b8481833673251539b742cbc46177858625210fc060800a70ec07df30533349",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3b8481833673251539b742cbc46177858625210fc060800a70ec07df30533349",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/80144/Woodloch__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "80144",
+  "timestamp": "2026-05-25T00:16:51.054673Z",
+  "version": 1
+}

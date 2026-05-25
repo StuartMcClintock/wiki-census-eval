@@ -1,0 +1,16 @@
+{
+  "article": "Appleton,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/01864/Appleton__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3bca1080d73136aecb420154208b85aa85b1cede481706fcbca5426d1ba605a9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3bca1080d73136aecb420154208b85aa85b1cede481706fcbca5426d1ba605a9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/01864/Appleton__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "01864",
+  "timestamp": "2026-05-24T23:48:35.244148Z",
+  "version": 1
+}

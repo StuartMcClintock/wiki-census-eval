@@ -1,0 +1,16 @@
+{
+  "article": "Cannonsburg,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/12610/Cannonsburg__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d6a37bfbe65abb4a97f5f0c8cc8730a235f3ff392a394eb5b3e9702a057e0f90",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d6a37bfbe65abb4a97f5f0c8cc8730a235f3ff392a394eb5b3e9702a057e0f90",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/12610/Cannonsburg__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "12610",
+  "timestamp": "2026-05-24T23:43:46.955694Z",
+  "version": 1
+}

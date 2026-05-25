@@ -1,0 +1,16 @@
+{
+  "article": "Centuria,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/13850/Centuria__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "587c06355ce0a4b4df108b39f5cfb3faef1a328cd0c3137043e6a3ecc745ee81",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "587c06355ce0a4b4df108b39f5cfb3faef1a328cd0c3137043e6a3ecc745ee81",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/13850/Centuria__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "13850",
+  "timestamp": "2026-05-25T00:21:42.228885Z",
+  "version": 1
+}

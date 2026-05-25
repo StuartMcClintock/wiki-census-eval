@@ -1,0 +1,16 @@
+{
+  "article": "Industry,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/36944/Industry__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8a9b14921d92933db673882c2ab7a763e9e8f0e1fc80291e65216a2d56f9c840",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8a9b14921d92933db673882c2ab7a763e9e8f0e1fc80291e65216a2d56f9c840",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/36944/Industry__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "36944",
+  "timestamp": "2026-05-25T00:07:30.128178Z",
+  "version": 1
+}

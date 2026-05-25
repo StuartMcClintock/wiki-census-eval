@@ -1,0 +1,16 @@
+{
+  "article": "Wilson,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/83765/Wilson__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "99a767bfe27a7dca4432aa467d8d65b56ca0048e9b3202353776a757df0968a0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "99a767bfe27a7dca4432aa467d8d65b56ca0048e9b3202353776a757df0968a0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/83765/Wilson__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "83765",
+  "timestamp": "2026-05-25T00:23:25.965998Z",
+  "version": 1
+}

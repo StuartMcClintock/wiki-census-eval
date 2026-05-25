@@ -1,0 +1,16 @@
+{
+  "article": "Belk,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/05164/Belk__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d74a18c24d3875a482d6187623f3b0bdf6ba5d0c9542f969e7b50a7aa38e8225",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d74a18c24d3875a482d6187623f3b0bdf6ba5d0c9542f969e7b50a7aa38e8225",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/05164/Belk__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "05164",
+  "timestamp": "2026-05-24T23:31:49.337632Z",
+  "version": 1
+}

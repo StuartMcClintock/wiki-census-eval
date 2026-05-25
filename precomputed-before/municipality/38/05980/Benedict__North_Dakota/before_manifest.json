@@ -1,0 +1,16 @@
+{
+  "article": "Benedict,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/05980/Benedict__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a396de9cd77ad1def5f98ef5eb9434c4f947217534b22b73fe915e4f8b5a72f7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a396de9cd77ad1def5f98ef5eb9434c4f947217534b22b73fe915e4f8b5a72f7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/05980/Benedict__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "05980",
+  "timestamp": "2026-05-25T00:02:34.484658Z",
+  "version": 1
+}

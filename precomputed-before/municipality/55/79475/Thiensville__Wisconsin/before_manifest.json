@@ -1,0 +1,16 @@
+{
+  "article": "Thiensville,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/79475/Thiensville__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b18c8a0643c4296207236ae944f3b95fc8f0ab13652b40db4c1f3568ff444629",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b18c8a0643c4296207236ae944f3b95fc8f0ab13652b40db4c1f3568ff444629",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/79475/Thiensville__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "79475",
+  "timestamp": "2026-05-25T00:22:46.832364Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Reddick,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/63056/Reddick__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "254a90da7737d9b53981c25f225f635f25398f679055d7bbeddf216cc6806074",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "254a90da7737d9b53981c25f225f635f25398f679055d7bbeddf216cc6806074",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/63056/Reddick__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "63056",
+  "timestamp": "2026-05-24T23:39:04.847321Z",
+  "version": 1
+}

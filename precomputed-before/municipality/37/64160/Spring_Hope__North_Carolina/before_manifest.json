@@ -1,0 +1,16 @@
+{
+  "article": "Spring_Hope,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/64160/Spring_Hope__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f47b8fe1116fbf3e6003cc5899c2dd133f337cf25ced8d504370e542307efbea",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f47b8fe1116fbf3e6003cc5899c2dd133f337cf25ced8d504370e542307efbea",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/64160/Spring_Hope__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "64160",
+  "timestamp": "2026-05-25T00:02:24.499514Z",
+  "version": 1
+}

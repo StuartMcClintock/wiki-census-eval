@@ -1,0 +1,16 @@
+{
+  "article": "Gouglersville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/30192/Gouglersville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e03622e061ede30cab000f8187e7c4150e09d52a2cd41ded136b1f5d7934efeb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e03622e061ede30cab000f8187e7c4150e09d52a2cd41ded136b1f5d7934efeb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/30192/Gouglersville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "30192",
+  "timestamp": "2026-05-25T00:07:18.411449Z",
+  "version": 1
+}

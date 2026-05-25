@@ -1,0 +1,16 @@
+{
+  "article": "Linden,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/44625/Linden__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9031c2f324f6fd1812e2a958f03718e12cdaf5354642bf5b1e534ad634114656",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9031c2f324f6fd1812e2a958f03718e12cdaf5354642bf5b1e534ad634114656",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/44625/Linden__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "44625",
+  "timestamp": "2026-05-25T00:22:20.452571Z",
+  "version": 1
+}

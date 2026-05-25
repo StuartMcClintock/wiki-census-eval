@@ -1,0 +1,16 @@
+{
+  "article": "Kilkenny,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/33110/Kilkenny__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "81c67c8d3b10fef03380603185815332fc8e805ba3b234b636b9ff5c91a8251d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "81c67c8d3b10fef03380603185815332fc8e805ba3b234b636b9ff5c91a8251d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/33110/Kilkenny__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "33110",
+  "timestamp": "2026-05-24T23:49:12.740343Z",
+  "version": 1
+}

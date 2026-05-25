@@ -1,0 +1,16 @@
+{
+  "article": "Butterfield_Park,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/09980/Butterfield_Park__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bd7abd6de10ca64329f8c5ba6b6bb0837603e49980adbd71234667855cb4aa63",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bd7abd6de10ca64329f8c5ba6b6bb0837603e49980adbd71234667855cb4aa63",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/09980/Butterfield_Park__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "09980",
+  "timestamp": "2026-05-24T23:58:21.953162Z",
+  "version": 1
+}

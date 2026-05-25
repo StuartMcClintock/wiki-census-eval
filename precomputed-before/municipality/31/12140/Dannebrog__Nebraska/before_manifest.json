@@ -1,0 +1,16 @@
+{
+  "article": "Dannebrog,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/12140/Dannebrog__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c94beb5cd73f7caa4741496fb836a60352882558be5d08e6b37e964e4d3f924d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c94beb5cd73f7caa4741496fb836a60352882558be5d08e6b37e964e4d3f924d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/12140/Dannebrog__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "12140",
+  "timestamp": "2026-05-24T23:55:21.455349Z",
+  "version": 1
+}

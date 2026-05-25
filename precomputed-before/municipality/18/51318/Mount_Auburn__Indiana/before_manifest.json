@@ -1,0 +1,16 @@
+{
+  "article": "Mount_Auburn,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/51318/Mount_Auburn__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "03be0579809989c28138104a28cdfa762d8c7d70bc7e28ab46ba41e84d3990b1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "03be0579809989c28138104a28cdfa762d8c7d70bc7e28ab46ba41e84d3990b1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/51318/Mount_Auburn__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "51318",
+  "timestamp": "2026-05-24T23:40:03.748783Z",
+  "version": 1
+}

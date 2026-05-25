@@ -1,0 +1,16 @@
+{
+  "article": "Delano,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/18664/Delano__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e45c49006353c378327f70909112735e39a9f313b4ddab91eb78266a2b50d74a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e45c49006353c378327f70909112735e39a9f313b4ddab91eb78266a2b50d74a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/18664/Delano__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "18664",
+  "timestamp": "2026-05-25T00:06:50.578060Z",
+  "version": 1
+}

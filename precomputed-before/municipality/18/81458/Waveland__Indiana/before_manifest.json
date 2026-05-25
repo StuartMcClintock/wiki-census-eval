@@ -1,0 +1,16 @@
+{
+  "article": "Waveland,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/81458/Waveland__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6f5da5a0bc56f31472f1e1f692c31de8a78cfe07ded7482ef3b0aa41dcb30efd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6f5da5a0bc56f31472f1e1f692c31de8a78cfe07ded7482ef3b0aa41dcb30efd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/81458/Waveland__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "81458",
+  "timestamp": "2026-05-24T23:40:17.989204Z",
+  "version": 1
+}

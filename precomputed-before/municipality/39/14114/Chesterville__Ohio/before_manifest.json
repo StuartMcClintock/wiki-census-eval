@@ -1,0 +1,16 @@
+{
+  "article": "Chesterville,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/14114/Chesterville__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8e6688c96c13f5676c02caaaef0ea80025ebda6b209fc0740c75d1dc348380ea",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8e6688c96c13f5676c02caaaef0ea80025ebda6b209fc0740c75d1dc348380ea",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/14114/Chesterville__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "14114",
+  "timestamp": "2026-05-25T00:03:54.084785Z",
+  "version": 1
+}

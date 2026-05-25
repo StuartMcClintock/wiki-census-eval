@@ -1,0 +1,16 @@
+{
+  "article": "Carlton,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/13212/Carlton__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8bc2c313db58f6a0b1feeae75bb6682f73a3930d4582a575bbd85ca0e13ac0c9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8bc2c313db58f6a0b1feeae75bb6682f73a3930d4582a575bbd85ca0e13ac0c9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/13212/Carlton__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "13212",
+  "timestamp": "2026-05-24T23:36:31.201063Z",
+  "version": 1
+}

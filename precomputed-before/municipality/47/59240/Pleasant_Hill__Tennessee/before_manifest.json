@@ -1,0 +1,16 @@
+{
+  "article": "Pleasant_Hill,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/59240/Pleasant_Hill__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "675a803269bea7d86a24e01cdedb79b5c9d265dc49801c7a04ea028abaefa3ba",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "675a803269bea7d86a24e01cdedb79b5c9d265dc49801c7a04ea028abaefa3ba",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/59240/Pleasant_Hill__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "59240",
+  "timestamp": "2026-05-25T00:14:51.286933Z",
+  "version": 1
+}

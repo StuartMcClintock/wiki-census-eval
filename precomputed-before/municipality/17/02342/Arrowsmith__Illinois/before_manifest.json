@@ -1,0 +1,16 @@
+{
+  "article": "Arrowsmith,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/02342/Arrowsmith__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fe3bdbdf0bffac080f3db73974c17aca91ea7afa0492ae3c48993784a97a5cc7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fe3bdbdf0bffac080f3db73974c17aca91ea7afa0492ae3c48993784a97a5cc7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/02342/Arrowsmith__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "02342",
+  "timestamp": "2026-05-24T23:37:34.420985Z",
+  "version": 1
+}

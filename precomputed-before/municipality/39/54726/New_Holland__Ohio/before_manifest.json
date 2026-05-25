@@ -1,0 +1,16 @@
+{
+  "article": "New_Holland,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/54726/New_Holland__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d27262b42a5f230e9186e36130154ef44bfa830f0b2c4e73a51314080f8a2d4a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d27262b42a5f230e9186e36130154ef44bfa830f0b2c4e73a51314080f8a2d4a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/54726/New_Holland__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "54726",
+  "timestamp": "2026-05-25T00:04:52.227381Z",
+  "version": 1
+}

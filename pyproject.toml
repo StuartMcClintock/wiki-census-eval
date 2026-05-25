@@ -1,0 +1,20 @@
+[project]
+name = "wiki-census-eval"
+version = "0.1.0"
+description = "Evaluate proposed Wikipedia census demographics edits."
+requires-python = ">=3.8"
+dependencies = [
+  "openai>=2.0.0",
+  "pydantic>=2.0.0",
+]
+
+[project.optional-dependencies]
+test = [
+  "pytest>=8.0.0",
+]
+
+[project.scripts]
+wiki-census-eval = "wiki_census_eval.cli:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

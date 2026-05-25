@@ -1,0 +1,36 @@
+==Demographics==
+{{US Census population
+|1960= 2194
+|1970= 1956
+|1980= 1869
+|1990= 1642
+|2000= 1296
+|2010= 1163
+|2020= 716
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|access-date=June 4, 2015}}</ref>
+}}
+
+{| class="wikitable" style="text-align:right"
+|+Cullen racial composition as of 2020<ref>{{Cite web|title=Explore Census Data|url=https://data.census.gov/cedsci/table?g=1600000US2218790&tid=DECENNIALPL2020.P2|access-date=December 29, 2021|website=data.census.gov}}</ref>
+!scope="col"| Race
+!scope="col"| Number
+!scope="col"| Percentage
+|-
+!scope="row"| [[White (U.S. Census)|White]] (non-Hispanic)
+| 76
+| 10.61%
+|-
+!scope="row"| [[African American (U.S. Census)|Black or African American]] (non-Hispanic)
+| 619
+| 86.45%
+|-
+!scope="row"| [[Race (United States Census)|Other/Mixed]]
+| 11
+| 1.54%
+|-
+!scope="row"| [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]]
+| 10
+| 1.4%
+|}
+As of the [[2020 United States census]], there were 716 people, 552 households, and 295 families residing in the town.
+

@@ -1,0 +1,16 @@
+{
+  "article": "Holly_Grove,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/32800/Holly_Grove__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6717b9cfe48867414082c46837e4403c5e877e86e94094684922d82b1e41b25c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6717b9cfe48867414082c46837e4403c5e877e86e94094684922d82b1e41b25c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/32800/Holly_Grove__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "32800",
+  "timestamp": "2026-05-24T23:33:46.857400Z",
+  "version": 1
+}

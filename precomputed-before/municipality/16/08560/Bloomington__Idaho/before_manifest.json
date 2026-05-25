@@ -1,0 +1,16 @@
+{
+  "article": "Bloomington,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/08560/Bloomington__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "05c2614a84f99cfc99ffda7b75c5fb284ed7626845f663c7e9b071924a77f972",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "05c2614a84f99cfc99ffda7b75c5fb284ed7626845f663c7e9b071924a77f972",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/08560/Bloomington__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "08560",
+  "timestamp": "2026-05-24T23:37:16.613264Z",
+  "version": 1
+}

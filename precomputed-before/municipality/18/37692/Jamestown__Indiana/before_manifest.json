@@ -1,0 +1,16 @@
+{
+  "article": "Jamestown,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/37692/Jamestown__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4ff10f2f39851cea6cbeeb67e24ce9be336987a64a33e1a559ae68279aa3358d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4ff10f2f39851cea6cbeeb67e24ce9be336987a64a33e1a559ae68279aa3358d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/37692/Jamestown__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "37692",
+  "timestamp": "2026-05-24T23:39:40.233435Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Finlayson,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/21122/Finlayson__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ec7fcf4b785cf28fd838a7f832e6d30e3c2cea45294310831ee2e13046ad3717",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ec7fcf4b785cf28fd838a7f832e6d30e3c2cea45294310831ee2e13046ad3717",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/21122/Finlayson__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "21122",
+  "timestamp": "2026-05-24T23:48:55.014619Z",
+  "version": 1
+}

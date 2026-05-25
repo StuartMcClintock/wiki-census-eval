@@ -1,0 +1,16 @@
+{
+  "article": "Bangor,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/04032/Bangor__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d19a4ee0f4859d6f291bf7bcb088d6a304edd1e4ba011b5a16430b8e6f8952ee",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d19a4ee0f4859d6f291bf7bcb088d6a304edd1e4ba011b5a16430b8e6f8952ee",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/04032/Bangor__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "04032",
+  "timestamp": "2026-05-25T00:06:13.012438Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Schaefferstown,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/68144/Schaefferstown__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3b0badaca21c92266a20cfccea3238e9b7a94bf4ded2538abb2bebe4af741434",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3b0badaca21c92266a20cfccea3238e9b7a94bf4ded2538abb2bebe4af741434",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/68144/Schaefferstown__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "68144",
+  "timestamp": "2026-05-25T00:08:57.858173Z",
+  "version": 1
+}

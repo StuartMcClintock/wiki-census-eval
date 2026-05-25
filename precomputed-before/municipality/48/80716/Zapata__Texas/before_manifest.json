@@ -1,0 +1,16 @@
+{
+  "article": "Zapata,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/80716/Zapata__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4b7c5ac4e296712b0929b5924381ac0515953e1af81f4c9b5ffc893cac7d5055",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4b7c5ac4e296712b0929b5924381ac0515953e1af81f4c9b5ffc893cac7d5055",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/80716/Zapata__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "80716",
+  "timestamp": "2026-05-25T00:16:52.002832Z",
+  "version": 1
+}

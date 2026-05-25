@@ -1,0 +1,16 @@
+{
+  "article": "Wataga,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/79124/Wataga__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2dfebef06ba2cf3a826497507e5ebba6236283afbd664772830be0877e1e052c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2dfebef06ba2cf3a826497507e5ebba6236283afbd664772830be0877e1e052c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/79124/Wataga__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "79124",
+  "timestamp": "2026-05-24T23:39:20.665963Z",
+  "version": 1
+}

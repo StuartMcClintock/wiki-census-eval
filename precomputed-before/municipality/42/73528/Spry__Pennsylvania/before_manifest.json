@@ -1,0 +1,16 @@
+{
+  "article": "Spry,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/73528/Spry__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "864c442166388f436e551cdbe7fd631961fc3472a3c06e96116b66a637b31143",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "864c442166388f436e551cdbe7fd631961fc3472a3c06e96116b66a637b31143",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/73528/Spry__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "73528",
+  "timestamp": "2026-05-25T00:09:10.662888Z",
+  "version": 1
+}

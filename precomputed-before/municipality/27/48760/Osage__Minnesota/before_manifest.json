@@ -1,0 +1,16 @@
+{
+  "article": "Osage,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/48760/Osage__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fe96bb3119e59db6ae731af389f28f220bf1833ed7b3cae0fcf12a481eec203d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fe96bb3119e59db6ae731af389f28f220bf1833ed7b3cae0fcf12a481eec203d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/48760/Osage__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "48760",
+  "timestamp": "2026-05-24T23:49:26.260909Z",
+  "version": 1
+}

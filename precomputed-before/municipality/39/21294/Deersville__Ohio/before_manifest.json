@@ -1,0 +1,16 @@
+{
+  "article": "Deersville,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/21294/Deersville__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6cb13c6a35e77ef8b58a6334622af892ce279dc8d80ba7dfca5355ed02b7adc8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6cb13c6a35e77ef8b58a6334622af892ce279dc8d80ba7dfca5355ed02b7adc8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/21294/Deersville__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "21294",
+  "timestamp": "2026-05-25T00:04:03.770194Z",
+  "version": 1
+}

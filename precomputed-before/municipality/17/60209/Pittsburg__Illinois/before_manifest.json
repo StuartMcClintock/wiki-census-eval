@@ -1,0 +1,16 @@
+{
+  "article": "Pittsburg,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/60209/Pittsburg__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e58dc64ab1e2a7d59dfdfee33101b979f1d32e2aea75ea1d3696cfa1458cef56",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e58dc64ab1e2a7d59dfdfee33101b979f1d32e2aea75ea1d3696cfa1458cef56",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/60209/Pittsburg__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "60209",
+  "timestamp": "2026-05-24T23:39:02.392892Z",
+  "version": 1
+}

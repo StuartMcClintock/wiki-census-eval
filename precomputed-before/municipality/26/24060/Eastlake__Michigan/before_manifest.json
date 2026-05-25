@@ -1,0 +1,16 @@
+{
+  "article": "Eastlake,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/24060/Eastlake__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0665e96dd71d15c75a39fe1982fb938490a8aac4b078d444448aa9d2eb1b70ae",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0665e96dd71d15c75a39fe1982fb938490a8aac4b078d444448aa9d2eb1b70ae",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/24060/Eastlake__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "24060",
+  "timestamp": "2026-05-24T23:47:52.807169Z",
+  "version": 1
+}

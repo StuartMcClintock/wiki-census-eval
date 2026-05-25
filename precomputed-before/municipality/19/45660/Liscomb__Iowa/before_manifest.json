@@ -1,0 +1,16 @@
+{
+  "article": "Liscomb,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/45660/Liscomb__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d8db3a883795c436d51857323b137bb920d75da54fe8e94798a709317f27e9ff",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d8db3a883795c436d51857323b137bb920d75da54fe8e94798a709317f27e9ff",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/45660/Liscomb__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "45660",
+  "timestamp": "2026-05-24T23:41:20.728579Z",
+  "version": 1
+}

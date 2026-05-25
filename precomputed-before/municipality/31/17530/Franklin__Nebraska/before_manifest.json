@@ -1,0 +1,16 @@
+{
+  "article": "Franklin,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/17530/Franklin__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "97837d2c5b9e637471d153cdc84e8488f8d1deb0afc8ab018f6c15580425fa2a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "97837d2c5b9e637471d153cdc84e8488f8d1deb0afc8ab018f6c15580425fa2a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/17530/Franklin__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "17530",
+  "timestamp": "2026-05-24T23:55:27.490855Z",
+  "version": 1
+}

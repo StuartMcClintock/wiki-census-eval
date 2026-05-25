@@ -1,0 +1,16 @@
+{
+  "article": "Cavalero,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/10645/Cavalero__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": false,
+  "current_hash": null,
+  "location_kind": "municipality",
+  "manifest_had_section": false,
+  "manifest_hash": null,
+  "reason": "no demographics section then or now",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/10645/Cavalero__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "10645",
+  "timestamp": "2026-05-25T00:20:05.216633Z",
+  "version": 1
+}

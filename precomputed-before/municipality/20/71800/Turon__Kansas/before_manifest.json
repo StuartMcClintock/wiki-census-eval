@@ -1,0 +1,16 @@
+{
+  "article": "Turon,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/71800/Turon__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ea97f78ddb555605103245334dc6087777af7e1d45ba4140b6e10fcec561a1c3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ea97f78ddb555605103245334dc6087777af7e1d45ba4140b6e10fcec561a1c3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/71800/Turon__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "71800",
+  "timestamp": "2026-05-24T23:43:33.350278Z",
+  "version": 1
+}

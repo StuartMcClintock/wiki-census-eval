@@ -1,0 +1,11 @@
+==Demographics==
+{{US Census population
+|2020= 1337
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=http://www.census.gov/prod/www/decennial.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2016}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A42|title=Census Population API|publisher=United States Census Bureau|accessdate=Oct 12, 2022}}</ref>
+}}
+At the [[2010 United States Census|2010 census]], there were 1,270 people, 550 households, and 393 families in the CDP. The population density was 317.5 people per square mile. There were 1,211 housing units at an average density of 293.2/sq&nbsp;mi. The [[Race and ethnicity in the United States Census#2010 census|racial makeup]] of the CDP was 94.6% White, 2.3% African American, 0.9% Asian, 1.1% from other races, and 1.1% from two or more races. Hispanic or Latino of any race were 5% of the population.
+
+There were 550 households, 14.4% had children under the age of 18 living with them, 59.8% were married couples living together, 7.3% had a female householder with no husband present, and 28.5% were non-families. 22.7% of households were made up of individuals, and 9.5% were one person aged 65 or older. The average household size was 2.31 and the average family size was 2.68.
+
+The age distribution was 16.5% under the age of 18, 58.9% from 18 to 64, and 24.6% 65 or older. The median age was 51.7 years.
+

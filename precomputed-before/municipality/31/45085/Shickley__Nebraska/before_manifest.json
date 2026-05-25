@@ -1,0 +1,16 @@
+{
+  "article": "Shickley,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/45085/Shickley__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ad835d865561c1a7ac4875b51bb9d103aba26f4b3c662e5f2e22662b91989edb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ad835d865561c1a7ac4875b51bb9d103aba26f4b3c662e5f2e22662b91989edb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/45085/Shickley__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "45085",
+  "timestamp": "2026-05-24T23:57:16.078416Z",
+  "version": 1
+}

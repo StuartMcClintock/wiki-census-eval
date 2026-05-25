@@ -1,0 +1,16 @@
+{
+  "article": "Denio,_Nevada",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/32/18500/Denio__Nevada/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "553267a998db91cd748e0e572bc20bef18a4a2e49f5e767ca85fbc0710d4ceb2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "553267a998db91cd748e0e572bc20bef18a4a2e49f5e767ca85fbc0710d4ceb2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/32/18500/Denio__Nevada/manifest.json",
+  "state_fips": "32",
+  "status": "match",
+  "target_fips": "18500",
+  "timestamp": "2026-05-24T23:57:28.252367Z",
+  "version": 1
+}

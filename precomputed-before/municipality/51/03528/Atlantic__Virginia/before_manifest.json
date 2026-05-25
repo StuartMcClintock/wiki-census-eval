@@ -1,0 +1,16 @@
+{
+  "article": "Atlantic,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/03528/Atlantic__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dcf34383cde343205dc2a98c5240418d1c8b0efbcad27bb858d62c3e997a2de4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dcf34383cde343205dc2a98c5240418d1c8b0efbcad27bb858d62c3e997a2de4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/03528/Atlantic__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "03528",
+  "timestamp": "2026-05-25T00:17:33.336528Z",
+  "version": 1
+}

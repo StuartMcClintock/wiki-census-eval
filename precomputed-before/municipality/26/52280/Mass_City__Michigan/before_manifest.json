@@ -1,0 +1,16 @@
+{
+  "article": "Mass_City,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/52280/Mass_City__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "94b72b8d0b88a55b1d682ca6b4802d52180d63d85f1a0f34061b60570b6f4a6d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "94b72b8d0b88a55b1d682ca6b4802d52180d63d85f1a0f34061b60570b6f4a6d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/52280/Mass_City__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "52280",
+  "timestamp": "2026-05-24T23:48:05.386628Z",
+  "version": 1
+}

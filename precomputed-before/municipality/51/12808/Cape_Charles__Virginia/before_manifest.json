@@ -1,0 +1,16 @@
+{
+  "article": "Cape_Charles,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/12808/Cape_Charles__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d93eb1712619f48653d87a29a833ec7f804334d243b65e4aeda974ce525c33a7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d93eb1712619f48653d87a29a833ec7f804334d243b65e4aeda974ce525c33a7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/12808/Cape_Charles__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "12808",
+  "timestamp": "2026-05-25T00:19:04.423079Z",
+  "version": 1
+}

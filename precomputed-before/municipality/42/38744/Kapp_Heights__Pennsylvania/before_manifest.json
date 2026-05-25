@@ -1,0 +1,16 @@
+{
+  "article": "Kapp_Heights,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/38744/Kapp_Heights__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ffc31541b3b0171fa34e9efd6a491c3e1b980fe2d53ecda37ffd65d40881270a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ffc31541b3b0171fa34e9efd6a491c3e1b980fe2d53ecda37ffd65d40881270a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/38744/Kapp_Heights__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "38744",
+  "timestamp": "2026-05-25T00:07:43.812661Z",
+  "version": 1
+}

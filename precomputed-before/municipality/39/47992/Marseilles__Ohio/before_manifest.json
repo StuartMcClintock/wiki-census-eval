@@ -1,0 +1,16 @@
+{
+  "article": "Marseilles,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/47992/Marseilles__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "86db7d29691729963cbeb4d21f85f799e957dbfa0722e12bafbae312eb8e7119",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "86db7d29691729963cbeb4d21f85f799e957dbfa0722e12bafbae312eb8e7119",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/47992/Marseilles__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "47992",
+  "timestamp": "2026-05-25T00:04:43.678850Z",
+  "version": 1
+}

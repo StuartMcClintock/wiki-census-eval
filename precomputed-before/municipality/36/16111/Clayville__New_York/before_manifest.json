@@ -1,0 +1,16 @@
+{
+  "article": "Clayville,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/16111/Clayville__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2d9f88319e5be2bc7e13f27a2cb5441e8b79f261c6d0bd8da65741883ddad62c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2d9f88319e5be2bc7e13f27a2cb5441e8b79f261c6d0bd8da65741883ddad62c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/16111/Clayville__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "16111",
+  "timestamp": "2026-05-25T00:00:36.274302Z",
+  "version": 1
+}

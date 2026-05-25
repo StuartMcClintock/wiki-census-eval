@@ -1,0 +1,16 @@
+{
+  "article": "Kempton,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/39441/Kempton__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a2ae65d9090e5dfc8dc54c55a147eedb6bb51cac81efaa73a2d79180b322a42b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a2ae65d9090e5dfc8dc54c55a147eedb6bb51cac81efaa73a2d79180b322a42b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/39441/Kempton__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "39441",
+  "timestamp": "2026-05-24T23:38:25.860889Z",
+  "version": 1
+}

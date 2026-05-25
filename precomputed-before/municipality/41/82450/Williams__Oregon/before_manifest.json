@@ -1,0 +1,16 @@
+{
+  "article": "Williams,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/82450/Williams__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4d07c84c8442a7e66ccef31b31e64b6d20c407460a64f9b6db8e48d8865a5f25",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4d07c84c8442a7e66ccef31b31e64b6d20c407460a64f9b6db8e48d8865a5f25",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/82450/Williams__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "82450",
+  "timestamp": "2026-05-25T00:06:05.321159Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Fort_Green,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/23850/Fort_Green__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "45d04ba30a1d543962a729f8a42275436e1f4c0e04a2b93ebd05d6a6f186621e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "45d04ba30a1d543962a729f8a42275436e1f4c0e04a2b93ebd05d6a6f186621e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/23850/Fort_Green__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "23850",
+  "timestamp": "2026-05-24T23:36:11.629953Z",
+  "version": 1
+}

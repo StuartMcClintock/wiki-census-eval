@@ -1,0 +1,16 @@
+{
+  "article": "Pulaski,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/63000/Pulaski__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ec51b6f9bc63ff83ba4c5bf33bc72b25e67656b1a347b965cd957c336d40c090",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ec51b6f9bc63ff83ba4c5bf33bc72b25e67656b1a347b965cd957c336d40c090",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/63000/Pulaski__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "63000",
+  "timestamp": "2026-05-24T23:37:04.540252Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Conway,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/17900/Conway__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d2d461b2c1df0f0cf52faeb3245e3e16719635405927654e8fa2c8ecb398cf7c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d2d461b2c1df0f0cf52faeb3245e3e16719635405927654e8fa2c8ecb398cf7c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/17900/Conway__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "17900",
+  "timestamp": "2026-05-24T23:47:49.907691Z",
+  "version": 1
+}

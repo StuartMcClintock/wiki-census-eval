@@ -1,0 +1,16 @@
+{
+  "article": "Omaha,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/52160/Omaha__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "76fc9422caa0004123c174a902ecdce218d7a4de744a9ed49cb2161b8fa0014d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "76fc9422caa0004123c174a902ecdce218d7a4de744a9ed49cb2161b8fa0014d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/52160/Omaha__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "52160",
+  "timestamp": "2026-05-24T23:34:01.732093Z",
+  "version": 1
+}

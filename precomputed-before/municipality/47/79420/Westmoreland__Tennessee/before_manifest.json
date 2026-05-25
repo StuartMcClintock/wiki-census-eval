@@ -1,0 +1,16 @@
+{
+  "article": "Westmoreland,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/79420/Westmoreland__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "857faac5646241faba59760fa05fdbf5cacb0159f770e5ea18e8139642f91e66",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "857faac5646241faba59760fa05fdbf5cacb0159f770e5ea18e8139642f91e66",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/79420/Westmoreland__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "79420",
+  "timestamp": "2026-05-25T00:14:58.571078Z",
+  "version": 1
+}

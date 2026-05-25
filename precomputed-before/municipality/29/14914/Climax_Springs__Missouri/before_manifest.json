@@ -1,0 +1,16 @@
+{
+  "article": "Climax_Springs,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/14914/Climax_Springs__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b4263027db893ce941f87750175c01beca3e3b4e577a7030d7cd0fdab2c73a2c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b4263027db893ce941f87750175c01beca3e3b4e577a7030d7cd0fdab2c73a2c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/14914/Climax_Springs__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "14914",
+  "timestamp": "2026-05-24T23:50:55.448672Z",
+  "version": 1
+}

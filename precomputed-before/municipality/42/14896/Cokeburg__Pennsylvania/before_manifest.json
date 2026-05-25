@@ -1,0 +1,16 @@
+{
+  "article": "Cokeburg,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/14896/Cokeburg__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c91fd8f358139e46607287c8f369fa4856aead2e6fa476095183bcadaf0ab579",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c91fd8f358139e46607287c8f369fa4856aead2e6fa476095183bcadaf0ab579",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/14896/Cokeburg__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "14896",
+  "timestamp": "2026-05-25T00:06:44.122256Z",
+  "version": 1
+}

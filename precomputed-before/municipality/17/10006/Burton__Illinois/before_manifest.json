@@ -1,0 +1,16 @@
+{
+  "article": "Burton,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/10006/Burton__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "70b0b4f7e065582cf8703c007819790c4eeaf82db4b4d06c2128b4dad7c5f5ad",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "70b0b4f7e065582cf8703c007819790c4eeaf82db4b4d06c2128b4dad7c5f5ad",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/10006/Burton__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "10006",
+  "timestamp": "2026-05-24T23:37:53.537466Z",
+  "version": 1
+}

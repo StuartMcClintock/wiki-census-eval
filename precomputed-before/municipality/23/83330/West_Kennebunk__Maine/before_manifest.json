@@ -1,0 +1,16 @@
+{
+  "article": "West_Kennebunk,_Maine",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/23/83330/West_Kennebunk__Maine/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bdf4b5e501430e98b2203d81e08a021c2b034c8fc15b663209a5df34421dd957",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bdf4b5e501430e98b2203d81e08a021c2b034c8fc15b663209a5df34421dd957",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/23/83330/West_Kennebunk__Maine/manifest.json",
+  "state_fips": "23",
+  "status": "match",
+  "target_fips": "83330",
+  "timestamp": "2026-05-24T23:45:13.538976Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Pine_Brook_Hill,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/59240/Pine_Brook_Hill__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b72af0836707448eab99fbadc9f9023a50b7216fc2ba0a9a80b474e929462b6f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b72af0836707448eab99fbadc9f9023a50b7216fc2ba0a9a80b474e929462b6f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/59240/Pine_Brook_Hill__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "59240",
+  "timestamp": "2026-05-24T23:35:36.940027Z",
+  "version": 1
+}

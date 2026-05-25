@@ -1,0 +1,16 @@
+{
+  "article": "Goldcreek,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/31825/Goldcreek__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3a37aedd15377ffa0d5dfbb9e19a460f1ba05e71f7e29cbde3638cc3c2e1aaef",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3a37aedd15377ffa0d5dfbb9e19a460f1ba05e71f7e29cbde3638cc3c2e1aaef",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/31825/Goldcreek__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "31825",
+  "timestamp": "2026-05-24T23:54:27.488750Z",
+  "version": 1
+}

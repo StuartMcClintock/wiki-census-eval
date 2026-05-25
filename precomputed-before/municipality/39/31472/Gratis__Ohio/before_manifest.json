@@ -1,0 +1,16 @@
+{
+  "article": "Gratis,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/31472/Gratis__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "066c9ed161ed66cbb4f9584a68ed81e3026d5265d68ba71d97634611a184ffda",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "066c9ed161ed66cbb4f9584a68ed81e3026d5265d68ba71d97634611a184ffda",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/31472/Gratis__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "31472",
+  "timestamp": "2026-05-25T00:04:14.152100Z",
+  "version": 1
+}

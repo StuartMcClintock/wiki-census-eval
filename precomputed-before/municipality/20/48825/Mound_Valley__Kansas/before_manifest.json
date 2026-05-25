@@ -1,0 +1,16 @@
+{
+  "article": "Mound_Valley,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/48825/Mound_Valley__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "84eb52af3b916392070cd6d35ad0bf0c6a533dd388bba9d0cb2f757ad89e5e5a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "84eb52af3b916392070cd6d35ad0bf0c6a533dd388bba9d0cb2f757ad89e5e5a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/48825/Mound_Valley__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "48825",
+  "timestamp": "2026-05-24T23:43:11.394903Z",
+  "version": 1
+}

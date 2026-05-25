@@ -1,0 +1,16 @@
+{
+  "article": "Ithaca,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/24285/Ithaca__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5deb7ac766e3956defb25d4e471ec661fdeef7acdca03923f58e7d28882b5902",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5deb7ac766e3956defb25d4e471ec661fdeef7acdca03923f58e7d28882b5902",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/24285/Ithaca__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "24285",
+  "timestamp": "2026-05-24T23:55:34.683084Z",
+  "version": 1
+}

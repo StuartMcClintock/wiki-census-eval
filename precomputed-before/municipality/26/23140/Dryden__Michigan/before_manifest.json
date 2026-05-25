@@ -1,0 +1,16 @@
+{
+  "article": "Dryden,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/23140/Dryden__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0a67aba20a8fbf37f22d67d3b953d7297de93bf098ab71c0c9505202164839ad",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0a67aba20a8fbf37f22d67d3b953d7297de93bf098ab71c0c9505202164839ad",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/23140/Dryden__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "23140",
+  "timestamp": "2026-05-24T23:47:52.318952Z",
+  "version": 1
+}

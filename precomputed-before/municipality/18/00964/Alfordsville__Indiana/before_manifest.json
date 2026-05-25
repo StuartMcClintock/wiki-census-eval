@@ -1,0 +1,16 @@
+{
+  "article": "Alfordsville,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/00964/Alfordsville__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ca53ae31b21b781510e6cfdc7c2ddd8bfe1dc2869c8233d6f996fb8618668388",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ca53ae31b21b781510e6cfdc7c2ddd8bfe1dc2869c8233d6f996fb8618668388",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/00964/Alfordsville__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "00964",
+  "timestamp": "2026-05-24T23:39:24.934818Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Jim_Falls,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/38225/Jim_Falls__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3a27f3dc5d1764c572187b26931717896a9cf1c35e51a78d96f5a5f82dd5511c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3a27f3dc5d1764c572187b26931717896a9cf1c35e51a78d96f5a5f82dd5511c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/38225/Jim_Falls__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "38225",
+  "timestamp": "2026-05-25T00:22:14.665392Z",
+  "version": 1
+}

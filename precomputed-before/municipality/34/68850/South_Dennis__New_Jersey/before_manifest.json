@@ -1,0 +1,16 @@
+{
+  "article": "South_Dennis,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/68850/South_Dennis__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e4112a53e22c3d988669a0854f78a8fd647b7720352499c54bcd95bd8a44c3d6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e4112a53e22c3d988669a0854f78a8fd647b7720352499c54bcd95bd8a44c3d6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/68850/South_Dennis__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "68850",
+  "timestamp": "2026-05-24T23:58:02.300068Z",
+  "version": 1
+}

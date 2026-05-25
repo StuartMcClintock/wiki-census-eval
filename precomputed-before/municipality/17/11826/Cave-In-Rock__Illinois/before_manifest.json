@@ -1,0 +1,16 @@
+{
+  "article": "Cave-In-Rock,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/11826/Cave-In-Rock__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4b976f6ddb1591e78a03b36643008e38edc40eab484a7bc54567a857cf47efbc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4b976f6ddb1591e78a03b36643008e38edc40eab484a7bc54567a857cf47efbc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/11826/Cave-In-Rock__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "11826",
+  "timestamp": "2026-05-24T23:37:55.545347Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Mentasta_Lake,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/48540/Mentasta_Lake__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "59369dc0db4a917541c84e2233ce9acce40db516248d07284e6c683711139260",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "59369dc0db4a917541c84e2233ce9acce40db516248d07284e6c683711139260",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/48540/Mentasta_Lake__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "48540",
+  "timestamp": "2026-05-24T23:32:27.109533Z",
+  "version": 1
+}

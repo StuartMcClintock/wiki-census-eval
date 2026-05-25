@@ -1,0 +1,16 @@
+{
+  "article": "Libertyville,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/44985/Libertyville__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "146db7623a1bffef5dbcab78d3e3cd8b1fffbbc0705d3b50f521a3ae83849a3a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "146db7623a1bffef5dbcab78d3e3cd8b1fffbbc0705d3b50f521a3ae83849a3a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/44985/Libertyville__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "44985",
+  "timestamp": "2026-05-24T23:41:19.887367Z",
+  "version": 1
+}

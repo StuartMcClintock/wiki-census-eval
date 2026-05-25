@@ -1,0 +1,16 @@
+{
+  "article": "Bronwood,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/10860/Bronwood__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bee6f3f4a721fae4f6a122c1dac9b52ef048d3e837b842d75171d7740752f16d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bee6f3f4a721fae4f6a122c1dac9b52ef048d3e837b842d75171d7740752f16d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/10860/Bronwood__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "10860",
+  "timestamp": "2026-05-24T23:36:30.089312Z",
+  "version": 1
+}

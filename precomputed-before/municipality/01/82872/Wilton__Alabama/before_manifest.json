@@ -1,0 +1,16 @@
+{
+  "article": "Wilton,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/82872/Wilton__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3b0aba70f3798584dba2200520366fadc1a9ac2ecc8f309263c4ae7a9b5dd88b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3b0aba70f3798584dba2200520366fadc1a9ac2ecc8f309263c4ae7a9b5dd88b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/82872/Wilton__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "82872",
+  "timestamp": "2026-05-24T23:32:16.769295Z",
+  "version": 1
+}

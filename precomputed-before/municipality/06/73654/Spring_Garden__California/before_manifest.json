@@ -1,0 +1,16 @@
+{
+  "article": "Spring_Garden,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/73654/Spring_Garden__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "636d9a3ceecc2fa2454e5eb419ba0ed688ba0436c5229c2b1fbe42d7b1c683a6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "636d9a3ceecc2fa2454e5eb419ba0ed688ba0436c5229c2b1fbe42d7b1c683a6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/73654/Spring_Garden__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "73654",
+  "timestamp": "2026-05-24T23:35:06.953462Z",
+  "version": 1
+}

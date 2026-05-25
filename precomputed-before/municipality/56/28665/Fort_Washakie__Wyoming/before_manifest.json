@@ -1,0 +1,16 @@
+{
+  "article": "Fort_Washakie,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/28665/Fort_Washakie__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ca15b58f77531587fb5d5777b5b7266b7a33a65ca4eae01613354be13c495b54",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ca15b58f77531587fb5d5777b5b7266b7a33a65ca4eae01613354be13c495b54",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/28665/Fort_Washakie__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "28665",
+  "timestamp": "2026-05-25T00:23:13.728775Z",
+  "version": 1
+}

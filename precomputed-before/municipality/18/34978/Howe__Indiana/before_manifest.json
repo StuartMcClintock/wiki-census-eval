@@ -1,0 +1,16 @@
+{
+  "article": "Howe,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/34978/Howe__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "83544e569f5866818752330533b38b2badc83d5e941621c89d28011235aeb07a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "83544e569f5866818752330533b38b2badc83d5e941621c89d28011235aeb07a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/34978/Howe__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "34978",
+  "timestamp": "2026-05-24T23:39:39.382800Z",
+  "version": 1
+}

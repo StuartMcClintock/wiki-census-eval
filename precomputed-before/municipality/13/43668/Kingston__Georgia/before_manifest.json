@@ -1,0 +1,16 @@
+{
+  "article": "Kingston,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/43668/Kingston__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1fa26595821e5b6e3ac10c5ff08888b4fcc1862991bc40b70b389e428392f092",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1fa26595821e5b6e3ac10c5ff08888b4fcc1862991bc40b70b389e428392f092",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/43668/Kingston__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "43668",
+  "timestamp": "2026-05-24T23:36:52.247724Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "North_Bend,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/56182/North_Bend__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8efcfbece8d2bbd14d29f9d96d029b6a0e6880bf4e41d1fb58763d80c70432b7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8efcfbece8d2bbd14d29f9d96d029b6a0e6880bf4e41d1fb58763d80c70432b7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/56182/North_Bend__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "56182",
+  "timestamp": "2026-05-25T00:04:54.432566Z",
+  "version": 1
+}

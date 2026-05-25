@@ -1,0 +1,16 @@
+{
+  "article": "Clarkston_Heights-Vineland,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/12680/Clarkston_Heights-Vineland__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6ef2137428fdba173f6fb5c0dfe2959b545d78c4bb6b456e18c46c94398c597c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6ef2137428fdba173f6fb5c0dfe2959b545d78c4bb6b456e18c46c94398c597c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/12680/Clarkston_Heights-Vineland__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "12680",
+  "timestamp": "2026-05-25T00:20:06.154177Z",
+  "version": 1
+}

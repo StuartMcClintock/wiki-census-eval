@@ -1,0 +1,16 @@
+{
+  "article": "Egeland,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/22540/Egeland__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a554eead50e24f37281777715212bf137536c83562f7edf5f87dbd9b2f26c0f7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a554eead50e24f37281777715212bf137536c83562f7edf5f87dbd9b2f26c0f7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/22540/Egeland__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "22540",
+  "timestamp": "2026-05-25T00:02:53.291377Z",
+  "version": 1
+}

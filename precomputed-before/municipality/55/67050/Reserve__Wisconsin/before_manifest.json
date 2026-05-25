@@ -1,0 +1,16 @@
+{
+  "article": "Reserve,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/67050/Reserve__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7776c9a9a23c158302e83119ee58eebea658506052b5b8f4571ca9a8fdd15e7d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7776c9a9a23c158302e83119ee58eebea658506052b5b8f4571ca9a8fdd15e7d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/67050/Reserve__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "67050",
+  "timestamp": "2026-05-25T00:22:37.958663Z",
+  "version": 1
+}

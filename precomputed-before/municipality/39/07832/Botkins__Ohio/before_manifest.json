@@ -1,0 +1,16 @@
+{
+  "article": "Botkins,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/07832/Botkins__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "762cad2612cea5c8b8db51838caff2e9473731194c27e41324c960844a484db5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "762cad2612cea5c8b8db51838caff2e9473731194c27e41324c960844a484db5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/07832/Botkins__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "07832",
+  "timestamp": "2026-05-25T00:03:36.825406Z",
+  "version": 1
+}

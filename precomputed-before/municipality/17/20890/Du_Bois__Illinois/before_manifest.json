@@ -1,0 +1,16 @@
+{
+  "article": "Du_Bois,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/20890/Du_Bois__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "561cb4cbaaae31cfa19724e47170651ba8c4d9194e119ab7709d6ee7203cb286",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "561cb4cbaaae31cfa19724e47170651ba8c4d9194e119ab7709d6ee7203cb286",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/20890/Du_Bois__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "20890",
+  "timestamp": "2026-05-24T23:38:07.559300Z",
+  "version": 1
+}

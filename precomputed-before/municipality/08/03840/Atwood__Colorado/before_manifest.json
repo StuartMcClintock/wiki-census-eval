@@ -1,0 +1,16 @@
+{
+  "article": "Atwood,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/03840/Atwood__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "df961596f56d90769289b5532a50f1cd9721f14d16f3154dc495b1260e827385",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "df961596f56d90769289b5532a50f1cd9721f14d16f3154dc495b1260e827385",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/03840/Atwood__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "03840",
+  "timestamp": "2026-05-24T23:35:18.219452Z",
+  "version": 1
+}

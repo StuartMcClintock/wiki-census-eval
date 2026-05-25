@@ -1,0 +1,16 @@
+{
+  "article": "Dammeron_Valley,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/18090/Dammeron_Valley__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7c2dd03b99113d3318c280de30333697a4bd3eaad37b152543ea60090053baf2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7c2dd03b99113d3318c280de30333697a4bd3eaad37b152543ea60090053baf2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/18090/Dammeron_Valley__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "18090",
+  "timestamp": "2026-05-25T00:16:56.436776Z",
+  "version": 1
+}

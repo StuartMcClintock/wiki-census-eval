@@ -1,0 +1,16 @@
+{
+  "article": "Sheakleyville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/69936/Sheakleyville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4430a496ecc07edd9bb6687c9aba31fec7fe8ab78d728b725533712190e47e0c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4430a496ecc07edd9bb6687c9aba31fec7fe8ab78d728b725533712190e47e0c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/69936/Sheakleyville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "69936",
+  "timestamp": "2026-05-25T00:09:02.002550Z",
+  "version": 1
+}

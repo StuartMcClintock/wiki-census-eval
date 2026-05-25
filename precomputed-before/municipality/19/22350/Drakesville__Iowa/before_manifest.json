@@ -1,0 +1,16 @@
+{
+  "article": "Drakesville,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/22350/Drakesville__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8e04a681cb818a0cd8207efce682e6813a07c8833f3651a62d6786e091a10502",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8e04a681cb818a0cd8207efce682e6813a07c8833f3651a62d6786e091a10502",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/22350/Drakesville__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "22350",
+  "timestamp": "2026-05-24T23:40:42.672643Z",
+  "version": 1
+}

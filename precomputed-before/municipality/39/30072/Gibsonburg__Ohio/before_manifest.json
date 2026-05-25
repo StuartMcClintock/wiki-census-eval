@@ -1,0 +1,16 @@
+{
+  "article": "Gibsonburg,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/30072/Gibsonburg__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "31d58c33c17ac7c022879a2c756e7ca585c99ae3f32abbe4fa78bdc0df60a3e8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "31d58c33c17ac7c022879a2c756e7ca585c99ae3f32abbe4fa78bdc0df60a3e8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/30072/Gibsonburg__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "30072",
+  "timestamp": "2026-05-25T00:04:11.517994Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "The_Ponds,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/72726/The_Ponds__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6bc3ada031c79cb93a39f94d1b2311b2a4282888f65c402a57fd6fdac764186d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6bc3ada031c79cb93a39f94d1b2311b2a4282888f65c402a57fd6fdac764186d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/72726/The_Ponds__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "72726",
+  "timestamp": "2026-05-24T23:58:04.090128Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Joliet,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/39700/Joliet__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0de5e64c5ce031a25ab88d7d38bd42a4ef6070380b7a0858ba62a6aeb82d064c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0de5e64c5ce031a25ab88d7d38bd42a4ef6070380b7a0858ba62a6aeb82d064c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/39700/Joliet__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "39700",
+  "timestamp": "2026-05-24T23:54:32.625120Z",
+  "version": 1
+}

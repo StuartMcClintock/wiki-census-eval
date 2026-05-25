@@ -1,0 +1,16 @@
+{
+  "article": "McGill,_Nevada",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/32/44200/McGill__Nevada/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5351c4daf51b24484a6d43b2e860db25583792d1e62b5b22c9968995a0f03427",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5351c4daf51b24484a6d43b2e860db25583792d1e62b5b22c9968995a0f03427",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/32/44200/McGill__Nevada/manifest.json",
+  "state_fips": "32",
+  "status": "match",
+  "target_fips": "44200",
+  "timestamp": "2026-05-24T23:57:31.420433Z",
+  "version": 1
+}

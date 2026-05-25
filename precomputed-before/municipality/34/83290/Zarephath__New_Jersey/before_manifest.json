@@ -1,0 +1,16 @@
+{
+  "article": "Zarephath,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/83290/Zarephath__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "59ca706bd67c21781d9e3e6da1444376c09ba018e1e49fd435b2d3b67cbfe8dc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "59ca706bd67c21781d9e3e6da1444376c09ba018e1e49fd435b2d3b67cbfe8dc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/83290/Zarephath__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "83290",
+  "timestamp": "2026-05-24T23:58:06.949445Z",
+  "version": 1
+}

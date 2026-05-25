@@ -1,0 +1,16 @@
+{
+  "article": "Indian_Lake,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/36888/Indian_Lake__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "400aae4bf99053d2e214f0ffbda707eac9aa5d38b86e89172d76998fade93ca4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "400aae4bf99053d2e214f0ffbda707eac9aa5d38b86e89172d76998fade93ca4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/36888/Indian_Lake__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "36888",
+  "timestamp": "2026-05-25T00:07:30.004971Z",
+  "version": 1
+}

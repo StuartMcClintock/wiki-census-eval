@@ -1,0 +1,16 @@
+{
+  "article": "Wahak_Hotrontk,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/80430/Wahak_Hotrontk__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c32c6c96d8c8e1443d5efe8f017aa9ea809803b65b6b2ef44039ef0fe27528f8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c32c6c96d8c8e1443d5efe8f017aa9ea809803b65b6b2ef44039ef0fe27528f8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/80430/Wahak_Hotrontk__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "80430",
+  "timestamp": "2026-05-24T23:33:13.887439Z",
+  "version": 1
+}

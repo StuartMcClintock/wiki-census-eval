@@ -1,0 +1,16 @@
+{
+  "article": "Yelvington,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/85224/Yelvington__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "230282e3c7d61641a64a739bb3b0e561c21f9024bc31a9939a54fce2b1a8798c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "230282e3c7d61641a64a739bb3b0e561c21f9024bc31a9939a54fce2b1a8798c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/85224/Yelvington__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "85224",
+  "timestamp": "2026-05-24T23:44:27.382611Z",
+  "version": 1
+}

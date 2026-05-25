@@ -1,0 +1,16 @@
+{
+  "article": "Sulphur_Rock,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/67730/Sulphur_Rock__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cdfd5a3a78a599e506d30f55384ad37259326451644c54f666600687972ca9f8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cdfd5a3a78a599e506d30f55384ad37259326451644c54f666600687972ca9f8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/67730/Sulphur_Rock__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "67730",
+  "timestamp": "2026-05-24T23:34:10.099572Z",
+  "version": 1
+}

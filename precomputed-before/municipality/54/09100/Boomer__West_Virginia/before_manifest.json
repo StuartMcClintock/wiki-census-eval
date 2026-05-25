@@ -1,0 +1,16 @@
+{
+  "article": "Boomer,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/09100/Boomer__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6c071b97cbe1163aff8c993b7fc8add9a312c5134e5b460fbb7e60ebd46890ee",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6c071b97cbe1163aff8c993b7fc8add9a312c5134e5b460fbb7e60ebd46890ee",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/09100/Boomer__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "09100",
+  "timestamp": "2026-05-25T00:20:44.774988Z",
+  "version": 1
+}

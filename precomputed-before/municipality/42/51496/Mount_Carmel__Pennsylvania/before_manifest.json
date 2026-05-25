@@ -1,0 +1,16 @@
+{
+  "article": "Mount_Carmel,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/51496/Mount_Carmel__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "68ea46449cd7524ef00f3bd25de6de896095181c8a82b2e9f9b1d0d3ef7fb3b5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "68ea46449cd7524ef00f3bd25de6de896095181c8a82b2e9f9b1d0d3ef7fb3b5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/51496/Mount_Carmel__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "51496",
+  "timestamp": "2026-05-25T00:08:10.803612Z",
+  "version": 1
+}

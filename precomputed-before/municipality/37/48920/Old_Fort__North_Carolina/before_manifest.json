@@ -1,0 +1,16 @@
+{
+  "article": "Old_Fort,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/48920/Old_Fort__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2892fc6581b00e3e1c6db1da27b180cf0a6ca427c234e4a95d72509cd941403f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2892fc6581b00e3e1c6db1da27b180cf0a6ca427c234e4a95d72509cd941403f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/48920/Old_Fort__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "48920",
+  "timestamp": "2026-05-25T00:02:14.662460Z",
+  "version": 1
+}

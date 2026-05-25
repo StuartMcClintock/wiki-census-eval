@@ -1,0 +1,16 @@
+{
+  "article": "Fort_Shaw,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/28600/Fort_Shaw__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ce26db574ba90835156b8c8051a06add42caf799073be39a00e37c2df2600823",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ce26db574ba90835156b8c8051a06add42caf799073be39a00e37c2df2600823",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/28600/Fort_Shaw__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "28600",
+  "timestamp": "2026-05-24T23:54:25.127127Z",
+  "version": 1
+}

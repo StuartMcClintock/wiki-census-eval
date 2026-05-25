@@ -1,0 +1,16 @@
+{
+  "article": "Winneconne,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/87900/Winneconne__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f9a6cc9c52e9f09ead26bc75fc1be1c26db874aeb359adf9a9765b9dcf9c54bf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f9a6cc9c52e9f09ead26bc75fc1be1c26db874aeb359adf9a9765b9dcf9c54bf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/87900/Winneconne__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "87900",
+  "timestamp": "2026-05-25T00:23:04.467869Z",
+  "version": 1
+}

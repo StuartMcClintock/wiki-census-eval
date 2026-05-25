@@ -1,0 +1,16 @@
+{
+  "article": "Kensington,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/39309/Kensington__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4ee6a5cfef133bd7e24239169db8e062ea01af2a4b2d3fbf794a2ef53e793213",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4ee6a5cfef133bd7e24239169db8e062ea01af2a4b2d3fbf794a2ef53e793213",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/39309/Kensington__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "39309",
+  "timestamp": "2026-05-25T00:00:50.279064Z",
+  "version": 1
+}

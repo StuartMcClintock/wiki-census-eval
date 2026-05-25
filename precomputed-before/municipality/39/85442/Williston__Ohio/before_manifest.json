@@ -1,0 +1,16 @@
+{
+  "article": "Williston,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/85442/Williston__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d6ba6daa46897f8cf5631c991a7d826c735b63dede518f41f0b95b6b4dcb9a76",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d6ba6daa46897f8cf5631c991a7d826c735b63dede518f41f0b95b6b4dcb9a76",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/85442/Williston__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "85442",
+  "timestamp": "2026-05-25T00:05:39.885684Z",
+  "version": 1
+}

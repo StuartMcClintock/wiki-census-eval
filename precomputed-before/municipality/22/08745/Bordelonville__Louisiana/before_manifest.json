@@ -1,0 +1,16 @@
+{
+  "article": "Bordelonville,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/08745/Bordelonville__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "204e2bcd2920f411a5fd4397841bd884a319d9657b33beefa2b831cf160b98da",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "204e2bcd2920f411a5fd4397841bd884a319d9657b33beefa2b831cf160b98da",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/08745/Bordelonville__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "08745",
+  "timestamp": "2026-05-24T23:44:29.713949Z",
+  "version": 1
+}

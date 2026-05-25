@@ -1,0 +1,16 @@
+{
+  "article": "West_Sharyland,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/77866/West_Sharyland__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f4113bfcddb7ac43a6e0c0e38eb7fe244175bb086dc8e1d67b53d9da0c3c0681",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f4113bfcddb7ac43a6e0c0e38eb7fe244175bb086dc8e1d67b53d9da0c3c0681",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/77866/West_Sharyland__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "77866",
+  "timestamp": "2026-05-25T00:16:49.604828Z",
+  "version": 1
+}

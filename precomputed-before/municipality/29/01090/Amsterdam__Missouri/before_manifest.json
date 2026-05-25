@@ -1,0 +1,16 @@
+{
+  "article": "Amsterdam,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/01090/Amsterdam__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7d00b39e0822f8d9d7c7a2f19dcb552a45979fd0b8cb03cde5bfcf0c60c76065",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7d00b39e0822f8d9d7c7a2f19dcb552a45979fd0b8cb03cde5bfcf0c60c76065",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/01090/Amsterdam__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "01090",
+  "timestamp": "2026-05-24T23:50:31.405215Z",
+  "version": 1
+}

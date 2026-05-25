@@ -1,0 +1,16 @@
+{
+  "article": "Doddsville,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/19420/Doddsville__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "74bcad4e11e8349a906a29fc5b6290d9cbbbfd17dac8da5d22c7f6bcdc374785",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "74bcad4e11e8349a906a29fc5b6290d9cbbbfd17dac8da5d22c7f6bcdc374785",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/19420/Doddsville__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "19420",
+  "timestamp": "2026-05-24T23:50:07.701507Z",
+  "version": 1
+}

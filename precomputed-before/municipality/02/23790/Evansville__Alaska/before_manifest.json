@@ -1,0 +1,16 @@
+{
+  "article": "Evansville,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/23790/Evansville__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "86ab50c23d4eb4c38bf32bd10217b79965a96cb3004298d4f1f8dae82466653d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "86ab50c23d4eb4c38bf32bd10217b79965a96cb3004298d4f1f8dae82466653d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/23790/Evansville__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "23790",
+  "timestamp": "2026-05-24T23:32:21.411890Z",
+  "version": 1
+}

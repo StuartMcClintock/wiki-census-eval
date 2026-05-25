@@ -1,0 +1,16 @@
+{
+  "article": "Carlton,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/12112/Carlton__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a9d53bf2e89e63f25497b8d1689fff2464cf2055ba196bff877bc16a14474803",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a9d53bf2e89e63f25497b8d1689fff2464cf2055ba196bff877bc16a14474803",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/12112/Carlton__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "12112",
+  "timestamp": "2026-05-24T23:31:51.126061Z",
+  "version": 1
+}

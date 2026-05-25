@@ -1,0 +1,16 @@
+{
+  "article": "Sheffield,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/69147/Sheffield__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "664e80e9daa38b9b0c15c3b17694e37912429db1a86ab4561f0813940ae9fd37",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "664e80e9daa38b9b0c15c3b17694e37912429db1a86ab4561f0813940ae9fd37",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/69147/Sheffield__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "69147",
+  "timestamp": "2026-05-24T23:39:10.959665Z",
+  "version": 1
+}

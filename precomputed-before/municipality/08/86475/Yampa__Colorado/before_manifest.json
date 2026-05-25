@@ -1,0 +1,16 @@
+{
+  "article": "Yampa,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/86475/Yampa__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "643905130553fe504eb4946b77c11824074fe51b147976c496f6220599692b0f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "643905130553fe504eb4946b77c11824074fe51b147976c496f6220599692b0f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/86475/Yampa__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "86475",
+  "timestamp": "2026-05-24T23:35:56.426601Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Eleanor,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/24292/Eleanor__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "185ec1c00dcf2aa3326f13f88c2699fa5aef4cf10eb23b6334fe2cb59562f3fc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "185ec1c00dcf2aa3326f13f88c2699fa5aef4cf10eb23b6334fe2cb59562f3fc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/24292/Eleanor__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "24292",
+  "timestamp": "2026-05-25T00:21:05.018607Z",
+  "version": 1
+}

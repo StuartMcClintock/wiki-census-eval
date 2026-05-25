@@ -1,0 +1,16 @@
+{
+  "article": "Toronto,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/71050/Toronto__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c013ec915ecfcabbf57a71e724d40bd0afe02624e2ec79c3755cdf8f4bf44402",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c013ec915ecfcabbf57a71e724d40bd0afe02624e2ec79c3755cdf8f4bf44402",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/71050/Toronto__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "71050",
+  "timestamp": "2026-05-24T23:43:32.827822Z",
+  "version": 1
+}

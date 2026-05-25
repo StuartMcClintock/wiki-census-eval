@@ -1,0 +1,16 @@
+{
+  "article": "Nellysford,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/55400/Nellysford__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c548dbea4d4c82f96c2ee118d88343297b17f0e77986cca15509058428815b8c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c548dbea4d4c82f96c2ee118d88343297b17f0e77986cca15509058428815b8c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/55400/Nellysford__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "55400",
+  "timestamp": "2026-05-25T00:19:28.364757Z",
+  "version": 1
+}

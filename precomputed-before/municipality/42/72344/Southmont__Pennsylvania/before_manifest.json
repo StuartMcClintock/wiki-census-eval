@@ -1,0 +1,16 @@
+{
+  "article": "Southmont,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/72344/Southmont__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "72d78761a884af0ee6a3388aacc3762182de7554a38728cc68655c08a33c411c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "72d78761a884af0ee6a3388aacc3762182de7554a38728cc68655c08a33c411c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/72344/Southmont__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "72344",
+  "timestamp": "2026-05-25T00:09:08.112146Z",
+  "version": 1
+}

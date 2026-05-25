@@ -1,0 +1,16 @@
+{
+  "article": "Sullivan,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/78175/Sullivan__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1186c5e7a0a4f6b3b14d89f086e8c2dae27322bc44aceba22e7f7ee4461c116e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1186c5e7a0a4f6b3b14d89f086e8c2dae27322bc44aceba22e7f7ee4461c116e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/78175/Sullivan__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "78175",
+  "timestamp": "2026-05-25T00:22:46.026020Z",
+  "version": 1
+}

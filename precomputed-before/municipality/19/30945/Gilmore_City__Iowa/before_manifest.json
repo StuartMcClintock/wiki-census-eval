@@ -1,0 +1,16 @@
+{
+  "article": "Gilmore_City,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/30945/Gilmore_City__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4854f313b6942a23a79c48edf241adabe10390c4c46904a7e354d6332eac4570",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4854f313b6942a23a79c48edf241adabe10390c4c46904a7e354d6332eac4570",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/30945/Gilmore_City__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "30945",
+  "timestamp": "2026-05-24T23:41:05.245737Z",
+  "version": 1
+}

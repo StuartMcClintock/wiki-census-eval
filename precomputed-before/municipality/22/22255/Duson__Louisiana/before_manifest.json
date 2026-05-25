@@ -1,0 +1,16 @@
+{
+  "article": "Duson,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/22255/Duson__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8a2e91c6efda9087954128538a5e39d80daf93247d338a20087b60d90717f603",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8a2e91c6efda9087954128538a5e39d80daf93247d338a20087b60d90717f603",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/22255/Duson__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "22255",
+  "timestamp": "2026-05-24T23:44:46.078593Z",
+  "version": 1
+}

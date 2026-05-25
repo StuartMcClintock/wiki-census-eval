@@ -1,0 +1,16 @@
+{
+  "article": "Henrietta,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/30800/Henrietta__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c24bfe42e532ede854a5b3f0ac835b277d0334e084e61a7e6b0ac9ce42f040c4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c24bfe42e532ede854a5b3f0ac835b277d0334e084e61a7e6b0ac9ce42f040c4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/30800/Henrietta__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "30800",
+  "timestamp": "2026-05-25T00:02:02.757128Z",
+  "version": 1
+}

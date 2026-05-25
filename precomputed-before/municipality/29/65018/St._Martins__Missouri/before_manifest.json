@@ -1,0 +1,16 @@
+{
+  "article": "St._Martins,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/65018/St._Martins__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b261e3abdba69e0c431e6e59f8768c24b969ddee198fb7ffb9a3041616045c23",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b261e3abdba69e0c431e6e59f8768c24b969ddee198fb7ffb9a3041616045c23",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/65018/St._Martins__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "65018",
+  "timestamp": "2026-05-24T23:53:48.132089Z",
+  "version": 1
+}

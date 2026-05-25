@@ -1,0 +1,16 @@
+{
+  "article": "Courtland,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/18040/Courtland__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d16dc6d604bb60655e0654043ed6658a49c88c05dc244a4987135092a2ef4ed9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d16dc6d604bb60655e0654043ed6658a49c88c05dc244a4987135092a2ef4ed9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/18040/Courtland__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "18040",
+  "timestamp": "2026-05-24T23:31:52.564873Z",
+  "version": 1
+}

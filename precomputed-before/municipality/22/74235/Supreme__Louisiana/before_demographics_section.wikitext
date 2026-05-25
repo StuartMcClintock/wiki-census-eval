@@ -1,0 +1,94 @@
+==Demographics==
+{{US Census population
+|1990= 1020
+|2000= 1119
+|2010= 1052
+|2020= 839
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census/decade.html|title=Decennial Census by Decade|website=[[United States Census Bureau]]}}</ref><br> 1950<ref name=1950CensusLA>{{Cite web|title= 1950 Census of Population - Louisiana - Table 7 - Population of all incorporated places and of unincorporated places of 1,000 or more: 1950 and 1940 |website=[[United States Census Bureau]]|date=1950 |url=  https://www2.census.gov/library/publications/decennial/1950/population-volume-1/vol-01-21.pdf }}</ref> 1960<ref name=1960CensusLA>{{Cite web|title= 1960 Census of Population - Number of Inhabitants - Louisiana - Table 8 - Population of All Incorporated Places and Unincorporated Places of 1,000 or More: 1940 to 1960  |website=[[United States Census Bureau]]|date= 1960|url=https://www2.census.gov/library/publications/decennial/1960/population-volume-1/37722904v1p20ch2.pdf  }}</ref> 1970<ref name=1970CensusLA>{{Cite web|title= 1970 Census of Population - Louisiana - Characteristics of the Population - Table 6. Population of Places: 1970 and 1960  |website=[[United States Census Bureau]]|date= 1970|url=https://www2.census.gov/prod2/decennial/documents/1970a_la-01.pdf  }}</ref> 1980<ref name=1980CensusLA>{{Cite web|title= 1980 Census of Population - Louisiana - Table 14 - Summary of General Characteristics |website=[[United States Census Bureau]]|date= 1980|url= https://www2.census.gov/prod2/decennial/documents/1980a_laABC-02.pdf }}</ref><br> 1990<ref name=1990CensusLA>{{Cite web|title= 1990 Census of Population - Louisiana - Table 1. Summary of General Characteristics of Persons: 1990 |website=[[United States Census Bureau]]|date=1990 |url= https://www2.census.gov/library/publications/decennial/1990/cp-1/cp-1-20.pdf }}</ref> 2000<ref name=2000CensusLA>{{Cite web|title= 2000 Census of Population - Population and Housing Unit Counts - Louisiana |publisher=United States Census Bureau|date= 2000|url=https://www2.census.gov/library/publications/2003/dec/phc-3-20.pdf}}</ref> 2010<ref name=2010CensusLA>{{Cite web|title= 2010 Census of Population - Population and Housing Unit Counts - Louisiana |url=https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-20.pdf|website=[[United States Census Bureau]]|archive-url=https://web.archive.org/web/20240402175429/https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-20.pdf| archive-date=April 2, 2024}}</ref>
+}}
+
+Supreme first appeared as a [[census designated place]] the [[1990 U.S. census]].<ref name=1990CensusLA/>
+
+{| class="wikitable" style="text-align:center;"
+|+'''Supreme CDP, Louisiana – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Supreme CDP, Louisiana|url=https://data.census.gov/table?g=160XX00US2274235&tid=DECENNIALSF12000.P004|website=[[United States Census Bureau]] |access-date= }}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2 Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Supreme CDP, Louisiana|url=https://data.census.gov/table?q=p2&g=160XX00US2274235&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]]}}</ref>
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web|title=P2 Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) - Supreme CDP, Louisiana|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US2274235&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]]}}</ref>
+!% 2000
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|159
+|151
+|style='background: #ffffe6; |126
+|14.21%
+|14.35%
+|style='background: #ffffe6; |15.02%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|935
+|879
+|style='background: #ffffe6; |670
+|83.56%
+|83.56%
+|style='background: #ffffe6; |79.86%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|2
+|6
+|style='background: #ffffe6; |1
+|0.18%
+|0.57%
+|style='background: #ffffe6; |0.12%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |2
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.24%
+|-
+|[[Native Hawaiian]] or [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|4
+|1
+|style='background: #ffffe6; |21
+|0.36%
+|0.10%
+|style='background: #ffffe6; |2.50%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|19
+|15
+|style='background: #ffffe6; |19
+|1.70%
+|1.43%
+|style='background: #ffffe6; |2.26%
+|-
+|'''Total'''
+|'''1,119'''
+|'''1,052'''
+|style='background: #ffffe6; |'''839'''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+

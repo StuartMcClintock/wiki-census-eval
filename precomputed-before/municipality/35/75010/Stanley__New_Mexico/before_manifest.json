@@ -1,0 +1,16 @@
+{
+  "article": "Stanley,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/75010/Stanley__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cca0958c5276875d1511699a9b54a0af13a7358c843bf5c228e8507583872bd1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cca0958c5276875d1511699a9b54a0af13a7358c843bf5c228e8507583872bd1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/75010/Stanley__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "75010",
+  "timestamp": "2026-05-24T23:59:06.638770Z",
+  "version": 1
+}

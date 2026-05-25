@@ -1,0 +1,16 @@
+{
+  "article": "East_Brady,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/20840/East_Brady__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b445c3eb5c90db527f30e478d1839d150aa9f86e0d6f7797391c9d5241e3de62",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b445c3eb5c90db527f30e478d1839d150aa9f86e0d6f7797391c9d5241e3de62",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/20840/East_Brady__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "20840",
+  "timestamp": "2026-05-25T00:06:55.852249Z",
+  "version": 1
+}

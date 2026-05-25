@@ -1,0 +1,16 @@
+{
+  "article": "Arion,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/02755/Arion__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2fca13f701d1cdddf58f47c5936f9f26c5b07b7bbbf9d120271a22f9149a7764",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2fca13f701d1cdddf58f47c5936f9f26c5b07b7bbbf9d120271a22f9149a7764",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/02755/Arion__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "02755",
+  "timestamp": "2026-05-24T23:40:23.696752Z",
+  "version": 1
+}

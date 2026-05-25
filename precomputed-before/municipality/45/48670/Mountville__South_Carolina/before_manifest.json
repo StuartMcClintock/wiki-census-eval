@@ -1,0 +1,16 @@
+{
+  "article": "Mountville,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/48670/Mountville__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3f501bbdeab1ff9ef9afc4d6fd43ac28245beb576b849269c51a63da04a68b98",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3f501bbdeab1ff9ef9afc4d6fd43ac28245beb576b849269c51a63da04a68b98",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/48670/Mountville__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "48670",
+  "timestamp": "2026-05-25T00:10:13.827313Z",
+  "version": 1
+}

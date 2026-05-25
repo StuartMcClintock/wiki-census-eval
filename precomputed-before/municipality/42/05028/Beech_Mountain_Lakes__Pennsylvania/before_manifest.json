@@ -1,0 +1,16 @@
+{
+  "article": "Beech_Mountain_Lakes,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/05028/Beech_Mountain_Lakes__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "50bdc8f85a4e3ccb0784f0f1436e2533c420870d2232b47c0aeac7022f3f9077",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "50bdc8f85a4e3ccb0784f0f1436e2533c420870d2232b47c0aeac7022f3f9077",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/05028/Beech_Mountain_Lakes__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "05028",
+  "timestamp": "2026-05-25T00:06:14.727418Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Glenside,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/29808/Glenside__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "51a0100f6cb289143c606f7e921ff93ef8de8d9c07c03041f0680c10ea2475d8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "51a0100f6cb289143c606f7e921ff93ef8de8d9c07c03041f0680c10ea2475d8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/29808/Glenside__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "29808",
+  "timestamp": "2026-05-25T00:07:17.736260Z",
+  "version": 1
+}

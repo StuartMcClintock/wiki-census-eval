@@ -1,0 +1,16 @@
+{
+  "article": "Topton,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/77104/Topton__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "53691529e77be88dbafc80a3b4666f59fe712d70e9f6171c5ede1ea62f44d995",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "53691529e77be88dbafc80a3b4666f59fe712d70e9f6171c5ede1ea62f44d995",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/77104/Topton__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "77104",
+  "timestamp": "2026-05-25T00:09:17.289000Z",
+  "version": 1
+}

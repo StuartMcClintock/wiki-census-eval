@@ -1,0 +1,16 @@
+{
+  "article": "Waller,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/75905/Waller__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1813d0bac11436011fb037abcb81aab56d96c161c5b1212c605e9b39cb86c704",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1813d0bac11436011fb037abcb81aab56d96c161c5b1212c605e9b39cb86c704",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/75905/Waller__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "75905",
+  "timestamp": "2026-05-25T00:20:37.770685Z",
+  "version": 1
+}

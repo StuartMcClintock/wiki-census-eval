@@ -1,0 +1,16 @@
+{
+  "article": "Beatrice,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/04900/Beatrice__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8f58d1151367a4e363e8aaebb2e7b323d0a541cc453b1e69c5dd614930b2bf77",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8f58d1151367a4e363e8aaebb2e7b323d0a541cc453b1e69c5dd614930b2bf77",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/04900/Beatrice__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "04900",
+  "timestamp": "2026-05-24T23:31:48.966411Z",
+  "version": 1
+}

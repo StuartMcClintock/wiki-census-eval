@@ -1,0 +1,16 @@
+{
+  "article": "Angle_Inlet,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/01558/Angle_Inlet__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d43268fcae2b635df94f2a4c688146aab406d7ae8d2be889200fc2e7c06c577d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d43268fcae2b635df94f2a4c688146aab406d7ae8d2be889200fc2e7c06c577d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/01558/Angle_Inlet__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "01558",
+  "timestamp": "2026-05-24T23:48:35.087806Z",
+  "version": 1
+}

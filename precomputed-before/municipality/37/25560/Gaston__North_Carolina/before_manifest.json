@@ -1,0 +1,16 @@
+{
+  "article": "Gaston,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/25560/Gaston__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bfd45a2964c4f7c57b2a4e42c18f96e19e29eb9e783b55e7b071320079b808f2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bfd45a2964c4f7c57b2a4e42c18f96e19e29eb9e783b55e7b071320079b808f2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/25560/Gaston__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "25560",
+  "timestamp": "2026-05-25T00:01:57.275758Z",
+  "version": 1
+}

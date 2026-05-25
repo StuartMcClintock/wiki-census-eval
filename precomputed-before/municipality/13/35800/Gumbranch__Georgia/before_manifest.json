@@ -1,0 +1,16 @@
+{
+  "article": "Gumbranch,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/35800/Gumbranch__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a0d2328084e0da59a9aa8f970fc9e63cf9a0800c117d58109f4bdf5ea8b3b182",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a0d2328084e0da59a9aa8f970fc9e63cf9a0800c117d58109f4bdf5ea8b3b182",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/35800/Gumbranch__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "35800",
+  "timestamp": "2026-05-24T23:36:49.648929Z",
+  "version": 1
+}

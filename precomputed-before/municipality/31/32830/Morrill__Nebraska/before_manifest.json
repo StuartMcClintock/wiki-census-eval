@@ -1,0 +1,16 @@
+{
+  "article": "Morrill,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/32830/Morrill__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9befde0d93b9f862b1bda83576f2726b3e7af20495d4b24bfff2997a088c2291",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9befde0d93b9f862b1bda83576f2726b3e7af20495d4b24bfff2997a088c2291",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/32830/Morrill__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "32830",
+  "timestamp": "2026-05-24T23:55:54.143362Z",
+  "version": 1
+}

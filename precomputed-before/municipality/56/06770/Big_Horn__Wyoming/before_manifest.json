@@ -1,0 +1,16 @@
+{
+  "article": "Big_Horn,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/06770/Big_Horn__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f7ed0990f81ba3d29a1096f7ed423b51188a2bbaf5d828ce2b67998f006c3f3c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f7ed0990f81ba3d29a1096f7ed423b51188a2bbaf5d828ce2b67998f006c3f3c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/06770/Big_Horn__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "06770",
+  "timestamp": "2026-05-25T00:23:08.966010Z",
+  "version": 1
+}

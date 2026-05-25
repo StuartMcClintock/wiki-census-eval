@@ -1,0 +1,16 @@
+{
+  "article": "Irvington,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/38955/Irvington__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "05b7212330c10f19d1d71514349f2c533f4eda63b5a37c004b14faea0a2ff9d1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "05b7212330c10f19d1d71514349f2c533f4eda63b5a37c004b14faea0a2ff9d1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/38955/Irvington__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "38955",
+  "timestamp": "2026-05-24T23:41:13.261453Z",
+  "version": 1
+}

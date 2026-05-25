@@ -1,0 +1,16 @@
+{
+  "article": "Loomis,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/39020/Loomis__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c9c65bfc39ad7e2dbe4c83a70671e7e77a286c12c47d5fb652a2d6e27d8257bd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c9c65bfc39ad7e2dbe4c83a70671e7e77a286c12c47d5fb652a2d6e27d8257bd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/39020/Loomis__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "39020",
+  "timestamp": "2026-05-25T00:11:01.755334Z",
+  "version": 1
+}

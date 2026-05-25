@@ -1,0 +1,16 @@
+{
+  "article": "Harwick,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/33024/Harwick__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ab877c1c8b8efcad04ac0f4d7553c3276a7f4e6518083b16632c3c2082ac373f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ab877c1c8b8efcad04ac0f4d7553c3276a7f4e6518083b16632c3c2082ac373f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/33024/Harwick__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "33024",
+  "timestamp": "2026-05-25T00:07:22.879879Z",
+  "version": 1
+}

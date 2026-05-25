@@ -1,0 +1,16 @@
+{
+  "article": "Tyaskin,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/79225/Tyaskin__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b9973f6b72da5a7c48faf42da016e52aa80d3dbc9eab65f7cdb940169472fe84",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b9973f6b72da5a7c48faf42da016e52aa80d3dbc9eab65f7cdb940169472fe84",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/79225/Tyaskin__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "79225",
+  "timestamp": "2026-05-24T23:47:35.701547Z",
+  "version": 1
+}

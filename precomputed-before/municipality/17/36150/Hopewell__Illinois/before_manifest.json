@@ -1,0 +1,16 @@
+{
+  "article": "Hopewell,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/36150/Hopewell__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d1b7219333f023f0481a3ba66f9966e2592c0908ee61c7c11b4b22ec5d7b0b89",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d1b7219333f023f0481a3ba66f9966e2592c0908ee61c7c11b4b22ec5d7b0b89",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/36150/Hopewell__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "36150",
+  "timestamp": "2026-05-24T23:38:21.093358Z",
+  "version": 1
+}

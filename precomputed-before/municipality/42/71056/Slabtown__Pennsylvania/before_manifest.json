@@ -1,0 +1,16 @@
+{
+  "article": "Slabtown,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/71056/Slabtown__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c17f01eafc72a48c6a541e8758349a36b3324c8aa1e90556dac9dba9d2c49eec",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c17f01eafc72a48c6a541e8758349a36b3324c8aa1e90556dac9dba9d2c49eec",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/71056/Slabtown__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "71056",
+  "timestamp": "2026-05-25T00:09:05.258307Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Gove_City,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/27125/Gove_City__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cb85e231657fe7d02f71d9f26bca4fde81b6bda08d777e7bf6639b120b3cb8cd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cb85e231657fe7d02f71d9f26bca4fde81b6bda08d777e7bf6639b120b3cb8cd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/27125/Gove_City__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "27125",
+  "timestamp": "2026-05-24T23:42:42.128719Z",
+  "version": 1
+}

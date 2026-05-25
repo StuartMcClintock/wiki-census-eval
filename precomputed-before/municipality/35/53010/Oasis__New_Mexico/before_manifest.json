@@ -1,0 +1,16 @@
+{
+  "article": "Oasis,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/53010/Oasis__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ed2fda18339b23a71058d972b19cd7a4eefe09966b7d652f7002338df305a15e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ed2fda18339b23a71058d972b19cd7a4eefe09966b7d652f7002338df305a15e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/53010/Oasis__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "53010",
+  "timestamp": "2026-05-24T23:58:44.976747Z",
+  "version": 1
+}

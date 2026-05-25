@@ -1,0 +1,16 @@
+{
+  "article": "Morrison,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/54165/Morrison__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3b881a2ad3cb9c5e4745c37deb1935dffaab87615946a549e34c237ca150502e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3b881a2ad3cb9c5e4745c37deb1935dffaab87615946a549e34c237ca150502e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/54165/Morrison__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "54165",
+  "timestamp": "2026-05-24T23:41:30.451389Z",
+  "version": 1
+}

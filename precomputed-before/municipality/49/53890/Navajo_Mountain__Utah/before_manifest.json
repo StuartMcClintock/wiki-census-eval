@@ -1,0 +1,16 @@
+{
+  "article": "Navajo_Mountain,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/53890/Navajo_Mountain__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cf46db4fff18f69cafda4c5def2b0f924d34a2996dc50d41bd05597bad290f2b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cf46db4fff18f69cafda4c5def2b0f924d34a2996dc50d41bd05597bad290f2b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/53890/Navajo_Mountain__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "53890",
+  "timestamp": "2026-05-25T00:17:06.253751Z",
+  "version": 1
+}

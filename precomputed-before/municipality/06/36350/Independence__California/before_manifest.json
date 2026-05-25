@@ -1,0 +1,16 @@
+{
+  "article": "Independence,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/36350/Independence__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "209f3a7f4c1d47c23062f80a0f15cc214770f593f68579e77b82b16cf6e1ae2e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "209f3a7f4c1d47c23062f80a0f15cc214770f593f68579e77b82b16cf6e1ae2e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/36350/Independence__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "36350",
+  "timestamp": "2026-05-24T23:34:29.345521Z",
+  "version": 1
+}

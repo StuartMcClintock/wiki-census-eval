@@ -1,0 +1,16 @@
+{
+  "article": "Hamlin,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/29700/Hamlin__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c1ea555ebe060f4ef776751e127c742f61866721dfaa251ef4fecbf7ffed7d19",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c1ea555ebe060f4ef776751e127c742f61866721dfaa251ef4fecbf7ffed7d19",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/29700/Hamlin__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "29700",
+  "timestamp": "2026-05-24T23:42:43.933860Z",
+  "version": 1
+}

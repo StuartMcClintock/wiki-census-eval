@@ -1,0 +1,16 @@
+{
+  "article": "Colwyn,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/15432/Colwyn__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c31601f50183d4fc9c4912e7d412a8ffe0de7a3b1efce3f09b6098ad435f3b58",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c31601f50183d4fc9c4912e7d412a8ffe0de7a3b1efce3f09b6098ad435f3b58",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/15432/Colwyn__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "15432",
+  "timestamp": "2026-05-25T00:06:44.899292Z",
+  "version": 1
+}

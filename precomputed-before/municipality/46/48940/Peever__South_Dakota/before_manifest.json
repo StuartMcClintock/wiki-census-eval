@@ -1,0 +1,16 @@
+{
+  "article": "Peever,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/48940/Peever__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dbeaba376b04d8e2d35e56a87ed81e166b9d07bd0f63e66206a7ad44ca70d746",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dbeaba376b04d8e2d35e56a87ed81e166b9d07bd0f63e66206a7ad44ca70d746",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/48940/Peever__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "48940",
+  "timestamp": "2026-05-25T00:11:07.850161Z",
+  "version": 1
+}

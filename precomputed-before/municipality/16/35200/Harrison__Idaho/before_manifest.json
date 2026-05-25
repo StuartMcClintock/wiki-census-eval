@@ -1,0 +1,16 @@
+{
+  "article": "Harrison,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/35200/Harrison__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "45a6760e3d8b67b800ebb13f8c5df95ae70f3ece0da5fda405db29674c7b71f6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "45a6760e3d8b67b800ebb13f8c5df95ae70f3ece0da5fda405db29674c7b71f6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/35200/Harrison__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "35200",
+  "timestamp": "2026-05-24T23:37:21.649243Z",
+  "version": 1
+}

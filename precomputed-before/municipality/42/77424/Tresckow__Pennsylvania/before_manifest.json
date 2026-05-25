@@ -1,0 +1,16 @@
+{
+  "article": "Tresckow,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/77424/Tresckow__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8a8790084158c3ffe7deb4105fd6343fccb5f672fcfb60cc8616fa475f6ed9ab",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8a8790084158c3ffe7deb4105fd6343fccb5f672fcfb60cc8616fa475f6ed9ab",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/77424/Tresckow__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "77424",
+  "timestamp": "2026-05-25T00:09:18.297353Z",
+  "version": 1
+}

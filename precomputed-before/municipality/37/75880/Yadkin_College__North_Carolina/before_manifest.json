@@ -1,0 +1,16 @@
+{
+  "article": "Yadkin_College,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/75880/Yadkin_College__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e71645a68bb30725c3d2e598cc0d8d092f3aaa341096e4cabec6868ae252a52d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e71645a68bb30725c3d2e598cc0d8d092f3aaa341096e4cabec6868ae252a52d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/75880/Yadkin_College__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "75880",
+  "timestamp": "2026-05-25T00:02:30.716436Z",
+  "version": 1
+}

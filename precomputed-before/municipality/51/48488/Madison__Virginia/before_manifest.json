@@ -1,0 +1,16 @@
+{
+  "article": "Madison,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/48488/Madison__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cb1e527ab1602c9354f6ae170048dd68b51573cf0d0f9425549b6e6d1f305acd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cb1e527ab1602c9354f6ae170048dd68b51573cf0d0f9425549b6e6d1f305acd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/48488/Madison__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "48488",
+  "timestamp": "2026-05-25T00:19:23.735812Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "West_Leechburg,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/83328/West_Leechburg__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c8b7dbc7cf78de35683e99408116f15239917d438d185724dfe05dde8b0d0627",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c8b7dbc7cf78de35683e99408116f15239917d438d185724dfe05dde8b0d0627",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/83328/West_Leechburg__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "83328",
+  "timestamp": "2026-05-25T00:09:28.311674Z",
+  "version": 1
+}

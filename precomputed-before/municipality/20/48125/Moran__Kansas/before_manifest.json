@@ -1,0 +1,16 @@
+{
+  "article": "Moran,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/48125/Moran__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "67a610a98ce0f28b2a3cabaf0a5ab8cbde614591dce362ffb87a7c1796433eec",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "67a610a98ce0f28b2a3cabaf0a5ab8cbde614591dce362ffb87a7c1796433eec",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/48125/Moran__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "48125",
+  "timestamp": "2026-05-24T23:43:10.489957Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Tolsona,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/78297/Tolsona__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "82e00f97011d3e354cce4c8fc7eca8d280bbc75b1da7b01040998809244d21b4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "82e00f97011d3e354cce4c8fc7eca8d280bbc75b1da7b01040998809244d21b4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/78297/Tolsona__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "78297",
+  "timestamp": "2026-05-24T23:32:45.002191Z",
+  "version": 1
+}

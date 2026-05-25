@@ -1,0 +1,16 @@
+{
+  "article": "Central,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/11580/Central__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "70f308eb39c8bf8ff646a9c5cb613229056f57a21e1e1f49b028f5411431f0ab",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "70f308eb39c8bf8ff646a9c5cb613229056f57a21e1e1f49b028f5411431f0ab",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/11580/Central__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "11580",
+  "timestamp": "2026-05-24T23:32:50.156071Z",
+  "version": 1
+}

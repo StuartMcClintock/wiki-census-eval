@@ -1,0 +1,16 @@
+{
+  "article": "Stony_River,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/73400/Stony_River__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8edb2b396cd6868706a8eae5021d0dbf7c94d6e3f4f4d3fbdef7542348822343",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8edb2b396cd6868706a8eae5021d0dbf7c94d6e3f4f4d3fbdef7542348822343",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/73400/Stony_River__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "73400",
+  "timestamp": "2026-05-24T23:32:44.179642Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Batavia,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/03970/Batavia__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "80fd993af021480da75ca235903e101449706a075375e6ff970388647054b06b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "80fd993af021480da75ca235903e101449706a075375e6ff970388647054b06b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/03970/Batavia__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "03970",
+  "timestamp": "2026-05-24T23:33:19.426146Z",
+  "version": 1
+}

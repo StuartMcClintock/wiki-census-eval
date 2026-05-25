@@ -1,0 +1,16 @@
+{
+  "article": "Yermo,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/86720/Yermo__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3f4eca2eb95521bf4181c92478e8db6187d0046f30cd5571b5f9d02312410251",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3f4eca2eb95521bf4181c92478e8db6187d0046f30cd5571b5f9d02312410251",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/86720/Yermo__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "86720",
+  "timestamp": "2026-05-24T23:35:16.235991Z",
+  "version": 1
+}

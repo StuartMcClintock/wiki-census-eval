@@ -1,0 +1,113 @@
+==Demographics==
+{{US Census population
+|1980= 1040
+|1990= 1074
+|2000= 1276
+|2010= 1695
+|2020= 1663
+|footnote=Population sources:<br> 1950<ref name=CensusNJ1950CDP>{{Cite web|title= 1950 Census of Population - Number of Inhabitants - New Jersey |url=https://www2.census.gov/library/publications/decennial/1950/population-volume-2/23024255v2p30ch1.pdf|website=[[United States Census Bureau]]|archive-url=https://web.archive.org/web/20250323234824/https://www2.census.gov/library/publications/decennial/1950/population-volume-2/23024255v2p30ch1.pdf| archive-date=March 23, 2025}}</ref> 1960<ref name=CensusNJ1960CDP>{{Cite web|title= 1960 Census of Population - Number of Inhabitants - New Jersey |url=https://www2.census.gov/library/publications/decennial/1960/population-volume-1/21260894v1p32ch2.pdf|website=[[United States Census Bureau]]|archive-url= https://web.archive.org/web/20250322203807/https://www2.census.gov/library/publications/decennial/1960/population-volume-1/21260894v1p32ch2.pdf| archive-date=March 22, 2025}}</ref> 1970<ref name=CensusNJ1970CDP>{{Cite web|title= 1970 Census of Population - Charecteristics of the Population - New Jersey |url=https://www2.census.gov/prod2/decennial/documents/1970a_nj1-01.pdf|website=[[United States Census Bureau]]|archive-url= https://web.archive.org/web/20250413231101/https://www2.census.gov/prod2/decennial/documents/1970a_nj1-01.pdf| archive-date=April 13, 2025}}</ref><br> 1980<ref name=CensusNJ1980CDP>{{Cite web|title= 1980 Census of Population - Volume 1 - Characteristics of the Population - Number of Inhabitants - New Jersey|url=https://www2.census.gov/prod2/decennial/documents/1980a_njAB-01.pdf|website=[[United States Census Bureau]]|archive-url= https://web.archive.org/web/20250208034839/https://www2.census.gov/prod2/decennial/documents/1980a_njAB-01.pdf| archive-date=February 8, 2025}}</ref><ref>Staff. [https://books.google.com/books?id=1AVxMztHPuoC&pg=PA50 ''1980 Census of Population: Number of Inhabitants United States Summary''], p. 1-141. [[United States Census Bureau]], June 1983. Accessed June 28, 2015.</ref> 1990<ref name=CensusNJ1990CDP>{{Cite web|title= 1990 Census of Population - Population and Housing Unit Counts - New Jersey|url=https://www2.census.gov/library/publications/decennial/1990/cph-2/cph-2-32.pdf|website=[[United States Census Bureau]]|archive-url= https://web.archive.org/web/20250323205725/https://www2.census.gov/library/publications/decennial/1990/cph-2/cph-2-32.pdf| archive-date=March 23, 2025}}</ref> 2000<ref name=CensusNJ2000CDP>{{Cite web|title=2000 Census of Population and Housing - Population and Housing Unit Counts - New Jersey |url=https://www2.census.gov/library/publications/2003/dec/phc-3-6.pdf|website=[[United States Census Bureau]]|archive-url=https://web.archive.org/web/20250326080925/https://www2.census.gov/library/publications/2003/dec/phc-3-32.pdf| archive-date=March 26, 2025}}</ref><br> 2010<ref name=CensusNJ2010CDP>{{Cite web|title= 2010 Census of Population - Population and Housing Unit Counts - New Jersey |url=https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-32.pdf|website=[[United States Census Bureau]]|archive-url=https://web.archive.org/web/20251111220031/https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-32.pdf| archive-date=November 11, 2025}}</ref>
+}}
+
+Annandale first appeared as a [[census designated place]] in the [[1980 U.S. census]].<ref name=CensusNJ1980CDP/>
+
+===2020 census===
+{| class="wikitable sortable" style="text-align:center;"
+|+'''Annandale CDP, New Jersey – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Annandale CDP, New Jersey|url=https://data.census.gov/table?g=160XX00US3401480&tid=DECENNIALSF12000.P004|website=[[United States Census Bureau]] |access-date= }}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Annandale CDP, New Jersey|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US3401480&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!style="background-color: #ffffb3;" |Pop 2020<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Annandale CDP, New Jersey|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US3401480&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!% 2000
+!% 2010
+!style="background-color: #ffffb3;" |% 2020
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|1,217
+|1,406
+|style='background: #ffffe6; |1,343
+|95.38%
+|82.95%
+|style='background: #ffffe6; |80.76%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|8
+|40
+|style='background: #ffffe6; |30
+|0.63%
+|2.36%
+|style='background: #ffffe6; |1.80%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|0
+|5
+|style='background: #ffffe6; |1
+|0.00%
+|0.29%
+|style='background: #ffffe6; |0.06%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|28
+|123
+|style='background: #ffffe6; |100
+|2.19%
+|7.26%
+|style='background: #ffffe6; |6.01%
+|-
+|[[Native Hawaiian]] or [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|0
+|5
+|style='background: #ffffe6; |17
+|0.00%
+|0.29%
+|style='background: #ffffe6; |1.02%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|1
+|37
+|style='background: #ffffe6; |73
+|0.08%
+|2.18%
+|style='background: #ffffe6; |4.39%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|22
+|79
+|style='background: #ffffe6; |99
+|1.72%
+|4.66%
+|style='background: #ffffe6; |5.95%
+|-
+|'''Total'''
+|'''1,276'''
+|'''1,695'''
+|style='background: #ffffe6; |'''1,663 '''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+===2010 census===
+
+The [[2010 United States census]] counted 1,695 people, 658 households, and 455 families in the CDP. The [[population density]] was {{convert|1167.6|/mi2|/km2|disp=preunit|people&nbsp;|people|}}. There were 692 housing units at an average density of {{convert|476.7|/mi2|/km2|disp=preunit|units&nbsp;|units|}}. The racial makeup was 86.61% (1,468) [[White (U.S. census)|White]], 2.48% (42) [[Black (U.S. census)|Black or African American]], 0.35% (6) [[Native American (U.S. census)|Native American]], 7.32% (124) [[Asian (U.S. census)|Asian]], 0.00% (0) [[Pacific Islander (U.S. census)|Pacific Islander]], 0.77% (13) from [[Race and ethnicity in the United States census|other races]], and 2.48% (42) from two or more races. [[Hispanic (U.S. census)|Hispanic or Latino]] of any race were 4.66% (79) of the population.<ref name=Census2010>[http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/1600000US3401480 DP-1 - Profile of General Population and Housing Characteristics: 2010 Demographic Profile Data for Annandale CDP, New Jersey] {{Webarchive|url=https://archive.today/20200212133629/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/1600000US3401480 |date=February 12, 2020 }}, [[United States Census Bureau]]. Accessed November 15, 2012.</ref>
+
+Of the 658 households, 38.8% had children under the age of 18; 56.4% were married couples living together; 9.6% had a female householder with no husband present and 30.9% were non-families. Of all households, 25.2% were made up of individuals and 7.8% had someone living alone who was 65 years of age or older. The average household size was 2.58 and the average family size was 3.15.<ref name=Census2010/>
+
+27.7% of the population were under the age of 18, 5.7% from 18 to 24, 27.3% from 25 to 44, 31.3% from 45 to 64, and 8.1% who were 65 years of age or older. The median age was 39.1 years. For every 100 females, the population had 92.2 males. For every 100 females ages 18 and older there were 94.3 males.<ref name=Census2010/>
+
+===2000 census===
+As of the [[2000 United States census]]<ref name="GR2" /> there were 1,276 people, 451 households, and 354 families living in the CDP. The [[population density]] was {{convert|339.8|/km2|/mi2|disp=preunit|people|people|abbr=on}}. There were 472 housing units at an average density of {{convert|125.7|/km2|/mi2|disp=preunit|units|units|abbr=on}}. The racial makeup of the CDP was 96.47% [[White (U.S. Census)|White]], 0.63% [[African American (U.S. Census)|African American]], 2.19% [[Asian (U.S. Census)|Asian]], 0.63% from [[Race (United States census)|other races]], and 0.08% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 1.72% of the population.<ref name=Census2000>[http://factfinder.census.gov/bkmk/table/1.0/en/DEC/00_SF1/DP1/1600000US3401480 DP-1 - Profile of General Demographic Characteristics: 2000 from the Census 2000 Summary File 1 (SF 1) 100-Percent Data for Annandale CDP, New Jersey] {{Webarchive|url=https://archive.today/20200212102253/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/00_SF1/DP1/1600000US3401480 |date=2020-02-12 }}, [[United States Census Bureau]]. Accessed November 15, 2012.</ref>
+
+There were 451 households, out of which 43.2% had children under the age of 18 living with them, 68.7% were [[Marriage|married couples]] living together, 6.7% had a female householder with no husband present, and 21.5% were non-families. 16.4% of all households were made up of individuals, and 7.5% had someone living alone who was 65 years of age or older. The average household size was 2.83 and the average family size was 3.23.<ref name=Census2000/>
+
+In the CDP the population was spread out, with 29.0% under the age of 18, 4.7% from 18 to 24, 32.1% from 25 to 44, 25.7% from 45 to 64, and 8.5% who were 65 years of age or older. The median age was 38 years. For every 100 females, there were 96.9 males. For every 100 females age 18 and over, there were 97.4 males.<ref name=Census2000/>
+
+The median income for a household in the CDP was $80,738, and the median income for a family was $104,009. Males had a median income of $65,814 versus $37,171 for females. The [[per capita income]] for the CDP was $30,176. None of the families and 1.0% of the population were living below the [[poverty line]], including no under eighteens and 8.0% of those over 64.<ref name=Census2000/>
+

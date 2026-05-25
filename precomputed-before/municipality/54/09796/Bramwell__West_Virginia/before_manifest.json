@@ -1,0 +1,16 @@
+{
+  "article": "Bramwell,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/09796/Bramwell__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7f774abd2a649c91039f504c7d9796d182eec453f46302083ec23c1d1fb0cdc2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7f774abd2a649c91039f504c7d9796d182eec453f46302083ec23c1d1fb0cdc2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/09796/Bramwell__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "09796",
+  "timestamp": "2026-05-25T00:20:45.107735Z",
+  "version": 1
+}

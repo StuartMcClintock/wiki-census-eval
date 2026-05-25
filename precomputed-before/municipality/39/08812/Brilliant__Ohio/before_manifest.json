@@ -1,0 +1,16 @@
+{
+  "article": "Brilliant,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/08812/Brilliant__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9a714fb1249878f040948a90a1ca0f83bc478255d719fc737637f713ec3bbf3f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9a714fb1249878f040948a90a1ca0f83bc478255d719fc737637f713ec3bbf3f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/08812/Brilliant__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "08812",
+  "timestamp": "2026-05-25T00:03:38.401294Z",
+  "version": 1
+}

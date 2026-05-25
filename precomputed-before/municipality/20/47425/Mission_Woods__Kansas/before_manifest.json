@@ -1,0 +1,16 @@
+{
+  "article": "Mission_Woods,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/47425/Mission_Woods__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5b6392bd06475e22c8c115db0084135b5d12cc1a330ca19a0a7e4897867cfc7a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5b6392bd06475e22c8c115db0084135b5d12cc1a330ca19a0a7e4897867cfc7a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/47425/Mission_Woods__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "47425",
+  "timestamp": "2026-05-24T23:43:09.891735Z",
+  "version": 1
+}

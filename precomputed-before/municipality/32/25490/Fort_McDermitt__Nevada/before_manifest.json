@@ -1,0 +1,16 @@
+{
+  "article": "Fort_McDermitt,_Nevada",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/32/25490/Fort_McDermitt__Nevada/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f3d3169a06dba41f59e5ff242116d92cc0213c444bb890dab313e63cc9a3b4d0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f3d3169a06dba41f59e5ff242116d92cc0213c444bb890dab313e63cc9a3b4d0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/32/25490/Fort_McDermitt__Nevada/manifest.json",
+  "state_fips": "32",
+  "status": "match",
+  "target_fips": "25490",
+  "timestamp": "2026-05-24T23:57:29.292724Z",
+  "version": 1
+}

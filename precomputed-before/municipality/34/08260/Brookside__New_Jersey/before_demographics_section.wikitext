@@ -1,0 +1,54 @@
+==Demographics==
+{{US Census population
+|2020= 1767
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census/decade.html|title=Decennial Census of Population and Housing by Decade|publisher=[[United States Census Bureau]]|access-date=}}</ref><br>2020<ref name=Census2020/>
+}}
+
+Brookside first appeared as a [[census designated place]] in the [[2020 U.S. census]].<ref>{{Cite web|title=2020 Geography Changes|url=https://www.census.gov/programs-surveys/acs/technical-documentation/table-and-geography-changes/2020/geography-changes.html|publisher=[[United States Census Bureau]] |access-date=}}</ref><ref name=2020CensusP2/>
+
+===2020 census===
+{| class="wikitable" style="text-align:center;"
+|+'''Brookside CDP, New Jersey – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2020<ref name=2020CensusP2>{{Cite web|title=P2 Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Brookside CDP, New Jersey|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US3408260&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]]}}</ref>
+!% 2020
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|1,537
+|86.98%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|12
+|0.68%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|0
+|0.00%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|50
+|2.83%
+|-
+|[[Native Hawaiian]] or [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|0.00%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|15
+|0.85%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|72
+|4.07%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|81
+|4.58%
+|-
+|'''Total'''
+|'''1,767'''
+|'''100.00%'''
+|}
+
+As of the [[2010 United States census]], the 07926 [[ZIP Code Tabulation Area]] for Brookside had a population of 120.<ref name=Census2010>[http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/8600000US07926 DP-1: Profile of General Population and Housing Characteristics: 2010 from the 2010 Demographic Profile Data for ZCTA5 07926] {{Webarchive|url=https://archive.today/20200213015600/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/8600000US07926 |date=2020-02-13 }}, [[United States Census Bureau]]. Accessed July 7, 2015.</ref>
+

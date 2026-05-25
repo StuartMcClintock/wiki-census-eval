@@ -1,0 +1,16 @@
+{
+  "article": "Pelkie,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/63280/Pelkie__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8552d192cf7a188a5e54a87a4f3b06fd20412cb552a47caa34f11df15668f824",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8552d192cf7a188a5e54a87a4f3b06fd20412cb552a47caa34f11df15668f824",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/63280/Pelkie__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "63280",
+  "timestamp": "2026-05-24T23:48:22.935057Z",
+  "version": 1
+}

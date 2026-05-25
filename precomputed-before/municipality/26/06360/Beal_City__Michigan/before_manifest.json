@@ -1,0 +1,16 @@
+{
+  "article": "Beal_City,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/06360/Beal_City__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "abc59407a4aa07546d808d637235fd72392cf7b70aa8b66033fbc2df062b8a95",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "abc59407a4aa07546d808d637235fd72392cf7b70aa8b66033fbc2df062b8a95",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/06360/Beal_City__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "06360",
+  "timestamp": "2026-05-24T23:47:42.858953Z",
+  "version": 1
+}

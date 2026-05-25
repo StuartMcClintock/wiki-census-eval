@@ -1,0 +1,16 @@
+{
+  "article": "Pyatt,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/57890/Pyatt__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "079dbd73aa8ef3b3b0e44a3698acb764e69a568d124a0003a4a2a62b69d20396",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "079dbd73aa8ef3b3b0e44a3698acb764e69a568d124a0003a4a2a62b69d20396",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/57890/Pyatt__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "57890",
+  "timestamp": "2026-05-24T23:34:05.080987Z",
+  "version": 1
+}

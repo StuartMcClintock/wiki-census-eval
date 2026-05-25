@@ -1,0 +1,16 @@
+{
+  "article": "Mount_Blanchard,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/52598/Mount_Blanchard__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a98724948daed1980523d9ac12ba5b340d74a3012ad502b0e3ddad0173fce1d0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a98724948daed1980523d9ac12ba5b340d74a3012ad502b0e3ddad0173fce1d0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/52598/Mount_Blanchard__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "52598",
+  "timestamp": "2026-05-25T00:04:48.802143Z",
+  "version": 1
+}

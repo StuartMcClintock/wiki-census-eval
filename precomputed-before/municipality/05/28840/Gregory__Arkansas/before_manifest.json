@@ -1,0 +1,16 @@
+{
+  "article": "Gregory,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/28840/Gregory__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a94c939f9daf88d1775c45b1d9764bdd90b8a40950fdb40befe1e8c6003c3c8c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a94c939f9daf88d1775c45b1d9764bdd90b8a40950fdb40befe1e8c6003c3c8c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/28840/Gregory__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "28840",
+  "timestamp": "2026-05-24T23:33:44.154354Z",
+  "version": 1
+}

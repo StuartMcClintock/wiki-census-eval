@@ -1,0 +1,16 @@
+{
+  "article": "Cordova,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/16855/Cordova__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bf9f50b8977c3eede2bcb62c1b4685080259ed48ab244a6d444d57442718e639",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bf9f50b8977c3eede2bcb62c1b4685080259ed48ab244a6d444d57442718e639",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/16855/Cordova__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "16855",
+  "timestamp": "2026-05-25T00:09:56.099561Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Aldie,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/00772/Aldie__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "226f7554c5d911a8fcce06673bf3d3548510863aca4728bf3dfc8c3209f8c56a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "226f7554c5d911a8fcce06673bf3d3548510863aca4728bf3dfc8c3209f8c56a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/00772/Aldie__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "00772",
+  "timestamp": "2026-05-25T00:17:20.839034Z",
+  "version": 1
+}

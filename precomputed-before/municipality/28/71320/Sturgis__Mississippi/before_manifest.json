@@ -1,0 +1,16 @@
+{
+  "article": "Sturgis,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/71320/Sturgis__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8f7aa2602a535bb9f3a3ce4233629103d834e025598dd5abaa6365801b930c46",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8f7aa2602a535bb9f3a3ce4233629103d834e025598dd5abaa6365801b930c46",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/71320/Sturgis__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "71320",
+  "timestamp": "2026-05-24T23:50:26.142237Z",
+  "version": 1
+}

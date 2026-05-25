@@ -1,0 +1,16 @@
+{
+  "article": "Green_Spring,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/32986/Green_Spring__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "97aab0d73b26b71c4856213ea6a913c3d9a8cf4fdd2c37e007d5b58fb2d860fd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "97aab0d73b26b71c4856213ea6a913c3d9a8cf4fdd2c37e007d5b58fb2d860fd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/32986/Green_Spring__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "32986",
+  "timestamp": "2026-05-24T23:44:05.269436Z",
+  "version": 1
+}

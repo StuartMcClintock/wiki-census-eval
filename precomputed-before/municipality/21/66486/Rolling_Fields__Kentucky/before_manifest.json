@@ -1,0 +1,16 @@
+{
+  "article": "Rolling_Fields,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/66486/Rolling_Fields__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "750b2888476b9d272dcd3a046b1d870d1439dd624a0d4bc433d3f82140fd9ccf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "750b2888476b9d272dcd3a046b1d870d1439dd624a0d4bc433d3f82140fd9ccf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/66486/Rolling_Fields__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "66486",
+  "timestamp": "2026-05-24T23:44:18.507704Z",
+  "version": 1
+}

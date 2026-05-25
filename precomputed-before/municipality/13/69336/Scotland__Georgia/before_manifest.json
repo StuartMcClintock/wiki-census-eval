@@ -1,0 +1,16 @@
+{
+  "article": "Scotland,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/69336/Scotland__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "805e72e6fe2faec4a68606be83ed7fd3d8c6a4481f23b27b549ea23f7b93f59d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "805e72e6fe2faec4a68606be83ed7fd3d8c6a4481f23b27b549ea23f7b93f59d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/69336/Scotland__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "69336",
+  "timestamp": "2026-05-24T23:37:06.748857Z",
+  "version": 1
+}

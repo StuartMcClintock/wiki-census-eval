@@ -1,0 +1,16 @@
+{
+  "article": "Reserve,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/59050/Reserve__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "703d3d747d2d2b01a576c77945e8190362895fb26473d177ed48742d50a526dc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "703d3d747d2d2b01a576c77945e8190362895fb26473d177ed48742d50a526dc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/59050/Reserve__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "59050",
+  "timestamp": "2026-05-24T23:43:24.231441Z",
+  "version": 1
+}

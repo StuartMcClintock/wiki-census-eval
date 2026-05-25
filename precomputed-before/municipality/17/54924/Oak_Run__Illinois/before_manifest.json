@@ -1,0 +1,16 @@
+{
+  "article": "Oak_Run,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/54924/Oak_Run__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ba3ea3d190e74283481b4ae954c6cdda85b04abef8b95cc422dc7193b991ed4e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ba3ea3d190e74283481b4ae954c6cdda85b04abef8b95cc422dc7193b991ed4e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/54924/Oak_Run__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "54924",
+  "timestamp": "2026-05-24T23:38:42.248270Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Landfall,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/35414/Landfall__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b2dbc6bb8d6431080d7e754083a78fcd52a0d81dea82703023788ade874d5538",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b2dbc6bb8d6431080d7e754083a78fcd52a0d81dea82703023788ade874d5538",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/35414/Landfall__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "35414",
+  "timestamp": "2026-05-24T23:49:14.910793Z",
+  "version": 1
+}

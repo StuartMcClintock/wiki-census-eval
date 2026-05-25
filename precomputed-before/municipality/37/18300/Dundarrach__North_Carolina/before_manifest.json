@@ -1,0 +1,16 @@
+{
+  "article": "Dundarrach,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/18300/Dundarrach__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a70dd72694d4ae11226f20b2309fc438a541dda429df657cb26bb8f70c3a8e98",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a70dd72694d4ae11226f20b2309fc438a541dda429df657cb26bb8f70c3a8e98",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/18300/Dundarrach__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "18300",
+  "timestamp": "2026-05-25T00:01:53.932546Z",
+  "version": 1
+}

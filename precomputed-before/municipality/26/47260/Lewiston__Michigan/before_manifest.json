@@ -1,0 +1,16 @@
+{
+  "article": "Lewiston,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/47260/Lewiston__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a09a7d29409c75583b55fa5c79d4b3309cd5409c02a8417d19564988e69f4670",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a09a7d29409c75583b55fa5c79d4b3309cd5409c02a8417d19564988e69f4670",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/47260/Lewiston__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "47260",
+  "timestamp": "2026-05-24T23:48:02.802828Z",
+  "version": 1
+}

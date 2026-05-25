@@ -1,0 +1,16 @@
+{
+  "article": "Audubon,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/02728/Audubon__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fdb05fc66bcfe64a568babfe20ecd0f8cff83108f534e25f2c1321322734c708",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fdb05fc66bcfe64a568babfe20ecd0f8cff83108f534e25f2c1321322734c708",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/02728/Audubon__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "02728",
+  "timestamp": "2026-05-24T23:48:36.125916Z",
+  "version": 1
+}

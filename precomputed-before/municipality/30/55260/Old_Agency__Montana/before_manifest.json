@@ -1,0 +1,16 @@
+{
+  "article": "Old_Agency,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/55260/Old_Agency__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aaec58fa078f1e137ec738205245feb70350af36cd3ab6c89bfd08da0aaf45d2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aaec58fa078f1e137ec738205245feb70350af36cd3ab6c89bfd08da0aaf45d2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/55260/Old_Agency__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "55260",
+  "timestamp": "2026-05-24T23:54:40.569709Z",
+  "version": 1
+}

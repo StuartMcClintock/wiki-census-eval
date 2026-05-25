@@ -1,0 +1,16 @@
+{
+  "article": "Tibbie,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/76200/Tibbie__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7068d514138f0d1a89c2a1108c8f1412002074b6059523aaeb2902f42b3fd858",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7068d514138f0d1a89c2a1108c8f1412002074b6059523aaeb2902f42b3fd858",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/76200/Tibbie__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "76200",
+  "timestamp": "2026-05-24T23:32:14.132294Z",
+  "version": 1
+}

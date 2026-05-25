@@ -1,0 +1,16 @@
+{
+  "article": "North_Fairfield,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/56420/North_Fairfield__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ebc160e3c0f1625535a10f6f9d9b37ce81879a9fe8ab0f1828e36c659beb4d08",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ebc160e3c0f1625535a10f6f9d9b37ce81879a9fe8ab0f1828e36c659beb4d08",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/56420/North_Fairfield__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "56420",
+  "timestamp": "2026-05-25T00:04:54.525868Z",
+  "version": 1
+}

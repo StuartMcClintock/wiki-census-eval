@@ -1,0 +1,16 @@
+{
+  "article": "Maple_City,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/50920/Maple_City__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0e84e3b23699f7982927f20d00721f8e902b8d4d7a9645181cdb747a749b7605",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0e84e3b23699f7982927f20d00721f8e902b8d4d7a9645181cdb747a749b7605",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/50920/Maple_City__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "50920",
+  "timestamp": "2026-05-24T23:48:04.736377Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Fairview,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/25384/Fairview__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1f72225e12116d164d9fc4dac8a49b8a85b6a8241f2e2b69b72c91cf44af964c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1f72225e12116d164d9fc4dac8a49b8a85b6a8241f2e2b69b72c91cf44af964c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/25384/Fairview__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "25384",
+  "timestamp": "2026-05-24T23:31:55.548084Z",
+  "version": 1
+}

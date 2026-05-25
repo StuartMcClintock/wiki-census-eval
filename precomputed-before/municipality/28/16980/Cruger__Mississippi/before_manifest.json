@@ -1,0 +1,16 @@
+{
+  "article": "Cruger,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/16980/Cruger__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3587e1665355dae9d2763bb772c1c73b9c57c15f9a75f72daa5abe8716cf2af9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3587e1665355dae9d2763bb772c1c73b9c57c15f9a75f72daa5abe8716cf2af9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/16980/Cruger__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "16980",
+  "timestamp": "2026-05-24T23:50:06.562150Z",
+  "version": 1
+}

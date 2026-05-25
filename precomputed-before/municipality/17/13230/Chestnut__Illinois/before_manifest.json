@@ -1,0 +1,16 @@
+{
+  "article": "Chestnut,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/13230/Chestnut__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "72cd5ccd1f9bb14ab1bb05463ec92d438baaf7c9edff736913a37a54a313efdb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "72cd5ccd1f9bb14ab1bb05463ec92d438baaf7c9edff736913a37a54a313efdb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/13230/Chestnut__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "13230",
+  "timestamp": "2026-05-24T23:38:00.558937Z",
+  "version": 1
+}

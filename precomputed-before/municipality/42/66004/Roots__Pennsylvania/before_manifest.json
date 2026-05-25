@@ -1,0 +1,16 @@
+{
+  "article": "Roots,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/66004/Roots__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1c2004f596ed003881659b559927adcd82d7daa7bf7403febdb2e00799939b5f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1c2004f596ed003881659b559927adcd82d7daa7bf7403febdb2e00799939b5f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/66004/Roots__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "66004",
+  "timestamp": "2026-05-25T00:08:51.851520Z",
+  "version": 1
+}

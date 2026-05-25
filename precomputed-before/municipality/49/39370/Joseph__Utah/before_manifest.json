@@ -1,0 +1,16 @@
+{
+  "article": "Joseph,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/39370/Joseph__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4e2438813c6b83878feb19a42c6896444538cac1297e62cce8ed7f88ac48837d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4e2438813c6b83878feb19a42c6896444538cac1297e62cce8ed7f88ac48837d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/39370/Joseph__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "39370",
+  "timestamp": "2026-05-25T00:17:03.058464Z",
+  "version": 1
+}

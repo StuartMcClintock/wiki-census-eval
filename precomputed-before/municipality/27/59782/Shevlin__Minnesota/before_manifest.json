@@ -1,0 +1,16 @@
+{
+  "article": "Shevlin,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/59782/Shevlin__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c18fb141cec3a6385331268cc4b831229166127f494fa2d30479f1b693cf90c6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c18fb141cec3a6385331268cc4b831229166127f494fa2d30479f1b693cf90c6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/59782/Shevlin__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "59782",
+  "timestamp": "2026-05-24T23:49:45.451454Z",
+  "version": 1
+}

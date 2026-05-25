@@ -1,0 +1,16 @@
+{
+  "article": "Scottsville,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/63650/Scottsville__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9631f54d616784f80c292e58f2a19aa69880d9fe8143398db7d76b5032e32efe",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9631f54d616784f80c292e58f2a19aa69880d9fe8143398db7d76b5032e32efe",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/63650/Scottsville__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "63650",
+  "timestamp": "2026-05-24T23:43:27.830032Z",
+  "version": 1
+}

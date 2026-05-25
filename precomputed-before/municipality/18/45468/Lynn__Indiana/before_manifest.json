@@ -1,0 +1,16 @@
+{
+  "article": "Lynn,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/45468/Lynn__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bf5ebdc65a21f709fd14814234a3f6c843d026590036c9d28118053039b4d342",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bf5ebdc65a21f709fd14814234a3f6c843d026590036c9d28118053039b4d342",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/45468/Lynn__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "45468",
+  "timestamp": "2026-05-24T23:39:54.925033Z",
+  "version": 1
+}

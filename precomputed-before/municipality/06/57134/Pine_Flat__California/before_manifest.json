@@ -1,0 +1,16 @@
+{
+  "article": "Pine_Flat,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/57134/Pine_Flat__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0bc0a2df13ea961d8c528f6586244ba1ae07858b62c83f8899371ae60c6aac07",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0bc0a2df13ea961d8c528f6586244ba1ae07858b62c83f8899371ae60c6aac07",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/57134/Pine_Flat__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "57134",
+  "timestamp": "2026-05-24T23:34:46.568619Z",
+  "version": 1
+}

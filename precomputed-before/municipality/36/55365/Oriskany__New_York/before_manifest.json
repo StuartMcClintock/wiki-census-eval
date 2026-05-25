@@ -1,0 +1,16 @@
+{
+  "article": "Oriskany,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/55365/Oriskany__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d4fffad699be3b0a7162f0382547bf4859d27d93e531e2f90840021792c29a9f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d4fffad699be3b0a7162f0382547bf4859d27d93e531e2f90840021792c29a9f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/55365/Oriskany__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "55365",
+  "timestamp": "2026-05-25T00:01:00.907362Z",
+  "version": 1
+}

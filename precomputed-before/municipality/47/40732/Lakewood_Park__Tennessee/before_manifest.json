@@ -1,0 +1,16 @@
+{
+  "article": "Lakewood_Park,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/40732/Lakewood_Park__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "88c3a0826260e359ab73379dc75742e0ff618ee0276f86204e528e8cbd378479",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "88c3a0826260e359ab73379dc75742e0ff618ee0276f86204e528e8cbd378479",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/40732/Lakewood_Park__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "40732",
+  "timestamp": "2026-05-25T00:14:44.779914Z",
+  "version": 1
+}

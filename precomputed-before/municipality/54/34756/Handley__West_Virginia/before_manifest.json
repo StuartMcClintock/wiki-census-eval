@@ -1,0 +1,16 @@
+{
+  "article": "Handley,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/34756/Handley__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fd1a16556965e5ae282def1902fd2f9cb1d309696bb6e0a08084820636d70ff0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fd1a16556965e5ae282def1902fd2f9cb1d309696bb6e0a08084820636d70ff0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/34756/Handley__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "34756",
+  "timestamp": "2026-05-25T00:21:10.008861Z",
+  "version": 1
+}

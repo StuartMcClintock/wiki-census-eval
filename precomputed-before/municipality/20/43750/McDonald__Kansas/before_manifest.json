@@ -1,0 +1,16 @@
+{
+  "article": "McDonald,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/43750/McDonald__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c7a9fd9b41ab3fd916c867d9ef69472179106dadb632b82c3cceba23a77ae03d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c7a9fd9b41ab3fd916c867d9ef69472179106dadb632b82c3cceba23a77ae03d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/43750/McDonald__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "43750",
+  "timestamp": "2026-05-24T23:43:06.537482Z",
+  "version": 1
+}

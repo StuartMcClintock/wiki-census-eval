@@ -1,0 +1,30 @@
+==Demographics==
+{{US Census population
+|1880= 1423
+|1890= 1847
+|1900= 3024
+|1910= 3741
+|1920= 3716
+|1930= 3065
+|1940= 3250
+|1950= 3137
+|1960= 2901
+|1970= 2648
+|1980= 2581
+|1990= 2518
+|2000= 2473
+|2010= 2184
+|2020= 2070
+|estyear=2021
+|estimate=2049
+|estref=<ref name="USCensusEst2020-2021">{{cite web |title=City and Town Population Totals: 2020—2021 |url=https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html |website=Census.gov |publisher=US Census Bureau |access-date=July 25, 2022}}</ref> {{decrease}}
+|footnote=Sources:<ref name="USDecennialCensus">{{cite web|title=Census of Population and Housing|url=https://www.census.gov/programs-surveys/decennial-census.html|publisher=U.S. Census Bureau|access-date=11 December 2013}}</ref><ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref><ref name=CensusPopEst>{{cite web|title=Incorporated Places and Minor Civil Divisions Datasets: Subcounty Resident Population Estimates: April 1, 2010 to July 1, 2012|url=https://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|work=Population Estimates|publisher=U.S. Census Bureau|access-date=11 December 2013|url-status=dead|archive-url=https://web.archive.org/web/20130611010502/http://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|archive-date=11 June 2013}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A42|title=Census Population API|publisher=United States Census Bureau|accessdate=Oct 12, 2022}}</ref>
+}}
+At the [[2000 United States census|2000 census]] there were 2,473 people, 1,019 households, and 666 families residing in the borough. The population density was {{convert|2,950.7|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 1,089 housing units at an average density of {{convert|1,299.3|/sqmi|/km2|sp=us|adj=off}}.  The [[Race and ethnicity in the United States Census#2000 census|racial makeup]] of the borough was 99.35% White, 0.24% African American, 0.12% Native American, 0.16% Asian, and 0.12% from two or more races. Hispanic or Latino of any race were 0.73%.<ref name="GR2" />
+
+Of the 1,019 households, 29.4% had children under the age of 18 living with them, 49.2% were married couples living together, 11.4% had a female householder with no husband present, and 34.6% were non-families. Individuals made up 31.0% of all households, and 18.1% consisted of a single person aged 65 or older. The average household size was 2.31, while the average family size was 2.89.
+
+The population was distributed across age groups as follows: 22.2% were under 18, 7.5% were aged 18 to 24, 26.4% were between 25 and 44, 21.8% were between 45 and 64, and 22.1% were 65 or older. The median age was 41 years. There were 84.7 males for every 100 females, and among those aged 18 and over, there were 80.9 males per 100 females.
+
+The median household income was $24,652, and the median family income was $29,798. Males had a median income of $26,167, compared with $18,205 for females. The per capita income for the borough was $14,116. About 16.8% of families and 20.4% of the population were below the [[poverty line]], including 31.4% of those under age 18 and 18.3% of those age 65 or over.
+

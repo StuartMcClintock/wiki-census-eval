@@ -1,0 +1,16 @@
+{
+  "article": "Tobias,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/49005/Tobias__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "00f25b5815e759bcd7286710d441489644fc43393a57415a02c5600f300ab9c0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "00f25b5815e759bcd7286710d441489644fc43393a57415a02c5600f300ab9c0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/49005/Tobias__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "49005",
+  "timestamp": "2026-05-24T23:57:21.202880Z",
+  "version": 1
+}

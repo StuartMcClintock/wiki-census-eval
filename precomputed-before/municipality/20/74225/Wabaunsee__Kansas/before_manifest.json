@@ -1,0 +1,16 @@
+{
+  "article": "Wabaunsee,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/74225/Wabaunsee__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1a5d285fa0f49db5b0d60f283895995282821a63bd5ecd52b4876fa596db117d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1a5d285fa0f49db5b0d60f283895995282821a63bd5ecd52b4876fa596db117d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/74225/Wabaunsee__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "74225",
+  "timestamp": "2026-05-24T23:43:34.940197Z",
+  "version": 1
+}

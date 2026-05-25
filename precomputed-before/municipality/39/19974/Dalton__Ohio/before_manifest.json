@@ -1,0 +1,16 @@
+{
+  "article": "Dalton,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/19974/Dalton__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "79d6437382e01d2004a9e90a8dff2bc639c99606ff598647d7922483ab5d8907",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "79d6437382e01d2004a9e90a8dff2bc639c99606ff598647d7922483ab5d8907",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/19974/Dalton__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "19974",
+  "timestamp": "2026-05-25T00:04:03.045832Z",
+  "version": 1
+}

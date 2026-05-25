@@ -1,0 +1,16 @@
+{
+  "article": "Kempton,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/39366/Kempton__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0aa0484da7d9319200bd9111735e3e4e01c71f6dea6b19d979f8f9d0ca4b4858",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0aa0484da7d9319200bd9111735e3e4e01c71f6dea6b19d979f8f9d0ca4b4858",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/39366/Kempton__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "39366",
+  "timestamp": "2026-05-24T23:39:40.545682Z",
+  "version": 1
+}

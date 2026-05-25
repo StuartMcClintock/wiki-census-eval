@@ -1,0 +1,16 @@
+{
+  "article": "Eola,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/23550/Eola__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b922dcbfb001a33ee04e4d7ac9de409cdb3182ee4fa1a3a99326ae9e776b3dba",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b922dcbfb001a33ee04e4d7ac9de409cdb3182ee4fa1a3a99326ae9e776b3dba",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/23550/Eola__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "23550",
+  "timestamp": "2026-05-25T00:05:47.115342Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Rockville,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/65784/Rockville__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "77e2c0c28455ebde2cdf08a82c5b7fdc855cb20a7f04119d76c72077cb992604",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "77e2c0c28455ebde2cdf08a82c5b7fdc855cb20a7f04119d76c72077cb992604",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/65784/Rockville__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "65784",
+  "timestamp": "2026-05-24T23:32:11.158464Z",
+  "version": 1
+}

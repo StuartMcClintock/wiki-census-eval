@@ -1,0 +1,16 @@
+{
+  "article": "Rhine,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/64932/Rhine__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "156e7fbeedc0dd3c7c5177ed776de86c579d12360cd0fd2d4088c3a61ebd28de",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "156e7fbeedc0dd3c7c5177ed776de86c579d12360cd0fd2d4088c3a61ebd28de",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/64932/Rhine__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "64932",
+  "timestamp": "2026-05-24T23:37:05.212103Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Gilman,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/30750/Gilman__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "69b5d9ddcbae29c70bc2a4b6475878bc90450151d0033b1f99df6934a2eb77cd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "69b5d9ddcbae29c70bc2a4b6475878bc90450151d0033b1f99df6934a2eb77cd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/30750/Gilman__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "30750",
+  "timestamp": "2026-05-24T23:54:27.068396Z",
+  "version": 1
+}

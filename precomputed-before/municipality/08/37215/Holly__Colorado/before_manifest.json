@@ -1,0 +1,16 @@
+{
+  "article": "Holly,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/37215/Holly__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4c321cef595a1dd33c76d6383f3c92167619066581e3f82785cd5565de4fbb3c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4c321cef595a1dd33c76d6383f3c92167619066581e3f82785cd5565de4fbb3c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/37215/Holly__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "37215",
+  "timestamp": "2026-05-24T23:35:28.448121Z",
+  "version": 1
+}

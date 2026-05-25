@@ -1,0 +1,16 @@
+{
+  "article": "Center_Sandwich,_New_Hampshire",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/33/10900/Center_Sandwich__New_Hampshire/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a20d7408d36131239d89599cb50b9e2304b24a05b23762335076238ac9153c60",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a20d7408d36131239d89599cb50b9e2304b24a05b23762335076238ac9153c60",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/33/10900/Center_Sandwich__New_Hampshire/manifest.json",
+  "state_fips": "33",
+  "status": "match",
+  "target_fips": "10900",
+  "timestamp": "2026-05-24T23:57:35.932747Z",
+  "version": 1
+}

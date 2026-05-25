@@ -1,0 +1,16 @@
+{
+  "article": "Verdi,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/82334/Verdi__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a044df74ae8286fb5bd34ac04aafa369ae5d2535d41710142ab9f70c93fd2f61",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a044df74ae8286fb5bd34ac04aafa369ae5d2535d41710142ab9f70c93fd2f61",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/82334/Verdi__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "82334",
+  "timestamp": "2026-05-24T23:35:12.457382Z",
+  "version": 1
+}

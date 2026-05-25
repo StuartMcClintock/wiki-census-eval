@@ -1,0 +1,16 @@
+{
+  "article": "Riverton,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/41760/Riverton__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "92dab4f5e2934145ea582fffdeff98c57fbbba8d203bada32975d06b36d7a18f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "92dab4f5e2934145ea582fffdeff98c57fbbba8d203bada32975d06b36d7a18f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/41760/Riverton__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "41760",
+  "timestamp": "2026-05-24T23:57:13.274536Z",
+  "version": 1
+}

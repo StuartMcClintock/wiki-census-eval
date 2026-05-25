@@ -1,0 +1,16 @@
+{
+  "article": "Suncrest,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/68460/Suncrest__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ca0970c5f7f2d1045c8110f4f3b328742879e0db105e0d99b8dfac6b98b04bb0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ca0970c5f7f2d1045c8110f4f3b328742879e0db105e0d99b8dfac6b98b04bb0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/68460/Suncrest__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "68460",
+  "timestamp": "2026-05-25T00:20:34.334412Z",
+  "version": 1
+}

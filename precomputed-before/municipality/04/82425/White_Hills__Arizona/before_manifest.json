@@ -1,0 +1,16 @@
+{
+  "article": "White_Hills,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/82425/White_Hills__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "906bf9ea21953252e1a4f3b35dd53136a7e6811b6011bb088bc40d5dad3eb92e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "906bf9ea21953252e1a4f3b35dd53136a7e6811b6011bb088bc40d5dad3eb92e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/82425/White_Hills__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "82425",
+  "timestamp": "2026-05-24T23:33:14.795879Z",
+  "version": 1
+}

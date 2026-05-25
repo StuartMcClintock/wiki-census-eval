@@ -1,0 +1,16 @@
+{
+  "article": "Dixonville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/19344/Dixonville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8fd707004e78275bcb774b93aedbbfefd4a5d4c96d6e366dc6222aac0b8cfa57",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8fd707004e78275bcb774b93aedbbfefd4a5d4c96d6e366dc6222aac0b8cfa57",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/19344/Dixonville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "19344",
+  "timestamp": "2026-05-25T00:06:51.845801Z",
+  "version": 1
+}

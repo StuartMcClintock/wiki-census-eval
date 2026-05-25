@@ -1,0 +1,16 @@
+{
+  "article": "Elkhart_Lake,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/23275/Elkhart_Lake__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1bc61f08bafb451fbc29b574370429914572d112ddba2558a9ae50a43d550f6c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1bc61f08bafb451fbc29b574370429914572d112ddba2558a9ae50a43d550f6c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/23275/Elkhart_Lake__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "23275",
+  "timestamp": "2026-05-25T00:22:03.996801Z",
+  "version": 1
+}

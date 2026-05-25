@@ -1,0 +1,16 @@
+{
+  "article": "Chickamaw_Beach,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/11296/Chickamaw_Beach__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8faacaac8bb0d3520563a4a9bf3e0e98c6cdaaa9e9e425a08e702325515c57b2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8faacaac8bb0d3520563a4a9bf3e0e98c6cdaaa9e9e425a08e702325515c57b2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/11296/Chickamaw_Beach__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "11296",
+  "timestamp": "2026-05-24T23:48:44.574772Z",
+  "version": 1
+}

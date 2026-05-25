@@ -1,0 +1,16 @@
+{
+  "article": "Coalmont,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/14640/Coalmont__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4e8a07493e97df05bbd165c08bfa3d5da2edd724e5be7f96a2f2b05d759c4096",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4e8a07493e97df05bbd165c08bfa3d5da2edd724e5be7f96a2f2b05d759c4096",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/14640/Coalmont__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "14640",
+  "timestamp": "2026-05-25T00:06:43.572102Z",
+  "version": 1
+}

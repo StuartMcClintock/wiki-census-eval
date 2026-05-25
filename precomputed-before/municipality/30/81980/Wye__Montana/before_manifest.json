@@ -1,0 +1,16 @@
+{
+  "article": "Wye,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/81980/Wye__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bcc47f9bf5dc7a269b0dbbc85c09560c1e4bf4d2188e306134c9f9a3c541db36",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bcc47f9bf5dc7a269b0dbbc85c09560c1e4bf4d2188e306134c9f9a3c541db36",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/81980/Wye__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "81980",
+  "timestamp": "2026-05-24T23:55:05.873081Z",
+  "version": 1
+}

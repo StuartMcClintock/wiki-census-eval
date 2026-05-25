@@ -1,0 +1,16 @@
+{
+  "article": "West_Canton,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/72150/West_Canton__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6680cd3d6ae5921f59d90f99b1957d8c304e857093de53dd349151d6224ef33f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6680cd3d6ae5921f59d90f99b1957d8c304e857093de53dd349151d6224ef33f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/72150/West_Canton__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "72150",
+  "timestamp": "2026-05-25T00:02:29.266483Z",
+  "version": 1
+}

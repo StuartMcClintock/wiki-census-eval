@@ -1,0 +1,16 @@
+{
+  "article": "Elroy,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/23800/Elroy__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "771f62b1ce5a12e1b18cc0bce06079db669f6d5cbefbd48e6183b72709a628af",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "771f62b1ce5a12e1b18cc0bce06079db669f6d5cbefbd48e6183b72709a628af",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/23800/Elroy__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "23800",
+  "timestamp": "2026-05-25T00:22:04.793897Z",
+  "version": 1
+}

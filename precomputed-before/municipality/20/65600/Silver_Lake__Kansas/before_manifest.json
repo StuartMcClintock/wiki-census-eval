@@ -1,0 +1,16 @@
+{
+  "article": "Silver_Lake,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/65600/Silver_Lake__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cda5c454dfdfab51a155b14e4e00e56ff6950d96e1fc16652dcca2b09add5955",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cda5c454dfdfab51a155b14e4e00e56ff6950d96e1fc16652dcca2b09add5955",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/65600/Silver_Lake__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "65600",
+  "timestamp": "2026-05-24T23:43:29.191500Z",
+  "version": 1
+}

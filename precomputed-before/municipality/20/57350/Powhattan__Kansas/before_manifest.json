@@ -1,0 +1,16 @@
+{
+  "article": "Powhattan,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/57350/Powhattan__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "005ebbb52c68d6e946f528f62a9f9760685ebe09782788a89076b20be838b3f3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "005ebbb52c68d6e946f528f62a9f9760685ebe09782788a89076b20be838b3f3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/57350/Powhattan__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "57350",
+  "timestamp": "2026-05-24T23:43:21.509140Z",
+  "version": 1
+}

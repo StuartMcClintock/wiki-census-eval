@@ -1,0 +1,16 @@
+{
+  "article": "Cedar_Bluff,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/13784/Cedar_Bluff__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8b56a713827701c245d69b3550c543f88fe67d7ee574284e00821415d9b5e91d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8b56a713827701c245d69b3550c543f88fe67d7ee574284e00821415d9b5e91d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/13784/Cedar_Bluff__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "13784",
+  "timestamp": "2026-05-25T00:19:05.106921Z",
+  "version": 1
+}

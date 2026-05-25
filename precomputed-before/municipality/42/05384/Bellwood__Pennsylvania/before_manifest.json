@@ -1,0 +1,16 @@
+{
+  "article": "Bellwood,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/05384/Bellwood__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4b41c457db211d3675fa1dab1b57020c8955e0081d810b66eaefbbb2760023d0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4b41c457db211d3675fa1dab1b57020c8955e0081d810b66eaefbbb2760023d0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/05384/Bellwood__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "05384",
+  "timestamp": "2026-05-25T00:06:15.569516Z",
+  "version": 1
+}

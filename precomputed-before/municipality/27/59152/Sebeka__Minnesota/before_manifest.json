@@ -1,0 +1,16 @@
+{
+  "article": "Sebeka,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/59152/Sebeka__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3b3ef7cb67441fceb5be971d7a9bfedf49bcf54e5889c406cfcb5794699b2f81",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3b3ef7cb67441fceb5be971d7a9bfedf49bcf54e5889c406cfcb5794699b2f81",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/59152/Sebeka__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "59152",
+  "timestamp": "2026-05-24T23:49:44.893298Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Suissevale,_New_Hampshire",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/33/74780/Suissevale__New_Hampshire/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c3b236f3f3529fc24a2d7b98c14b0fca838541e8578a197b3eecb7e021bd840c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c3b236f3f3529fc24a2d7b98c14b0fca838541e8578a197b3eecb7e021bd840c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/33/74780/Suissevale__New_Hampshire/manifest.json",
+  "state_fips": "33",
+  "status": "match",
+  "target_fips": "74780",
+  "timestamp": "2026-05-24T23:57:37.273563Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Strong,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/67370/Strong__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "eddef9584e3e1bd4b04b92de5454eabbf64baecee1c5888ea842bd2268097371",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "eddef9584e3e1bd4b04b92de5454eabbf64baecee1c5888ea842bd2268097371",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/67370/Strong__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "67370",
+  "timestamp": "2026-05-24T23:34:09.757272Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Bienville,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/07205/Bienville__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "51072c27b97d15efc2488292d384a602400b2ed63051dc8ef039da0cd73e481f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "51072c27b97d15efc2488292d384a602400b2ed63051dc8ef039da0cd73e481f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/07205/Bienville__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "07205",
+  "timestamp": "2026-05-24T23:44:29.407722Z",
+  "version": 1
+}

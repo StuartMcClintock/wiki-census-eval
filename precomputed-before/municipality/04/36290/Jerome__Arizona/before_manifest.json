@@ -1,0 +1,16 @@
+{
+  "article": "Jerome,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/36290/Jerome__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "302e52da52fc750d9a0cb74179d8a063e9b9a1df6f24044e9284ca6943c3e575",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "302e52da52fc750d9a0cb74179d8a063e9b9a1df6f24044e9284ca6943c3e575",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/36290/Jerome__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "36290",
+  "timestamp": "2026-05-24T23:33:01.258155Z",
+  "version": 1
+}

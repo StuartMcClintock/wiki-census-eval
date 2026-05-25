@@ -1,0 +1,16 @@
+{
+  "article": "Crescent,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/20372/Crescent__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "103ffd9f76e135b5fa3fd8c4586e430285e7fe96961f42a59f8a3e617a64a64f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "103ffd9f76e135b5fa3fd8c4586e430285e7fe96961f42a59f8a3e617a64a64f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/20372/Crescent__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "20372",
+  "timestamp": "2026-05-24T23:36:33.341755Z",
+  "version": 1
+}

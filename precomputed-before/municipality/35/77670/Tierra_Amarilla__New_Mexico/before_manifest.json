@@ -1,0 +1,16 @@
+{
+  "article": "Tierra_Amarilla,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/77670/Tierra_Amarilla__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c8d49bd35546cc047e1c35cd6e1f7ed4be6ca1f52fe0bf6edb41453706c744f0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c8d49bd35546cc047e1c35cd6e1f7ed4be6ca1f52fe0bf6edb41453706c744f0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/77670/Tierra_Amarilla__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "77670",
+  "timestamp": "2026-05-24T23:59:08.531496Z",
+  "version": 1
+}

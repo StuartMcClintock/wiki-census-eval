@@ -1,0 +1,16 @@
+{
+  "article": "Metaline,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/45285/Metaline__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ac329a64b4a4237cb4824c895ce56b2142ff42c1d645045f7446e7e550e3d077",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ac329a64b4a4237cb4824c895ce56b2142ff42c1d645045f7446e7e550e3d077",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/45285/Metaline__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "45285",
+  "timestamp": "2026-05-25T00:20:23.309356Z",
+  "version": 1
+}

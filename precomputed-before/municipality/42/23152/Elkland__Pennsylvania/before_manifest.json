@@ -1,0 +1,16 @@
+{
+  "article": "Elkland,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/23152/Elkland__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7826f3dbdfdf969b7472ae5d81ac124503a4a1030757a50e11e1ae3dad05cbd5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7826f3dbdfdf969b7472ae5d81ac124503a4a1030757a50e11e1ae3dad05cbd5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/23152/Elkland__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "23152",
+  "timestamp": "2026-05-25T00:07:03.441028Z",
+  "version": 1
+}

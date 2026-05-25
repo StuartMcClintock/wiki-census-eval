@@ -1,0 +1,16 @@
+{
+  "article": "Suring,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/78725/Suring__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7ff4ed6d3eecfabce3318fce15abc4f1b2a368e1fc4381a10366ea92238c8088",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7ff4ed6d3eecfabce3318fce15abc4f1b2a368e1fc4381a10366ea92238c8088",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/78725/Suring__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "78725",
+  "timestamp": "2026-05-25T00:22:46.282434Z",
+  "version": 1
+}

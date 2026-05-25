@@ -1,0 +1,16 @@
+{
+  "article": "Bingham,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/06028/Bingham__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3f399a1df18a08cf0098150c9a275ca0c720ac5ec4f51ffc9d66862172a5ccfe",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3f399a1df18a08cf0098150c9a275ca0c720ac5ec4f51ffc9d66862172a5ccfe",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/06028/Bingham__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "06028",
+  "timestamp": "2026-05-24T23:37:49.646755Z",
+  "version": 1
+}

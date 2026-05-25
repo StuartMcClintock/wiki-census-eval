@@ -1,0 +1,16 @@
+{
+  "article": "Logan_Creek,_Nevada",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/32/42350/Logan_Creek__Nevada/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "22f3b391d99d53fb7f980d8c0ff7855a3081f1c3331ba8091824641d043148de",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "22f3b391d99d53fb7f980d8c0ff7855a3081f1c3331ba8091824641d043148de",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/32/42350/Logan_Creek__Nevada/manifest.json",
+  "state_fips": "32",
+  "status": "match",
+  "target_fips": "42350",
+  "timestamp": "2026-05-24T23:57:31.062654Z",
+  "version": 1
+}

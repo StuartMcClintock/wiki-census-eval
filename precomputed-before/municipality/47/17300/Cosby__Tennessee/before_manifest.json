@@ -1,0 +1,16 @@
+{
+  "article": "Cosby,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/17300/Cosby__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e455501b990010802f8082edfd6615dbe023f67c22c568bb8cf3632147e6abfc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e455501b990010802f8082edfd6615dbe023f67c22c568bb8cf3632147e6abfc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/17300/Cosby__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "17300",
+  "timestamp": "2026-05-25T00:14:35.532909Z",
+  "version": 1
+}

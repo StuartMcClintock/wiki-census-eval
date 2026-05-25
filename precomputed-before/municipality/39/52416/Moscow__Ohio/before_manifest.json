@@ -1,0 +1,16 @@
+{
+  "article": "Moscow,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/52416/Moscow__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8be4a6e1ca79d25a808e1f1327b6c4b06b1a22945c8151c62bef61c797ef2708",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8be4a6e1ca79d25a808e1f1327b6c4b06b1a22945c8151c62bef61c797ef2708",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/52416/Moscow__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "52416",
+  "timestamp": "2026-05-25T00:04:48.708618Z",
+  "version": 1
+}

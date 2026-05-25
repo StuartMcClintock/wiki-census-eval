@@ -1,0 +1,16 @@
+{
+  "article": "Walden,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/77540/Walden__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a1e897edd67ab1431bbb31db190840e45d9f9556f71e5dd4705387261795643b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a1e897edd67ab1431bbb31db190840e45d9f9556f71e5dd4705387261795643b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/77540/Walden__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "77540",
+  "timestamp": "2026-05-25T00:14:57.939555Z",
+  "version": 1
+}

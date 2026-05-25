@@ -1,0 +1,16 @@
+{
+  "article": "Unity,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/73240/Unity__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2e0cd587baa174fecbc046830b9527eb5e4ea8a4bf3f539939f6d2b6a79cc43b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2e0cd587baa174fecbc046830b9527eb5e4ea8a4bf3f539939f6d2b6a79cc43b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/73240/Unity__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "73240",
+  "timestamp": "2026-05-25T00:10:25.507673Z",
+  "version": 1
+}

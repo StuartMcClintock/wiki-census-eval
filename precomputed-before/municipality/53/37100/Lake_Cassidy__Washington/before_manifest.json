@@ -1,0 +1,16 @@
+{
+  "article": "Lake_Cassidy,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/37100/Lake_Cassidy__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "70c8f36edd77ecef08e8db2ed3da6ea0637fca30934818ffdc509a05caf21302",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "70c8f36edd77ecef08e8db2ed3da6ea0637fca30934818ffdc509a05caf21302",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/37100/Lake_Cassidy__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "37100",
+  "timestamp": "2026-05-25T00:20:18.149023Z",
+  "version": 1
+}

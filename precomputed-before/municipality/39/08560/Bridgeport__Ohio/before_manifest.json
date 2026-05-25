@@ -1,0 +1,16 @@
+{
+  "article": "Bridgeport,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/08560/Bridgeport__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6db1c008fcf861021d32e419aac68db154440e0b052e555132782262c28d4e67",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6db1c008fcf861021d32e419aac68db154440e0b052e555132782262c28d4e67",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/08560/Bridgeport__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "08560",
+  "timestamp": "2026-05-25T00:03:38.300841Z",
+  "version": 1
+}

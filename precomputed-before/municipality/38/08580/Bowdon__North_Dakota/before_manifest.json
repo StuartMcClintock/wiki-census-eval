@@ -1,0 +1,16 @@
+{
+  "article": "Bowdon,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/08580/Bowdon__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0a41a686c584a54669e0420cd5911668272fd7e7109fbc70fa860fa905d2a48d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0a41a686c584a54669e0420cd5911668272fd7e7109fbc70fa860fa905d2a48d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/08580/Bowdon__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "08580",
+  "timestamp": "2026-05-25T00:02:35.447106Z",
+  "version": 1
+}

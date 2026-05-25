@@ -1,0 +1,16 @@
+{
+  "article": "Chesterbrook,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/13216/Chesterbrook__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a8ad7d044836aa7ebb786659f16e500a767d3f5260151441b25d13e2e312dba3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a8ad7d044836aa7ebb786659f16e500a767d3f5260151441b25d13e2e312dba3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/13216/Chesterbrook__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "13216",
+  "timestamp": "2026-05-25T00:06:40.075674Z",
+  "version": 1
+}

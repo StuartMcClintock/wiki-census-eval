@@ -1,0 +1,16 @@
+{
+  "article": "Sidon,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/67840/Sidon__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e8a2a5efe5037a17f28308ea21202a9444d54d6f0fd5ce64dd1a66316a4b6f83",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e8a2a5efe5037a17f28308ea21202a9444d54d6f0fd5ce64dd1a66316a4b6f83",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/67840/Sidon__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "67840",
+  "timestamp": "2026-05-24T23:50:24.562301Z",
+  "version": 1
+}

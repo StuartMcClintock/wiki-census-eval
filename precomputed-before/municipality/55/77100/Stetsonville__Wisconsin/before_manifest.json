@@ -1,0 +1,16 @@
+{
+  "article": "Stetsonville,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/77100/Stetsonville__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9f6a51eea09bb00956a663fc6efaf721bbd9309dffe251347b32f60cbd9c9a8d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9f6a51eea09bb00956a663fc6efaf721bbd9309dffe251347b32f60cbd9c9a8d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/77100/Stetsonville__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "77100",
+  "timestamp": "2026-05-25T00:22:44.936941Z",
+  "version": 1
+}

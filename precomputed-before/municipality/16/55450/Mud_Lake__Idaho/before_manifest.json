@@ -1,0 +1,16 @@
+{
+  "article": "Mud_Lake,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/55450/Mud_Lake__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "54fa950074b9c3a4770587d479201e0a4f66e519895df8956dde7391cdd28b77",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "54fa950074b9c3a4770587d479201e0a4f66e519895df8956dde7391cdd28b77",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/55450/Mud_Lake__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "55450",
+  "timestamp": "2026-05-24T23:37:25.332703Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Coats,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/14525/Coats__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0288d18e117b850ed5466276f83c6f2963654a61575350e9bdec1e34d445dc66",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0288d18e117b850ed5466276f83c6f2963654a61575350e9bdec1e34d445dc66",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/14525/Coats__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "14525",
+  "timestamp": "2026-05-24T23:42:28.908821Z",
+  "version": 1
+}

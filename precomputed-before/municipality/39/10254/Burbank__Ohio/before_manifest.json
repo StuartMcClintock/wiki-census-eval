@@ -1,0 +1,16 @@
+{
+  "article": "Burbank,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/10254/Burbank__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d0b0aad2a039c64a4f595627e84ddd2b094979b531af9a1cd5093ecd7d543626",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d0b0aad2a039c64a4f595627e84ddd2b094979b531af9a1cd5093ecd7d543626",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/10254/Burbank__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "10254",
+  "timestamp": "2026-05-25T00:03:39.622531Z",
+  "version": 1
+}

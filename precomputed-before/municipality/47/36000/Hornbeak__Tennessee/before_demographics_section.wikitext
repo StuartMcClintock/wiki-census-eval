@@ -1,0 +1,24 @@
+==Demographics==
+{{US Census population
+|align=left
+|1930= 422
+|1940= 382
+|1950= 309
+|1960= 307
+|1970= 418
+|1980= 452
+|1990= 445
+|2000= 435
+|2010= 424
+|2020= 511
+|footnote=Sources:<ref name="GR9">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|publisher=[[United States Census Bureau]]|access-date=March 4, 2012|title=Census of Population and Housing: Decennial Censuses }}</ref><ref name=CensusPopEst>{{cite web|title=Incorporated Places and Minor Civil Divisions Datasets: Subcounty Resident Population Estimates: April 1, 2010 to July 1, 2012|url=https://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|work=Population Estimates|publisher=U.S. Census Bureau|access-date=December 11, 2013|url-status=dead|archive-url=https://web.archive.org/web/20130611010502/http://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|archive-date=June 11, 2013}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A47|title=Census Population API|publisher=United States Census Bureau|access-date=October 15, 2022}}</ref>
+}}
+
+As of the [[census]]<ref name="GR2" /> of 2000, there were 435 people, 185 households, and 130 families residing in the town. The population density was {{convert|697.0|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 205 housing units at an average density of {{convert|328.5|/sqmi|/km2|sp=us|adj=off}}. The racial makeup of the town was 99.31% [[White (U.S. Census)|White]], 0.23% [[African American (U.S. Census)|African American]], and 0.46% from two or more races.
+
+There were 185 households, out of which 30.8% had children under the age of 18 living with them, 59.5% were [[Marriage|married couples]] living together, 7.0% had a female householder with no husband present, and 29.2% were non-families. Of all households, 25.9% were made up of individuals, and 13.5% had someone living alone who was 65 years of age or older. The average household size was 2.35 and the average family size was 2.81.
+
+In the town, the population was spread out, with 22.8% under the age of 18, 7.1% from 18 to 24, 29.0% from 25 to 44, 23.7% from 45 to 64, and 17.5% who were 65 years of age or older. The median age was 40 years. For every 100 females, there were 87.5 males. For every 100 females age 18 and over, there were 89.8 males.
+
+The median income for a household in the town was $27,153, and the median income for a family was $31,389. Males had a median income of $29,167 versus $20,313 for females. The [[per capita income]] for the town was $11,657. About 13.5% of families and 14.7% of the population were below the [[poverty line]], including 3.9% of those under age 18 and 26.5% of those age 65 or over.
+

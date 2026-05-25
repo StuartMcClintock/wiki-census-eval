@@ -1,0 +1,16 @@
+{
+  "article": "Lind,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/39510/Lind__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5a69b7437842f6964ba3ecb708233bdbe780b7b169b3ca8593a0eccbd5a27184",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5a69b7437842f6964ba3ecb708233bdbe780b7b169b3ca8593a0eccbd5a27184",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/39510/Lind__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "39510",
+  "timestamp": "2026-05-25T00:20:19.948700Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Beyerville,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/05970/Beyerville__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d9896862a68c2323f95e688b600805b11f3467a4fc0cf99f38a8bde98cb9ab05",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d9896862a68c2323f95e688b600805b11f3467a4fc0cf99f38a8bde98cb9ab05",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/05970/Beyerville__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "05970",
+  "timestamp": "2026-05-24T23:32:48.444961Z",
+  "version": 1
+}

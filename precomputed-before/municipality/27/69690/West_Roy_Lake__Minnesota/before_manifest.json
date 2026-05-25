@@ -1,0 +1,16 @@
+{
+  "article": "West_Roy_Lake,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/69690/West_Roy_Lake__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "26fa24c2aa4f9a407a662e988ae24476d55f8d1d7760591baf385e96e2fbcf5c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "26fa24c2aa4f9a407a662e988ae24476d55f8d1d7760591baf385e96e2fbcf5c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/69690/West_Roy_Lake__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "69690",
+  "timestamp": "2026-05-24T23:49:53.744103Z",
+  "version": 1
+}

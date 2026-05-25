@@ -1,0 +1,16 @@
+{
+  "article": "Linnell_Camp,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/41740/Linnell_Camp__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3dabbf64f8c546e84c86274f182b08f0800ba30c0c2fbbe2593dfd030528bb3b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3dabbf64f8c546e84c86274f182b08f0800ba30c0c2fbbe2593dfd030528bb3b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/41740/Linnell_Camp__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "41740",
+  "timestamp": "2026-05-24T23:34:34.540366Z",
+  "version": 1
+}

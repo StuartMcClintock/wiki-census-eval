@@ -1,0 +1,16 @@
+{
+  "article": "Raleigh_Hills,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/60900/Raleigh_Hills__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0f37d15fc55e19ede06a1a20ccb96e87df66186ee1e617a94c5753a8aee45f1c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0f37d15fc55e19ede06a1a20ccb96e87df66186ee1e617a94c5753a8aee45f1c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/60900/Raleigh_Hills__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "60900",
+  "timestamp": "2026-05-25T00:05:54.712903Z",
+  "version": 1
+}

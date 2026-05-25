@@ -1,0 +1,16 @@
+{
+  "article": "Empire,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/24620/Empire__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "01383047d2d214b004f29e740c38e1621887964c68eecfadb5b0908d6f4b0d40",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "01383047d2d214b004f29e740c38e1621887964c68eecfadb5b0908d6f4b0d40",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/24620/Empire__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "24620",
+  "timestamp": "2026-05-24T23:35:24.961526Z",
+  "version": 1
+}

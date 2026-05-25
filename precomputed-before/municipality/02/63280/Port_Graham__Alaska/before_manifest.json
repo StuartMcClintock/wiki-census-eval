@@ -1,0 +1,16 @@
+{
+  "article": "Port_Graham,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/63280/Port_Graham__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c40ec008d255bad3dabae663b85fea51ffb576f368ba36ef4fd91e8375c12ef4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c40ec008d255bad3dabae663b85fea51ffb576f368ba36ef4fd91e8375c12ef4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/63280/Port_Graham__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "63280",
+  "timestamp": "2026-05-24T23:32:42.452644Z",
+  "version": 1
+}

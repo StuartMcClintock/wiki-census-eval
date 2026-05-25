@@ -1,0 +1,16 @@
+{
+  "article": "Emden,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/23971/Emden__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d5f984326c629ad66e72d8e08d51ac2e4d4dfd9e4e5c4e3ec25a6c513c70ae40",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d5f984326c629ad66e72d8e08d51ac2e4d4dfd9e4e5c4e3ec25a6c513c70ae40",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/23971/Emden__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "23971",
+  "timestamp": "2026-05-24T23:38:10.808149Z",
+  "version": 1
+}

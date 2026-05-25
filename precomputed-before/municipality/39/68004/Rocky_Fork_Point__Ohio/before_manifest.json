@@ -1,0 +1,16 @@
+{
+  "article": "Rocky_Fork_Point,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/68004/Rocky_Fork_Point__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fdee26b995267a36d336db17c1d5c4ad3fa5940f7eb6b4ea424b05ac42281851",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fdee26b995267a36d336db17c1d5c4ad3fa5940f7eb6b4ea424b05ac42281851",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/68004/Rocky_Fork_Point__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "68004",
+  "timestamp": "2026-05-25T00:05:12.248541Z",
+  "version": 1
+}

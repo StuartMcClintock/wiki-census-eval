@@ -1,0 +1,16 @@
+{
+  "article": "Vinco,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/80264/Vinco__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d44e13714184a47b7c2a7d0bedadc7538349c169d547dfb897aa033a5468915a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d44e13714184a47b7c2a7d0bedadc7538349c169d547dfb897aa033a5468915a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/80264/Vinco__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "80264",
+  "timestamp": "2026-05-25T00:09:22.759068Z",
+  "version": 1
+}

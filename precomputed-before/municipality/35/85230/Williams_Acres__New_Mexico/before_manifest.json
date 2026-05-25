@@ -1,0 +1,16 @@
+{
+  "article": "Williams_Acres,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/85230/Williams_Acres__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7627ee9386803b95270d6981a79263caad38a4c1727009c18b567d6b82432426",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7627ee9386803b95270d6981a79263caad38a4c1727009c18b567d6b82432426",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/85230/Williams_Acres__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "85230",
+  "timestamp": "2026-05-25T00:00:28.893379Z",
+  "version": 1
+}

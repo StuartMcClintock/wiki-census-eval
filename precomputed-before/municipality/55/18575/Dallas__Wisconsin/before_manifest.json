@@ -1,0 +1,16 @@
+{
+  "article": "Dallas,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/18575/Dallas__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a0cc3b986790e1b66e00f4bf7f21b6afde80ccc8bbd66256e556b66f7e8b428f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a0cc3b986790e1b66e00f4bf7f21b6afde80ccc8bbd66256e556b66f7e8b428f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/18575/Dallas__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "18575",
+  "timestamp": "2026-05-25T00:21:46.321179Z",
+  "version": 1
+}

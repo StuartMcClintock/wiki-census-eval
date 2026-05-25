@@ -1,0 +1,16 @@
+{
+  "article": "Volta,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/83108/Volta__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b6c21fcfe2591f59e983c73f3185a5acd5e071b1e6517ead8c213759fbb0db65",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b6c21fcfe2591f59e983c73f3185a5acd5e071b1e6517ead8c213759fbb0db65",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/83108/Volta__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "83108",
+  "timestamp": "2026-05-24T23:35:13.271788Z",
+  "version": 1
+}

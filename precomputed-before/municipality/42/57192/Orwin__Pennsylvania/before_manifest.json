@@ -1,0 +1,16 @@
+{
+  "article": "Orwin,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/57192/Orwin__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "78a5726d2b3ff9c721fd0dc8ecbc968a34af714cbcc8a4fac6b35cf95c89be08",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "78a5726d2b3ff9c721fd0dc8ecbc968a34af714cbcc8a4fac6b35cf95c89be08",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/57192/Orwin__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "57192",
+  "timestamp": "2026-05-25T00:08:24.418424Z",
+  "version": 1
+}

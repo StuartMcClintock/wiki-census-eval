@@ -1,0 +1,16 @@
+{
+  "article": "Ridgeway,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/60415/Ridgeway__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f74c7230bc620c92a92cc8237f7df376a9c965e5759339fabe2b6e625323b974",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f74c7230bc620c92a92cc8237f7df376a9c965e5759339fabe2b6e625323b974",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/60415/Ridgeway__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "60415",
+  "timestamp": "2026-05-25T00:10:19.354976Z",
+  "version": 1
+}

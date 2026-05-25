@@ -1,0 +1,113 @@
+==Demographics==
+{{US Census population
+|1880= 396
+|1890= 706
+|1900= 761
+|1910= 751
+|1920= 839
+|1930= 649
+|1950= 706
+|1960= 750
+|1970= 757
+|1980= 663
+|1990= 694
+|2000= 1001
+|2010= 731
+|2020= 548
+|align-fn=center
+|footnote=[https://web.archive.org/web/20060208103743/http://www.census.gov:80/prod/www/abs/decennial/ U.S. Decennial Census]<ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A45|title=Census Population API|publisher=United States Census Bureau|accessdate=October 15, 2022}}</ref>
+}}
+
+===2020 census===
+{| class="wikitable sortable" style="text-align:center;"
+|+'''Mayesville town, South Carolina – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Mayesville town, South Carolina|url=https://data.census.gov/table?g=160XX00US4545295&tid=DECENNIALSF12000.P004|website=[[United States Census Bureau]] |access-date= }}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Mayesville town, South Carolina|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US4545295&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!style="background-color: #ffffb3;" |Pop 2020<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Mayesville town, South Carolina|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US4545295&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!% 2000
+!% 2010
+!style="background-color: #ffffb3;" |% 2020
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|127
+|109
+|style='background: #ffffe6; |97
+|12.69%
+|14.91%
+|style='background: #ffffe6; |17.70%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|861
+|605
+|style='background: #ffffe6; |419
+|86.01%
+|82.76%
+|style='background: #ffffe6; |76.46%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|1
+|0
+|style='background: #ffffe6; |5
+|0.10%
+|0.00%
+|style='background: #ffffe6; |0.91%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|3
+|1
+|style='background: #ffffe6; |0
+|0.30%
+|0.14%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Native Hawaiian]] or [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |2
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.36%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|3
+|0
+|style='background: #ffffe6; |15
+|0.30%
+|0.00%
+|style='background: #ffffe6; |2.74%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|6
+|16
+|style='background: #ffffe6; |10
+|0.60%
+|2.19%
+|style='background: #ffffe6; |1.82%
+|-
+|'''Total'''
+|'''1,001'''
+|'''731'''
+|style='background: #ffffe6; |'''548 '''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+===2000 census===
+As of the [[census]]<ref name="GR2" /> of 2000, there were 1,001 people, 331 households, and 246 families residing in the town. The population density was {{convert|968.0|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 369 housing units at an average density of {{convert|356.8|/sqmi|/km2|sp=us|adj=off}}. The racial makeup of the town was 13.19% [[White (U.S. Census)|White]], 86.01% [[African American (U.S. Census)|African American]], 0.10% [[Native American (U.S. Census)|Native American]], 0.30% [[Asian (U.S. Census)|Asian]], 0.10% from [[Race (United States Census)|other races]], and 0.30% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 0.60% of the population.
+
+There were 331 households, out of which 35.6% had children under the age of 18 living with them, 36.9% were [[Marriage|married couples]] living together, 31.4% had a female householder with no husband present, and 25.4% were non-families. 22.1% of all households were made up of individuals, and 9.1% had someone living alone who was 65 years of age or older. The average household size was 3.02 and the average family size was 3.60.
+
+In the town, the population was spread out, with 30.6% under the age of 18, 10.7% from 18 to 24, 25.9% from 25 to 44, 21.1% from 45 to 64, and 11.8% who were 65 years of age or older. The median age was 35 years. For every 100 females, there were 83.7 males. For every 100 females age 18 and over, there were 74.2 males.
+
+The median income for a household in the town was $25,852, and the median income for a family was $27,321. Males had a median income of $21,964 versus $20,313 for females. The [[per capita income]] for the town was $10,738. About 29.6% of families and 36.5% of the population were below the [[poverty line]], including 49.5% of those under age 18 and 16.2% of those age 65 or over.
+

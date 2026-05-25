@@ -1,0 +1,16 @@
+{
+  "article": "Bechtelsville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/04896/Bechtelsville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "710c029a6285744e1af9367f9d21907a2124b715c03520242cd4b95ae8179662",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "710c029a6285744e1af9367f9d21907a2124b715c03520242cd4b95ae8179662",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/04896/Bechtelsville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "04896",
+  "timestamp": "2026-05-25T00:06:14.376700Z",
+  "version": 1
+}

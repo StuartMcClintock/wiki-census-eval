@@ -1,0 +1,16 @@
+{
+  "article": "Heceta_Beach,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/33150/Heceta_Beach__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fbfbcc4daad67ffbe08f4b11b261ae968fd2b399e7201dc99c2c4a9ab4a22b6c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fbfbcc4daad67ffbe08f4b11b261ae968fd2b399e7201dc99c2c4a9ab4a22b6c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/33150/Heceta_Beach__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "33150",
+  "timestamp": "2026-05-25T00:05:49.124189Z",
+  "version": 1
+}

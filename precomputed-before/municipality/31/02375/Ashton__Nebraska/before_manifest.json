@@ -1,0 +1,16 @@
+{
+  "article": "Ashton,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/02375/Ashton__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "256532c3bc0a07cfe4ef022ad40b2afe17b6a5ed8cd6335a9e3d3e5c29b41657",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "256532c3bc0a07cfe4ef022ad40b2afe17b6a5ed8cd6335a9e3d3e5c29b41657",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/02375/Ashton__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "02375",
+  "timestamp": "2026-05-24T23:55:08.988912Z",
+  "version": 1
+}

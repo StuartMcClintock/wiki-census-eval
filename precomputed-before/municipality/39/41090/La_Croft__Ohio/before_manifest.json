@@ -1,0 +1,16 @@
+{
+  "article": "La_Croft,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/41090/La_Croft__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6cd1fc29205ed8d41447b444d35abdd193a35d43f1172315849f5f33fdb8b4ba",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6cd1fc29205ed8d41447b444d35abdd193a35d43f1172315849f5f33fdb8b4ba",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/41090/La_Croft__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "41090",
+  "timestamp": "2026-05-25T00:04:34.813130Z",
+  "version": 1
+}

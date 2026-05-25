@@ -1,0 +1,16 @@
+{
+  "article": "Morrill,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/48300/Morrill__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5f4ae5c86e7ead6a36b38b74cabb08d602c99dd9e19f7ed3b32561170f7fe06b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5f4ae5c86e7ead6a36b38b74cabb08d602c99dd9e19f7ed3b32561170f7fe06b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/48300/Morrill__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "48300",
+  "timestamp": "2026-05-24T23:43:10.932759Z",
+  "version": 1
+}

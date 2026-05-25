@@ -1,0 +1,16 @@
+{
+  "article": "Cherry_Fork,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/13834/Cherry_Fork__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "45c73759b0bfe5ab5eb7645d3b43ac14f6031a20e35908e1ce497598df0770bf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "45c73759b0bfe5ab5eb7645d3b43ac14f6031a20e35908e1ce497598df0770bf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/13834/Cherry_Fork__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "13834",
+  "timestamp": "2026-05-25T00:03:53.602723Z",
+  "version": 1
+}

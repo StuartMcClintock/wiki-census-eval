@@ -1,0 +1,16 @@
+{
+  "article": "Rochester,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/68550/Rochester__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2e6f589290c484ed282b88db06fe72c0f2f067f9e8656cabffcb13c6021f72c2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2e6f589290c484ed282b88db06fe72c0f2f067f9e8656cabffcb13c6021f72c2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/68550/Rochester__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "68550",
+  "timestamp": "2026-05-25T00:22:39.516966Z",
+  "version": 1
+}

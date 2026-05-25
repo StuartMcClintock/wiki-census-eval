@@ -1,0 +1,16 @@
+{
+  "article": "Kylertown,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/40680/Kylertown__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8ea4a93a8c58626efe720008fedd1397b6d739bc4998a1002a9083d8df44279c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8ea4a93a8c58626efe720008fedd1397b6d739bc4998a1002a9083d8df44279c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/40680/Kylertown__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "40680",
+  "timestamp": "2026-05-25T00:07:46.370776Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Cattle_Creek,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/12470/Cattle_Creek__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "25ca2a1314690247f74c4076b77b71ca33cb239a09a387affbd5590e488be9e7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "25ca2a1314690247f74c4076b77b71ca33cb239a09a387affbd5590e488be9e7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/12470/Cattle_Creek__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "12470",
+  "timestamp": "2026-05-24T23:35:21.030986Z",
+  "version": 1
+}

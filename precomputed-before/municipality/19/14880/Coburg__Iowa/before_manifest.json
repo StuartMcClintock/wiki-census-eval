@@ -1,0 +1,16 @@
+{
+  "article": "Coburg,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/14880/Coburg__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d6f3a33cb18b08d8875172f591747fc8093dd65325f80a7f7fc77d6bf687cec5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d6f3a33cb18b08d8875172f591747fc8093dd65325f80a7f7fc77d6bf687cec5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/14880/Coburg__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "14880",
+  "timestamp": "2026-05-24T23:40:35.604910Z",
+  "version": 1
+}

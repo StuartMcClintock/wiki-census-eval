@@ -1,0 +1,16 @@
+{
+  "article": "Heuvelton,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/34264/Heuvelton__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ac3867e43500c959cccb8e5649f8286d6a7874a1bfe0242445647ccd81ddb4c2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ac3867e43500c959cccb8e5649f8286d6a7874a1bfe0242445647ccd81ddb4c2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/34264/Heuvelton__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "34264",
+  "timestamp": "2026-05-25T00:00:47.364189Z",
+  "version": 1
+}

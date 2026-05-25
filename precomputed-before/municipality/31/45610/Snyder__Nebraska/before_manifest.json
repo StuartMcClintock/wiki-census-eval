@@ -1,0 +1,16 @@
+{
+  "article": "Snyder,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/45610/Snyder__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cfc197b4a99f94069841048826dfd531a452535778b9a0a0d227fb550e51aec7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cfc197b4a99f94069841048826dfd531a452535778b9a0a0d227fb550e51aec7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/45610/Snyder__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "45610",
+  "timestamp": "2026-05-24T23:57:16.661187Z",
+  "version": 1
+}

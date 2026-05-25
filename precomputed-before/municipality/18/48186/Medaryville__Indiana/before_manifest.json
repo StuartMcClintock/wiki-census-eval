@@ -1,0 +1,16 @@
+{
+  "article": "Medaryville,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/48186/Medaryville__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "782586cae3bae8583012827735c6101de450c861ba7411e891a52fcdc0ca8c83",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "782586cae3bae8583012827735c6101de450c861ba7411e891a52fcdc0ca8c83",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/48186/Medaryville__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "48186",
+  "timestamp": "2026-05-24T23:40:01.343218Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Sophia,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/75172/Sophia__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9917469650cb6e5eee0618d20418c2888b9ab44b76cfe6eec383de1e9706d1bb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9917469650cb6e5eee0618d20418c2888b9ab44b76cfe6eec383de1e9706d1bb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/75172/Sophia__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "75172",
+  "timestamp": "2026-05-25T00:21:25.799322Z",
+  "version": 1
+}

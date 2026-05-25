@@ -1,0 +1,16 @@
+{
+  "article": "Plandome,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/58475/Plandome__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "21602ee08ad47393b6c974aad558ada8ad339e53de5551c92e308942679b56e6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "21602ee08ad47393b6c974aad558ada8ad339e53de5551c92e308942679b56e6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/58475/Plandome__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "58475",
+  "timestamp": "2026-05-25T00:01:04.167267Z",
+  "version": 1
+}

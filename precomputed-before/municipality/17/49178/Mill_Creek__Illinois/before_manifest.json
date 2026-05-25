@@ -1,0 +1,16 @@
+{
+  "article": "Mill_Creek,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/49178/Mill_Creek__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "56599e7bd471595ecb20febe8dbae0d960d45c4f16de2be41babf039ce8dac29",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "56599e7bd471595ecb20febe8dbae0d960d45c4f16de2be41babf039ce8dac29",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/49178/Mill_Creek__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "49178",
+  "timestamp": "2026-05-24T23:38:35.702518Z",
+  "version": 1
+}

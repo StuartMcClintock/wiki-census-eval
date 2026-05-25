@@ -1,0 +1,16 @@
+{
+  "article": "McAllister,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/46225/McAllister__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1423298e8a1daff9fb9d3013a5e022036e88e82c4ba42b2030779e37a32c00ce",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1423298e8a1daff9fb9d3013a5e022036e88e82c4ba42b2030779e37a32c00ce",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/46225/McAllister__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "46225",
+  "timestamp": "2026-05-24T23:54:36.443792Z",
+  "version": 1
+}

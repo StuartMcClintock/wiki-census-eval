@@ -1,0 +1,16 @@
+{
+  "article": "Perry,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/57080/Perry__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a4ef595d28aa5eda7d7467d6824af142ca33913d81661f80f2a1eaf025f44345",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a4ef595d28aa5eda7d7467d6824af142ca33913d81661f80f2a1eaf025f44345",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/57080/Perry__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "57080",
+  "timestamp": "2026-05-24T23:53:41.217971Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Cold_Brook,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/16815/Cold_Brook__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a65d22205c7e36b0dee18c15f17570f51a4b3adf70d904d3c53df45337c1ebfb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a65d22205c7e36b0dee18c15f17570f51a4b3adf70d904d3c53df45337c1ebfb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/16815/Cold_Brook__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "16815",
+  "timestamp": "2026-05-25T00:00:36.758845Z",
+  "version": 1
+}

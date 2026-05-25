@@ -1,0 +1,16 @@
+{
+  "article": "Minnetonka_Beach,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/43270/Minnetonka_Beach__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fcd420c92481a4b5040bc19e6149725137cd30558b8118e6aed9cba410a542fe",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fcd420c92481a4b5040bc19e6149725137cd30558b8118e6aed9cba410a542fe",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/43270/Minnetonka_Beach__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "43270",
+  "timestamp": "2026-05-24T23:49:21.910932Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Massena,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/50250/Massena__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6abf70a755b85441bacc8c14a9cb6a60cb4617d6755c5a743ae8e0297b6aca5b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6abf70a755b85441bacc8c14a9cb6a60cb4617d6755c5a743ae8e0297b6aca5b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/50250/Massena__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "50250",
+  "timestamp": "2026-05-24T23:41:25.983848Z",
+  "version": 1
+}

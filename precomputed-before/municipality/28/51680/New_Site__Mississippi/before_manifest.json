@@ -1,0 +1,16 @@
+{
+  "article": "New_Site,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/51680/New_Site__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "88660a237375e0ab88e4f155a1a81bfe1c7992f8c05ba7adda2d3f9305727422",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "88660a237375e0ab88e4f155a1a81bfe1c7992f8c05ba7adda2d3f9305727422",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/51680/New_Site__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "51680",
+  "timestamp": "2026-05-24T23:50:18.359244Z",
+  "version": 1
+}

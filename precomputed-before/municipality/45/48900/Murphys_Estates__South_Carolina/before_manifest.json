@@ -1,0 +1,16 @@
+{
+  "article": "Murphys_Estates,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/48900/Murphys_Estates__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "02831471171aba300627105cfa65192d522460279cbb92b301cdd4704fa2c202",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "02831471171aba300627105cfa65192d522460279cbb92b301cdd4704fa2c202",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/48900/Murphys_Estates__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "48900",
+  "timestamp": "2026-05-25T00:10:14.049399Z",
+  "version": 1
+}

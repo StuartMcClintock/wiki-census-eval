@@ -1,0 +1,16 @@
+{
+  "article": "Dalton,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/14626/Dalton__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "44d86216b7f00316b5ec523982c11c1bffbe57327e4e20439c0ad90bd7fb4575",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "44d86216b7f00316b5ec523982c11c1bffbe57327e4e20439c0ad90bd7fb4575",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/14626/Dalton__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "14626",
+  "timestamp": "2026-05-24T23:48:47.930426Z",
+  "version": 1
+}

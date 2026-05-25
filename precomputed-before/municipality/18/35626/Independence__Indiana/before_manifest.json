@@ -1,0 +1,16 @@
+{
+  "article": "Independence,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/35626/Independence__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "43b9f33fba6633a12a50a312f30a6aa8693feca71e5e0f656ee2eacf5649f0dc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "43b9f33fba6633a12a50a312f30a6aa8693feca71e5e0f656ee2eacf5649f0dc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/35626/Independence__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "35626",
+  "timestamp": "2026-05-24T23:39:39.904217Z",
+  "version": 1
+}

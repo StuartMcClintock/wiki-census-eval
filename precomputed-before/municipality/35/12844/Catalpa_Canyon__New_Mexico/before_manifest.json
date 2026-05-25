@@ -1,0 +1,16 @@
+{
+  "article": "Catalpa_Canyon,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/12844/Catalpa_Canyon__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "14c10469120aa8284f139b7f86283eca4c534ac1aca57028c736b63cf07b2a17",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "14c10469120aa8284f139b7f86283eca4c534ac1aca57028c736b63cf07b2a17",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/12844/Catalpa_Canyon__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "12844",
+  "timestamp": "2026-05-24T23:58:23.560046Z",
+  "version": 1
+}

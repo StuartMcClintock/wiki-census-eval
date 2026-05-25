@@ -1,0 +1,16 @@
+{
+  "article": "Port_Alsworth,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/62620/Port_Alsworth__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d7c143479c19c94bc76ff2be80493160e77ceca414a9d34018a5a10b848648b0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d7c143479c19c94bc76ff2be80493160e77ceca414a9d34018a5a10b848648b0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/62620/Port_Alsworth__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "62620",
+  "timestamp": "2026-05-24T23:32:42.342432Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Castor,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/13260/Castor__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "49d3d0be38f18d86a506f5666b8a2fd3d07249e072901b9231b806f17a5665c2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "49d3d0be38f18d86a506f5666b8a2fd3d07249e072901b9231b806f17a5665c2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/13260/Castor__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "13260",
+  "timestamp": "2026-05-24T23:44:30.969415Z",
+  "version": 1
+}

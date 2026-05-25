@@ -1,0 +1,16 @@
+{
+  "article": "Bovill,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/09730/Bovill__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d7acbc1960d4f2ca22f67f5ea07abd9017a0b777d7aa185d8ac1c47d4de452ee",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d7acbc1960d4f2ca22f67f5ea07abd9017a0b777d7aa185d8ac1c47d4de452ee",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/09730/Bovill__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "09730",
+  "timestamp": "2026-05-24T23:37:16.763102Z",
+  "version": 1
+}

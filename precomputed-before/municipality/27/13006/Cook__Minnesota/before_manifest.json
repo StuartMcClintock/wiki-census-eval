@@ -1,0 +1,16 @@
+{
+  "article": "Cook,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/13006/Cook__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c8e813bb09e6ee7ff6eb0be8ac78368f89bee7123435afc20bbe015d0ba158cc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c8e813bb09e6ee7ff6eb0be8ac78368f89bee7123435afc20bbe015d0ba158cc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/13006/Cook__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "13006",
+  "timestamp": "2026-05-24T23:48:46.825847Z",
+  "version": 1
+}

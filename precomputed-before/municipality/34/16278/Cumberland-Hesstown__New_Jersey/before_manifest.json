@@ -1,0 +1,16 @@
+{
+  "article": "Cumberland-Hesstown,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/16278/Cumberland-Hesstown__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "75c7c071a86735fbb372a0b61fb3c1e35797b878415dbf4ef07aafcbae5fdfe1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "75c7c071a86735fbb372a0b61fb3c1e35797b878415dbf4ef07aafcbae5fdfe1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/16278/Cumberland-Hesstown__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "16278",
+  "timestamp": "2026-05-24T23:57:44.688332Z",
+  "version": 1
+}

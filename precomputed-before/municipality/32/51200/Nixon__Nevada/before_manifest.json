@@ -1,0 +1,16 @@
+{
+  "article": "Nixon,_Nevada",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/32/51200/Nixon__Nevada/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8235fffb4cac3e77b0d8417a7835d0eaadfbaf5ba31490dee3622773c3fdfa2b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8235fffb4cac3e77b0d8417a7835d0eaadfbaf5ba31490dee3622773c3fdfa2b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/32/51200/Nixon__Nevada/manifest.json",
+  "state_fips": "32",
+  "status": "match",
+  "target_fips": "51200",
+  "timestamp": "2026-05-24T23:57:32.189212Z",
+  "version": 1
+}

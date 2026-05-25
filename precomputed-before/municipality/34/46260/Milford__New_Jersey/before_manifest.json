@@ -1,0 +1,16 @@
+{
+  "article": "Milford,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/46260/Milford__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "feb867b54764e9ee71a4eba6489c74f54d2a7f36285c5261a316a60fce64bc2b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "feb867b54764e9ee71a4eba6489c74f54d2a7f36285c5261a316a60fce64bc2b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/46260/Milford__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "46260",
+  "timestamp": "2026-05-24T23:57:55.079459Z",
+  "version": 1
+}

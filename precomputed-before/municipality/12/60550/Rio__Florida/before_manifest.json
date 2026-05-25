@@ -1,0 +1,16 @@
+{
+  "article": "Rio,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/60550/Rio__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "089a46d248aef8fc64eaddf9b3d1d41916a9f18f0a956ab9810d5374dd073c1e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "089a46d248aef8fc64eaddf9b3d1d41916a9f18f0a956ab9810d5374dd073c1e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/60550/Rio__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "60550",
+  "timestamp": "2026-05-24T23:36:21.964563Z",
+  "version": 1
+}

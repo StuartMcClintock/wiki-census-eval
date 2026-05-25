@@ -1,0 +1,16 @@
+{
+  "article": "Fayette_City,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/25456/Fayette_City__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7f7f40b275cc4f2f57466a5d23f9e749379694001fd606b1eeb58115acb6f8da",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7f7f40b275cc4f2f57466a5d23f9e749379694001fd606b1eeb58115acb6f8da",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/25456/Fayette_City__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "25456",
+  "timestamp": "2026-05-25T00:07:08.315042Z",
+  "version": 1
+}

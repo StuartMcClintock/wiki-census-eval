@@ -1,0 +1,16 @@
+{
+  "article": "Anacoco,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/01920/Anacoco__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cbf4eea4033107756aa7d5ed6ab89f3f981a2b309773badfd4f44ce9519acf92",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cbf4eea4033107756aa7d5ed6ab89f3f981a2b309773badfd4f44ce9519acf92",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/01920/Anacoco__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "01920",
+  "timestamp": "2026-05-24T23:44:27.711149Z",
+  "version": 1
+}

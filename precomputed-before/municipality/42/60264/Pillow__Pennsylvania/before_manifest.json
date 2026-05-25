@@ -1,0 +1,16 @@
+{
+  "article": "Pillow,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/60264/Pillow__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c9ea622ec25024d4f300cf16f5efa45176a9c20b1997d8f56afc1fc674ed60f7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c9ea622ec25024d4f300cf16f5efa45176a9c20b1997d8f56afc1fc674ed60f7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/60264/Pillow__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "60264",
+  "timestamp": "2026-05-25T00:08:29.312185Z",
+  "version": 1
+}

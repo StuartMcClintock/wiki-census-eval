@@ -1,0 +1,16 @@
+{
+  "article": "Bull_Lake,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/10935/Bull_Lake__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7cb48fbe44dfd6a4ea12647301db4a741fbf3c3b7d1285d566d58fe4f6422ee3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7cb48fbe44dfd6a4ea12647301db4a741fbf3c3b7d1285d566d58fe4f6422ee3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/10935/Bull_Lake__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "10935",
+  "timestamp": "2026-05-24T23:54:16.981883Z",
+  "version": 1
+}

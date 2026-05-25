@@ -1,0 +1,16 @@
+{
+  "article": "Brave,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/08312/Brave__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0a86d22f2ed5e1054c6ae6bf65adc274f2ba7a59e7d9afe3beea3272220ecd1e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0a86d22f2ed5e1054c6ae6bf65adc274f2ba7a59e7d9afe3beea3272220ecd1e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/08312/Brave__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "08312",
+  "timestamp": "2026-05-25T00:06:20.713607Z",
+  "version": 1
+}

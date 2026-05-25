@@ -1,0 +1,16 @@
+{
+  "article": "Hermleigh,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/33356/Hermleigh__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3c2b829a1b1019d072f8441d691d49073411d8be6fc8a32ca35316bd7c38cbb1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3c2b829a1b1019d072f8441d691d49073411d8be6fc8a32ca35316bd7c38cbb1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/33356/Hermleigh__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "33356",
+  "timestamp": "2026-05-25T00:15:42.511663Z",
+  "version": 1
+}

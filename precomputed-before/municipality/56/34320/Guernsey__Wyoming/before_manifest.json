@@ -1,0 +1,16 @@
+{
+  "article": "Guernsey,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/34320/Guernsey__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2d14c96c7cd13d8456dc0447b727423cf97922d9361920ba5c5e2bef6c71d963",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2d14c96c7cd13d8456dc0447b727423cf97922d9361920ba5c5e2bef6c71d963",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/34320/Guernsey__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "34320",
+  "timestamp": "2026-05-25T00:23:14.908958Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Greenhorn,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/31029/Greenhorn__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c17eb17467c51e51222bd695b06c6ea6b9f2265ef28cb54d898d3d1210b0ad63",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c17eb17467c51e51222bd695b06c6ea6b9f2265ef28cb54d898d3d1210b0ad63",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/31029/Greenhorn__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "31029",
+  "timestamp": "2026-05-24T23:34:26.554467Z",
+  "version": 1
+}

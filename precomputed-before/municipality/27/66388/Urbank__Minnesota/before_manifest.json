@@ -1,0 +1,16 @@
+{
+  "article": "Urbank,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/66388/Urbank__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5741bceca77fff556f10cc311bcf5f2bb5e6a49fd85bbe696ccc5026e19ce62d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5741bceca77fff556f10cc311bcf5f2bb5e6a49fd85bbe696ccc5026e19ce62d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/66388/Urbank__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "66388",
+  "timestamp": "2026-05-24T23:49:50.519641Z",
+  "version": 1
+}

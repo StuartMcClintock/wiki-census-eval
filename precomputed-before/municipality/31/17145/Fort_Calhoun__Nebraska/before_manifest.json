@@ -1,0 +1,16 @@
+{
+  "article": "Fort_Calhoun,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/17145/Fort_Calhoun__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9014c345fb14e5f22b384b41eabad8c328de0a4657f7f51036054f08c1b209c7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9014c345fb14e5f22b384b41eabad8c328de0a4657f7f51036054f08c1b209c7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/17145/Fort_Calhoun__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "17145",
+  "timestamp": "2026-05-24T23:55:27.281950Z",
+  "version": 1
+}

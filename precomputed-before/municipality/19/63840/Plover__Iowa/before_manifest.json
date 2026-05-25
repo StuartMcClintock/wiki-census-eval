@@ -1,0 +1,16 @@
+{
+  "article": "Plover,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/63840/Plover__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cbce3a4cf6e579db93116cea571a6849011730f215010c8f031468b0a5839291",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cbce3a4cf6e579db93116cea571a6849011730f215010c8f031468b0a5839291",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/63840/Plover__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "63840",
+  "timestamp": "2026-05-24T23:41:38.750601Z",
+  "version": 1
+}

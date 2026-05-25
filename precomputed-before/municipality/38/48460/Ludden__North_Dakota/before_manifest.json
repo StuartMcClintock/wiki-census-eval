@@ -1,0 +1,16 @@
+{
+  "article": "Ludden,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/48460/Ludden__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dcb3580e73b5773e1524253f519e13168a9455882b9cdef8adfe364aebb9eddf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dcb3580e73b5773e1524253f519e13168a9455882b9cdef8adfe364aebb9eddf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/48460/Ludden__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "48460",
+  "timestamp": "2026-05-25T00:03:09.626908Z",
+  "version": 1
+}

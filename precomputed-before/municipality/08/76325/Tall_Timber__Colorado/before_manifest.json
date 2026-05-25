@@ -1,0 +1,16 @@
+{
+  "article": "Tall_Timber,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/76325/Tall_Timber__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "385d14e47dfc81babd5d8467c0bf0802a69fe9261afd08a7ff0a623e4b561905",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "385d14e47dfc81babd5d8467c0bf0802a69fe9261afd08a7ff0a623e4b561905",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/76325/Tall_Timber__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "76325",
+  "timestamp": "2026-05-24T23:35:53.643596Z",
+  "version": 1
+}

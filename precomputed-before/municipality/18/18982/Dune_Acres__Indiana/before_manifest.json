@@ -1,0 +1,16 @@
+{
+  "article": "Dune_Acres,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/18982/Dune_Acres__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2d86e390f8d3df842e4aa704896ee5827119aa5a3e8e81fe1f782bbb70b6f7fd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2d86e390f8d3df842e4aa704896ee5827119aa5a3e8e81fe1f782bbb70b6f7fd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/18982/Dune_Acres__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "18982",
+  "timestamp": "2026-05-24T23:39:33.184269Z",
+  "version": 1
+}

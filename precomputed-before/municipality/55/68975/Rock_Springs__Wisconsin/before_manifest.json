@@ -1,0 +1,16 @@
+{
+  "article": "Rock_Springs,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/68975/Rock_Springs__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9cd20403344c6c992349c537dd979260b79410c39a6fe6c2436956944020cd8b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9cd20403344c6c992349c537dd979260b79410c39a6fe6c2436956944020cd8b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/68975/Rock_Springs__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "68975",
+  "timestamp": "2026-05-25T00:22:39.711052Z",
+  "version": 1
+}

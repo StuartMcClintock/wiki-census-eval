@@ -1,0 +1,16 @@
+{
+  "article": "Newtown_Grant,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/54268/Newtown_Grant__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1406bcca264a4a19a0f2910b80aaa154b806a7d40d1f7f5a6a07751f59215b5a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1406bcca264a4a19a0f2910b80aaa154b806a7d40d1f7f5a6a07751f59215b5a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/54268/Newtown_Grant__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "54268",
+  "timestamp": "2026-05-25T00:08:18.423086Z",
+  "version": 1
+}

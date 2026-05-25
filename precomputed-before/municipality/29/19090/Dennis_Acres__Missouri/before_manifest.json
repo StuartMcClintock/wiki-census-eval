@@ -1,0 +1,16 @@
+{
+  "article": "Dennis_Acres,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/19090/Dennis_Acres__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4a6982f7a766ecd06eaf85b308aec2d73adf81cd24fbfb0d390679d7e78f1191",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4a6982f7a766ecd06eaf85b308aec2d73adf81cd24fbfb0d390679d7e78f1191",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/19090/Dennis_Acres__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "19090",
+  "timestamp": "2026-05-24T23:51:03.263202Z",
+  "version": 1
+}

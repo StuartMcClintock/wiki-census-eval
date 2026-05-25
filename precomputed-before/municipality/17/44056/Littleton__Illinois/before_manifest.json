@@ -1,0 +1,16 @@
+{
+  "article": "Littleton,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/44056/Littleton__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b0bcb6722ebd4f15476bc02e235295090d898ee104f6fae867529943485bdcd5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b0bcb6722ebd4f15476bc02e235295090d898ee104f6fae867529943485bdcd5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/44056/Littleton__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "44056",
+  "timestamp": "2026-05-24T23:38:29.443427Z",
+  "version": 1
+}

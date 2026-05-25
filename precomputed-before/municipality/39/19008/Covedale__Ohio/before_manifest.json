@@ -1,0 +1,16 @@
+{
+  "article": "Covedale,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/19008/Covedale__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "db4ae4b7c6c1d9407f5627e97d5bfefc0487fd8ac9dd650c9470363ff156ecad",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "db4ae4b7c6c1d9407f5627e97d5bfefc0487fd8ac9dd650c9470363ff156ecad",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/19008/Covedale__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "19008",
+  "timestamp": "2026-05-25T00:04:01.517803Z",
+  "version": 1
+}

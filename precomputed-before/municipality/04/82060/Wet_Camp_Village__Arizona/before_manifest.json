@@ -1,0 +1,16 @@
+{
+  "article": "Wet_Camp_Village,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/82060/Wet_Camp_Village__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b369cc6987a9e6f978be85f8c9cb7b6de5f1d16f450f59076f42143081e6b3ec",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b369cc6987a9e6f978be85f8c9cb7b6de5f1d16f450f59076f42143081e6b3ec",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/82060/Wet_Camp_Village__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "82060",
+  "timestamp": "2026-05-24T23:33:14.471210Z",
+  "version": 1
+}

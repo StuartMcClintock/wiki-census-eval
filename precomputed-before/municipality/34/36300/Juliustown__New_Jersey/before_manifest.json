@@ -1,0 +1,16 @@
+{
+  "article": "Juliustown,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/36300/Juliustown__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2a0611f8a52f7b10be65cff50349fa39a7d22ab1d501cf402cedf8b96b3b35df",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2a0611f8a52f7b10be65cff50349fa39a7d22ab1d501cf402cedf8b96b3b35df",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/36300/Juliustown__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "36300",
+  "timestamp": "2026-05-24T23:57:51.786780Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Summit_Park,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/74095/Summit_Park__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f597f80e2ec3d99dea08813572b4bebae7eb3ec5d65428e879bb3c5eb5b9c081",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f597f80e2ec3d99dea08813572b4bebae7eb3ec5d65428e879bb3c5eb5b9c081",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/74095/Summit_Park__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "74095",
+  "timestamp": "2026-05-25T00:17:10.524296Z",
+  "version": 1
+}

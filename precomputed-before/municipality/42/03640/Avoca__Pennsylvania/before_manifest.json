@@ -1,0 +1,16 @@
+{
+  "article": "Avoca,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/03640/Avoca__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "948a1efc2e4d8191c2534bbe6907661d8960e5db774395055714ac2cd5f62be8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "948a1efc2e4d8191c2534bbe6907661d8960e5db774395055714ac2cd5f62be8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/03640/Avoca__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "03640",
+  "timestamp": "2026-05-25T00:06:11.523728Z",
+  "version": 1
+}

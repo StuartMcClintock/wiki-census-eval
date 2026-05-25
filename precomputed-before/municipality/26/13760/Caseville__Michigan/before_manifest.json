@@ -1,0 +1,16 @@
+{
+  "article": "Caseville,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/13760/Caseville__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "909a3d9d8392438984f1e868512f2123a1c112a842ba5405b28ab03c9cec2d56",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "909a3d9d8392438984f1e868512f2123a1c112a842ba5405b28ab03c9cec2d56",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/13760/Caseville__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "13760",
+  "timestamp": "2026-05-24T23:47:47.435593Z",
+  "version": 1
+}

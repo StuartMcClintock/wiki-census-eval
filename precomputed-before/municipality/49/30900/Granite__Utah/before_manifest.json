@@ -1,0 +1,16 @@
+{
+  "article": "Granite,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/30900/Granite__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a75590db24ccf137dc874d72ad9d486afe2c868ef55f6ac287e4c001299bafea",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a75590db24ccf137dc874d72ad9d486afe2c868ef55f6ac287e4c001299bafea",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/30900/Granite__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "30900",
+  "timestamp": "2026-05-25T00:17:01.049792Z",
+  "version": 1
+}

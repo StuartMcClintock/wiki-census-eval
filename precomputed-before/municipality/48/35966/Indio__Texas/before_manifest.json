@@ -1,0 +1,16 @@
+{
+  "article": "Indio,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/35966/Indio__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ff0755d4ebb615b861ccacc50a20eb37092d22423e674ae04a953dc2664cfcce",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ff0755d4ebb615b861ccacc50a20eb37092d22423e674ae04a953dc2664cfcce",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/35966/Indio__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "35966",
+  "timestamp": "2026-05-25T00:15:45.295209Z",
+  "version": 1
+}

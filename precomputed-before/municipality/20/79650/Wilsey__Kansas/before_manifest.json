@@ -1,0 +1,16 @@
+{
+  "article": "Wilsey,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/79650/Wilsey__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "76ed15a0c5cf5ced9f7dca00f2f95ce8be67f90bfe389625a8c887166f90864c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "76ed15a0c5cf5ced9f7dca00f2f95ce8be67f90bfe389625a8c887166f90864c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/79650/Wilsey__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "79650",
+  "timestamp": "2026-05-24T23:43:38.774330Z",
+  "version": 1
+}

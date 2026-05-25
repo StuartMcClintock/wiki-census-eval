@@ -1,0 +1,16 @@
+{
+  "article": "Camp_Three,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/11995/Camp_Three__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e2ea3b36ba621796aa28a447be7420f1d43483e7b4486876699199eba7b95c63",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e2ea3b36ba621796aa28a447be7420f1d43483e7b4486876699199eba7b95c63",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/11995/Camp_Three__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "11995",
+  "timestamp": "2026-05-24T23:54:17.457394Z",
+  "version": 1
+}

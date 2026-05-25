@@ -1,0 +1,16 @@
+{
+  "article": "Hersey,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/37820/Hersey__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c65a3d12dccf7dc1dd42f2595da4a3ee7d5744b6ca0c6f29edd89e97a8050aa9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c65a3d12dccf7dc1dd42f2595da4a3ee7d5744b6ca0c6f29edd89e97a8050aa9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/37820/Hersey__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "37820",
+  "timestamp": "2026-05-24T23:47:58.701822Z",
+  "version": 1
+}

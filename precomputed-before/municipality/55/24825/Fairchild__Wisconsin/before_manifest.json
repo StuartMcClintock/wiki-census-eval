@@ -1,0 +1,16 @@
+{
+  "article": "Fairchild,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/24825/Fairchild__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1372e61d1d7d14e117f8110bd09b62db4867f547c5933e1a40f33d6aa3ffba1a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1372e61d1d7d14e117f8110bd09b62db4867f547c5933e1a40f33d6aa3ffba1a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/24825/Fairchild__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "24825",
+  "timestamp": "2026-05-25T00:22:05.564754Z",
+  "version": 1
+}

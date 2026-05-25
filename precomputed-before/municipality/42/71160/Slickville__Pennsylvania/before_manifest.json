@@ -1,0 +1,16 @@
+{
+  "article": "Slickville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/71160/Slickville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c6cc1bc207c23c708892238f22781c09827d26ffb6a9656515fc7371be62de5e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c6cc1bc207c23c708892238f22781c09827d26ffb6a9656515fc7371be62de5e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/71160/Slickville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "71160",
+  "timestamp": "2026-05-25T00:09:05.477278Z",
+  "version": 1
+}

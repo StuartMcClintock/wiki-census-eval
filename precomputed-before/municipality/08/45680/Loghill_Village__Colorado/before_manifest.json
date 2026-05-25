@@ -1,0 +1,16 @@
+{
+  "article": "Loghill_Village,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/45680/Loghill_Village__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "595e3cb577adb7ab5fc6cc604bb3203639cdf360d88ed0f0ec3aa77691a85ddf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "595e3cb577adb7ab5fc6cc604bb3203639cdf360d88ed0f0ec3aa77691a85ddf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/45680/Loghill_Village__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "45680",
+  "timestamp": "2026-05-24T23:35:31.586484Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Timblin,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/76744/Timblin__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "20932d1b31fcb1f79045079f621c8437be5ce6b90031c924e87b3ef03fce7009",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "20932d1b31fcb1f79045079f621c8437be5ce6b90031c924e87b3ef03fce7009",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/76744/Timblin__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "76744",
+  "timestamp": "2026-05-25T00:09:16.837720Z",
+  "version": 1
+}

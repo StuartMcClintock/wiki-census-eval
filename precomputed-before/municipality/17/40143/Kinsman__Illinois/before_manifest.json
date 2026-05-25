@@ -1,0 +1,16 @@
+{
+  "article": "Kinsman,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/40143/Kinsman__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7a7ba975304dbe63f5e11b15851ac29fac489252f732a3023a799e893a8b643f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7a7ba975304dbe63f5e11b15851ac29fac489252f732a3023a799e893a8b643f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/40143/Kinsman__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "40143",
+  "timestamp": "2026-05-24T23:38:26.608176Z",
+  "version": 1
+}

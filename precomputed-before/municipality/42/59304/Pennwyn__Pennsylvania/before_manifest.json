@@ -1,0 +1,16 @@
+{
+  "article": "Pennwyn,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/59304/Pennwyn__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9d69f37eb621d0dc7a350f548e2ce602a2d169a87c980daf3cb1df61d394525a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9d69f37eb621d0dc7a350f548e2ce602a2d169a87c980daf3cb1df61d394525a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/59304/Pennwyn__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "59304",
+  "timestamp": "2026-05-25T00:08:28.181151Z",
+  "version": 1
+}

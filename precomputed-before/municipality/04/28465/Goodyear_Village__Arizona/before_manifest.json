@@ -1,0 +1,16 @@
+{
+  "article": "Goodyear_Village,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/28465/Goodyear_Village__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "37d18f57d1aa295e8585aad34948a7b88eefcb1005abdee541085b407746cf2c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "37d18f57d1aa295e8585aad34948a7b88eefcb1005abdee541085b407746cf2c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/28465/Goodyear_Village__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "28465",
+  "timestamp": "2026-05-24T23:32:55.378118Z",
+  "version": 1
+}

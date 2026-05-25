@@ -1,0 +1,16 @@
+{
+  "article": "McDonald_Chapel,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/45208/McDonald_Chapel__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e7d62e5fcbecafb7b35f97d2a4e4841314e10e46748d136c7adc1838c2ac2a44",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e7d62e5fcbecafb7b35f97d2a4e4841314e10e46748d136c7adc1838c2ac2a44",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/45208/McDonald_Chapel__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "45208",
+  "timestamp": "2026-05-24T23:32:03.043010Z",
+  "version": 1
+}

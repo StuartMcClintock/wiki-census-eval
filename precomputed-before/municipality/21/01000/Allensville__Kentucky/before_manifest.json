@@ -1,0 +1,16 @@
+{
+  "article": "Allensville,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/01000/Allensville__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "22ced6e01b9486da34346c9b7730e2e09375fff662c2c55843184f091354f8f5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "22ced6e01b9486da34346c9b7730e2e09375fff662c2c55843184f091354f8f5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/01000/Allensville__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "01000",
+  "timestamp": "2026-05-24T23:43:40.824159Z",
+  "version": 1
+}

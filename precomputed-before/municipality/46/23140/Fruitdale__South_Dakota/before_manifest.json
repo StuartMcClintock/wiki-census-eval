@@ -1,0 +1,16 @@
+{
+  "article": "Fruitdale,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/23140/Fruitdale__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "504c288e788b75a5885738f1428676d30301b2068bc99f92ccb59b4da4a640b7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "504c288e788b75a5885738f1428676d30301b2068bc99f92ccb59b4da4a640b7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/23140/Fruitdale__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "23140",
+  "timestamp": "2026-05-25T00:10:39.059490Z",
+  "version": 1
+}

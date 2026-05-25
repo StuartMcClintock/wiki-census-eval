@@ -1,0 +1,16 @@
+{
+  "article": "Bowdens,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/07340/Bowdens__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5f39b191c275a28b124b9fbb33ad921f3e432599c5d68410623d78fd780f2646",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5f39b191c275a28b124b9fbb33ad921f3e432599c5d68410623d78fd780f2646",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/07340/Bowdens__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "07340",
+  "timestamp": "2026-05-25T00:01:46.406102Z",
+  "version": 1
+}

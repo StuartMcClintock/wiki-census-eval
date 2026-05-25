@@ -1,0 +1,16 @@
+{
+  "article": "Reserve,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/62125/Reserve__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e5bf19395cd98d0908f0596561b7cf5135f43c92b1c64c9bf18eb98acdfdf694",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e5bf19395cd98d0908f0596561b7cf5135f43c92b1c64c9bf18eb98acdfdf694",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/62125/Reserve__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "62125",
+  "timestamp": "2026-05-24T23:54:45.764784Z",
+  "version": 1
+}

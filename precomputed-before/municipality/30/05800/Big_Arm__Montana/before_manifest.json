@@ -1,0 +1,16 @@
+{
+  "article": "Big_Arm,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/05800/Big_Arm__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a5f404391e8f5babfdb7878a8e1b1339b7b47d0e4fb8a4fa818694219650ba9c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a5f404391e8f5babfdb7878a8e1b1339b7b47d0e4fb8a4fa818694219650ba9c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/05800/Big_Arm__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "05800",
+  "timestamp": "2026-05-24T23:54:14.859107Z",
+  "version": 1
+}

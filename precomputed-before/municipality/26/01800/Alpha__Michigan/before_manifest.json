@@ -1,0 +1,16 @@
+{
+  "article": "Alpha,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/01800/Alpha__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "482c6ac0bd9ba391ccfb936229c74ae9d6edfbddf8c96a258fa93e157d5678c2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "482c6ac0bd9ba391ccfb936229c74ae9d6edfbddf8c96a258fa93e157d5678c2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/01800/Alpha__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "01800",
+  "timestamp": "2026-05-24T23:47:40.645224Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Rutledge,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/56518/Rutledge__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4fd0ab414b3038caacd98f729d219dd433c3f61e21c0eb38339406edd173f187",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4fd0ab414b3038caacd98f729d219dd433c3f61e21c0eb38339406edd173f187",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/56518/Rutledge__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "56518",
+  "timestamp": "2026-05-24T23:49:43.170674Z",
+  "version": 1
+}

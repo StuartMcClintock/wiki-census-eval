@@ -1,0 +1,16 @@
+{
+  "article": "Adams_Center,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/00232/Adams_Center__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e09db7e8cb5b65baa9f79030f0d1417d680bbfb5862e85a60ad12a52690e1d2d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e09db7e8cb5b65baa9f79030f0d1417d680bbfb5862e85a60ad12a52690e1d2d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/00232/Adams_Center__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "00232",
+  "timestamp": "2026-05-25T00:00:29.753965Z",
+  "version": 1
+}

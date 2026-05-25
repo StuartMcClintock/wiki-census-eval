@@ -1,0 +1,16 @@
+{
+  "article": "Burlington,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/09244/Burlington__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cbbf48fcaec0309abced0ba540be6aca1795e929d20700b58f2c3bcaf952a5ce",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cbbf48fcaec0309abced0ba540be6aca1795e929d20700b58f2c3bcaf952a5ce",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/09244/Burlington__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "09244",
+  "timestamp": "2026-05-24T23:39:27.956298Z",
+  "version": 1
+}

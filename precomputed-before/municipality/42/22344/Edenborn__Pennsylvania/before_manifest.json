@@ -1,0 +1,16 @@
+{
+  "article": "Edenborn,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/22344/Edenborn__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "59bf6c7a263647e0af93523856f2465a2ab1add6e3c5568d2812ea4650d0de0f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "59bf6c7a263647e0af93523856f2465a2ab1add6e3c5568d2812ea4650d0de0f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/22344/Edenborn__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "22344",
+  "timestamp": "2026-05-25T00:07:01.543174Z",
+  "version": 1
+}

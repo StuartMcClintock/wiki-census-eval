@@ -1,0 +1,16 @@
+{
+  "article": "Dearing,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/17150/Dearing__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ff12ea3b22074b9fba1f6c3ceff53aa403f9d2a9246d05667bf84e40794c417d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ff12ea3b22074b9fba1f6c3ceff53aa403f9d2a9246d05667bf84e40794c417d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/17150/Dearing__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "17150",
+  "timestamp": "2026-05-24T23:42:31.716409Z",
+  "version": 1
+}

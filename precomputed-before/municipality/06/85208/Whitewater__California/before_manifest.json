@@ -1,0 +1,16 @@
+{
+  "article": "Whitewater,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/85208/Whitewater__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9244abc3e3306898d81c5d381d24ac1a068bf3c72bddc51f98999f8037c3d826",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9244abc3e3306898d81c5d381d24ac1a068bf3c72bddc51f98999f8037c3d826",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/85208/Whitewater__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "85208",
+  "timestamp": "2026-05-24T23:35:15.071040Z",
+  "version": 1
+}

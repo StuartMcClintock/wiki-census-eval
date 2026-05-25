@@ -1,0 +1,16 @@
+{
+  "article": "West_Wood,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/83730/West_Wood__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "92f62663e10557469e452703921fc3fc2e6562fb842c3f1251e29a12b37f5454",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "92f62663e10557469e452703921fc3fc2e6562fb842c3f1251e29a12b37f5454",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/83730/West_Wood__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "83730",
+  "timestamp": "2026-05-25T00:17:12.465979Z",
+  "version": 1
+}

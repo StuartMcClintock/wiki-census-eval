@@ -1,0 +1,16 @@
+{
+  "article": "Sheridan,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/67472/Sheridan__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0e286810ce6c02041a14eaa62c6f01c1b00f6ef2662d42e8c61ef244ad3c80ea",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0e286810ce6c02041a14eaa62c6f01c1b00f6ef2662d42e8c61ef244ad3c80ea",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/67472/Sheridan__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "67472",
+  "timestamp": "2026-05-25T00:16:37.784028Z",
+  "version": 1
+}

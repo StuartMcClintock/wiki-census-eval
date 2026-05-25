@@ -1,0 +1,16 @@
+{
+  "article": "Kino_Springs,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/37935/Kino_Springs__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a2160323e4f73e09acda09e8187918525e19ba6192af8bff0598152279da9843",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a2160323e4f73e09acda09e8187918525e19ba6192af8bff0598152279da9843",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/37935/Kino_Springs__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "37935",
+  "timestamp": "2026-05-24T23:33:01.878367Z",
+  "version": 1
+}

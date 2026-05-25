@@ -1,0 +1,16 @@
+{
+  "article": "Belleville,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/05683/Belleville__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1ba913a5fbeccc1d68ed110da1c02a75af35d7ca7dc7251dd9f466a83580b0b6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1ba913a5fbeccc1d68ed110da1c02a75af35d7ca7dc7251dd9f466a83580b0b6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/05683/Belleville__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "05683",
+  "timestamp": "2026-05-25T00:00:31.677907Z",
+  "version": 1
+}

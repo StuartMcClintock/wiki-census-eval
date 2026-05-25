@@ -1,0 +1,16 @@
+{
+  "article": "Trail_Side,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/78345/Trail_Side__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d569b879886e298a01110d1250622bdd71fc4c0ebc78af5695d1884662a23109",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d569b879886e298a01110d1250622bdd71fc4c0ebc78af5695d1884662a23109",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/78345/Trail_Side__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "78345",
+  "timestamp": "2026-05-24T23:35:53.861030Z",
+  "version": 1
+}

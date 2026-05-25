@@ -1,0 +1,16 @@
+{
+  "article": "Vaughn,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/82570/Vaughn__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "18084a9edae9bb00a7500d7c0f8ae31648412eee7cccc0d96e8e99c70ecf28eb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "18084a9edae9bb00a7500d7c0f8ae31648412eee7cccc0d96e8e99c70ecf28eb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/82570/Vaughn__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "82570",
+  "timestamp": "2026-05-25T00:00:27.190123Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Luck,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/46200/Luck__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "257035f1c577acc514d53fbe2b6840ca452c4ab2ae3193c51e10ec367cdef1c7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "257035f1c577acc514d53fbe2b6840ca452c4ab2ae3193c51e10ec367cdef1c7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/46200/Luck__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "46200",
+  "timestamp": "2026-05-25T00:22:22.054349Z",
+  "version": 1
+}

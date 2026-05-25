@@ -1,0 +1,16 @@
+{
+  "article": "Cora,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/17210/Cora__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f97823146063d682b04c4d66c2632e4a2219be3657dbdcebf3fc927cb4e232c6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f97823146063d682b04c4d66c2632e4a2219be3657dbdcebf3fc927cb4e232c6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/17210/Cora__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "17210",
+  "timestamp": "2026-05-25T00:23:10.951153Z",
+  "version": 1
+}

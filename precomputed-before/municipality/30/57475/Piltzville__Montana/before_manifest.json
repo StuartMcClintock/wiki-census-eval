@@ -1,0 +1,16 @@
+{
+  "article": "Piltzville,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/57475/Piltzville__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d9af0a69c26a65e372dbd8a67f97ad1fc7c4666cf0b87af4271ffe9a4f217e94",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d9af0a69c26a65e372dbd8a67f97ad1fc7c4666cf0b87af4271ffe9a4f217e94",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/57475/Piltzville__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "57475",
+  "timestamp": "2026-05-24T23:54:42.295934Z",
+  "version": 1
+}

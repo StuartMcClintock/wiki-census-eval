@@ -1,0 +1,16 @@
+{
+  "article": "Ojo_Encino,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/53620/Ojo_Encino__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "313d59ae205c06c7d8a059c8799b0abc8870a5793335fe725dbd89a7d41ab899",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "313d59ae205c06c7d8a059c8799b0abc8870a5793335fe725dbd89a7d41ab899",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/53620/Ojo_Encino__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "53620",
+  "timestamp": "2026-05-24T23:58:45.282422Z",
+  "version": 1
+}

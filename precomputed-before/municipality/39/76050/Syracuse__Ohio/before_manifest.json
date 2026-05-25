@@ -1,0 +1,16 @@
+{
+  "article": "Syracuse,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/76050/Syracuse__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "22e0b92e20b3b4efc27d1ad3fb3bbe0011454ee3fb554b5f1779deeda79e1c1f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "22e0b92e20b3b4efc27d1ad3fb3bbe0011454ee3fb554b5f1779deeda79e1c1f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/76050/Syracuse__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "76050",
+  "timestamp": "2026-05-25T00:05:31.424881Z",
+  "version": 1
+}

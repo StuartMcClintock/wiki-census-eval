@@ -1,0 +1,16 @@
+{
+  "article": "Anoka,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/01465/Anoka__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "afaf231daecc293069e1ba6f0ddce32368a53596e2af22b9e4d47c9777a1fc3c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "afaf231daecc293069e1ba6f0ddce32368a53596e2af22b9e4d47c9777a1fc3c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/01465/Anoka__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "01465",
+  "timestamp": "2026-05-24T23:55:07.898300Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Mifflinville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/49312/Mifflinville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b9d1b20b4590df1505c9dc60c70a604677c960b405b0b1dab1944c767280b063",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b9d1b20b4590df1505c9dc60c70a604677c960b405b0b1dab1944c767280b063",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/49312/Mifflinville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "49312",
+  "timestamp": "2026-05-25T00:08:05.496515Z",
+  "version": 1
+}

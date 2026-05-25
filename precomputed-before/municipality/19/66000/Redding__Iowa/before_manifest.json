@@ -1,0 +1,16 @@
+{
+  "article": "Redding,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/66000/Redding__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fb8fda3533e63d150e8c1b6b849c1c38e487339bda468c862ad83b7eeb3c17d1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fb8fda3533e63d150e8c1b6b849c1c38e487339bda468c862ad83b7eeb3c17d1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/66000/Redding__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "66000",
+  "timestamp": "2026-05-24T23:41:41.699133Z",
+  "version": 1
+}

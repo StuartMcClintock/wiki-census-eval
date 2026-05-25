@@ -1,0 +1,16 @@
+{
+  "article": "Twin_Brooks,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/64700/Twin_Brooks__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2d044e5265c59898755413834fdea6820c545af20c31c960228de2d0afa379b6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2d044e5265c59898755413834fdea6820c545af20c31c960228de2d0afa379b6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/64700/Twin_Brooks__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "64700",
+  "timestamp": "2026-05-25T00:14:26.239959Z",
+  "version": 1
+}

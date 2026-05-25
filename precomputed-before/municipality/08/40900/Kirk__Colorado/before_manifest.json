@@ -1,0 +1,16 @@
+{
+  "article": "Kirk,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/40900/Kirk__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3dd4457fb68a0e1204b6e66e696ceb2a68232c04a0c5367a32ef474b807b2319",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3dd4457fb68a0e1204b6e66e696ceb2a68232c04a0c5367a32ef474b807b2319",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/40900/Kirk__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "40900",
+  "timestamp": "2026-05-24T23:35:30.288990Z",
+  "version": 1
+}

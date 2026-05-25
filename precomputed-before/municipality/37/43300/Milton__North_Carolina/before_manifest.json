@@ -1,0 +1,16 @@
+{
+  "article": "Milton,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/43300/Milton__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0c727a6fc7ac6b4a43ac8b6fef000408314e243151b2ecc7ad372c73c83ff89d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0c727a6fc7ac6b4a43ac8b6fef000408314e243151b2ecc7ad372c73c83ff89d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/43300/Milton__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "43300",
+  "timestamp": "2026-05-25T00:02:11.348075Z",
+  "version": 1
+}

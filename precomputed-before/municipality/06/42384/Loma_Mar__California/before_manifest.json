@@ -1,0 +1,16 @@
+{
+  "article": "Loma_Mar,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/42384/Loma_Mar__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7a1ed7cafda10fe3c8f448786c2bcca26120805b6e7683b84ae8194ac2296bc2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7a1ed7cafda10fe3c8f448786c2bcca26120805b6e7683b84ae8194ac2296bc2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/42384/Loma_Mar__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "42384",
+  "timestamp": "2026-05-24T23:34:35.319017Z",
+  "version": 1
+}

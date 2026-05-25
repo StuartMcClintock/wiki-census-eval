@@ -1,0 +1,37 @@
+==Demographics==
+{{US Census population
+|align=left
+|2000= 2097
+|2010= 1645
+|2020= 1942
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=http://www.census.gov/prod/www/decennial.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2016}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A35|title=Census Population API|publisher=United States Census Bureau|accessdate=Oct 12, 2022}}</ref>
+}}
+{| class="wikitable sortable collapsible" style="font-size: 90%;"
+|-
+! Largest ancestries (2000)<ref>{{Cite web |date=2007 |title=NAVAJO, NM  ANCESTRY & FAMILY HISTORY |url=http://www.epodunk.com/cgi-bin/genealogyInfo.php?locIndex=281507 |url-status=deviated |archive-url=https://web.archive.org/web/20170226212718/http://www.epodunk.com/cgi-bin/genealogyInfo.php?locIndex=281507 |archive-date=2017-02-26 |access-date=19 Jun 2023 |website=Epodunk}}</ref> !! Percent 
+|-
+| [[Navajo]] || align=right | 95.0%
+|-
+| [[German Americans|German]] || align=right | 1.0%
+|-
+| [[Pueblo people|Pueblo]] || align=right | 1.0%
+|}
+{| class="wikitable sortable collapsible" style="font-size: 90%;"
+|-
+! Languages (2000) <ref>{{Cite web|url=https://apps.mla.org/map_data_results&state_id=35&place_id=51420&cty_id=|title=Data Center Results}}</ref><ref>{{Cite web|url=https://apps.mla.org/map_data_results&SRVY_YEAR=2000&geo=&state_id=35&county_id=&mode=&lang_id=&zip=&place_id=51420&cty_id=&region_id=&division_id=&ll=&ea=y&order=&a=y&pc=1|title = Data Center Results}}</ref> !! Percent 
+|-
+| Spoke [[Navajo language|Navajo]] at home || align=right | 64.25% 
+|-
+| Spoke [[English language|English]] at home || align=right | 35.75%
+|-
+| Spoke English "not well" or "not at all" || align=right | 10.27%
+|-
+|}
+At the [[2000 United States census|2000 census]] there were 2,097 people, 475 households, and 406 families in the CDP. The population density was {{convert|928.1|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 560 housing units at an average density of {{convert|247.8|/sqmi|/km2|sp=us|adj=off}}.  The [[Race and ethnicity in the United States Census#2000 census|racial makeup]] of the CDP was 96.42% Native American, 2.86% White, 0.48% from two or more races, and 0.24% from other races. Hispanic or Latino of any race were 0.62%.<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+
+Of the 475 households 68.0% had children under the age of 18 living with them, 40.6% were married couples living together, 37.7% had a female householder with no husband present, and 14.5% were non-families. 12.8% of households were one person and 0.8% were one person aged 65 or older. The average household size was 4.41 and the average family size was 4.81.
+
+The age distribution was 51.9% under the age of 18, 9.4% from 18 to 24, 26.1% from 25 to 44, 10.5% from 45 to 64, and 2.0% 65 or older. The median age was 17 years. For every 100 females, there were 88.2 males. For every 100 females age 18 and over, there were 78.4 males.
+
+The median household income was $14,688 and the median family income  was $12,569. Males had a median income of $21,518 versus $24,083 for females. The per capita income for the CDP was $4,551. About 64.0% of families and 67.4% of the population were below the [[poverty line]], including 76.0% of those under age 18 and 63.9% of those age 65 or over.
+

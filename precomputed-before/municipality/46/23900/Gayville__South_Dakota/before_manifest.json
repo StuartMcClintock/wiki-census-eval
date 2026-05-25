@@ -1,0 +1,16 @@
+{
+  "article": "Gayville,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/23900/Gayville__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "82c9e85d3c0cd3ffc21f873b2a46256dbff2107dda9e1600f6581c42d008ba3e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "82c9e85d3c0cd3ffc21f873b2a46256dbff2107dda9e1600f6581c42d008ba3e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/23900/Gayville__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "23900",
+  "timestamp": "2026-05-25T00:10:39.500834Z",
+  "version": 1
+}

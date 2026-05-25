@@ -1,0 +1,16 @@
+{
+  "article": "Havelock,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/35130/Havelock__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "78a9c3bf159d72dcecf99f9db26a23bbdaf0799ebc5cbf53935499ae3d1f6992",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "78a9c3bf159d72dcecf99f9db26a23bbdaf0799ebc5cbf53935499ae3d1f6992",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/35130/Havelock__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "35130",
+  "timestamp": "2026-05-24T23:41:10.178059Z",
+  "version": 1
+}

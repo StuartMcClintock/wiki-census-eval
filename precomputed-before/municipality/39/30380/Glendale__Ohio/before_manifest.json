@@ -1,0 +1,16 @@
+{
+  "article": "Glendale,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/30380/Glendale__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b51bbabcad4670e92c3317a66384a8888246c5f42a3f05d77b5bce1159f1c352",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b51bbabcad4670e92c3317a66384a8888246c5f42a3f05d77b5bce1159f1c352",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/30380/Glendale__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "30380",
+  "timestamp": "2026-05-25T00:04:12.163280Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Kismet,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/37325/Kismet__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f80c68225d565aff2c366c945f92fdea5a5e8d9efd393a25a3d4a73895f56d2f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f80c68225d565aff2c366c945f92fdea5a5e8d9efd393a25a3d4a73895f56d2f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/37325/Kismet__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "37325",
+  "timestamp": "2026-05-24T23:42:51.717441Z",
+  "version": 1
+}

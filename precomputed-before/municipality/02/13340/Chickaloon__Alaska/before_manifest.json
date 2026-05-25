@@ -1,0 +1,16 @@
+{
+  "article": "Chickaloon,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/13340/Chickaloon__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "31a1133a3f9508e8aa83f0f061e21d15809026accfbab7ae5cd84f71d674d83a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "31a1133a3f9508e8aa83f0f061e21d15809026accfbab7ae5cd84f71d674d83a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/13340/Chickaloon__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "13340",
+  "timestamp": "2026-05-24T23:32:19.010873Z",
+  "version": 1
+}

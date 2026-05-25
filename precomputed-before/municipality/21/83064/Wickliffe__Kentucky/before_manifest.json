@@ -1,0 +1,16 @@
+{
+  "article": "Wickliffe,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/83064/Wickliffe__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a9b54b7352d13b889231924f30f0819e24306d71c9ac03ab82afeecdb6b4fb41",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a9b54b7352d13b889231924f30f0819e24306d71c9ac03ab82afeecdb6b4fb41",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/83064/Wickliffe__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "83064",
+  "timestamp": "2026-05-24T23:44:26.178196Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Stockton,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/73272/Stockton__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0122bff1996881a39514a7abbd37910da86f2eb48f6ff20eb8e188ee025b7ffb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0122bff1996881a39514a7abbd37910da86f2eb48f6ff20eb8e188ee025b7ffb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/73272/Stockton__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "73272",
+  "timestamp": "2026-05-24T23:32:13.603555Z",
+  "version": 1
+}

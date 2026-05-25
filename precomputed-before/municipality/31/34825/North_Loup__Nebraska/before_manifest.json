@@ -1,0 +1,16 @@
+{
+  "article": "North_Loup,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/34825/North_Loup__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7eade4db5ec62c31dc4ec554e092b9465f0c4667b18b5fdcba17c088a7fa7888",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7eade4db5ec62c31dc4ec554e092b9465f0c4667b18b5fdcba17c088a7fa7888",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/34825/North_Loup__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "34825",
+  "timestamp": "2026-05-24T23:55:56.415155Z",
+  "version": 1
+}

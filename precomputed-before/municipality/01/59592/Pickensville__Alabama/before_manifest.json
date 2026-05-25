@@ -1,0 +1,16 @@
+{
+  "article": "Pickensville,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/59592/Pickensville__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1ecb2995e9d28eef2c4e7c9bb5b49765576f35ee1dffd904e729691e74bf2749",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1ecb2995e9d28eef2c4e7c9bb5b49765576f35ee1dffd904e729691e74bf2749",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/59592/Pickensville__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "59592",
+  "timestamp": "2026-05-24T23:32:08.714510Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Weidman,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/85140/Weidman__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "96db758bbd95bef8e0e365efe1248fc399b94ab4ed06d881e1c853b9218d13a9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "96db758bbd95bef8e0e365efe1248fc399b94ab4ed06d881e1c853b9218d13a9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/85140/Weidman__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "85140",
+  "timestamp": "2026-05-24T23:48:32.656345Z",
+  "version": 1
+}

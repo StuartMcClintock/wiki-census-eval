@@ -1,0 +1,16 @@
+{
+  "article": "Siloam,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/70932/Siloam__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cb6af3561040d6f7c0388662b8e3e956408de4c4577a5622ac3abd0f83acc17f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cb6af3561040d6f7c0388662b8e3e956408de4c4577a5622ac3abd0f83acc17f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/70932/Siloam__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "70932",
+  "timestamp": "2026-05-24T23:37:07.710881Z",
+  "version": 1
+}

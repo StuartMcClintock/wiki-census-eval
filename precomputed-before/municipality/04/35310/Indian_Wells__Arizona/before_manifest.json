@@ -1,0 +1,16 @@
+{
+  "article": "Indian_Wells,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/35310/Indian_Wells__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4086f27fba95c40cb5324439e0bb1cd587422f9db3746b6f8248747d90f733a7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4086f27fba95c40cb5324439e0bb1cd587422f9db3746b6f8248747d90f733a7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/35310/Indian_Wells__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "35310",
+  "timestamp": "2026-05-24T23:32:56.809492Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Clinton,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/15475/Clinton__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "da2f83cd9a0dce64f99928cc7b3392a0943bf31b6a1b4321923e4e0866bd693e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "da2f83cd9a0dce64f99928cc7b3392a0943bf31b6a1b4321923e4e0866bd693e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/15475/Clinton__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "15475",
+  "timestamp": "2026-05-24T23:54:19.063627Z",
+  "version": 1
+}

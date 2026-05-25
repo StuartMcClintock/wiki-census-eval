@@ -1,0 +1,16 @@
+{
+  "article": "Lincoln,_Delaware",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/10/42480/Lincoln__Delaware/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "03fdba76cdc7a98cfbe552532dd469065de3b3d69341e34c2c958d892a643a28",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "03fdba76cdc7a98cfbe552532dd469065de3b3d69341e34c2c958d892a643a28",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/10/42480/Lincoln__Delaware/manifest.json",
+  "state_fips": "10",
+  "status": "match",
+  "target_fips": "42480",
+  "timestamp": "2026-05-24T23:36:05.103910Z",
+  "version": 1
+}

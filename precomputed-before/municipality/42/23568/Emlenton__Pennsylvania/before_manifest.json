@@ -1,0 +1,16 @@
+{
+  "article": "Emlenton,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/23568/Emlenton__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "faca1d1378d5fa7796f37e4add6c59f4ff2222616fde0ca9620d645ab12bb45c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "faca1d1378d5fa7796f37e4add6c59f4ff2222616fde0ca9620d645ab12bb45c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/23568/Emlenton__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "23568",
+  "timestamp": "2026-05-25T00:07:04.362419Z",
+  "version": 1
+}

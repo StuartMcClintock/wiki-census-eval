@@ -1,0 +1,16 @@
+{
+  "article": "Oakdale,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/35385/Oakdale__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3b5dffb11be97883b1de236e787daf5a6f81714eaf14d6a04d6e68bd8eb17033",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3b5dffb11be97883b1de236e787daf5a6f81714eaf14d6a04d6e68bd8eb17033",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/35385/Oakdale__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "35385",
+  "timestamp": "2026-05-24T23:55:56.668701Z",
+  "version": 1
+}

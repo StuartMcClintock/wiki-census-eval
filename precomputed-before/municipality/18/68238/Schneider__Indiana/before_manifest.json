@@ -1,0 +1,16 @@
+{
+  "article": "Schneider,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/68238/Schneider__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "191e3f9d5af40cf40234ad4f8cdcc047012b2fb26d9b8d60f576409b3ed486fc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "191e3f9d5af40cf40234ad4f8cdcc047012b2fb26d9b8d60f576409b3ed486fc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/68238/Schneider__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "68238",
+  "timestamp": "2026-05-24T23:40:11.926257Z",
+  "version": 1
+}

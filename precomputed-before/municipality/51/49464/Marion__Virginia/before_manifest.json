@@ -1,0 +1,16 @@
+{
+  "article": "Marion,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/49464/Marion__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "eb47ede59240dc1c2fc52c1bbcea712a9ad062b9beef3c6f5a92a502d417fd1f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "eb47ede59240dc1c2fc52c1bbcea712a9ad062b9beef3c6f5a92a502d417fd1f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/49464/Marion__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "49464",
+  "timestamp": "2026-05-25T00:19:24.476297Z",
+  "version": 1
+}

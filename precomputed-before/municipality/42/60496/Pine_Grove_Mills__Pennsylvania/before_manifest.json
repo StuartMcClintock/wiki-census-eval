@@ -1,0 +1,16 @@
+{
+  "article": "Pine_Grove_Mills,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/60496/Pine_Grove_Mills__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "485ccbacd0be8e35a1334242c732b4aae06c7b146d52b58044f9c992bb157693",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "485ccbacd0be8e35a1334242c732b4aae06c7b146d52b58044f9c992bb157693",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/60496/Pine_Grove_Mills__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "60496",
+  "timestamp": "2026-05-25T00:08:29.605586Z",
+  "version": 1
+}

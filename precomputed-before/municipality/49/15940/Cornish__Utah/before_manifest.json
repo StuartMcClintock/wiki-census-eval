@@ -1,0 +1,16 @@
+{
+  "article": "Cornish,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/15940/Cornish__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cc7964017756d1de8b7a70e6a6f3f34bfdda1c7281bec428da16194e5216d4dc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cc7964017756d1de8b7a70e6a6f3f34bfdda1c7281bec428da16194e5216d4dc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/15940/Cornish__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "15940",
+  "timestamp": "2026-05-25T00:16:56.213106Z",
+  "version": 1
+}

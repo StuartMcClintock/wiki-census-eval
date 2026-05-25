@@ -1,0 +1,16 @@
+{
+  "article": "Parmele,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/50540/Parmele__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "51067f2a975a929066236aba007b5814c9d79ea4905209bf09499246122a9969",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "51067f2a975a929066236aba007b5814c9d79ea4905209bf09499246122a9969",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/50540/Parmele__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "50540",
+  "timestamp": "2026-05-25T00:02:15.375774Z",
+  "version": 1
+}

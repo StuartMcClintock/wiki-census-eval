@@ -1,0 +1,16 @@
+{
+  "article": "Chignik_Lagoon,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/13670/Chignik_Lagoon__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fc15bde6eed33e6cf85c5990ee0ab7dc49763f73d6b210cf235fc42de938e939",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fc15bde6eed33e6cf85c5990ee0ab7dc49763f73d6b210cf235fc42de938e939",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/13670/Chignik_Lagoon__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "13670",
+  "timestamp": "2026-05-24T23:32:19.238933Z",
+  "version": 1
+}

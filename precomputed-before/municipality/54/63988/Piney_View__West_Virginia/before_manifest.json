@@ -1,0 +1,16 @@
+{
+  "article": "Piney_View,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/63988/Piney_View__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3c28a77f8db398df37f39dbead0e8b65d65d59484bf8523e09cbc35e8a10b741",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3c28a77f8db398df37f39dbead0e8b65d65d59484bf8523e09cbc35e8a10b741",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/63988/Piney_View__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "63988",
+  "timestamp": "2026-05-25T00:21:21.405402Z",
+  "version": 1
+}

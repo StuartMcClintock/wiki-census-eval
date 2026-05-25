@@ -1,0 +1,16 @@
+{
+  "article": "Hurontown,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/40160/Hurontown__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "982cd1498f6ba5110401410c7753b5207c3ea6f6a7c49939398f92bce6d5d90c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "982cd1498f6ba5110401410c7753b5207c3ea6f6a7c49939398f92bce6d5d90c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/40160/Hurontown__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "40160",
+  "timestamp": "2026-05-24T23:47:59.646422Z",
+  "version": 1
+}

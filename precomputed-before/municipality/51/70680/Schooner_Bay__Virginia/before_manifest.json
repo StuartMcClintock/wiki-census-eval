@@ -1,0 +1,16 @@
+{
+  "article": "Schooner_Bay,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/70680/Schooner_Bay__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "69ce527cbe5876792544738a6a1fb2b1f23e9b5f820a08505bdd862ec3e3405d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "69ce527cbe5876792544738a6a1fb2b1f23e9b5f820a08505bdd862ec3e3405d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/70680/Schooner_Bay__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "70680",
+  "timestamp": "2026-05-25T00:19:36.198598Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Dublin,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/18040/Dublin__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c5166c444d1cefbca287d328d28cab5d524747ef026d20c73df99803f80cabe8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c5166c444d1cefbca287d328d28cab5d524747ef026d20c73df99803f80cabe8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/18040/Dublin__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "18040",
+  "timestamp": "2026-05-25T00:01:53.531184Z",
+  "version": 1
+}

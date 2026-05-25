@@ -1,0 +1,16 @@
+{
+  "article": "Plumsteadville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/61624/Plumsteadville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "89c74e83cd717030109215ddcf38b9058270bc8780e90bc57255011c928b9bca",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "89c74e83cd717030109215ddcf38b9058270bc8780e90bc57255011c928b9bca",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/61624/Plumsteadville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "61624",
+  "timestamp": "2026-05-25T00:08:30.622414Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Primrose,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/40360/Primrose__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "16a9694bdbcbc5e29380dbc8a9e0b41bf8ccaf0f130457a8139c9dd690ea7f95",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "16a9694bdbcbc5e29380dbc8a9e0b41bf8ccaf0f130457a8139c9dd690ea7f95",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/40360/Primrose__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "40360",
+  "timestamp": "2026-05-24T23:56:04.693820Z",
+  "version": 1
+}

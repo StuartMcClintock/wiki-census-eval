@@ -1,0 +1,16 @@
+{
+  "article": "Leesburg,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/42476/Leesburg__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b58803071b60d9e26984b2162fae8e4ddc5b0516a3c31221543607d98416df59",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b58803071b60d9e26984b2162fae8e4ddc5b0516a3c31221543607d98416df59",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/42476/Leesburg__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "42476",
+  "timestamp": "2026-05-25T00:04:37.284299Z",
+  "version": 1
+}

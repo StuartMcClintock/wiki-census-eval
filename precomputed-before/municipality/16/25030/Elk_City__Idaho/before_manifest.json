@@ -1,0 +1,16 @@
+{
+  "article": "Elk_City,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/25030/Elk_City__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8850849bc7988bffacebf2aa36a77d01c22fade102104d8953fd71f745fad05e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8850849bc7988bffacebf2aa36a77d01c22fade102104d8953fd71f745fad05e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/25030/Elk_City__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "25030",
+  "timestamp": "2026-05-24T23:37:20.059924Z",
+  "version": 1
+}

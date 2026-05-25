@@ -1,0 +1,16 @@
+{
+  "article": "McIntyre,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/48848/McIntyre__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "89ea06b0eeacf0f855dc74800f2fa52ceaca3311468ffa2125653a782eb8f4bc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "89ea06b0eeacf0f855dc74800f2fa52ceaca3311468ffa2125653a782eb8f4bc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/48848/McIntyre__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "48848",
+  "timestamp": "2026-05-24T23:36:54.101681Z",
+  "version": 1
+}

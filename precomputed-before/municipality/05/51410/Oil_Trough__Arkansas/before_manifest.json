@@ -1,0 +1,16 @@
+{
+  "article": "Oil_Trough,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/51410/Oil_Trough__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d41c8aa60cfa06717bfb17fbefc8db9b42fdde6db45a0f9f91b66c75f84bb37f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d41c8aa60cfa06717bfb17fbefc8db9b42fdde6db45a0f9f91b66c75f84bb37f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/51410/Oil_Trough__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "51410",
+  "timestamp": "2026-05-24T23:34:01.330022Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "South_Lansing,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/69342/South_Lansing__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b58e8a052b8cd80d78a46102a1196f57f2b3ea852cd8785bf0c16272bc93ec41",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b58e8a052b8cd80d78a46102a1196f57f2b3ea852cd8785bf0c16272bc93ec41",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/69342/South_Lansing__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "69342",
+  "timestamp": "2026-05-25T00:01:16.575233Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Fort_Atkinson,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/28425/Fort_Atkinson__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2a80f8b02e25fd4e5a01325f2dc48c9ca8bb327f89a422b40e8720578b5a3506",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2a80f8b02e25fd4e5a01325f2dc48c9ca8bb327f89a422b40e8720578b5a3506",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/28425/Fort_Atkinson__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "28425",
+  "timestamp": "2026-05-24T23:41:02.695838Z",
+  "version": 1
+}

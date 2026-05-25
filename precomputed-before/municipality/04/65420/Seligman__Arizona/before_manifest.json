@@ -1,0 +1,16 @@
+{
+  "article": "Seligman,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/65420/Seligman__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "73c3ad0d802e530a4ebce8859db3fb1cc61d0ee779c3967bc48506f5309fcb8c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "73c3ad0d802e530a4ebce8859db3fb1cc61d0ee779c3967bc48506f5309fcb8c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/65420/Seligman__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "65420",
+  "timestamp": "2026-05-24T23:33:09.375821Z",
+  "version": 1
+}

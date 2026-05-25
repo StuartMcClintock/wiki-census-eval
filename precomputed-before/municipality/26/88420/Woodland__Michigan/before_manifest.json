@@ -1,0 +1,16 @@
+{
+  "article": "Woodland,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/88420/Woodland__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4972209a588a939a0aa108e133a057cba2aaf32a795dd5fe8782be515523e4ce",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4972209a588a939a0aa108e133a057cba2aaf32a795dd5fe8782be515523e4ce",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/88420/Woodland__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "88420",
+  "timestamp": "2026-05-24T23:48:33.640413Z",
+  "version": 1
+}

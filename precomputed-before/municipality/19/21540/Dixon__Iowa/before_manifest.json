@@ -1,0 +1,16 @@
+{
+  "article": "Dixon,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/21540/Dixon__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b8b18c74a5fcda49ed930cc59cb33d6e82a1ab32e848ce555b8b4055610e3968",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b8b18c74a5fcda49ed930cc59cb33d6e82a1ab32e848ce555b8b4055610e3968",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/21540/Dixon__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "21540",
+  "timestamp": "2026-05-24T23:40:41.548171Z",
+  "version": 1
+}

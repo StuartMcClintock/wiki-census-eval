@@ -1,0 +1,16 @@
+{
+  "article": "Neilton,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/48330/Neilton__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cf12292c3211b708c4b1f1cf9672e88d27e7633138635582606233cc0f3177e0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cf12292c3211b708c4b1f1cf9672e88d27e7633138635582606233cc0f3177e0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/48330/Neilton__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "48330",
+  "timestamp": "2026-05-25T00:20:24.873148Z",
+  "version": 1
+}

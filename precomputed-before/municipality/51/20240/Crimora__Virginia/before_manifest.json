@@ -1,0 +1,16 @@
+{
+  "article": "Crimora,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/20240/Crimora__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6e82f51483e6baaab84778048fa8383c6adb8edaf39c18d0fc962cb569e635d9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6e82f51483e6baaab84778048fa8383c6adb8edaf39c18d0fc962cb569e635d9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/20240/Crimora__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "20240",
+  "timestamp": "2026-05-25T00:19:07.986591Z",
+  "version": 1
+}

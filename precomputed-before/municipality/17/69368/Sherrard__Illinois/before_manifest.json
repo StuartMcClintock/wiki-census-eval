@@ -1,0 +1,16 @@
+{
+  "article": "Sherrard,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/69368/Sherrard__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d4aa9ead5140ae44d971650460762cf39c3bbc96ffae8f84cb5dbcac0ed66a11",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d4aa9ead5140ae44d971650460762cf39c3bbc96ffae8f84cb5dbcac0ed66a11",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/69368/Sherrard__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "69368",
+  "timestamp": "2026-05-24T23:39:11.200197Z",
+  "version": 1
+}

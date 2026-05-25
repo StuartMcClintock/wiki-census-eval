@@ -1,0 +1,16 @@
+{
+  "article": "Berlin,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/06300/Berlin__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "69b78c6e9bdb00776e2ba53f502e20a99f880dae1db18e0e9f11520a460a1b9e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "69b78c6e9bdb00776e2ba53f502e20a99f880dae1db18e0e9f11520a460a1b9e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/06300/Berlin__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "06300",
+  "timestamp": "2026-05-25T00:02:34.713301Z",
+  "version": 1
+}

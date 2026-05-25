@@ -1,0 +1,16 @@
+{
+  "article": "Interlochen,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/40800/Interlochen__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "076ead2fde61f302f6123f89629ff81274efa0f7fbaa3c36d6d66053a0856859",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "076ead2fde61f302f6123f89629ff81274efa0f7fbaa3c36d6d66053a0856859",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/40800/Interlochen__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "40800",
+  "timestamp": "2026-05-24T23:47:59.896616Z",
+  "version": 1
+}

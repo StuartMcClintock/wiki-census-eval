@@ -1,0 +1,16 @@
+{
+  "article": "Boody,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/07315/Boody__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9454ba269ff192c241df87825a941bdc6ae3790e863f32c6f3a7d737238afc27",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9454ba269ff192c241df87825a941bdc6ae3790e863f32c6f3a7d737238afc27",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/07315/Boody__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "07315",
+  "timestamp": "2026-05-24T23:37:50.696347Z",
+  "version": 1
+}

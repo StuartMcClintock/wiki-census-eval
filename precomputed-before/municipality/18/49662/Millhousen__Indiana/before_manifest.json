@@ -1,0 +1,16 @@
+{
+  "article": "Millhousen,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/49662/Millhousen__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fb7f79e500c2ac3cd3e2fdbf03a7721abe48818f0e22be3af0df404c4bfebace",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fb7f79e500c2ac3cd3e2fdbf03a7721abe48818f0e22be3af0df404c4bfebace",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/49662/Millhousen__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "49662",
+  "timestamp": "2026-05-24T23:40:02.511437Z",
+  "version": 1
+}

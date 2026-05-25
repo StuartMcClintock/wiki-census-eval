@@ -1,0 +1,16 @@
+{
+  "article": "Kempton,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/39224/Kempton__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "826dffd5e8d6c634ccd3453dad0351ca9430785f99aae2fa156be84bd7430508",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "826dffd5e8d6c634ccd3453dad0351ca9430785f99aae2fa156be84bd7430508",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/39224/Kempton__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "39224",
+  "timestamp": "2026-05-25T00:07:44.231068Z",
+  "version": 1
+}

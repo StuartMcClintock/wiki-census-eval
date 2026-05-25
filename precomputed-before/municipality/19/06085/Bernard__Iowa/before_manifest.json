@@ -1,0 +1,16 @@
+{
+  "article": "Bernard,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/06085/Bernard__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "95e4326dca8f4ec8cf23faf36c5a2a82f9e095f51d75f326378bd03559fe403a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "95e4326dca8f4ec8cf23faf36c5a2a82f9e095f51d75f326378bd03559fe403a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/06085/Bernard__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "06085",
+  "timestamp": "2026-05-24T23:40:27.713329Z",
+  "version": 1
+}

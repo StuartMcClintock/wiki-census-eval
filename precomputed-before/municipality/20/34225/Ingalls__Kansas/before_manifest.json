@@ -1,0 +1,16 @@
+{
+  "article": "Ingalls,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/34225/Ingalls__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "75ee9df64ff538a72f5464d846f12bc07dce85d3c39ef25b4806d00203a1842f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "75ee9df64ff538a72f5464d846f12bc07dce85d3c39ef25b4806d00203a1842f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/34225/Ingalls__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "34225",
+  "timestamp": "2026-05-24T23:42:48.391395Z",
+  "version": 1
+}

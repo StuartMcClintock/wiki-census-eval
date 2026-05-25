@@ -1,0 +1,16 @@
+{
+  "article": "Alba,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/00572/Alba__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d55dab3e4ee404428d19a910bff0f25557994ca70f5c78abbb694ef0ab6c5b1c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d55dab3e4ee404428d19a910bff0f25557994ca70f5c78abbb694ef0ab6c5b1c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/00572/Alba__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "00572",
+  "timestamp": "2026-05-25T00:06:06.589233Z",
+  "version": 1
+}

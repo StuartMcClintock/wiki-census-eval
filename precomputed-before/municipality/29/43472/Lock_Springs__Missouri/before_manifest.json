@@ -1,0 +1,16 @@
+{
+  "article": "Lock_Springs,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/43472/Lock_Springs__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "60d2de7b03c04e50f9c719048ba4b981cd7d529c175167158d201a7a757222bb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "60d2de7b03c04e50f9c719048ba4b981cd7d529c175167158d201a7a757222bb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/43472/Lock_Springs__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "43472",
+  "timestamp": "2026-05-24T23:53:28.755432Z",
+  "version": 1
+}

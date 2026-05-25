@@ -1,0 +1,16 @@
+{
+  "article": "Pronghorn,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/60070/Pronghorn__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "06a90ec4e513dd071aa34525166b26a580b218f4c366f0c903e1651e8bdfc6ac",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "06a90ec4e513dd071aa34525166b26a580b218f4c366f0c903e1651e8bdfc6ac",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/60070/Pronghorn__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "60070",
+  "timestamp": "2026-05-25T00:05:54.447453Z",
+  "version": 1
+}

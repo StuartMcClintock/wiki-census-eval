@@ -1,0 +1,57 @@
+==Demographics==
+{{US Census population
+|1890= 660
+|1900= 1034
+|1910= 1293
+|1920= 1376
+|1930= 1100
+|1940= 1151
+|1950= 1212
+|1960= 1097
+|1970= 1010
+|1980= 1282
+|1990= 1241
+|2000= 1134
+|2010= 1119
+|2020= 991
+|footnote=Sources:<ref name="GR9">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|publisher=[[United States Census Bureau]]|access-date=March 4, 2012|title=Census of Population and Housing: Decennial Censuses}}</ref><ref name=CensusPopEst>{{cite web|title=Incorporated Places and Minor Civil Divisions Datasets: Subcounty Resident Population Estimates: April 1, 2010 to July 1, 2012|url=https://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|work=Population Estimates|publisher=U.S. Census Bureau|access-date=December 11, 2013|url-status=dead|archive-url=https://web.archive.org/web/20130611010502/http://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|archive-date=June 11, 2013}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A47|title=Census Population API|publisher=United States Census Bureau|accessdate=October 15, 2022}}</ref>
+}}
+
+===2020 census===
+{| class="wikitable"
+|+Obion racial composition<ref>{{Cite web|title=Explore Census Data|url=https://data.census.gov/cedsci/table?g=1600000US4755240&tid=DECENNIALPL2020.P2|access-date=December 8, 2021|website=data.census.gov}}</ref>
+!Race
+!Num.
+!Perc.
+|-
+|[[White (U.S. Census)|White]] (non-Hispanic)
+|872
+|87.99%
+|-
+|[[African American (U.S. Census)|Black or African American]] (non-Hispanic)
+|53
+|5.35%
+|-
+|[[Asian (U.S. Census)|Asian]]
+|2
+|0.2%
+|-
+|[[Race (United States Census)|Other/Mixed]]
+|32
+|3.23%
+|-
+|[[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]]
+|32
+|3.23%
+|}
+As of the [[2020 United States census]], there were 991 people, 514 households, and 316 families residing in the town.
+
+===2000 census===
+As of the [[census]]<ref name="GR2" /> of 2000, there were 1,134 people, 475 households, and 326 families residing in the town. The population density was {{convert|949.1|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 528 housing units at an average density of {{convert|441.9|/sqmi|/km2|sp=us|adj=off}}. The racial makeup of the town was 93.12% [[White (U.S. Census)|White]], 5.64% [[African American (U.S. Census)|African American]], 0.09% [[Native American (U.S. Census)|Native American]], 0.09% [[Asian (U.S. Census)|Asian]], 0.09% [[Pacific Islander (U.S. Census)|Pacific Islander]], 0.09% from [[Race (United States Census)|other races]], and 0.88% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 0.44% of the population.
+
+There were 475 households, out of which 28.8% had children under the age of 18 living with them, 51.8% were [[Marriage|married couples]] living together, 12.8% had a female householder with no husband present, and 31.2% were non-families. 28.4% of all households were made up of individuals, and 16.0% had someone living alone who was 65 years of age or older. The average household size was 2.39 and the average family size was 2.92.
+
+In the town, the population was spread out, with 23.5% under the age of 18, 8.3% from 18 to 24, 26.1% from 25 to 44, 24.2% from 45 to 64, and 17.9% who were 65 years of age or older. The median age was 40 years. For every 100 females, there were 89.0 males. For every 100 females age 18 and over, there were 86.5 males.
+
+The median income for a household in the town was $28,958, and the median income for a family was $36,447. Males had a median income of $30,667 versus $20,066 for females. The [[per capita income]] for the town was $14,764. About 13.8% of families and 19.4% of the population were below the [[poverty line]], including 25.3% of those under age 18 and 22.0% of those age 65 or over.
+

@@ -1,0 +1,16 @@
+{
+  "article": "Port_Deposit,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/63075/Port_Deposit__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3fe789ee606aaba706baeaffb3ecf39f75dddd4f6a01352fa76ff29ec8d1e2cb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3fe789ee606aaba706baeaffb3ecf39f75dddd4f6a01352fa76ff29ec8d1e2cb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/63075/Port_Deposit__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "63075",
+  "timestamp": "2026-05-24T23:47:30.948123Z",
+  "version": 1
+}

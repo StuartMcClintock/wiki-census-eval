@@ -1,0 +1,16 @@
+{
+  "article": "Solvay,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/68286/Solvay__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ce1dfe355f4a54e180791b52ba19abd0008d462521b5d7f8ea386f7ff4b13b8a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ce1dfe355f4a54e180791b52ba19abd0008d462521b5d7f8ea386f7ff4b13b8a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/68286/Solvay__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "68286",
+  "timestamp": "2026-05-25T00:01:15.303071Z",
+  "version": 1
+}

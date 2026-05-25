@@ -1,0 +1,16 @@
+{
+  "article": "Eagle_Village,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/20600/Eagle_Village__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "de05b6e6b3c9e36ed5014809ce7004b8fda92310bea2a5a46829465d26c8b8d8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "de05b6e6b3c9e36ed5014809ce7004b8fda92310bea2a5a46829465d26c8b8d8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/20600/Eagle_Village__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "20600",
+  "timestamp": "2026-05-24T23:32:21.100478Z",
+  "version": 1
+}

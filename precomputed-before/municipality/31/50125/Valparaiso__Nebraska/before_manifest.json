@@ -1,0 +1,16 @@
+{
+  "article": "Valparaiso,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/50125/Valparaiso__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2a6a1fd15105db495ca1fd95491e44f631be7039920be11c7962442316ff734c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2a6a1fd15105db495ca1fd95491e44f631be7039920be11c7962442316ff734c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/50125/Valparaiso__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "50125",
+  "timestamp": "2026-05-24T23:57:22.283348Z",
+  "version": 1
+}

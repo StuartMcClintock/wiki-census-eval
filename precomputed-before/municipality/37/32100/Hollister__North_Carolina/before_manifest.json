@@ -1,0 +1,16 @@
+{
+  "article": "Hollister,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/32100/Hollister__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d259c0f90aac3da6c04b7994ac4b18fa36b5c3a380d9269bcf1255c695a81943",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d259c0f90aac3da6c04b7994ac4b18fa36b5c3a380d9269bcf1255c695a81943",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/32100/Hollister__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "32100",
+  "timestamp": "2026-05-25T00:02:04.044657Z",
+  "version": 1
+}

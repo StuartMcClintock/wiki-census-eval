@@ -1,0 +1,16 @@
+{
+  "article": "Aquia_Harbour,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/02112/Aquia_Harbour__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9353a3796fac5c618fc1d1e776edc30f9f7ea3ae9320b7bcaae6ab5511bd06ff",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9353a3796fac5c618fc1d1e776edc30f9f7ea3ae9320b7bcaae6ab5511bd06ff",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/02112/Aquia_Harbour__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "02112",
+  "timestamp": "2026-05-25T00:17:32.772357Z",
+  "version": 1
+}

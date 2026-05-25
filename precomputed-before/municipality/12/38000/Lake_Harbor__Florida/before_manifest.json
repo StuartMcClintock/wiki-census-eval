@@ -1,0 +1,16 @@
+{
+  "article": "Lake_Harbor,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/38000/Lake_Harbor__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "43b7031e8bca75a41654a4b71a496d860b8cdb8ad7f9beba7c6028d101ec73f4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "43b7031e8bca75a41654a4b71a496d860b8cdb8ad7f9beba7c6028d101ec73f4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/38000/Lake_Harbor__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "38000",
+  "timestamp": "2026-05-24T23:36:15.969935Z",
+  "version": 1
+}

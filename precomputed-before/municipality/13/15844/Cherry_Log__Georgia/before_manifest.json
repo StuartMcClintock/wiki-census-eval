@@ -1,0 +1,16 @@
+{
+  "article": "Cherry_Log,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/15844/Cherry_Log__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "afe819e0275cdeea910ae70cb2a0d7dc72a3286819b5525e5ca6c2c06d3aece0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "afe819e0275cdeea910ae70cb2a0d7dc72a3286819b5525e5ca6c2c06d3aece0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/15844/Cherry_Log__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "15844",
+  "timestamp": "2026-05-24T23:36:31.750337Z",
+  "version": 1
+}

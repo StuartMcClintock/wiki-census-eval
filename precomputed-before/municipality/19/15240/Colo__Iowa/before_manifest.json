@@ -1,0 +1,16 @@
+{
+  "article": "Colo,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/15240/Colo__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "50489a27e57e742868993c7804075aec3a73ccf4666c5ab71c22ffc6974bf895",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "50489a27e57e742868993c7804075aec3a73ccf4666c5ab71c22ffc6974bf895",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/15240/Colo__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "15240",
+  "timestamp": "2026-05-24T23:40:36.270072Z",
+  "version": 1
+}

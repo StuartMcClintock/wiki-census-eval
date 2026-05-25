@@ -1,0 +1,16 @@
+{
+  "article": "Dexter,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/19250/Dexter__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8e472d5409aab9f471727a20bd0ba3a1512baf43512ff1209c080c7e6c2e2d5d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8e472d5409aab9f471727a20bd0ba3a1512baf43512ff1209c080c7e6c2e2d5d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/19250/Dexter__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "19250",
+  "timestamp": "2026-05-25T00:05:46.588785Z",
+  "version": 1
+}

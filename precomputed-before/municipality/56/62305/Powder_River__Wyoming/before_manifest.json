@@ -1,0 +1,16 @@
+{
+  "article": "Powder_River,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/62305/Powder_River__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "96e66f44d598e592782d67e51aeffa9cf971eeb3f2ec65aad5e803a74ef8345e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "96e66f44d598e592782d67e51aeffa9cf971eeb3f2ec65aad5e803a74ef8345e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/62305/Powder_River__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "62305",
+  "timestamp": "2026-05-25T00:23:21.482857Z",
+  "version": 1
+}

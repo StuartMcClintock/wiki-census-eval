@@ -1,0 +1,16 @@
+{
+  "article": "Morristown,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/52346/Morristown__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1a16b065e4de86d84c69f5f0078ec5ac655ad540b7721fc9b69037344b91c9a3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1a16b065e4de86d84c69f5f0078ec5ac655ad540b7721fc9b69037344b91c9a3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/52346/Morristown__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "52346",
+  "timestamp": "2026-05-25T00:04:48.506396Z",
+  "version": 1
+}

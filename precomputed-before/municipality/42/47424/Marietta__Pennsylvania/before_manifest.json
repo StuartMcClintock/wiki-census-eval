@@ -1,0 +1,16 @@
+{
+  "article": "Marietta,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/47424/Marietta__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0a7a60d0d1b25b00a09cff9685e1e7084943465bf2a201ba5a9b8bc2d642d637",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0a7a60d0d1b25b00a09cff9685e1e7084943465bf2a201ba5a9b8bc2d642d637",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/47424/Marietta__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "47424",
+  "timestamp": "2026-05-25T00:08:01.584737Z",
+  "version": 1
+}

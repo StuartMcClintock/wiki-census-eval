@@ -1,0 +1,16 @@
+{
+  "article": "Riverton,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/54736/Riverton__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3122f3b3904c0938ad2452a4b213652fb8f42efd7282a2760db37363b02ec067",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3122f3b3904c0938ad2452a4b213652fb8f42efd7282a2760db37363b02ec067",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/54736/Riverton__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "54736",
+  "timestamp": "2026-05-24T23:49:41.669823Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Walton_Hills,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/80738/Walton_Hills__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "124e5f4bc3b6d76243dc66b0410798a69c103f1a876342c2d9caccfa8434adba",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "124e5f4bc3b6d76243dc66b0410798a69c103f1a876342c2d9caccfa8434adba",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/80738/Walton_Hills__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "80738",
+  "timestamp": "2026-05-25T00:05:35.962900Z",
+  "version": 1
+}

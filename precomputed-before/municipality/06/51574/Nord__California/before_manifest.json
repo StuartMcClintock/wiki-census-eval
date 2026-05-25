@@ -1,0 +1,16 @@
+{
+  "article": "Nord,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/51574/Nord__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5fc1d7ec149275638c6db982ee69ec88dcc0a32eb17a637d415d2c7bd2a483ca",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5fc1d7ec149275638c6db982ee69ec88dcc0a32eb17a637d415d2c7bd2a483ca",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/51574/Nord__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "51574",
+  "timestamp": "2026-05-24T23:34:43.128502Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Port_William,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/64360/Port_William__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ed2a0ce7abd650ad2833d33c2f905a950f61ecb93954176d3d5b0f7b72fa27df",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ed2a0ce7abd650ad2833d33c2f905a950f61ecb93954176d3d5b0f7b72fa27df",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/64360/Port_William__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "64360",
+  "timestamp": "2026-05-25T00:05:08.111155Z",
+  "version": 1
+}

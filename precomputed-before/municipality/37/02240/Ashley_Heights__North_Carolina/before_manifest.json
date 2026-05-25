@@ -1,0 +1,16 @@
+{
+  "article": "Ashley_Heights,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/02240/Ashley_Heights__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7a52f7061d76e78960694786055f2f90b8e57832ccaad3841d293b4b75df5e82",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7a52f7061d76e78960694786055f2f90b8e57832ccaad3841d293b4b75df5e82",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/02240/Ashley_Heights__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "02240",
+  "timestamp": "2026-05-25T00:01:41.206484Z",
+  "version": 1
+}

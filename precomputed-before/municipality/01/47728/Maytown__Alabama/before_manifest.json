@@ -1,0 +1,16 @@
+{
+  "article": "Maytown,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/47728/Maytown__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8a96e48024a5a8f2620c5d3bfe234ece6d35022378413cc93d7ac9f072326a09",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8a96e48024a5a8f2620c5d3bfe234ece6d35022378413cc93d7ac9f072326a09",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/47728/Maytown__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "47728",
+  "timestamp": "2026-05-24T23:32:04.073046Z",
+  "version": 1
+}

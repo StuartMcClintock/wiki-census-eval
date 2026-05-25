@@ -1,0 +1,16 @@
+{
+  "article": "Arnot,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/03104/Arnot__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "49d03c8ade4b07a81bf0daac00916c14b27d48540d3f0e857ac47619d600d5f7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "49d03c8ade4b07a81bf0daac00916c14b27d48540d3f0e857ac47619d600d5f7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/03104/Arnot__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "03104",
+  "timestamp": "2026-05-25T00:06:09.521386Z",
+  "version": 1
+}

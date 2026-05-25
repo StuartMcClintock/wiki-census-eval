@@ -1,0 +1,16 @@
+{
+  "article": "Dauphin,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/18272/Dauphin__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aee904aef031988049851d0da9e447d09fe9eb611e0790a788fb44c37dae24d1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aee904aef031988049851d0da9e447d09fe9eb611e0790a788fb44c37dae24d1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/18272/Dauphin__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "18272",
+  "timestamp": "2026-05-25T00:06:49.880882Z",
+  "version": 1
+}

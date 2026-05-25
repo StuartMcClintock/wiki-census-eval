@@ -1,0 +1,16 @@
+{
+  "article": "Pineville,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/63940/Pineville__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "69ff071db8221d5e9fa43e63a730bbae258aa81f83d49473fc7c7ac45401ca4b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "69ff071db8221d5e9fa43e63a730bbae258aa81f83d49473fc7c7ac45401ca4b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/63940/Pineville__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "63940",
+  "timestamp": "2026-05-25T00:21:21.291606Z",
+  "version": 1
+}

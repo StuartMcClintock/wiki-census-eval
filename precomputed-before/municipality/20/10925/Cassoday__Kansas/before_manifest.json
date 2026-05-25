@@ -1,0 +1,16 @@
+{
+  "article": "Cassoday,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/10925/Cassoday__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3bbaaf9898ddc884589aebb851aed020e5542007332aab2e494154fcfaf9ef26",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3bbaaf9898ddc884589aebb851aed020e5542007332aab2e494154fcfaf9ef26",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/10925/Cassoday__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "10925",
+  "timestamp": "2026-05-24T23:42:26.147376Z",
+  "version": 1
+}

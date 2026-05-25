@@ -1,0 +1,16 @@
+{
+  "article": "Niangua,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/52418/Niangua__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6be00d8f7aace2b332c61d9645f549dee63cff68aa9e89e5030ead78c2b7e190",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6be00d8f7aace2b332c61d9645f549dee63cff68aa9e89e5030ead78c2b7e190",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/52418/Niangua__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "52418",
+  "timestamp": "2026-05-24T23:53:36.513407Z",
+  "version": 1
+}

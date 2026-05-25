@@ -1,0 +1,16 @@
+{
+  "article": "McKnightstown,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/46312/McKnightstown__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ad5a247380b4d1c5f31098018ac9f608645353af83ad9ea71c58b3dd15626749",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ad5a247380b4d1c5f31098018ac9f608645353af83ad9ea71c58b3dd15626749",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/46312/McKnightstown__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "46312",
+  "timestamp": "2026-05-25T00:07:56.431539Z",
+  "version": 1
+}

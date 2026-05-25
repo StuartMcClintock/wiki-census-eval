@@ -1,0 +1,16 @@
+{
+  "article": "New_Wilmington,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/54352/New_Wilmington__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3f7237360904b5bbc5acc388de81691a60fa4223c1c2d29542757d0d485c2ca8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3f7237360904b5bbc5acc388de81691a60fa4223c1c2d29542757d0d485c2ca8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/54352/New_Wilmington__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "54352",
+  "timestamp": "2026-05-25T00:08:18.897925Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Grangeville,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/30686/Grangeville__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9b5deab39ac9897ab8e2a4939333360885b338a591d01dbad42e3f678a72809c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9b5deab39ac9897ab8e2a4939333360885b338a591d01dbad42e3f678a72809c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/30686/Grangeville__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "30686",
+  "timestamp": "2026-05-24T23:34:26.174301Z",
+  "version": 1
+}

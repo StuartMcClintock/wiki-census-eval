@@ -1,0 +1,16 @@
+{
+  "article": "Morley,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/55540/Morley__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "732b36a80b2ec9c58575398ef30e2bedea0c119331e968549d15644f08e92fc0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "732b36a80b2ec9c58575398ef30e2bedea0c119331e968549d15644f08e92fc0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/55540/Morley__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "55540",
+  "timestamp": "2026-05-24T23:48:07.699011Z",
+  "version": 1
+}

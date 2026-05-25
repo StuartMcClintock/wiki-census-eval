@@ -1,0 +1,16 @@
+{
+  "article": "Belleville,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/04960/Belleville__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b8280fbe49258d53e472fd94e91ecb52424e741280ea81e40a7e09511738656c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b8280fbe49258d53e472fd94e91ecb52424e741280ea81e40a7e09511738656c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/04960/Belleville__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "04960",
+  "timestamp": "2026-05-24T23:33:20.286201Z",
+  "version": 1
+}

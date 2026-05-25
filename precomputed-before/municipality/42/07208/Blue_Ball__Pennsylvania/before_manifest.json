@@ -1,0 +1,16 @@
+{
+  "article": "Blue_Ball,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/07208/Blue_Ball__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a399f4ab3f9ebde262e6a083ac0f7ac1f65ae2df80d79b79d2a1b07d1615926c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a399f4ab3f9ebde262e6a083ac0f7ac1f65ae2df80d79b79d2a1b07d1615926c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/07208/Blue_Ball__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "07208",
+  "timestamp": "2026-05-25T00:06:18.631331Z",
+  "version": 1
+}

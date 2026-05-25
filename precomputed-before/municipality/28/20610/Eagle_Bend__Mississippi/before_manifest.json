@@ -1,0 +1,16 @@
+{
+  "article": "Eagle_Bend,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/20610/Eagle_Bend__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "df31423acdb72287086b0c5a72b85197fd92c4dda22dbffa3f2e1bf6e7375cdf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "df31423acdb72287086b0c5a72b85197fd92c4dda22dbffa3f2e1bf6e7375cdf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/20610/Eagle_Bend__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "20610",
+  "timestamp": "2026-05-24T23:50:08.371249Z",
+  "version": 1
+}

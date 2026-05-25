@@ -1,0 +1,16 @@
+{
+  "article": "Middlesex,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/42700/Middlesex__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8524f1f08efa7ed21db6c68cebd3b40c1bf0319abe8e368e91f09e87934a8e00",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8524f1f08efa7ed21db6c68cebd3b40c1bf0319abe8e368e91f09e87934a8e00",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/42700/Middlesex__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "42700",
+  "timestamp": "2026-05-25T00:02:11.041393Z",
+  "version": 1
+}

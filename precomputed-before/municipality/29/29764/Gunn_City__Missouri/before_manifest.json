@@ -1,0 +1,16 @@
+{
+  "article": "Gunn_City,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/29764/Gunn_City__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d2a6ca317524c508bf9399c5205c3b32f2af9feeed5274ca0a6177c0fae808a7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d2a6ca317524c508bf9399c5205c3b32f2af9feeed5274ca0a6177c0fae808a7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/29764/Gunn_City__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "29764",
+  "timestamp": "2026-05-24T23:53:15.833162Z",
+  "version": 1
+}

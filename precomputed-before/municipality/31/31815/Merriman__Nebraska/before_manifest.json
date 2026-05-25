@@ -1,0 +1,16 @@
+{
+  "article": "Merriman,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/31815/Merriman__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aec326d1555879fc285c530b7e5b7a363b1149f0a69ea4b4731874221942c162",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aec326d1555879fc285c530b7e5b7a363b1149f0a69ea4b4731874221942c162",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/31815/Merriman__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "31815",
+  "timestamp": "2026-05-24T23:55:53.219859Z",
+  "version": 1
+}

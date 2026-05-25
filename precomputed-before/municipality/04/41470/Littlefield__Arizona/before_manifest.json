@@ -1,0 +1,16 @@
+{
+  "article": "Littlefield,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/41470/Littlefield__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1a4134e0a53cef7fbf791c61a73c5210f004a3c96780c385f15c963cde32daa0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1a4134e0a53cef7fbf791c61a73c5210f004a3c96780c385f15c963cde32daa0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/41470/Littlefield__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "41470",
+  "timestamp": "2026-05-24T23:33:02.923784Z",
+  "version": 1
+}

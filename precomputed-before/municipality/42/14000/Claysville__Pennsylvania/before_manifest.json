@@ -1,0 +1,16 @@
+{
+  "article": "Claysville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/14000/Claysville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3dd7199ecede15a32fcb97ca7c092737604d3dff120db0f5d2e3a83f2a9086ae",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3dd7199ecede15a32fcb97ca7c092737604d3dff120db0f5d2e3a83f2a9086ae",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/14000/Claysville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "14000",
+  "timestamp": "2026-05-25T00:06:42.573379Z",
+  "version": 1
+}

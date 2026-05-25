@@ -1,0 +1,16 @@
+{
+  "article": "Cambridge,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/12520/Cambridge__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "68e371afb8cf73282a25f673d832f04919e0cfa61de6aa847469dfcfb2d53d82",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "68e371afb8cf73282a25f673d832f04919e0cfa61de6aa847469dfcfb2d53d82",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/12520/Cambridge__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "12520",
+  "timestamp": "2026-05-24T23:37:17.113799Z",
+  "version": 1
+}

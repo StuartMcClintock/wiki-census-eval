@@ -1,0 +1,16 @@
+{
+  "article": "Grindstone,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/31592/Grindstone__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0007d054047a5e8447a01fba97661eb3922cd7d43a7816ab854b6b6738214f8c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0007d054047a5e8447a01fba97661eb3922cd7d43a7816ab854b6b6738214f8c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/31592/Grindstone__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "31592",
+  "timestamp": "2026-05-25T00:07:20.498079Z",
+  "version": 1
+}

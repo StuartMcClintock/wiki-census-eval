@@ -1,0 +1,16 @@
+{
+  "article": "Hamburg,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/32395/Hamburg__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a2b6b14c9f2e1a5e4e97ed00bde1b691ca7566c76ad069d66feb1d5f5b30fb3d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a2b6b14c9f2e1a5e4e97ed00bde1b691ca7566c76ad069d66feb1d5f5b30fb3d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/32395/Hamburg__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "32395",
+  "timestamp": "2026-05-24T23:38:18.092308Z",
+  "version": 1
+}

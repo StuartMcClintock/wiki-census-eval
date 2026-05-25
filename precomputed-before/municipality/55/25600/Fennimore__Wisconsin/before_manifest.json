@@ -1,0 +1,16 @@
+{
+  "article": "Fennimore,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/25600/Fennimore__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0ac7c206b888bc3e0e512e23bb9c6aa95a06e17057aa3e956594b92629c9843c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0ac7c206b888bc3e0e512e23bb9c6aa95a06e17057aa3e956594b92629c9843c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/25600/Fennimore__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "25600",
+  "timestamp": "2026-05-25T00:22:05.987319Z",
+  "version": 1
+}

@@ -1,0 +1,78 @@
+==Demographics==
+{{US Census population
+| 2010=211
+| 2020=267
+|estyear=
+|estimate=
+|estref=
+|align-fn=center
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census/decade.html|title=Decennial Census by Decade|website=[[United States Census Bureau]]|access-date=}}</ref><br>
+2010<ref name=2010CensusVA>{{Cite web|title= 2010 Census of Population - Population and Housing Unit Counts - Virginia|url=https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-48.pdf|website=[[United States Census Bureau]]}}</ref> 2020<ref name=2020CensusP2/>
+}}
+
+Bobtown was first listed as a [[census designated place]] in the [[2010 U.S. census]].<ref name=2010CensusVA/>
+
+===2020 census===
+{| class="wikitable" style="text-align:center;"
+|+'''Bobton CDP, Virginia – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2 Hispanic or Latino, and Not Hispanic or Latino by Race - 2010: DEC Redistricting Data (PL 94-171) - Bobtown CDP, Virginia|url=https://data.census.gov/cedsci/table?g=1600000US5108320&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]]}}</ref>
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web|title=P2 Hispanic or Latino, and Not Hispanic or Latino by Race - 2020: DEC Redistricting Data (PL 94-171) - Bobtown CDP, Virginia|url=https://data.census.gov/cedsci/table?g=1600000US5108320&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]]}}</ref>
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|169
+|style='background: #ffffe6; |207
+|80.09%
+|style='background: #ffffe6; |77.53%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|31
+|style='background: #ffffe6; |32
+|14.69%
+|style='background: #ffffe6; |11.99%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|0
+|style='background: #ffffe6; |1
+|0.00%
+|style='background: #ffffe6; |0.37%
+|-
+|[[Native Hawaiian]] or [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|4
+|style='background: #ffffe6; |0
+|1.90%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|0
+|style='background: #ffffe6; |1
+|0.00%
+|style='background: #ffffe6; |0.37%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|2
+|style='background: #ffffe6; |5
+|0.95%
+|style='background: #ffffe6; |1.87%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|5
+|style='background: #ffffe6; |21
+|2.37%
+|style='background: #ffffe6; |7.87%
+|-
+|'''Total'''
+|'''211'''
+|style='background: #ffffe6; |'''267'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+

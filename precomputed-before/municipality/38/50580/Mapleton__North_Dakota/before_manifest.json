@@ -1,0 +1,16 @@
+{
+  "article": "Mapleton,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/50580/Mapleton__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1b0c31bbabc856bac7a1c8c2016a108b40b8a845569f0a660467a790d423361d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1b0c31bbabc856bac7a1c8c2016a108b40b8a845569f0a660467a790d423361d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/50580/Mapleton__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "50580",
+  "timestamp": "2026-05-25T00:03:11.046234Z",
+  "version": 1
+}

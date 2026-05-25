@@ -1,0 +1,16 @@
+{
+  "article": "Como,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/15500/Como__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "77e3513bb90aeddab1aeae675b334172c4f70aa29b4c6c3da4845d8f0b8ccaa6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "77e3513bb90aeddab1aeae675b334172c4f70aa29b4c6c3da4845d8f0b8ccaa6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/15500/Como__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "15500",
+  "timestamp": "2026-05-24T23:50:05.875042Z",
+  "version": 1
+}

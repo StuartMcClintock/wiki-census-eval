@@ -1,0 +1,16 @@
+{
+  "article": "Utica,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/79114/Utica__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "72ef7c5f483a79f5a9ee7f3bd72ddb50e256ee3e05af779fcb63c3ebfa453b1e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "72ef7c5f483a79f5a9ee7f3bd72ddb50e256ee3e05af779fcb63c3ebfa453b1e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/79114/Utica__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "79114",
+  "timestamp": "2026-05-25T00:05:33.845582Z",
+  "version": 1
+}

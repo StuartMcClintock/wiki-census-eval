@@ -1,0 +1,16 @@
+{
+  "article": "Fancy_Gap,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/27296/Fancy_Gap__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "212de9d2d27e8dc9148e4f26d0f3e88b8f4557c67839fcdfebb8a12a423adbdb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "212de9d2d27e8dc9148e4f26d0f3e88b8f4557c67839fcdfebb8a12a423adbdb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/27296/Fancy_Gap__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "27296",
+  "timestamp": "2026-05-25T00:19:12.749649Z",
+  "version": 1
+}

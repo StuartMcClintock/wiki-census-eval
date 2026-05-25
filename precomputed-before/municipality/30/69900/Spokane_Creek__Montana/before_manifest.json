@@ -1,0 +1,16 @@
+{
+  "article": "Spokane_Creek,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/69900/Spokane_Creek__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "732247cc2bf042a310779b26c039ef8eab45d6cd70b617739a62e3931f6fe996",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "732247cc2bf042a310779b26c039ef8eab45d6cd70b617739a62e3931f6fe996",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/69900/Spokane_Creek__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "69900",
+  "timestamp": "2026-05-24T23:54:51.724033Z",
+  "version": 1
+}

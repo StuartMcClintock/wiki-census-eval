@@ -1,0 +1,16 @@
+{
+  "article": "Chepachet,_Rhode_Island",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/44/14860/Chepachet__Rhode_Island/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8827ffc8bbe4e0a98a3c56b2f176d8ace96c03adef35873faae9df7b724aeb05",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8827ffc8bbe4e0a98a3c56b2f176d8ace96c03adef35873faae9df7b724aeb05",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/44/14860/Chepachet__Rhode_Island/manifest.json",
+  "state_fips": "44",
+  "status": "match",
+  "target_fips": "14860",
+  "timestamp": "2026-05-25T00:09:36.194942Z",
+  "version": 1
+}

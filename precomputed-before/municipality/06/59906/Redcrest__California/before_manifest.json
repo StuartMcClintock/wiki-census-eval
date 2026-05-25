@@ -1,0 +1,16 @@
+{
+  "article": "Redcrest,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/59906/Redcrest__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "693e929adc50701d6e2a1956a41216f6a7fca857cd416d54bf1936d8fcdcfb77",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "693e929adc50701d6e2a1956a41216f6a7fca857cd416d54bf1936d8fcdcfb77",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/59906/Redcrest__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "59906",
+  "timestamp": "2026-05-24T23:35:01.079031Z",
+  "version": 1
+}

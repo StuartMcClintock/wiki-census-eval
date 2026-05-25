@@ -1,0 +1,16 @@
+{
+  "article": "Ideal,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/40812/Ideal__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "572a9c9220d18f4b51848b23f9fbac408d15e1181ce10bf956ffc6b8eb472794",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "572a9c9220d18f4b51848b23f9fbac408d15e1181ce10bf956ffc6b8eb472794",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/40812/Ideal__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "40812",
+  "timestamp": "2026-05-24T23:36:51.001594Z",
+  "version": 1
+}

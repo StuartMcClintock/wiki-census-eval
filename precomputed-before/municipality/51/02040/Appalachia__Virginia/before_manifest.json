@@ -1,0 +1,16 @@
+{
+  "article": "Appalachia,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/02040/Appalachia__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "db34fdb86b54b8dd64eb0fcfdce49d50b3a3e5862d920ef3a6b8836eabcc6154",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "db34fdb86b54b8dd64eb0fcfdce49d50b3a3e5862d920ef3a6b8836eabcc6154",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/02040/Appalachia__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "02040",
+  "timestamp": "2026-05-25T00:17:32.547943Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "New_Brighton,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/53288/New_Brighton__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "82a36e875cdb72ca3ae73da49dbe7662a047870892d650f9ee0df4113dfd927e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "82a36e875cdb72ca3ae73da49dbe7662a047870892d650f9ee0df4113dfd927e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/53288/New_Brighton__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "53288",
+  "timestamp": "2026-05-25T00:08:14.690751Z",
+  "version": 1
+}

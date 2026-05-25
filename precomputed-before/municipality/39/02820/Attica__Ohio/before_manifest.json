@@ -1,0 +1,16 @@
+{
+  "article": "Attica,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/02820/Attica__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "be8539a574da208951d97f3990f0b8b31c753b8dc6a967e4912541ef9d66036a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "be8539a574da208951d97f3990f0b8b31c753b8dc6a967e4912541ef9d66036a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/02820/Attica__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "02820",
+  "timestamp": "2026-05-25T00:03:31.479484Z",
+  "version": 1
+}

@@ -1,0 +1,47 @@
+==Demographics==
+{{US Census population
+|align = left
+|1890= 144
+|1900= 408
+|1910= 695
+|1920= 829
+|1930= 1057
+|1940= 1138
+|1950= 1439
+|1960= 1579
+|1970= 1699
+|1980= 2074
+|1990= 1601
+|2000= 1573
+|2010= 1419
+|2020= 1320
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2015}}</ref>
+}}
+{| class="wikitable" style="text-align:right"
+|+Mansura racial composition as of 2020<ref>{{Cite web|title=Explore Census Data|url=https://data.census.gov/cedsci/table?g=1600000US2248400&tid=DECENNIALPL2020.P2|access-date=December 29, 2021|website=data.census.gov}}</ref>
+!scope="col"| Race
+!scope="col"| Number
+!scope="col"| Percentage
+|-
+!scope="row"| [[White (U.S. Census)|White]] (non-Hispanic)
+| 389
+| 29.47%
+|-
+!scope="row"| [[African American (U.S. Census)|Black or African American]] (non-Hispanic)
+| 809
+| 61.29%
+|-
+!scope="row"| [[Native American (U.S. Census)|Native American]]
+| 14
+| 1.06%
+|-
+!scope="row"| [[Race (United States Census)|Other/Mixed]]
+| 96
+| 7.27%
+|-
+!scope="row"| [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]]
+| 12
+| 0.91%
+|}
+As of the [[2020 United States census]], there were 1,320 people, 623 households, and 288 families residing in the town.
+{{clear left}}

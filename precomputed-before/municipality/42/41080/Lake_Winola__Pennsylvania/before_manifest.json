@@ -1,0 +1,16 @@
+{
+  "article": "Lake_Winola,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/41080/Lake_Winola__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aca22c74fba60deeaf30f8d1dbcc3c5f8d5c9052bc9c298a5c40dde1e3c0c11b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aca22c74fba60deeaf30f8d1dbcc3c5f8d5c9052bc9c298a5c40dde1e3c0c11b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/41080/Lake_Winola__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "41080",
+  "timestamp": "2026-05-25T00:07:47.340983Z",
+  "version": 1
+}

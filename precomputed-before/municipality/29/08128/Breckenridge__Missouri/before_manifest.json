@@ -1,0 +1,16 @@
+{
+  "article": "Breckenridge,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/08128/Breckenridge__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e2284a37d6db847ae6caf0d361c1231ed11c269e75cd41235836993567d92eb6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e2284a37d6db847ae6caf0d361c1231ed11c269e75cd41235836993567d92eb6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/08128/Breckenridge__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "08128",
+  "timestamp": "2026-05-24T23:50:49.702918Z",
+  "version": 1
+}

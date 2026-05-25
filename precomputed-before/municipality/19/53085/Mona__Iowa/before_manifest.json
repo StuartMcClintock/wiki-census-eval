@@ -1,0 +1,16 @@
+{
+  "article": "Mona,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/53085/Mona__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "995157626f8563b9736ae25b04f28bf09f2c61fd45442b83e4fdf0af8410c75b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "995157626f8563b9736ae25b04f28bf09f2c61fd45442b83e4fdf0af8410c75b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/53085/Mona__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "53085",
+  "timestamp": "2026-05-24T23:41:29.193941Z",
+  "version": 1
+}

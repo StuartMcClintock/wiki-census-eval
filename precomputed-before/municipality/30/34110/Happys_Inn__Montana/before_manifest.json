@@ -1,0 +1,16 @@
+{
+  "article": "Happys_Inn,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/34110/Happys_Inn__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "095270f3b5270b5f973086f74b64af6ec2d075ce0888ff6a488060642e84abab",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "095270f3b5270b5f973086f74b64af6ec2d075ce0888ff6a488060642e84abab",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/34110/Happys_Inn__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "34110",
+  "timestamp": "2026-05-24T23:54:28.103997Z",
+  "version": 1
+}

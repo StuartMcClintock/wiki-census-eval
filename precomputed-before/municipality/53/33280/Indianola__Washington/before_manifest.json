@@ -1,0 +1,16 @@
+{
+  "article": "Indianola,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/33280/Indianola__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e95964f3b69b38dfa75fd63a3ccb6e36c14e004bc13f421b828006b150f6922a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e95964f3b69b38dfa75fd63a3ccb6e36c14e004bc13f421b828006b150f6922a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/33280/Indianola__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "33280",
+  "timestamp": "2026-05-25T00:20:16.348103Z",
+  "version": 1
+}

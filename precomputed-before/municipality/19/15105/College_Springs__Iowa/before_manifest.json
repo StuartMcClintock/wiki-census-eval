@@ -1,0 +1,16 @@
+{
+  "article": "College_Springs,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/15105/College_Springs__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c9dfeb42a3958e2f307ba345c3dc278b0294cd583dabc3929403ffbf77ddfa8d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c9dfeb42a3958e2f307ba345c3dc278b0294cd583dabc3929403ffbf77ddfa8d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/15105/College_Springs__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "15105",
+  "timestamp": "2026-05-24T23:40:36.027557Z",
+  "version": 1
+}

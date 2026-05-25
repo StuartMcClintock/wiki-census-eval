@@ -1,0 +1,16 @@
+{
+  "article": "Huntington,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/33940/Huntington__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4b264146b1714bd3aedcd15d3f377091c9f5e1e6abe5c03fa08d45aa25164d98",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4b264146b1714bd3aedcd15d3f377091c9f5e1e6abe5c03fa08d45aa25164d98",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/33940/Huntington__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "33940",
+  "timestamp": "2026-05-24T23:33:47.554315Z",
+  "version": 1
+}

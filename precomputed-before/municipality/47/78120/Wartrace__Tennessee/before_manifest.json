@@ -1,0 +1,16 @@
+{
+  "article": "Wartrace,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/78120/Wartrace__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2bd461338a042aa97e6a1648d0abbd1e5c1bc7a873d9d88b282a5d429357bb0d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2bd461338a042aa97e6a1648d0abbd1e5c1bc7a873d9d88b282a5d429357bb0d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/78120/Wartrace__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "78120",
+  "timestamp": "2026-05-25T00:14:58.464080Z",
+  "version": 1
+}

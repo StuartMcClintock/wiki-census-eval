@@ -1,0 +1,16 @@
+{
+  "article": "Brocton,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/08524/Brocton__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "71ef1c38cae51c701fb0391365e3f68727fb56e80b907f7b153c23861bbf7d75",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "71ef1c38cae51c701fb0391365e3f68727fb56e80b907f7b153c23861bbf7d75",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/08524/Brocton__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "08524",
+  "timestamp": "2026-05-24T23:37:51.458720Z",
+  "version": 1
+}

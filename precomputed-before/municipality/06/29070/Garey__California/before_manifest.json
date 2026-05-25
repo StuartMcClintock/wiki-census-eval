@@ -1,0 +1,16 @@
+{
+  "article": "Garey,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/29070/Garey__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c63abe3176ed520e34849d1b70a8bec11e21aed6b8c2818601823eba6b628f61",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c63abe3176ed520e34849d1b70a8bec11e21aed6b8c2818601823eba6b628f61",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/29070/Garey__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "29070",
+  "timestamp": "2026-05-24T23:34:24.988010Z",
+  "version": 1
+}

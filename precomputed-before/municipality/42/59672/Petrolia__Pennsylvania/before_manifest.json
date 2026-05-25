@@ -1,0 +1,16 @@
+{
+  "article": "Petrolia,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/59672/Petrolia__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2d69d23577ad1a5eed917c96a5391ded26337aab641da8ecdd81c7c713b5ab16",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2d69d23577ad1a5eed917c96a5391ded26337aab641da8ecdd81c7c713b5ab16",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/59672/Petrolia__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "59672",
+  "timestamp": "2026-05-25T00:08:29.009129Z",
+  "version": 1
+}

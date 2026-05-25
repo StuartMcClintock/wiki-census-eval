@@ -1,0 +1,16 @@
+{
+  "article": "St._Mary,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/65425/St._Mary__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1f1536463e58bbd0bf7e1bee9c8c051620dcfbe03f402cf0cb75dd590291cebb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1f1536463e58bbd0bf7e1bee9c8c051620dcfbe03f402cf0cb75dd590291cebb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/65425/St._Mary__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "65425",
+  "timestamp": "2026-05-24T23:54:48.994583Z",
+  "version": 1
+}

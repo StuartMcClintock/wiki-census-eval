@@ -1,0 +1,16 @@
+{
+  "article": "Black_Creek,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/07725/Black_Creek__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9aa01ea5073a4e67ec1a1f62c255c139a1a87d1748c5ab4b9a0f9096538a7714",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9aa01ea5073a4e67ec1a1f62c255c139a1a87d1748c5ab4b9a0f9096538a7714",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/07725/Black_Creek__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "07725",
+  "timestamp": "2026-05-25T00:21:36.706148Z",
+  "version": 1
+}

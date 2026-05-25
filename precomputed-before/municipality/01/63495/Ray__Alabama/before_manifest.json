@@ -1,0 +1,16 @@
+{
+  "article": "Ray,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/63495/Ray__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c0cfab8eb9a259bd8c6c0ff6a1bfc99df8602c0e91dd9b5ff136937307c19fb6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c0cfab8eb9a259bd8c6c0ff6a1bfc99df8602c0e91dd9b5ff136937307c19fb6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/63495/Ray__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "63495",
+  "timestamp": "2026-05-24T23:32:09.949331Z",
+  "version": 1
+}

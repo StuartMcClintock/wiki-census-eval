@@ -1,0 +1,16 @@
+{
+  "article": "Kirtland,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/36230/Kirtland__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "98aa2df30df8548c5b0170122ea477a9650a892c21870d4db3d873442586616a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "98aa2df30df8548c5b0170122ea477a9650a892c21870d4db3d873442586616a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/36230/Kirtland__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "36230",
+  "timestamp": "2026-05-24T23:58:35.416837Z",
+  "version": 1
+}

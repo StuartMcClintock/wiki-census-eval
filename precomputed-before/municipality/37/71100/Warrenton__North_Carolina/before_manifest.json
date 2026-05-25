@@ -1,0 +1,16 @@
+{
+  "article": "Warrenton,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/71100/Warrenton__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "05596577d1a8254e9739b27bae7315a8b891174199ccaf01d307e3f7fbbec0c5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "05596577d1a8254e9739b27bae7315a8b891174199ccaf01d307e3f7fbbec0c5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/71100/Warrenton__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "71100",
+  "timestamp": "2026-05-25T00:02:28.533996Z",
+  "version": 1
+}

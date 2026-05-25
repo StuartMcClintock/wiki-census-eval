@@ -1,0 +1,16 @@
+{
+  "article": "Jewett,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/39172/Jewett__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "28a460871aa40c2cf3ba3386d7be65b974a7ce96454e9fa3e4a86da116cf26ad",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "28a460871aa40c2cf3ba3386d7be65b974a7ce96454e9fa3e4a86da116cf26ad",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/39172/Jewett__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "39172",
+  "timestamp": "2026-05-25T00:04:21.652960Z",
+  "version": 1
+}

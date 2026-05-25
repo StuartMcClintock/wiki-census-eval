@@ -1,0 +1,16 @@
+{
+  "article": "Bantry,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/04740/Bantry__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7144ad0d12d513b48b53882da98ae531d555e7001b9a3026567fbf9317892ab2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7144ad0d12d513b48b53882da98ae531d555e7001b9a3026567fbf9317892ab2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/04740/Bantry__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "04740",
+  "timestamp": "2026-05-25T00:02:33.684288Z",
+  "version": 1
+}

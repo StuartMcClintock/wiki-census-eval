@@ -1,0 +1,16 @@
+{
+  "article": "Gibson_Flats,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/30625/Gibson_Flats__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6f69ff9bbd35e7f10d34705cba13dff827fbd8d19bcf61038ce489a2c43e2611",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6f69ff9bbd35e7f10d34705cba13dff827fbd8d19bcf61038ce489a2c43e2611",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/30625/Gibson_Flats__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "30625",
+  "timestamp": "2026-05-24T23:54:26.735389Z",
+  "version": 1
+}

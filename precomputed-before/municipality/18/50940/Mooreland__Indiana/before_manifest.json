@@ -1,0 +1,16 @@
+{
+  "article": "Mooreland,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/50940/Mooreland__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ab58b4eda1ea5af83b24a156a34f6daa9254f052d75641b6a669a69dc2db521c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ab58b4eda1ea5af83b24a156a34f6daa9254f052d75641b6a669a69dc2db521c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/50940/Mooreland__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "50940",
+  "timestamp": "2026-05-24T23:40:03.526783Z",
+  "version": 1
+}

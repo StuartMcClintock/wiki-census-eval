@@ -1,0 +1,16 @@
+{
+  "article": "Swansea,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/70675/Swansea__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c74e689c3b4ac8811705189fa42e23b8dd4bbd5dd937cb4d971f8ec75eecf23a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c74e689c3b4ac8811705189fa42e23b8dd4bbd5dd937cb4d971f8ec75eecf23a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/70675/Swansea__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "70675",
+  "timestamp": "2026-05-25T00:10:24.186140Z",
+  "version": 1
+}

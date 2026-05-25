@@ -1,0 +1,16 @@
+{
+  "article": "Harrisville,_Rhode_Island",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/44/33400/Harrisville__Rhode_Island/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aebac73c7abc712612eb4008f39f308311f135345334d4173080a5db040e779b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aebac73c7abc712612eb4008f39f308311f135345334d4173080a5db040e779b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/44/33400/Harrisville__Rhode_Island/manifest.json",
+  "state_fips": "44",
+  "status": "match",
+  "target_fips": "33400",
+  "timestamp": "2026-05-25T00:09:37.015580Z",
+  "version": 1
+}

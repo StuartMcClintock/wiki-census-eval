@@ -1,0 +1,16 @@
+{
+  "article": "Hagerman,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/31330/Hagerman__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "10abc754b865eec3f5d84ae5beb569f0898e5a21b00db94d03151975cacb994d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "10abc754b865eec3f5d84ae5beb569f0898e5a21b00db94d03151975cacb994d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/31330/Hagerman__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "31330",
+  "timestamp": "2026-05-24T23:58:32.702165Z",
+  "version": 1
+}

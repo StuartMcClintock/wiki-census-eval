@@ -1,0 +1,16 @@
+{
+  "article": "Pungoteague,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/64976/Pungoteague__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6c9c356bb6c2b45e388ab544c9e54cab12ea7e224e2a581abaf08e526a853940",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6c9c356bb6c2b45e388ab544c9e54cab12ea7e224e2a581abaf08e526a853940",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/64976/Pungoteague__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "64976",
+  "timestamp": "2026-05-25T00:19:33.249133Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Point_Place,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/61473/Point_Place__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "003398aa720224fef9b227310e8d45ead01c258ef0980bc38c17613c4c5a6b56",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "003398aa720224fef9b227310e8d45ead01c258ef0980bc38c17613c4c5a6b56",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/61473/Point_Place__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "61473",
+  "timestamp": "2026-05-24T23:45:05.460217Z",
+  "version": 1
+}

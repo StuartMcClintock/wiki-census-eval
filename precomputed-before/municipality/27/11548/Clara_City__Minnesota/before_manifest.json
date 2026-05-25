@@ -1,0 +1,16 @@
+{
+  "article": "Clara_City,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/11548/Clara_City__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ba927f40a3262ac55e535c40a69e9c0095d12ad80eaf7e97a062d1e70b4e14fe",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ba927f40a3262ac55e535c40a69e9c0095d12ad80eaf7e97a062d1e70b4e14fe",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/11548/Clara_City__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "11548",
+  "timestamp": "2026-05-24T23:48:44.784819Z",
+  "version": 1
+}

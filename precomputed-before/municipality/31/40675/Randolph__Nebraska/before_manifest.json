@@ -1,0 +1,16 @@
+{
+  "article": "Randolph,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/40675/Randolph__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3e7b63d3f4fd059d04cc03615cdf8ef82d50e9b14413107665c67894cc7df119",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3e7b63d3f4fd059d04cc03615cdf8ef82d50e9b14413107665c67894cc7df119",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/40675/Randolph__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "40675",
+  "timestamp": "2026-05-24T23:56:05.230345Z",
+  "version": 1
+}

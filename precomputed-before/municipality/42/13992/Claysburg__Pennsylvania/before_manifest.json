@@ -1,0 +1,16 @@
+{
+  "article": "Claysburg,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/13992/Claysburg__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e1130fe170633f2bd38b36b30c1105a011de3e022b9a9aa9564f49cd74cb01c5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e1130fe170633f2bd38b36b30c1105a011de3e022b9a9aa9564f49cd74cb01c5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/13992/Claysburg__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "13992",
+  "timestamp": "2026-05-25T00:06:42.443204Z",
+  "version": 1
+}

@@ -1,0 +1,117 @@
+==Demographics==
+{{US Census population
+|1980= 1745
+|2990= 3328
+|2000= 4365
+|2010= 4970
+|2020= 6135
+|align-fn=center
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census/decade.html|title=Decennial Census by Decade|website=[[United States Census Bureau]]|access-date=}}</ref><br> 1850–1900<ref name=1900CensusTX>{{Cite web|title= 1900 Census of Population - Population of Texas By Counties And Minor Civil Divisions |url=https://www2.census.gov/library/publications/decennial/1900/bulletins/demographic/49-population-tx.pdf|website=[[United States Census Bureau]]}}</ref> 1910<ref name=1910CensusTX>{{Cite web|title=1910 Census of Population - Supplement for Texas|url=https://www2.census.gov/library/publications/decennial/1910/abstract/supplement-tx-p1.pdf|website=[[United States Census Bureau]]|access-date=July 14, 2024|archive-date=March 30, 2025|archive-url=https://web.archive.org/web/20250330000710/https://www2.census.gov/library/publications/decennial/1910/abstract/supplement-tx-p1.pdf|url-status=dead}}</ref><br> 1920<ref name=1920CensusTX>{{Cite web|title= 1920 Census of Population - Number of Inhabitants - Texas |url=https://www2.census.gov/library/publications/decennial/1920/bulletins/demographics/population-tx-number-of-inhabitants.pdf|website=[[United States Census Bureau]]}}</ref> 1930<ref name=1930CensusTX>{{Cite web|title= 1930 Census of Population - Number of Inhabitants - Texas |url=https://www2.census.gov/library/publications/decennial/1930/population-volume-1/03815512v1ch10.pdf|website=[[United States Census Bureau]]}}</ref> 1940<ref name=1940CensusTX>{{Cite web|title= 1940 Census of Population - Number of Inhabitants - Texas |url=https://www2.census.gov/library/publications/decennial/1940/population-volume-1/33973538v1ch09.pdf|website=[[United States Census Bureau]]}}</ref><br>
+1950<ref name=1950CensusTX>{{Cite web|title= 1950 Census of Population - Number of Inhabitants - Texas |url=https://www2.census.gov/library/publications/decennial/1950/population-volume-1/vol-01-46.pdf|website=[[United States Census Bureau]]}}</ref> 1960<ref name=1960CensusTX>{{Cite web|title= 1960 Census of Population - Number of Inhabitants - Texas |url=https://www2.census.gov/library/publications/decennial/1960/population-volume-1/33255142v1p45ch02.pdf|website=[[United States Census Bureau]]}}</ref> 1970<ref name=1970CensusTX>{{Cite web|title= 1970 Census of Population - Number of Inhabitants - Texas |url=https://www2.census.gov/prod2/decennial/documents/00496492v1p45s1ch02.pdf|website=[[United States Census Bureau]]}}</ref><br> 1980<ref name=1980CensusTX>{{Cite web|title= 1980 Census of Population - Number of Inhabitants - Texas |url=https://www2.census.gov/library/publications/decennial/1980/volume-1/texas/1980a_txab-01.pdf|website=[[United States Census Bureau]]}}</ref> 1990<ref name=1990CensusTX>{{Cite web|title=1990 Census of Population - Population and Housing Unit Counts - Texas |url=https://www2.census.gov/library/publications/decennial/1990/cph-2/cph-2-45.pdf|website=[[United States Census Bureau]]}}</ref> 2000<ref name=2000CensusTX>{{Cite web|title=2000 Census of Population - Population and Housing Unit Counts - Texas |url=https://www2.census.gov/library/publications/2003/dec/phc-3-45.pdf|website=[[United States Census Bureau]]}}</ref><br> 2010<ref name=2010CensusTX>{{Cite web|title=2010 Census of Population - Population and Housing Unit Counts - Texas |url=https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-45.pdf|website=[[United States Census Bureau]]}}</ref> 
+}}
+
+San Leon first appeared as a [[census designated place]] in the [[1980 United States census]].<ref name=1980CensusTX/>
+
+===2020 census===
+{| class="wikitable" style="text-align:center;"
+|+'''San Leon CDP, Texas – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – San Leon CDP, Texas|url=https://data.census.gov/table?g=160XX00US4865564&tid=DECENNIALSF12000.P004|website=[[United States Census Bureau]] |access-date= }}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – San Leon CDP, Texas|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US4865564&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – San Leon CDP, Texas|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US4865564&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!% 2000
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|3,270
+|3,408
+|style='background: #ffffe6; |3,504
+|74.91%
+|68.57%
+|style='background: #ffffe6; |57.11%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|35
+|35
+|style='background: #ffffe6; |109
+|0.80%
+|0.70%
+|style='background: #ffffe6; |1.78%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|33
+|35
+|style='background: #ffffe6; |27
+|0.76%
+|0.70%
+|style='background: #ffffe6; |0.44%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|327
+|281
+|style='background: #ffffe6; |164
+|7.49%
+|5.65%
+|style='background: #ffffe6; |2.67%
+|-
+|[[Native Hawaiian]] or [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|3
+|0
+|style='background: #ffffe6; |0
+|0.07%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|8
+|1
+|style='background: #ffffe6; |18
+|0.18%
+|0.02%
+|style='background: #ffffe6; |0.29%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|62
+|54
+|style='background: #ffffe6; |239
+|1.42%
+|1.09%
+|style='background: #ffffe6; |3.90%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|627
+|1,156
+|style='background: #ffffe6; |2,074
+|14.36%
+|23.26%
+|style='background: #ffffe6; |33.81%
+|-
+|'''Total'''
+|'''4,365'''
+|'''4,970'''
+|style='background: #ffffe6; |'''6,135 '''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+As of the [[2020 United States census]], there were 6,135 people, 2,276 households, and 1,649 families residing in the CDP.
+
+===2010 census===
+As of the [[census]]<ref name="Census 2010">{{Cite web| url=https://www.census.gov| title=Profile of General Population and Housing Characteristics: 2010 Demographic Profile Data (DP-1): San Leon CDP, Texas| publisher=[[United States Census Bureau]]| accessdate=January 11, 2012}}</ref> of 2010,  4,970 people, 1,815 households, and 1,121 families resided in the CDP. The population density was {{convert|894.1|PD/sqmi|PD/km2|sp=us|adj=off}}. The 2,293 housing units averaged 469.7 per square mile (181.4/km<sup>2</sup>). The [[Race (United States Census)|racial makeup]] of the CDP was 80.41% White, 0.80% African American, 0.82% Native American, 7.61% Asian, 0.11% Pacific Islander, 8.27% from other races, and 1.97% from two or more races. Hispanics or Latinos of any race were 14.36% of the population.
+
+Of the 1,815 households, 25.1% had children under the age of 18 living with them, 48.6% were married couples living together, 7.3% had a female householder with no husband present, and 38.2% were not families. About 30.0% of all households were made up of individuals, and 8.5% had someone living alone who was 65 years of age or older.  The average household size was 2.39 and the average family size was 2.99.
+
+In the CDP, the population was spread out, with 23.0% under the age of 18, 7.4% from 18 to 24, 30.8% from 25 to 44, 28.5% from 45 to 64, and 10.3% who were 65 years of age or older. The median age was 39 years.  For every 100 females, there were 110.4 males.  For every 100 females age 18 and over, there were 112.8 males.
+
+The median income for a household in the CDP was $31,687, and for a family was $40,656.  Males had a median income of $32,574 versus $25,526 for females.  The [[per capita income]] for the CDP was $19,422.  About 14.8% of families and 19.7% of the population were below the [[poverty line]], including 33.5% of those under age 18 and 2.3% of those age 65 or over.
+
+As of 1986, the community is primarily residential. During weekends and summer, many people stayed in their cottages and small houses.<ref name="Tooheyconsider"/>
+
+As of 2012, San Leon, Bayview<!--Misstated as Bayshore-->, and Bacliff together make up the largest unincorporated community in the mainland portion of Galveston County by population.<ref name=Auldsfishing>Aulds, T. J. "[http://www.galvestondailynews.com/article_ead64834-b306-53a3-bedc-4411b9b8014c.html Fishing a Big Part of San Leon Bacliff Bayshore]." The Galveston County Daily News. The Galveston County Daily News, 22 Apr. 2012. Web. 05 May 2013.</ref>  As of July 2019 the San Leon CDP included 2632 single family residences, 14 multi-family residences and 2116 vacant lots which provided a tax base of $369,924,758.<ref>{{cite web |last1=Lane |first1=Christina |title=San Leon MUD Tax Rate Summary |url=http://www.sanleon.info/MUD%20Tax%20Increase%20Calculations.pdf |website=SanLeon.info |publisher=SAMCO Capital Markets |accessdate=9 September 2019}}</ref>
+
+In 2008, Phale Cassady Le, an outreach coordinator of Boat People SOS Houston, said that in San Leon and Bacliff, between 150 and 200 Vietnamese families were involved with crab-, oyster-, and shrimp-fishing operations.<ref name=Cenegy>Cenegy, Nick. "Ike ripped Vietnamese fishing community." ''[[The Galveston County Daily News]]''. Sunday November 22, 2009. Retrieved on May 5, 2013. "In San Leon and Bacliff, there are between 150 and 200 Vietnamese families in a tightly woven community with all lines leading back to oyster, crab and shrimp fishing, said Phale Cassady Le, an outreach coordinator with Boat People SOS Houston." and "Phale said as much as 90 percent of the 1,600 clients they have served since the group began its work earlier this year have been Vietnamese." and "Part of what makes that particular community's situation so tough is its tradition of self-reliance and wariness of outsiders. Fishing boats often are built by hand over many years as fishermen scrape up enough money, Van Horn Nguyen, a San Leon-area boat owner and fisherman, said." and "Most of the Vietnamese don't have home or boat insurance of any kind, and many aren't versed in English well enough to interpret the documents if they did, Phale said. The group's lawyers have reviewed cases where people thought they were insured but found the policies had ridiculous exclusions, like not covering water damage, she said."</ref> According to Le, most of the Vietnamese have no house or boat insurance, and even if they did have this insurance, their [[English as a second language|English]] is not well developed enough to read the terms of the policies.<ref name=Cenegy/> Many families had hand-made boats that were constructed over several years as the owner made more and more money. Nick Cenegy of ''[[The Galveston County Daily News]]'' said that the Vietnamese community in San Leon and Bacliff had a "tradition of self-reliance and wariness of outsiders."<ref name=Cenegy/>
+
+In 2017 there were 4,890 people organized into 2,036 households.<ref name=FergusonBacliffSanLeoninc/>
+

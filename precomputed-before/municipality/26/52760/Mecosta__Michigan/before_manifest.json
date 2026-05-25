@@ -1,0 +1,16 @@
+{
+  "article": "Mecosta,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/52760/Mecosta__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "71dbdf659ee84fa9a6d007ddf2557441e37dafa5258e703920d9419b305e5f7f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "71dbdf659ee84fa9a6d007ddf2557441e37dafa5258e703920d9419b305e5f7f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/52760/Mecosta__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "52760",
+  "timestamp": "2026-05-24T23:48:05.831876Z",
+  "version": 1
+}

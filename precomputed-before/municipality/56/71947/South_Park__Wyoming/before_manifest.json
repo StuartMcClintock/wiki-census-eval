@@ -1,0 +1,16 @@
+{
+  "article": "South_Park,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/71947/South_Park__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0f99401379447f690d1337bac342b8db214357da9f2bbeefc3b71696b1ec7274",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0f99401379447f690d1337bac342b8db214357da9f2bbeefc3b71696b1ec7274",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/71947/South_Park__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "71947",
+  "timestamp": "2026-05-25T00:23:23.785418Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Sabillasville,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/69200/Sabillasville__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "189ae9fc6082298a5608c2b4dbcc992ccf186cd7af2d2e1c76caaa0eb3774746",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "189ae9fc6082298a5608c2b4dbcc992ccf186cd7af2d2e1c76caaa0eb3774746",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/69200/Sabillasville__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "69200",
+  "timestamp": "2026-05-24T23:47:32.884883Z",
+  "version": 1
+}

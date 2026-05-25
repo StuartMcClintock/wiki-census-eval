@@ -1,0 +1,16 @@
+{
+  "article": "Talladega_Springs,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/74616/Talladega_Springs__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b420124eb204899619130866e4f9dcb4b94c37e57c7be39fabe8be05b20622b9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b420124eb204899619130866e4f9dcb4b94c37e57c7be39fabe8be05b20622b9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/74616/Talladega_Springs__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "74616",
+  "timestamp": "2026-05-24T23:32:13.919423Z",
+  "version": 1
+}

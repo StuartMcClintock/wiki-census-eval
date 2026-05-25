@@ -1,0 +1,16 @@
+{
+  "article": "Jette,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/39627/Jette__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bbfc35dd4e0131f441675379251f9585a8fb76c56c3c1e10ab8fceddd52411ea",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bbfc35dd4e0131f441675379251f9585a8fb76c56c3c1e10ab8fceddd52411ea",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/39627/Jette__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "39627",
+  "timestamp": "2026-05-24T23:54:32.458725Z",
+  "version": 1
+}

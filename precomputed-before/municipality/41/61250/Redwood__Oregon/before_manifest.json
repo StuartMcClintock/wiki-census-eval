@@ -1,0 +1,16 @@
+{
+  "article": "Redwood,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/61250/Redwood__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fbfc7b8edfa0089bedd0c62dd3442a9bb8cafd8ae41b7ed26d7e8732ccea2318",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fbfc7b8edfa0089bedd0c62dd3442a9bb8cafd8ae41b7ed26d7e8732ccea2318",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/61250/Redwood__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "61250",
+  "timestamp": "2026-05-25T00:05:54.824931Z",
+  "version": 1
+}

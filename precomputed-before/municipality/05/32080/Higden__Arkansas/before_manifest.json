@@ -1,0 +1,16 @@
+{
+  "article": "Higden,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/32080/Higden__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "61cb86690db967c2b00aff502bab3d37e4565f63379d1214b238a274a375fb6e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "61cb86690db967c2b00aff502bab3d37e4565f63379d1214b238a274a375fb6e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/32080/Higden__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "32080",
+  "timestamp": "2026-05-24T23:33:46.437785Z",
+  "version": 1
+}

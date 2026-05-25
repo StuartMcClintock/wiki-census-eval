@@ -1,0 +1,16 @@
+{
+  "article": "Watts_Mills,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/75220/Watts_Mills__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d3a41c991fd871d443125a4ab1790a176661efc3dac460cc366690bb32cd0375",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d3a41c991fd871d443125a4ab1790a176661efc3dac460cc366690bb32cd0375",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/75220/Watts_Mills__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "75220",
+  "timestamp": "2026-05-25T00:10:26.920689Z",
+  "version": 1
+}

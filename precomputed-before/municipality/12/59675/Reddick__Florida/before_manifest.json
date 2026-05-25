@@ -1,0 +1,16 @@
+{
+  "article": "Reddick,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/59675/Reddick__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "afe69cc55f44ab768a0a45b7529734f56d02a77cd45da1cbd019e9fb394223a9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "afe69cc55f44ab768a0a45b7529734f56d02a77cd45da1cbd019e9fb394223a9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/59675/Reddick__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "59675",
+  "timestamp": "2026-05-24T23:36:21.865393Z",
+  "version": 1
+}

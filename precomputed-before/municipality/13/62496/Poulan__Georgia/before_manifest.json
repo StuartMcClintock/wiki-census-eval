@@ -1,0 +1,16 @@
+{
+  "article": "Poulan,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/62496/Poulan__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "65ce2322e4274593f55f91d293110af1c90737c8cf82acb05a8c8f0bd2681d70",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "65ce2322e4274593f55f91d293110af1c90737c8cf82acb05a8c8f0bd2681d70",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/62496/Poulan__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "62496",
+  "timestamp": "2026-05-24T23:37:04.419491Z",
+  "version": 1
+}

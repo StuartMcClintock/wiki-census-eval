@@ -1,0 +1,16 @@
+{
+  "article": "Orient,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/55500/Orient__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0949f5ab216aa3613799a9ea40311f71bc381d817a6cb657735f0ec14ba5a58f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0949f5ab216aa3613799a9ea40311f71bc381d817a6cb657735f0ec14ba5a58f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/55500/Orient__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "55500",
+  "timestamp": "2026-05-25T00:05:53.438851Z",
+  "version": 1
+}

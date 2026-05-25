@@ -1,0 +1,16 @@
+{
+  "article": "Charlotte_Hall,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/15475/Charlotte_Hall__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "68233e4776c52cc2081e48032c084ee35431f75138e23d5024caa9e3fa639734",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "68233e4776c52cc2081e48032c084ee35431f75138e23d5024caa9e3fa639734",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/15475/Charlotte_Hall__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "15475",
+  "timestamp": "2026-05-24T23:47:16.805534Z",
+  "version": 1
+}

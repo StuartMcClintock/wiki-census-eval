@@ -1,0 +1,16 @@
+{
+  "article": "Pine_Grove,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/54405/Pine_Grove__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "834d9e44beb4791d194998a042a16cc5bb3a507e74df1baab442c53427142bd8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "834d9e44beb4791d194998a042a16cc5bb3a507e74df1baab442c53427142bd8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/54405/Pine_Grove__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "54405",
+  "timestamp": "2026-05-25T00:20:28.136945Z",
+  "version": 1
+}

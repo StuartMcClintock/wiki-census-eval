@@ -1,0 +1,16 @@
+{
+  "article": "North_Madison,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/56812/North_Madison__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4c73c8b947f5be790d3f065218138217c67dc03b38e3d3b1cec692e8d4287dc8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4c73c8b947f5be790d3f065218138217c67dc03b38e3d3b1cec692e8d4287dc8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/56812/North_Madison__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "56812",
+  "timestamp": "2026-05-25T00:05:01.454304Z",
+  "version": 1
+}

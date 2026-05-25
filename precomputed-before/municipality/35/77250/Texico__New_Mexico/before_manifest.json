@@ -1,0 +1,16 @@
+{
+  "article": "Texico,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/77250/Texico__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c5f363ee13d995398d053ded8706e0abb20e7cb408719bb37050fb1adef7a118",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c5f363ee13d995398d053ded8706e0abb20e7cb408719bb37050fb1adef7a118",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/77250/Texico__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "77250",
+  "timestamp": "2026-05-24T23:59:08.265119Z",
+  "version": 1
+}

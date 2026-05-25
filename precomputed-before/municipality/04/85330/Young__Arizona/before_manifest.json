@@ -1,0 +1,16 @@
+{
+  "article": "Young,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/85330/Young__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ecdf2de977c1e7247fd01017bbb3342a77c9f38712c72babee65a3ca69e62523",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ecdf2de977c1e7247fd01017bbb3342a77c9f38712c72babee65a3ca69e62523",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/85330/Young__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "85330",
+  "timestamp": "2026-05-24T23:33:16.191273Z",
+  "version": 1
+}

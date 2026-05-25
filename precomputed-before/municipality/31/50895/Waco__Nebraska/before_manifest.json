@@ -1,0 +1,16 @@
+{
+  "article": "Waco,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/50895/Waco__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b96e246c91cbaa3b1ec65003a5d0b46da3e486e606a690ed6b5a11787a72d814",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b96e246c91cbaa3b1ec65003a5d0b46da3e486e606a690ed6b5a11787a72d814",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/50895/Waco__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "50895",
+  "timestamp": "2026-05-24T23:57:23.066271Z",
+  "version": 1
+}

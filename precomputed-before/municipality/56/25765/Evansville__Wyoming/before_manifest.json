@@ -1,0 +1,16 @@
+{
+  "article": "Evansville,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/25765/Evansville__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d9d55686c1bb645fb907c61db4cdc8f8e168a37a818ae3c1e95d87573bbb5e00",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d9d55686c1bb645fb907c61db4cdc8f8e168a37a818ae3c1e95d87573bbb5e00",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/25765/Evansville__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "25765",
+  "timestamp": "2026-05-25T00:23:13.127224Z",
+  "version": 1
+}

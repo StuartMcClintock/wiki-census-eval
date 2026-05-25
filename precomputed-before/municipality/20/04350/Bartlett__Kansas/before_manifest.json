@@ -1,0 +1,16 @@
+{
+  "article": "Bartlett,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/04350/Bartlett__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "64e88630a4af720bdafba9148f6ac57d1d083eb92b8292e9c6e32313dbd75cee",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "64e88630a4af720bdafba9148f6ac57d1d083eb92b8292e9c6e32313dbd75cee",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/04350/Bartlett__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "04350",
+  "timestamp": "2026-05-24T23:42:19.377346Z",
+  "version": 1
+}

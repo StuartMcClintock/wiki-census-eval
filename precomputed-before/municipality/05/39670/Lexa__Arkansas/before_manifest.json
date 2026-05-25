@@ -1,0 +1,16 @@
+{
+  "article": "Lexa,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/39670/Lexa__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0f1258c0737910ea8b6468b08d22c514c85bfa8b24e0f628f364f5e1bb419277",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0f1258c0737910ea8b6468b08d22c514c85bfa8b24e0f628f364f5e1bb419277",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/39670/Lexa__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "39670",
+  "timestamp": "2026-05-24T23:33:50.699439Z",
+  "version": 1
+}

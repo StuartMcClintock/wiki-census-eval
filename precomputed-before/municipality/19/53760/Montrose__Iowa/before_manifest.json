@@ -1,0 +1,16 @@
+{
+  "article": "Montrose,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/53760/Montrose__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a51032fd32aa69ece2ba263d8da6bfdd249db14645b44d7cd292b487996b577d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a51032fd32aa69ece2ba263d8da6bfdd249db14645b44d7cd292b487996b577d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/53760/Montrose__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "53760",
+  "timestamp": "2026-05-24T23:41:29.716258Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Pembroke,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/59934/Pembroke__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1cbb764be10d478c21e3877111f55b680a3becadbfb748e5c71aba3f718e4812",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1cbb764be10d478c21e3877111f55b680a3becadbfb748e5c71aba3f718e4812",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/59934/Pembroke__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "59934",
+  "timestamp": "2026-05-24T23:44:15.612629Z",
+  "version": 1
+}

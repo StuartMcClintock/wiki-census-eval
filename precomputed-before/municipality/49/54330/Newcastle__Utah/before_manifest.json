@@ -1,0 +1,16 @@
+{
+  "article": "Newcastle,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/54330/Newcastle__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7553032f6e4cc2e46ffbbec1f5073f4a20b7f17a1554264436732079a7f31ea7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7553032f6e4cc2e46ffbbec1f5073f4a20b7f17a1554264436732079a7f31ea7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/54330/Newcastle__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "54330",
+  "timestamp": "2026-05-25T00:17:06.459560Z",
+  "version": 1
+}

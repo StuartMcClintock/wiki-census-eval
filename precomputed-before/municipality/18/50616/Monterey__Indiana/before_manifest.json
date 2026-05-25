@@ -1,0 +1,16 @@
+{
+  "article": "Monterey,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/50616/Monterey__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6b94e3a8df22efd03c0650c18e57999e93694e3021ed1a4d315131448222ae22",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6b94e3a8df22efd03c0650c18e57999e93694e3021ed1a4d315131448222ae22",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/50616/Monterey__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "50616",
+  "timestamp": "2026-05-24T23:40:03.118303Z",
+  "version": 1
+}

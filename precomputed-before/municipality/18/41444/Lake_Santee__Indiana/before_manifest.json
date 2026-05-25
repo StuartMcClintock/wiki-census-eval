@@ -1,0 +1,16 @@
+{
+  "article": "Lake_Santee,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/41444/Lake_Santee__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9c17cbc2d9a2f3f661f2a902784a2e70ee12ea8fd06279d83112dd520521953e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9c17cbc2d9a2f3f661f2a902784a2e70ee12ea8fd06279d83112dd520521953e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/41444/Lake_Santee__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "41444",
+  "timestamp": "2026-05-24T23:39:53.062628Z",
+  "version": 1
+}

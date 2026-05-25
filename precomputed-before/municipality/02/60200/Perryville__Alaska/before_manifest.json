@@ -1,0 +1,16 @@
+{
+  "article": "Perryville,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/60200/Perryville__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "29099968a543ef2c5693c65dceef6d4927c317f8ed04f2842fbcc5fa8068473d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "29099968a543ef2c5693c65dceef6d4927c317f8ed04f2842fbcc5fa8068473d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/60200/Perryville__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "60200",
+  "timestamp": "2026-05-24T23:32:30.257939Z",
+  "version": 1
+}

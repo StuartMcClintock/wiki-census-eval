@@ -1,0 +1,16 @@
+{
+  "article": "Buda,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/09356/Buda__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "859ae72021b651403154c0bf2ce95ee2d7f5c1826e71407612cd0b1ac71dd9fc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "859ae72021b651403154c0bf2ce95ee2d7f5c1826e71407612cd0b1ac71dd9fc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/09356/Buda__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "09356",
+  "timestamp": "2026-05-24T23:37:52.750426Z",
+  "version": 1
+}

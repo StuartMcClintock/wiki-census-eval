@@ -1,0 +1,16 @@
+{
+  "article": "Coloma,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/17320/Coloma__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "48a09ddc9e1ebcf46c149383bca4ca1c7200dab567ff689d5191ce5dacc759bd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "48a09ddc9e1ebcf46c149383bca4ca1c7200dab567ff689d5191ce5dacc759bd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/17320/Coloma__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "17320",
+  "timestamp": "2026-05-24T23:47:49.461003Z",
+  "version": 1
+}

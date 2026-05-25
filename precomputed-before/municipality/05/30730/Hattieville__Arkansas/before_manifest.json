@@ -1,0 +1,16 @@
+{
+  "article": "Hattieville,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/30730/Hattieville__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "328bf8db702db7bfc1525b7b0b5c141ba126db926e96f7474d0b22d8ccf95f8e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "328bf8db702db7bfc1525b7b0b5c141ba126db926e96f7474d0b22d8ccf95f8e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/30730/Hattieville__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "30730",
+  "timestamp": "2026-05-24T23:33:45.620997Z",
+  "version": 1
+}

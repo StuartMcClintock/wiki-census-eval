@@ -1,0 +1,16 @@
+{
+  "article": "Pine_Springs,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/51316/Pine_Springs__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "432844beb1d9ebeb8b6447aa38a0b12039824a0ba969512bf975af96fc14c9fa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "432844beb1d9ebeb8b6447aa38a0b12039824a0ba969512bf975af96fc14c9fa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/51316/Pine_Springs__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "51316",
+  "timestamp": "2026-05-24T23:49:39.168985Z",
+  "version": 1
+}

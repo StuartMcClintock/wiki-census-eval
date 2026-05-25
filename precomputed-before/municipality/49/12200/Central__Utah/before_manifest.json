@@ -1,0 +1,16 @@
+{
+  "article": "Central,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/12200/Central__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dfb1c9c42ee4efdc7429e399fb045205e50a8125899292083bfacf3a497de66d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dfb1c9c42ee4efdc7429e399fb045205e50a8125899292083bfacf3a497de66d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/12200/Central__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "12200",
+  "timestamp": "2026-05-25T00:16:55.338523Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Windsor,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/81620/Windsor__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0c0084fc73930e4723a23507c34a1b1684d2b356d0c03f008e39afd39a757034",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0c0084fc73930e4723a23507c34a1b1684d2b356d0c03f008e39afd39a757034",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/81620/Windsor__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "81620",
+  "timestamp": "2026-05-24T23:58:06.418050Z",
+  "version": 1
+}

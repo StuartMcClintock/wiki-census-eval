@@ -1,0 +1,16 @@
+{
+  "article": "Naschitti,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/51280/Naschitti__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c1c77e871c5d4e3effd276b71e743421d3064453c06de472e542464f8da11579",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c1c77e871c5d4e3effd276b71e743421d3064453c06de472e542464f8da11579",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/51280/Naschitti__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "51280",
+  "timestamp": "2026-05-24T23:58:43.813602Z",
+  "version": 1
+}

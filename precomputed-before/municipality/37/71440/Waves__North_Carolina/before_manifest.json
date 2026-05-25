@@ -1,0 +1,16 @@
+{
+  "article": "Waves,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/71440/Waves__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8f836e35d8e3779dd2562bf340b62b0f65f615ad5cf8b93cd32a83e17ff854ec",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8f836e35d8e3779dd2562bf340b62b0f65f615ad5cf8b93cd32a83e17ff854ec",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/71440/Waves__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "71440",
+  "timestamp": "2026-05-25T00:02:28.880935Z",
+  "version": 1
+}

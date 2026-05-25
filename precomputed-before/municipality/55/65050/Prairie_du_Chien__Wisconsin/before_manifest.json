@@ -1,0 +1,16 @@
+{
+  "article": "Prairie_du_Chien,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/65050/Prairie_du_Chien__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5816f67eb998410400b2886829e205e137c30b8e18ec6bb2d533a87951668fbd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5816f67eb998410400b2886829e205e137c30b8e18ec6bb2d533a87951668fbd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/65050/Prairie_du_Chien__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "65050",
+  "timestamp": "2026-05-25T00:22:35.969612Z",
+  "version": 1
+}

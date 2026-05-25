@@ -1,0 +1,16 @@
+{
+  "article": "Cibola,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/13470/Cibola__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c932ee234e3074e3b3e64ca501b5121221b7f6008ac5a394422e1cb4f7b8d7b3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c932ee234e3074e3b3e64ca501b5121221b7f6008ac5a394422e1cb4f7b8d7b3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/13470/Cibola__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "13470",
+  "timestamp": "2026-05-24T23:32:50.853056Z",
+  "version": 1
+}

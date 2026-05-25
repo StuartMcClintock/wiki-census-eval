@@ -1,0 +1,16 @@
+{
+  "article": "Sidell,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/69836/Sidell__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1dbdf90e9b6c5c597e5c9e3c440a3e9e7002d701e37cd5f4c402e87221c65a0c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1dbdf90e9b6c5c597e5c9e3c440a3e9e7002d701e37cd5f4c402e87221c65a0c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/69836/Sidell__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "69836",
+  "timestamp": "2026-05-24T23:39:11.612518Z",
+  "version": 1
+}

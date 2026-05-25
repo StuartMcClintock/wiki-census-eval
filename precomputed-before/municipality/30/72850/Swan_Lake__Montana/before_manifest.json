@@ -1,0 +1,16 @@
+{
+  "article": "Swan_Lake,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/72850/Swan_Lake__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "96819b352efaf0ce51694cbef81622c6c67d3e59829f532f1018eeb5b5a7d86c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "96819b352efaf0ce51694cbef81622c6c67d3e59829f532f1018eeb5b5a7d86c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/72850/Swan_Lake__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "72850",
+  "timestamp": "2026-05-24T23:54:53.443747Z",
+  "version": 1
+}

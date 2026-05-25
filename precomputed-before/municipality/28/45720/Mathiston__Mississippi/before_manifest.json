@@ -1,0 +1,16 @@
+{
+  "article": "Mathiston,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/45720/Mathiston__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b1cca6c700f36ab621eeca12bb8ada0cafbb3147944fa4fcf47b3da81d7354aa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b1cca6c700f36ab621eeca12bb8ada0cafbb3147944fa4fcf47b3da81d7354aa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/45720/Mathiston__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "45720",
+  "timestamp": "2026-05-24T23:50:16.174301Z",
+  "version": 1
+}

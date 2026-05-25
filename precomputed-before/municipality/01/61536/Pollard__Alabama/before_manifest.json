@@ -1,0 +1,16 @@
+{
+  "article": "Pollard,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/61536/Pollard__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e589f537eeb8e9187ab131f2baa4e7a24cb9a9d2894a52edeb674382d70fa5db",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e589f537eeb8e9187ab131f2baa4e7a24cb9a9d2894a52edeb674382d70fa5db",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/61536/Pollard__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "61536",
+  "timestamp": "2026-05-24T23:32:09.427933Z",
+  "version": 1
+}

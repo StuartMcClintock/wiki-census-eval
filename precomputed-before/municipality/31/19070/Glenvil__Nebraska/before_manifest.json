@@ -1,0 +1,16 @@
+{
+  "article": "Glenvil,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/19070/Glenvil__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0b3921733e539dd1c4dae3f80987ca73b563303c48a36dd9c02479c8ea660c16",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0b3921733e539dd1c4dae3f80987ca73b563303c48a36dd9c02479c8ea660c16",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/19070/Glenvil__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "19070",
+  "timestamp": "2026-05-24T23:55:28.644520Z",
+  "version": 1
+}

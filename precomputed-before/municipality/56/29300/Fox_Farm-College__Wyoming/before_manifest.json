@@ -1,0 +1,16 @@
+{
+  "article": "Fox_Farm-College,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/29300/Fox_Farm-College__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2ba73023bb435d204cc74236aee6bff15cfcf5d36d8bed4de7bda2f82ff4bd8e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2ba73023bb435d204cc74236aee6bff15cfcf5d36d8bed4de7bda2f82ff4bd8e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/29300/Fox_Farm-College__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "29300",
+  "timestamp": "2026-05-25T00:23:13.854204Z",
+  "version": 1
+}

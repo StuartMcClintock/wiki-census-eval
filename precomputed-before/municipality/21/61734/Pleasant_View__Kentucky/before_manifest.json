@@ -1,0 +1,16 @@
+{
+  "article": "Pleasant_View,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/61734/Pleasant_View__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d19218e33e913df3f6c05daaf31ea3c21074e147d8ff9d708bd5c4423496849a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d19218e33e913df3f6c05daaf31ea3c21074e147d8ff9d708bd5c4423496849a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/61734/Pleasant_View__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "61734",
+  "timestamp": "2026-05-24T23:44:16.556317Z",
+  "version": 1
+}

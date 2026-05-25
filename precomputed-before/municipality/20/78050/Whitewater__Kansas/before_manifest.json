@@ -1,0 +1,16 @@
+{
+  "article": "Whitewater,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/78050/Whitewater__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6a8e736e93e26ec43a33a7812453f6b7e513deb17425912b6bef8beeb82f1dca",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6a8e736e93e26ec43a33a7812453f6b7e513deb17425912b6bef8beeb82f1dca",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/78050/Whitewater__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "78050",
+  "timestamp": "2026-05-24T23:43:37.884816Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Tolu,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/77124/Tolu__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3009f0fc5371aaad13d86f36d7f13434a1834b11d66ba45d7b575fd6452d01c8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3009f0fc5371aaad13d86f36d7f13434a1834b11d66ba45d7b575fd6452d01c8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/77124/Tolu__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "77124",
+  "timestamp": "2026-05-24T23:44:23.513601Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Hornsby,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/36080/Hornsby__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e8da3e708109ab6a4d83e0756eb33d9d833cc3b7f237c16350a9226f20656854",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e8da3e708109ab6a4d83e0756eb33d9d833cc3b7f237c16350a9226f20656854",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/36080/Hornsby__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "36080",
+  "timestamp": "2026-05-25T00:14:42.925890Z",
+  "version": 1
+}

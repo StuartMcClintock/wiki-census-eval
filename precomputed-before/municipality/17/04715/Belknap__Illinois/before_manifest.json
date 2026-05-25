@@ -1,0 +1,16 @@
+{
+  "article": "Belknap,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/04715/Belknap__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3b9bb2e1e989076fe198c8e377ddb8cce94e09e8b65dbf29e59782bc84fb39b2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3b9bb2e1e989076fe198c8e377ddb8cce94e09e8b65dbf29e59782bc84fb39b2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/04715/Belknap__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "04715",
+  "timestamp": "2026-05-24T23:37:37.475197Z",
+  "version": 1
+}

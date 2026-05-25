@@ -1,0 +1,16 @@
+{
+  "article": "Thayer,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/77565/Thayer__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2f6af1ea993e4d81b853b06360ce74b61fc00a9196adb944e3cf0096fbf20035",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2f6af1ea993e4d81b853b06360ce74b61fc00a9196adb944e3cf0096fbf20035",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/77565/Thayer__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "77565",
+  "timestamp": "2026-05-24T23:42:05.342090Z",
+  "version": 1
+}

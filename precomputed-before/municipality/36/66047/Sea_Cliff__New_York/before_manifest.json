@@ -1,0 +1,16 @@
+{
+  "article": "Sea_Cliff,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/66047/Sea_Cliff__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d9c1b19939ac1d5005b1414b9f2a618f2fd046af0d985c705aa2bcecfe64e4ed",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d9c1b19939ac1d5005b1414b9f2a618f2fd046af0d985c705aa2bcecfe64e4ed",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/66047/Sea_Cliff__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "66047",
+  "timestamp": "2026-05-25T00:01:12.887816Z",
+  "version": 1
+}

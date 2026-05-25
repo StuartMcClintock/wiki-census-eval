@@ -1,0 +1,16 @@
+{
+  "article": "Elephant_Head,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/21980/Elephant_Head__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b0fb0176dd17b588a22297efcbe731806166fbed72f4ac49c161dc64d1c4ddad",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b0fb0176dd17b588a22297efcbe731806166fbed72f4ac49c161dc64d1c4ddad",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/21980/Elephant_Head__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "21980",
+  "timestamp": "2026-05-24T23:32:53.755946Z",
+  "version": 1
+}

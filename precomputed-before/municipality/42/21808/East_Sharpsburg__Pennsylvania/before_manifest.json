@@ -1,0 +1,16 @@
+{
+  "article": "East_Sharpsburg,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/21808/East_Sharpsburg__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "03edb73ab2c0672f343ffb5e6e83e345c2bfe3167c9ca0115861162ff0b30dc2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "03edb73ab2c0672f343ffb5e6e83e345c2bfe3167c9ca0115861162ff0b30dc2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/21808/East_Sharpsburg__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "21808",
+  "timestamp": "2026-05-25T00:06:57.052926Z",
+  "version": 1
+}

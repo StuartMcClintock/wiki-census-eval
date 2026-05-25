@@ -1,0 +1,16 @@
+{
+  "article": "Haigler_Creek,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/30840/Haigler_Creek__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "632967356b016a019067046f473665582659adf52f99be446dc08043ec12dc4a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "632967356b016a019067046f473665582659adf52f99be446dc08043ec12dc4a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/30840/Haigler_Creek__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "30840",
+  "timestamp": "2026-05-24T23:32:56.047672Z",
+  "version": 1
+}

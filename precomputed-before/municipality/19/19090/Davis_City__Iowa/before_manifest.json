@@ -1,0 +1,16 @@
+{
+  "article": "Davis_City,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/19090/Davis_City__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "af7f3b5edcaf491b081833ef37db9b6c4fc0edd5d9c5abe9d8558e3f17aa2d4e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "af7f3b5edcaf491b081833ef37db9b6c4fc0edd5d9c5abe9d8558e3f17aa2d4e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/19090/Davis_City__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "19090",
+  "timestamp": "2026-05-24T23:40:39.311415Z",
+  "version": 1
+}

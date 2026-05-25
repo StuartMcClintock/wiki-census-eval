@@ -1,0 +1,16 @@
+{
+  "article": "Manns_Choice,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/46944/Manns_Choice__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6babd72a6187edb5a7db04ad025660ff769c912aaaf89be0787a589a4f35df34",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6babd72a6187edb5a7db04ad025660ff769c912aaaf89be0787a589a4f35df34",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/46944/Manns_Choice__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "46944",
+  "timestamp": "2026-05-25T00:07:57.537551Z",
+  "version": 1
+}

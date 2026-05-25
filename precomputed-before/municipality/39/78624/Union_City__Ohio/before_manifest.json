@@ -1,0 +1,16 @@
+{
+  "article": "Union_City,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/78624/Union_City__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8e21f6a09e9464cb437358a2724960b54f00e5b894779b3c830ea569769cd612",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8e21f6a09e9464cb437358a2724960b54f00e5b894779b3c830ea569769cd612",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/78624/Union_City__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "78624",
+  "timestamp": "2026-05-25T00:05:33.356564Z",
+  "version": 1
+}

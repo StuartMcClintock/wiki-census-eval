@@ -1,0 +1,16 @@
+{
+  "article": "Champion,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/08745/Champion__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b00bf07c6dd0979d990c6699f081947be6f76b48deb0591b811fac07fcce9a8a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b00bf07c6dd0979d990c6699f081947be6f76b48deb0591b811fac07fcce9a8a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/08745/Champion__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "08745",
+  "timestamp": "2026-05-24T23:55:17.441200Z",
+  "version": 1
+}

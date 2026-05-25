@@ -1,0 +1,16 @@
+{
+  "article": "Oakley,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/59860/Oakley__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6e80ef66c29f2a4eced1ec8de20d1d72084113a76d424a3f885a3fe32704d422",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6e80ef66c29f2a4eced1ec8de20d1d72084113a76d424a3f885a3fe32704d422",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/59860/Oakley__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "59860",
+  "timestamp": "2026-05-24T23:48:09.532051Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Corwith,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/16590/Corwith__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "11d03e5ea2af2c87010cce5687dcd6664c5625dd1495e63d1f32661b30fcf846",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "11d03e5ea2af2c87010cce5687dcd6664c5625dd1495e63d1f32661b30fcf846",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/16590/Corwith__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "16590",
+  "timestamp": "2026-05-24T23:40:37.341669Z",
+  "version": 1
+}

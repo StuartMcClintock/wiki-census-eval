@@ -1,0 +1,16 @@
+{
+  "article": "Gilbert,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/28940/Gilbert__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f1a4d7946882dea56d681dd66de9239251d9e5c3a4226143728c81b866b5b4bb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f1a4d7946882dea56d681dd66de9239251d9e5c3a4226143728c81b866b5b4bb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/28940/Gilbert__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "28940",
+  "timestamp": "2026-05-24T23:44:48.789332Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Douglas,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/13505/Douglas__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ef28856be26438b34b8ba53e248a7a773b6a2eb9a2dbc0ac5558045f76302a4b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ef28856be26438b34b8ba53e248a7a773b6a2eb9a2dbc0ac5558045f76302a4b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/13505/Douglas__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "13505",
+  "timestamp": "2026-05-24T23:55:23.197916Z",
+  "version": 1
+}

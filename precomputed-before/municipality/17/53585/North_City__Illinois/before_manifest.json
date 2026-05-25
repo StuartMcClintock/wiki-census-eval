@@ -1,0 +1,16 @@
+{
+  "article": "North_City,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/53585/North_City__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cda24cf982295caa1e1d5bcd1cebd1080de518446cf8a6904d142ae8c1a7d7f8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cda24cf982295caa1e1d5bcd1cebd1080de518446cf8a6904d142ae8c1a7d7f8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/53585/North_City__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "53585",
+  "timestamp": "2026-05-24T23:38:41.514474Z",
+  "version": 1
+}

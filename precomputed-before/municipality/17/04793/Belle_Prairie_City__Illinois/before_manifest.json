@@ -1,0 +1,16 @@
+{
+  "article": "Belle_Prairie_City,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/04793/Belle_Prairie_City__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "66dfade63376664918ecbdd59366265210728ee8ef7504e3f88c65ad4c133c32",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "66dfade63376664918ecbdd59366265210728ee8ef7504e3f88c65ad4c133c32",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/04793/Belle_Prairie_City__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "04793",
+  "timestamp": "2026-05-24T23:37:37.577729Z",
+  "version": 1
+}

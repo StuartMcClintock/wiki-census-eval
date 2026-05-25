@@ -1,0 +1,16 @@
+{
+  "article": "Volant,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/80368/Volant__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e7acaf5f4604b16c41a71ca56a19c721fe7f04f1ed1335d99248d6d049892a1c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e7acaf5f4604b16c41a71ca56a19c721fe7f04f1ed1335d99248d6d049892a1c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/80368/Volant__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "80368",
+  "timestamp": "2026-05-25T00:09:23.059760Z",
+  "version": 1
+}

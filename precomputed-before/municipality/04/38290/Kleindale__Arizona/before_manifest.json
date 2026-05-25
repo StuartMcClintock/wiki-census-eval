@@ -1,0 +1,16 @@
+{
+  "article": "Kleindale,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/38290/Kleindale__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f2759b84d0f0689abdb0bef9a51461b1dff0e144c066b77f73c28e735c70ce1d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f2759b84d0f0689abdb0bef9a51461b1dff0e144c066b77f73c28e735c70ce1d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/38290/Kleindale__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "38290",
+  "timestamp": "2026-05-24T23:33:02.084010Z",
+  "version": 1
+}

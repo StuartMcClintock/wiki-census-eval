@@ -1,0 +1,16 @@
+{
+  "article": "Greenbriar,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/32592/Greenbriar__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2fb63ac7b06bbc8a12e4b81bc0b26c9574f2e68474f7eb4236ffa55bb428dc6e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2fb63ac7b06bbc8a12e4b81bc0b26c9574f2e68474f7eb4236ffa55bb428dc6e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/32592/Greenbriar__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "32592",
+  "timestamp": "2026-05-25T00:19:15.821119Z",
+  "version": 1
+}

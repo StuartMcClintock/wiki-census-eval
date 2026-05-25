@@ -1,0 +1,16 @@
+{
+  "article": "Island_Pond,_Vermont",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/50/35725/Island_Pond__Vermont/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dc3ef16e146cdd465cf681f13e459deff64f576541870d524ca5abad3b392164",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dc3ef16e146cdd465cf681f13e459deff64f576541870d524ca5abad3b392164",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/50/35725/Island_Pond__Vermont/manifest.json",
+  "state_fips": "50",
+  "status": "match",
+  "target_fips": "35725",
+  "timestamp": "2026-05-25T00:17:15.610931Z",
+  "version": 1
+}

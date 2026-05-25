@@ -1,0 +1,16 @@
+{
+  "article": "Minong,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/53250/Minong__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d68d3bdadc39503154bd612364bf5e5e0dbe9e31b123844ac86bdc5effcb1450",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d68d3bdadc39503154bd612364bf5e5e0dbe9e31b123844ac86bdc5effcb1450",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/53250/Minong__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "53250",
+  "timestamp": "2026-05-25T00:22:25.749854Z",
+  "version": 1
+}

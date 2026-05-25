@@ -1,0 +1,16 @@
+{
+  "article": "Plum_Creek,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/63190/Plum_Creek__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5e6d51d9bfe894552a42093c32b212f6151aa78728f5f1ff95289b627c4e43b2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5e6d51d9bfe894552a42093c32b212f6151aa78728f5f1ff95289b627c4e43b2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/63190/Plum_Creek__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "63190",
+  "timestamp": "2026-05-25T00:19:32.111474Z",
+  "version": 1
+}

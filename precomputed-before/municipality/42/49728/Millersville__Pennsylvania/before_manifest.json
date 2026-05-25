@@ -1,0 +1,16 @@
+{
+  "article": "Millersville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/49728/Millersville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "276cba55f4489d1431c674f61f4f4f6311a0ea88aaf715a02e57304fb596b1f2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "276cba55f4489d1431c674f61f4f4f6311a0ea88aaf715a02e57304fb596b1f2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/49728/Millersville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "49728",
+  "timestamp": "2026-05-25T00:08:06.554780Z",
+  "version": 1
+}

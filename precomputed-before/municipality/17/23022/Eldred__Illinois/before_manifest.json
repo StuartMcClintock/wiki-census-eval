@@ -1,0 +1,16 @@
+{
+  "article": "Eldred,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/23022/Eldred__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f541c1bfd023c09cc19485a3b7b5bea718b02708f62403499c556311a8d0536d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f541c1bfd023c09cc19485a3b7b5bea718b02708f62403499c556311a8d0536d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/23022/Eldred__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "23022",
+  "timestamp": "2026-05-24T23:38:09.262469Z",
+  "version": 1
+}

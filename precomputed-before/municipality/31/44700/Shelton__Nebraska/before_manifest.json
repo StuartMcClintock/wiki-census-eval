@@ -1,0 +1,16 @@
+{
+  "article": "Shelton,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/44700/Shelton__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e1a663f20760fa457a0097a2c83ebc63ca54f208885746a7d16a35e47205d8e1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e1a663f20760fa457a0097a2c83ebc63ca54f208885746a7d16a35e47205d8e1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/44700/Shelton__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "44700",
+  "timestamp": "2026-05-24T23:57:15.977955Z",
+  "version": 1
+}

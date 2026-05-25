@@ -1,0 +1,111 @@
+==Demographics==
+{{US Census population
+|1890= 291
+|1900= 189
+|1910= 191
+|1920= 209
+|1930= 204
+|1940= 150
+|1950= 162
+|1960= 148
+|1970= 112
+|1980= 200
+|1990= 122
+|2000= 203
+|2010= 166
+|2020= 149
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2015}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A45|title=Census Population API|publisher=United States Census Bureau|accessdate=October 15, 2022}}</ref>
+}}
+
+{| class="wikitable" style="text-align:center;"
+|+'''Waterloo town, South Carolina – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Waterloo town, South Carolina |url=https://data.census.gov/table?g=160XX00US4574995&tid=DECENNIALSF12000.P004|website=[[United States Census Bureau]] |access-date= }}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Waterloo town, South Carolina |url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US4574995&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Waterloo town, South Carolina |url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US4574995&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!% 2000
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|86
+|76
+|style='background: #ffffe6; |50
+|42.36%
+|45.78%
+|style='background: #ffffe6; |33.56%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|113
+|87
+|style='background: #ffffe6; |93
+|55.67%
+|52.41%
+|style='background: #ffffe6; |62.42%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|1
+|0
+|style='background: #ffffe6; |0
+|0.49%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|0
+|3
+|style='background: #ffffe6; |4
+|0.00%
+|1.81%
+|style='background: #ffffe6; |2.68%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|3
+|0
+|style='background: #ffffe6; |2
+|1.48%
+|0.00%
+|style='background: #ffffe6; |1.34%
+|-
+|'''Total'''
+|'''203'''
+|'''166'''
+|style='background: #ffffe6; |'''149'''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+===2000 census===
+As of the [[census]]<ref name="GR2" /> of 2000, there were 203 people, 75 households, and 57 families residing in the town. The population density was {{convert|144.2|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 85 housing units at an average density of {{convert|60.4|/sqmi|/km2|sp=us|adj=off}}. The racial makeup of the town was 43.35% [[White (U.S. Census)|White]], 56.16% [[African American (U.S. Census)|African American]] and 0.49% [[Native American (U.S. Census)|Native American]]. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 1.48% of the population.
+
+There were 75 households, out of which 37.3% had children under the age of 18 living with them, 45.3% were married couples living together, 17.3% had a female householder with no husband present, and 22.7% were non-families. 20.0% of all households were made up of individuals, and 9.3% had someone living alone who was 65 years of age or older. The average household size was 2.71 and the average family size was 3.05.
+
+In the town, the population was spread out, with 28.1% under the age of 18, 10.8% from 18 to 24, 27.1% from 25 to 44, 21.7% from 45 to 64, and 12.3% who were 65 years of age or older. The median age was 33 years. For every 100 females, there were 111.5 males. For every 100 females age 18 and over, there were 102.8 males.
+
+The median income for a household in the town was $27,917, and the median income for a family was $36,875. Males had a median income of $24,063 versus $18,750 for females. The [[per capita income]] for the town was $14,159. About 5.7% of families and 12.3% of the population were below the [[poverty line]], including 6.4% of those under the age of eighteen and 21.4% of those 65 or over.
+

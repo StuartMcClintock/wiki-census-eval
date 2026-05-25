@@ -1,0 +1,16 @@
+{
+  "article": "Mansfield,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/46487/Mansfield__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "77c2b5bb700200d11c0fa51294f6e8d671d29688535314746c0746cfc3b9bd06",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "77c2b5bb700200d11c0fa51294f6e8d671d29688535314746c0746cfc3b9bd06",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/46487/Mansfield__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "46487",
+  "timestamp": "2026-05-24T23:38:32.904407Z",
+  "version": 1
+}

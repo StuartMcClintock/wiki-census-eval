@@ -1,0 +1,16 @@
+{
+  "article": "Yankee_Hill,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/54020/Yankee_Hill__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "78173a417249195a1d27daf974280749b282a4cac2269a765d53e9a742c45bab",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "78173a417249195a1d27daf974280749b282a4cac2269a765d53e9a742c45bab",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/54020/Yankee_Hill__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "54020",
+  "timestamp": "2026-05-24T23:57:26.880827Z",
+  "version": 1
+}

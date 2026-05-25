@@ -1,0 +1,16 @@
+{
+  "article": "Western_Grove,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/74330/Western_Grove__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0a96a3fb092ccf1eb8687cf68f923a385d9a6bf210bbdea3f21b37ae3caebfae",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0a96a3fb092ccf1eb8687cf68f923a385d9a6bf210bbdea3f21b37ae3caebfae",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/74330/Western_Grove__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "74330",
+  "timestamp": "2026-05-24T23:34:14.080747Z",
+  "version": 1
+}

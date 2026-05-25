@@ -1,0 +1,16 @@
+{
+  "article": "Cascade,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/12775/Cascade__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bda2e1bb2dd1d4b2e97d395295607d35019931c5a93fdefb9cbe942c131c8fa0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bda2e1bb2dd1d4b2e97d395295607d35019931c5a93fdefb9cbe942c131c8fa0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/12775/Cascade__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "12775",
+  "timestamp": "2026-05-24T23:54:18.051689Z",
+  "version": 1
+}

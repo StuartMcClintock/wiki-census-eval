@@ -1,0 +1,16 @@
+{
+  "article": "Gifford,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/29145/Gifford__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f2a80e66e13d2f004805f38cc2cc34209ef22931727dde2248694430b75a0944",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f2a80e66e13d2f004805f38cc2cc34209ef22931727dde2248694430b75a0944",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/29145/Gifford__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "29145",
+  "timestamp": "2026-05-24T23:38:15.251898Z",
+  "version": 1
+}

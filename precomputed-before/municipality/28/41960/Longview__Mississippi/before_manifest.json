@@ -1,0 +1,16 @@
+{
+  "article": "Longview,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/41960/Longview__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "542e321361462c3b42f3cb498693804d36a5af0d80a6988de2adabab7c773b8a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "542e321361462c3b42f3cb498693804d36a5af0d80a6988de2adabab7c773b8a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/41960/Longview__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "41960",
+  "timestamp": "2026-05-24T23:50:14.836407Z",
+  "version": 1
+}

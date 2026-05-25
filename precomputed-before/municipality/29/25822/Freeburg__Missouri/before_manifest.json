@@ -1,0 +1,16 @@
+{
+  "article": "Freeburg,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/25822/Freeburg__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7d1b6b08974a9a1abb4cfe59da174ae77361f8ab587625b57f3a1117ab1dee69",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7d1b6b08974a9a1abb4cfe59da174ae77361f8ab587625b57f3a1117ab1dee69",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/25822/Freeburg__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "25822",
+  "timestamp": "2026-05-24T23:51:10.688183Z",
+  "version": 1
+}

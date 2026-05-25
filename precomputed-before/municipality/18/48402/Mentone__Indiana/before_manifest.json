@@ -1,0 +1,16 @@
+{
+  "article": "Mentone,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/48402/Mentone__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b73d3323a28a37fa7177f2edd0c3352cabc379c64d3b892331dba8c6dcfa09ca",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b73d3323a28a37fa7177f2edd0c3352cabc379c64d3b892331dba8c6dcfa09ca",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/48402/Mentone__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "48402",
+  "timestamp": "2026-05-24T23:40:01.672236Z",
+  "version": 1
+}

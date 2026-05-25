@@ -1,0 +1,16 @@
+{
+  "article": "Junction_City,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/37596/Junction_City__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ce160e1a24565143148c8d85c553cefc1729198d2dbc22c9aea7d3cb832617a8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ce160e1a24565143148c8d85c553cefc1729198d2dbc22c9aea7d3cb832617a8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/37596/Junction_City__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "37596",
+  "timestamp": "2026-05-24T23:34:30.826183Z",
+  "version": 1
+}

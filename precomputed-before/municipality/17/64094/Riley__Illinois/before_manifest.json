@@ -1,0 +1,16 @@
+{
+  "article": "Riley,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/64094/Riley__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2ea64d97f8acfaf4b6bff87dd1994210478f0fdf762480cf813eb6070c33e215",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2ea64d97f8acfaf4b6bff87dd1994210478f0fdf762480cf813eb6070c33e215",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/64094/Riley__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "64094",
+  "timestamp": "2026-05-24T23:39:06.139107Z",
+  "version": 1
+}

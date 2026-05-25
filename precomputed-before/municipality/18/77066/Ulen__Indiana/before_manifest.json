@@ -1,0 +1,16 @@
+{
+  "article": "Ulen,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/77066/Ulen__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "47810bf9d6ba191a4af692d4113d9f292e7925f3a339c766e9c3eb37f16e2214",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "47810bf9d6ba191a4af692d4113d9f292e7925f3a339c766e9c3eb37f16e2214",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/77066/Ulen__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "77066",
+  "timestamp": "2026-05-24T23:40:16.547660Z",
+  "version": 1
+}

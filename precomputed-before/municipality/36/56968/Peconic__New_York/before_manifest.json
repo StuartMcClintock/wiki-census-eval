@@ -1,0 +1,16 @@
+{
+  "article": "Peconic,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/56968/Peconic__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "066b64e38e9d620188d40dbcfc613065abd6cea310f6d9ee70ae99e566aeebd7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "066b64e38e9d620188d40dbcfc613065abd6cea310f6d9ee70ae99e566aeebd7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/56968/Peconic__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "56968",
+  "timestamp": "2026-05-25T00:01:02.549610Z",
+  "version": 1
+}

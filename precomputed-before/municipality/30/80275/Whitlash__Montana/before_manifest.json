@@ -1,0 +1,16 @@
+{
+  "article": "Whitlash,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/80275/Whitlash__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bf1ed630e7bee3997f69039f35611c1ae9e3f597b0a98e3ae1f57af7cf22ade0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bf1ed630e7bee3997f69039f35611c1ae9e3f597b0a98e3ae1f57af7cf22ade0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/80275/Whitlash__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "80275",
+  "timestamp": "2026-05-24T23:55:04.266187Z",
+  "version": 1
+}

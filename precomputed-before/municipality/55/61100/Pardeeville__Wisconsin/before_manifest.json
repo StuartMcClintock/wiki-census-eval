@@ -1,0 +1,16 @@
+{
+  "article": "Pardeeville,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/61100/Pardeeville__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d5e23713d4d3bbbe79c4a9ffe25a47aaddc9d0a804c98a8f52f6c599703d658e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d5e23713d4d3bbbe79c4a9ffe25a47aaddc9d0a804c98a8f52f6c599703d658e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/61100/Pardeeville__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "61100",
+  "timestamp": "2026-05-25T00:22:33.203619Z",
+  "version": 1
+}

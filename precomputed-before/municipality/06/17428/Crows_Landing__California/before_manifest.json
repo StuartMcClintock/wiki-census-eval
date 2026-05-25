@@ -1,0 +1,16 @@
+{
+  "article": "Crows_Landing,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/17428/Crows_Landing__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cfc140ae5bfc7d5dcca0718af68249a90f6a72f85076e925d69c16bba2a7b7ac",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cfc140ae5bfc7d5dcca0718af68249a90f6a72f85076e925d69c16bba2a7b7ac",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/17428/Crows_Landing__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "17428",
+  "timestamp": "2026-05-24T23:34:16.903301Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Bayard,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/04960/Bayard__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "113f59973016b0a0647b81168d55c1e40947cdae62364a003036786511dc6b54",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "113f59973016b0a0647b81168d55c1e40947cdae62364a003036786511dc6b54",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/04960/Bayard__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "04960",
+  "timestamp": "2026-05-24T23:40:26.569856Z",
+  "version": 1
+}

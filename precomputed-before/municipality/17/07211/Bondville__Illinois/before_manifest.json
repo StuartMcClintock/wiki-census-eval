@@ -1,0 +1,16 @@
+{
+  "article": "Bondville,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/07211/Bondville__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "64d6c181248e08b705eb9ba658641481f48a74717ffe78b31211cf3bec8bc9d4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "64d6c181248e08b705eb9ba658641481f48a74717ffe78b31211cf3bec8bc9d4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/07211/Bondville__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "07211",
+  "timestamp": "2026-05-24T23:37:50.304421Z",
+  "version": 1
+}

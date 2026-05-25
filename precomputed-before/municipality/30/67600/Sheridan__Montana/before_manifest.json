@@ -1,0 +1,16 @@
+{
+  "article": "Sheridan,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/67600/Sheridan__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "da26f7cba4ef0aa96c82b326e10eda6daef7424e1b2f0c909524c459b642cc07",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "da26f7cba4ef0aa96c82b326e10eda6daef7424e1b2f0c909524c459b642cc07",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/67600/Sheridan__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "67600",
+  "timestamp": "2026-05-24T23:54:50.555175Z",
+  "version": 1
+}

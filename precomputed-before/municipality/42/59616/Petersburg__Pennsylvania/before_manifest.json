@@ -1,0 +1,16 @@
+{
+  "article": "Petersburg,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/59616/Petersburg__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "df6b716e27a4e29599e10235e26d3590842af29089839b4d1d2802a213d89146",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "df6b716e27a4e29599e10235e26d3590842af29089839b4d1d2802a213d89146",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/59616/Petersburg__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "59616",
+  "timestamp": "2026-05-25T00:08:28.908818Z",
+  "version": 1
+}

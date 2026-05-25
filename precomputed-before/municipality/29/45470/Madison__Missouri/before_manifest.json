@@ -1,0 +1,16 @@
+{
+  "article": "Madison,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/45470/Madison__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "deed1c28d6c1f633e0bd0299c5faf42394a8faec6d29cebf91354f04d673b047",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "deed1c28d6c1f633e0bd0299c5faf42394a8faec6d29cebf91354f04d673b047",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/45470/Madison__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "45470",
+  "timestamp": "2026-05-24T23:53:30.149409Z",
+  "version": 1
+}

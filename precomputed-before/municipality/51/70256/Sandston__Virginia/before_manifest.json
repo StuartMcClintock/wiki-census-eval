@@ -1,0 +1,16 @@
+{
+  "article": "Sandston,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/70256/Sandston__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ceaaa264ddc51ca2015094d41c1f6850313270082be62066a9b137b4b9a02359",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ceaaa264ddc51ca2015094d41c1f6850313270082be62066a9b137b4b9a02359",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/70256/Sandston__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "70256",
+  "timestamp": "2026-05-25T00:19:35.538277Z",
+  "version": 1
+}

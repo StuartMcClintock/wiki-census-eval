@@ -1,0 +1,16 @@
+{
+  "article": "Ruskin,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/42810/Ruskin__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a053dd59342f871e9634422f44fa3b960af87671f2c64485b4625677846b7ef0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a053dd59342f871e9634422f44fa3b960af87671f2c64485b4625677846b7ef0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/42810/Ruskin__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "42810",
+  "timestamp": "2026-05-24T23:57:14.527874Z",
+  "version": 1
+}

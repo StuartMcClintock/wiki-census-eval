@@ -1,0 +1,16 @@
+{
+  "article": "Lititz,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/43816/Lititz__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8ef33f0b3b73f50d91875e28b565eb6ebcdc7c0d514182af804fa3082bf62888",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8ef33f0b3b73f50d91875e28b565eb6ebcdc7c0d514182af804fa3082bf62888",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/43816/Lititz__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "43816",
+  "timestamp": "2026-05-25T00:07:53.218201Z",
+  "version": 1
+}

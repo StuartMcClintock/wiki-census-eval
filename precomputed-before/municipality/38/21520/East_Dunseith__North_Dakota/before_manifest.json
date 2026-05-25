@@ -1,0 +1,16 @@
+{
+  "article": "East_Dunseith,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/21520/East_Dunseith__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6a9bb6fb19236cec4f3e1661ae4c8c3479cc31a7b3d33a51c8b4ca70d56d4d69",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6a9bb6fb19236cec4f3e1661ae4c8c3479cc31a7b3d33a51c8b4ca70d56d4d69",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/21520/East_Dunseith__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "21520",
+  "timestamp": "2026-05-25T00:02:41.646249Z",
+  "version": 1
+}

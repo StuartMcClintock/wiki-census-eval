@@ -1,0 +1,16 @@
+{
+  "article": "Albany,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/00750/Albany__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3df4e3554c3c83a18dcd3e77d5c22348dfd7f968eacdb68ed6966cf4765cf2ff",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3df4e3554c3c83a18dcd3e77d5c22348dfd7f968eacdb68ed6966cf4765cf2ff",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/00750/Albany__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "00750",
+  "timestamp": "2026-05-25T00:21:30.812163Z",
+  "version": 1
+}

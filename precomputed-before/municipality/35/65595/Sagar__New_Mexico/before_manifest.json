@@ -1,0 +1,16 @@
+{
+  "article": "Sagar,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/65595/Sagar__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d3648e25be6d7f140770987d102d92062d894bc7424298183b00e3e091ff5470",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d3648e25be6d7f140770987d102d92062d894bc7424298183b00e3e091ff5470",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/65595/Sagar__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "65595",
+  "timestamp": "2026-05-24T23:58:52.031200Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Stroudsburg,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/74888/Stroudsburg__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5e33c6a1f295f7fbf0e87956f5eaa6e4c3f1b281a3f73f6123d253f133444796",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5e33c6a1f295f7fbf0e87956f5eaa6e4c3f1b281a3f73f6123d253f133444796",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/74888/Stroudsburg__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "74888",
+  "timestamp": "2026-05-25T00:09:12.777258Z",
+  "version": 1
+}

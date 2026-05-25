@@ -1,0 +1,16 @@
+{
+  "article": "Bolivar,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/07594/Bolivar__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e7c61fc42f7962892a464958e1357ecc03a1e447d302cc2b00b0176e7652669b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e7c61fc42f7962892a464958e1357ecc03a1e447d302cc2b00b0176e7652669b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/07594/Bolivar__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "07594",
+  "timestamp": "2026-05-25T00:03:36.518772Z",
+  "version": 1
+}

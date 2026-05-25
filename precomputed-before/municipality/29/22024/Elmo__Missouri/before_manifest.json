@@ -1,0 +1,16 @@
+{
+  "article": "Elmo,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/22024/Elmo__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cfe500937dade3ce9bf69e87aa8819ec339bedefe51eea1b5afc07f746df3ef4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cfe500937dade3ce9bf69e87aa8819ec339bedefe51eea1b5afc07f746df3ef4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/22024/Elmo__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "22024",
+  "timestamp": "2026-05-24T23:51:06.386664Z",
+  "version": 1
+}

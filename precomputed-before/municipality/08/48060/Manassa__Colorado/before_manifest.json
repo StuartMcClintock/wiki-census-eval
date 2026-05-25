@@ -1,0 +1,16 @@
+{
+  "article": "Manassa,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/48060/Manassa__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9dd2bc904231f912213e1cf284685292ada1da55d06c6b90f1fe623b3bab6720",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9dd2bc904231f912213e1cf284685292ada1da55d06c6b90f1fe623b3bab6720",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/48060/Manassa__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "48060",
+  "timestamp": "2026-05-24T23:35:32.249577Z",
+  "version": 1
+}

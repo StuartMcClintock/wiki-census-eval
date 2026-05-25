@@ -1,0 +1,16 @@
+{
+  "article": "Point_of_Rocks,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/62160/Point_of_Rocks__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ead4b5b1252b4c77322896a7228cd948536eba294fec07aabe5b959f6d1ca53d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ead4b5b1252b4c77322896a7228cd948536eba294fec07aabe5b959f6d1ca53d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/62160/Point_of_Rocks__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "62160",
+  "timestamp": "2026-05-25T00:23:21.210221Z",
+  "version": 1
+}

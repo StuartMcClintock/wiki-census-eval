@@ -1,0 +1,16 @@
+{
+  "article": "La_Grange,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/39764/La_Grange__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "24fe94aba50fad6c9f0452021e6bdef27f3bb6e9823386649df74e5a550f2dce",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "24fe94aba50fad6c9f0452021e6bdef27f3bb6e9823386649df74e5a550f2dce",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/39764/La_Grange__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "39764",
+  "timestamp": "2026-05-24T23:53:24.582983Z",
+  "version": 1
+}

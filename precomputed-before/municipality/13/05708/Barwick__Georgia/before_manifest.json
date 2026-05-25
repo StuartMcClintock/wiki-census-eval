@@ -1,0 +1,16 @@
+{
+  "article": "Barwick,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/05708/Barwick__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3fc5c6f56931166a4b1944c14cc7cdba124134643b728e5dc2303e0c995687ba",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3fc5c6f56931166a4b1944c14cc7cdba124134643b728e5dc2303e0c995687ba",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/05708/Barwick__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "05708",
+  "timestamp": "2026-05-24T23:36:28.151257Z",
+  "version": 1
+}

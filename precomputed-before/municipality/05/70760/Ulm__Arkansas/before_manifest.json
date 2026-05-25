@@ -1,0 +1,16 @@
+{
+  "article": "Ulm,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/70760/Ulm__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3da9c42a29f60e1b0fffa6269350b085089b0e61354ea457bee4a8855d62bd10",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3da9c42a29f60e1b0fffa6269350b085089b0e61354ea457bee4a8855d62bd10",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/70760/Ulm__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "70760",
+  "timestamp": "2026-05-24T23:34:11.945887Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Veteran,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/80285/Veteran__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e104d82588f37e2b07dea8d9a4acf13143f7d968b75420ef307b1bd80e65d878",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e104d82588f37e2b07dea8d9a4acf13143f7d968b75420ef307b1bd80e65d878",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/80285/Veteran__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "80285",
+  "timestamp": "2026-05-25T00:23:25.291642Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Star_City,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/72638/Star_City__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cb0f9f67be1e525cc212c72734c7b39d1fb718aa7afc6281b3c8f91dfba8b577",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cb0f9f67be1e525cc212c72734c7b39d1fb718aa7afc6281b3c8f91dfba8b577",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/72638/Star_City__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "72638",
+  "timestamp": "2026-05-24T23:40:14.338119Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Mason_City,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/31115/Mason_City__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "38a9515a8e8cc043ec005def9dbfccfd4927c2397b3aa6406e5aaa4943c21f89",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "38a9515a8e8cc043ec005def9dbfccfd4927c2397b3aa6406e5aaa4943c21f89",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/31115/Mason_City__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "31115",
+  "timestamp": "2026-05-24T23:55:52.116737Z",
+  "version": 1
+}

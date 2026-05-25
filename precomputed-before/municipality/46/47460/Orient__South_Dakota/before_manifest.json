@@ -1,0 +1,16 @@
+{
+  "article": "Orient,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/47460/Orient__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "42cd3b5d3dc23c64a59386cbe39551015c8cf8c17070721214fe16bfc4fe6aac",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "42cd3b5d3dc23c64a59386cbe39551015c8cf8c17070721214fe16bfc4fe6aac",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/47460/Orient__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "47460",
+  "timestamp": "2026-05-25T00:11:07.320574Z",
+  "version": 1
+}

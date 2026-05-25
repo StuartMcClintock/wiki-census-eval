@@ -1,0 +1,16 @@
+{
+  "article": "Taconic_Shores,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/73057/Taconic_Shores__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0b53f8c5e9d75a71fdade16af94ca99d8bc3e54d1c158c26d6e71b742a43b4ce",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0b53f8c5e9d75a71fdade16af94ca99d8bc3e54d1c158c26d6e71b742a43b4ce",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/73057/Taconic_Shores__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "73057",
+  "timestamp": "2026-05-25T00:01:19.053046Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Meadow_Grove,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/31465/Meadow_Grove__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "eeefb0deae91b41e341a0d345f5c29204166dd319b586d3a2b374e474f422f7f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "eeefb0deae91b41e341a0d345f5c29204166dd319b586d3a2b374e474f422f7f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/31465/Meadow_Grove__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "31465",
+  "timestamp": "2026-05-24T23:55:52.676403Z",
+  "version": 1
+}

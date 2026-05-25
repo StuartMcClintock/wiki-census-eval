@@ -1,0 +1,16 @@
+{
+  "article": "Spiceland,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/72008/Spiceland__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "442ae3e297cf9a596cf93fcb5991068341598f63944d1909bee1b5abd6b06681",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "442ae3e297cf9a596cf93fcb5991068341598f63944d1909bee1b5abd6b06681",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/72008/Spiceland__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "72008",
+  "timestamp": "2026-05-24T23:40:13.698131Z",
+  "version": 1
+}

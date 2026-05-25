@@ -1,0 +1,16 @@
+{
+  "article": "Glendo,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/32290/Glendo__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aeafdec3c3275197abab3e29a311910a2caf8b95a19d7deb66ab6f8b846e4954",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aeafdec3c3275197abab3e29a311910a2caf8b95a19d7deb66ab6f8b846e4954",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/32290/Glendo__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "32290",
+  "timestamp": "2026-05-25T00:23:14.266292Z",
+  "version": 1
+}

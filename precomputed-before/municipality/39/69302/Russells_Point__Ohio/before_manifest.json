@@ -1,0 +1,16 @@
+{
+  "article": "Russells_Point,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/69302/Russells_Point__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "080ae9b0d0ba916f0836b134b915c2a50d0e57792b1d01d98473d9951bc2475b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "080ae9b0d0ba916f0836b134b915c2a50d0e57792b1d01d98473d9951bc2475b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/69302/Russells_Point__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "69302",
+  "timestamp": "2026-05-25T00:05:13.672076Z",
+  "version": 1
+}

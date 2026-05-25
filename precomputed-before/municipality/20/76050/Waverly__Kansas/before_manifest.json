@@ -1,0 +1,16 @@
+{
+  "article": "Waverly,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/76050/Waverly__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "19bd3cfc78a9457ebfbaa1757304a3e0899128fe16ad9a7ab8e5dbb09bb7073a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "19bd3cfc78a9457ebfbaa1757304a3e0899128fe16ad9a7ab8e5dbb09bb7073a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/76050/Waverly__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "76050",
+  "timestamp": "2026-05-24T23:43:36.242034Z",
+  "version": 1
+}

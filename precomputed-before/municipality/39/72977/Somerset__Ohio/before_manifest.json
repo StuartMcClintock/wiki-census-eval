@@ -1,0 +1,16 @@
+{
+  "article": "Somerset,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/72977/Somerset__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8344092d6f064c770770165c2c3d3bc417bd8de37b9b02655ac98e928b4e12cf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8344092d6f064c770770165c2c3d3bc417bd8de37b9b02655ac98e928b4e12cf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/72977/Somerset__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "72977",
+  "timestamp": "2026-05-25T00:05:27.725012Z",
+  "version": 1
+}

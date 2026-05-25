@@ -1,0 +1,16 @@
+{
+  "article": "Clover,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/15355/Clover__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e0f4d2a68308ca56d0980a33db95066a0b22cb2aae1f91654f4b2ede0fe4efcf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e0f4d2a68308ca56d0980a33db95066a0b22cb2aae1f91654f4b2ede0fe4efcf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/15355/Clover__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "15355",
+  "timestamp": "2026-05-25T00:09:55.472483Z",
+  "version": 1
+}

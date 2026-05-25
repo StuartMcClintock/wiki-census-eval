@@ -1,0 +1,16 @@
+{
+  "article": "Groveland,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/34030/Groveland__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4110d539726161e3195203fe90b407551f0dd6f0e03969bb99e0096f985c345a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4110d539726161e3195203fe90b407551f0dd6f0e03969bb99e0096f985c345a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/34030/Groveland__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "34030",
+  "timestamp": "2026-05-24T23:37:21.220652Z",
+  "version": 1
+}

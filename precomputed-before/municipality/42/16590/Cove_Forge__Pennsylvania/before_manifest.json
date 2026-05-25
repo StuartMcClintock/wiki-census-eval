@@ -1,0 +1,16 @@
+{
+  "article": "Cove_Forge,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/16590/Cove_Forge__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "561a7c145b6d7174b5308c4d98af509360bb84261e47fa13aaae8014422c4e47",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "561a7c145b6d7174b5308c4d98af509360bb84261e47fa13aaae8014422c4e47",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/16590/Cove_Forge__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "16590",
+  "timestamp": "2026-05-25T00:06:47.292189Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Salt_Lick,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/68160/Salt_Lick__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7a4bd5638918bce9b1ef7bfbf8daa35463b0bb34c4d4c911ce337a8c542c3ab0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7a4bd5638918bce9b1ef7bfbf8daa35463b0bb34c4d4c911ce337a8c542c3ab0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/68160/Salt_Lick__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "68160",
+  "timestamp": "2026-05-24T23:44:19.653971Z",
+  "version": 1
+}

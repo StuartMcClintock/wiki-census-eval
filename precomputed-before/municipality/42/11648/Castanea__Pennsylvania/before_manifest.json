@@ -1,0 +1,16 @@
+{
+  "article": "Castanea,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/11648/Castanea__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "609d06e81c3661844a1986503826cbe3ee0c974653f2d765c42f1ad3e2ade5a9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "609d06e81c3661844a1986503826cbe3ee0c974653f2d765c42f1ad3e2ade5a9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/11648/Castanea__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "11648",
+  "timestamp": "2026-05-25T00:06:37.759828Z",
+  "version": 1
+}

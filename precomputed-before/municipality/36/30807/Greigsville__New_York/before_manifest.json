@@ -1,0 +1,16 @@
+{
+  "article": "Greigsville,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/30807/Greigsville__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "767b9c7b4cb970884f56109de1d6d9162349972a5e7e9b8e3a700beb933590da",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "767b9c7b4cb970884f56109de1d6d9162349972a5e7e9b8e3a700beb933590da",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/30807/Greigsville__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "30807",
+  "timestamp": "2026-05-25T00:00:45.774852Z",
+  "version": 1
+}

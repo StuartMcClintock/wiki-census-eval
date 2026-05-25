@@ -1,0 +1,16 @@
+{
+  "article": "Convoy,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/18546/Convoy__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c5eb8e3f6027bde6c4e32e64b064d4a955c24662b456b33943a6ef1ebc69acf8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c5eb8e3f6027bde6c4e32e64b064d4a955c24662b456b33943a6ef1ebc69acf8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/18546/Convoy__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "18546",
+  "timestamp": "2026-05-25T00:04:01.106784Z",
+  "version": 1
+}

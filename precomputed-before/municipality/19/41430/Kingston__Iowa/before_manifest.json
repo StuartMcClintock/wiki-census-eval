@@ -1,0 +1,16 @@
+{
+  "article": "Kingston,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/41430/Kingston__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5f18e74f83bce4968e8a6176471fc29e6ccbe28daf9bd3de7e52126f3869837d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5f18e74f83bce4968e8a6176471fc29e6ccbe28daf9bd3de7e52126f3869837d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/41430/Kingston__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "41430",
+  "timestamp": "2026-05-24T23:41:16.178375Z",
+  "version": 1
+}

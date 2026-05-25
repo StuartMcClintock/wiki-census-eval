@@ -1,0 +1,16 @@
+{
+  "article": "Dumfries,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/23760/Dumfries__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5a333344a871e019698aae2c1d0d01429adf0ae150720ffefe2a8289a25c760c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5a333344a871e019698aae2c1d0d01429adf0ae150720ffefe2a8289a25c760c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/23760/Dumfries__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "23760",
+  "timestamp": "2026-05-25T00:19:10.387136Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Rest_Haven,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/63382/Rest_Haven__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "606f4f574c0bf17f28306d8fda33654626bcb4f282e7df73389df4e429db718b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "606f4f574c0bf17f28306d8fda33654626bcb4f282e7df73389df4e429db718b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/63382/Rest_Haven__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "63382",
+  "timestamp": "2026-05-24T23:39:05.180118Z",
+  "version": 1
+}

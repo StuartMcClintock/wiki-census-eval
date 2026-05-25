@@ -1,0 +1,16 @@
+{
+  "article": "Indianola,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/36420/Indianola__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3ed404f0f0fe20c7be3dd8ffc688a71c511c4970a661fad4f9206b0e117ab029",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3ed404f0f0fe20c7be3dd8ffc688a71c511c4970a661fad4f9206b0e117ab029",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/36420/Indianola__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "36420",
+  "timestamp": "2026-05-24T23:34:29.568748Z",
+  "version": 1
+}

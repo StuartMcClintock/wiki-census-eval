@@ -1,0 +1,16 @@
+{
+  "article": "East_Salem,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/21792/East_Salem__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "82701d0063582b4e9f8511e6a44ae751e785ff6bd4d7c47cec9c7c9dbc1e84bc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "82701d0063582b4e9f8511e6a44ae751e785ff6bd4d7c47cec9c7c9dbc1e84bc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/21792/East_Salem__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "21792",
+  "timestamp": "2026-05-25T00:06:56.956768Z",
+  "version": 1
+}

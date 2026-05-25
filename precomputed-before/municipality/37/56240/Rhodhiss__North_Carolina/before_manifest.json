@@ -1,0 +1,16 @@
+{
+  "article": "Rhodhiss,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/56240/Rhodhiss__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "65ba4bbac9765b31ed3b17499306466133771ef36ab0cfbe121f362864648835",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "65ba4bbac9765b31ed3b17499306466133771ef36ab0cfbe121f362864648835",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/56240/Rhodhiss__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "56240",
+  "timestamp": "2026-05-25T00:02:18.326186Z",
+  "version": 1
+}

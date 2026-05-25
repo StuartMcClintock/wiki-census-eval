@@ -1,0 +1,16 @@
+{
+  "article": "Kansas,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/39578/Kansas__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5eeab3cdced974df03923471ac892f6c53aa7d92bc2afac1725efdc31b81c8de",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5eeab3cdced974df03923471ac892f6c53aa7d92bc2afac1725efdc31b81c8de",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/39578/Kansas__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "39578",
+  "timestamp": "2026-05-25T00:04:22.073376Z",
+  "version": 1
+}

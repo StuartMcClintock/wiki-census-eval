@@ -1,0 +1,16 @@
+{
+  "article": "Seabrook,_Massachusetts",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/25/60505/Seabrook__Massachusetts/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c0437e92a8db9feac0bc1235852c487c2d7125968bc2e4e0fba003a44ea08dd8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c0437e92a8db9feac0bc1235852c487c2d7125968bc2e4e0fba003a44ea08dd8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/25/60505/Seabrook__Massachusetts/manifest.json",
+  "state_fips": "25",
+  "status": "match",
+  "target_fips": "60505",
+  "timestamp": "2026-05-24T23:47:39.002360Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Millerdale_Colony,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/42579/Millerdale_Colony__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "55d6d92d1bf6abe69d6295dd732eef3566b4d9bbebcc7dcacb01d6650261c736",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "55d6d92d1bf6abe69d6295dd732eef3566b4d9bbebcc7dcacb01d6650261c736",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/42579/Millerdale_Colony__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "42579",
+  "timestamp": "2026-05-25T00:11:03.521838Z",
+  "version": 1
+}

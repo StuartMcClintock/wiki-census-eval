@@ -1,0 +1,16 @@
+{
+  "article": "Maskell,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/31045/Maskell__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fe4599f61d7f70a003d29de1223025b1fd0637c49bf68d4ccf5ea966cafeb757",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fe4599f61d7f70a003d29de1223025b1fd0637c49bf68d4ccf5ea966cafeb757",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/31045/Maskell__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "31045",
+  "timestamp": "2026-05-24T23:55:52.007536Z",
+  "version": 1
+}

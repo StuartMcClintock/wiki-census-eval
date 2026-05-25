@@ -1,0 +1,16 @@
+{
+  "article": "Columbia,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/14590/Columbia__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5d27bacf2ab32208a023d557e8bb3b041754849034c37c6b666d8e63296d5365",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5d27bacf2ab32208a023d557e8bb3b041754849034c37c6b666d8e63296d5365",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/14590/Columbia__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "14590",
+  "timestamp": "2026-05-24T23:57:43.875843Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Bethune,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/06530/Bethune__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "650bddf357fec6a6c8c77bb42c368b43413f984b072ff83534114a99bbec4992",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "650bddf357fec6a6c8c77bb42c368b43413f984b072ff83534114a99bbec4992",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/06530/Bethune__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "06530",
+  "timestamp": "2026-05-24T23:35:18.530913Z",
+  "version": 1
+}

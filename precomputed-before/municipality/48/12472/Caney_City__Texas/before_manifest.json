@@ -1,0 +1,16 @@
+{
+  "article": "Caney_City,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/12472/Caney_City__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d881bbc4791c34f198d705c7e0a50b553f72b4951bba1930f7a9f6294901eb28",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d881bbc4791c34f198d705c7e0a50b553f72b4951bba1930f7a9f6294901eb28",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/12472/Caney_City__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "12472",
+  "timestamp": "2026-05-25T00:15:22.625056Z",
+  "version": 1
+}

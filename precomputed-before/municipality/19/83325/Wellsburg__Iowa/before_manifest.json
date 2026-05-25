@@ -1,0 +1,16 @@
+{
+  "article": "Wellsburg,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/83325/Wellsburg__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e9c0671ee892125d585d73a897a915bfae6fc7c871d14b56e94d7b317eca24b7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e9c0671ee892125d585d73a897a915bfae6fc7c871d14b56e94d7b317eca24b7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/83325/Wellsburg__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "83325",
+  "timestamp": "2026-05-24T23:42:10.522432Z",
+  "version": 1
+}

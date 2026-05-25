@@ -1,0 +1,16 @@
+{
+  "article": "Clay_City,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/14715/Clay_City__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "20c8f1b5cef2679c643d30293c36574b90a1e53389a8f1d9288e2ca3f534b2ec",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "20c8f1b5cef2679c643d30293c36574b90a1e53389a8f1d9288e2ca3f534b2ec",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/14715/Clay_City__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "14715",
+  "timestamp": "2026-05-24T23:38:01.072324Z",
+  "version": 1
+}

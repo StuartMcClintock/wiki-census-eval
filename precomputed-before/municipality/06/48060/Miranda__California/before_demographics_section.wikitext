@@ -1,0 +1,78 @@
+==Demographics==
+
+{{US Census population
+|2010= 520
+|2020= 441
+|estyear=2021
+|estimate= 
+|estref=
+|align-fn=center
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census/decade.html|title=Decennial Census by Decade|website=[[United States Census Bureau]]|access-date=}}</ref><br> 1860–1870<ref name=1870CensusCA1>{{Cite web|title= 1870 Census of Population - Population of Civil Divisions less than Counties - California - Almeda County to Sutter County |url=https://www2.census.gov/library/publications/decennial/1870/population/1870a-12.pdf|website=[[United States Census Bureau]]}}</ref><ref name=1870CensusCA2>{{Cite web|title= 1870 Census of Population - Population of Civil Divisions less than Counties - California - Tehama County to Yuba County  |url=https://www2.census.gov/library/publications/decennial/1870/population/1870a-13.pdf|website=[[United States Census Bureau]]}}</ref> 1880-1890<ref name=1890CensusCA>{{Cite web|title= 1890 Census of Population - Population of California by Minor Civil Divisions |url=https://www2.census.gov/library/publications/decennial/1890/bulletins/demographics/134-population-of-ca.pdf|website=[[United States Census Bureau]]}}</ref><br> 1900<ref name=1900CensusCA>{{Cite web|title= 1900 Census of Population - Population of California by Counties and Minor Civil Divisions |url=https://www2.census.gov/library/publications/decennial/1900/bulletins/demographic/10-population-ca.pdf|website=[[United States Census Bureau]]}}</ref> 1910<ref name=1910CensusCA>{{Cite web|title=1910 Census of Population - Supplement for California|url=https://www2.census.gov/library/publications/decennial/1910/abstract/supplement-ca.pdf|website=[[United States Census Bureau]]|access-date=June 8, 2025|archive-date=August 23, 2024|archive-url=https://web.archive.org/web/20240823050629/https://www2.census.gov/library/publications/decennial/1910/abstract/supplement-ca.pdf|url-status=dead}}</ref> 1920<ref name=1920CensusCA>{{Cite web|title= 1920 Census of Population - Number of Inhabitants - California |url=https://www2.census.gov/library/publications/decennial/1920/bulletins/demographics/population-ca-number-of-inhabitants.pdf|website=[[United States Census Bureau]]}}</ref><br> 1930<ref name=1930CensusCA>{{Cite web|title= 1930 Census of Population - Number and Distribution of Inhabitants - California |url=https://www2.census.gov/library/publications/decennial/1930/population-volume-1/03815512v1ch03.pdf|website=[[United States Census Bureau]]}}</ref> 1940<ref name=1940CensusCA>{{Cite web|title= 1940 Census of Population - Number of Inhabitants - California |url=https://www2.census.gov/library/publications/decennial/1940/population-volume-1/33973538v1ch03.pdf|website=[[United States Census Bureau]]}}</ref> 1950<ref name=1950CensusCA>{{Cite web|title= 1950 Census of Population - Number of Inhabitants - California |url=https://www2.census.gov/library/publications/decennial/1950/population-volume-1/vol-01-08.pdf|website=[[United States Census Bureau]]}}</ref><br> 1960<ref name=1960CensusCA>{{Cite web|title= 1960 Census of Population - General population Characteristics - California |url=https://www2.census.gov/library/publications/decennial/1960/population-volume-1/vol-01-06-d.pdf|website=[[United States Census Bureau]]}}</ref> 1970<ref name=1970CensusCA>{{Cite web|title= 1970 Census of Population - Number of Inhabitants - California |url=https://www2.census.gov/prod2/decennial/documents/1970a_ca1-01.pdf|website=[[United States Census Bureau]]}}</ref> 1980<ref name=1980CensusCA>{{Cite web|title= 1980 Census of Population - Number of Inhabitants - California |url=https://www2.census.gov/prod2/decennial/documents/1980a_caAB-01.pdf|website=[[United States Census Bureau]]}}</ref><br> 1990<ref name=1990CensusCA>{{Cite web|title= 1990 Census of Population - Population and Housing Unit Counts - California |url=https://www2.census.gov/prod2/cen1990/cph2/cph-2-6.pdf|website=[[United States Census Bureau]]}}</ref>
+2000<ref name=2000CensusCA>{{Cite web|title= 2000 Census of Population - Population and Housing Unit Counts - California |url=https://www2.census.gov/library/publications/2003/dec/phc-3-6.pdf|website=[[United States Census Bureau]]}}</ref> 2010<ref name=2010CensusCA>{{Cite web|title= 2010 Census of Population - Population and Housing Unit Counts - California |url=https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-6.pdf|website=[[United States Census Bureau]]}}</ref><br> 
+}}
+
+Miranda first appeared as a [[census designated place]] in the [[2010 U.S. census]].<ref name=2010CensusCA/>
+
+
+{| class="wikitable sortable collapsible" style="font-size: 90%;"
+|+ Race and Ethnicity
+! Racial and ethnic composition
+! 2010<ref name=datacensus2010p2>{{cite web|url=https://data.census.gov/table?g=1600000US0648060&y=2010&d=DEC+Redistricting+Data+(PL+94-171)&tid=DECENNIALPL2010.P2|publisher=US Census Bureau|title=2010: DEC Redistricting Data (PL 94-171)}}</ref>
+! 2020<ref name=datacensus2020p2>{{cite web|url=https://data.census.gov/table?g=1600000US0648060&y=2020&d=DEC+Redistricting+Data+(PL+94-171)&tid=DECENNIALPL2020.P2|publisher=US Census Bureau|title=2020: DEC Redistricting Data (PL 94-171)}}</ref>
+|-
+! [[Non-Hispanic whites|White (non-Hispanic)]]
+| 77.5%
+| 73.7%
+|-
+! [[Hispanic and Latino Americans|Hispanic or Latino (of any race)]]
+| 14.42%
+| 15.42%
+|-
+! [[Multiracial American|Two or more races (non-Hispanic)]]
+| 4.42%
+| 5.9%
+|-
+! [[African American|Black or African American (non-Hispanic)]]
+| 0.38%
+| 2.04%
+|-
+! [[Native Americans in the United States|Native American (non-Hispanic)]]
+| 2.31%
+| 1.81%
+|-
+! [[Asian American|Asian (non-Hispanic)]]
+| 0.77%
+| 0.68%
+|-
+! Other (non-Hispanic)
+| 0.0%
+| 0.45%
+|-
+! [[Pacific Islander Americans|Pacific Islander (non-Hispanic)]]
+| 0.19%
+| 0.0%
+|}
+
+===2020===
+The [[2020 United States census]] reported that Miranda had a population of 441. The population density was {{convert|295.2|PD/sqmi|PD/km2|sp=us|adj=off}}. The racial makeup of Miranda was 341 (77.3%) [[White Americans|White]], 9 (2.0%) [[African Americans|African American]], 8 (1.8%) [[Native Americans in the United States|Native American]], 3 (0.7%) [[Asian Americans|Asian]], 0 (0.0%) [[Pacific Islander Americans|Pacific Islander]], 36 (8.2%) from [[Race (United States Census)|other races]], and 44 (10.0%) from two or more races. [[Hispanic and Latino Americans|Hispanic or Latino]] of any race were 68 persons (15.4%).<ref name=DP1>{{cite web |title=Miranda CDP, California; DP1: Profile of General Population and Housing Characteristics - 2020 Census of Population and Housing |url=https://data.census.gov/table/DECENNIALDP2020.DP1?g=1600000US0648060 |website=US Census Bureau |access-date=May 29, 2025}}</ref>
+
+The whole population lived in households. There were 199 households, out of which 44 (22.1%) had children under the age of 18 living in them, 65 (32.7%) were married-couple households, 9 (4.5%) were [[cohabitation|cohabiting]] couple households, 66 (33.2%) had a female householder with no partner present, and 59 (29.6%) had a male householder with no partner present. 69 households (34.7%) were one person, and 18 (9.0%) were one person aged 65 or older. The average household size was 2.22.<ref name=DP1/> There were 107 [[family (U.S. Census)|families]] (53.8% of all households).<ref>{{cite web |title=Miranda CDP, California; P16: Household Type - 2020 Census of Population and Housing |url=https://data.census.gov/table/DECENNIALDHC2020.P16?g=1600000US0648060 |website=US Census Bureau |access-date=May 29, 2025}}</ref>
+
+The age distribution was 83 people (18.8%) under the age of 18, 43 people (9.8%) aged 18 to 24, 136 people (30.8%) aged 25 to 44, 106 people (24.0%) aged 45 to 64, and 73 people (16.6%) who were 65{{nbsp}}years of age or older. The median age was 39.9{{nbsp}}years. For every 100 females, there were 92.6 males.<ref name=DP1/>
+
+There were 219 housing units at an average density of {{convert|146.6|/mi2|/km2|disp=preunit|units&nbsp;|units|}}, of which 199 (90.9%) were occupied. Of these, 86 (43.2%) were owner-occupied, and 113 (56.8%) were occupied by renters.<ref name=DP1/>
+
+===2010===
+The [[2010 United States census]]<ref>{{cite web|url=http://www.census.gov/2010census/popmap/ipmtext.php?fl=06:0648060|archive-url=https://archive.today/20140715031616/http://www.census.gov/2010census/popmap/ipmtext.php?fl=06:0648060|url-status=dead|archive-date=July 15, 2014|title=2010 Census Interactive Population Search: CA - Miranda CDP|publisher=U.S. Census Bureau|access-date=July 12, 2014}}</ref> reported that Miranda had a population of 520. The population density was {{convert|346.8|PD/sqmi|PD/km2|sp=us|adj=off}}. The racial makeup of Miranda was 439 (84.4%) [[White (U.S. Census)|White]], 4 (0.8%) [[African American (U.S. Census)|African American]], 13 (2.5%) [[Native American (U.S. Census)|Native American]], 4 (0.8%) [[Asian (U.S. Census)|Asian]], 1 (0.2%) [[Pacific Islander (U.S. Census)|Pacific Islander]], 31 (6.0%) from [[Race (United States Census)|other races]], and 28 (5.4%) from two or more races.  [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 75 persons (14.4%).
+
+The Census reported that 512 people (98.5% of the population) lived in households, 8 (1.5%) lived in non-institutionalized group quarters, and 0 (0%) were institutionalized.
+
+There were 243 households, out of which 74 (30.5%) had children under the age of 18 living in them, 88 (36.2%) were [[marriage|opposite-sex married couples]] living together, 30 (12.3%) had a female householder with no husband present, 20 (8.2%) had a male householder with no wife present.  There were 22 (9.1%) [[POSSLQ|unmarried opposite-sex partnerships]], and 1 (0.4%) [[same-sex partnerships|same-sex married couples or partnerships]]. 92 households (37.9%) were made up of individuals, and 19 (7.8%) had someone living alone who was 65 years of age or older. The average household size was 2.11.  There were 138 [[family (U.S. Census)|families]] (56.8% of all households); the average family size was 2.72.
+
+The population was spread out, with 117 people (22.5%) under the age of 18, 31 people (6.0%) aged 18 to 24, 127 people (24.4%) aged 25 to 44, 185 people (35.6%) aged 45 to 64, and 60 people (11.5%) who were 65 years of age or older.  The median age was 41.3 years. For every 100 females, there were 94.0 males.  For every 100 females age 18 and over, there were 89.2 males.
+
+There were 265 housing units at an average density of {{convert|176.7|/sqmi|/km2|sp=us|adj=off}}, of which 243 were occupied, of which 134 (55.1%) were owner-occupied, and 109 (44.9%) were occupied by renters. The homeowner vacancy rate was 0.7%; the rental vacancy rate was 0%.  291 people (56.0% of the population) lived in owner-occupied housing units and 221 people (42.5%) lived in rental housing units.
+
+===2000===
+According to the [[U.S. Census Bureau]],<ref>[http://factfinder.census.gov/servlet/SAFFFacts?_event=ChangeGeoContext&geo_id=86000US95553&_geoContext=01000US |04000US06|05000US06023&_street=&_county=&_cityTown=&_state=04000US06&_zip=95553&_lang=en&_sse=on&ActiveGeoDiv=geoSelect&_useEV=&pctxt=fph&pgsl=010&_submenuId=factsheet_1&ds_name=DEC_2000_SAFF&_ci_nbr=null&qr_name=null&reg=null%3Anull&_keyword=&_industry= 2000 U.S. Census]{{Dead link|date=March 2020 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> at about the year 2000, Miranda's total population was approximately 857. This figure, however, encompasses a much larger geographic area than Miranda proper. The official town population listed on the Miranda welcome sign is significantly lower. Only 5.6% were under 5 years of age, while 75.4% were over 18 and 8.3% over 65. A marginally high 14.7% of those over 18 were [[Veteran|civilian veterans]]. Of those over age 5, 24.6% were of disability status. Majorly of one race (97.3%), Miranda is home to 91.8% White (unspecified origin), 0.5% African American or Black, 2.9% American Indian or Alaskan Native, 0.6% Asian, 0.1% Native Hawaiian or Other Pacific Islander, 1.4% of some other race, and 4.6% Hispanic or Latino. Median household income was $17,422, while median family income was slightly higher at $21,146. Nearly one third (29.4%) of the population as individuals were below the poverty line. Total occupied housing units were 391 out of 505 total units, leaving 114 vacancies. Median value of single-owner occupied homes was $114,400.
+

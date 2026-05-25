@@ -1,0 +1,16 @@
+{
+  "article": "Waucoma,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/82650/Waucoma__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f45c549c67ac52d3294bf7868a60643b002cf23c6dac62270a118b9e4b8bb54a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f45c549c67ac52d3294bf7868a60643b002cf23c6dac62270a118b9e4b8bb54a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/82650/Waucoma__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "82650",
+  "timestamp": "2026-05-24T23:42:10.078579Z",
+  "version": 1
+}

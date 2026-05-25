@@ -1,0 +1,16 @@
+{
+  "article": "Palmyra,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/57329/Palmyra__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b0a301e802d66f5fbe2d0f3cc59b6e7de0e1fb4d32f423a835173ba4ba1e7a8a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b0a301e802d66f5fbe2d0f3cc59b6e7de0e1fb4d32f423a835173ba4ba1e7a8a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/57329/Palmyra__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "57329",
+  "timestamp": "2026-05-24T23:38:55.982187Z",
+  "version": 1
+}

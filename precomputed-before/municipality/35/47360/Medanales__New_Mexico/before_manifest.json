@@ -1,0 +1,16 @@
+{
+  "article": "Medanales,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/47360/Medanales__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1fb92e69ed6524adc988353efe0c8525d18cda20246242996bf060a3d754a3d1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1fb92e69ed6524adc988353efe0c8525d18cda20246242996bf060a3d754a3d1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/47360/Medanales__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "47360",
+  "timestamp": "2026-05-24T23:58:41.284801Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Triplett,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/73870/Triplett__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "91bbf8688091824b02a2129abaaf73a242a6e61e6b6d5aeab90d21380a831b61",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "91bbf8688091824b02a2129abaaf73a242a6e61e6b6d5aeab90d21380a831b61",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/73870/Triplett__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "73870",
+  "timestamp": "2026-05-24T23:53:54.200398Z",
+  "version": 1
+}

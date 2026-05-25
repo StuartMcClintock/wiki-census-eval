@@ -1,0 +1,16 @@
+{
+  "article": "Charlack,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/13330/Charlack__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b09a966571632d3d9d0b5fc0dc050da2efa4e07ea2c608f6a10a11992b7ff9bc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b09a966571632d3d9d0b5fc0dc050da2efa4e07ea2c608f6a10a11992b7ff9bc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/13330/Charlack__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "13330",
+  "timestamp": "2026-05-24T23:50:53.760577Z",
+  "version": 1
+}

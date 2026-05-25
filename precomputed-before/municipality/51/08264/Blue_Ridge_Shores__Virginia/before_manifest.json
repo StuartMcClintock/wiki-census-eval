@@ -1,0 +1,16 @@
+{
+  "article": "Blue_Ridge_Shores,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/08264/Blue_Ridge_Shores__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fd4f944e1bb44b0f267eaf1e59517437ecb9e40d564ecdcce08e9520f898f14a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4df7d78df8617ee9cac9e8572e8effe0e4f90588ac5b018968adb33775194447",
+  "reason": "the demographics section text changed since precomputation",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/08264/Blue_Ridge_Shores__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "mismatch",
+  "target_fips": "08264",
+  "timestamp": "2026-05-25T00:17:36.414863Z",
+  "version": 1
+}

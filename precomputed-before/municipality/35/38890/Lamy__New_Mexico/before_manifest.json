@@ -1,0 +1,16 @@
+{
+  "article": "Lamy,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/38890/Lamy__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8dcba01b606036c6a11181966ad167a8e369c955c6583f0f2d5f2043e7f3a1fc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8dcba01b606036c6a11181966ad167a8e369c955c6583f0f2d5f2043e7f3a1fc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/38890/Lamy__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "38890",
+  "timestamp": "2026-05-24T23:58:37.176440Z",
+  "version": 1
+}

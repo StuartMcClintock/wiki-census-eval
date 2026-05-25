@@ -1,0 +1,16 @@
+{
+  "article": "Bowerston,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/07916/Bowerston__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a696cbbe49c0b77f7fc0b16546cdedc6a733b17680236e81fed412a35430075b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a696cbbe49c0b77f7fc0b16546cdedc6a733b17680236e81fed412a35430075b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/07916/Bowerston__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "07916",
+  "timestamp": "2026-05-25T00:03:37.016180Z",
+  "version": 1
+}

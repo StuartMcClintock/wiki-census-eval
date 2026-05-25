@@ -1,0 +1,16 @@
+{
+  "article": "Norbourne_Estates,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/56550/Norbourne_Estates__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "873b7b8ed56f79f6cac0912040583ec5ac019ad2e23629f2721ee90df1bd6dfd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "873b7b8ed56f79f6cac0912040583ec5ac019ad2e23629f2721ee90df1bd6dfd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/56550/Norbourne_Estates__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "56550",
+  "timestamp": "2026-05-24T23:44:14.266128Z",
+  "version": 1
+}

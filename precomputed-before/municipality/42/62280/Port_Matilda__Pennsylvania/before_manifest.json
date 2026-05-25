@@ -1,0 +1,16 @@
+{
+  "article": "Port_Matilda,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/62280/Port_Matilda__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7d82300db8ca48416f73ea85a8825b7c973d8816d615303d944c253dffb78e3f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7d82300db8ca48416f73ea85a8825b7c973d8816d615303d944c253dffb78e3f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/62280/Port_Matilda__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "62280",
+  "timestamp": "2026-05-25T00:08:32.860602Z",
+  "version": 1
+}

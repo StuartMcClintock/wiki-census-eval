@@ -1,0 +1,16 @@
+{
+  "article": "Halifax,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/32032/Halifax__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d98018b829b85d7c0942b9e80aec060a65fe4efdec0e1a2af2e29f3cee0cfcaf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d98018b829b85d7c0942b9e80aec060a65fe4efdec0e1a2af2e29f3cee0cfcaf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/32032/Halifax__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "32032",
+  "timestamp": "2026-05-25T00:07:20.967287Z",
+  "version": 1
+}

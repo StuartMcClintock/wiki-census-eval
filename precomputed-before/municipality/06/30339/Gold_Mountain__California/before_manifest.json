@@ -1,0 +1,16 @@
+{
+  "article": "Gold_Mountain,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/30339/Gold_Mountain__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d96537465bae00ca301c2928a2da958d4eceef96a5d156cdfc32cf06f554b0ae",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d96537465bae00ca301c2928a2da958d4eceef96a5d156cdfc32cf06f554b0ae",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/30339/Gold_Mountain__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "30339",
+  "timestamp": "2026-05-24T23:34:25.694985Z",
+  "version": 1
+}

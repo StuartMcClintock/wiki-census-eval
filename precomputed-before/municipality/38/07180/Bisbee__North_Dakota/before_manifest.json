@@ -1,0 +1,16 @@
+{
+  "article": "Bisbee,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/07180/Bisbee__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8e741aa07ab3e34728b406b676897ddc393f15acbb745622e52754370240ef2f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8e741aa07ab3e34728b406b676897ddc393f15acbb745622e52754370240ef2f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/07180/Bisbee__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "07180",
+  "timestamp": "2026-05-25T00:02:35.009899Z",
+  "version": 1
+}

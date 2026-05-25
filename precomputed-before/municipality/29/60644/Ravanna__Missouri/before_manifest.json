@@ -1,0 +1,16 @@
+{
+  "article": "Ravanna,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/60644/Ravanna__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "376a6dbfd85b8eaa44bc628404388f753e4fb352d098cb794c72e04119a483f2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "376a6dbfd85b8eaa44bc628404388f753e4fb352d098cb794c72e04119a483f2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/60644/Ravanna__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "60644",
+  "timestamp": "2026-05-24T23:53:44.815670Z",
+  "version": 1
+}

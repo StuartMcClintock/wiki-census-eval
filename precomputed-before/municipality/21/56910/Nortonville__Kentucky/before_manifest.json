@@ -1,0 +1,16 @@
+{
+  "article": "Nortonville,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/56910/Nortonville__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a4bdec97f789ae6631db04c9740d9c2224966c4c2c2f9b4c290534bb9342b7f0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a4bdec97f789ae6631db04c9740d9c2224966c4c2c2f9b4c290534bb9342b7f0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/56910/Nortonville__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "56910",
+  "timestamp": "2026-05-24T23:44:14.563643Z",
+  "version": 1
+}

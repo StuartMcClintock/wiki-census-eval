@@ -1,0 +1,16 @@
+{
+  "article": "North_Spearfish,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/45715/North_Spearfish__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "540f536cc9f553941ca933394f9e2c2160af7ec015a9dcb079a5f80104f15a77",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "540f536cc9f553941ca933394f9e2c2160af7ec015a9dcb079a5f80104f15a77",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/45715/North_Spearfish__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "45715",
+  "timestamp": "2026-05-25T00:11:05.669518Z",
+  "version": 1
+}

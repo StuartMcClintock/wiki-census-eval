@@ -1,0 +1,16 @@
+{
+  "article": "Crystal_Springs,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/16690/Crystal_Springs__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "99fe642c4d7d0ec730dcf6953f3ec57c98c6b57935047e899234323fc847d8a0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "99fe642c4d7d0ec730dcf6953f3ec57c98c6b57935047e899234323fc847d8a0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/16690/Crystal_Springs__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "16690",
+  "timestamp": "2026-05-24T23:33:26.358619Z",
+  "version": 1
+}

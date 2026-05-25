@@ -1,0 +1,16 @@
+{
+  "article": "Snow_Shoe,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/71600/Snow_Shoe__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d712ee5d87618051c263770a62840662753c5d6412855d37ef57cc603a133bee",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d712ee5d87618051c263770a62840662753c5d6412855d37ef57cc603a133bee",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/71600/Snow_Shoe__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "71600",
+  "timestamp": "2026-05-25T00:09:06.821568Z",
+  "version": 1
+}

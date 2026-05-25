@@ -1,0 +1,16 @@
+{
+  "article": "Chapmanville,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/14524/Chapmanville__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a67858a6e7bb07772cd611354e71db5e2199b8481b2fbf666d5326a9600582d4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a67858a6e7bb07772cd611354e71db5e2199b8481b2fbf666d5326a9600582d4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/14524/Chapmanville__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "14524",
+  "timestamp": "2026-05-25T00:21:00.517063Z",
+  "version": 1
+}

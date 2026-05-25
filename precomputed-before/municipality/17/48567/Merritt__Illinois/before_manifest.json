@@ -1,0 +1,16 @@
+{
+  "article": "Merritt,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/48567/Merritt__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b704ae0a9d0a769108e0d07ec9a8ca244d128e06323b2ff17c947b70df26eb83",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b704ae0a9d0a769108e0d07ec9a8ca244d128e06323b2ff17c947b70df26eb83",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/48567/Merritt__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "48567",
+  "timestamp": "2026-05-24T23:38:35.023528Z",
+  "version": 1
+}

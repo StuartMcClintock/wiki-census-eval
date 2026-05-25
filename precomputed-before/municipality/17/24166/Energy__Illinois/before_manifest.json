@@ -1,0 +1,16 @@
+{
+  "article": "Energy,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/24166/Energy__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "49b779da032be7f6d9de037802c62e1b0831365f5dc2bc7a06789fbf740af137",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "49b779da032be7f6d9de037802c62e1b0831365f5dc2bc7a06789fbf740af137",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/24166/Energy__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "24166",
+  "timestamp": "2026-05-24T23:38:11.009966Z",
+  "version": 1
+}

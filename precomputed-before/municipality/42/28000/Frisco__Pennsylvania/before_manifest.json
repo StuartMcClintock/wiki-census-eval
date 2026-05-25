@@ -1,0 +1,16 @@
+{
+  "article": "Frisco,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/28000/Frisco__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d12de2e8aedd381a481637a2bb53634ba9e0ec06518358faaa3b4cf0469df538",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d12de2e8aedd381a481637a2bb53634ba9e0ec06518358faaa3b4cf0469df538",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/28000/Frisco__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "28000",
+  "timestamp": "2026-05-25T00:07:13.221094Z",
+  "version": 1
+}

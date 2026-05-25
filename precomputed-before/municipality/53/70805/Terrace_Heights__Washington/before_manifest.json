@@ -1,0 +1,16 @@
+{
+  "article": "Terrace_Heights,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/70805/Terrace_Heights__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8e2e3df42b718fdb3a7417c315dc824b0df042752b02ec3ba6c5d0ca909a6f50",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8e2e3df42b718fdb3a7417c315dc824b0df042752b02ec3ba6c5d0ca909a6f50",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/70805/Terrace_Heights__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "70805",
+  "timestamp": "2026-05-25T00:20:35.411566Z",
+  "version": 1
+}

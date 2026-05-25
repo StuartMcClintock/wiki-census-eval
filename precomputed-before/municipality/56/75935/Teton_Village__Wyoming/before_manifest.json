@@ -1,0 +1,16 @@
+{
+  "article": "Teton_Village,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/75935/Teton_Village__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b826d308bb612e538a02b7e9a50bf9e471b994f8ca58cfb20793d9b3ffca68d5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b826d308bb612e538a02b7e9a50bf9e471b994f8ca58cfb20793d9b3ffca68d5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/75935/Teton_Village__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "75935",
+  "timestamp": "2026-05-25T00:23:24.622741Z",
+  "version": 1
+}

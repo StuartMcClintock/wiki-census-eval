@@ -1,0 +1,16 @@
+{
+  "article": "Geyser,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/30550/Geyser__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cd0f39075530a0fe37c97abf420b8982e0cad6ce9218a49a324c22e5fdcdda97",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cd0f39075530a0fe37c97abf420b8982e0cad6ce9218a49a324c22e5fdcdda97",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/30550/Geyser__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "30550",
+  "timestamp": "2026-05-24T23:54:26.620214Z",
+  "version": 1
+}

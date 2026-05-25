@@ -1,0 +1,16 @@
+{
+  "article": "Concord,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/19168/Concord__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0c4e35a309d1f9ff057211b897f6035c49303094e9f0c04e65c89ee8b4545842",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0c4e35a309d1f9ff057211b897f6035c49303094e9f0c04e65c89ee8b4545842",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/19168/Concord__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "19168",
+  "timestamp": "2026-05-24T23:36:32.795355Z",
+  "version": 1
+}

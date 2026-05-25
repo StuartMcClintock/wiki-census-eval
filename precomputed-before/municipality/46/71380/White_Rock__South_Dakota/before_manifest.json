@@ -1,0 +1,16 @@
+{
+  "article": "White_Rock,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/71380/White_Rock__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e8207eae3ca20089b3d6443589f2e23b1f0702f7a92ee2c1eb1b1cba4ae17453",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e8207eae3ca20089b3d6443589f2e23b1f0702f7a92ee2c1eb1b1cba4ae17453",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/71380/White_Rock__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "71380",
+  "timestamp": "2026-05-25T00:14:28.936124Z",
+  "version": 1
+}

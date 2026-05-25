@@ -1,0 +1,106 @@
+==Demographics==
+{{US Census population
+| 1890 = 255
+| 1980 = 359
+| 1990 = 268
+| 2000 = 214
+| 2010 = 150
+| 2020 = 122
+| estyear = 2025
+| estimate = 110
+| estref = {{decrease}}
+| footnote = U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2015}}</ref>
+}}
+
+===2020 census===
+{| class="wikitable" style="text-align:center;"
+|+'''Haynes, Arkansas – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004 Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Haynes town, Arkansas |url=https://data.census.gov/table/DECENNIALSF12000.P004?g=160XX00US0530880|website=[[United States Census Bureau]]}}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2 Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Haynes town, Arkansas |url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US0530880&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]]}}</ref>
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web|title=P2 Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Haynes town, Arkansas |url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US0530880&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]]}}</ref>
+!% 2000
+!% 2010
+!{{partial|2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|32
+|16
+|style='background: #ffffe6; |14
+|14.95%
+|10.67%
+|style='background: #ffffe6; |11.48%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|182
+|134
+|style='background: #ffffe6; |103
+|85.05%
+|89.33%
+|style='background: #ffffe6; |84.43%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Race and ethnicity in the United States census|Some Other Race]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Multiracial Americans|Mixed Race or Multi-Racial]] (NH)
+|0
+|0
+|style='background: #ffffe6; |1
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.82%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|0
+|0
+|style='background: #ffffe6; |4
+|0.00%
+|0.00%
+|style='background: #ffffe6; |3.28%
+|-
+|'''Total'''
+|'''214'''
+|'''150'''
+|style='background: #ffffe6; |'''122'''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+As of the [[census]]<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|accessdate=January 31, 2008|title=U.S. Census website}}</ref> of 2000, there were 214 people, 71 households, and 51 families residing in the town. The [[population density]] was {{convert|223.3|/km2|/mi2|disp=preunit|people|people|abbr=on}}. There were 74 housing units at an average density of {{convert|77.2|/km2|/mi2|disp=preunit|units|units|abbr=on}}. The racial makeup of the town was 14.95% [[Race (United States Census)|White]] and 85.05% [[Race (United States Census)|Black]] or [[Race (United States Census)|African American]].
+
+There were 71 households, out of which 31.0% had children under the age of 18 living with them, 50.7% were [[Marriage|married couples]] living together, 12.7% had a female householder with no husband present, and 26.8% were non-families. 23.9% of all households were made up of individuals, and 14.1% had someone living alone who was 65 years of age or older. The average household size was 3.01 and the average family size was 3.60.
+
+In the town, the population was spread out, with 36.4% under the age of 18, 4.7% from 18 to 24, 21.5% from 25 to 44, 22.4% from 45 to 64, and 15.0% who were 65 years of age or older. The median age was 36 years. For every 100 females, there were 89.4 males. For every 100 females age 18 and over, there were 97.1 males.
+
+The median income for a household in the town was $19,583, and the median income for a family was $21,250. Males had a median income of $22,188 versus $20,000 for females. The [[per capita income]] for the town was $8,057. About 30.0% of families and 42.1% of the population were below the [[poverty line]], including 54.4% of those under the age of eighteen and 50.0% of those 65 or over.
+

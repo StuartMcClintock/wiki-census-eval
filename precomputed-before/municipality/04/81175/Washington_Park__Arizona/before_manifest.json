@@ -1,0 +1,16 @@
+{
+  "article": "Washington_Park,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/81175/Washington_Park__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cbfbfb9a2a87cb7a024a56a1cd2f38e9154d7075c6e56f0e20bb36fad240f627",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cbfbfb9a2a87cb7a024a56a1cd2f38e9154d7075c6e56f0e20bb36fad240f627",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/81175/Washington_Park__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "81175",
+  "timestamp": "2026-05-24T23:33:14.168432Z",
+  "version": 1
+}

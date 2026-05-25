@@ -1,0 +1,16 @@
+{
+  "article": "Mizpah,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/43540/Mizpah__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3d0d7691cb66028e2eff745835e018f3eb333e2d8f06e3d9242aae66ae698aac",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3d0d7691cb66028e2eff745835e018f3eb333e2d8f06e3d9242aae66ae698aac",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/43540/Mizpah__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "43540",
+  "timestamp": "2026-05-24T23:49:22.027195Z",
+  "version": 1
+}

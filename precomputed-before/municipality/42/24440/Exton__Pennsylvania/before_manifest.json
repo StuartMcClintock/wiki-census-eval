@@ -1,0 +1,16 @@
+{
+  "article": "Exton,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/24440/Exton__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8f3d4ea0297ffdc4b926235313bf4c7fe3d5da46372819c5e28c154c2353d61f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8f3d4ea0297ffdc4b926235313bf4c7fe3d5da46372819c5e28c154c2353d61f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/24440/Exton__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "24440",
+  "timestamp": "2026-05-25T00:07:06.337338Z",
+  "version": 1
+}

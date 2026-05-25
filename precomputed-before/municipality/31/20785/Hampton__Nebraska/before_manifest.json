@@ -1,0 +1,16 @@
+{
+  "article": "Hampton,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/20785/Hampton__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8c0fa12f237014be552402ef33df28025eff38d1a5c9b43976678bd24aecefda",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8c0fa12f237014be552402ef33df28025eff38d1a5c9b43976678bd24aecefda",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/20785/Hampton__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "20785",
+  "timestamp": "2026-05-24T23:55:30.566831Z",
+  "version": 1
+}

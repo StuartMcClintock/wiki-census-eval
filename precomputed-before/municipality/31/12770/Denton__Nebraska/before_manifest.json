@@ -1,0 +1,16 @@
+{
+  "article": "Denton,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/12770/Denton__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "683f6c0f38fbf3273a630914c091efd27bc5a9ed9f1fa8134c05dbd65eff155c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "683f6c0f38fbf3273a630914c091efd27bc5a9ed9f1fa8134c05dbd65eff155c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/12770/Denton__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "12770",
+  "timestamp": "2026-05-24T23:55:22.120612Z",
+  "version": 1
+}

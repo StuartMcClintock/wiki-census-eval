@@ -1,0 +1,16 @@
+{
+  "article": "Conchas_Dam,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/17260/Conchas_Dam__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5e3225e67243602f0fa9c23ce4547794b3e83a4648b8124b8a1a0f180b77daf2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5e3225e67243602f0fa9c23ce4547794b3e83a4648b8124b8a1a0f180b77daf2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/17260/Conchas_Dam__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "17260",
+  "timestamp": "2026-05-24T23:58:26.305511Z",
+  "version": 1
+}

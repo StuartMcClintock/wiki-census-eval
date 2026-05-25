@@ -1,0 +1,16 @@
+{
+  "article": "Stateburg,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/69010/Stateburg__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7939c16d57e6d0e9a3e380bf827ed78fb8750f8cc5c83f051ebea9e363773318",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7939c16d57e6d0e9a3e380bf827ed78fb8750f8cc5c83f051ebea9e363773318",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/69010/Stateburg__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "69010",
+  "timestamp": "2026-05-25T00:10:23.582981Z",
+  "version": 1
+}

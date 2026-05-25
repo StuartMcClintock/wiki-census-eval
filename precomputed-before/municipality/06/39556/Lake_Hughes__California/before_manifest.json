@@ -1,0 +1,16 @@
+{
+  "article": "Lake_Hughes,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/39556/Lake_Hughes__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "011faf14e480d54db81f373314f250bfed87f157671d9237e96b80694b260667",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "011faf14e480d54db81f373314f250bfed87f157671d9237e96b80694b260667",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/39556/Lake_Hughes__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "39556",
+  "timestamp": "2026-05-24T23:34:33.233434Z",
+  "version": 1
+}

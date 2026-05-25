@@ -1,0 +1,120 @@
+==Demographics==
+{{Hidden begin|titlestyle=background:#ccccff|title=Presidential election results}}
+{| class="wikitable" style="float:right; font-size:95%;"
+|+ Precinct General Election Results<ref>{{cite web|url=https://www.sos.state.mn.us/elections-voting/election-results/|title=Office of the Minnesota Secretary of State - Election Results}}</ref>
+|- bgcolor=lightgrey
+! Year
+! [[Republican Party (United States)|Republican]]
+! [[Democratic Party (United States)|Democratic]]
+! [[Third Party (United States)|Third parties]]
+|-
+|  style="text-align:center;" {{Party shading/Republican}}|'''[[2020 United States presidential election|2020]]'''
+|  style="text-align:center;" {{Party shading/Republican}}|'''68.2%''' ''88''
+|  style="text-align:center;" {{Party shading/Democratic}}|31.0% ''40''
+|  style="text-align:center; background:honeyDew;"|0.8% ''1''
+|-
+|  style="text-align:center;" {{Party shading/Republican}}|'''[[2016 United States presidential election|2016]]'''
+|  style="text-align:center;" {{Party shading/Republican}}|'''65.3%''' ''66''
+|  style="text-align:center;" {{Party shading/Democratic}}|25.7% ''26''
+|  style="text-align:center; background:honeyDew;"|9.0% ''9''
+|-
+|  style="text-align:center;" {{Party shading/Democratic}}|'''[[2012 United States presidential election|2012]]'''
+|  style="text-align:center;" {{Party shading/Republican}}|45.7% ''53''
+|  style="text-align:center;" {{Party shading/Democratic}}|'''48.3%''' ''56''
+|  style="text-align:center; background:honeyDew;"|6.0% ''7''
+|-
+|  style="text-align:center;" {{Party shading/Democratic}}|'''[[2008 United States presidential election|2008]]'''
+|  style="text-align:center;" {{Party shading/Republican}}|39.6% ''53''
+|  style="text-align:center;" {{Party shading/Democratic}}|'''56.0%''' ''75''
+|  style="text-align:center; background:honeyDew;"|4.4% ''6''
+|-
+|  style="text-align:center;" {{Party shading/Democratic}}|'''[[2004 United States presidential election|2004]]'''
+|  style="text-align:center;" {{Party shading/Republican}}|46.8% ''74''
+|  style="text-align:center;" {{Party shading/Democratic}}|'''47.5%''' ''75''
+|  style="text-align:center; background:honeyDew;"|5.7% ''9''
+|-
+|  style="text-align:center;" {{Party shading/Republican}}|'''[[2000 United States presidential election|2000]]'''
+|  style="text-align:center;" {{Party shading/Republican}}|'''48.6%''' ''69''
+|  style="text-align:center;" {{Party shading/Democratic}}|42.3% ''60''
+|  style="text-align:center; background:honeyDew;"|9.1% ''13''
+|-
+|  style="text-align:center;" {{Party shading/Democratic}}|'''[[1996 United States presidential election|1996]]'''
+|  style="text-align:center;" {{Party shading/Republican}}|41.7% ''53''
+|  style="text-align:center;" {{Party shading/Democratic}}|'''47.2''' ''60''
+|  style="text-align:center; background:honeyDew;"|11.1% ''14''
+|-
+|  style="text-align:center;" {{Party shading/Democratic}}|'''[[1992 United States presidential election|1992]]'''
+|  style="text-align:center;" {{Party shading/Republican}}|27.1% ''42''
+|  style="text-align:center;" {{Party shading/Democratic}}|'''47.7%''' ''74''
+|  style="text-align:center; background:honeyDew;"|25.2% ''39''
+|-
+|  style="text-align:center;" {{Party shading/Democratic}}|'''[[1988 United States presidential election|1988]]'''
+|  style="text-align:center;" {{Party shading/Republican}}|46.9% ''69''
+|  style="text-align:center;" {{Party shading/Democratic}}|'''49.0%''' ''72''
+|  style="text-align:center; background:honeyDew;"|4.1% ''6''
+|-
+|  style="text-align:center;" {{Party shading/Democratic}}|'''[[1984 United States presidential election|1984]]'''
+|  style="text-align:center;" {{Party shading/Republican}}|45.3% ''78''
+|  style="text-align:center;" {{Party shading/Democratic}}|'''52.3%''' ''90''
+|  style="text-align:center; background:honeyDew;"|2.3% ''4''
+|-
+|  style="text-align:center;" {{Party shading/Democratic}}|'''[[1980 United States presidential election|1980]]'''
+|  style="text-align:center;" {{Party shading/Republican}}|35.0% ''70''
+|  style="text-align:center;" {{Party shading/Democratic}}|'''58.0%''' ''116''
+|  style="text-align:center; background:honeyDew;"|7.0% ''14''
+|-
+|  style="text-align:center;" {{Party shading/Democratic}}|'''[[1976 United States presidential election|1976]]'''
+|  style="text-align:center;" {{Party shading/Republican}}|29.0% ''51''
+|  style="text-align:center;" {{Party shading/Democratic}}|'''62.5%''' ''110''
+|  style="text-align:center; background:honeyDew;"|8.5% ''15''
+|-
+|  style="text-align:center;" {{Party shading/Democratic}}|'''[[1968 United States presidential election|1968]]'''
+|  style="text-align:center;" {{Party shading/Republican}}|45.5% ''61''
+|  style="text-align:center;" {{Party shading/Democratic}}|'''48.5%''' ''65''
+|  style="text-align:center; background:honeyDew;"|6.0% ''8''
+|-
+|  style="text-align:center;" {{Party shading/Democratic}}|'''[[1964 United States presidential election|1964]]'''
+|  style="text-align:center;" {{Party shading/Republican}}|24.5% ''35''
+|  style="text-align:center;" {{Party shading/Democratic}}|'''73.4%''' ''105''
+|  style="text-align:center; background:honeyDew;"|2.1% ''3''
+|-
+|  style="text-align:center;" {{Party shading/Democratic}}|'''[[1960 United States presidential election|1960]]'''
+|  style="text-align:center;" {{Party shading/Republican}}|36.7% ''54''
+|  style="text-align:center;" {{Party shading/Democratic}}|'''60.5%''' ''89''
+|  style="text-align:center; background:honeyDew;"|2.8% ''4''
+|}
+
+{{Hidden end}}
+
+{{US Census population
+|1910= 139
+|1920= 252
+|1930= 279
+|1940= 312
+|1950= 340
+|1960= 283
+|1970= 285
+|1980= 353
+|1990= 277
+|2000= 270
+|2010= 292
+|2020= 276
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2015}}</ref><br>2020 Census<ref name="2020 Census (City)"/>
+}}
+
+===2010 census===
+As of the [[census]]<ref name ="wwwcensusgov">{{cite web|title=U.S. Census website|url=https://www.census.gov|publisher=[[United States Census Bureau]]|accessdate=November 13, 2012}}</ref> of 2010, there were 292 people, 128 households, and 68 families residing in the city. The [[population density]] was {{convert|104.3|PD/sqmi|PD/km2|1}}. There were 141 housing units at an average density of {{convert|50.4|/sqmi|/km2|1}}. The racial makeup of the city was 96.2% [[White (U.S. Census)|White]], 1.7% [[Native American (U.S. Census)|Native American]], and 2.1% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 3.1% of the population.
+
+There were 128 households, of which 30.5% had children under the age of 18 living with them, 43.8% were [[Marriage|married couples]] living together, 7.8% had a female householder with no husband present, 1.6% had a male householder with no wife present, and 46.9% were non-families. 39.8% of all households were made up of individuals, and 11% had someone living alone who was 65 years of age or older. The average household size was 2.28 and the average family size was 3.18.
+
+The median age in the city was 35 years. 28.4% of residents were under the age of 18; 4% were between the ages of 18 and 24; 31.6% were from 25 to 44; 24.7% were from 45 to 64; and 11.3% were 65 years of age or older. The gender makeup of the city was 51.7% male and 48.3% female.
+
+===2000 census===
+At the 2000 [[census]],<ref name="GR2" /> there were 270 people, 125 households and 71 families in the city. The population density was {{convert|95.3|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 130 housing units at an average density of {{convert|45.9|/sqmi|/km2|sp=us|adj=off}}. The racial makeup of the city was 98.89% [[White (U.S. Census)|White]], 0.74% [[African American (U.S. Census)|African American]] and 0.37% [[Native American (U.S. Census)|Native American]].
+
+There were 125 households, of which 23.2% had children under the age of 18 living with them, 48.0% were [[Marriage|married couples]] living together, 7.2% had a female householder with no husband present, and 42.4% were non-families. 37.6% of all households were made up of individuals, and 23.2% had someone living alone who was 65 years of age or older. The average household size was 2.16 and the average family size was 2.89.
+
+The age distribution was 22.6% under the age of 18, 8.1% from 18 to 24, 24.4% from 25 to 44, 21.9% from 45 to 64, and 23.0% who were 65 years of age or older. The median age was 42 years. For every 100 females, there were 88.8 males. For every 100 females age 18 and over, there were 90.0 males.
+
+The median household income was $29,286, and the median family income was $43,438. Males had a median income of $27,500 versus $23,906 for females. The [[per capita income]] for the city was $17,506. About 1.6% of families and 8.5% of the population were below the [[poverty line]], including none of those under the age of eighteen and 17.6% of those 65 or over.
+

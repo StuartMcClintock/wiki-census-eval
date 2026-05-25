@@ -1,0 +1,16 @@
+{
+  "article": "Esperance,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/22255/Esperance__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "73598db348b8e86dc643abdc7683f2d9b6c25bf655dd04974e6bc0c4af78765e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "73598db348b8e86dc643abdc7683f2d9b6c25bf655dd04974e6bc0c4af78765e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/22255/Esperance__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "22255",
+  "timestamp": "2026-05-25T00:20:11.850364Z",
+  "version": 1
+}

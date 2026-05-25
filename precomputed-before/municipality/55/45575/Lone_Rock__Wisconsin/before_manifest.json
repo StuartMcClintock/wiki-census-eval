@@ -1,0 +1,16 @@
+{
+  "article": "Lone_Rock,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/45575/Lone_Rock__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "02469b00644bea57e5b592ffd8b35dd39d9a518ee3d51351e3ac3384c409fc81",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "02469b00644bea57e5b592ffd8b35dd39d9a518ee3d51351e3ac3384c409fc81",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/45575/Lone_Rock__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "45575",
+  "timestamp": "2026-05-25T00:22:21.454028Z",
+  "version": 1
+}

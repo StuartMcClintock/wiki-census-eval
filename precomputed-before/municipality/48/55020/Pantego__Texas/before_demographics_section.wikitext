@@ -1,0 +1,56 @@
+==Demographics==
+{{US Census population
+| 1950 = 646
+| 1960 = 238
+| 1970 = 1779
+| 1980 = 2431
+| 1990 = 2371
+| 2000 = 2318
+| 2010 = 2394
+| 2020 = 2568
+| estyear = 2021
+| estimate = 2528
+| estref = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse">{{cite web|url=https://www.census.gov/programs-surveys/popest/data/tables.2019.html|date=May 24, 2020|title=Population and Housing Unit Estimates|publisher=United States Census Bureau|access-date=May 27, 2020}}</ref> {{decrease}}
+| footnote = U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|access-date=June 4, 2015}}</ref>
+}}
+
+{| class="wikitable"
+|+'''Pantego racial composition as of 2020'''<ref>{{Cite web |title=Explore Census Data |url=https://data.census.gov/cedsci/table?g=1600000US4855020&tid=DECENNIALPL2020.P2 |access-date=May 22, 2022 |website=data.census.gov}}</ref><br /> (NH = Non-Hispanic){{efn|Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos can be of any race.<ref>https://www.census.gov/ {{nonspecific|date=August 2022}}</ref><ref>{{cite web |title=About the Hispanic Population and its Origin |url=https://www.census.gov/topics/population/hispanic-origin/about.html |website=www.census.gov |access-date=May 18, 2022}}</ref>}}
+!Race
+!Number
+!Percentage
+|-
+|[[Non-Hispanic or Latino whites|White]] (NH)
+|1,927
+|75.04%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] (NH)
+|144
+|5.61%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] (NH)
+|14
+|0.55%
+|-
+|[[Asian Americans|Asian]] (NH)
+|47
+|1.83%
+|-
+|Some other race (NH)
+|18
+|0.7%
+|-
+|[[Multiracial Americans|Mixed/multiracial]] (NH)
+|123
+|4.79%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]]
+|295
+|11.49%
+|-
+|'''Total'''
+|'''2,568'''
+|
+|}
+As of the [[2020 United States census]],  2,568 people, 1,064 households, and 672 families were residing in the town.
+

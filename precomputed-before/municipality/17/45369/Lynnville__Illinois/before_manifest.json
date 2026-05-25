@@ -1,0 +1,16 @@
+{
+  "article": "Lynnville,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/45369/Lynnville__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "398a511b5d8ea98e51000b5c6a2dfcd33feaca99e1b956b6b79509c086faaa45",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "398a511b5d8ea98e51000b5c6a2dfcd33feaca99e1b956b6b79509c086faaa45",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/45369/Lynnville__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "45369",
+  "timestamp": "2026-05-24T23:38:31.460447Z",
+  "version": 1
+}

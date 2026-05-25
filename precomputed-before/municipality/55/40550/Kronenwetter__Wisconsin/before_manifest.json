@@ -1,0 +1,16 @@
+{
+  "article": "Kronenwetter,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/40550/Kronenwetter__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9c7b5fc0e54fd295478d52855ef32ab78200bc0082e332f2ebabfb4d76ef4047",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9c7b5fc0e54fd295478d52855ef32ab78200bc0082e332f2ebabfb4d76ef4047",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/40550/Kronenwetter__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "40550",
+  "timestamp": "2026-05-25T00:22:17.008196Z",
+  "version": 1
+}

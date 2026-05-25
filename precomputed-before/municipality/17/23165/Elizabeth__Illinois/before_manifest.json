@@ -1,0 +1,16 @@
+{
+  "article": "Elizabeth,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/23165/Elizabeth__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2ec2dd44f06a806df739840bf3ccde4e581c91daa7f99f8669fd94134b78eac3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2ec2dd44f06a806df739840bf3ccde4e581c91daa7f99f8669fd94134b78eac3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/23165/Elizabeth__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "23165",
+  "timestamp": "2026-05-24T23:38:09.526476Z",
+  "version": 1
+}

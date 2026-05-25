@@ -1,0 +1,16 @@
+{
+  "article": "Buford,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/10156/Buford__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f2b81cbde6b637f1667faddac08d304c0e09f63aa94e14abf7ae017b7196053b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f2b81cbde6b637f1667faddac08d304c0e09f63aa94e14abf7ae017b7196053b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/10156/Buford__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "10156",
+  "timestamp": "2026-05-25T00:03:39.509191Z",
+  "version": 1
+}

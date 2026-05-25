@@ -1,0 +1,16 @@
+{
+  "article": "Vance,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/73510/Vance__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1242d51a39b12b462a08b584531b369d984eee7d415b2e9e2130a2c6d47da090",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1242d51a39b12b462a08b584531b369d984eee7d415b2e9e2130a2c6d47da090",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/73510/Vance__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "73510",
+  "timestamp": "2026-05-25T00:10:25.885027Z",
+  "version": 1
+}

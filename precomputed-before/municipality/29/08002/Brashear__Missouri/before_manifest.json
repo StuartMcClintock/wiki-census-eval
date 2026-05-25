@@ -1,0 +1,16 @@
+{
+  "article": "Brashear,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/08002/Brashear__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "eb9452514d9361398d4dbce2a0a2905c42a2fd94704f3b11f476cfef88b7a05a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "eb9452514d9361398d4dbce2a0a2905c42a2fd94704f3b11f476cfef88b7a05a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/08002/Brashear__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "08002",
+  "timestamp": "2026-05-24T23:50:49.503565Z",
+  "version": 1
+}

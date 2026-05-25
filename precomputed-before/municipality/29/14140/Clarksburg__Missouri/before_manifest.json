@@ -1,0 +1,16 @@
+{
+  "article": "Clarksburg,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/14140/Clarksburg__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5b263a15e10d1b49dc74a80eb362afa3ae20ad8a5097c36f295d5d2d27130366",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5b263a15e10d1b49dc74a80eb362afa3ae20ad8a5097c36f295d5d2d27130366",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/14140/Clarksburg__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "14140",
+  "timestamp": "2026-05-24T23:50:54.487740Z",
+  "version": 1
+}

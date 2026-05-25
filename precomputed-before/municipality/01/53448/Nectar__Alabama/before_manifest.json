@@ -1,0 +1,16 @@
+{
+  "article": "Nectar,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/53448/Nectar__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "940f368e00d6fe0675f9ee30ab4612c7c7dc718e60a7af3747eab02320286cf4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "940f368e00d6fe0675f9ee30ab4612c7c7dc718e60a7af3747eab02320286cf4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/53448/Nectar__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "53448",
+  "timestamp": "2026-05-24T23:32:05.956991Z",
+  "version": 1
+}

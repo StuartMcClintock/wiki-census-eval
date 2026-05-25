@@ -1,0 +1,16 @@
+{
+  "article": "Fort_Sumner,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/27340/Fort_Sumner__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b234ea8a533e6fc83badeb618a198ffc7f13461740b90c48572fe3bd5d4506c5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b234ea8a533e6fc83badeb618a198ffc7f13461740b90c48572fe3bd5d4506c5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/27340/Fort_Sumner__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "27340",
+  "timestamp": "2026-05-24T23:58:31.038115Z",
+  "version": 1
+}

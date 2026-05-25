@@ -1,0 +1,16 @@
+{
+  "article": "Westhampton_Beach,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/80181/Westhampton_Beach__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "96fe34be73b471e3ea723b1a7a3f77dbb528cc06b4153b879a3cd9bf5fdff351",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "96fe34be73b471e3ea723b1a7a3f77dbb528cc06b4153b879a3cd9bf5fdff351",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/80181/Westhampton_Beach__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "80181",
+  "timestamp": "2026-05-25T00:01:25.540041Z",
+  "version": 1
+}

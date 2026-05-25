@@ -1,0 +1,16 @@
+{
+  "article": "Swan_Valley,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/79120/Swan_Valley__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "875920e0a74e00a2543f6017897e836042b4cd2ad82cd631190df49dcac327fb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "875920e0a74e00a2543f6017897e836042b4cd2ad82cd631190df49dcac327fb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/79120/Swan_Valley__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "79120",
+  "timestamp": "2026-05-24T23:37:29.262775Z",
+  "version": 1
+}

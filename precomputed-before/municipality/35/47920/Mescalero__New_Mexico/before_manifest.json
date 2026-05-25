@@ -1,0 +1,16 @@
+{
+  "article": "Mescalero,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/47920/Mescalero__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "638d0be0260dc7a75c2140962dc133532a0f5a136770523d95ee37a1b9981f4f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "638d0be0260dc7a75c2140962dc133532a0f5a136770523d95ee37a1b9981f4f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/47920/Mescalero__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "47920",
+  "timestamp": "2026-05-24T23:58:41.474853Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Linwood,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/28245/Linwood__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8d69d65ac6b21ecdd5621c0c8716a06e3f7d50935b074b840b42798810f86c4c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8d69d65ac6b21ecdd5621c0c8716a06e3f7d50935b074b840b42798810f86c4c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/28245/Linwood__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "28245",
+  "timestamp": "2026-05-24T23:55:48.745278Z",
+  "version": 1
+}

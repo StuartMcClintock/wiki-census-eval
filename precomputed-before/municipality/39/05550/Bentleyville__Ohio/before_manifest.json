@@ -1,0 +1,16 @@
+{
+  "article": "Bentleyville,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/05550/Bentleyville__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bdf17b2eb94384d7eee39795b79681abb7417595b7b085e98d2997da25712d9a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bdf17b2eb94384d7eee39795b79681abb7417595b7b085e98d2997da25712d9a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/05550/Bentleyville__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "05550",
+  "timestamp": "2026-05-25T00:03:34.112648Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "San_Ardo,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/64476/San_Ardo__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a6d6f4de1ea57cda0ef01e9120037169651c455c2b76a5609bdae518c125866b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a6d6f4de1ea57cda0ef01e9120037169651c455c2b76a5609bdae518c125866b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/64476/San_Ardo__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "64476",
+  "timestamp": "2026-05-24T23:35:03.633590Z",
+  "version": 1
+}

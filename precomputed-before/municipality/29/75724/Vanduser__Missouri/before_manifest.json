@@ -1,0 +1,16 @@
+{
+  "article": "Vanduser,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/75724/Vanduser__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "33e3c04bab3896c2327e322bfb412aff912c3ce43163a55348e6ffdba81a0aeb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "33e3c04bab3896c2327e322bfb412aff912c3ce43163a55348e6ffdba81a0aeb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/75724/Vanduser__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "75724",
+  "timestamp": "2026-05-24T23:53:55.386509Z",
+  "version": 1
+}

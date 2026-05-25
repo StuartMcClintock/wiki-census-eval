@@ -1,0 +1,16 @@
+{
+  "article": "Scottville,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/68406/Scottville__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f14312f33abd5d95b1b14c1ebd88551c43ff55c64a40d47f364c672599eccb03",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f14312f33abd5d95b1b14c1ebd88551c43ff55c64a40d47f364c672599eccb03",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/68406/Scottville__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "68406",
+  "timestamp": "2026-05-24T23:39:10.152023Z",
+  "version": 1
+}

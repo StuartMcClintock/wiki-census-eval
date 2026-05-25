@@ -1,0 +1,16 @@
+{
+  "article": "Upper_Red_Hook,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/76397/Upper_Red_Hook__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "53e117fe80b6a850ef273d0bcee84e5fbfa51edf0c61e7db427ffcfe796d048f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "53e117fe80b6a850ef273d0bcee84e5fbfa51edf0c61e7db427ffcfe796d048f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/76397/Upper_Red_Hook__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "76397",
+  "timestamp": "2026-05-25T00:01:21.458982Z",
+  "version": 1
+}

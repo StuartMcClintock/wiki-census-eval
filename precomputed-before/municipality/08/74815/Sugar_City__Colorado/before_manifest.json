@@ -1,0 +1,16 @@
+{
+  "article": "Sugar_City,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/74815/Sugar_City__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "46d60db9dd902d5b44b0322428d90fc43aca3a24b7dbd13f292243ba23045fd5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "46d60db9dd902d5b44b0322428d90fc43aca3a24b7dbd13f292243ba23045fd5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/74815/Sugar_City__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "74815",
+  "timestamp": "2026-05-24T23:35:42.088313Z",
+  "version": 1
+}

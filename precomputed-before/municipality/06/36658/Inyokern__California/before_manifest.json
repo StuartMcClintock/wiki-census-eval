@@ -1,0 +1,16 @@
+{
+  "article": "Inyokern,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/36658/Inyokern__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4b6bb2780e6ccf2bcf6ad93bc5f1047c671fe1090c487f2ef1def146d4dff24f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4b6bb2780e6ccf2bcf6ad93bc5f1047c671fe1090c487f2ef1def146d4dff24f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/36658/Inyokern__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "36658",
+  "timestamp": "2026-05-24T23:34:29.705245Z",
+  "version": 1
+}

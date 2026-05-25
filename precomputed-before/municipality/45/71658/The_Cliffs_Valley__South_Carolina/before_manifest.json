@@ -1,0 +1,16 @@
+{
+  "article": "The_Cliffs_Valley,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/71658/The_Cliffs_Valley__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "212b9dbcf01d6a043602c2ca8a624e8743733ae7c5c1d04a2896817934251dfd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "212b9dbcf01d6a043602c2ca8a624e8743733ae7c5c1d04a2896817934251dfd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/71658/The_Cliffs_Valley__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "71658",
+  "timestamp": "2026-05-25T00:10:24.638463Z",
+  "version": 1
+}

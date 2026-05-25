@@ -1,0 +1,16 @@
+{
+  "article": "Dry_Ridge,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/22660/Dry_Ridge__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e0627c0d6c859d49a68777e27883ef456d273f0d5450e5d5af53cc162ffd985b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e0627c0d6c859d49a68777e27883ef456d273f0d5450e5d5af53cc162ffd985b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/22660/Dry_Ridge__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "22660",
+  "timestamp": "2026-05-25T00:04:05.175443Z",
+  "version": 1
+}

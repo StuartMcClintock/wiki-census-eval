@@ -1,0 +1,16 @@
+{
+  "article": "Earlville,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/21523/Earlville__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "831d805aa1c0a17a3cc501de5b10f3c1cc06683cb049063a461081bb2113ca9b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "831d805aa1c0a17a3cc501de5b10f3c1cc06683cb049063a461081bb2113ca9b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/21523/Earlville__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "21523",
+  "timestamp": "2026-05-25T00:00:40.717206Z",
+  "version": 1
+}

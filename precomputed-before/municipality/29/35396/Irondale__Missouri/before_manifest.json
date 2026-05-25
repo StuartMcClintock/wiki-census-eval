@@ -1,0 +1,16 @@
+{
+  "article": "Irondale,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/35396/Irondale__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "53162a9ba9b0b9711bd5b221c9c1dd40bbf1b1ad2028fbdc02e875a272eb33a6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "53162a9ba9b0b9711bd5b221c9c1dd40bbf1b1ad2028fbdc02e875a272eb33a6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/35396/Irondale__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "35396",
+  "timestamp": "2026-05-24T23:53:21.590606Z",
+  "version": 1
+}

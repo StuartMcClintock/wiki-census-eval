@@ -1,0 +1,147 @@
+==Demographics==
+{{US Census population
+|1870= 1290
+|1880= 3310
+|1890= 8561
+|1900= 15654
+|1910= 19357
+|1920= 20879
+|1930= 19329
+|1940= 18326
+|1950= 16488
+|1960= 12337
+|1970= 8795
+|1980= 5634
+|1990= 4682
+|2000= 2912
+|2010= 2159
+|2020= 1721
+|footnote=Sources:<ref name="Census1960">{{cite web|title=Number of Inhabitants: Pennsylvania|url=http://www2.census.gov/prod2/decennial/documents/17216604v1p40ch02.pdf|work=18th Census of the United States|publisher=U.S. Census Bureau|access-date=22 November 2013}}</ref><ref name="Census1990">{{cite web|title=Pennsylvania: Population and Housing Unit Counts|url=https://www.census.gov/prod/cen1990/cph2/cph-2-40.pdf|publisher=U.S. Census Bureau|access-date=22 November 2013}}</ref><ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref><ref name="CensusPopEst">{{cite web|title=Annual Estimates of the Resident Population|url=https://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012-3.html|publisher=U.S. Census Bureau|access-date=22 November 2013|archive-url=https://web.archive.org/web/20131019235623/http://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012-3.html|archive-date=19 October 2013|url-status=dead}}</ref><ref name="2020Pop" /><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A42|title=Census Population API|publisher=United States Census Bureau|accessdate=Oct 12, 2022}}</ref>
+}}
+
+===2020 census===
+{| class="wikitable" style="text-align:center;"
+|+'''Braddock borough, Pennsylvania – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 1980<ref>{{Cite web |title=1980 census of population. Characteristics of the population. General Social and Economic Characteristic. Pennsylvania |url=https://www2.census.gov/library/publications/decennial/1980/volume-1/pennsylvania/1980censusofpopu80140un_bw.pdf |access-date=June 30, 2024}}</ref>
+!Pop 1990<ref>{{Cite web |title=Pennsylvania: 1990, Part 1 |url=https://www2.census.gov/library/publications/decennial/1990/cp-1/cp-1-40-1.pdf}}</ref>
+!Pop 2000<ref>{{Cite web |title=Pennsylvania: 2000 |url=https://www2.census.gov/library/publications/2002/dec/phc-1-40-pt1.pdf}}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2 Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Braddock borough, Pennsylvania|url=https://data.census.gov/cedsci/table?q=p2&g=1600000US4207992&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]]}}</ref>
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web|title=P2 Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Braddock borough, Pennsylvania|url=https://data.census.gov/cedsci/table?q=p2&g=1600000US4207992&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]]}}</ref>
+!% 1980
+!% 1990
+!% 2000
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|2,892
+|2,433
+|872
+|489
+|style='background: #ffffe6; |317
+|51.33%
+|51.96%
+|29.97%
+|22.65%
+|style='background: #ffffe6; |18.42%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|2,641
+|2,165
+|1,910
+|1,555
+|style='background: #ffffe6; |1,219
+|46.88%
+|46.24%
+|65.64%
+|72.02%
+|style='background: #ffffe6; |70.83%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|0
+|20
+|4
+|14
+|style='background: #ffffe6; |5
+|0.00%
+|0.43%
+|0.14%
+|0.65%
+|style='background: #ffffe6; |0.29%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|0
+|11
+|6
+|3
+|style='background: #ffffe6; |7
+|0.00%
+|0.23%
+|0.21%
+|0.14%
+|style='background: #ffffe6; |0.41%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|N/A
+|N/A
+|0
+|4
+|style='background: #ffffe6; |1
+|N/A
+|N/A
+|N/A
+|0.19%
+|style='background: #ffffe6; |0.06%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|18
+|9
+|9
+|5
+|style='background: #ffffe6; |13
+|0.32%
+|0.19%
+|0.31%
+|0.23%
+|style='background: #ffffe6; |0.76%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|N/A
+|N/A
+|67
+|49
+|style='background: #ffffe6; |117
+|N/A
+|N/A
+|2.30%
+|2.27%
+|style='background: #ffffe6; |6.80%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|83
+|44
+|44
+|40
+|style='background: #ffffe6; |42
+|1.47%
+|0.94%
+|1.51%
+|1.85%
+|style='background: #ffffe6; |2.44%
+|-
+|'''Total'''
+|'''5,634'''
+|'''4,682'''
+|'''2,910'''
+|'''2,159'''
+|style='background: #ffffe6; |'''1,721'''
+|'''100.00%'''
+|'''100.00%'''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+According to the [[American Community Survey]] in 2020, Braddock has an employment rate of 34.2%, a median household income of $23,050, 3.7% of the population has no health care coverage, with 10.7% of the population possessing a [[Bachelor's degree]] or higher.<ref>[https://www.census.gov/search-results.html?searchType=web&cssp=SERP&q=census%20of%20Braddock%20borough,%20Allegheny%20County,%20Pennsylvania], Braddock borough, Allegheny County, Pennsylvania, 2020 Census Data, retrieved November 14, 2022</ref>
+

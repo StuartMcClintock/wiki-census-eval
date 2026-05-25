@@ -1,0 +1,16 @@
+{
+  "article": "Denton,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/22388/Denton__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "daedb765716ab34dada774575070ab6e46c0a7c3ded561440b9f40ad8cd5ed8d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "daedb765716ab34dada774575070ab6e46c0a7c3ded561440b9f40ad8cd5ed8d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/22388/Denton__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "22388",
+  "timestamp": "2026-05-24T23:36:34.405587Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Farrell,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/24460/Farrell__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3e89862c27f7b764e24f680356c7bd0083f62c3cb27a416c63170d9cca2e7cd7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3e89862c27f7b764e24f680356c7bd0083f62c3cb27a416c63170d9cca2e7cd7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/24460/Farrell__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "24460",
+  "timestamp": "2026-05-24T23:50:09.771823Z",
+  "version": 1
+}

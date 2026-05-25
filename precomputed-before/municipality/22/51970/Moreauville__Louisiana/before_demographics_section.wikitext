@@ -1,0 +1,54 @@
+==Demographics==
+{{US Census population
+|align = left
+|1910= 728
+|1920= 867
+|1930= 600
+|1940= 815
+|1950= 835
+|1960= 815
+|1970= 807
+|1980= 853
+|1990= 919
+|2000= 922
+|2010= 929
+|2020= 984
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2015}}</ref>
+}}
+{| class="wikitable" style="text-align:right"
+|+Moreauville racial composition as of 2020<ref>{{Cite web|title=Explore Census Data|url=https://data.census.gov/cedsci/table?g=1600000US2251970&tid=DECENNIALPL2020.P2|access-date=December 29, 2021|website=data.census.gov}}</ref>
+!scope="col"| Race
+!scope="col"| Number
+!scope="col"| Percentage
+|-
+!scope="row"| [[White (U.S. Census)|White]] (non-Hispanic)
+| 517
+| 52.54%
+|-
+!scope="row"| [[African American (U.S. Census)|Black or African American]] (non-Hispanic)
+| 369
+| 37.5%
+|-
+!scope="row"| [[Native American (U.S. Census)|Native American]]
+| 15
+| 1.52%
+|-
+!scope="row"| [[Asian (U.S. Census)|Asian]]
+| 2
+| 0.2%
+|-
+!scope="row"| [[Pacific Islander (U.S. Census)|Pacific Islander]]
+| 1
+| 0.1%
+|-
+!scope="row"| [[Race (United States Census)|Other/Mixed]]
+| 57
+| 5.79%
+|-
+!scope="row"| [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]]
+| 23
+| 2.34%
+|}
+As of the [[2020 United States census]], there were 984 people, 416 households, and 255 families residing in the village.
+
+{{clear left}}

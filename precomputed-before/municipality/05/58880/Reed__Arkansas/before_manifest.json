@@ -1,0 +1,16 @@
+{
+  "article": "Reed,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/58880/Reed__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f83cbfeea7160380a88209fa406bb5d3ba2b8ad9af58b9ac6d113947ad793ecb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f83cbfeea7160380a88209fa406bb5d3ba2b8ad9af58b9ac6d113947ad793ecb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/58880/Reed__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "58880",
+  "timestamp": "2026-05-24T23:34:05.683948Z",
+  "version": 1
+}

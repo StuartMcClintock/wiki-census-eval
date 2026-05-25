@@ -1,0 +1,16 @@
+{
+  "article": "Northome,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/47122/Northome__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5066da1ae726c4bba0ed8ebc32e402c91b7cfddd7e7800634f6322b8a4808e7c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5066da1ae726c4bba0ed8ebc32e402c91b7cfddd7e7800634f6322b8a4808e7c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/47122/Northome__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "47122",
+  "timestamp": "2026-05-24T23:49:24.990098Z",
+  "version": 1
+}

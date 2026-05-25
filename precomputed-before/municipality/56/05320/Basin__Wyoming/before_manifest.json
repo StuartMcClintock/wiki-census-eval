@@ -1,0 +1,16 @@
+{
+  "article": "Basin,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/05320/Basin__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d621cd3f32aca5f8f4eddcfa368ac494d9533b59d2898cf3a4805cde52c8498e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d621cd3f32aca5f8f4eddcfa368ac494d9533b59d2898cf3a4805cde52c8498e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/05320/Basin__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "05320",
+  "timestamp": "2026-05-25T00:23:08.412362Z",
+  "version": 1
+}

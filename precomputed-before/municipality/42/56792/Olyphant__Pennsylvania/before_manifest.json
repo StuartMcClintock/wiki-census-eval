@@ -1,0 +1,16 @@
+{
+  "article": "Olyphant,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/56792/Olyphant__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "864870c19e0cad8db9ac9f6aff56f290e03de0ed9f25f0378991f638c1e7776e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "864870c19e0cad8db9ac9f6aff56f290e03de0ed9f25f0378991f638c1e7776e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/56792/Olyphant__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "56792",
+  "timestamp": "2026-05-25T00:08:23.174076Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Tyronza,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/70700/Tyronza__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "26d0bf3d21aef4f1b0b5f67082436cb0d45682309a033a228765778ca769ae92",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "26d0bf3d21aef4f1b0b5f67082436cb0d45682309a033a228765778ca769ae92",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/70700/Tyronza__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "70700",
+  "timestamp": "2026-05-24T23:34:11.831239Z",
+  "version": 1
+}

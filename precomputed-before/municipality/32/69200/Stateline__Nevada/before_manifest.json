@@ -1,0 +1,16 @@
+{
+  "article": "Stateline,_Nevada",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/32/69200/Stateline__Nevada/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "698085fa0dcd73f2a17a5ba79eacf810730fb06b82e3eeb45b11496dfd78a799",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "698085fa0dcd73f2a17a5ba79eacf810730fb06b82e3eeb45b11496dfd78a799",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/32/69200/Stateline__Nevada/manifest.json",
+  "state_fips": "32",
+  "status": "match",
+  "target_fips": "69200",
+  "timestamp": "2026-05-24T23:57:34.040022Z",
+  "version": 1
+}

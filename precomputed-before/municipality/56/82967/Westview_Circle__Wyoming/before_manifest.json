@@ -1,0 +1,16 @@
+{
+  "article": "Westview_Circle,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/82967/Westview_Circle__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "75295f8d63a7eab7511a9e9794fdb59561bc40e83bfcc6568f45774cf8a9f286",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "75295f8d63a7eab7511a9e9794fdb59561bc40e83bfcc6568f45774cf8a9f286",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/82967/Westview_Circle__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "82967",
+  "timestamp": "2026-05-25T00:23:25.727988Z",
+  "version": 1
+}

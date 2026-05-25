@@ -1,0 +1,16 @@
+{
+  "article": "Oak_Run,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/53140/Oak_Run__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c74c23c1c70e4af6741efad00de1e8b86392bc1b0238f5906767f6c99d29d62e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c74c23c1c70e4af6741efad00de1e8b86392bc1b0238f5906767f6c99d29d62e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/53140/Oak_Run__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "53140",
+  "timestamp": "2026-05-24T23:34:43.549226Z",
+  "version": 1
+}

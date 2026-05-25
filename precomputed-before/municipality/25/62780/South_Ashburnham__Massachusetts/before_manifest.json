@@ -1,0 +1,16 @@
+{
+  "article": "South_Ashburnham,_Massachusetts",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/25/62780/South_Ashburnham__Massachusetts/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a856b736e838f1146759a2fc0ee9a3aa3969efe8fb963017e36439c9e5cb380d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a856b736e838f1146759a2fc0ee9a3aa3969efe8fb963017e36439c9e5cb380d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/25/62780/South_Ashburnham__Massachusetts/manifest.json",
+  "state_fips": "25",
+  "status": "match",
+  "target_fips": "62780",
+  "timestamp": "2026-05-24T23:47:39.353101Z",
+  "version": 1
+}

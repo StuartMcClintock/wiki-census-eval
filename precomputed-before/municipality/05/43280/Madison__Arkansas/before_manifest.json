@@ -1,0 +1,16 @@
+{
+  "article": "Madison,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/43280/Madison__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3c6e6d45da3927e7ac4edf0ec9305fbbdf148bdbbb3ea2f084f09263faec0ce8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3c6e6d45da3927e7ac4edf0ec9305fbbdf148bdbbb3ea2f084f09263faec0ce8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/43280/Madison__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "43280",
+  "timestamp": "2026-05-24T23:33:51.925775Z",
+  "version": 1
+}

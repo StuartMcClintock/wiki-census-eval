@@ -1,0 +1,16 @@
+{
+  "article": "Powellsville,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/53680/Powellsville__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7d0bab072ea27ccd448c417f7b8e8fb9505c4ab5a5b5ddc32233ca4114619270",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7d0bab072ea27ccd448c417f7b8e8fb9505c4ab5a5b5ddc32233ca4114619270",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/53680/Powellsville__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "53680",
+  "timestamp": "2026-05-25T00:02:16.908474Z",
+  "version": 1
+}

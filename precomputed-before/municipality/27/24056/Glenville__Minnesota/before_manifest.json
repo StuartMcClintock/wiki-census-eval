@@ -1,0 +1,16 @@
+{
+  "article": "Glenville,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/24056/Glenville__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f517da0d342b13f83405a172872e8e1fd04178dfcf3c8a63bf0bb3d194d07fff",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f517da0d342b13f83405a172872e8e1fd04178dfcf3c8a63bf0bb3d194d07fff",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/24056/Glenville__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "24056",
+  "timestamp": "2026-05-24T23:49:02.697971Z",
+  "version": 1
+}

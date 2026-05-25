@@ -1,0 +1,16 @@
+{
+  "article": "Hartstown,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/32976/Hartstown__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "132731882ffd1b7f60f0bc01715e130315fec84363e0abee6c27a0bf4ee58c17",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "132731882ffd1b7f60f0bc01715e130315fec84363e0abee6c27a0bf4ee58c17",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/32976/Hartstown__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "32976",
+  "timestamp": "2026-05-25T00:07:22.624857Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Centertown,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/12380/Centertown__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "caa839522ef4379a4fbd3eb28814a86a3dbe67fdfe531c7f2418a8c3a25b56aa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "caa839522ef4379a4fbd3eb28814a86a3dbe67fdfe531c7f2418a8c3a25b56aa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/12380/Centertown__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "12380",
+  "timestamp": "2026-05-25T00:14:34.151976Z",
+  "version": 1
+}

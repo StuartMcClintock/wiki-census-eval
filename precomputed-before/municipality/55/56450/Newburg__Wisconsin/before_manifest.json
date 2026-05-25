@@ -1,0 +1,16 @@
+{
+  "article": "Newburg,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/56450/Newburg__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3b1eafccafc92a60eef78cb6b41a7043409f525edef586a4a566a2d270a7f018",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3b1eafccafc92a60eef78cb6b41a7043409f525edef586a4a566a2d270a7f018",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/56450/Newburg__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "56450",
+  "timestamp": "2026-05-25T00:22:28.858844Z",
+  "version": 1
+}

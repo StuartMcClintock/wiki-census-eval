@@ -1,0 +1,16 @@
+{
+  "article": "Carlton,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/10675/Carlton__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "58403fcf17428d7c7c7530240b5a3d6af3b4994d43555b931a2cc32d435a7971",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "58403fcf17428d7c7c7530240b5a3d6af3b4994d43555b931a2cc32d435a7971",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/10675/Carlton__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "10675",
+  "timestamp": "2026-05-24T23:42:26.019707Z",
+  "version": 1
+}

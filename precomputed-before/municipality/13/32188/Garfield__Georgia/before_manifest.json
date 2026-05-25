@@ -1,0 +1,16 @@
+{
+  "article": "Garfield,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/32188/Garfield__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b7dcc2937ce0552c0fa057179f0a0005d5de12f44387cedddde18f2f923a6887",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b7dcc2937ce0552c0fa057179f0a0005d5de12f44387cedddde18f2f923a6887",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/32188/Garfield__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "32188",
+  "timestamp": "2026-05-24T23:36:37.310547Z",
+  "version": 1
+}

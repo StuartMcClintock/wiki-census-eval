@@ -1,0 +1,16 @@
+{
+  "article": "Montague,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/49032/Montague__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cb3ffd547ab0348abbbf4afca082490592ddc325564fe0bb1bdd230fc65bf972",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cb3ffd547ab0348abbbf4afca082490592ddc325564fe0bb1bdd230fc65bf972",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/49032/Montague__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "49032",
+  "timestamp": "2026-05-25T00:16:03.317313Z",
+  "version": 1
+}

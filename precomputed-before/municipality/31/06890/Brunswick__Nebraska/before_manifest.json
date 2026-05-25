@@ -1,0 +1,16 @@
+{
+  "article": "Brunswick,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/06890/Brunswick__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c4a595aab2f08405f6125cc32df84e4ba5eb5fee6defded4989b9eb89861366e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c4a595aab2f08405f6125cc32df84e4ba5eb5fee6defded4989b9eb89861366e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/06890/Brunswick__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "06890",
+  "timestamp": "2026-05-24T23:55:14.965955Z",
+  "version": 1
+}

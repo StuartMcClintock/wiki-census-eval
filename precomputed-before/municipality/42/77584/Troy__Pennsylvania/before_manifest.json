@@ -1,0 +1,16 @@
+{
+  "article": "Troy,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/77584/Troy__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7a2d41b9d5907d3aac41c9f7784650f1bcbc2d084f7f8ba837eff33184e8f412",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7a2d41b9d5907d3aac41c9f7784650f1bcbc2d084f7f8ba837eff33184e8f412",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/77584/Troy__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "77584",
+  "timestamp": "2026-05-25T00:09:19.015061Z",
+  "version": 1
+}

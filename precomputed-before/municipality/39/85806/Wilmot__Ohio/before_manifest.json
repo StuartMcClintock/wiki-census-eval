@@ -1,0 +1,16 @@
+{
+  "article": "Wilmot,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/85806/Wilmot__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cda2ec769fe243b7baba21f29ce16fbf37a9af4398ebe27e5fcd419f9a392e6a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cda2ec769fe243b7baba21f29ce16fbf37a9af4398ebe27e5fcd419f9a392e6a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/85806/Wilmot__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "85806",
+  "timestamp": "2026-05-25T00:05:40.083285Z",
+  "version": 1
+}

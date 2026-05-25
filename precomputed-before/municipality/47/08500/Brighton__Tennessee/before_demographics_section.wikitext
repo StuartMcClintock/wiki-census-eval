@@ -1,0 +1,64 @@
+==Demographics==
+{{US Census population
+|1880= 104
+|1890= 214
+|1920= 265
+|1930= 297
+|1940= 299
+|1950= 306
+|1960= 652
+|1970= 952
+|1980= 976
+|1990= 717
+|2000= 1719
+|2010= 2735
+|2020= 2888
+|footnote=Sources:<ref name="GR9">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|publisher=[[United States Census Bureau]]|accessdate=March 4, 2012|title=Census of Population and Housing: Decennial Censuses}}</ref><ref name=CensusPopEst>{{cite web|title=Incorporated Places and Minor Civil Divisions Datasets: Subcounty Resident Population Estimates: April 1, 2010 to July 1, 2012|url=https://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|work=Population Estimates|publisher=U.S. Census Bureau|accessdate=December 11, 2013|url-status=dead|archiveurl=https://web.archive.org/web/20130611010502/http://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|archivedate=June 11, 2013}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A47|title=Census Population API|publisher=United States Census Bureau|accessdate=October 15, 2022}}</ref>
+}}
+
+===2020 census===
+{| class="wikitable"
+|+Brighton racial composition<ref>{{Cite web|title=Explore Census Data|url=https://data.census.gov/cedsci/table?g=1600000US4708500&tid=DECENNIALPL2020.P2|access-date=December 8, 2021|website=data.census.gov}}</ref>
+!Race
+!Num.
+!Perc.
+|-
+|[[White (U.S. Census)|White]] (non-Hispanic)
+|2,110
+|73.06%
+|-
+|[[African American (U.S. Census)|Black or African American]] (non-Hispanic)
+|469
+|16.24%
+|-
+|[[Native American (U.S. Census)|Native American]]
+|4
+|0.14%
+|-
+|[[Asian (U.S. Census)|Asian]]
+|17
+|0.59%
+|-
+|[[Pacific Islander (U.S. Census)|Pacific Islander]]
+|2
+|0.07%
+|-
+|[[Race (United States Census)|Other/Mixed]]
+|183
+|6.34%
+|-
+|[[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]]
+|103
+|3.57%
+|}
+As of the [[2020 United States census]], there were 2,888 people, 987 households, and 723 families residing in the town.
+
+===2000 census===
+As of the [[census]]<ref name="GR2" /> of 2000, there were 1,719 people, 596 households, and 470 families residing in the town. The population density was {{convert|627.8|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 628 housing units at an average density of {{convert|229.3|/sqmi|/km2|sp=us|adj=off}}. The racial makeup of the town was 77.20% [[White (U.S. Census)|White]], 20.65% [[African American (U.S. Census)|African American]], 0.23% [[Native American (U.S. Census)|Native American]], 0.47% [[Asian (U.S. Census)|Asian]], 0.06% [[Pacific Islander (U.S. Census)|Pacific Islander]], 0.23% from [[Race (United States Census)|other races]], and 1.16% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 1.34% of the population.
+
+There were 596 households, out of which 49.5% had children under the age of 18 living with them, 56.7% were [[Marriage|married couples]] living together, 17.3% had a female householder with no husband present, and 21.1% were non-families. 18.3% of all households were made up of individuals, and 8.6% had someone living alone who was 65 years of age or older. The average household size was 2.88 and the average family size was 3.27.
+
+In the town, the population was spread out, with 36.2% under the age of 18, 8.0% from 18 to 24, 34.0% from 25 to 44, 13.3% from 45 to 64, and 8.6% who were 65 years of age or older. The median age was 29 years. For every 100 females, there were 86.8 males. For every 100 females age 18 and over, there were 82.8 males.
+
+The median income for a household in the town was $43,510, and the median income for a family was $46,538. Males had a median income of $36,012 versus $25,789 for females. The [[per capita income]] for the town was $15,432. About 7.8% of families and 8.3% of the population were below the [[poverty line]], including 10.6% of those under age 18 and 7.9% of those age 65 or over.
+

@@ -1,0 +1,16 @@
+{
+  "article": "Banner,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/03571/Banner__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "61ce3b4df3dcd04907b295c9118d4afff8e93a70c6d9f6cc740cef6cff702003",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "61ce3b4df3dcd04907b295c9118d4afff8e93a70c6d9f6cc740cef6cff702003",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/03571/Banner__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "03571",
+  "timestamp": "2026-05-24T23:37:35.690285Z",
+  "version": 1
+}

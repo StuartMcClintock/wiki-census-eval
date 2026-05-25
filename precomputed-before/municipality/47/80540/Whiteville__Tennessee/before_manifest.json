@@ -1,0 +1,16 @@
+{
+  "article": "Whiteville,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/80540/Whiteville__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4e58e1a96621ac3df0fc4eba2342aa287c64a55a7e353a017c70abdfbad93afe",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4e58e1a96621ac3df0fc4eba2342aa287c64a55a7e353a017c70abdfbad93afe",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/80540/Whiteville__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "80540",
+  "timestamp": "2026-05-25T00:14:58.911470Z",
+  "version": 1
+}

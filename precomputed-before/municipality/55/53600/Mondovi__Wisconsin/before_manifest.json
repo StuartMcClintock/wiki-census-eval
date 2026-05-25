@@ -1,0 +1,16 @@
+{
+  "article": "Mondovi,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/53600/Mondovi__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b9507770a13bafc79614174f811f0871635280c2876408aa72ecdcc21b95a52c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b9507770a13bafc79614174f811f0871635280c2876408aa72ecdcc21b95a52c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/53600/Mondovi__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "53600",
+  "timestamp": "2026-05-25T00:22:26.165476Z",
+  "version": 1
+}

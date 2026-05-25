@@ -1,0 +1,16 @@
+{
+  "article": "Dooms,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/22976/Dooms__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b598c239cde0153a6d108252375150504f732615808b16b162458fe1e50d2299",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b598c239cde0153a6d108252375150504f732615808b16b162458fe1e50d2299",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/22976/Dooms__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "22976",
+  "timestamp": "2026-05-25T00:19:09.431078Z",
+  "version": 1
+}

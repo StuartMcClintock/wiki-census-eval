@@ -1,0 +1,16 @@
+{
+  "article": "Loch_Lynn_Heights,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/47525/Loch_Lynn_Heights__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ea20154af1722800812fa57e609955d7e110ec6e5fd94664cd01d01f1ce84132",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ea20154af1722800812fa57e609955d7e110ec6e5fd94664cd01d01f1ce84132",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/47525/Loch_Lynn_Heights__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "47525",
+  "timestamp": "2026-05-24T23:47:26.295070Z",
+  "version": 1
+}

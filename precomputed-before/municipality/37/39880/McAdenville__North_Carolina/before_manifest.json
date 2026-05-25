@@ -1,0 +1,16 @@
+{
+  "article": "McAdenville,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/39880/McAdenville__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0de7550e2d19ba9f77972e538ccd6b0a4ac011d4e688d69bb27f12e76854ea58",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0de7550e2d19ba9f77972e538ccd6b0a4ac011d4e688d69bb27f12e76854ea58",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/39880/McAdenville__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "39880",
+  "timestamp": "2026-05-25T00:02:08.856963Z",
+  "version": 1
+}

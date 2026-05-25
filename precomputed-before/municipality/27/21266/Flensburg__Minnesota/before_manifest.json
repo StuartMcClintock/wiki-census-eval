@@ -1,0 +1,16 @@
+{
+  "article": "Flensburg,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/21266/Flensburg__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "912812c712b19b7cca52b8dbbd1c7e8e4926a01a59d464dc2a2b8a8b24fe4d09",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "912812c712b19b7cca52b8dbbd1c7e8e4926a01a59d464dc2a2b8a8b24fe4d09",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/21266/Flensburg__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "21266",
+  "timestamp": "2026-05-24T23:48:55.378000Z",
+  "version": 1
+}

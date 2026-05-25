@@ -1,0 +1,16 @@
+{
+  "article": "Harrison,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/36920/Harrison__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cb9edc06952f415298fa27790068ef5831e667261aec1e9e8528cb9b9dfdad35",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cb9edc06952f415298fa27790068ef5831e667261aec1e9e8528cb9b9dfdad35",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/36920/Harrison__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "36920",
+  "timestamp": "2026-05-24T23:36:49.947667Z",
+  "version": 1
+}

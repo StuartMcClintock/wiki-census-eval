@@ -1,0 +1,16 @@
+{
+  "article": "Moosic,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/50880/Moosic__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3bd55a15877d7597db66113bbdd2736e95a51e40f5155b54c8168efb3a37a6ba",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3bd55a15877d7597db66113bbdd2736e95a51e40f5155b54c8168efb3a37a6ba",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/50880/Moosic__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "50880",
+  "timestamp": "2026-05-25T00:08:09.575219Z",
+  "version": 1
+}

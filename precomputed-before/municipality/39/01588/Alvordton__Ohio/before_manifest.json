@@ -1,0 +1,16 @@
+{
+  "article": "Alvordton,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/01588/Alvordton__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f1a7dfb47c23fe443b6a7d73d0f514092e9c88afd2995a4c4dcab686c880307a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f1a7dfb47c23fe443b6a7d73d0f514092e9c88afd2995a4c4dcab686c880307a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/01588/Alvordton__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "01588",
+  "timestamp": "2026-05-25T00:03:29.510700Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "McColl,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/43630/McColl__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f6323d2d9d96a78b25cf6904b10ee126fb80bf686ee0a007e7c9f7f4aa1ba260",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f6323d2d9d96a78b25cf6904b10ee126fb80bf686ee0a007e7c9f7f4aa1ba260",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/43630/McColl__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "43630",
+  "timestamp": "2026-05-25T00:10:12.449754Z",
+  "version": 1
+}

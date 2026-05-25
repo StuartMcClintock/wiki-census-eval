@@ -1,0 +1,16 @@
+{
+  "article": "Coulter,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/16815/Coulter__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "19cc1fdfd1fb5970a84d623b5167f6c438b05b315b62b89996708c2550ed759c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "19cc1fdfd1fb5970a84d623b5167f6c438b05b315b62b89996708c2550ed759c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/16815/Coulter__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "16815",
+  "timestamp": "2026-05-24T23:40:37.532152Z",
+  "version": 1
+}

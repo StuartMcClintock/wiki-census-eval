@@ -1,0 +1,16 @@
+{
+  "article": "Onslow,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/59250/Onslow__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "469466561632615d78e49d012829bf1aee87817f8ca4e7191d15ed759d49b44e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "469466561632615d78e49d012829bf1aee87817f8ca4e7191d15ed759d49b44e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/59250/Onslow__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "59250",
+  "timestamp": "2026-05-24T23:41:34.904995Z",
+  "version": 1
+}

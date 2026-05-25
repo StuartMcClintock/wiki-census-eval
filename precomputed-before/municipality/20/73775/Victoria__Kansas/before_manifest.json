@@ -1,0 +1,16 @@
+{
+  "article": "Victoria,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/73775/Victoria__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "15702e667b862b55a1aec4553ff9a30489a7fb5d7af8be045e5e0d4dd024f92c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "15702e667b862b55a1aec4553ff9a30489a7fb5d7af8be045e5e0d4dd024f92c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/73775/Victoria__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "73775",
+  "timestamp": "2026-05-24T23:43:34.511481Z",
+  "version": 1
+}

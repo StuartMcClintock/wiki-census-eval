@@ -1,0 +1,16 @@
+{
+  "article": "Foristell,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/25120/Foristell__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "68955ea460fcfde15dc8f657d09a012dcac00ec998f265e345b716bee2557b21",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "68955ea460fcfde15dc8f657d09a012dcac00ec998f265e345b716bee2557b21",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/25120/Foristell__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "25120",
+  "timestamp": "2026-05-24T23:51:09.905793Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Leasburg,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/41114/Leasburg__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "927c0723450bf3d5ae8c6b7620519c23cc092d06d999e23aade81550a89c4bb5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "927c0723450bf3d5ae8c6b7620519c23cc092d06d999e23aade81550a89c4bb5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/41114/Leasburg__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "41114",
+  "timestamp": "2026-05-24T23:53:27.012663Z",
+  "version": 1
+}

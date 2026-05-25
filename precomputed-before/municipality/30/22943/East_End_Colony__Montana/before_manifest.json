@@ -1,0 +1,16 @@
+{
+  "article": "East_End_Colony,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/22943/East_End_Colony__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "63f43d47a1b2305203fd3510cae44af4d138cf43d890ad6cc040293b98cb88bf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "63f43d47a1b2305203fd3510cae44af4d138cf43d890ad6cc040293b98cb88bf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/22943/East_End_Colony__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "22943",
+  "timestamp": "2026-05-24T23:54:22.093028Z",
+  "version": 1
+}

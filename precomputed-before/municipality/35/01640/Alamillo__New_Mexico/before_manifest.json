@@ -1,0 +1,16 @@
+{
+  "article": "Alamillo,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/01640/Alamillo__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b38238f688738ae990d4ef220bf82e0b9c8bfdf8866ff243eaf18460ec7a2b64",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b38238f688738ae990d4ef220bf82e0b9c8bfdf8866ff243eaf18460ec7a2b64",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/01640/Alamillo__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "01640",
+  "timestamp": "2026-05-24T23:58:07.373023Z",
+  "version": 1
+}

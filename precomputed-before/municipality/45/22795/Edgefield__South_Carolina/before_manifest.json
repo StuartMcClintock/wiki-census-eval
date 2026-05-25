@@ -1,0 +1,16 @@
+{
+  "article": "Edgefield,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/22795/Edgefield__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6cf605ae915c4333f84287477c43f393286308e41a290540eb15e5823d45f0c0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6cf605ae915c4333f84287477c43f393286308e41a290540eb15e5823d45f0c0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/22795/Edgefield__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "22795",
+  "timestamp": "2026-05-25T00:10:01.170749Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Tarrytown,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/75496/Tarrytown__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3b48ec6a7656740f2b8b5c45120f11afc15c3c29ec7115732639735fb226197b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3b48ec6a7656740f2b8b5c45120f11afc15c3c29ec7115732639735fb226197b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/75496/Tarrytown__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "75496",
+  "timestamp": "2026-05-24T23:37:09.499752Z",
+  "version": 1
+}

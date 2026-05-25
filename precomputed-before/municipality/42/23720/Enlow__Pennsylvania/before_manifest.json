@@ -1,0 +1,16 @@
+{
+  "article": "Enlow,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/23720/Enlow__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1519ea7c7ab521265628614e60dde9eb310250a3460025efc20f1bb450d3b974",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1519ea7c7ab521265628614e60dde9eb310250a3460025efc20f1bb450d3b974",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/23720/Enlow__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "23720",
+  "timestamp": "2026-05-25T00:07:04.944534Z",
+  "version": 1
+}

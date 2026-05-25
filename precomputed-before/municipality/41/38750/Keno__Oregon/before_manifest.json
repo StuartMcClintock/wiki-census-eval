@@ -1,0 +1,16 @@
+{
+  "article": "Keno,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/38750/Keno__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0997bb6023ce0d5b2e1130dad3f6c1d02ef16eb359f0f11cd02987ff8a2ced7e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0997bb6023ce0d5b2e1130dad3f6c1d02ef16eb359f0f11cd02987ff8a2ced7e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/38750/Keno__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "38750",
+  "timestamp": "2026-05-25T00:05:49.989180Z",
+  "version": 1
+}

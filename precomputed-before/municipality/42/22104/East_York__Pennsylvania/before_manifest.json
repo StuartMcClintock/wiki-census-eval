@@ -1,0 +1,16 @@
+{
+  "article": "East_York,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/22104/East_York__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "463bb02edb26a24fc23fd1ed8db326d797de09cf4e82a7645f3ab7252366e972",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "463bb02edb26a24fc23fd1ed8db326d797de09cf4e82a7645f3ab7252366e972",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/22104/East_York__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "22104",
+  "timestamp": "2026-05-25T00:07:00.996370Z",
+  "version": 1
+}

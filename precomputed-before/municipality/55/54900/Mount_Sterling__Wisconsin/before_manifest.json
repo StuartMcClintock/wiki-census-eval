@@ -1,0 +1,16 @@
+{
+  "article": "Mount_Sterling,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/54900/Mount_Sterling__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "57416ebbcc84ab68212dfe68894653623fc11d290a761bff615fcceca116a6c3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "57416ebbcc84ab68212dfe68894653623fc11d290a761bff615fcceca116a6c3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/54900/Mount_Sterling__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "54900",
+  "timestamp": "2026-05-25T00:22:27.217622Z",
+  "version": 1
+}

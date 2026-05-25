@@ -1,0 +1,16 @@
+{
+  "article": "Powers_Lake,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/64825/Powers_Lake__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a9306bbd168f77e807e8f02ced1acf8b7de80e39808d1119dcf15c0e446f0413",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a9306bbd168f77e807e8f02ced1acf8b7de80e39808d1119dcf15c0e446f0413",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/64825/Powers_Lake__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "64825",
+  "timestamp": "2026-05-25T00:22:35.689559Z",
+  "version": 1
+}

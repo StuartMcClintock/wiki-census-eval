@@ -1,0 +1,16 @@
+{
+  "article": "Worthville,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/84900/Worthville__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ea635f8039fc95e9cd56526474073b883ffbfcfcdf2f404e9ba962ba1fd3cd5e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ea635f8039fc95e9cd56526474073b883ffbfcfcdf2f404e9ba962ba1fd3cd5e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/84900/Worthville__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "84900",
+  "timestamp": "2026-05-24T23:44:27.150912Z",
+  "version": 1
+}

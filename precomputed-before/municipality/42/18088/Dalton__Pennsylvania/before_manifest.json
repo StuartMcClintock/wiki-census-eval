@@ -1,0 +1,16 @@
+{
+  "article": "Dalton,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/18088/Dalton__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e28bb15d4571b83c130bd3cef49d2ed57197b86cdc5c9a4af637cc43a7682612",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e28bb15d4571b83c130bd3cef49d2ed57197b86cdc5c9a4af637cc43a7682612",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/18088/Dalton__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "18088",
+  "timestamp": "2026-05-25T00:06:49.547406Z",
+  "version": 1
+}

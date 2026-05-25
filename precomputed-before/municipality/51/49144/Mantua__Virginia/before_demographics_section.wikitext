@@ -1,0 +1,100 @@
+==Demographics==
+{{US Census population
+|1990= 6804
+|2000= 7485
+|2010= 7135
+|2020= 7503
+|footnote=U.S. Decennial Census<ref name="cdpquickfacts"/><ref>{{cite web|url=https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-48.pdf|title=Virginia: 2010 Population and Housing Unit Counts|publisher=Census.gov|access-date=12 January 2023|date=July 2012|id=CPH-2-48}}</ref>{{rp|48}}
+}}
+
+===2020 census===
+{| class="wikitable sortable" style="text-align:center;"
+|+'''Mantua CDP, Virginia – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Mantua CDP, Virginia|url=https://data.census.gov/table?g=160XX00US5149144&tid=DECENNIALSF12000.P004|website=[[United States Census Bureau]] |access-date= }}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Mantua CDP, Virginia|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US5149144&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!style="background-color: #ffffb3;" |Pop 2020<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Mantua CDP, Virginia|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US5149144&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!% 2000
+!% 2010
+!style="background-color: #ffffb3;" |% 2020
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|5,632
+|4,920
+|style='background: #ffffe6; |4,436
+|75.24%
+|68.96%
+|style='background: #ffffe6; |59.12%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|144
+|177
+|style='background: #ffffe6; |279
+|1.92%
+|2.48%
+|style='background: #ffffe6; |3.72%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|24
+|17
+|style='background: #ffffe6; |14
+|0.32%
+|0.24%
+|style='background: #ffffe6; |0.19%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|1,019
+|1,407
+|style='background: #ffffe6; |1,579
+|13.61%
+|19.72%
+|style='background: #ffffe6; |21.04%
+|-
+|[[Native Hawaiian]] or [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|3
+|0
+|style='background: #ffffe6; |1
+|0.04%
+|0.00%
+|style='background: #ffffe6; |0.01%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|13
+|7
+|style='background: #ffffe6; |39
+|0.17%
+|0.10%
+|style='background: #ffffe6; |0.52%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|139
+|166
+|style='background: #ffffe6; |447
+|1.86%
+|2.33%
+|style='background: #ffffe6; |5.96%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|511
+|441
+|style='background: #ffffe6; |708
+|6.83%
+|6.18%
+|style='background: #ffffe6; |9.44%
+|-
+|'''Total'''
+|'''7,485'''
+|'''7,135'''
+|style='background: #ffffe6; |'''7,503 '''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+===2010 census===
+As of the [[2010 United States Census|2010 census]], there were 7,135 people, 2,628 households, and 1,936 families residing in the CDP. The [[population density]] was 3,031.0 people per square mile. There were 2,766 housing units at an average density of {{convert|716.3|/sqmi|/km2|sp=us|adj=off}}. The racial makeup of the CDP was 73.5% [[White American|White]], 19.7% [[Asian American|Asian]], 2.6% [[African American]], 0.3% [[Native Americans in the United States|Native American]], 1.2% from [[Race and ethnicity in the United States Census|other races]], and 2.7% from two or more races. [[Hispanic and Latino Americans|Hispanics and Latinos]] of any race were 6.2% of the population.<ref name="Census2010">{{Cite web|url=https://www.gpo.gov/fdsys/pkg/FR-2008-02-13/pdf/E8-2667.pdf|title=Census Designated Place (CDP) Program for the 2010 Census – Final Criteria|date=February 13, 2008|work=[[Federal Register]] (Volume 73, Number 30)|accessdate=March 31, 2016}}</ref>
+
+The median age was 46.1 years. 25.6% of the population was under the age of 18, 6.3% was 18 to 24, 18.6% was 25 to 44, 31.7% was 45 to 64, and 17.8% were 65 years of age or older. The gender makeup of the community was 48.2% male and 51.8% female.<ref name=Census2010/>
+
+The median income for a household in the CDP was $112,008. About 3.8% of families and 5.2% of the population were below the [[poverty line]], including 6.6% of those under the age of 18 and 7.2% of those 65 and older.<ref name=Census2010/>
+

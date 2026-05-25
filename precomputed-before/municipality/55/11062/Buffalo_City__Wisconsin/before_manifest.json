@@ -1,0 +1,16 @@
+{
+  "article": "Buffalo_City,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/11062/Buffalo_City__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8b1f1c3aefad25abad751971fb1227cc1b587563ee78059f9a9a4f6228d5cc3d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8b1f1c3aefad25abad751971fb1227cc1b587563ee78059f9a9a4f6228d5cc3d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/11062/Buffalo_City__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "11062",
+  "timestamp": "2026-05-25T00:21:39.754828Z",
+  "version": 1
+}

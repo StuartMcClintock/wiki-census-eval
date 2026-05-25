@@ -1,0 +1,16 @@
+{
+  "article": "Gackle,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/28860/Gackle__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "836a8d7c6a231ed382a6cd393393fb52d529921cdacaa80675f977eeb7272774",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "836a8d7c6a231ed382a6cd393393fb52d529921cdacaa80675f977eeb7272774",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/28860/Gackle__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "28860",
+  "timestamp": "2026-05-25T00:02:56.877197Z",
+  "version": 1
+}

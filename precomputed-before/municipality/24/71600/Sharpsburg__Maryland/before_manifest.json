@@ -1,0 +1,16 @@
+{
+  "article": "Sharpsburg,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/71600/Sharpsburg__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dde68df0dff660064d2b7e1db2968f2c992c937d47f4983411710934506ca57f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dde68df0dff660064d2b7e1db2968f2c992c937d47f4983411710934506ca57f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/71600/Sharpsburg__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "71600",
+  "timestamp": "2026-05-24T23:47:33.637255Z",
+  "version": 1
+}

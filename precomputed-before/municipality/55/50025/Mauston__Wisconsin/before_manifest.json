@@ -1,0 +1,16 @@
+{
+  "article": "Mauston,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/50025/Mauston__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e6ce293d76f5cdfb97cbd7c82f4a6b9e9f7ae9f614a4021ffd91946617d16c6c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e6ce293d76f5cdfb97cbd7c82f4a6b9e9f7ae9f614a4021ffd91946617d16c6c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/50025/Mauston__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "50025",
+  "timestamp": "2026-05-25T00:22:23.914123Z",
+  "version": 1
+}

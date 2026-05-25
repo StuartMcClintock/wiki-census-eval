@@ -1,0 +1,16 @@
+{
+  "article": "Farmers,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/26560/Farmers__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2a4f1b012424f7be0ccd8c0e49e65beddb1eeb50eb30077f165d44e529032a08",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2a4f1b012424f7be0ccd8c0e49e65beddb1eeb50eb30077f165d44e529032a08",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/26560/Farmers__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "26560",
+  "timestamp": "2026-05-24T23:44:02.338181Z",
+  "version": 1
+}

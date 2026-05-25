@@ -1,0 +1,16 @@
+{
+  "article": "Cynthiana,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/16534/Cynthiana__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0a37b85bbe9e8625cb2a264adaaf57d145acd210d11dd60b93c427942de66ffe",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0a37b85bbe9e8625cb2a264adaaf57d145acd210d11dd60b93c427942de66ffe",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/16534/Cynthiana__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "16534",
+  "timestamp": "2026-05-24T23:39:31.999857Z",
+  "version": 1
+}

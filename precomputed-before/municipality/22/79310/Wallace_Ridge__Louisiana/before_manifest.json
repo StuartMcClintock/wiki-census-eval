@@ -1,0 +1,16 @@
+{
+  "article": "Wallace_Ridge,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/79310/Wallace_Ridge__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ee971312a31a8186610a6a1fab0d6afffccc22c69d644a23d472da36059b5f41",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ee971312a31a8186610a6a1fab0d6afffccc22c69d644a23d472da36059b5f41",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/79310/Wallace_Ridge__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "79310",
+  "timestamp": "2026-05-24T23:45:12.055526Z",
+  "version": 1
+}

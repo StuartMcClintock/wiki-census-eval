@@ -1,0 +1,16 @@
+{
+  "article": "Media,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/48480/Media__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "19e38732cc53c28909af508af9ed2d4c0f1945c77a9581fdec3528460567bde7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "19e38732cc53c28909af508af9ed2d4c0f1945c77a9581fdec3528460567bde7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/48480/Media__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "48480",
+  "timestamp": "2026-05-25T00:08:03.874010Z",
+  "version": 1
+}

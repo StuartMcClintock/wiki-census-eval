@@ -1,0 +1,16 @@
+{
+  "article": "McCammon,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/48880/McCammon__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2e7a7e4d97d500fa9a7cecd0ea6aa9540c258b0aa2f3ef9d3d80979694680a84",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2e7a7e4d97d500fa9a7cecd0ea6aa9540c258b0aa2f3ef9d3d80979694680a84",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/48880/McCammon__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "48880",
+  "timestamp": "2026-05-24T23:37:24.334425Z",
+  "version": 1
+}

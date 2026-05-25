@@ -1,0 +1,16 @@
+{
+  "article": "Coleman,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/16250/Coleman__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3ec676874259fc68aeda745ed5103de1a7341c39f4069f0b0bba28ac3993ba33",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3ec676874259fc68aeda745ed5103de1a7341c39f4069f0b0bba28ac3993ba33",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/16250/Coleman__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "16250",
+  "timestamp": "2026-05-25T00:21:43.975495Z",
+  "version": 1
+}

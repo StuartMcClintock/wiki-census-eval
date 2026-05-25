@@ -1,0 +1,16 @@
+{
+  "article": "Sunset_Bay,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/72246/Sunset_Bay__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5c47e680491037d6b289338e9f4ff85f0752c3acf4ac3586a9295b606d7b088a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5c47e680491037d6b289338e9f4ff85f0752c3acf4ac3586a9295b606d7b088a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/72246/Sunset_Bay__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "72246",
+  "timestamp": "2026-05-25T00:01:18.711322Z",
+  "version": 1
+}

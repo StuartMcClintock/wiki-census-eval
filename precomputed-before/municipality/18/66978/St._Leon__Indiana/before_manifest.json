@@ -1,0 +1,16 @@
+{
+  "article": "St._Leon,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/66978/St._Leon__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e75e3c612d0db93a001d089d03ee1d1d9d2474e9f03270ec60115f50d3a152fa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e75e3c612d0db93a001d089d03ee1d1d9d2474e9f03270ec60115f50d3a152fa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/66978/St._Leon__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "66978",
+  "timestamp": "2026-05-24T23:40:11.183855Z",
+  "version": 1
+}

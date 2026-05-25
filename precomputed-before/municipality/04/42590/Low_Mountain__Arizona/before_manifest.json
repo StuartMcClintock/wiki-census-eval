@@ -1,0 +1,16 @@
+{
+  "article": "Low_Mountain,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/42590/Low_Mountain__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d7b9ad40a914b799a26728ceb0b1ba02590ec9842c4fbb59fc3ad43509213d5a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d7b9ad40a914b799a26728ceb0b1ba02590ec9842c4fbb59fc3ad43509213d5a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/42590/Low_Mountain__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "42590",
+  "timestamp": "2026-05-24T23:33:03.099295Z",
+  "version": 1
+}

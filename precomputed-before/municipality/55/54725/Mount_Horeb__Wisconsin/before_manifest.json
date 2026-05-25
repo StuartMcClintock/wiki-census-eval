@@ -1,0 +1,16 @@
+{
+  "article": "Mount_Horeb,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/54725/Mount_Horeb__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4937c28b59180b0f127a46b4e1e848882b1d60d91089676bc30df4c256d50247",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4937c28b59180b0f127a46b4e1e848882b1d60d91089676bc30df4c256d50247",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/54725/Mount_Horeb__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "54725",
+  "timestamp": "2026-05-25T00:22:27.113648Z",
+  "version": 1
+}

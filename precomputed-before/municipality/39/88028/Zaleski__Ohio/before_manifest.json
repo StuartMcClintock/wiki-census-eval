@@ -1,0 +1,16 @@
+{
+  "article": "Zaleski,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/88028/Zaleski__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2a051f847b99e353efb6b3fd4c300cb556e0d62f5e578e32e6a327e1029ad408",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2a051f847b99e353efb6b3fd4c300cb556e0d62f5e578e32e6a327e1029ad408",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/88028/Zaleski__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "88028",
+  "timestamp": "2026-05-25T00:05:41.777941Z",
+  "version": 1
+}

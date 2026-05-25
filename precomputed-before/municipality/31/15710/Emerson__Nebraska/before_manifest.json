@@ -1,0 +1,16 @@
+{
+  "article": "Emerson,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/15710/Emerson__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "953fd5f2f91f8df21acabc9b6315b9581f82a3688a3e26d030fadb5f42e2120d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "953fd5f2f91f8df21acabc9b6315b9581f82a3688a3e26d030fadb5f42e2120d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/15710/Emerson__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "15710",
+  "timestamp": "2026-05-24T23:55:25.316984Z",
+  "version": 1
+}

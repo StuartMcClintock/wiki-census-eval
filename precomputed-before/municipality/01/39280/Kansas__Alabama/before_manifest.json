@@ -1,0 +1,16 @@
+{
+  "article": "Kansas,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/39280/Kansas__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "33e06823253aea14831185df75f141506a252fd6dca7b943b8b79636ab9e41ab",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "33e06823253aea14831185df75f141506a252fd6dca7b943b8b79636ab9e41ab",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/39280/Kansas__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "39280",
+  "timestamp": "2026-05-24T23:32:01.117702Z",
+  "version": 1
+}

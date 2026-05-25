@@ -1,0 +1,16 @@
+{
+  "article": "Sunriver,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/71250/Sunriver__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "66e24e7c14e36f0f74ff4ef282a4a3446bc3b52aa5b2e87111df2a1daf02f13f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "66e24e7c14e36f0f74ff4ef282a4a3446bc3b52aa5b2e87111df2a1daf02f13f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/71250/Sunriver__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "71250",
+  "timestamp": "2026-05-25T00:06:03.319705Z",
+  "version": 1
+}

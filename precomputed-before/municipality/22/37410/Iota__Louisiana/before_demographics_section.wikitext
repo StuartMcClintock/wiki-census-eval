@@ -1,0 +1,45 @@
+==Demographics==
+{{US Census population
+|1910= 769
+|1920= 802
+|1930= 827
+|1940= 1000
+|1950= 1162
+|1960= 1245
+|1970= 1271
+|1980= 1326
+|1990= 1256
+|2000= 1376
+|2010= 1500
+|2020= 1304
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|access-date=June 4, 2015}}</ref>
+}}
+
+{| class="wikitable" style="text-align:right"
+|+Iota racial composition as of 2020<ref>{{Cite web|title=Explore Census Data|url=https://data.census.gov/cedsci/table?g=1600000US2237410&tid=DECENNIALPL2020.P2|access-date=December 29, 2021|website=data.census.gov}}</ref>
+!scope="col"| Race
+!scope="col"| Number
+!scope="col"| Percentage
+|-
+!scope="row"| [[White (U.S. Census)|White]] (non-Hispanic)
+| 1,169
+| 89.65%
+|-
+!scope="row"| [[African American (U.S. Census)|Black or African American]] (non-Hispanic)
+| 68
+| 5.21%
+|-
+!scope="row"| [[Native American (U.S. Census)|Native American]]
+| 2
+| 0.15%
+|-
+!scope="row"| [[Race (United States Census)|Other/Mixed]]
+| 34
+| 2.61%
+|-
+!scope="row"| [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]]
+| 31
+| 2.38%
+|}
+As of the [[2020 United States census]], there were 1,304 people, 648 households, and 409 families residing in the town.
+

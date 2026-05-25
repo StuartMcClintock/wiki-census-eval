@@ -1,0 +1,16 @@
+{
+  "article": "Puget_Island,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/56555/Puget_Island__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3562ebe8d389f05723b5e8b016cedf1cac0dc8fe1c7b9a3c24dbc5d52ce1af81",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3562ebe8d389f05723b5e8b016cedf1cac0dc8fe1c7b9a3c24dbc5d52ce1af81",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/56555/Puget_Island__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "56555",
+  "timestamp": "2026-05-25T00:20:29.078474Z",
+  "version": 1
+}

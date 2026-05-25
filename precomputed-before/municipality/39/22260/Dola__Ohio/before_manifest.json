@@ -1,0 +1,16 @@
+{
+  "article": "Dola,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/22260/Dola__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b14820d63de3de7301f986b6ecca0bd8aa6f06a37f96bc2f4dea59d61bd378f4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b14820d63de3de7301f986b6ecca0bd8aa6f06a37f96bc2f4dea59d61bd378f4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/22260/Dola__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "22260",
+  "timestamp": "2026-05-25T00:04:04.708228Z",
+  "version": 1
+}

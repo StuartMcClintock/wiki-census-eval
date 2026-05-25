@@ -1,0 +1,16 @@
+{
+  "article": "Portage,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/62048/Portage__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cd1409445187cb829ea2d59dc8b3761703bccd4953433cd6d2ec155c7599e8f2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cd1409445187cb829ea2d59dc8b3761703bccd4953433cd6d2ec155c7599e8f2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/62048/Portage__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "62048",
+  "timestamp": "2026-05-25T00:08:32.139120Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Mount_Carmel,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/48310/Mount_Carmel__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3f90ccdf53f8d2d0b90a837dc3ca4135625dbb32379342e5d283d634aa935388",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3f90ccdf53f8d2d0b90a837dc3ca4135625dbb32379342e5d283d634aa935388",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/48310/Mount_Carmel__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "48310",
+  "timestamp": "2026-05-25T00:10:13.613906Z",
+  "version": 1
+}

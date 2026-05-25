@@ -1,0 +1,16 @@
+{
+  "article": "St._Regis_Falls,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/64716/St._Regis_Falls__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d306a3cde2f8b9afff8ef0d146b683ab67cc36d8626b7624e55d2cd391403bdc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d306a3cde2f8b9afff8ef0d146b683ab67cc36d8626b7624e55d2cd391403bdc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/64716/St._Regis_Falls__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "64716",
+  "timestamp": "2026-05-25T00:01:10.616733Z",
+  "version": 1
+}

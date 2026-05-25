@@ -1,0 +1,16 @@
+{
+  "article": "East_Rochester,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/21752/East_Rochester__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5a35e86d67b282b84067adc7045b4908548c911484a877e1dcbb93c79d0107a1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5a35e86d67b282b84067adc7045b4908548c911484a877e1dcbb93c79d0107a1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/21752/East_Rochester__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "21752",
+  "timestamp": "2026-05-25T00:06:56.865953Z",
+  "version": 1
+}

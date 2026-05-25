@@ -1,0 +1,16 @@
+{
+  "article": "Enosburg_Falls,_Vermont",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/50/24025/Enosburg_Falls__Vermont/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5850823d9438a55cb89af0bb02315e4e7bb66e3dc95dd9ecd54396d36f256527",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5850823d9438a55cb89af0bb02315e4e7bb66e3dc95dd9ecd54396d36f256527",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/50/24025/Enosburg_Falls__Vermont/manifest.json",
+  "state_fips": "50",
+  "status": "match",
+  "target_fips": "24025",
+  "timestamp": "2026-05-25T00:17:14.648071Z",
+  "version": 1
+}

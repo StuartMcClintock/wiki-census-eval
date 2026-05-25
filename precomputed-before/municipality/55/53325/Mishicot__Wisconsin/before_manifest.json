@@ -1,0 +1,16 @@
+{
+  "article": "Mishicot,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/53325/Mishicot__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c6d810f9a8002462d90049a6f5474c98b591c8f2a04320babeeba0ea3242c80d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c6d810f9a8002462d90049a6f5474c98b591c8f2a04320babeeba0ea3242c80d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/53325/Mishicot__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "53325",
+  "timestamp": "2026-05-25T00:22:25.889870Z",
+  "version": 1
+}

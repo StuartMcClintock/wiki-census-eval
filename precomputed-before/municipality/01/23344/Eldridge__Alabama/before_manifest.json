@@ -1,0 +1,16 @@
+{
+  "article": "Eldridge,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/23344/Eldridge__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "944cb9844b2c5b3c10114c6aa6d9939560f21c46b457ff4932ef7a41ddccb23d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "944cb9844b2c5b3c10114c6aa6d9939560f21c46b457ff4932ef7a41ddccb23d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/23344/Eldridge__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "23344",
+  "timestamp": "2026-05-24T23:31:54.336378Z",
+  "version": 1
+}

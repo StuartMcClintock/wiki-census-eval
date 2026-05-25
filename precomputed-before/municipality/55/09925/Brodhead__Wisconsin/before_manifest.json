@@ -1,0 +1,16 @@
+{
+  "article": "Brodhead,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/09925/Brodhead__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "45482c0cbf79eb263e557f4f35ebb63dd95ca374327f9f2cd4f82dbfab1e4d9d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "45482c0cbf79eb263e557f4f35ebb63dd95ca374327f9f2cd4f82dbfab1e4d9d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/09925/Brodhead__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "09925",
+  "timestamp": "2026-05-25T00:21:39.262702Z",
+  "version": 1
+}

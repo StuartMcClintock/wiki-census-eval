@@ -1,0 +1,16 @@
+{
+  "article": "Pomaria,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/57850/Pomaria__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b0979dc6435d1ce7e20f47bd3658bae5f70965fb74958e1e6c8eb313be2fe2a7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b0979dc6435d1ce7e20f47bd3658bae5f70965fb74958e1e6c8eb313be2fe2a7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/57850/Pomaria__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "57850",
+  "timestamp": "2026-05-25T00:10:17.868176Z",
+  "version": 1
+}

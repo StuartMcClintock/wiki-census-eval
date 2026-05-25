@@ -1,0 +1,16 @@
+{
+  "article": "Bowlus,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/07066/Bowlus__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6bc46ce0681d2fb513d6ae624a8c8c2fd3a53de6aff666d0bd2ef0b6f8e0722b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6bc46ce0681d2fb513d6ae624a8c8c2fd3a53de6aff666d0bd2ef0b6f8e0722b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/07066/Bowlus__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "07066",
+  "timestamp": "2026-05-24T23:48:40.951994Z",
+  "version": 1
+}

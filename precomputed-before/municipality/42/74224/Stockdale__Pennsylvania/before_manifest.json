@@ -1,0 +1,16 @@
+{
+  "article": "Stockdale,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/74224/Stockdale__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "be60a6ccb8ae15c93add8a00b11e70334c4291462cd31923478f188d5d429620",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "be60a6ccb8ae15c93add8a00b11e70334c4291462cd31923478f188d5d429620",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/74224/Stockdale__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "74224",
+  "timestamp": "2026-05-25T00:09:11.615078Z",
+  "version": 1
+}

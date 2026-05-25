@@ -1,0 +1,16 @@
+{
+  "article": "Central_City,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/12910/Central_City__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8afc6fd891cf301df075115ae617592c8e922088cf5d9ad7a52e89d885e42e3f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8afc6fd891cf301df075115ae617592c8e922088cf5d9ad7a52e89d885e42e3f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/12910/Central_City__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "12910",
+  "timestamp": "2026-05-24T23:35:21.175351Z",
+  "version": 1
+}

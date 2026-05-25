@@ -1,0 +1,44 @@
+==Demographics==
+{{US Census population
+|1960= 674
+|1970= 621
+|1980= 658
+|1990= 807
+|2000= 753
+|2010= 793
+|2020= 664
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|access-date=June 4, 2015}}</ref>
+}}
+
+{| class="wikitable" style="text-align:right"
+|+Rosedale racial composition as of 2020<ref name=":0">{{Cite web|title=Explore Census Data|url=https://data.census.gov/cedsci/table?g=1600000US2266060&tid=DECENNIALPL2020.P2|access-date=December 29, 2021|website=data.census.gov}}</ref>
+!scope="col"| Race
+!scope="col"| Number
+!scope="col"| Percentage
+|-
+!scope="row"| [[White (U.S. Census)|White]] (non-Hispanic)
+| 385
+| 57.98%
+|-
+!scope="row"| [[African American (U.S. Census)|Black or African American]] (non-Hispanic)
+| 255
+| 38.4%
+|-
+!scope="row"| [[Native American (U.S. Census)|Native American]]
+| 1
+| 0.15%
+|-
+!scope="row"| [[Asian (U.S. Census)|Asian]]
+| 4
+| 0.6%
+|-
+!scope="row"| [[Race (United States Census)|Other/Mixed]]
+| 16
+| 2.41%
+|-
+!scope="row"| [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]]
+| 3
+| 0.45%
+|}
+As of the [[2020 United States census]], there were 664 people, 338 households, and 221 families residing in the village.
+

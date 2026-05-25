@@ -1,0 +1,16 @@
+{
+  "article": "Troutville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/77568/Troutville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "acf89fd4429361cf3120437d2c94f5331eff8645b9a0d6673bb462c5aa8ad2f6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "acf89fd4429361cf3120437d2c94f5331eff8645b9a0d6673bb462c5aa8ad2f6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/77568/Troutville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "77568",
+  "timestamp": "2026-05-25T00:09:18.784061Z",
+  "version": 1
+}

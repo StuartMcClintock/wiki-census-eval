@@ -1,0 +1,16 @@
+{
+  "article": "Storden,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/63022/Storden__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a4311a4fa3e447a2f758d578c5d9a749989528c430b40865b7e1fe01e076adce",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a4311a4fa3e447a2f758d578c5d9a749989528c430b40865b7e1fe01e076adce",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/63022/Storden__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "63022",
+  "timestamp": "2026-05-24T23:49:47.262142Z",
+  "version": 1
+}

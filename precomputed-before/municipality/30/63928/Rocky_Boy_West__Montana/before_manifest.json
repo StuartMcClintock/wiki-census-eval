@@ -1,0 +1,16 @@
+{
+  "article": "Rocky_Boy_West,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/63928/Rocky_Boy_West__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "374e0dc7d3a410eef45c757465257ec0a963a6ac39f0e7da3e9c53140a23e343",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "374e0dc7d3a410eef45c757465257ec0a963a6ac39f0e7da3e9c53140a23e343",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/63928/Rocky_Boy_West__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "63928",
+  "timestamp": "2026-05-24T23:54:47.232375Z",
+  "version": 1
+}

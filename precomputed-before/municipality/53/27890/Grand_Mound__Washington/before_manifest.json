@@ -1,0 +1,16 @@
+{
+  "article": "Grand_Mound,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/27890/Grand_Mound__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "65bf50edc90f6c54fb8667292361d469fd1058661a8455b56ca852e46bef5bc4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "65bf50edc90f6c54fb8667292361d469fd1058661a8455b56ca852e46bef5bc4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/27890/Grand_Mound__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "27890",
+  "timestamp": "2026-05-25T00:20:13.915541Z",
+  "version": 1
+}

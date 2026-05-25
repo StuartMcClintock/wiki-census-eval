@@ -1,0 +1,16 @@
+{
+  "article": "Norene,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/53520/Norene__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "66d4eff7674f8127d8fb5654781bcbdf73823350b97dee35a38e96f5bbdb2646",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "66d4eff7674f8127d8fb5654781bcbdf73823350b97dee35a38e96f5bbdb2646",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/53520/Norene__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "53520",
+  "timestamp": "2026-05-25T00:14:48.887606Z",
+  "version": 1
+}

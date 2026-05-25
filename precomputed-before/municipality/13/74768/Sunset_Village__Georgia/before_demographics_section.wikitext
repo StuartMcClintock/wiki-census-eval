@@ -1,0 +1,101 @@
+==Demographics==
+{{US Census population
+|2000= 871
+|2010= 846
+|2020= 921
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census/decade.html|title=Decennial Census of Population and Housing by Decade|publisher=United States Census Bureau|access-date=}}</ref><br> 1850-1870<ref name=1870CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1870 Census of Population - Georgia - Population of Civil Divisions less than Counties |publisher=United States Census Bureau|date= 1870|url=https://www2.census.gov/library/publications/decennial/1870/population/1870a-13.pdf |accessdate=|archive-url=| archive-date=|page=}}</ref> 1870-1880<ref name=1880CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1880 Census of Population - Georgia - Population of Civil Divisions less than Counties |publisher=United States Census Bureau|date= 1880|url=https://www2.census.gov/library/publications/decennial/1880/vol-01-population/1880_v1-09.pdf |accessdate=|archive-url=| archive-date=|page=}}</ref><br> 1890-1910<ref name=1910CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1910 Census of Population - Georgia  |publisher=United States Census Bureau|date= 1930|url=https://www2.census.gov/library/publications/decennial/1910/abstract/supplement-ga.pdf |accessdate=|archive-url=| archive-date=|page=}}</ref> 1920-1930<ref name=1930CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1930 Census of Population - Georgia  |publisher=United States Census Bureau|date= 1930|url=https://www2.census.gov/prod2/decennial/documents/03815512v1ch04.pdf |accessdate=|archive-url=| archive-date=|pages=251–256}}</ref><br> 1940<ref name=1940CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1940 Census of Population - Georgia  |publisher=United States Census Bureau|date= 1940|url=https://www2.census.gov/library/publications/decennial/1940/population-volume-1/33973538v1ch04.pdf |accessdate=|archive-url=| archive-date=}}</ref> 1950<ref name=1950CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1950 Census of Population - Georgia |publisher=United States Census Bureau|date= 1980|url=https://www2.census.gov/library/publications/decennial/1950/population-volume-2/37779083v2p11ch2.pdf |accessdate=|archive-url=| archive-date=}}</ref> 1960<ref name=1960CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1960 Census of Population - Population of County Subdivisions - Georgia  |publisher=United States Census Bureau|date= 1960|url=https://www2.census.gov/library/publications/decennial/1960/population-volume-1/vol-01-12-c.pdf|accessdate=|archive-url=| archive-date=}}</ref><br> 1970<ref name=1970CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1970 Census of Population - Population of County Subdivisions - Georgia  |publisher=United States Census Bureau|date= 1970|url=https://www2.census.gov/prod2/decennial/documents/1970a_ga-01.pdf|accessdate=|archive-url=| archive-date=}}</ref> 1980<ref name=1980CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1980 Census of Population - Number of Inhabitants - Georgia  |publisher=United States Census Bureau|date= 1980|url=https://www2.census.gov/prod2/decennial/documents/1980a_gaABC-01.pdf|accessdate=|archive-url=| archive-date=}}</ref> 1990<ref name=1990CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1990 Census of Population - Summary Social, Economic, and Housing Characteristics - Georgia |publisher=United States Census Bureau|date= 1990|url=https://www2.census.gov/library/publications/decennial/1990/cph-5/cph-5-12.pdf|accessdate=|archive-url=| archive-date=}}</ref><br> 2000<ref name=2000CensusGA>{{Cite web|first= |last= |authorlink=   |title= 2000 Census of Population - General Population Characteristics - Georgia  |publisher=United States Census Bureau|date= 2000|url=https://www2.census.gov/library/publications/2003/dec/phc-3-12.pdf |accessdate=|archive-url=| archive-date=}}</ref> 2010<ref name=2010CensusP2/> 2020<ref name=2020CensusP2/>
+}}
+
+Sunset Village first appeared as a [[census designated place]] in the [[2000 U.S. census]].<ref name="2020CensusP2"/><ref name=1990CensusGA/>
+
+{| class="wikitable" style="text-align:center;"
+|+'''Sunset Village, Georgia – Racial and ethnic composition'''<br /><small>{{nobold|''Note: the U.S. census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Sunset Village CDP, Georgia |url=https://data.census.gov/table?g=160XX00US1374768&tid=DECENNIALSF12000.P004|publisher=[[United States Census Bureau]] |access-date=}}</ref>
+!Pop 2010<ref name="2010CensusP2">{{Cite web |title=P2 Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Sunset Village CDP, Georgia |url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US1374768&tid=DECENNIALPL2010.P2 |website=[[United States Census Bureau]]}}</ref>
+!{{partial|Pop 2020}}<ref name="2020CensusP2">{{Cite web |title=P2 Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Sunset Village CDP, Georgia |url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US1374768&tid=DECENNIALPL2020.P2 |website=[[United States Census Bureau]]}}</ref>
+!% 2000
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|841
+|796
+|style='background: #ffffe6; |825
+|96.56%
+|94.09%
+|style='background: #ffffe6; |89.58%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|22
+|26
+|style='background: #ffffe6; |50
+|2.53%
+|3.07%
+|style='background: #ffffe6; |5.43%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|2
+|4
+|style='background: #ffffe6; |1
+|0.23%
+|0.47%
+|style='background: #ffffe6; |0.11%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|0
+|1
+|style='background: #ffffe6; |1
+|0.00%
+|0.12%
+|style='background: #ffffe6; |0.11%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|2
+|10
+|style='background: #ffffe6; |24
+|0.23%
+|1.18%
+|style='background: #ffffe6; |2.61%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|4
+|9
+|style='background: #ffffe6; |20
+|0.46%
+|1.06%
+|style='background: #ffffe6; |2.17%
+|-
+|'''Total'''
+|'''871'''
+|'''846'''
+|style='background: #ffffe6; |'''921'''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+As of the [[census]]<ref name="GR2" /> of 2000, there were 871 people, 341 households, and 257 families residing in the CDP.  The population density was {{convert|176.8|PD/sqmi|PD/km2|sp=us|adj=off}}.  There were 358 housing units at an average density of {{convert|72.7|/sqmi|/km2|sp=us|adj=off}}.  The racial makeup of the CDP was 97.01% [[White (U.S. Census)|White]], 2.53% [[African American (U.S. Census)|African American]], 0.23% [[Native American (U.S. Census)|Native American]], and 0.23% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 0.46% of the population.
+
+There were 341 households, out of which 34.0% had children under the age of 18 living with them, 61.3% were [[Marriage|married couples]] living together, 9.4% had a female householder with no husband present, and 24.6% were non-families. 20.8% of all households were made up of individuals, and 7.6% had someone living alone who was 65 years of age or older.  The average household size was 2.55 and the average family size was 2.96.
+
+In the CDP, the population was spread out, with 26.9% under the age of 18, 6.1% from 18 to 24, 30.1% from 25 to 44, 24.7% from 45 to 64, and 12.3% who were 65 years of age or older.  The median age was 36 years. For every 100 females, there were 91.4 males.  For every 100 females age 18 and over, there were 86.8 males.
+
+The median income for a household in the CDP was $34,487, and the median income for a family was $40,962. Males had a median income of $30,647 versus $21,850 for females. The [[per capita income]] for the CDP was $16,013.  About 6.1% of families and 9.1% of the population were below the [[poverty line]], including 11.4% of those under age 18 and none of those age 65 or over.
+

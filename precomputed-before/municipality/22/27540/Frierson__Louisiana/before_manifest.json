@@ -1,0 +1,16 @@
+{
+  "article": "Frierson,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/27540/Frierson__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d5569a6bd01f0642e65276d7a00a70dff4fc9a5eeba25d229c5a8c685ab7227b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d5569a6bd01f0642e65276d7a00a70dff4fc9a5eeba25d229c5a8c685ab7227b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/27540/Frierson__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "27540",
+  "timestamp": "2026-05-24T23:44:48.429002Z",
+  "version": 1
+}

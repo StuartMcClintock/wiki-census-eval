@@ -1,0 +1,16 @@
+{
+  "article": "Shambaugh,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/71895/Shambaugh__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d86d855b46b430a1b336bb59a5f4c1d582cd3df6134307dd3fea053beb8e9d4e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d86d855b46b430a1b336bb59a5f4c1d582cd3df6134307dd3fea053beb8e9d4e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/71895/Shambaugh__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "71895",
+  "timestamp": "2026-05-24T23:41:48.107297Z",
+  "version": 1
+}

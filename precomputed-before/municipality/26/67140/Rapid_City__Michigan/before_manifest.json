@@ -1,0 +1,16 @@
+{
+  "article": "Rapid_City,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/67140/Rapid_City__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2826da7af318ea4de8eaa07f8de5198ae0555d21c444c03c786caf587ceea444",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2826da7af318ea4de8eaa07f8de5198ae0555d21c444c03c786caf587ceea444",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/67140/Rapid_City__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "67140",
+  "timestamp": "2026-05-24T23:48:25.193823Z",
+  "version": 1
+}

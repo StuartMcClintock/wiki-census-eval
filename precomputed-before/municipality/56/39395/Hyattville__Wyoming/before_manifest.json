@@ -1,0 +1,16 @@
+{
+  "article": "Hyattville,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/39395/Hyattville__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0dd64c1d57d7d2ec043a39d409929994c359d9de112285e43bdb2e40e3d0b194",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0dd64c1d57d7d2ec043a39d409929994c359d9de112285e43bdb2e40e3d0b194",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/39395/Hyattville__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "39395",
+  "timestamp": "2026-05-25T00:23:16.267826Z",
+  "version": 1
+}

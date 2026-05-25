@@ -1,0 +1,16 @@
+{
+  "article": "Manchester,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/47012/Manchester__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "44aeddd4f0d3c741157257b37fec4c720c5974be1f8eb7ce68a5e25a665493ea",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "44aeddd4f0d3c741157257b37fec4c720c5974be1f8eb7ce68a5e25a665493ea",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/47012/Manchester__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "47012",
+  "timestamp": "2026-05-25T00:04:42.503039Z",
+  "version": 1
+}

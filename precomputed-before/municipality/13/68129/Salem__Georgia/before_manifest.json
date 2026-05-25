@@ -1,0 +1,16 @@
+{
+  "article": "Salem,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/68129/Salem__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1a3c2df19dee2a43fb5689f2275a334ef1210a7e68ad8947a3c0403f5fe32e36",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1a3c2df19dee2a43fb5689f2275a334ef1210a7e68ad8947a3c0403f5fe32e36",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/68129/Salem__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "68129",
+  "timestamp": "2026-05-24T23:37:06.188163Z",
+  "version": 1
+}

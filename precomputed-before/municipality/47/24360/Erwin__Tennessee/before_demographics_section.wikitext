@@ -1,0 +1,59 @@
+==Demographics==
+{{US Census population
+|1910= 1149
+|1920= 2965
+|1930= 3623
+|1940= 3350
+|1950= 3387
+|1960= 3210
+|1970= 4715
+|1980= 4739
+|1990= 5015
+|2000= 5610
+|2010= 6097
+|2020= 6083
+|footnote=Sources:<ref name="GR9">{{Cite web |title=Census of Population and Housing: Decennial Censuses |url=https://www.census.gov/programs-surveys/decennial-census.html |url-status=live |archive-url=https://web.archive.org/web/20220717060613/https://www.census.gov/programs-surveys/decennial-census.html |archive-date=July 17, 2022 |access-date=March 4, 2012 |publisher=[[United States Census Bureau]]}}</ref><ref name="CensusPopEst">{{Cite web |title=Incorporated Places and Minor Civil Divisions Datasets: Subcounty Resident Population Estimates: April 1, 2010 to July 1, 2012 |url=https://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html |url-status=dead |archive-url=https://web.archive.org/web/20130611010502/http://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html |archive-date=June 11, 2013 |access-date=December 11, 2013 |website=Population Estimates |publisher=U.S. Census Bureau}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{Cite web |title=Census Population API |url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A47 |url-status=live |archive-url=https://web.archive.org/web/20230213085226/https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A47 |archive-date=February 13, 2023 |access-date=October 15, 2022 |publisher=United States Census Bureau}}</ref>
+}}
+
+===2020 census===
+{| class="wikitable" style="text-align:right"
+|+Erwin racial composition<ref>{{Cite web |title=Explore Census Data |url=https://data.census.gov/cedsci/table?g=1600000US4724360&tid=DECENNIALPL2020.P2 |url-status=live |archive-url=https://web.archive.org/web/20211226161934/https://data.census.gov/cedsci/table?g=1600000US4724360&tid=DECENNIALPL2020.P2 |archive-date=December 26, 2021 |access-date=December 26, 2021 |website=data.census.gov}}</ref>
+!scope="col"| Race
+!scope="col"| Number
+!scope="col"| Percentage
+|-
+!scope="row"| [[White (U.S. Census)|White]] (non-Hispanic)
+| 5,417
+| 89.05%
+|-
+!scope="row"| [[African American (U.S. Census)|Black or African American]] (non-Hispanic)
+| 19
+| 0.31%
+|-
+!scope="row"| [[Native American (U.S. Census)|Native American]]
+| 10
+| 0.16%
+|-
+!scope="row"| [[Asian (U.S. Census)|Asian]]
+| 11
+| 0.18%
+|-
+!scope="row"| [[Race (United States Census)|Other/Mixed]]
+| 185
+| 3.04%
+|-
+!scope="row"| [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]]
+| 441
+| 7.25%
+|}
+As of the [[2020 United States census]], there were 6,083 people, 2,657 households, and 1,632 families residing in the town.
+
+===2000 census===
+At the [[2000 United States census|2000 census]] there were 5,610 people in 2,470 households, including 1,588 families, in the city. The population density was {{convert|1,582.8|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 2,645 housing units at an average density of {{convert|746.2|/sqmi|/km2|sp=us|adj=off}}.  The [[Race and ethnicity in the United States Census#2000 census|racial makeup]] of the city was 97.77% white, 0.05% African American, 0.29% Native American, 0.11% Asian, 1.02% from other races, and 0.77% from two or more races. Hispanic or Latino of any race were 2.00%.<ref name="GR2" />
+
+Of the 2,470 households 23.4% had children under the age of 18 living with them, 50.6% were married couples living together, 10.9% had a single parent only, and 35.7% were non-families. 33.6% of households were one person and 18.3% were one person aged 65 or older. The average household size was 2.21 and the average family size was 2.80.
+
+The age distribution was 19.7% under the age of 18, 6.8% from 18 to 24, 25.5% from 25 to 44, 25.1% from 45 to 64, and 22.9% 65 or older. The median age was 44 years. For every 100 females, there were 86.3 males.<ref>{{Cite web |title=Profile of General Demographic Characteristics: 2000 |url=https://factfinder.census.gov/bkmk/table/1.0/en/DEC/00_SF1/DP1/1600000US4724360 |url-status=dead |archive-url=https://archive.today/20200213054904/https://factfinder.census.gov/bkmk/table/1.0/en/DEC/00_SF1/DP1/1600000US4724360 |archive-date=February 13, 2020 |access-date=November 22, 2017 |website=American FactFinder |publisher=U.S. Department of Commerce}}</ref>
+
+The median household income was $29,644 and the median family income  was $37,813. Males had a median income of $31,894 versus $20,118 for females. The per capita income for the city was $15,868. About 7.5% of families and 13.0% of the population were below the [[poverty line]], including 20.7% of those under age 18 and 8.2% of those age 65 or over.
+

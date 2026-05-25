@@ -1,0 +1,16 @@
+{
+  "article": "Chunky,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/13580/Chunky__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6942c9cc9202e743bf652d7c1b90b44640993704c457a30dcf1fa12ee8beed74",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6942c9cc9202e743bf652d7c1b90b44640993704c457a30dcf1fa12ee8beed74",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/13580/Chunky__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "13580",
+  "timestamp": "2026-05-24T23:50:05.280115Z",
+  "version": 1
+}

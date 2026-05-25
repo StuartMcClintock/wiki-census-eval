@@ -1,0 +1,16 @@
+{
+  "article": "Burnham,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/10256/Burnham__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "251cb190f1c53f5c0ac7826492044e19f68730157fe4b6e75fe0f5bea78346bc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "251cb190f1c53f5c0ac7826492044e19f68730157fe4b6e75fe0f5bea78346bc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/10256/Burnham__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "10256",
+  "timestamp": "2026-05-25T00:06:23.681776Z",
+  "version": 1
+}

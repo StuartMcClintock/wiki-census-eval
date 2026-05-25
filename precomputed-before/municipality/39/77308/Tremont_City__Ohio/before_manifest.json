@@ -1,0 +1,16 @@
+{
+  "article": "Tremont_City,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/77308/Tremont_City__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b5660f20dc2eb8e9f538bc599ebc4ed62cd156df1a2dd0b752b5e10c1969f864",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b5660f20dc2eb8e9f538bc599ebc4ed62cd156df1a2dd0b752b5e10c1969f864",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/77308/Tremont_City__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "77308",
+  "timestamp": "2026-05-25T00:05:32.669713Z",
+  "version": 1
+}

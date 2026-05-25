@@ -1,0 +1,80 @@
+==Demographics==
+{{US Census population
+|2010= 202
+|2020= 194
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=http://www.census.gov/prod/www/decennial.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2016}}</ref><br>2010<ref name=Census2010>[http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/1600000US3407120 DP-1 - Profile of General Population and Housing Characteristics: 2010 Demographic Profile Data for Brainards CDP, New Jersey] {{Webarchive|url=https://archive.today/20200212143159/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/1600000US3407120 |date=2020-02-12 }}, [[United States Census Bureau]]. Accessed September 27, 2012.</ref> 2020<ref name=Census2020/>
+}}
+
+Brainards first appeared as a [[census designated place]] in the [[2010 U.S. census]].<ref>{{Cite web|title= 2010 Census of Population - Population and Housing Unit Counts - New Jersey |url=https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-32.pdf|website=[[United States Census Bureau]]|archive-url=https://web.archive.org/web/20251111220031/https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-32.pdf| archive-date=November 11, 2025}}</ref>
+
+===2020 census===
+{| class="wikitable sortable" style="text-align:center;"
+|+'''Brainards CDP, New Jersey – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Brainards CDP, New Jersey|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US3407120&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!style="background-color: #ffffb3;" |Pop 2020<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Brainards CDP, New Jersey|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US3407120&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!% 2010
+!style="background-color: #ffffb3;" |% 2020
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|190
+|style='background: #ffffe6; |183
+|94.06%
+|style='background: #ffffe6; |94.33%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|6
+|style='background: #ffffe6; |1
+|2.97%
+|style='background: #ffffe6; |0.52%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|1
+|style='background: #ffffe6; |2
+|0.50%
+|style='background: #ffffe6; |1.03%
+|-
+|[[Native Hawaiian]] or [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|0
+|style='background: #ffffe6; |5
+|0.00%
+|style='background: #ffffe6; |2.58%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|5
+|style='background: #ffffe6; |3
+|2.48%
+|style='background: #ffffe6; |1.55%
+|-
+|'''Total'''
+|'''202'''
+|style='background: #ffffe6; |'''194 '''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+===2010 census===
+The [[2010 United States census]] counted 202 people, 73 households, and 56 families in the CDP. The [[population density]] was {{convert|1099.0|/sqmi}}. There were 79 housing units at an average density of {{convert|429.8|/sqmi}}. The racial makeup was 95.54% (193) [[White (U.S. census)|White]], 2.97% (6) [[Black (U.S. census)|Black or African American]], 0.99% (2) [[Native American (U.S. census)|Native American]], 0.50% (1) [[Asian (U.S. census)|Asian]], 0.00% (0) [[Pacific Islander (U.S. census)|Pacific Islander]], 0.00% (0) from [[Race and ethnicity in the United States census|other races]], and 0.00% (0) from two or more races. [[Hispanic (U.S. census)|Hispanic or Latino]] of any race were 2.48% (5) of the population.<ref name=Census2010/>
+
+Of the 73 households, 39.7% had children under the age of 18; 54.8% were married couples living together; 17.8% had a female householder with no husband present and 23.3% were non-families. Of all households, 17.8% were made up of individuals and 12.3% had someone living alone who was 65 years of age or older. The average household size was 2.77 and the average family size was 3.11.<ref name=Census2010/>
+
+25.2% of the population were under the age of 18, 10.4% from 18 to 24, 25.2% from 25 to 44, 29.2% from 45 to 64, and 9.9% who were 65 years of age or older. The median age was 40.0 years. For every 100 females, the population had 100.0 males. For every 100 females ages 18 and older there were 93.6 males.<ref name=Census2010/>
+

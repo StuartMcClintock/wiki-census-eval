@@ -1,0 +1,16 @@
+{
+  "article": "Idaville,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/35536/Idaville__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "da381c4e7158fb481bc58b1c7257da514c7f3088fc4ba035f53acd729ee54b0b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "da381c4e7158fb481bc58b1c7257da514c7f3088fc4ba035f53acd729ee54b0b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/35536/Idaville__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "35536",
+  "timestamp": "2026-05-24T23:39:39.798460Z",
+  "version": 1
+}

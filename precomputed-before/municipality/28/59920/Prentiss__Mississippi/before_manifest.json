@@ -1,0 +1,16 @@
+{
+  "article": "Prentiss,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/59920/Prentiss__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "48f3d4a0b1d6b0b6ff608ad7a66cc65bcc99850ba0b9f2c34366cb3dbea26925",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "48f3d4a0b1d6b0b6ff608ad7a66cc65bcc99850ba0b9f2c34366cb3dbea26925",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/59920/Prentiss__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "59920",
+  "timestamp": "2026-05-24T23:50:21.042041Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Surry,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/76880/Surry__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cf969378ed8dd510384de1ec802f717581168f1b33ceee0a76205b03120416fe",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cf969378ed8dd510384de1ec802f717581168f1b33ceee0a76205b03120416fe",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/76880/Surry__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "76880",
+  "timestamp": "2026-05-25T00:19:40.857646Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Lampeter,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/41192/Lampeter__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "075d2289fd351cd24bee7004b1368119467ea98691b4293708306afd0668a04a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "075d2289fd351cd24bee7004b1368119467ea98691b4293708306afd0668a04a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/41192/Lampeter__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "41192",
+  "timestamp": "2026-05-25T00:07:47.649982Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "West_Sunbury,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/84064/West_Sunbury__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "749843b024f92d84ed8b363bad29eac0b9cd776507443a38ef996fd08b8447eb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "749843b024f92d84ed8b363bad29eac0b9cd776507443a38ef996fd08b8447eb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/84064/West_Sunbury__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "84064",
+  "timestamp": "2026-05-25T00:09:29.582215Z",
+  "version": 1
+}

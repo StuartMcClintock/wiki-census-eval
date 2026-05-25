@@ -1,0 +1,16 @@
+{
+  "article": "Pine_Knoll_Shores,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/52000/Pine_Knoll_Shores__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0735614badce742c815571f376c56213e0fdb0b3a2cf30f5154d53c41607eae8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0735614badce742c815571f376c56213e0fdb0b3a2cf30f5154d53c41607eae8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/52000/Pine_Knoll_Shores__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "52000",
+  "timestamp": "2026-05-25T00:02:16.108817Z",
+  "version": 1
+}

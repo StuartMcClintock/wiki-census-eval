@@ -1,0 +1,16 @@
+{
+  "article": "Bloomfield,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/07675/Bloomfield__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ef04c6611c493ce7c22e6ccc437216b7d93bfbc42c58c7ffe2ef89d2c12177b1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ef04c6611c493ce7c22e6ccc437216b7d93bfbc42c58c7ffe2ef89d2c12177b1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/07675/Bloomfield__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "07675",
+  "timestamp": "2026-05-24T23:54:15.612344Z",
+  "version": 1
+}

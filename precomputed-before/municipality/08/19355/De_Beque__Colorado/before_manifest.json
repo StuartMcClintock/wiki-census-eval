@@ -1,0 +1,16 @@
+{
+  "article": "De_Beque,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/19355/De_Beque__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "535f9317569a246b1e33f967706524efdbea18e13ff40bed6462cf852afecc87",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "535f9317569a246b1e33f967706524efdbea18e13ff40bed6462cf852afecc87",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/19355/De_Beque__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "19355",
+  "timestamp": "2026-05-24T23:35:23.370686Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Slippery_Rock_University,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/71210/Slippery_Rock_University__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3316cef07f34773a1bd40594236bf70d43e59a945de3fa67eba7aec2b5bd8fe2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3316cef07f34773a1bd40594236bf70d43e59a945de3fa67eba7aec2b5bd8fe2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/71210/Slippery_Rock_University__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "71210",
+  "timestamp": "2026-05-25T00:09:05.710727Z",
+  "version": 1
+}

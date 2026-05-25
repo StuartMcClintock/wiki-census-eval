@@ -1,0 +1,16 @@
+{
+  "article": "Rogersville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/65848/Rogersville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4d031b17f605b969963f960b4f96cbc8174eb69037e82b28ae7e4d2e1c74a51c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4d031b17f605b969963f960b4f96cbc8174eb69037e82b28ae7e4d2e1c74a51c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/65848/Rogersville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "65848",
+  "timestamp": "2026-05-25T00:08:51.333305Z",
+  "version": 1
+}

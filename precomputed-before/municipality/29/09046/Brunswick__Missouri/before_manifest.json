@@ -1,0 +1,16 @@
+{
+  "article": "Brunswick,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/09046/Brunswick__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "18752039d79f5c197194ffedab948968cf1c4e8919865efe347db6b00f1b2c42",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "18752039d79f5c197194ffedab948968cf1c4e8919865efe347db6b00f1b2c42",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/09046/Brunswick__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "09046",
+  "timestamp": "2026-05-24T23:50:50.694371Z",
+  "version": 1
+}

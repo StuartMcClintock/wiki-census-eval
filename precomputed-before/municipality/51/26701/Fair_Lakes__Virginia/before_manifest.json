@@ -1,0 +1,16 @@
+{
+  "article": "Fair_Lakes,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/26701/Fair_Lakes__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6020c55462b7e27ad8814dc51da495737802249a2ac9c7a6940dd97a963b1699",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6020c55462b7e27ad8814dc51da495737802249a2ac9c7a6940dd97a963b1699",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/26701/Fair_Lakes__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "26701",
+  "timestamp": "2026-05-25T00:19:12.388466Z",
+  "version": 1
+}

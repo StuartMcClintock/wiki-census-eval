@@ -1,0 +1,16 @@
+{
+  "article": "Bendersville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/05536/Bendersville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1ea800210871eaf0a6769b8087b75d6d2927df9852f9e2d5065bbe787f866efc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1ea800210871eaf0a6769b8087b75d6d2927df9852f9e2d5065bbe787f866efc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/05536/Bendersville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "05536",
+  "timestamp": "2026-05-25T00:06:16.066059Z",
+  "version": 1
+}

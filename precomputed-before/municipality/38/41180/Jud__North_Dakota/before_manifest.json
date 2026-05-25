@@ -1,0 +1,16 @@
+{
+  "article": "Jud,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/41180/Jud__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b316a87884ea315f53ccdaf4355663a1efde52c2ca4fe9bcf1a2f83febae6ee5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b316a87884ea315f53ccdaf4355663a1efde52c2ca4fe9bcf1a2f83febae6ee5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/41180/Jud__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "41180",
+  "timestamp": "2026-05-25T00:03:05.517660Z",
+  "version": 1
+}

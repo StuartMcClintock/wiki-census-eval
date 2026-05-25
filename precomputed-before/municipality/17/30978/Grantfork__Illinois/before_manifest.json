@@ -1,0 +1,16 @@
+{
+  "article": "Grantfork,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/30978/Grantfork__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8f08ca5abbfb3df18d5b4b2a98ca53b4515db7b6579baf4cd28743e8dd604bc4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8f08ca5abbfb3df18d5b4b2a98ca53b4515db7b6579baf4cd28743e8dd604bc4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/30978/Grantfork__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "30978",
+  "timestamp": "2026-05-24T23:38:17.548054Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Freedom,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/27712/Freedom__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3a0054527a9dded7c70b5d3649814fd4777b680427c152dcf64fae172046141d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3a0054527a9dded7c70b5d3649814fd4777b680427c152dcf64fae172046141d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/27712/Freedom__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "27712",
+  "timestamp": "2026-05-25T00:07:12.451339Z",
+  "version": 1
+}

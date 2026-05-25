@@ -1,0 +1,16 @@
+{
+  "article": "Remington,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/66180/Remington__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "57b9c63ee2e57f90f3050e7cf79d982222e19639dbce516957d2fce3c5062723",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "57b9c63ee2e57f90f3050e7cf79d982222e19639dbce516957d2fce3c5062723",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/66180/Remington__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "66180",
+  "timestamp": "2026-05-25T00:05:09.900846Z",
+  "version": 1
+}

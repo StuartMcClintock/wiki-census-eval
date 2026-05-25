@@ -1,0 +1,16 @@
+{
+  "article": "Makanda,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/46214/Makanda__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0e102657805dc1073cb1bbf3d821e666e62dfceb669a9fd640d4912cdf80888c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0e102657805dc1073cb1bbf3d821e666e62dfceb669a9fd640d4912cdf80888c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/46214/Makanda__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "46214",
+  "timestamp": "2026-05-24T23:38:32.414109Z",
+  "version": 1
+}

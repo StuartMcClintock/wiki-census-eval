@@ -1,0 +1,16 @@
+{
+  "article": "Faywood,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/25870/Faywood__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3f8f6b8cb47c6a482bd61bd781ab7ab66c0904ca6ad089481e115337bdc4f20e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3f8f6b8cb47c6a482bd61bd781ab7ab66c0904ca6ad089481e115337bdc4f20e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/25870/Faywood__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "25870",
+  "timestamp": "2026-05-24T23:58:30.556490Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Sunflower,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/71600/Sunflower__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d31eb4919399ea4a69743e80fed730ae31bf3b08a8f2a1af901f421073050779",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d31eb4919399ea4a69743e80fed730ae31bf3b08a8f2a1af901f421073050779",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/71600/Sunflower__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "71600",
+  "timestamp": "2026-05-24T23:50:26.386542Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Meadowbrook_Farm,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/51193/Meadowbrook_Farm__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5eaa16ec443250ab0647cb001ee6f576d40ad4e80d2e403ed6c2ec7703dcc9c4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5eaa16ec443250ab0647cb001ee6f576d40ad4e80d2e403ed6c2ec7703dcc9c4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/51193/Meadowbrook_Farm__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "51193",
+  "timestamp": "2026-05-24T23:44:12.132924Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Rough_Rock,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/61370/Rough_Rock__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6b64e3fbc196a1647f79ef0636c941fa825aa24de2599999048f231b7d35a9df",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6b64e3fbc196a1647f79ef0636c941fa825aa24de2599999048f231b7d35a9df",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/61370/Rough_Rock__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "61370",
+  "timestamp": "2026-05-24T23:33:07.694739Z",
+  "version": 1
+}

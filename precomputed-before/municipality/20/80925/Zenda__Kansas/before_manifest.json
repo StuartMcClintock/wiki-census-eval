@@ -1,0 +1,16 @@
+{
+  "article": "Zenda,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/80925/Zenda__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ea386ccb1d3510f43914700cc41c61ce7daa21b53229797a318d02409dd02135",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ea386ccb1d3510f43914700cc41c61ce7daa21b53229797a318d02409dd02135",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/80925/Zenda__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "80925",
+  "timestamp": "2026-05-24T23:43:40.313824Z",
+  "version": 1
+}

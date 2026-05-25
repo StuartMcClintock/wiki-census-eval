@@ -1,0 +1,16 @@
+{
+  "article": "Grand_Cane,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/30690/Grand_Cane__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "22654e76ba514569a13dd1fe7a477b0d89cd3c3da8013a208495a4a4080e0ff9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "22654e76ba514569a13dd1fe7a477b0d89cd3c3da8013a208495a4a4080e0ff9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/30690/Grand_Cane__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "30690",
+  "timestamp": "2026-05-24T23:44:49.687777Z",
+  "version": 1
+}

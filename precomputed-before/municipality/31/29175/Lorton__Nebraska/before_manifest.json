@@ -1,0 +1,16 @@
+{
+  "article": "Lorton,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/29175/Lorton__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "53858a29ad1b8603d1e91582d3b347d451156dc801073e31d8ccd12cebffedd8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "53858a29ad1b8603d1e91582d3b347d451156dc801073e31d8ccd12cebffedd8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/29175/Lorton__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "29175",
+  "timestamp": "2026-05-24T23:55:49.671722Z",
+  "version": 1
+}

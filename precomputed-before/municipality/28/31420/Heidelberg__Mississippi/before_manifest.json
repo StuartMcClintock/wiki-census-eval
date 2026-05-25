@@ -1,0 +1,16 @@
+{
+  "article": "Heidelberg,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/31420/Heidelberg__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3a601ab2e79bcd1ac379b249241ae479f7b0d44ed69a85bfd9393629afaa35bb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3a601ab2e79bcd1ac379b249241ae479f7b0d44ed69a85bfd9393629afaa35bb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/31420/Heidelberg__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "31420",
+  "timestamp": "2026-05-24T23:50:11.903583Z",
+  "version": 1
+}

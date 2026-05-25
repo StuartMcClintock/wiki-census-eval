@@ -1,0 +1,16 @@
+{
+  "article": "Danville,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/21688/Danville__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "96b18f4cefb9bf4b88b2ae4bc5371a48e977d306ba58895f616316ac12a3c3ff",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "96b18f4cefb9bf4b88b2ae4bc5371a48e977d306ba58895f616316ac12a3c3ff",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/21688/Danville__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "21688",
+  "timestamp": "2026-05-24T23:36:34.015443Z",
+  "version": 1
+}

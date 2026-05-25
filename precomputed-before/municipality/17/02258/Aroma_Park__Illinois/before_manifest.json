@@ -1,0 +1,16 @@
+{
+  "article": "Aroma_Park,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/02258/Aroma_Park__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "75a08651b483a6cfb5fc8b28f7b1d6e2d5514083384dca957978b90576ecd550",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "75a08651b483a6cfb5fc8b28f7b1d6e2d5514083384dca957978b90576ecd550",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/02258/Aroma_Park__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "02258",
+  "timestamp": "2026-05-24T23:37:34.329043Z",
+  "version": 1
+}

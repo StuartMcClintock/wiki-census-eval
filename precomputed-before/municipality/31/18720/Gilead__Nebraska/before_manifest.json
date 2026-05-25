@@ -1,0 +1,16 @@
+{
+  "article": "Gilead,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/18720/Gilead__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8182efa6d34d2f3ad2c67d52824a937c1077beb7595f24c717c1b91e43a07183",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8182efa6d34d2f3ad2c67d52824a937c1077beb7595f24c717c1b91e43a07183",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/18720/Gilead__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "18720",
+  "timestamp": "2026-05-24T23:55:28.439669Z",
+  "version": 1
+}

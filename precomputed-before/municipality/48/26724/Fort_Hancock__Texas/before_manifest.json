@@ -1,0 +1,16 @@
+{
+  "article": "Fort_Hancock,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/26724/Fort_Hancock__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b3ee54e4a9e50293a3b2a67c61b61fd35d5f70c7ae66dc71e838d9890dd8c0e6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b3ee54e4a9e50293a3b2a67c61b61fd35d5f70c7ae66dc71e838d9890dd8c0e6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/26724/Fort_Hancock__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "26724",
+  "timestamp": "2026-05-25T00:15:36.944815Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Corbin_City,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/15160/Corbin_City__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5dbf4602843bf89fc97a3c4fac16393d74deaeb76d950d705b922da95107ceee",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5dbf4602843bf89fc97a3c4fac16393d74deaeb76d950d705b922da95107ceee",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/15160/Corbin_City__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "15160",
+  "timestamp": "2026-05-24T23:57:44.262182Z",
+  "version": 1
+}

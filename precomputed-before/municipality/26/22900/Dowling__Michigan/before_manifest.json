@@ -1,0 +1,16 @@
+{
+  "article": "Dowling,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/22900/Dowling__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "eefe03ea65889d1bb2b28c61c7c54ee0d44a0c94dc34f87b67a3d2317bd9a57e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "eefe03ea65889d1bb2b28c61c7c54ee0d44a0c94dc34f87b67a3d2317bd9a57e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/22900/Dowling__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "22900",
+  "timestamp": "2026-05-24T23:47:52.223741Z",
+  "version": 1
+}

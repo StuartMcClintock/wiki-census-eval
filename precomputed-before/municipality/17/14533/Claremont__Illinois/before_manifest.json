@@ -1,0 +1,16 @@
+{
+  "article": "Claremont,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/14533/Claremont__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cc7af5a9913b44e462f0c031df933db03ede24178b4055524ad598a233ae4d4e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cc7af5a9913b44e462f0c031df933db03ede24178b4055524ad598a233ae4d4e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/14533/Claremont__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "14533",
+  "timestamp": "2026-05-24T23:38:00.962318Z",
+  "version": 1
+}

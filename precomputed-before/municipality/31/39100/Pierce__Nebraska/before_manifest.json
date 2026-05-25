@@ -1,0 +1,16 @@
+{
+  "article": "Pierce,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/39100/Pierce__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aaa36bc4672a3c982c7e2913f7a45a4e982462ad4c0f57bc1c925920cc9dc624",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aaa36bc4672a3c982c7e2913f7a45a4e982462ad4c0f57bc1c925920cc9dc624",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/39100/Pierce__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "39100",
+  "timestamp": "2026-05-24T23:56:03.077777Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Big_Delta,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/06850/Big_Delta__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "56e97126883cdd8d7277bbcd6f8812d4a8c4c7899a8092e4373a728bc2ee5c18",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "56e97126883cdd8d7277bbcd6f8812d4a8c4c7899a8092e4373a728bc2ee5c18",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/06850/Big_Delta__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "06850",
+  "timestamp": "2026-05-24T23:32:18.179931Z",
+  "version": 1
+}

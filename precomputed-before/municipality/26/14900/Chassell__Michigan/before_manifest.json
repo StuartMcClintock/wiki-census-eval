@@ -1,0 +1,16 @@
+{
+  "article": "Chassell,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/14900/Chassell__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e6b1f8a27f228ffdf6b9bbdb6113624c00a33e4964c8758399c430305adc626c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e6b1f8a27f228ffdf6b9bbdb6113624c00a33e4964c8758399c430305adc626c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/14900/Chassell__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "14900",
+  "timestamp": "2026-05-24T23:47:48.265871Z",
+  "version": 1
+}

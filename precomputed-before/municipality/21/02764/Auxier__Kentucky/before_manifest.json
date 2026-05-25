@@ -1,0 +1,16 @@
+{
+  "article": "Auxier,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/02764/Auxier__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6113ee5351adcf8bc0d8698b09002aeafe0b6cdf67baa7b2a07b7996718cde9d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6113ee5351adcf8bc0d8698b09002aeafe0b6cdf67baa7b2a07b7996718cde9d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/02764/Auxier__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "02764",
+  "timestamp": "2026-05-24T23:43:41.600091Z",
+  "version": 1
+}

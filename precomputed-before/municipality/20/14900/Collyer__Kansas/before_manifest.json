@@ -1,0 +1,16 @@
+{
+  "article": "Collyer,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/14900/Collyer__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5ffb90039ad0c99629f9180c6c468687f3b16657709d0926f8496ea0f72931ac",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5ffb90039ad0c99629f9180c6c468687f3b16657709d0926f8496ea0f72931ac",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/14900/Collyer__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "14900",
+  "timestamp": "2026-05-24T23:42:29.292592Z",
+  "version": 1
+}

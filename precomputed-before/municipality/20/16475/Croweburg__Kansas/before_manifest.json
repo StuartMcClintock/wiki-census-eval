@@ -1,0 +1,16 @@
+{
+  "article": "Croweburg,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/16475/Croweburg__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d5af37b8adccc1f82db11d425e0216ede61393a13086e2a6a350b8e110ee639e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d5af37b8adccc1f82db11d425e0216ede61393a13086e2a6a350b8e110ee639e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/16475/Croweburg__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "16475",
+  "timestamp": "2026-05-24T23:42:30.781988Z",
+  "version": 1
+}

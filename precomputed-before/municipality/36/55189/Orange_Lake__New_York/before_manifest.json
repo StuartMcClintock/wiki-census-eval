@@ -1,0 +1,16 @@
+{
+  "article": "Orange_Lake,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/55189/Orange_Lake__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6c0b2595091950d4c04eeba3cba6759dff5617d193f75a01223a3696730f53d4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6c0b2595091950d4c04eeba3cba6759dff5617d193f75a01223a3696730f53d4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/55189/Orange_Lake__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "55189",
+  "timestamp": "2026-05-25T00:01:00.656303Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Tillson,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/73902/Tillson__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bd38dea4acc8daf7ec4c6bb83a6200d143fe0b7420342d9f32a2d75d62c3be57",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bd38dea4acc8daf7ec4c6bb83a6200d143fe0b7420342d9f32a2d75d62c3be57",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/73902/Tillson__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "73902",
+  "timestamp": "2026-05-25T00:01:20.082077Z",
+  "version": 1
+}

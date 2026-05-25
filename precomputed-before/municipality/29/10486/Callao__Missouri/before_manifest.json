@@ -1,0 +1,16 @@
+{
+  "article": "Callao,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/10486/Callao__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bb35f6c230279f96b4b6c639726eb5e173753c24fcc6eb9d055aa3020b5637ff",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bb35f6c230279f96b4b6c639726eb5e173753c24fcc6eb9d055aa3020b5637ff",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/10486/Callao__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "10486",
+  "timestamp": "2026-05-24T23:50:52.144234Z",
+  "version": 1
+}

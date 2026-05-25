@@ -1,0 +1,16 @@
+{
+  "article": "Chicken,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/13450/Chicken__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "00b9bfd1e9b7d98c6ecacaf3cad29743e732287f02ceb089dbf49fc8618bc00e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "00b9bfd1e9b7d98c6ecacaf3cad29743e732287f02ceb089dbf49fc8618bc00e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/13450/Chicken__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "13450",
+  "timestamp": "2026-05-24T23:32:19.144418Z",
+  "version": 1
+}

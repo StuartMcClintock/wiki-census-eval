@@ -1,0 +1,16 @@
+{
+  "article": "Stockville,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/47290/Stockville__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e434cf31a2405622854e73ae43d0746ca20ba74e75d6da72d1cc8d3ec58b5199",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e434cf31a2405622854e73ae43d0746ca20ba74e75d6da72d1cc8d3ec58b5199",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/47290/Stockville__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "47290",
+  "timestamp": "2026-05-24T23:57:18.364703Z",
+  "version": 1
+}

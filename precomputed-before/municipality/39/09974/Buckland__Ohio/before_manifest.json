@@ -1,0 +1,16 @@
+{
+  "article": "Buckland,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/09974/Buckland__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6cbfcbdc9dceb7d65022549fd5f0953f0bc81f0fac35192165febc392c3421ab",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6cbfcbdc9dceb7d65022549fd5f0953f0bc81f0fac35192165febc392c3421ab",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/09974/Buckland__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "09974",
+  "timestamp": "2026-05-25T00:03:39.406997Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Chance,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/15075/Chance__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "667254db84775f43c9ec01012c0ef104cc81871cb9d4d7dad8e2d324a3aec133",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "667254db84775f43c9ec01012c0ef104cc81871cb9d4d7dad8e2d324a3aec133",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/15075/Chance__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "15075",
+  "timestamp": "2026-05-24T23:47:16.590808Z",
+  "version": 1
+}

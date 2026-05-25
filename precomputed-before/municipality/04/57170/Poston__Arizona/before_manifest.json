@@ -1,0 +1,16 @@
+{
+  "article": "Poston,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/57170/Poston__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d6400d7d28ce86a65b6ef702d3fe15dee269b438fe19dd6f943ffced1a9ec35b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d6400d7d28ce86a65b6ef702d3fe15dee269b438fe19dd6f943ffced1a9ec35b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/57170/Poston__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "57170",
+  "timestamp": "2026-05-24T23:33:06.745125Z",
+  "version": 1
+}

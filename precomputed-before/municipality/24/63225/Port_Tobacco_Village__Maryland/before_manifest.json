@@ -1,0 +1,16 @@
+{
+  "article": "Port_Tobacco_Village,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/63225/Port_Tobacco_Village__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "78bda77e7ca3e231565a9dc062cf1e982a8cd05ba7893c2204e684b0956435a9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "78bda77e7ca3e231565a9dc062cf1e982a8cd05ba7893c2204e684b0956435a9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/63225/Port_Tobacco_Village__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "63225",
+  "timestamp": "2026-05-24T23:47:31.085867Z",
+  "version": 1
+}

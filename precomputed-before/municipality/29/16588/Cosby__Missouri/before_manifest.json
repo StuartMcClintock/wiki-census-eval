@@ -1,0 +1,16 @@
+{
+  "article": "Cosby,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/16588/Cosby__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bfb32d85f130f9bb1f47006abb9685616d399ac804fc1f63e371acb8aa6c8c0b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bfb32d85f130f9bb1f47006abb9685616d399ac804fc1f63e371acb8aa6c8c0b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/16588/Cosby__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "16588",
+  "timestamp": "2026-05-24T23:51:01.046889Z",
+  "version": 1
+}

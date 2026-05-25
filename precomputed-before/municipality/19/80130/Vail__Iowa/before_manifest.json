@@ -1,0 +1,16 @@
+{
+  "article": "Vail,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/80130/Vail__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "16844eab139b0e8bf3615149e0b5f20710390c8b553acd707f7ecae56e729a0d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "16844eab139b0e8bf3615149e0b5f20710390c8b553acd707f7ecae56e729a0d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/80130/Vail__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "80130",
+  "timestamp": "2026-05-24T23:42:07.551296Z",
+  "version": 1
+}

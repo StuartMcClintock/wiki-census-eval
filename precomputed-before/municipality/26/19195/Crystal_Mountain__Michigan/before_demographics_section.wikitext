@@ -1,0 +1,55 @@
+==Demographics==
+{{US Census population
+|2020= 73
+|2010= 54
+|footnote=U.S. Decennial Census<ref name=C2020/>
+}}
+{| class="wikitable"
+|'''Y-o-Y Change'''
+|-
+|'''Total Population'''
+|100
+|69.5%
+|-
+|'''Male Population'''
+|51
+|27.5%
+|-
+|'''Female Population'''
+|49
+|157.9%
+|}
+Male population 51%
+
+Female population 49%
+{| class="wikitable"
+| colspan="2" |
+|'''Y-o-Y Change'''
+|-
+|'''Median Age'''
+|50.5
+| -27.9%
+|-
+|'''Citizen US Born'''
+|100
+|69.5%
+|}
+Citizen US Born 100%
+{| class="wikitable"
+| colspan="2" |
+|'''Y-o-Y Change'''
+|-
+|'''Moved from Same County'''
+|4
+|N/A
+|-
+|'''Moved from Same State'''
+|11
+|N/A
+|-
+|'''Same House as Last Year'''
+|85
+|44.1%
+|}
+.<ref>{{Cite web |title=Crystal Mountain, MI Household Income, Population & Demographics {{!}} Point2 |url=https://www.point2homes.com/US/Neighborhood/MI/Crystal-Mountain-Demographics.html |access-date=2023-02-18 |website=www.point2homes.com |language=en}}</ref>
+

@@ -1,0 +1,16 @@
+{
+  "article": "Thompsontown,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/76536/Thompsontown__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e634c55863ca05d447143c13ab7dd306ea1e0144a436cb15f83ea5f81509d3c0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e634c55863ca05d447143c13ab7dd306ea1e0144a436cb15f83ea5f81509d3c0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/76536/Thompsontown__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "76536",
+  "timestamp": "2026-05-25T00:09:16.324043Z",
+  "version": 1
+}

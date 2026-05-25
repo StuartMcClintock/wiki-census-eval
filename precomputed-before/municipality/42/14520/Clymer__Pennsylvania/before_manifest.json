@@ -1,0 +1,16 @@
+{
+  "article": "Clymer,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/14520/Clymer__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f5bb8ad5a4515dabb996a783ca3d8be3b5fc44e7770c3e59c5595e7f45f2a6d2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f5bb8ad5a4515dabb996a783ca3d8be3b5fc44e7770c3e59c5595e7f45f2a6d2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/14520/Clymer__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "14520",
+  "timestamp": "2026-05-25T00:06:43.359919Z",
+  "version": 1
+}

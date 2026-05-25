@@ -1,0 +1,16 @@
+{
+  "article": "Cornell,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/16405/Cornell__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "08d77d2e3a51a7a55d91470f0816b326c1e6130d0b58c47609ce5ace9bdaeafa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "08d77d2e3a51a7a55d91470f0816b326c1e6130d0b58c47609ce5ace9bdaeafa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/16405/Cornell__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "16405",
+  "timestamp": "2026-05-24T23:38:03.140828Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Sand_Hill,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/67744/Sand_Hill__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "53c0cc4963244327d53953132417fdc28bb9b8a3dc61534f2ddd977396513271",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "53c0cc4963244327d53953132417fdc28bb9b8a3dc61534f2ddd977396513271",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/67744/Sand_Hill__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "67744",
+  "timestamp": "2026-05-25T00:08:56.643900Z",
+  "version": 1
+}

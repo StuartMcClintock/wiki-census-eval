@@ -1,0 +1,16 @@
+{
+  "article": "Hilldale,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/34776/Hilldale__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1f6ff293b874a65c41a0279a191e1c44a79098649fc5a0f7e6ba5fb16fe3ad7b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1f6ff293b874a65c41a0279a191e1c44a79098649fc5a0f7e6ba5fb16fe3ad7b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/34776/Hilldale__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "34776",
+  "timestamp": "2026-05-25T00:07:25.823197Z",
+  "version": 1
+}

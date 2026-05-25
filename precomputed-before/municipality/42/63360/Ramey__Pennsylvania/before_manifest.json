@@ -1,0 +1,16 @@
+{
+  "article": "Ramey,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/63360/Ramey__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "eb1b86050c4c23826f98aa601c28e38455ba76af5a18e4e357cd8b72dfaa0d9f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "eb1b86050c4c23826f98aa601c28e38455ba76af5a18e4e357cd8b72dfaa0d9f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/63360/Ramey__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "63360",
+  "timestamp": "2026-05-25T00:08:35.256790Z",
+  "version": 1
+}

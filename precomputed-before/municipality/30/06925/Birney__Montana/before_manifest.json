@@ -1,0 +1,16 @@
+{
+  "article": "Birney,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/06925/Birney__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f3b8dfc9eb1492f6714a4ecb89fa85d6aa9c947bcab151b51ba8c504da8ba92f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f3b8dfc9eb1492f6714a4ecb89fa85d6aa9c947bcab151b51ba8c504da8ba92f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/06925/Birney__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "06925",
+  "timestamp": "2026-05-24T23:54:15.323145Z",
+  "version": 1
+}

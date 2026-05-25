@@ -1,0 +1,16 @@
+{
+  "article": "Hunter_Creek,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/34700/Hunter_Creek__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bdcc3c09fc16fec132a02179fd7398c7a7bf3292c11471ddb32ec61b3b96b48d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bdcc3c09fc16fec132a02179fd7398c7a7bf3292c11471ddb32ec61b3b96b48d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/34700/Hunter_Creek__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "34700",
+  "timestamp": "2026-05-24T23:32:56.631757Z",
+  "version": 1
+}

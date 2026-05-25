@@ -1,0 +1,16 @@
+{
+  "article": "Bennett,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/05770/Bennett__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4fb9a8f38ed48c0ae4022e32c1a51ad9668791341158df3e11373d3612717355",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4fb9a8f38ed48c0ae4022e32c1a51ad9668791341158df3e11373d3612717355",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/05770/Bennett__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "05770",
+  "timestamp": "2026-05-24T23:40:27.233764Z",
+  "version": 1
+}

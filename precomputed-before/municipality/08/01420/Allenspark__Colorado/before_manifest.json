@@ -1,0 +1,16 @@
+{
+  "article": "Allenspark,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/01420/Allenspark__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "05df7f2db846da4083d899c4274218f281f9b5ddb0a4c560ba352d047b88816e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "05df7f2db846da4083d899c4274218f281f9b5ddb0a4c560ba352d047b88816e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/01420/Allenspark__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "01420",
+  "timestamp": "2026-05-24T23:35:17.179916Z",
+  "version": 1
+}

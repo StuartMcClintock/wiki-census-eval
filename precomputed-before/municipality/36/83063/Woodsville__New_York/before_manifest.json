@@ -1,0 +1,16 @@
+{
+  "article": "Woodsville,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/83063/Woodsville__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "92b08401d1a6b178088386025e3faf1ce7d59504c68a1bf4d88b6367925023f8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "92b08401d1a6b178088386025e3faf1ce7d59504c68a1bf4d88b6367925023f8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/83063/Woodsville__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "83063",
+  "timestamp": "2026-05-25T00:01:39.282252Z",
+  "version": 1
+}

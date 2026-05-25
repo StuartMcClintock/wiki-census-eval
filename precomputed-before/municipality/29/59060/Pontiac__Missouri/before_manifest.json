@@ -1,0 +1,16 @@
+{
+  "article": "Pontiac,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/59060/Pontiac__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3f4ecac424b50baa3c5d9c37f52bcf8458e4a3fbc1722867f08f538ce9f2e866",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3f4ecac424b50baa3c5d9c37f52bcf8458e4a3fbc1722867f08f538ce9f2e866",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/59060/Pontiac__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "59060",
+  "timestamp": "2026-05-24T23:53:43.110576Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Chelsea_Cove,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/15060/Chelsea_Cove__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "69a36a6f09ae9cc6c53f802312b6aee737e7d8a484a1556042c49a3701b5c617",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "69a36a6f09ae9cc6c53f802312b6aee737e7d8a484a1556042c49a3701b5c617",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/15060/Chelsea_Cove__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "15060",
+  "timestamp": "2026-05-25T00:00:35.955782Z",
+  "version": 1
+}

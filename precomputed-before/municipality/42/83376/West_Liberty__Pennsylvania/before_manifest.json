@@ -1,0 +1,16 @@
+{
+  "article": "West_Liberty,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/83376/West_Liberty__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7790ac4059b8ef919a78629df63d18d02c146346ae862c6f28b3d3f9c76c56f3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7790ac4059b8ef919a78629df63d18d02c146346ae862c6f28b3d3f9c76c56f3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/83376/West_Liberty__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "83376",
+  "timestamp": "2026-05-25T00:09:28.407894Z",
+  "version": 1
+}

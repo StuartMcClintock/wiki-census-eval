@@ -1,0 +1,16 @@
+{
+  "article": "West_Sand_Lake,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/80863/West_Sand_Lake__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8fa6c6c011b6c500ea2e521e296a8ee3a886b423981161c8584dbff9b021e98e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8fa6c6c011b6c500ea2e521e296a8ee3a886b423981161c8584dbff9b021e98e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/80863/West_Sand_Lake__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "80863",
+  "timestamp": "2026-05-25T00:01:26.516318Z",
+  "version": 1
+}

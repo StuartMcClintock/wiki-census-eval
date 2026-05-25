@@ -1,0 +1,16 @@
+{
+  "article": "Pickrell,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/39065/Pickrell__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4b4ab03d6232d6a2e8be03864493c1d281276858a6ac52ee1b71f19551d735e3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4b4ab03d6232d6a2e8be03864493c1d281276858a6ac52ee1b71f19551d735e3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/39065/Pickrell__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "39065",
+  "timestamp": "2026-05-24T23:56:02.979306Z",
+  "version": 1
+}

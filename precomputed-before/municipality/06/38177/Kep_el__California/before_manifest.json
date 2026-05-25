@@ -1,0 +1,16 @@
+{
+  "article": "Kep'el,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/38177/Kep_el__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "da4843a4057c3b18be7e035515b74846ae2c1b5dda7360104fa0c554288d3e50",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "da4843a4057c3b18be7e035515b74846ae2c1b5dda7360104fa0c554288d3e50",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/38177/Kep_el__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "38177",
+  "timestamp": "2026-05-24T23:34:31.538580Z",
+  "version": 1
+}

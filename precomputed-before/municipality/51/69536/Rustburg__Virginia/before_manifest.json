@@ -1,0 +1,16 @@
+{
+  "article": "Rustburg,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/69536/Rustburg__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "be90dd96838e473f8a2265799a1efb5a03347684f628dcc1d2ba6710ef57cc6e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "be90dd96838e473f8a2265799a1efb5a03347684f628dcc1d2ba6710ef57cc6e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/69536/Rustburg__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "69536",
+  "timestamp": "2026-05-25T00:19:35.226571Z",
+  "version": 1
+}

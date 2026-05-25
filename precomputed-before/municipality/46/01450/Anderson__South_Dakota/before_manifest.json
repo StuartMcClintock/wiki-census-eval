@@ -1,0 +1,16 @@
+{
+  "article": "Anderson,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/01450/Anderson__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bca4a2935a017b918009ced1189cb691dd9b642c45ca58aa37387ea34975e9e6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bca4a2935a017b918009ced1189cb691dd9b642c45ca58aa37387ea34975e9e6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/01450/Anderson__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "01450",
+  "timestamp": "2026-05-25T00:10:29.638993Z",
+  "version": 1
+}

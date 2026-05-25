@@ -1,0 +1,16 @@
+{
+  "article": "Pineville,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/55580/Pineville__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ea7bb9701b1cd20314c216dd55eacdd3a8027f0f201a3955bd648178ecb2a659",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ea7bb9701b1cd20314c216dd55eacdd3a8027f0f201a3955bd648178ecb2a659",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/55580/Pineville__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "55580",
+  "timestamp": "2026-05-24T23:34:03.796797Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Warrior_Run,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/81080/Warrior_Run__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ee3aa69aa7cdb557f6f1eef8d3da755539cb9bd79ce6ffb04a4584624ef47b2e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ee3aa69aa7cdb557f6f1eef8d3da755539cb9bd79ce6ffb04a4584624ef47b2e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/81080/Warrior_Run__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "81080",
+  "timestamp": "2026-05-25T00:09:24.241845Z",
+  "version": 1
+}

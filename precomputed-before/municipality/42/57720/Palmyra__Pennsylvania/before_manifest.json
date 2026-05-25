@@ -1,0 +1,16 @@
+{
+  "article": "Palmyra,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/57720/Palmyra__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0ecb7d8d6b581bf30c69358e6b86b3ce00dd7f19a026c1a729c883da6064e57a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0ecb7d8d6b581bf30c69358e6b86b3ce00dd7f19a026c1a729c883da6064e57a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/57720/Palmyra__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "57720",
+  "timestamp": "2026-05-25T00:08:25.374515Z",
+  "version": 1
+}

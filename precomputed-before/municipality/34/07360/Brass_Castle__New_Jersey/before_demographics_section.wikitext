@@ -1,0 +1,111 @@
+==Demographics==
+{{US Census population
+|1990= 1419
+|2000= 1507
+|2010= 1555
+|2020= 1536
+|footnote=Population sources:<br> 1950<ref name=CensusNJ1950CDP>{{Cite web|title= 1950 Census of Population - Number of Inhabitants - New Jersey |url=https://www2.census.gov/library/publications/decennial/1950/population-volume-2/23024255v2p30ch1.pdf|website=[[United States Census Bureau]]|archive-url=https://web.archive.org/web/20250323234824/https://www2.census.gov/library/publications/decennial/1950/population-volume-2/23024255v2p30ch1.pdf| archive-date=March 23, 2025}}</ref> 1960<ref name=CensusNJ1960CDP>{{Cite web|title= 1960 Census of Population - Number of Inhabitants - New Jersey |url=https://www2.census.gov/library/publications/decennial/1960/population-volume-1/21260894v1p32ch2.pdf|website=[[United States Census Bureau]]|archive-url= https://web.archive.org/web/20250322203807/https://www2.census.gov/library/publications/decennial/1960/population-volume-1/21260894v1p32ch2.pdf| archive-date=March 22, 2025}}</ref> 1970<ref name=CensusNJ1970CDP>{{Cite web|title= 1970 Census of Population - Charecteristics of the Population - New Jersey |url=https://www2.census.gov/prod2/decennial/documents/1970a_nj1-01.pdf|website=[[United States Census Bureau]]|archive-url= https://web.archive.org/web/20250413231101/https://www2.census.gov/prod2/decennial/documents/1970a_nj1-01.pdf| archive-date=April 13, 2025}}</ref><br> 1980<ref name=CensusNJ1980CDP>{{Cite web|title= 1980 Census of Population - Volume 1 - Characteristics of the Population - Number of Inhabitants - New Jersey|url=https://www2.census.gov/prod2/decennial/documents/1980a_njAB-01.pdf|website=[[United States Census Bureau]]|archive-url= https://web.archive.org/web/20250208034839/https://www2.census.gov/prod2/decennial/documents/1980a_njAB-01.pdf| archive-date=February 8, 2025}}</ref> 1990<ref name=CensusNJ1990CDP>{{Cite web|title= 1990 Census of Population - Population and Housing Unit Counts - New Jersey|url=https://www2.census.gov/library/publications/decennial/1990/cph-2/cph-2-32.pdf|website=[[United States Census Bureau]]|archive-url= https://web.archive.org/web/20250323205725/https://www2.census.gov/library/publications/decennial/1990/cph-2/cph-2-32.pdf| archive-date=March 23, 2025}}</ref> 2000<ref name=CensusNJ2000CDP>{{Cite web|title=2000 Census of Population and Housing - Population and Housing Unit Counts - New Jersey |url=https://www2.census.gov/library/publications/2003/dec/phc-3-6.pdf|website=[[United States Census Bureau]]|archive-url=https://web.archive.org/web/20250326080925/https://www2.census.gov/library/publications/2003/dec/phc-3-32.pdf| archive-date=March 26, 2025}}</ref><br> 2010<ref name=CensusNJ2010CDP>{{Cite web|title= 2010 Census of Population - Population and Housing Unit Counts - New Jersey |url=https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-32.pdf|website=[[United States Census Bureau]]|archive-url=https://web.archive.org/web/20251111220031/https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-32.pdf| archive-date=November 11, 2025}}</ref>  2020<ref name=Census2020/>
+}}
+
+Brass Castle first appeared as a [[census designated place]] in the [[1990 U.S. census]].<ref name=CensusNJ1990CDP/>
+
+===2020 census===
+{| class="wikitable sortable" style="text-align:center;"
+|+'''Brass Castle CDP, New Jersey – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Brass Castle CDP, New Jersey|url=https://data.census.gov/table?g=160XX00US3407360&tid=DECENNIALSF12000.P004|website=[[United States Census Bureau]] |access-date= }}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Brass Castle CDP, New Jersey|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US3407360&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!style="background-color: #ffffb3;" |Pop 2020<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Brass Castle CDP, New Jersey|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US3407360&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!% 2000
+!% 2010
+!style="background-color: #ffffb3;" |% 2020
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|1,463
+|1,447
+|style='background: #ffffe6; |1,339
+|97.08%
+|93.05%
+|style='background: #ffffe6; |87.17%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|13
+|25
+|style='background: #ffffe6; |42
+|0.86%
+|1.61%
+|style='background: #ffffe6; |2.73%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|0
+|1
+|style='background: #ffffe6; |0
+|0.00%
+|0.06%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|4
+|22
+|style='background: #ffffe6; |19
+|0.27%
+|1.41%
+|style='background: #ffffe6; |1.24%
+|-
+|[[Native Hawaiian]] or [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |1
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.07%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |5
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.33%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|2
+|10
+|style='background: #ffffe6; |36
+|0.13%
+|0.64%
+|style='background: #ffffe6; |2.34%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|25
+|50
+|style='background: #ffffe6; |94
+|1.66%
+|3.22%
+|style='background: #ffffe6; |6.12%
+|-
+|'''Total'''
+|'''1,507'''
+|'''1,555'''
+|style='background: #ffffe6; |'''1,536 '''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+===2010 census===
+The [[2010 United States census]] counted 1,555 people, 552 households, and 452 families in the CDP. The [[population density]] was {{convert|532.9|/mi2|/km2|disp=preunit|people&nbsp;|people|}}. There were 575 housing units at an average density of {{convert|197.1|/mi2|/km2|disp=preunit|units&nbsp;|units|}}. The racial makeup was 95.95% (1,492) [[White (U.S. census)|White]], 1.61% (25) [[Black (U.S. census)|Black or African American]], 0.06% (1) [[Native American (U.S. census)|Native American]], 1.48% (23) [[Asian (U.S. census)|Asian]], 0.00% (0) [[Pacific Islander (U.S. census)|Pacific Islander]], 0.26% (4) from [[Race and ethnicity in the United States census|other races]], and 0.64% (10) from two or more races. [[Hispanic (U.S. census)|Hispanic or Latino]] of any race were 3.22% (50) of the population.<ref name=Census2010>[http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/1600000US3407360 DP-1 - Profile of General Population and Housing Characteristics: 2010 Demographic Profile Data for Brass Castle CDP, New Jersey] {{Webarchive|url=https://archive.today/20200212134232/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/1600000US3407360 |date=2020-02-12 }}, [[United States Census Bureau]]. Accessed September 20, 2012.</ref>
+
+Of the 552 households, 33.5% had children under the age of 18; 73.9% were married couples living together; 6.0% had a female householder with no husband present and 18.1% were non-families. Of all households, 15.8% were made up of individuals and 8.2% had someone living alone who was 65 years of age or older. The average household size was 2.82 and the average family size was 3.15.<ref name=Census2010/>
+
+25.1% of the population were under the age of 18, 6.2% from 18 to 24, 22.9% from 25 to 44, 32.5% from 45 to 64, and 13.2% who were 65 years of age or older. The median age was 41.9 years. For every 100 females, the population had 95.1 males. For every 100 females ages 18 and older there were 97.8 males.<ref name=Census2010/>
+
+===2000 census===
+As of the [[2000 United States census]]<ref name="GR2" /> there were 1,507 people, 517 households, and 436 families living in the CDP. The [[population density]] was {{convert|199.3|/km2|/mi2|disp=preunit|people|people|abbr=on}}. There were 535 housing units at an average density of {{convert|70.7|/km2|/mi2|disp=preunit|units|units|abbr=on}}. The racial makeup of the CDP was 98.21% [[White (U.S. Census)|White]], 0.93% [[African American (U.S. Census)|African American]], 0.27% [[Asian (U.S. Census)|Asian]], 0.46% from [[Race (United States Census)|other races]], and 0.13% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 1.66% of the population.<ref name=Census2000>[http://factfinder.census.gov/bkmk/table/1.0/en/DEC/00_SF1/DP1/1600000US3407360 DP-1 - Profile of General Demographic Characteristics: 2000 from the Census 2000 Summary File 1 (SF 1) 100-Percent Data for Brass Castle CDP, New Jersey] {{Webarchive|url=https://archive.today/20200212102756/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/00_SF1/DP1/1600000US3407360 |date=2020-02-12 }}, [[United States Census Bureau]]. Accessed September 20, 2012.</ref>
+
+There were 517 households, out of which 42.4% had children under the age of 18 living with them, 75.2% were [[Marriage|married couples]] living together, 6.6% had a female householder with no husband present, and 15.5% were non-families. 13.5% of all households were made up of individuals, and 7.9% had someone living alone who was 65 years of age or older. The average household size was 2.91 and the average family size was 3.18.<ref name=Census2000/>
+
+In the CDP the population was spread out, with 28.4% under the age of 18, 5.6% from 18 to 24, 28.4% from 25 to 44, 25.3% from 45 to 64, and 12.3% who were 65 years of age or older. The median age was 39 years. For every 100 females, there were 94.5 males. For every 100 females age 18 and over, there were 95.1 males.<ref name=Census2000/>
+
+The median income for a household in the CDP was $79,227, and the median income for a family was $84,783. Males had a median income of $51,689 versus $35,690 for females. The [[per capita income]] for the CDP was $32,393. About 5.1% of families and 4.3% of the population were below the [[poverty line]], including 7.5% of those under age 18 and none of those age 65 or over.<ref name=Census2000/>
+

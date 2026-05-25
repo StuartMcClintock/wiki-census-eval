@@ -1,0 +1,16 @@
+{
+  "article": "Baconton,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/04840/Baconton__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cafa03704179f356cbd2976477b7054a0b44ac4b1bc1350fb5c3f90f21a92949",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cafa03704179f356cbd2976477b7054a0b44ac4b1bc1350fb5c3f90f21a92949",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/04840/Baconton__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "04840",
+  "timestamp": "2026-05-24T23:36:27.908995Z",
+  "version": 1
+}

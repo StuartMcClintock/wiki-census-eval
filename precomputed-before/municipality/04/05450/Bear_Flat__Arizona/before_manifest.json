@@ -1,0 +1,16 @@
+{
+  "article": "Bear_Flat,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/05450/Bear_Flat__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "89f5021068e41e2c8b894c4c3597903ae09ede48fc70842ddd52b7714009d030",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "89f5021068e41e2c8b894c4c3597903ae09ede48fc70842ddd52b7714009d030",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/05450/Bear_Flat__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "05450",
+  "timestamp": "2026-05-24T23:32:48.231520Z",
+  "version": 1
+}

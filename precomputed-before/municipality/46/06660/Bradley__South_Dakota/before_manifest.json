@@ -1,0 +1,16 @@
+{
+  "article": "Bradley,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/06660/Bradley__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4e40d4aa462e39646a0d07ee9635cb3a4e47686b5f2a7c9c66ae37e898b10018",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4e40d4aa462e39646a0d07ee9635cb3a4e47686b5f2a7c9c66ae37e898b10018",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/06660/Bradley__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "06660",
+  "timestamp": "2026-05-25T00:10:32.020985Z",
+  "version": 1
+}

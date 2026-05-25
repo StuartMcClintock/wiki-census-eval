@@ -1,0 +1,16 @@
+{
+  "article": "Zia_Pueblo,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/86420/Zia_Pueblo__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "27423e31e5a7c7d0634fd4ad2001a420056acc34c66b390c6a1d614393500f12",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "27423e31e5a7c7d0634fd4ad2001a420056acc34c66b390c6a1d614393500f12",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/86420/Zia_Pueblo__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "86420",
+  "timestamp": "2026-05-25T00:00:29.530687Z",
+  "version": 1
+}

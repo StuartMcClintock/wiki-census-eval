@@ -1,0 +1,16 @@
+{
+  "article": "Natchez,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/53510/Natchez__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "16ebd1f447b424fa20b7584c64a64949989e730888cce77410e3738878f684ae",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "16ebd1f447b424fa20b7584c64a64949989e730888cce77410e3738878f684ae",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/53510/Natchez__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "53510",
+  "timestamp": "2026-05-24T23:45:02.926002Z",
+  "version": 1
+}

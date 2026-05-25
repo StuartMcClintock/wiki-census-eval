@@ -1,0 +1,16 @@
+{
+  "article": "Meeteetse,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/51720/Meeteetse__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0393d961f1a20caad00cc60aa5f248ec04c10c2618bf83f7df20ea0edb789d1e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0393d961f1a20caad00cc60aa5f248ec04c10c2618bf83f7df20ea0edb789d1e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/51720/Meeteetse__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "51720",
+  "timestamp": "2026-05-25T00:23:19.279509Z",
+  "version": 1
+}

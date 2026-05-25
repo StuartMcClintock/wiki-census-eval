@@ -1,0 +1,16 @@
+{
+  "article": "Mineral_City,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/50764/Mineral_City__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "64fa63de7783ced8a64e289a49c1cd8df682016dd344fcacc42dcf4a2e6c592d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "64fa63de7783ced8a64e289a49c1cd8df682016dd344fcacc42dcf4a2e6c592d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/50764/Mineral_City__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "50764",
+  "timestamp": "2026-05-25T00:04:47.432250Z",
+  "version": 1
+}

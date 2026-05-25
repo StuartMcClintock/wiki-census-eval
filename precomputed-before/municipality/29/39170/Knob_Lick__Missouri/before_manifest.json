@@ -1,0 +1,16 @@
+{
+  "article": "Knob_Lick,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/39170/Knob_Lick__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1cadca870ee7442f34de32ca37159db3796b8329f56eee0cced5cb97349ef196",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1cadca870ee7442f34de32ca37159db3796b8329f56eee0cced5cb97349ef196",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/39170/Knob_Lick__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "39170",
+  "timestamp": "2026-05-24T23:53:24.052770Z",
+  "version": 1
+}

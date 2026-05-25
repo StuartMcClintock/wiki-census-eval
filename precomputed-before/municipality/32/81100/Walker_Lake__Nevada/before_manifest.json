@@ -1,0 +1,16 @@
+{
+  "article": "Walker_Lake,_Nevada",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/32/81100/Walker_Lake__Nevada/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ec918d6905cf913e6d50d906a00683a567ea216fef896a9cd1c61ec6fc8ab0df",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ec918d6905cf913e6d50d906a00683a567ea216fef896a9cd1c61ec6fc8ab0df",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/32/81100/Walker_Lake__Nevada/manifest.json",
+  "state_fips": "32",
+  "status": "match",
+  "target_fips": "81100",
+  "timestamp": "2026-05-24T23:57:35.394844Z",
+  "version": 1
+}

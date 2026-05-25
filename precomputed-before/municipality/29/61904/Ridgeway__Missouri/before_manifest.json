@@ -1,0 +1,16 @@
+{
+  "article": "Ridgeway,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/61904/Ridgeway__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f590ad3a937f6b71ee7b2d447f0d7a547c5be58c7ab851c5f0930a405e7a784d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f590ad3a937f6b71ee7b2d447f0d7a547c5be58c7ab851c5f0930a405e7a784d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/61904/Ridgeway__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "61904",
+  "timestamp": "2026-05-24T23:53:45.712931Z",
+  "version": 1
+}

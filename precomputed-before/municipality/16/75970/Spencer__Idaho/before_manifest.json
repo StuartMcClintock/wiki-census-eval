@@ -1,0 +1,16 @@
+{
+  "article": "Spencer,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/75970/Spencer__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fe037ffd0e64ecd4c262514114733e0c916e526d22fdf26d5911bb112c3cf5f0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fe037ffd0e64ecd4c262514114733e0c916e526d22fdf26d5911bb112c3cf5f0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/75970/Spencer__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "75970",
+  "timestamp": "2026-05-24T23:37:29.018453Z",
+  "version": 1
+}

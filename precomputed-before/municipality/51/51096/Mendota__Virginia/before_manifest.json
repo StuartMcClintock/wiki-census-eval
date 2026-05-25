@@ -1,0 +1,16 @@
+{
+  "article": "Mendota,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/51096/Mendota__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e1ad77e0d11ac47bb9e7899871cd3ba5297f2a72432de614960fb368955b6c68",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e1ad77e0d11ac47bb9e7899871cd3ba5297f2a72432de614960fb368955b6c68",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/51096/Mendota__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "51096",
+  "timestamp": "2026-05-25T00:19:25.813424Z",
+  "version": 1
+}

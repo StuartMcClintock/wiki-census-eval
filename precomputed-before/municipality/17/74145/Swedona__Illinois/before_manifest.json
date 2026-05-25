@@ -1,0 +1,16 @@
+{
+  "article": "Swedona,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/74145/Swedona__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1fc76777f899fb14853948c713a185a4a140f6b0f59985c08e1759f5adf232de",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1fc76777f899fb14853948c713a185a4a140f6b0f59985c08e1759f5adf232de",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/74145/Swedona__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "74145",
+  "timestamp": "2026-05-24T23:39:14.891336Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Tyrone,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/78168/Tyrone__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "528d81b86f90bc235425a138cec80de642d5b928c8b8f72b726bbd4c4ca5bea5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "528d81b86f90bc235425a138cec80de642d5b928c8b8f72b726bbd4c4ca5bea5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/78168/Tyrone__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "78168",
+  "timestamp": "2026-05-25T00:09:20.582734Z",
+  "version": 1
+}

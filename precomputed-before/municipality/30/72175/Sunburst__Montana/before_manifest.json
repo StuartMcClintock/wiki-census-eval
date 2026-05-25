@@ -1,0 +1,16 @@
+{
+  "article": "Sunburst,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/72175/Sunburst__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3dc8f1357e0a96b35755cd2cb94697774ce54ed0a1f3fa3cbc0d5ae8a387f501",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3dc8f1357e0a96b35755cd2cb94697774ce54ed0a1f3fa3cbc0d5ae8a387f501",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/72175/Sunburst__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "72175",
+  "timestamp": "2026-05-24T23:54:52.996713Z",
+  "version": 1
+}

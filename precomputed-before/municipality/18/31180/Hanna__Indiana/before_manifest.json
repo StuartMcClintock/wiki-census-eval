@@ -1,0 +1,16 @@
+{
+  "article": "Hanna,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/31180/Hanna__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3bb7246ad316fc838c28518afaf4d9be4d07eb299490d0983fd6a02e2c8081ee",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3bb7246ad316fc838c28518afaf4d9be4d07eb299490d0983fd6a02e2c8081ee",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/31180/Hanna__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "31180",
+  "timestamp": "2026-05-24T23:39:37.795853Z",
+  "version": 1
+}

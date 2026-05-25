@@ -1,0 +1,16 @@
+{
+  "article": "Delbarton,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/20980/Delbarton__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f8d808a98522622c86ef37dc405bfe3875a5872c25e01a049d5fb51a016b2482",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f8d808a98522622c86ef37dc405bfe3875a5872c25e01a049d5fb51a016b2482",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/20980/Delbarton__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "20980",
+  "timestamp": "2026-05-25T00:21:03.972641Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Bergholz,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/05718/Bergholz__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d3efa826152cebde01fc7241d2c22a540c30cfb56a60350e7423c784839650bf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d3efa826152cebde01fc7241d2c22a540c30cfb56a60350e7423c784839650bf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/05718/Bergholz__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "05718",
+  "timestamp": "2026-05-25T00:03:34.462382Z",
+  "version": 1
+}

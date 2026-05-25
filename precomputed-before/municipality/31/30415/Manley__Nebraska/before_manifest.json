@@ -1,0 +1,16 @@
+{
+  "article": "Manley,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/30415/Manley__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0878d5892293220d4f1f110bfd655eeea1945d7793a7f33b0fca60b6a68ad5a7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0878d5892293220d4f1f110bfd655eeea1945d7793a7f33b0fca60b6a68ad5a7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/30415/Manley__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "30415",
+  "timestamp": "2026-05-24T23:55:51.480315Z",
+  "version": 1
+}

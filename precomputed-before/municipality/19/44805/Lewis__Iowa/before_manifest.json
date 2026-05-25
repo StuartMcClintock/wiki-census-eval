@@ -1,0 +1,16 @@
+{
+  "article": "Lewis,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/44805/Lewis__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "789dc1e6f0d0c9cb3fb1b9f46abf9b35099543d9c548a7e2df2ecd54ac3898ce",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "789dc1e6f0d0c9cb3fb1b9f46abf9b35099543d9c548a7e2df2ecd54ac3898ce",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/44805/Lewis__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "44805",
+  "timestamp": "2026-05-24T23:41:19.785089Z",
+  "version": 1
+}

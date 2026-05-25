@@ -1,0 +1,16 @@
+{
+  "article": "Deal,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/16660/Deal__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9abe80b7bd596f36fcf7609e4ca1801481fac294b1e4daf000cd144aa4c8e687",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9abe80b7bd596f36fcf7609e4ca1801481fac294b1e4daf000cd144aa4c8e687",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/16660/Deal__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "16660",
+  "timestamp": "2026-05-24T23:57:44.865221Z",
+  "version": 1
+}

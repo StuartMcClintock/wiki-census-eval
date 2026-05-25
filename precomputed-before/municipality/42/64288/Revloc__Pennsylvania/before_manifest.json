@@ -1,0 +1,16 @@
+{
+  "article": "Revloc,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/64288/Revloc__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7b80ea0eeb3c107a6390a6150c4dc3812f6bf10edb6d9542f5e10f3760eb313c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7b80ea0eeb3c107a6390a6150c4dc3812f6bf10edb6d9542f5e10f3760eb313c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/64288/Revloc__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "64288",
+  "timestamp": "2026-05-25T00:08:48.694765Z",
+  "version": 1
+}

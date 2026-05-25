@@ -1,0 +1,16 @@
+{
+  "article": "Blooming_Valley,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/07120/Blooming_Valley__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dda58e1e8a30bc8dbd74d0f6624acbc7a5d4d3342cdb8111e8226d7602152f2c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dda58e1e8a30bc8dbd74d0f6624acbc7a5d4d3342cdb8111e8226d7602152f2c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/07120/Blooming_Valley__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "07120",
+  "timestamp": "2026-05-25T00:06:18.429931Z",
+  "version": 1
+}

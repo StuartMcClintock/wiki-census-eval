@@ -1,0 +1,16 @@
+{
+  "article": "Crawford,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/11195/Crawford__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "895be9f2c0f26783ac9ae7445035fa33c8dfa504766e443933bd7187563b900c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "895be9f2c0f26783ac9ae7445035fa33c8dfa504766e443933bd7187563b900c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/11195/Crawford__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "11195",
+  "timestamp": "2026-05-24T23:55:20.161305Z",
+  "version": 1
+}

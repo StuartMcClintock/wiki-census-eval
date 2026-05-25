@@ -1,0 +1,16 @@
+{
+  "article": "Mineral_Bluff,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/51744/Mineral_Bluff__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "08af9ccd4ba47398af49de0dde82243346472db42de6a56af3084379e49a4414",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "08af9ccd4ba47398af49de0dde82243346472db42de6a56af3084379e49a4414",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/51744/Mineral_Bluff__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "51744",
+  "timestamp": "2026-05-24T23:36:55.947560Z",
+  "version": 1
+}

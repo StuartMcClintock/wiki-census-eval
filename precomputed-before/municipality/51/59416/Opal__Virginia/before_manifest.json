@@ -1,0 +1,16 @@
+{
+  "article": "Opal,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/59416/Opal__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3cbae0fcafec57a486a8f5426fd641d5c86010af59a15a39b026cdbd4fad74b0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3cbae0fcafec57a486a8f5426fd641d5c86010af59a15a39b026cdbd4fad74b0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/59416/Opal__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "59416",
+  "timestamp": "2026-05-25T00:19:30.288540Z",
+  "version": 1
+}

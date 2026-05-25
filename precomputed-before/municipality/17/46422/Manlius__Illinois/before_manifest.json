@@ -1,0 +1,16 @@
+{
+  "article": "Manlius,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/46422/Manlius__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9b274c6afcb80fffd584992b0a537c58506b78e434f97840423737ec95df24b4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9b274c6afcb80fffd584992b0a537c58506b78e434f97840423737ec95df24b4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/46422/Manlius__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "46422",
+  "timestamp": "2026-05-24T23:38:32.792015Z",
+  "version": 1
+}

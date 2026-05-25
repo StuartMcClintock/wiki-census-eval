@@ -1,0 +1,16 @@
+{
+  "article": "Piketon,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/62708/Piketon__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "de9a9d337c66f718507d5b90e0ceaf7226fd461dce29cd12c0c0bfab30f18885",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "de9a9d337c66f718507d5b90e0ceaf7226fd461dce29cd12c0c0bfab30f18885",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/62708/Piketon__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "62708",
+  "timestamp": "2026-05-25T00:05:05.724774Z",
+  "version": 1
+}

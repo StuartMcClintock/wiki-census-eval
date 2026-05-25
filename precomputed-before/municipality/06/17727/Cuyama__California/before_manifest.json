@@ -1,0 +1,16 @@
+{
+  "article": "Cuyama,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/17727/Cuyama__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d5ab371b0916fe88d76d7f59ddd3c4f160db626a0a5e0569d7f8d7a4fff1d6bc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d5ab371b0916fe88d76d7f59ddd3c4f160db626a0a5e0569d7f8d7a4fff1d6bc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/17727/Cuyama__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "17727",
+  "timestamp": "2026-05-24T23:34:17.037825Z",
+  "version": 1
+}

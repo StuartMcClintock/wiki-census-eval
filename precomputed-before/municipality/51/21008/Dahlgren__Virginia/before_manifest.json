@@ -1,0 +1,16 @@
+{
+  "article": "Dahlgren,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/21008/Dahlgren__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cc7cf94ff92d2b858c19955ffcce3c103c71ea398534b8f283ca21858f043e68",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cc7cf94ff92d2b858c19955ffcce3c103c71ea398534b8f283ca21858f043e68",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/21008/Dahlgren__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "21008",
+  "timestamp": "2026-05-25T00:19:08.445081Z",
+  "version": 1
+}

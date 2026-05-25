@@ -1,0 +1,16 @@
+{
+  "article": "Galena,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/31225/Galena__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "24ae0ba298d912e2c82028c06d11ae967423f5f902346464b51eff49bceff560",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "24ae0ba298d912e2c82028c06d11ae967423f5f902346464b51eff49bceff560",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/31225/Galena__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "31225",
+  "timestamp": "2026-05-24T23:47:22.129363Z",
+  "version": 1
+}

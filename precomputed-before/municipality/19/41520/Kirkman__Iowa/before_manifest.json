@@ -1,0 +1,16 @@
+{
+  "article": "Kirkman,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/41520/Kirkman__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fde66a164db5582120c405a50ecbc0277d8dfe3f87df1f7a8a59332778ac8ed5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fde66a164db5582120c405a50ecbc0277d8dfe3f87df1f7a8a59332778ac8ed5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/41520/Kirkman__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "41520",
+  "timestamp": "2026-05-24T23:41:16.382087Z",
+  "version": 1
+}

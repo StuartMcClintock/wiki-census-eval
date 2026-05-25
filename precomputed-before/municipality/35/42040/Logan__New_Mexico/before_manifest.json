@@ -1,0 +1,16 @@
+{
+  "article": "Logan,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/42040/Logan__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0075810649bb68415f08c6b3ab2574c96fc6c2ac060669aa0071ca77a7ec3152",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0075810649bb68415f08c6b3ab2574c96fc6c2ac060669aa0071ca77a7ec3152",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/42040/Logan__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "42040",
+  "timestamp": "2026-05-24T23:58:38.923486Z",
+  "version": 1
+}

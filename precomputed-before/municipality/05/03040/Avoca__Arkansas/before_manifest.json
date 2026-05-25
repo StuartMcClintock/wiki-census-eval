@@ -1,0 +1,16 @@
+{
+  "article": "Avoca,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/03040/Avoca__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e2a67389c45d597744e639435fa7fce7048c614ea5a66d27b58aa543c3849fa2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e2a67389c45d597744e639435fa7fce7048c614ea5a66d27b58aa543c3849fa2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/03040/Avoca__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "03040",
+  "timestamp": "2026-05-24T23:33:19.099733Z",
+  "version": 1
+}

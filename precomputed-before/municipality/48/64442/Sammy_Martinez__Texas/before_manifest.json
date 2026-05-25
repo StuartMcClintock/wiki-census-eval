@@ -1,0 +1,16 @@
+{
+  "article": "Sammy_Martinez,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/64442/Sammy_Martinez__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d3f3be36e9635f40b1b0fb7f0e93a632388a9f02c3d7a523820a5d23a2db01b3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d3f3be36e9635f40b1b0fb7f0e93a632388a9f02c3d7a523820a5d23a2db01b3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/64442/Sammy_Martinez__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "64442",
+  "timestamp": "2026-05-25T00:16:33.209861Z",
+  "version": 1
+}

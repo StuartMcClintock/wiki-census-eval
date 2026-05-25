@@ -1,0 +1,16 @@
+{
+  "article": "Paris,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/55280/Paris__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fd901608e872ca11008e52a820283a5086dd894c864d69a2fb7479bcbbc58f30",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fd901608e872ca11008e52a820283a5086dd894c864d69a2fb7479bcbbc58f30",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/55280/Paris__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "55280",
+  "timestamp": "2026-05-24T23:50:19.564434Z",
+  "version": 1
+}

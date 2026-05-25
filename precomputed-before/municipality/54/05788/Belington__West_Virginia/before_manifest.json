@@ -1,0 +1,16 @@
+{
+  "article": "Belington,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/05788/Belington__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d904f17f87d3f65948815675e4c1ff0d10499aa660df82867f5ecba2cbde94c3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d904f17f87d3f65948815675e4c1ff0d10499aa660df82867f5ecba2cbde94c3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/05788/Belington__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "05788",
+  "timestamp": "2026-05-25T00:20:42.695853Z",
+  "version": 1
+}

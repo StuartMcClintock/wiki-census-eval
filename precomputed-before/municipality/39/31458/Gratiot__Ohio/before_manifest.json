@@ -1,0 +1,16 @@
+{
+  "article": "Gratiot,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/31458/Gratiot__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8c7dd1f65a14459c6660fd42b7f9f7d43fc498f62f88f12f97e557cef0381337",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8c7dd1f65a14459c6660fd42b7f9f7d43fc498f62f88f12f97e557cef0381337",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/31458/Gratiot__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "31458",
+  "timestamp": "2026-05-25T00:04:14.064707Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Weskan,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/76675/Weskan__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ea6ab214d11336850a87de35bb696e6f3d019c33b90ba0260dbff8db032e1d45",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ea6ab214d11336850a87de35bb696e6f3d019c33b90ba0260dbff8db032e1d45",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/76675/Weskan__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "76675",
+  "timestamp": "2026-05-24T23:43:36.938331Z",
+  "version": 1
+}

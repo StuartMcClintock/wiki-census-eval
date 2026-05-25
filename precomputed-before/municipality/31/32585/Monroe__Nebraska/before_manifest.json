@@ -1,0 +1,16 @@
+{
+  "article": "Monroe,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/32585/Monroe__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "da5d8eb7c21b0bcad49ac7e431f553a777e73d0150c7cb87acaa097165e110ed",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "da5d8eb7c21b0bcad49ac7e431f553a777e73d0150c7cb87acaa097165e110ed",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/32585/Monroe__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "32585",
+  "timestamp": "2026-05-24T23:55:53.945237Z",
+  "version": 1
+}

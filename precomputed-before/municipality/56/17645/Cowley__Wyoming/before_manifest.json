@@ -1,0 +1,16 @@
+{
+  "article": "Cowley,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/17645/Cowley__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7b2f367c4a4b0931082cb35651d5cd74e87f329d89cafd496760fbb5c0e961aa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7b2f367c4a4b0931082cb35651d5cd74e87f329d89cafd496760fbb5c0e961aa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/17645/Cowley__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "17645",
+  "timestamp": "2026-05-25T00:23:11.134964Z",
+  "version": 1
+}

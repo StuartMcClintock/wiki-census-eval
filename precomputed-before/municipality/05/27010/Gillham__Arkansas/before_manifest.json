@@ -1,0 +1,16 @@
+{
+  "article": "Gillham,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/27010/Gillham__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9dd2a5a82e0177f8202c95f08bed5bacfc73772ec62d6df4e19127971f47e3bc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9dd2a5a82e0177f8202c95f08bed5bacfc73772ec62d6df4e19127971f47e3bc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/27010/Gillham__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "27010",
+  "timestamp": "2026-05-24T23:33:43.234372Z",
+  "version": 1
+}

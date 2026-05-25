@@ -1,0 +1,16 @@
+{
+  "article": "Sheridan_Lake,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/69700/Sheridan_Lake__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "edadcf7005c2cefb83668b9f3a5a4c9eafd3c7c5ef459eeea70ddbd2aec2c169",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "edadcf7005c2cefb83668b9f3a5a4c9eafd3c7c5ef459eeea70ddbd2aec2c169",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/69700/Sheridan_Lake__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "69700",
+  "timestamp": "2026-05-24T23:35:40.555551Z",
+  "version": 1
+}

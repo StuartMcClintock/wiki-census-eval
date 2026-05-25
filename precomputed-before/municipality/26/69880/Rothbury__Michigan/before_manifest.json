@@ -1,0 +1,16 @@
+{
+  "article": "Rothbury,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/69880/Rothbury__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f0bf8d9459a75c51f76e4cab51b5a1260f7c7691816b418d5dbf8ff4b972cd8b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f0bf8d9459a75c51f76e4cab51b5a1260f7c7691816b418d5dbf8ff4b972cd8b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/69880/Rothbury__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "69880",
+  "timestamp": "2026-05-24T23:48:26.785306Z",
+  "version": 1
+}

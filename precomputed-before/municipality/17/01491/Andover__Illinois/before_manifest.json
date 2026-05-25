@@ -1,0 +1,16 @@
+{
+  "article": "Andover,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/01491/Andover__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "302feba17fa31827f687b62be27b7404293fe27d5ccd7399c8b8bb27d42b6311",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "302feba17fa31827f687b62be27b7404293fe27d5ccd7399c8b8bb27d42b6311",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/01491/Andover__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "01491",
+  "timestamp": "2026-05-24T23:37:33.050590Z",
+  "version": 1
+}

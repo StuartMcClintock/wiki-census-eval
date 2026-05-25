@@ -1,0 +1,16 @@
+{
+  "article": "Morristown,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/43860/Morristown__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2308ffa06f6be6d2321e884e8d28c4b50c6cc6bfad9bd06276ebe429f7c28bd7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2308ffa06f6be6d2321e884e8d28c4b50c6cc6bfad9bd06276ebe429f7c28bd7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/43860/Morristown__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "43860",
+  "timestamp": "2026-05-25T00:11:04.205476Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "New_Straitsville,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/55552/New_Straitsville__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cbc71648cf55c06e15b69a7f8caf67221dca67189f7ff8533b0e17c79bccc396",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cbc71648cf55c06e15b69a7f8caf67221dca67189f7ff8533b0e17c79bccc396",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/55552/New_Straitsville__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "55552",
+  "timestamp": "2026-05-25T00:04:53.656626Z",
+  "version": 1
+}

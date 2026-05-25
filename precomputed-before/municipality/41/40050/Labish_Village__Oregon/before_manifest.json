@@ -1,0 +1,16 @@
+{
+  "article": "Labish_Village,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/40050/Labish_Village__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "95501e5b04aed68220c5768c887efc1afb17c7dee5cf4d76d66cf6a8f1104fa2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "95501e5b04aed68220c5768c887efc1afb17c7dee5cf4d76d66cf6a8f1104fa2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/40050/Labish_Village__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "40050",
+  "timestamp": "2026-05-25T00:05:50.532511Z",
+  "version": 1
+}

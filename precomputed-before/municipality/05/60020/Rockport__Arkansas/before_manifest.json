@@ -1,0 +1,16 @@
+{
+  "article": "Rockport,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/60020/Rockport__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a458c3522a993dcd12cb02306de5efe36a3d1a5c93f7d021d6af7f9756537351",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a458c3522a993dcd12cb02306de5efe36a3d1a5c93f7d021d6af7f9756537351",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/60020/Rockport__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "60020",
+  "timestamp": "2026-05-24T23:34:06.150801Z",
+  "version": 1
+}

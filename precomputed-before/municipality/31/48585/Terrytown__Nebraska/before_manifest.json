@@ -1,0 +1,16 @@
+{
+  "article": "Terrytown,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/48585/Terrytown__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "25f264fae0b5ccb695150d7fe7308d3847d5ceb3a18c7fb11948b35a0cc3f90b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "25f264fae0b5ccb695150d7fe7308d3847d5ceb3a18c7fb11948b35a0cc3f90b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/48585/Terrytown__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "48585",
+  "timestamp": "2026-05-24T23:57:20.713106Z",
+  "version": 1
+}

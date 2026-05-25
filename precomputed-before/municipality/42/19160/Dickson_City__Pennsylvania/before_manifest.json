@@ -1,0 +1,16 @@
+{
+  "article": "Dickson_City,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/19160/Dickson_City__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "212b51fcae750671f3e1ffe719aab153aad69cbee93d3d2d1479d456cdd4dbc1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "212b51fcae750671f3e1ffe719aab153aad69cbee93d3d2d1479d456cdd4dbc1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/19160/Dickson_City__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "19160",
+  "timestamp": "2026-05-25T00:06:51.533145Z",
+  "version": 1
+}

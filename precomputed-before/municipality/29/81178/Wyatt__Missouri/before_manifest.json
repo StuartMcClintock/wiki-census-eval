@@ -1,0 +1,16 @@
+{
+  "article": "Wyatt,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/81178/Wyatt__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c3576191e427319c7eed2115eb323845f5b58da6a45046c36a68d74e5ca35ddc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c3576191e427319c7eed2115eb323845f5b58da6a45046c36a68d74e5ca35ddc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/81178/Wyatt__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "81178",
+  "timestamp": "2026-05-24T23:54:11.526250Z",
+  "version": 1
+}

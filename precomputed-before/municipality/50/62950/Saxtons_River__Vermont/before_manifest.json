@@ -1,0 +1,16 @@
+{
+  "article": "Saxtons_River,_Vermont",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/50/62950/Saxtons_River__Vermont/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1b1eca02867a1d6bbb320cbb8599878e6c44de8190655596539d6e70b958497e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1b1eca02867a1d6bbb320cbb8599878e6c44de8190655596539d6e70b958497e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/50/62950/Saxtons_River__Vermont/manifest.json",
+  "state_fips": "50",
+  "status": "match",
+  "target_fips": "62950",
+  "timestamp": "2026-05-25T00:17:18.043533Z",
+  "version": 1
+}

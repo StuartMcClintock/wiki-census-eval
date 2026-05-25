@@ -1,0 +1,16 @@
+{
+  "article": "Chester,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/15900/Chester__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c8db27639543b9ba39f69fc48ffd9f0601ee39b15fbe2b5a8b8fbcc6c95be001",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c8db27639543b9ba39f69fc48ffd9f0601ee39b15fbe2b5a8b8fbcc6c95be001",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/15900/Chester__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "15900",
+  "timestamp": "2026-05-24T23:36:31.849447Z",
+  "version": 1
+}

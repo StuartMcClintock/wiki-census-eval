@@ -1,0 +1,16 @@
+{
+  "article": "Westcreek,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/83500/Westcreek__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "63ec3ce073b33ddcd962963ada763583228a23d793bd65075580c6b658b6c4cf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "63ec3ce073b33ddcd962963ada763583228a23d793bd65075580c6b658b6c4cf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/83500/Westcreek__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "83500",
+  "timestamp": "2026-05-24T23:35:55.769611Z",
+  "version": 1
+}

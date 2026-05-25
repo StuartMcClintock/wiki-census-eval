@@ -1,0 +1,16 @@
+{
+  "article": "Tumbling_Shoals,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/70310/Tumbling_Shoals__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ee1f67fa3a43ccfdb44c991862a43bac582852c8ddf09e72502cd8004f2b5a46",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ee1f67fa3a43ccfdb44c991862a43bac582852c8ddf09e72502cd8004f2b5a46",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/70310/Tumbling_Shoals__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "70310",
+  "timestamp": "2026-05-24T23:34:11.396566Z",
+  "version": 1
+}

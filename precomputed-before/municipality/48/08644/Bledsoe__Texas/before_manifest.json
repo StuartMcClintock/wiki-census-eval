@@ -1,0 +1,16 @@
+{
+  "article": "Bledsoe,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/08644/Bledsoe__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bbb5e635f250252444fd0a9159adf979c7540556e51dfaba5c37c3ac1842277a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bbb5e635f250252444fd0a9159adf979c7540556e51dfaba5c37c3ac1842277a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/08644/Bledsoe__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "08644",
+  "timestamp": "2026-05-25T00:15:06.281731Z",
+  "version": 1
+}

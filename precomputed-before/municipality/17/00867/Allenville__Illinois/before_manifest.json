@@ -1,0 +1,16 @@
+{
+  "article": "Allenville,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/00867/Allenville__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "82bc20f3922565da3327cbc6b7df7599a7491eb80277d569e9572f1608013ba4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "82bc20f3922565da3327cbc6b7df7599a7491eb80277d569e9572f1608013ba4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/00867/Allenville__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "00867",
+  "timestamp": "2026-05-24T23:37:32.085467Z",
+  "version": 1
+}

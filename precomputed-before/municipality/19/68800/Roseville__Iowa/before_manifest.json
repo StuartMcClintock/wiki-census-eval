@@ -1,0 +1,16 @@
+{
+  "article": "Roseville,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/68800/Roseville__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dce6ce86c96b21ea090eb25119a33041f0bb240114330e4074cd6d17fd679dcc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dce6ce86c96b21ea090eb25119a33041f0bb240114330e4074cd6d17fd679dcc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/68800/Roseville__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "68800",
+  "timestamp": "2026-05-24T23:41:44.340358Z",
+  "version": 1
+}

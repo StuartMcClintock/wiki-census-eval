@@ -1,0 +1,16 @@
+{
+  "article": "Homer_City,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/35408/Homer_City__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5ce31dad2110eaf41df51c4dc4abf1397e0560c1b734b0f4ff0d26da718f537b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5ce31dad2110eaf41df51c4dc4abf1397e0560c1b734b0f4ff0d26da718f537b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/35408/Homer_City__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "35408",
+  "timestamp": "2026-05-25T00:07:26.515327Z",
+  "version": 1
+}

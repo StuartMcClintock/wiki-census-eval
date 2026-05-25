@@ -1,0 +1,16 @@
+{
+  "article": "Malverne_Park_Oaks,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/44792/Malverne_Park_Oaks__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "371b199b70ce27d5f20d737c5e3be215edc5c203327f2e4b48fe0ba4472b52ac",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "371b199b70ce27d5f20d737c5e3be215edc5c203327f2e4b48fe0ba4472b52ac",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/44792/Malverne_Park_Oaks__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "44792",
+  "timestamp": "2026-05-25T00:00:53.263211Z",
+  "version": 1
+}

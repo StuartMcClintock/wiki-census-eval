@@ -1,0 +1,16 @@
+{
+  "article": "Free_Soil,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/30600/Free_Soil__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2296b2e60f9cc896e00887181e67d7afcd1e1e82d0e23df1c0bef92a34f97bee",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2296b2e60f9cc896e00887181e67d7afcd1e1e82d0e23df1c0bef92a34f97bee",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/30600/Free_Soil__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "30600",
+  "timestamp": "2026-05-24T23:47:55.812640Z",
+  "version": 1
+}

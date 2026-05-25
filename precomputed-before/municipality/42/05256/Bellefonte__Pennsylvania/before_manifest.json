@@ -1,0 +1,16 @@
+{
+  "article": "Bellefonte,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/05256/Bellefonte__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "059c242d16354cd558fccc2566bcf2b91a04d18b3ea3f21d416def5f501955cb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "059c242d16354cd558fccc2566bcf2b91a04d18b3ea3f21d416def5f501955cb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/05256/Bellefonte__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "05256",
+  "timestamp": "2026-05-25T00:06:15.110765Z",
+  "version": 1
+}

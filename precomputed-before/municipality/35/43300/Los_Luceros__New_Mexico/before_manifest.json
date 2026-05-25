@@ -1,0 +1,16 @@
+{
+  "article": "Los_Luceros,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/43300/Los_Luceros__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "892530419bbd11349128b89d2475cbd0053626d070364073d8e8b45cb19045d8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "892530419bbd11349128b89d2475cbd0053626d070364073d8e8b45cb19045d8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/43300/Los_Luceros__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "43300",
+  "timestamp": "2026-05-24T23:58:39.144177Z",
+  "version": 1
+}

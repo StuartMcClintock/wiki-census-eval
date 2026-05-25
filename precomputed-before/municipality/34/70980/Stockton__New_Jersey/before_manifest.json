@@ -1,0 +1,16 @@
+{
+  "article": "Stockton,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/70980/Stockton__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "47e2dc32c5dd813af15511d1ce759c715ad84d1d4966842a66797cacf137a249",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "47e2dc32c5dd813af15511d1ce759c715ad84d1d4966842a66797cacf137a249",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/70980/Stockton__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "70980",
+  "timestamp": "2026-05-24T23:58:02.756694Z",
+  "version": 1
+}

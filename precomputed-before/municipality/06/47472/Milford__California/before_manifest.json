@@ -1,0 +1,16 @@
+{
+  "article": "Milford,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/47472/Milford__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "656b4190325cb4c3858fb3b27a7419bd2d673c1d1393050478770ddf7a1122db",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "656b4190325cb4c3858fb3b27a7419bd2d673c1d1393050478770ddf7a1122db",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/47472/Milford__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "47472",
+  "timestamp": "2026-05-24T23:34:39.172803Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Grampian,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/30280/Grampian__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6735fa7a2af2310822f5e2b0e8e53b465229280eefe8de11fc23e77ac0b7a1da",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6735fa7a2af2310822f5e2b0e8e53b465229280eefe8de11fc23e77ac0b7a1da",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/30280/Grampian__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "30280",
+  "timestamp": "2026-05-25T00:07:18.767228Z",
+  "version": 1
+}

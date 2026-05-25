@@ -1,0 +1,16 @@
+{
+  "article": "Beatty,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/05150/Beatty__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dd069383ec925484a1db4a0f39f6437aedd2ee3633abc60f38b472d67043933a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dd069383ec925484a1db4a0f39f6437aedd2ee3633abc60f38b472d67043933a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/05150/Beatty__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "05150",
+  "timestamp": "2026-05-25T00:05:42.852924Z",
+  "version": 1
+}

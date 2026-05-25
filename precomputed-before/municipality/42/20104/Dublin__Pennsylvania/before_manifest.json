@@ -1,0 +1,16 @@
+{
+  "article": "Dublin,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/20104/Dublin__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3eb5c902fafb4b8085d4dbb7bc87755dc862cd5544f7c7e51f9efd4daffcd07f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3eb5c902fafb4b8085d4dbb7bc87755dc862cd5544f7c7e51f9efd4daffcd07f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/20104/Dublin__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "20104",
+  "timestamp": "2026-05-25T00:06:53.331422Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Cross_Village,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/18880/Cross_Village__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9af71feb3e28bbfcd2b51cc482fa65b32f1573852a7d19407fbaa086eb234dd3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9af71feb3e28bbfcd2b51cc482fa65b32f1573852a7d19407fbaa086eb234dd3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/18880/Cross_Village__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "18880",
+  "timestamp": "2026-05-24T23:47:50.528022Z",
+  "version": 1
+}

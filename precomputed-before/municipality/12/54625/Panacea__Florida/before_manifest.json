@@ -1,0 +1,16 @@
+{
+  "article": "Panacea,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/54625/Panacea__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fe89130132645c7b034297cf2c5732f9181f39b2df4e676a0a88b67e8bd8975d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fe89130132645c7b034297cf2c5732f9181f39b2df4e676a0a88b67e8bd8975d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/54625/Panacea__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "54625",
+  "timestamp": "2026-05-24T23:36:20.413109Z",
+  "version": 1
+}

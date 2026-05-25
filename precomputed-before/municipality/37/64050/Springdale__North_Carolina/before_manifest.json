@@ -1,0 +1,16 @@
+{
+  "article": "Springdale,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/64050/Springdale__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "33aaabe9173009e41a0f26120ca5f25d92d1e40f79fa5b63c466ab292016edcf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "33aaabe9173009e41a0f26120ca5f25d92d1e40f79fa5b63c466ab292016edcf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/64050/Springdale__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "64050",
+  "timestamp": "2026-05-25T00:02:24.321494Z",
+  "version": 1
+}

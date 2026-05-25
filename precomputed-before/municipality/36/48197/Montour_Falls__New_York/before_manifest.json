@@ -1,0 +1,16 @@
+{
+  "article": "Montour_Falls,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/48197/Montour_Falls__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "487104084039fcc403856b996b54f1ddbda2b4a2d164b449e7a17a791769f74c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "487104084039fcc403856b996b54f1ddbda2b4a2d164b449e7a17a791769f74c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/48197/Montour_Falls__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "48197",
+  "timestamp": "2026-05-25T00:00:55.249106Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Old_Field,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/54617/Old_Field__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8748594c5a452375d22da1fdc234055e7a7a5a8a5bb5bd119697d2a9c1f522b8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8748594c5a452375d22da1fdc234055e7a7a5a8a5bb5bd119697d2a9c1f522b8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/54617/Old_Field__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "54617",
+  "timestamp": "2026-05-25T00:01:00.251713Z",
+  "version": 1
+}

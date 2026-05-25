@@ -1,0 +1,16 @@
+{
+  "article": "Spring_Ridge,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/73318/Spring_Ridge__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "059672acaf1fddcf777a2b88e038ca816796d93054d4ec523364c399f3da693f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "059672acaf1fddcf777a2b88e038ca816796d93054d4ec523364c399f3da693f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/73318/Spring_Ridge__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "73318",
+  "timestamp": "2026-05-25T00:09:10.428871Z",
+  "version": 1
+}

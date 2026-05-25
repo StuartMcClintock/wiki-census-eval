@@ -1,0 +1,16 @@
+{
+  "article": "Bayou_Country_Club,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/05260/Bayou_Country_Club__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "54a945140666f63128d872d2c36990dd0fdd61d4c5a71165d4ab4690b6a04601",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "54a945140666f63128d872d2c36990dd0fdd61d4c5a71165d4ab4690b6a04601",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/05260/Bayou_Country_Club__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "05260",
+  "timestamp": "2026-05-24T23:44:28.795896Z",
+  "version": 1
+}

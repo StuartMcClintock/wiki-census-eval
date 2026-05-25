@@ -1,0 +1,16 @@
+{
+  "article": "Enola,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/23744/Enola__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9817a0cf5b6a10a5de27d7f782f982b0c8562523f81e37f954e11bbe82f14b27",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9817a0cf5b6a10a5de27d7f782f982b0c8562523f81e37f954e11bbe82f14b27",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/23744/Enola__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "23744",
+  "timestamp": "2026-05-25T00:07:05.028825Z",
+  "version": 1
+}

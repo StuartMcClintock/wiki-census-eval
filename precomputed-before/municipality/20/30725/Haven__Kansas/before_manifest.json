@@ -1,0 +1,16 @@
+{
+  "article": "Haven,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/30725/Haven__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a122f39d830913f5c297675c5726b6188e4e8227f7cbebe146e1d12b126b71e7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a122f39d830913f5c297675c5726b6188e4e8227f7cbebe146e1d12b126b71e7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/30725/Haven__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "30725",
+  "timestamp": "2026-05-24T23:42:45.204595Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Heath_Springs,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/32965/Heath_Springs__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "02062aa73c107d0615d153076de4250e6c3f4385e9e21f23277b41a17d9af54c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "02062aa73c107d0615d153076de4250e6c3f4385e9e21f23277b41a17d9af54c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/32965/Heath_Springs__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "32965",
+  "timestamp": "2026-05-25T00:10:06.057788Z",
+  "version": 1
+}

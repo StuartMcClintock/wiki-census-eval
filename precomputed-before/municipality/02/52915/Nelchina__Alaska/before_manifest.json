@@ -1,0 +1,16 @@
+{
+  "article": "Nelchina,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/52915/Nelchina__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "681ea0221c84f0a81d06cbdce0aadc6f64f60a93a5ac43f35fd8a706bfacedd8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "681ea0221c84f0a81d06cbdce0aadc6f64f60a93a5ac43f35fd8a706bfacedd8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/52915/Nelchina__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "52915",
+  "timestamp": "2026-05-24T23:32:28.900340Z",
+  "version": 1
+}

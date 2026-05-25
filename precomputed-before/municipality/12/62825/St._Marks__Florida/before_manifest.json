@@ -1,0 +1,16 @@
+{
+  "article": "St._Marks,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/62825/St._Marks__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "01357d69c5f83ab7730a7f0e93fd5056cacf66edfcae341e2576a9e74630919e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "01357d69c5f83ab7730a7f0e93fd5056cacf66edfcae341e2576a9e74630919e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/62825/St._Marks__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "62825",
+  "timestamp": "2026-05-24T23:36:22.306297Z",
+  "version": 1
+}

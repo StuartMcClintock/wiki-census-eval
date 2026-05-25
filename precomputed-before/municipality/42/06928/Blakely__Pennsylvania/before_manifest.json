@@ -1,0 +1,16 @@
+{
+  "article": "Blakely,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/06928/Blakely__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5b620e161d35803757fc5faa204e07221ef252438195cc95783b288584abcb8e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5b620e161d35803757fc5faa204e07221ef252438195cc95783b288584abcb8e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/06928/Blakely__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "06928",
+  "timestamp": "2026-05-25T00:06:17.951364Z",
+  "version": 1
+}

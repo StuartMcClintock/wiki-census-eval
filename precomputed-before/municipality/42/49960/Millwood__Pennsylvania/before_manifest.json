@@ -1,0 +1,16 @@
+{
+  "article": "Millwood,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/49960/Millwood__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b2fa5098a137a954ab36e4514bf4733eff5840be154689b4d60fbb24cf7392ef",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b2fa5098a137a954ab36e4514bf4733eff5840be154689b4d60fbb24cf7392ef",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/49960/Millwood__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "49960",
+  "timestamp": "2026-05-25T00:08:07.338465Z",
+  "version": 1
+}

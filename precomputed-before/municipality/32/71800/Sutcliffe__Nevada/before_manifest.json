@@ -1,0 +1,16 @@
+{
+  "article": "Sutcliffe,_Nevada",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/32/71800/Sutcliffe__Nevada/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0fdfc5ec0db1c2bc9417433267a38a030981750f9a2692dfdba364b794aa31e9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0fdfc5ec0db1c2bc9417433267a38a030981750f9a2692dfdba364b794aa31e9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/32/71800/Sutcliffe__Nevada/manifest.json",
+  "state_fips": "32",
+  "status": "match",
+  "target_fips": "71800",
+  "timestamp": "2026-05-24T23:57:34.159860Z",
+  "version": 1
+}

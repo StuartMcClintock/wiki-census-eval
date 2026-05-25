@@ -1,0 +1,16 @@
+{
+  "article": "Hurley,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/36525/Hurley__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "51938b67c27dfe7dc428d6f1088eca4474e1b2d0aa0337096d77b840ac06d449",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "51938b67c27dfe7dc428d6f1088eca4474e1b2d0aa0337096d77b840ac06d449",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/36525/Hurley__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "36525",
+  "timestamp": "2026-05-25T00:22:13.475577Z",
+  "version": 1
+}

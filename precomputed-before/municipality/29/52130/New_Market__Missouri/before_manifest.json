@@ -1,0 +1,16 @@
+{
+  "article": "New_Market,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/52130/New_Market__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dbfbd087230fb89ecb3d14bdad766d63e52c26f058fbd490f073b4e62b8b2ac7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dbfbd087230fb89ecb3d14bdad766d63e52c26f058fbd490f073b4e62b8b2ac7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/52130/New_Market__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "52130",
+  "timestamp": "2026-05-24T23:53:36.219270Z",
+  "version": 1
+}

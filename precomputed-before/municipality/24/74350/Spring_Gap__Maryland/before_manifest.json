@@ -1,0 +1,16 @@
+{
+  "article": "Spring_Gap,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/74350/Spring_Gap__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "da05f531f25c8fbb2b33696809b321ad3fb32bc11ba8e8452f747bcc7d0da44c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "da05f531f25c8fbb2b33696809b321ad3fb32bc11ba8e8452f747bcc7d0da44c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/74350/Spring_Gap__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "74350",
+  "timestamp": "2026-05-24T23:47:34.083518Z",
+  "version": 1
+}

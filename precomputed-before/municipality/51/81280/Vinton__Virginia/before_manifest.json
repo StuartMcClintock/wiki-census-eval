@@ -1,0 +1,16 @@
+{
+  "article": "Vinton,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/81280/Vinton__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "658c65ed0fdd4e092f0dcfa0df4326f603b9ac48ac5db59940f78ef0d530d893",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "658c65ed0fdd4e092f0dcfa0df4326f603b9ac48ac5db59940f78ef0d530d893",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/81280/Vinton__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "81280",
+  "timestamp": "2026-05-25T00:19:43.297909Z",
+  "version": 1
+}

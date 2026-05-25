@@ -1,0 +1,16 @@
+{
+  "article": "Sun_Valley,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/71160/Sun_Valley__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0bd747a4216987521f7ba7089890117340ae0abf0b77165d352cc6b15d1bc108",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0bd747a4216987521f7ba7089890117340ae0abf0b77165d352cc6b15d1bc108",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/71160/Sun_Valley__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "71160",
+  "timestamp": "2026-05-24T23:33:11.052032Z",
+  "version": 1
+}

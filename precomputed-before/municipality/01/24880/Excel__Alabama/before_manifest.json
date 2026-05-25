@@ -1,0 +1,16 @@
+{
+  "article": "Excel,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/24880/Excel__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7cf94a85fe525a166804e5549cfcde9aeab6c66467473ecf641ccd15106f9139",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7cf94a85fe525a166804e5549cfcde9aeab6c66467473ecf641ccd15106f9139",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/24880/Excel__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "24880",
+  "timestamp": "2026-05-24T23:31:55.311358Z",
+  "version": 1
+}

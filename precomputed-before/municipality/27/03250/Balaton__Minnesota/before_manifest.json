@@ -1,0 +1,16 @@
+{
+  "article": "Balaton,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/03250/Balaton__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e304abd7836014ce1fc59afa6fc6d35ad91c3a52b0352bbd3334ff5d37908ce9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e304abd7836014ce1fc59afa6fc6d35ad91c3a52b0352bbd3334ff5d37908ce9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/03250/Balaton__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "03250",
+  "timestamp": "2026-05-24T23:48:36.975631Z",
+  "version": 1
+}

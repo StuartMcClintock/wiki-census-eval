@@ -1,0 +1,16 @@
+{
+  "article": "Higbee,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/31924/Higbee__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "594ba4efab9b05547bf9a447227902abecf651517e8a4612fdec81dd55371c4c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "594ba4efab9b05547bf9a447227902abecf651517e8a4612fdec81dd55371c4c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/31924/Higbee__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "31924",
+  "timestamp": "2026-05-24T23:53:17.461989Z",
+  "version": 1
+}

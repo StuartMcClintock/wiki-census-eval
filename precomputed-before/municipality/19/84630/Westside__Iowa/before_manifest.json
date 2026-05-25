@@ -1,0 +1,16 @@
+{
+  "article": "Westside,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/84630/Westside__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8d0ecef7b0b8297691f4adc44ae8541c07a65d3a3f0c2d1cad58e2515ca8773c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8d0ecef7b0b8297691f4adc44ae8541c07a65d3a3f0c2d1cad58e2515ca8773c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/84630/Westside__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "84630",
+  "timestamp": "2026-05-24T23:42:11.875504Z",
+  "version": 1
+}

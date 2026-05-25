@@ -1,0 +1,16 @@
+{
+  "article": "Pickering,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/57404/Pickering__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8953314b3a7f8cec4e3133206d738f951ef1388566ff1b6d159fd55e4916bfe2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8953314b3a7f8cec4e3133206d738f951ef1388566ff1b6d159fd55e4916bfe2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/57404/Pickering__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "57404",
+  "timestamp": "2026-05-24T23:53:41.542906Z",
+  "version": 1
+}

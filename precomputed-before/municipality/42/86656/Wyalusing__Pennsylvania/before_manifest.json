@@ -1,0 +1,16 @@
+{
+  "article": "Wyalusing,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/86656/Wyalusing__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0842b98a600fc6bf141508f88cfa1880dd8d078b41efd6c7a96b0090768ae6c5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0842b98a600fc6bf141508f88cfa1880dd8d078b41efd6c7a96b0090768ae6c5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/86656/Wyalusing__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "86656",
+  "timestamp": "2026-05-25T00:09:33.933089Z",
+  "version": 1
+}

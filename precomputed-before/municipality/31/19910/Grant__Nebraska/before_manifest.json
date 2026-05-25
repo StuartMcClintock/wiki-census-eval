@@ -1,0 +1,16 @@
+{
+  "article": "Grant,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/19910/Grant__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1ce268b47030ed6fe8ccc213d011eb00448daea5fa7d8a1a3649c3cd7c9853cb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1ce268b47030ed6fe8ccc213d011eb00448daea5fa7d8a1a3649c3cd7c9853cb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/19910/Grant__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "19910",
+  "timestamp": "2026-05-24T23:55:29.300728Z",
+  "version": 1
+}

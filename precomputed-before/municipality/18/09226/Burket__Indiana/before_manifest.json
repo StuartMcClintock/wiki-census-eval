@@ -1,0 +1,16 @@
+{
+  "article": "Burket,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/09226/Burket__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5bcccb5a66ff1e6e88243e27ea6e443ec9c57520e6bf76415236f1dde8c9336c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5bcccb5a66ff1e6e88243e27ea6e443ec9c57520e6bf76415236f1dde8c9336c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/09226/Burket__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "09226",
+  "timestamp": "2026-05-24T23:39:27.845848Z",
+  "version": 1
+}

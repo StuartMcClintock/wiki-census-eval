@@ -1,0 +1,16 @@
+{
+  "article": "Pillager,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/50902/Pillager__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "de08dcb066b0990f6b9afc844a0b6baf0b384869481be7bc026dac85d36b74ef",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "de08dcb066b0990f6b9afc844a0b6baf0b384869481be7bc026dac85d36b74ef",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/50902/Pillager__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "50902",
+  "timestamp": "2026-05-24T23:49:27.717328Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "New_Albany,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/50150/New_Albany__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "71fa472624948b7b7c56c4bc3f607c626ca46efc18b172a97d7970964319d88b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "71fa472624948b7b7c56c4bc3f607c626ca46efc18b172a97d7970964319d88b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/50150/New_Albany__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "50150",
+  "timestamp": "2026-05-24T23:43:13.961140Z",
+  "version": 1
+}

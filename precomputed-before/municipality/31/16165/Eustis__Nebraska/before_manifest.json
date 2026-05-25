@@ -1,0 +1,16 @@
+{
+  "article": "Eustis,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/16165/Eustis__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ba7668a774e59d3ba7cb131515681c55965dd5890e8b8f1139d37167d524d427",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ba7668a774e59d3ba7cb131515681c55965dd5890e8b8f1139d37167d524d427",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/16165/Eustis__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "16165",
+  "timestamp": "2026-05-24T23:55:25.904626Z",
+  "version": 1
+}

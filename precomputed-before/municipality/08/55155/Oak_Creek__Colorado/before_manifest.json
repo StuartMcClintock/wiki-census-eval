@@ -1,0 +1,16 @@
+{
+  "article": "Oak_Creek,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/55155/Oak_Creek__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b6731084f6a701e151288cb0d42893b4f38a7b5cc008ea23434be5d545b5fef6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b6731084f6a701e151288cb0d42893b4f38a7b5cc008ea23434be5d545b5fef6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/55155/Oak_Creek__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "55155",
+  "timestamp": "2026-05-24T23:35:35.397685Z",
+  "version": 1
+}

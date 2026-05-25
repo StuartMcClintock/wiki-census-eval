@@ -1,0 +1,16 @@
+{
+  "article": "Kraemer,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/40210/Kraemer__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7705083a9e27eca58cbb9db5e9ccd1dd9e95de711c8bb7dcf378c9593505e10a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7705083a9e27eca58cbb9db5e9ccd1dd9e95de711c8bb7dcf378c9593505e10a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/40210/Kraemer__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "40210",
+  "timestamp": "2026-05-24T23:44:52.919998Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Bates_City,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/03556/Bates_City__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7b9ad36d2b047b48126041f1b2047f9ac916a9c22f01434630b92188ba3200af",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7b9ad36d2b047b48126041f1b2047f9ac916a9c22f01434630b92188ba3200af",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/03556/Bates_City__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "03556",
+  "timestamp": "2026-05-24T23:50:45.430776Z",
+  "version": 1
+}

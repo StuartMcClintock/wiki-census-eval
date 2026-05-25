@@ -1,0 +1,16 @@
+{
+  "article": "Belmont,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/05400/Belmont__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c93258348795a73bf6f293dda97e2eaa9cb15a09d3fcd669e79981a3259cfe3b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c93258348795a73bf6f293dda97e2eaa9cb15a09d3fcd669e79981a3259cfe3b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/05400/Belmont__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "05400",
+  "timestamp": "2026-05-25T00:06:15.664882Z",
+  "version": 1
+}

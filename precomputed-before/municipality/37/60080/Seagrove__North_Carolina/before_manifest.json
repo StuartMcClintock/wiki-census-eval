@@ -1,0 +1,16 @@
+{
+  "article": "Seagrove,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/60080/Seagrove__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f158cb377ced3d4d710d10c7364c1d25076cbe1e40ed92ea5080421c3e19a8c0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f158cb377ced3d4d710d10c7364c1d25076cbe1e40ed92ea5080421c3e19a8c0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/60080/Seagrove__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "60080",
+  "timestamp": "2026-05-25T00:02:22.115374Z",
+  "version": 1
+}

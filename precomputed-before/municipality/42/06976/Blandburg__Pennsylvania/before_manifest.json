@@ -1,0 +1,16 @@
+{
+  "article": "Blandburg,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/06976/Blandburg__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "79eb091b6baca13ec91e7dd71f83630891764e7a2b1b424433e86795a524b6b1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "79eb091b6baca13ec91e7dd71f83630891764e7a2b1b424433e86795a524b6b1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/06976/Blandburg__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "06976",
+  "timestamp": "2026-05-25T00:06:18.046147Z",
+  "version": 1
+}

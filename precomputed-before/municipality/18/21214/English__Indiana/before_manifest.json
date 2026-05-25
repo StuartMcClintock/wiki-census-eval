@@ -1,0 +1,16 @@
+{
+  "article": "English,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/21214/English__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1ec4d04cdabf549c31cc33c32ff19b3c48c846e1eb8ec88763e6f748a44ed6fe",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1ec4d04cdabf549c31cc33c32ff19b3c48c846e1eb8ec88763e6f748a44ed6fe",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/21214/English__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "21214",
+  "timestamp": "2026-05-24T23:39:34.760524Z",
+  "version": 1
+}

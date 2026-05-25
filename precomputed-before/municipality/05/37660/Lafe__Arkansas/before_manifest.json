@@ -1,0 +1,16 @@
+{
+  "article": "Lafe,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/37660/Lafe__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8ddc3a233a9acf186b769ea27ee4e541af7e3e90d928f69ae4e587c5246d6edb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8ddc3a233a9acf186b769ea27ee4e541af7e3e90d928f69ae4e587c5246d6edb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/37660/Lafe__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "37660",
+  "timestamp": "2026-05-24T23:33:49.596753Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Arrington,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/03208/Arrington__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bffe18922021286c7954d45208f94038b067de5a09f51b35ce313cb0acf2b713",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bffe18922021286c7954d45208f94038b067de5a09f51b35ce313cb0acf2b713",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/03208/Arrington__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "03208",
+  "timestamp": "2026-05-25T00:17:32.968169Z",
+  "version": 1
+}

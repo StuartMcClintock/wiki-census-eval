@@ -1,0 +1,16 @@
+{
+  "article": "Lumber_City,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/47952/Lumber_City__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "968d388bf3b0f1d6d8d105c77d1ab97ecbb024ce27c23e328ac2f95eaab844b0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "968d388bf3b0f1d6d8d105c77d1ab97ecbb024ce27c23e328ac2f95eaab844b0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/47952/Lumber_City__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "47952",
+  "timestamp": "2026-05-24T23:36:53.667196Z",
+  "version": 1
+}

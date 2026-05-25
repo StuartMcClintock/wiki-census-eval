@@ -1,0 +1,16 @@
+{
+  "article": "Albin,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/00825/Albin__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6ea26818c6870ab09701e690ac3373efb4411947aef21ede31dbc1709b532a6c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6ea26818c6870ab09701e690ac3373efb4411947aef21ede31dbc1709b532a6c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/00825/Albin__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "00825",
+  "timestamp": "2026-05-25T00:23:06.629361Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Venetie,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/82420/Venetie__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "58355d97bf7897ca102bac2264f98ef7253b3f481ee147516bcaaa542d995bde",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "58355d97bf7897ca102bac2264f98ef7253b3f481ee147516bcaaa542d995bde",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/82420/Venetie__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "82420",
+  "timestamp": "2026-05-24T23:32:46.062660Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Mina,_Nevada",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/32/46800/Mina__Nevada/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b9a6888ad10f746e93921d3f2d14373819de8bdf80dc2c9eb6f8d250c179b7ca",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b9a6888ad10f746e93921d3f2d14373819de8bdf80dc2c9eb6f8d250c179b7ca",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/32/46800/Mina__Nevada/manifest.json",
+  "state_fips": "32",
+  "status": "match",
+  "target_fips": "46800",
+  "timestamp": "2026-05-24T23:57:31.572948Z",
+  "version": 1
+}

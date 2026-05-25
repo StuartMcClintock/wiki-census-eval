@@ -1,0 +1,16 @@
+{
+  "article": "Calhoun_Falls,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/10720/Calhoun_Falls__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "256352d247f97651a476d2bda3e9cbb88b6ecbb4051083658f9dcfe7f562e6d9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "256352d247f97651a476d2bda3e9cbb88b6ecbb4051083658f9dcfe7f562e6d9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/10720/Calhoun_Falls__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "10720",
+  "timestamp": "2026-05-25T00:09:41.909231Z",
+  "version": 1
+}

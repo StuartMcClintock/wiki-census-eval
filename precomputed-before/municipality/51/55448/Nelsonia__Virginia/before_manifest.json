@@ -1,0 +1,16 @@
+{
+  "article": "Nelsonia,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/55448/Nelsonia__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4fbdb29b248d825ee2d2047d8aa0cf402a35dcc6cf8eaf3ba06506b35dbe7ae8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4fbdb29b248d825ee2d2047d8aa0cf402a35dcc6cf8eaf3ba06506b35dbe7ae8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/55448/Nelsonia__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "55448",
+  "timestamp": "2026-05-25T00:19:28.460907Z",
+  "version": 1
+}

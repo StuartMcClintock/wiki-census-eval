@@ -1,0 +1,16 @@
+{
+  "article": "Edmonson,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/22708/Edmonson__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ccc08c71f932ddb8c0d3190e1e42ceb6018df73e2c04d74f13e6a51bc47d43f2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ccc08c71f932ddb8c0d3190e1e42ceb6018df73e2c04d74f13e6a51bc47d43f2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/22708/Edmonson__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "22708",
+  "timestamp": "2026-05-25T00:15:31.085976Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Hatton,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/30060/Hatton__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "54a77465d2905b268056d6fd4ffa402a19d46c2db1727b1918c7fee632271cda",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "54a77465d2905b268056d6fd4ffa402a19d46c2db1727b1918c7fee632271cda",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/30060/Hatton__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "30060",
+  "timestamp": "2026-05-25T00:20:15.146112Z",
+  "version": 1
+}

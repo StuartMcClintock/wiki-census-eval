@@ -1,0 +1,16 @@
+{
+  "article": "Chalmers,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/11944/Chalmers__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "64548a38e0473c367d6c05984e2baa1a08fe1a17958aa3aa1ec8ffb72bfd62ee",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "64548a38e0473c367d6c05984e2baa1a08fe1a17958aa3aa1ec8ffb72bfd62ee",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/11944/Chalmers__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "11944",
+  "timestamp": "2026-05-24T23:39:29.775274Z",
+  "version": 1
+}

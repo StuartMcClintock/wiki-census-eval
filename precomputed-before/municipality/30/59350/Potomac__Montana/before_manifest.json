@@ -1,0 +1,16 @@
+{
+  "article": "Potomac,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/59350/Potomac__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3a84ae82f9a70daebde16dc883321dcdc6b5727606dca87910503908c1876ff1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3a84ae82f9a70daebde16dc883321dcdc6b5727606dca87910503908c1876ff1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/59350/Potomac__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "59350",
+  "timestamp": "2026-05-24T23:54:44.087693Z",
+  "version": 1
+}

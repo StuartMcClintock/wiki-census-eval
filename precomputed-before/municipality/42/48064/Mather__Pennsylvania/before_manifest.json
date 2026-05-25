@@ -1,0 +1,16 @@
+{
+  "article": "Mather,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/48064/Mather__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "56fab7b17c113b1002d017c72f106f90bf75e1a1fb700caee71a1c545416bbd8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "56fab7b17c113b1002d017c72f106f90bf75e1a1fb700caee71a1c545416bbd8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/48064/Mather__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "48064",
+  "timestamp": "2026-05-25T00:08:02.946699Z",
+  "version": 1
+}

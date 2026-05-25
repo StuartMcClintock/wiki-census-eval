@@ -1,0 +1,16 @@
+{
+  "article": "Trail,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/74400/Trail__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "16b0dca7116e9d0a59671e1b575e19aecea55a7d1a0409ce7b5791af1b0fbfc1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "16b0dca7116e9d0a59671e1b575e19aecea55a7d1a0409ce7b5791af1b0fbfc1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/74400/Trail__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "74400",
+  "timestamp": "2026-05-25T00:06:03.853802Z",
+  "version": 1
+}

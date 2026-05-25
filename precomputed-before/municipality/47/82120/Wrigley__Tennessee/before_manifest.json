@@ -1,0 +1,16 @@
+{
+  "article": "Wrigley,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/82120/Wrigley__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4882c9062b47f78753ba554b259a178b92c4de0ede70b57530c329bf0d1fc965",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4882c9062b47f78753ba554b259a178b92c4de0ede70b57530c329bf0d1fc965",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/82120/Wrigley__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "82120",
+  "timestamp": "2026-05-25T00:14:59.580384Z",
+  "version": 1
+}

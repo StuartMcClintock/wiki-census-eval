@@ -1,0 +1,16 @@
+{
+  "article": "Wharton,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/84574/Wharton__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e5d0f9460012d26a530ec87c822292164e78b9c83c80a4e3f668fcfa0cd8f557",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e5d0f9460012d26a530ec87c822292164e78b9c83c80a4e3f668fcfa0cd8f557",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/84574/Wharton__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "84574",
+  "timestamp": "2026-05-25T00:05:38.829203Z",
+  "version": 1
+}

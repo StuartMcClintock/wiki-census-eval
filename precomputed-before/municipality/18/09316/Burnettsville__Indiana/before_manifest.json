@@ -1,0 +1,16 @@
+{
+  "article": "Burnettsville,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/09316/Burnettsville__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ef298dbd9dc8e1ea7ef3f755cf3acb4a2114363711999b44c536d78926580fbb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ef298dbd9dc8e1ea7ef3f755cf3acb4a2114363711999b44c536d78926580fbb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/09316/Burnettsville__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "09316",
+  "timestamp": "2026-05-24T23:39:28.065124Z",
+  "version": 1
+}

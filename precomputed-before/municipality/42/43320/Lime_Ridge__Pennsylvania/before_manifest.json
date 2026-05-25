@@ -1,0 +1,16 @@
+{
+  "article": "Lime_Ridge,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/43320/Lime_Ridge__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "910b3ac0f337b5507ee08f64cea3809e65f06aaebe9ed584dfb7342b108c08e8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "910b3ac0f337b5507ee08f64cea3809e65f06aaebe9ed584dfb7342b108c08e8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/43320/Lime_Ridge__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "43320",
+  "timestamp": "2026-05-25T00:07:52.182039Z",
+  "version": 1
+}

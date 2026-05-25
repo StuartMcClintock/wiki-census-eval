@@ -1,0 +1,16 @@
+{
+  "article": "Johnsville,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/37512/Johnsville__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "009ffed74d0202cf03009973d75fed1004760311aa3f79460191570a079c6bdc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "009ffed74d0202cf03009973d75fed1004760311aa3f79460191570a079c6bdc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/37512/Johnsville__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "37512",
+  "timestamp": "2026-05-24T23:34:30.563674Z",
+  "version": 1
+}

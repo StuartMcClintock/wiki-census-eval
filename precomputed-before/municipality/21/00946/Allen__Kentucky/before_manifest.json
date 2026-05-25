@@ -1,0 +1,16 @@
+{
+  "article": "Allen,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/00946/Allen__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "df90b1e4460a53e39cfdfb5ab782cfc25964274467b0b3fb5965f53a5dd3b08a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "df90b1e4460a53e39cfdfb5ab782cfc25964274467b0b3fb5965f53a5dd3b08a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/00946/Allen__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "00946",
+  "timestamp": "2026-05-24T23:43:40.717749Z",
+  "version": 1
+}

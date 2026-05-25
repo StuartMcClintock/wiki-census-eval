@@ -1,0 +1,16 @@
+{
+  "article": "Union_Grove,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/77784/Union_Grove__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e14bea238af739c2f00807010199ef2fb3babd1f8118e21fda96d8c5549d227b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e14bea238af739c2f00807010199ef2fb3babd1f8118e21fda96d8c5549d227b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/77784/Union_Grove__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "77784",
+  "timestamp": "2026-05-24T23:32:14.765679Z",
+  "version": 1
+}

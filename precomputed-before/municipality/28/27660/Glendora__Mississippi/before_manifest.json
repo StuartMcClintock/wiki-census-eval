@@ -1,0 +1,16 @@
+{
+  "article": "Glendora,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/27660/Glendora__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a1c5d78f1305f5564b038bba84f1546edc9d5d48132d0533f383986709e0321f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a1c5d78f1305f5564b038bba84f1546edc9d5d48132d0533f383986709e0321f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/27660/Glendora__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "27660",
+  "timestamp": "2026-05-24T23:50:10.972252Z",
+  "version": 1
+}

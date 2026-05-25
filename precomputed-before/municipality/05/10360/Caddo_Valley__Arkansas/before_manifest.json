@@ -1,0 +1,16 @@
+{
+  "article": "Caddo_Valley,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/10360/Caddo_Valley__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d9bf4955b77e6a69ad9cee1e107fb1176b73f2fd345918475ccf8551100e5a49",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d9bf4955b77e6a69ad9cee1e107fb1176b73f2fd345918475ccf8551100e5a49",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/10360/Caddo_Valley__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "10360",
+  "timestamp": "2026-05-24T23:33:23.321215Z",
+  "version": 1
+}

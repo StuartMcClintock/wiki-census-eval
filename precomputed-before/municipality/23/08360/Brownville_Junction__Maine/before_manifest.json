@@ -1,0 +1,16 @@
+{
+  "article": "Brownville_Junction,_Maine",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/23/08360/Brownville_Junction__Maine/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9d6e0c3e2731208208a87eb97970993b5c58e026d0af44cf06cf8d48b4a1fa8e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9d6e0c3e2731208208a87eb97970993b5c58e026d0af44cf06cf8d48b4a1fa8e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/23/08360/Brownville_Junction__Maine/manifest.json",
+  "state_fips": "23",
+  "status": "match",
+  "target_fips": "08360",
+  "timestamp": "2026-05-24T23:45:12.732825Z",
+  "version": 1
+}

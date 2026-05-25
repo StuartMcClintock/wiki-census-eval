@@ -1,0 +1,16 @@
+{
+  "article": "Atlantic_City,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/04015/Atlantic_City__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8f2fb9ab5b5ee412dfedc11077ed34349c7efa0dc011e9391178d38f75c2f66b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8f2fb9ab5b5ee412dfedc11077ed34349c7efa0dc011e9391178d38f75c2f66b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/04015/Atlantic_City__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "04015",
+  "timestamp": "2026-05-25T00:23:07.868981Z",
+  "version": 1
+}

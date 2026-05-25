@@ -1,0 +1,16 @@
+{
+  "article": "Forestbrook,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/26372/Forestbrook__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ab007075a70670561065b4423e3b61a7e73a5ab43ec13b6f7b12b842bfa3b714",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ab007075a70670561065b4423e3b61a7e73a5ab43ec13b6f7b12b842bfa3b714",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/26372/Forestbrook__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "26372",
+  "timestamp": "2026-05-25T00:10:03.279951Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Boston,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/06652/Boston__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fcd1c4a7fe1405ecb93a7a708353306203da0f6e71a50378d8faa0284a8b73a2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fcd1c4a7fe1405ecb93a7a708353306203da0f6e71a50378d8faa0284a8b73a2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/06652/Boston__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "06652",
+  "timestamp": "2026-05-24T23:39:26.789037Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Bluff_City,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/07775/Bluff_City__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "695fd03ccf36cfa891b949b8a1df08ed947c5c55d3dc27893726b7a7a156c2d7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "695fd03ccf36cfa891b949b8a1df08ed947c5c55d3dc27893726b7a7a156c2d7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/07775/Bluff_City__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "07775",
+  "timestamp": "2026-05-24T23:42:22.508728Z",
+  "version": 1
+}

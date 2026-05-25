@@ -1,0 +1,16 @@
+{
+  "article": "Thaxton,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/72760/Thaxton__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8763d84c8bb4e72d3f1f8526754190fa1169d8ca0157d08bd632c4a154ab5320",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8763d84c8bb4e72d3f1f8526754190fa1169d8ca0157d08bd632c4a154ab5320",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/72760/Thaxton__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "72760",
+  "timestamp": "2026-05-24T23:50:27.009879Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Granada,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/31550/Granada__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4e78b991785692f204aca92d000338fb779091cf6c65b0900a2d23f9d13d24b8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4e78b991785692f204aca92d000338fb779091cf6c65b0900a2d23f9d13d24b8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/31550/Granada__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "31550",
+  "timestamp": "2026-05-24T23:35:26.778664Z",
+  "version": 1
+}

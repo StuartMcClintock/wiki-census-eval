@@ -1,0 +1,16 @@
+{
+  "article": "Paincourtville,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/58745/Paincourtville__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "614bc96c9f562ef839c4e8365f5f4270adc948f3795db832dce2487cbb144a9e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "614bc96c9f562ef839c4e8365f5f4270adc948f3795db832dce2487cbb144a9e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/58745/Paincourtville__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "58745",
+  "timestamp": "2026-05-24T23:45:04.238096Z",
+  "version": 1
+}

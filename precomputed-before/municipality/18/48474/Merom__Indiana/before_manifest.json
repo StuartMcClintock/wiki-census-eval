@@ -1,0 +1,16 @@
+{
+  "article": "Merom,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/48474/Merom__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "99a281952c0b954085b5b95569010efb54a1bfa4fbbd44e24288a0c0941f8dbd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "99a281952c0b954085b5b95569010efb54a1bfa4fbbd44e24288a0c0941f8dbd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/48474/Merom__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "48474",
+  "timestamp": "2026-05-24T23:40:01.786117Z",
+  "version": 1
+}

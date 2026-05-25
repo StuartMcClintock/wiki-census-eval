@@ -1,0 +1,26 @@
+==Demographics==
+{{US Census population
+| align = left
+| footnote = Sources:<ref name="USDecennialCensus">{{cite web|title=Census of Population and Housing|url=https://www.census.gov/programs-surveys/decennial-census.html|publisher=U.S. Census Bureau|access-date=11 December 2013}}</ref><ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref><ref name=CensusPopEst>{{cite web|title=Incorporated Places and Minor Civil Divisions Datasets: Subcounty Resident Population Estimates: April 1, 2010 to July 1, 2012|url=https://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|work=Population Estimates|publisher=U.S. Census Bureau|access-date=11 December 2013|url-status=dead|archive-url=https://web.archive.org/web/20130611010502/http://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|archive-date=11 June 2013}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A42|title=Census Population API|publisher=United States Census Bureau|accessdate=Oct 12, 2022}}</ref>
+| 1870 = 813
+| 1880 = 1253
+| 1890 = 1730
+| 1900 = 2030
+| 1910 = 2437
+| 1920 = 2512
+| 1930 = 2002
+| 1940 = 2076
+| 1950 = 1992
+| 1960 = 1777
+| 1970 = 1671
+| 1980 = 1466
+| 1990 = 1310
+| 2000 = 1249
+| 2010 = 1141
+| 2020 = 1045
+| estyear = 2021
+| estimate = 1033
+| estref = <ref name="USCensusEst2020-2021">{{cite web |title=City and Town Population Totals: 2020—2021 |url=https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html |website=Census.gov |publisher=US Census Bureau |access-date=August 7, 2022}}</ref> {{decrease}}
+}}
+As of the [[2020 United States census|2020 US census]], there were 1,045 people living on Osceola Mills living in 507 households. The [[population density]] was {{convert|3166.7|PD/sqmi|PD/km2|abbr=off}}. 94.5% of the population was White alone.
+

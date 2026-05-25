@@ -1,0 +1,16 @@
+{
+  "article": "Woodworth,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/87580/Woodworth__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1515ab3ecb5675396ab934525574bfe8fac412c1c111312106289c7b38cb68b6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1515ab3ecb5675396ab934525574bfe8fac412c1c111312106289c7b38cb68b6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/87580/Woodworth__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "87580",
+  "timestamp": "2026-05-25T00:03:27.799087Z",
+  "version": 1
+}

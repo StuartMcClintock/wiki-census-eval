@@ -1,0 +1,16 @@
+{
+  "article": "Robin_Glen-Indiantown,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/68990/Robin_Glen-Indiantown__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "02dc12683a10c3eb8d4f3a0aac03362e7fada77a648863ab2a212250a2c4473a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "02dc12683a10c3eb8d4f3a0aac03362e7fada77a648863ab2a212250a2c4473a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/68990/Robin_Glen-Indiantown__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "68990",
+  "timestamp": "2026-05-24T23:48:26.103600Z",
+  "version": 1
+}

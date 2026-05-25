@@ -1,0 +1,16 @@
+{
+  "article": "Stoneville,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/70720/Stoneville__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3493d7c4b75a8a6a84a46ddd159cd72d75a08ee47c289d65c7306a26a4c055a7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3493d7c4b75a8a6a84a46ddd159cd72d75a08ee47c289d65c7306a26a4c055a7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/70720/Stoneville__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "70720",
+  "timestamp": "2026-05-24T23:50:25.831709Z",
+  "version": 1
+}

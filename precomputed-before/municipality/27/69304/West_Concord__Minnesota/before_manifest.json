@@ -1,0 +1,16 @@
+{
+  "article": "West_Concord,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/69304/West_Concord__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "154ed42d5c0ba7a194d7b1e289ba33ccfabfa5b1e47b4fa473615a06d1cd32fd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "154ed42d5c0ba7a194d7b1e289ba33ccfabfa5b1e47b4fa473615a06d1cd32fd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/69304/West_Concord__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "69304",
+  "timestamp": "2026-05-24T23:49:53.531902Z",
+  "version": 1
+}

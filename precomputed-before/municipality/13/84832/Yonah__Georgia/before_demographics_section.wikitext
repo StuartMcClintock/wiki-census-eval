@@ -1,0 +1,72 @@
+==Demographics==
+Yonah first appeared as a [[census designated place]] in the [[2010 United States census]].
+
+{{US Census population
+|align=right  style="text-align:center;"
+|2010= 507
+|2020= 657
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=http://www.census.gov/prod/www/decennial.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2016}}</ref><br /> 2010<ref name=2010CensusP2 /> 2020<ref name=2020CensusP2 />}}
+
+{| class="wikitable" style="text-align:center;"
+|+Yonah CDP, Georgia – Racial and ethnic composition<br /><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2 HISPANIC OR LATINO, AND NOT HISPANIC OR LATINO BY RACE – 2010: DEC Redistricting Data (PL 94-171) – Yonah CDP, Georgia |url=https://data.census.gov/table?q=p2&g=160XX00US1384832&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]]}}</ref>
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web|title=P2 HISPANIC OR LATINO, AND NOT HISPANIC OR LATINO BY RACE – 2020: DEC Redistricting Data (PL 94-171) – Yonah CDP, Georgia|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US1384832&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]]}}</ref>
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|485
+|style='background: #ffffe6; |590
+|95.66%
+|style='background: #ffffe6; |89.80%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|3
+|style='background: #ffffe6; |9
+|0.59%
+|style='background: #ffffe6; |1.37%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|6
+|style='background: #ffffe6; |4
+|1.18%
+|style='background: #ffffe6; |0.61%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Race and ethnicity in the United States census|Some Other Race]] alone (NH)
+|0
+|style='background: #ffffe6; |2
+|0.00%
+|style='background: #ffffe6; |0.30%
+|-
+|[[Multiracial Americans|Mixed Race or Multi-Racial]] (NH)
+|8
+|style='background: #ffffe6; |33
+|1.58%
+|style='background: #ffffe6; |5.02%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|5
+|style='background: #ffffe6; |19
+|0.99%
+|style='background: #ffffe6; |2.89%
+|-
+|'''Total'''
+|'''507'''
+|style='background: #ffffe6; |'''657'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+

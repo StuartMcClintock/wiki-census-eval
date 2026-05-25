@@ -1,0 +1,16 @@
+{
+  "article": "Wellton_Hills,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/81490/Wellton_Hills__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d647981c6b6c1ab5d825101f3e012e5b7e916d4f9c9bbf592d1c50d2c85f24f2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d647981c6b6c1ab5d825101f3e012e5b7e916d4f9c9bbf592d1c50d2c85f24f2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/81490/Wellton_Hills__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "81490",
+  "timestamp": "2026-05-24T23:33:14.268331Z",
+  "version": 1
+}

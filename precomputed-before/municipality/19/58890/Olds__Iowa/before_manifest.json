@@ -1,0 +1,16 @@
+{
+  "article": "Olds,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/58890/Olds__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8a543a386b4fcf8b96e4e601f71ab1a3624b8b0fd4b9c3ddc551c01d617673a0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8a543a386b4fcf8b96e4e601f71ab1a3624b8b0fd4b9c3ddc551c01d617673a0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/58890/Olds__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "58890",
+  "timestamp": "2026-05-24T23:41:34.590030Z",
+  "version": 1
+}

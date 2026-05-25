@@ -1,0 +1,16 @@
+{
+  "article": "Ridgway,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/64018/Ridgway__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "462d6a6f9657d968e3fe629bab48bdae22309a44e8c5416047ed535702c2ee7b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "462d6a6f9657d968e3fe629bab48bdae22309a44e8c5416047ed535702c2ee7b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/64018/Ridgway__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "64018",
+  "timestamp": "2026-05-24T23:39:05.832239Z",
+  "version": 1
+}

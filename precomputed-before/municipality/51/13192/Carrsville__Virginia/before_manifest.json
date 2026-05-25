@@ -1,0 +1,16 @@
+{
+  "article": "Carrsville,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/13192/Carrsville__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a24cd075cbad567556fd092aca3c9041b226c1bbf9e90913753a01d043cf3412",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a24cd075cbad567556fd092aca3c9041b226c1bbf9e90913753a01d043cf3412",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/13192/Carrsville__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "13192",
+  "timestamp": "2026-05-25T00:19:04.726840Z",
+  "version": 1
+}

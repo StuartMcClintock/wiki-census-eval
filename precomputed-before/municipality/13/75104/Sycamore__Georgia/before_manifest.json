@@ -1,0 +1,16 @@
+{
+  "article": "Sycamore,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/75104/Sycamore__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "316de57fe1d65cb6a6cf26e72ab99e028cf54cc1f06c586c2e3ce56961c8f4f6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "316de57fe1d65cb6a6cf26e72ab99e028cf54cc1f06c586c2e3ce56961c8f4f6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/75104/Sycamore__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "75104",
+  "timestamp": "2026-05-24T23:37:08.983202Z",
+  "version": 1
+}

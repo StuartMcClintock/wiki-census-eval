@@ -1,0 +1,16 @@
+{
+  "article": "Delavan,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/15472/Delavan__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bd62612c4c8af6ab6fc804f47906c1c88690e63db4386a4ccdec02bcedcd9977",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bd62612c4c8af6ab6fc804f47906c1c88690e63db4386a4ccdec02bcedcd9977",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/15472/Delavan__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "15472",
+  "timestamp": "2026-05-24T23:48:49.144222Z",
+  "version": 1
+}

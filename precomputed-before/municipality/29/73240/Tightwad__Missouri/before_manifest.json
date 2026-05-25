@@ -1,0 +1,16 @@
+{
+  "article": "Tightwad,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/73240/Tightwad__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fbb0f830485e92dd40a7cc59bf9b9cb61e1a078face9e4a4a4ee6518c6c251a1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fbb0f830485e92dd40a7cc59bf9b9cb61e1a078face9e4a4a4ee6518c6c251a1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/73240/Tightwad__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "73240",
+  "timestamp": "2026-05-24T23:53:53.784852Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Horicon,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/35750/Horicon__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3884bbf67574497a8c167cc52af3edfb0799da08360a26a1ba7885dbc464c329",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3884bbf67574497a8c167cc52af3edfb0799da08360a26a1ba7885dbc464c329",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/35750/Horicon__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "35750",
+  "timestamp": "2026-05-25T00:22:12.848111Z",
+  "version": 1
+}

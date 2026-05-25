@@ -1,0 +1,16 @@
+{
+  "article": "Henry,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/28140/Henry__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "560ad06324ae4540d4817ea32125182b50a28d7a7f469902a78614d562568243",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "560ad06324ae4540d4817ea32125182b50a28d7a7f469902a78614d562568243",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/28140/Henry__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "28140",
+  "timestamp": "2026-05-25T00:10:41.380019Z",
+  "version": 1
+}

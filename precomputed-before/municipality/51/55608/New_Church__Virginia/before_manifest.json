@@ -1,0 +1,16 @@
+{
+  "article": "New_Church,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/55608/New_Church__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "400709b787ab1d1a794b4e482ccdd1384076116da3b3efe329372bdb43dc358a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "400709b787ab1d1a794b4e482ccdd1384076116da3b3efe329372bdb43dc358a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/55608/New_Church__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "55608",
+  "timestamp": "2026-05-25T00:19:28.684315Z",
+  "version": 1
+}

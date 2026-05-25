@@ -1,0 +1,16 @@
+{
+  "article": "Madison_Place,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/46736/Madison_Place__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dbf4c0f4da937f773a2f2db3521bd082319a7a306780dcf32f19b9a7fe156c51",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dbf4c0f4da937f773a2f2db3521bd082319a7a306780dcf32f19b9a7fe156c51",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/46736/Madison_Place__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "46736",
+  "timestamp": "2026-05-25T00:04:41.820742Z",
+  "version": 1
+}

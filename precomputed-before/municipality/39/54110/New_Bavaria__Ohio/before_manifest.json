@@ -1,0 +1,16 @@
+{
+  "article": "New_Bavaria,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/54110/New_Bavaria__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b8f7b79c0fd9a2f6aa6f316c2adf3a56be4c9b0a1c5398d0b48053512bc346cd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b8f7b79c0fd9a2f6aa6f316c2adf3a56be4c9b0a1c5398d0b48053512bc346cd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/54110/New_Bavaria__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "54110",
+  "timestamp": "2026-05-25T00:04:51.390435Z",
+  "version": 1
+}

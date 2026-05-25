@@ -1,0 +1,16 @@
+{
+  "article": "Newland,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/46740/Newland__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "221ee7dba50a89b9d86bb96dca5fbdf35d633ebf3c299044461f6c61e3059f6b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "221ee7dba50a89b9d86bb96dca5fbdf35d633ebf3c299044461f6c61e3059f6b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/46740/Newland__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "46740",
+  "timestamp": "2026-05-25T00:02:13.237338Z",
+  "version": 1
+}

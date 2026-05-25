@@ -1,0 +1,16 @@
+{
+  "article": "Big_Water,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/05534/Big_Water__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "131aca024c8ebbf6a26af3c76206128991645227c6aaafd4405d201168a1c1c6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "131aca024c8ebbf6a26af3c76206128991645227c6aaafd4405d201168a1c1c6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/05534/Big_Water__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "05534",
+  "timestamp": "2026-05-25T00:16:54.021131Z",
+  "version": 1
+}

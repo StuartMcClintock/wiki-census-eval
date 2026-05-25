@@ -1,0 +1,16 @@
+{
+  "article": "Preston,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/64605/Preston__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0dc6eb072181420b8e6b22258be6d63cf7a74b6dadb2e116c82d31869f902c88",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0dc6eb072181420b8e6b22258be6d63cf7a74b6dadb2e116c82d31869f902c88",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/64605/Preston__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "64605",
+  "timestamp": "2026-05-24T23:41:39.599507Z",
+  "version": 1
+}

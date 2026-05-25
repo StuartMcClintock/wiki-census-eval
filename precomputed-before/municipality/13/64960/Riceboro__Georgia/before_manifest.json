@@ -1,0 +1,16 @@
+{
+  "article": "Riceboro,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/64960/Riceboro__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e41a38951b8596afce3404da20f2347e7e14ba1f4c880afa1a8bfade7e990115",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e41a38951b8596afce3404da20f2347e7e14ba1f4c880afa1a8bfade7e990115",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/64960/Riceboro__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "64960",
+  "timestamp": "2026-05-24T23:37:05.313222Z",
+  "version": 1
+}

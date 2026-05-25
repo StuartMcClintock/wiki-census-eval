@@ -1,0 +1,16 @@
+{
+  "article": "Mount_Hope,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/48900/Mount_Hope__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "21a07a7a1e81077a2657fece4e53671bda223bdf2bbabca690ba473fd31b7b81",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "21a07a7a1e81077a2657fece4e53671bda223bdf2bbabca690ba473fd31b7b81",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/48900/Mount_Hope__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "48900",
+  "timestamp": "2026-05-24T23:43:11.529774Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Bradford,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/08084/Bradford__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "96b19c75d934adb1ce63a458de785bc777cee4f56c326ee6bee1ec0a8637d888",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "96b19c75d934adb1ce63a458de785bc777cee4f56c326ee6bee1ec0a8637d888",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/08084/Bradford__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "08084",
+  "timestamp": "2026-05-25T00:03:37.258971Z",
+  "version": 1
+}

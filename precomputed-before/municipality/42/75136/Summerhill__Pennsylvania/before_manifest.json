@@ -1,0 +1,16 @@
+{
+  "article": "Summerhill,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/75136/Summerhill__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "147b43beec8b43307034a686398ee6b9f3550332d536dc8aab7d3629a4e4161f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "147b43beec8b43307034a686398ee6b9f3550332d536dc8aab7d3629a4e4161f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/75136/Summerhill__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "75136",
+  "timestamp": "2026-05-25T00:09:13.212026Z",
+  "version": 1
+}

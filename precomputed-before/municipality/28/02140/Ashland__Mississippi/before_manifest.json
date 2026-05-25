@@ -1,0 +1,16 @@
+{
+  "article": "Ashland,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/02140/Ashland__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bd5f1d9d0066f8a8ba0b5a37e368bc317e3cb78cff29e99921fa9d3e056d4660",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bd5f1d9d0066f8a8ba0b5a37e368bc317e3cb78cff29e99921fa9d3e056d4660",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/02140/Ashland__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "02140",
+  "timestamp": "2026-05-24T23:50:01.611078Z",
+  "version": 1
+}

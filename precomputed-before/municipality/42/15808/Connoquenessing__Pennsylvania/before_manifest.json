@@ -1,0 +1,16 @@
+{
+  "article": "Connoquenessing,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/15808/Connoquenessing__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cedf391ec3bf598942edcd904a32881518e89b65ac7bbcd6091710aa8fbacbb8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cedf391ec3bf598942edcd904a32881518e89b65ac7bbcd6091710aa8fbacbb8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/15808/Connoquenessing__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "15808",
+  "timestamp": "2026-05-25T00:06:45.879314Z",
+  "version": 1
+}

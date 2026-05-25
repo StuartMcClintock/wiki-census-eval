@@ -1,0 +1,16 @@
+{
+  "article": "Wacissa,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/74700/Wacissa__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5a1d55c3f1f9c19b7fe08db3dd7743dd2b352ffb95f1b19b0e72034a915a2c3e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5a1d55c3f1f9c19b7fe08db3dd7743dd2b352ffb95f1b19b0e72034a915a2c3e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/74700/Wacissa__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "74700",
+  "timestamp": "2026-05-24T23:36:23.942040Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Henning,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/28520/Henning__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8549c388aaf32cb10096a4e3937f64329f22ada33100a71a8981b42de2eb7c84",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8549c388aaf32cb10096a4e3937f64329f22ada33100a71a8981b42de2eb7c84",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/28520/Henning__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "28520",
+  "timestamp": "2026-05-24T23:49:07.655783Z",
+  "version": 1
+}

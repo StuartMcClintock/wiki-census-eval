@@ -1,0 +1,16 @@
+{
+  "article": "Brooks,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/08038/Brooks__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4178a52a0b08e767c1999334562bc208b574c78b95ce2059e5112fe481234445",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4178a52a0b08e767c1999334562bc208b574c78b95ce2059e5112fe481234445",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/08038/Brooks__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "08038",
+  "timestamp": "2026-05-24T23:48:41.679173Z",
+  "version": 1
+}

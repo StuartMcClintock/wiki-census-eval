@@ -1,0 +1,16 @@
+{
+  "article": "Tecumseh,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/75176/Tecumseh__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3887d14d04ed16b2ad22dc89ebbfb2e343ce031c5096617fd1be547f672c05ce",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3887d14d04ed16b2ad22dc89ebbfb2e343ce031c5096617fd1be547f672c05ce",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/75176/Tecumseh__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "75176",
+  "timestamp": "2026-05-24T23:40:15.893948Z",
+  "version": 1
+}

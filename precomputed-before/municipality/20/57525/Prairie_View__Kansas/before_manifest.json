@@ -1,0 +1,16 @@
+{
+  "article": "Prairie_View,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/57525/Prairie_View__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "62b5207077c0c3af99b393a87afbba808b390fbda2c29fbc269943cdce036acd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "62b5207077c0c3af99b393a87afbba808b390fbda2c29fbc269943cdce036acd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/57525/Prairie_View__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "57525",
+  "timestamp": "2026-05-24T23:43:21.610982Z",
+  "version": 1
+}

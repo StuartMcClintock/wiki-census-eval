@@ -1,0 +1,16 @@
+{
+  "article": "Prineville_Lake_Acres,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/59916/Prineville_Lake_Acres__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cc170e757c9979e75a428f64b262fe4ad58eb79614e83ac0c2be1acc5ca484e5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cc170e757c9979e75a428f64b262fe4ad58eb79614e83ac0c2be1acc5ca484e5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/59916/Prineville_Lake_Acres__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "59916",
+  "timestamp": "2026-05-25T00:05:54.336112Z",
+  "version": 1
+}

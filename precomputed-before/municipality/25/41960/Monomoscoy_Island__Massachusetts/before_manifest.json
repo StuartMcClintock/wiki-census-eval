@@ -1,0 +1,16 @@
+{
+  "article": "Monomoscoy_Island,_Massachusetts",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/25/41960/Monomoscoy_Island__Massachusetts/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6be76ad0753950afc84cede1b7d1e0d52adf8dddfde67ba736644113b88d7916",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6be76ad0753950afc84cede1b7d1e0d52adf8dddfde67ba736644113b88d7916",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/25/41960/Monomoscoy_Island__Massachusetts/manifest.json",
+  "state_fips": "25",
+  "status": "match",
+  "target_fips": "41960",
+  "timestamp": "2026-05-24T23:47:38.537780Z",
+  "version": 1
+}

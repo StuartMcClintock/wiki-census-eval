@@ -1,0 +1,56 @@
+==Demographics==
+{{US Census population
+| 1980 = 465
+| 1990 = 978
+| 2000 = 1216
+| 2010 = 1334
+| 2020 = 1731
+| estyear = 2023
+| estimate = 2171
+| estref = {{increase}}
+| footnote = U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2015}}</ref><ref>{{Cite web |publisher=United States Census Bureau |title=City and Town Population Totals: 2020-2023 |url=https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html |access-date=2024-11-15 |website=Census.gov |language=en}}</ref>
+}}
+{| class="wikitable"
+|+'''Copper Canyon racial composition as of 2020'''<ref name=":0">{{Cite web |title=Explore Census Data |url=https://data.census.gov/cedsci/table?g=1600000US4816636&tid=DECENNIALPL2020.P2 |access-date=May 22, 2022 |website=data.census.gov}}</ref><br> (NH = Non-Hispanic){{efn|Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos can be of any race.<ref>{{cite web |title=About the Hispanic Population and its Origin |url=https://www.census.gov/topics/population/hispanic-origin/about.html |website=www.census.gov |access-date=May 18, 2022}}</ref>}}
+!Race
+!Number
+!Percentage
+|-
+|[[Non-Hispanic or Latino whites|White]] (NH)
+|1,434
+|82.84%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] (NH)
+|21
+|1.21%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] (NH)
+|12
+|0.69%
+|-
+|[[Asian Americans|Asian]] (NH)
+|51
+|2.95%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] (NH)
+|1
+|0.06%
+|-
+|Some Other Race (NH)
+|12
+|0.69%
+|-
+|[[Multiracial Americans|Mixed/Multi-Racial]] (NH)
+|63
+|3.64%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]]
+|137
+|7.91%
+|-
+|'''Total'''
+|'''1,731'''
+|
+|}
+As of the [[2020 United States census]], there were 1,731 people, 553 households, and 513 families residing in the town.
+

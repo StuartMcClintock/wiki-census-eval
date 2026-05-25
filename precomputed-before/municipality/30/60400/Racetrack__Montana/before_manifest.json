@@ -1,0 +1,16 @@
+{
+  "article": "Racetrack,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/60400/Racetrack__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3459590dde6c0c7c8a2defd221f6aea3b977a40625af882e66cc1f5f61ac7cc9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3459590dde6c0c7c8a2defd221f6aea3b977a40625af882e66cc1f5f61ac7cc9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/60400/Racetrack__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "60400",
+  "timestamp": "2026-05-24T23:54:44.609901Z",
+  "version": 1
+}

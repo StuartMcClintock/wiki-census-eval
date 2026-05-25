@@ -1,0 +1,16 @@
+{
+  "article": "Clearview_Acres,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/15400/Clearview_Acres__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "494c4c666e11773947a08b4f392c0d941766f6df20f9e7fc013cfeb2768f9861",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "494c4c666e11773947a08b4f392c0d941766f6df20f9e7fc013cfeb2768f9861",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/15400/Clearview_Acres__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "15400",
+  "timestamp": "2026-05-25T00:23:10.681763Z",
+  "version": 1
+}

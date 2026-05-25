@@ -1,0 +1,16 @@
+{
+  "article": "Ridgefield,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/63875/Ridgefield__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a1ed2734b733b26a5ff6742fd93e8611ff488f5913772b7ec12b455b28fa2cfe",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a1ed2734b733b26a5ff6742fd93e8611ff488f5913772b7ec12b455b28fa2cfe",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/63875/Ridgefield__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "63875",
+  "timestamp": "2026-05-24T23:39:05.721230Z",
+  "version": 1
+}

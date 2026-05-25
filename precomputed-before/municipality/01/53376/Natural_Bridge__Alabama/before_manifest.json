@@ -1,0 +1,16 @@
+{
+  "article": "Natural_Bridge,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/53376/Natural_Bridge__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b29dd0da185215aafcc8ce2bc0fd6ede36d5c42886a943c36e17770c5f76ec3f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b29dd0da185215aafcc8ce2bc0fd6ede36d5c42886a943c36e17770c5f76ec3f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/53376/Natural_Bridge__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "53376",
+  "timestamp": "2026-05-24T23:32:05.755924Z",
+  "version": 1
+}

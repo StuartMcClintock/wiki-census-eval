@@ -1,0 +1,16 @@
+{
+  "article": "Bergland,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/07620/Bergland__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aca2f3a6226673f73676d29f140a67b7300c0a6a586232f799cff6489cf044a6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aca2f3a6226673f73676d29f140a67b7300c0a6a586232f799cff6489cf044a6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/07620/Bergland__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "07620",
+  "timestamp": "2026-05-24T23:47:43.703634Z",
+  "version": 1
+}

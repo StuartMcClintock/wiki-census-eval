@@ -1,0 +1,16 @@
+{
+  "article": "Brodhead,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/09838/Brodhead__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d2455e3d393960676ada7b61068c592e8780e448494cac1b841f7691f2f8d8c4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d2455e3d393960676ada7b61068c592e8780e448494cac1b841f7691f2f8d8c4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/09838/Brodhead__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "09838",
+  "timestamp": "2026-05-24T23:43:44.633169Z",
+  "version": 1
+}

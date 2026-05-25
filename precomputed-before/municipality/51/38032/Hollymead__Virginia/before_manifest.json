@@ -1,0 +1,16 @@
+{
+  "article": "Hollymead,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/38032/Hollymead__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7d3c1b818d7763352489bd13ae536206b4733b9263f77f2c55cbc8cd1f6a0455",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7d3c1b818d7763352489bd13ae536206b4733b9263f77f2c55cbc8cd1f6a0455",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/38032/Hollymead__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "38032",
+  "timestamp": "2026-05-25T00:19:18.041942Z",
+  "version": 1
+}

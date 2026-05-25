@@ -1,0 +1,16 @@
+{
+  "article": "Bayard,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/04924/Bayard__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bd0e6a43216e73009d3516b4bb571e04a86654c49c709efb66bb50ed71f69255",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bd0e6a43216e73009d3516b4bb571e04a86654c49c709efb66bb50ed71f69255",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/04924/Bayard__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "04924",
+  "timestamp": "2026-05-25T00:20:42.258466Z",
+  "version": 1
+}

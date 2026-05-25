@@ -1,0 +1,16 @@
+{
+  "article": "East_Washington,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/22016/East_Washington__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cad4efa0a3fd026cd2fc377154fd77b50263c9a49d410c38391290367fe6f892",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cad4efa0a3fd026cd2fc377154fd77b50263c9a49d410c38391290367fe6f892",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/22016/East_Washington__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "22016",
+  "timestamp": "2026-05-25T00:07:00.799802Z",
+  "version": 1
+}

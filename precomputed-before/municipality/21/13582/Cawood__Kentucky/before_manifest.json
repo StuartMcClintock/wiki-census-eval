@@ -1,0 +1,16 @@
+{
+  "article": "Cawood,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/13582/Cawood__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "292d6c83464e526afe4e129d9b4e04900ce8537a274777d325407616aa05689c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "292d6c83464e526afe4e129d9b4e04900ce8537a274777d325407616aa05689c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/13582/Cawood__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "13582",
+  "timestamp": "2026-05-24T23:43:47.169734Z",
+  "version": 1
+}

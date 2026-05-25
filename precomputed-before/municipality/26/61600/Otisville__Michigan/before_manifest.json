@@ -1,0 +1,16 @@
+{
+  "article": "Otisville,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/61600/Otisville__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9dcfcf47d871c68110e2968073224235b0be0164b777ebd81b2e05d0b320d0b2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9dcfcf47d871c68110e2968073224235b0be0164b777ebd81b2e05d0b320d0b2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/61600/Otisville__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "61600",
+  "timestamp": "2026-05-24T23:48:10.699120Z",
+  "version": 1
+}

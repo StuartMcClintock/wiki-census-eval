@@ -1,0 +1,16 @@
+{
+  "article": "West_Haven-Sylvan,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/80025/West_Haven-Sylvan__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c8337aecaac2863aad1f15f52b701734f22ade43a44065ecf8a6f88debd8f0fe",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c8337aecaac2863aad1f15f52b701734f22ade43a44065ecf8a6f88debd8f0fe",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/80025/West_Haven-Sylvan__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "80025",
+  "timestamp": "2026-05-25T00:06:04.916424Z",
+  "version": 1
+}

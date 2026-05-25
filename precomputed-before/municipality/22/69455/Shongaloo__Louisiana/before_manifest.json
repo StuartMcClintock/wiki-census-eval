@@ -1,0 +1,16 @@
+{
+  "article": "Shongaloo,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/69455/Shongaloo__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d054db0f7268901961edb768091078450a6ff459e283893793038b3814fd6b94",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d054db0f7268901961edb768091078450a6ff459e283893793038b3814fd6b94",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/69455/Shongaloo__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "69455",
+  "timestamp": "2026-05-24T23:45:08.189172Z",
+  "version": 1
+}

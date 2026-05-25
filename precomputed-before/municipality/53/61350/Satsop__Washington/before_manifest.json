@@ -1,0 +1,16 @@
+{
+  "article": "Satsop,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/61350/Satsop__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "16090760f51283c75ce4b7b4fec81fcdf2722db1a8e76b22e089f8f5db8685cf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "16090760f51283c75ce4b7b4fec81fcdf2722db1a8e76b22e089f8f5db8685cf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/61350/Satsop__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "61350",
+  "timestamp": "2026-05-25T00:20:31.476840Z",
+  "version": 1
+}

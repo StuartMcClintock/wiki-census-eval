@@ -1,0 +1,16 @@
+{
+  "article": "Milledgeville,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/48920/Milledgeville__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0d9e06194f1b5dc5a10c4fb21ebe1140ca1759e300e446ff3333e657d1d27f26",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0d9e06194f1b5dc5a10c4fb21ebe1140ca1759e300e446ff3333e657d1d27f26",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/48920/Milledgeville__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "48920",
+  "timestamp": "2026-05-25T00:14:47.175665Z",
+  "version": 1
+}

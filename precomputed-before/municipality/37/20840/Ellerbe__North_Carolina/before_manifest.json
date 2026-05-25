@@ -1,0 +1,16 @@
+{
+  "article": "Ellerbe,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/20840/Ellerbe__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f20f5019d62ae5d4c7b04d355c9b1739350e20a734550c0eafa5978bdae00043",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f20f5019d62ae5d4c7b04d355c9b1739350e20a734550c0eafa5978bdae00043",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/20840/Ellerbe__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "20840",
+  "timestamp": "2026-05-25T00:01:54.739829Z",
+  "version": 1
+}

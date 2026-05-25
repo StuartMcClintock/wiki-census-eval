@@ -1,0 +1,16 @@
+{
+  "article": "Lindsay,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/28105/Lindsay__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "001a33818482396a9eb0d6a56a29e9bf96ce2313a19d1ddbbd0d787618f999fc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "001a33818482396a9eb0d6a56a29e9bf96ce2313a19d1ddbbd0d787618f999fc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/28105/Lindsay__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "28105",
+  "timestamp": "2026-05-24T23:55:48.416672Z",
+  "version": 1
+}

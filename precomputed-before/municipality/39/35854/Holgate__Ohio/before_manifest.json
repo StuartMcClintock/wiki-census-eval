@@ -1,0 +1,16 @@
+{
+  "article": "Holgate,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/35854/Holgate__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e8e902928a4afdc23a62ec343b447cd76e474e017f9ca4058399a93d5651bf3c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e8e902928a4afdc23a62ec343b447cd76e474e017f9ca4058399a93d5651bf3c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/35854/Holgate__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "35854",
+  "timestamp": "2026-05-25T00:04:18.633650Z",
+  "version": 1
+}

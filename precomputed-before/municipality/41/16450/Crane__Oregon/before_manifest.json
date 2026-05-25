@@ -1,0 +1,16 @@
+{
+  "article": "Crane,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/16450/Crane__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f14ae8feefcb4e0e1a25735f1c864f6c7a78541d04d32993cb9e5709b88b03e6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f14ae8feefcb4e0e1a25735f1c864f6c7a78541d04d32993cb9e5709b88b03e6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/16450/Crane__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "16450",
+  "timestamp": "2026-05-25T00:05:45.829260Z",
+  "version": 1
+}

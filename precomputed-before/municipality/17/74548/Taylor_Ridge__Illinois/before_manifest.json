@@ -1,0 +1,16 @@
+{
+  "article": "Taylor_Ridge,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/74548/Taylor_Ridge__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "39adfe65ea75bea1db0ae56d82d554162cecc2bb942b4dfae00f6493315dda49",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "39adfe65ea75bea1db0ae56d82d554162cecc2bb942b4dfae00f6493315dda49",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/74548/Taylor_Ridge__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "74548",
+  "timestamp": "2026-05-24T23:39:15.689119Z",
+  "version": 1
+}

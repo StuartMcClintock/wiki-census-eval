@@ -1,0 +1,16 @@
+{
+  "article": "Colfax,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/15495/Colfax__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "abe5901c8af61b42011594b823011a0c0295e14dd7d78a969d4e2cc11d8599eb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "abe5901c8af61b42011594b823011a0c0295e14dd7d78a969d4e2cc11d8599eb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/15495/Colfax__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "15495",
+  "timestamp": "2026-05-24T23:38:02.059179Z",
+  "version": 1
+}

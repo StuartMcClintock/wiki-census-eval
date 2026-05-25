@@ -1,0 +1,16 @@
+{
+  "article": "Old_Monroe,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/54416/Old_Monroe__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "460f3c627dd66a4c18d4b08800fc47bee317b928d2850d6eb6fb4738ccc916c4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "460f3c627dd66a4c18d4b08800fc47bee317b928d2850d6eb6fb4738ccc916c4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/54416/Old_Monroe__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "54416",
+  "timestamp": "2026-05-24T23:53:37.955663Z",
+  "version": 1
+}

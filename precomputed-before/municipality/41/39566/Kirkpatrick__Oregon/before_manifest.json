@@ -1,0 +1,16 @@
+{
+  "article": "Kirkpatrick,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/39566/Kirkpatrick__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ed3845d743e6757a0f67eca95597692ab4ee92b563f9980e0154cdebe45ff2c2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ed3845d743e6757a0f67eca95597692ab4ee92b563f9980e0154cdebe45ff2c2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/39566/Kirkpatrick__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "39566",
+  "timestamp": "2026-05-25T00:05:50.318682Z",
+  "version": 1
+}

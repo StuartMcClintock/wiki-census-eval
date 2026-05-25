@@ -1,0 +1,16 @@
+{
+  "article": "Trenton,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/68320/Trenton__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6ee87465b6aabb64402c42d6ba09a540728050d6ae3bf7a46cbf33a5a15e836d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6ee87465b6aabb64402c42d6ba09a540728050d6ae3bf7a46cbf33a5a15e836d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/68320/Trenton__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "68320",
+  "timestamp": "2026-05-25T00:02:26.572633Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "White_Knoll,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/77042/White_Knoll__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2ed01710632c4c377827bc66568a2dc883726c5e8464f12f6525aa68e4f337e8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2ed01710632c4c377827bc66568a2dc883726c5e8464f12f6525aa68e4f337e8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/77042/White_Knoll__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "77042",
+  "timestamp": "2026-05-25T00:10:27.492315Z",
+  "version": 1
+}

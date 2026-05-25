@@ -1,0 +1,16 @@
+{
+  "article": "Auburndale,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/03775/Auburndale__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fc0a9e5539a689f500ce92380de40dae5cd29478d930106e0c4c5451d426b94e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fc0a9e5539a689f500ce92380de40dae5cd29478d930106e0c4c5451d426b94e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/03775/Auburndale__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "03775",
+  "timestamp": "2026-05-25T00:21:33.469822Z",
+  "version": 1
+}

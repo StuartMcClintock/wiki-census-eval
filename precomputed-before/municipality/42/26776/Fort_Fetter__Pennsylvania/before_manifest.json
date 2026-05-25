@@ -1,0 +1,16 @@
+{
+  "article": "Fort_Fetter,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/26776/Fort_Fetter__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d09a943a4ba0859ffdb4b4b54a2d41291108884954dcb808099297ce503ca6cf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d09a943a4ba0859ffdb4b4b54a2d41291108884954dcb808099297ce503ca6cf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/26776/Fort_Fetter__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "26776",
+  "timestamp": "2026-05-25T00:07:10.653158Z",
+  "version": 1
+}

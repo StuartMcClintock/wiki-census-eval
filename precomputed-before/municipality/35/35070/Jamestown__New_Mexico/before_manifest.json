@@ -1,0 +1,16 @@
+{
+  "article": "Jamestown,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/35070/Jamestown__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "66767a208c8073153ffffe5496a401d49320825d14b3ad27d39efcee6e29733c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "66767a208c8073153ffffe5496a401d49320825d14b3ad27d39efcee6e29733c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/35070/Jamestown__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "35070",
+  "timestamp": "2026-05-24T23:58:34.889414Z",
+  "version": 1
+}

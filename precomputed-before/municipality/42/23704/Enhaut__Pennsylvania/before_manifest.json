@@ -1,0 +1,16 @@
+{
+  "article": "Enhaut,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/23704/Enhaut__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b6e1df7e6f0e22708116b61b80433cb9848f448ab3f7ede1e233b6af2a32b9d9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b6e1df7e6f0e22708116b61b80433cb9848f448ab3f7ede1e233b6af2a32b9d9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/23704/Enhaut__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "23704",
+  "timestamp": "2026-05-25T00:07:04.847029Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "New_Washington,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/53820/New_Washington__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b7bf75766f3bab24833e1ff4c00b183aef298f8c1f8fdee7f58118c10cf51e33",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b7bf75766f3bab24833e1ff4c00b183aef298f8c1f8fdee7f58118c10cf51e33",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/53820/New_Washington__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "53820",
+  "timestamp": "2026-05-24T23:40:05.956491Z",
+  "version": 1
+}

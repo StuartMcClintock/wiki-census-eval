@@ -1,0 +1,16 @@
+{
+  "article": "Winston,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/81175/Winston__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d7a0c80fc47a3ddcb86988440f65de8ac490d5116e32e7a0e3141b4d5d6a46dc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d7a0c80fc47a3ddcb86988440f65de8ac490d5116e32e7a0e3141b4d5d6a46dc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/81175/Winston__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "81175",
+  "timestamp": "2026-05-24T23:55:05.190380Z",
+  "version": 1
+}

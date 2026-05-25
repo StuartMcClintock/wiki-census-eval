@@ -1,0 +1,16 @@
+{
+  "article": "Conway,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/16192/Conway__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c061f4cb5a5c0927923feb3badccd6f59c055e7e1f2d012c522b6f273ea478e8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c061f4cb5a5c0927923feb3badccd6f59c055e7e1f2d012c522b6f273ea478e8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/16192/Conway__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "16192",
+  "timestamp": "2026-05-24T23:50:56.528900Z",
+  "version": 1
+}

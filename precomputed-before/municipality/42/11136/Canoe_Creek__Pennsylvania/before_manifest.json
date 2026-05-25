@@ -1,0 +1,16 @@
+{
+  "article": "Canoe_Creek,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/11136/Canoe_Creek__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f22a6fd9270a65c0f7fe0418a84ca72988a04bc4e128e8a5f96f6dcc868e3475",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f22a6fd9270a65c0f7fe0418a84ca72988a04bc4e128e8a5f96f6dcc868e3475",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/11136/Canoe_Creek__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "11136",
+  "timestamp": "2026-05-25T00:06:25.288717Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Tappahannock,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/77568/Tappahannock__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cf4ceea4c8d72f34f5b70a455c782197ead60976e1ba3c904988872be4f9371d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cf4ceea4c8d72f34f5b70a455c782197ead60976e1ba3c904988872be4f9371d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/77568/Tappahannock__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "77568",
+  "timestamp": "2026-05-25T00:19:41.322976Z",
+  "version": 1
+}

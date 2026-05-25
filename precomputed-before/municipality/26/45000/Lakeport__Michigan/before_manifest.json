@@ -1,0 +1,16 @@
+{
+  "article": "Lakeport,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/45000/Lakeport__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ac9785afc62f00c7762fe3f1b4ee153c34bcfec70a5a9578c9e3a8705ec804f1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ac9785afc62f00c7762fe3f1b4ee153c34bcfec70a5a9578c9e3a8705ec804f1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/45000/Lakeport__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "45000",
+  "timestamp": "2026-05-24T23:48:01.768791Z",
+  "version": 1
+}

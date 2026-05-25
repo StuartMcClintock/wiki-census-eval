@@ -1,0 +1,16 @@
+{
+  "article": "Harbor_Hills,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/33362/Harbor_Hills__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b5fb2bb3d61d9c1945170805df71f5c9877cf7ce4becdcdbdc1450c4e066e026",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b5fb2bb3d61d9c1945170805df71f5c9877cf7ce4becdcdbdc1450c4e066e026",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/33362/Harbor_Hills__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "33362",
+  "timestamp": "2026-05-25T00:04:15.849926Z",
+  "version": 1
+}

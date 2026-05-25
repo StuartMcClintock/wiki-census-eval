@@ -1,0 +1,16 @@
+{
+  "article": "Advance,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/00262/Advance__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "880b2ba795b9117195205c358e45a383face359270a99a33fd2b2b870466a03c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "880b2ba795b9117195205c358e45a383face359270a99a33fd2b2b870466a03c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/00262/Advance__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "00262",
+  "timestamp": "2026-05-24T23:50:30.117373Z",
+  "version": 1
+}

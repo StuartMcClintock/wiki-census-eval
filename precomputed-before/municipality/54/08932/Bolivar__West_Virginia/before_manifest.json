@@ -1,0 +1,16 @@
+{
+  "article": "Bolivar,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/08932/Bolivar__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e00077e4b53b0ed3aef4a5a38b518e2f9d43db53407a8b09ceb3a12c8ec2e94f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e00077e4b53b0ed3aef4a5a38b518e2f9d43db53407a8b09ceb3a12c8ec2e94f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/08932/Bolivar__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "08932",
+  "timestamp": "2026-05-25T00:20:44.533745Z",
+  "version": 1
+}

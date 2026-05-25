@@ -1,0 +1,16 @@
+{
+  "article": "Waltham,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/67918/Waltham__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c98ae0f820d8dfdb62deb3484c910d6fe6293ab83e4b633bd32aa978c83679a2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c98ae0f820d8dfdb62deb3484c910d6fe6293ab83e4b633bd32aa978c83679a2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/67918/Waltham__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "67918",
+  "timestamp": "2026-05-24T23:49:52.299978Z",
+  "version": 1
+}

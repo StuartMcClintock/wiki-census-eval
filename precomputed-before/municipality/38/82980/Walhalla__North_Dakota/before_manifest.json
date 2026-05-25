@@ -1,0 +1,16 @@
+{
+  "article": "Walhalla,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/82980/Walhalla__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "311b51d93d47d26f06262ad651ac262b327ebf5e2d8ae4e20e93681154934ec8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "311b51d93d47d26f06262ad651ac262b327ebf5e2d8ae4e20e93681154934ec8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/82980/Walhalla__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "82980",
+  "timestamp": "2026-05-25T00:03:26.153167Z",
+  "version": 1
+}

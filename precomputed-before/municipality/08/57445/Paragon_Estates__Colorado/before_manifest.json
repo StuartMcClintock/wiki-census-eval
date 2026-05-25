@@ -1,0 +1,16 @@
+{
+  "article": "Paragon_Estates,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/57445/Paragon_Estates__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "915045d7e9b646a52da579524e03a3bea2dfd522508f1bd3bbb8f2c5adbd425d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "915045d7e9b646a52da579524e03a3bea2dfd522508f1bd3bbb8f2c5adbd425d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/57445/Paragon_Estates__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "57445",
+  "timestamp": "2026-05-24T23:35:36.232602Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Banner_Hill,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/03120/Banner_Hill__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dca3bced52219e2b137a2861764fbea5bc1478ca93c2994e271e776ce17374d1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dca3bced52219e2b137a2861764fbea5bc1478ca93c2994e271e776ce17374d1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/03120/Banner_Hill__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "03120",
+  "timestamp": "2026-05-25T00:14:30.755577Z",
+  "version": 1
+}

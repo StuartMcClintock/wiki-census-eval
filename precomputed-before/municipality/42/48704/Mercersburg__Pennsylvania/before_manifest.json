@@ -1,0 +1,16 @@
+{
+  "article": "Mercersburg,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/48704/Mercersburg__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "59fac94f969cea68275ad41bdef8319a30e90beb0fd1487007f6861195618e9c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "59fac94f969cea68275ad41bdef8319a30e90beb0fd1487007f6861195618e9c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/48704/Mercersburg__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "48704",
+  "timestamp": "2026-05-25T00:08:04.107300Z",
+  "version": 1
+}

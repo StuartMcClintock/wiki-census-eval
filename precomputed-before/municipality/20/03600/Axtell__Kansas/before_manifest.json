@@ -1,0 +1,16 @@
+{
+  "article": "Axtell,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/03600/Axtell__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a8bf4d957fb47fff2d9d1cf5c1496e17cd64b018be8cf56f66bb5c2a25455f0c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a8bf4d957fb47fff2d9d1cf5c1496e17cd64b018be8cf56f66bb5c2a25455f0c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/03600/Axtell__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "03600",
+  "timestamp": "2026-05-24T23:42:18.771155Z",
+  "version": 1
+}

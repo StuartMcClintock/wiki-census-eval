@@ -1,0 +1,10 @@
+==Demographics==
+{{US Census population
+|align=right
+|2010= 1274
+|2020= 1494
+|footnote=U.S. Censuses: 2010,<ref name="Census 2010">{{cite web|url=https://data.census.gov/cedsci/table?g=1600000US4237016&tid=DECENNIALSF12010.P1|title=Total Population: 2010 Census DEC Summary File 1 (P1), Intercourse CDP, Pennsylvania|publisher=U.S. Census Bureau|website=data.census.gov|access-date=September 28, 2020}}</ref> and 2020<ref name=lastcensus>{{Cite web|title=Intercourse CDP, Pennsylvania|url=https://data.census.gov/cedsci/profile?g=1600000US4237016|access-date=2022-03-21|website=data.census.gov}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A42|title=Census Population API|publisher=United States Census Bureau|accessdate=Oct 12, 2022}}</ref>
+}}
+
+According to the 2020 "ACS 5-Year Estimates Data Profiles", 41.0% of the township's population spoke only [[American English|English]], while 51.6 spoke an "other [than Spanish] Indo-European language"<ref name=lastcensus/> (mostly being [[Pennsylvania German]]/[[German language|German]]).
+

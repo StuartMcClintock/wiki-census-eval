@@ -1,0 +1,16 @@
+{
+  "article": "Annandale,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/01480/Annandale__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "05077d09b4efb730dad56a314cda2b402fa4d3c6cdc66719e357876d2982429f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "05077d09b4efb730dad56a314cda2b402fa4d3c6cdc66719e357876d2982429f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/01480/Annandale__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "01480",
+  "timestamp": "2026-05-24T23:57:38.947944Z",
+  "version": 1
+}

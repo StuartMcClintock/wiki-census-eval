@@ -1,0 +1,16 @@
+{
+  "article": "Leesburg,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/42678/Leesburg__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5fbfb01b3a2d12c27e75152dbf56eb51617582309a9d2746bb597f940843f57a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5fbfb01b3a2d12c27e75152dbf56eb51617582309a9d2746bb597f940843f57a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/42678/Leesburg__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "42678",
+  "timestamp": "2026-05-24T23:39:54.210545Z",
+  "version": 1
+}

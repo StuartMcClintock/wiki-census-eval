@@ -1,0 +1,16 @@
+{
+  "article": "Emlyn,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/24922/Emlyn__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f457fe9774d6ed092f3ec32cf976250a8d66a84db4b0f8cfb16095922861e726",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f457fe9774d6ed092f3ec32cf976250a8d66a84db4b0f8cfb16095922861e726",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/24922/Emlyn__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "24922",
+  "timestamp": "2026-05-24T23:44:01.546949Z",
+  "version": 1
+}

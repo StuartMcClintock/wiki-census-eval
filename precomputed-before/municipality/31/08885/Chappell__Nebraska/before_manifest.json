@@ -1,0 +1,16 @@
+{
+  "article": "Chappell,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/08885/Chappell__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a7eabda1b17332bf9a8b38f4b4992d4e8c79f6e28f50ebf437b9b2e3652c099b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a7eabda1b17332bf9a8b38f4b4992d4e8c79f6e28f50ebf437b9b2e3652c099b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/08885/Chappell__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "08885",
+  "timestamp": "2026-05-24T23:55:17.630328Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Mine_La_Motte,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/48602/Mine_La_Motte__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a38fc6aef2ee239cd47d652dde4dbaca515667f1d53570d3d7cada158a24fc03",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a38fc6aef2ee239cd47d652dde4dbaca515667f1d53570d3d7cada158a24fc03",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/48602/Mine_La_Motte__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "48602",
+  "timestamp": "2026-05-24T23:53:32.933282Z",
+  "version": 1
+}

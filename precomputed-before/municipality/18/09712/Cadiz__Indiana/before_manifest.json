@@ -1,0 +1,16 @@
+{
+  "article": "Cadiz,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/09712/Cadiz__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1dad93b288101880967103c0574dc70bf31bbb5ed1815341a0b39115ce58204c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1dad93b288101880967103c0574dc70bf31bbb5ed1815341a0b39115ce58204c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/09712/Cadiz__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "09712",
+  "timestamp": "2026-05-24T23:39:28.474192Z",
+  "version": 1
+}

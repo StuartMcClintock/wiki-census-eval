@@ -1,0 +1,16 @@
+{
+  "article": "Trezevant,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/75100/Trezevant__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a63686468344067f0897c2837fda3247f4be89b868cca40803e583618e3e70c4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a63686468344067f0897c2837fda3247f4be89b868cca40803e583618e3e70c4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/75100/Trezevant__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "75100",
+  "timestamp": "2026-05-25T00:14:56.881561Z",
+  "version": 1
+}

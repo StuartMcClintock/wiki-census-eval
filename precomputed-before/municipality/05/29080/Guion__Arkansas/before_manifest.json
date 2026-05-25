@@ -1,0 +1,16 @@
+{
+  "article": "Guion,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/29080/Guion__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3bc0c68df70d516e338c7e7a9839a7a174dbd7e4a9dcc16c375a7826882692cb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3bc0c68df70d516e338c7e7a9839a7a174dbd7e4a9dcc16c375a7826882692cb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/29080/Guion__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "29080",
+  "timestamp": "2026-05-24T23:33:44.468688Z",
+  "version": 1
+}

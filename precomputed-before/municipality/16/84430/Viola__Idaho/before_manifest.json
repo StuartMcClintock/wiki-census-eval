@@ -1,0 +1,16 @@
+{
+  "article": "Viola,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/84430/Viola__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": false,
+  "current_hash": null,
+  "location_kind": "municipality",
+  "manifest_had_section": false,
+  "manifest_hash": null,
+  "reason": "no demographics section then or now",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/84430/Viola__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "84430",
+  "timestamp": "2026-05-24T23:37:29.916081Z",
+  "version": 1
+}

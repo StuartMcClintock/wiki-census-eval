@@ -1,0 +1,16 @@
+{
+  "article": "McNary,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/43430/McNary__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "48bbde968ad3f2ce910f2f54add2efdcf91e80b2507b8f6e3e7e8439eeb8a3ab",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "48bbde968ad3f2ce910f2f54add2efdcf91e80b2507b8f6e3e7e8439eeb8a3ab",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/43430/McNary__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "43430",
+  "timestamp": "2026-05-24T23:33:03.405731Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Babb,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/03250/Babb__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6f73268d165e1649f803d7cf1eb23d6e2fd83bfd79e120a2b1bcb9071c0cbfed",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6f73268d165e1649f803d7cf1eb23d6e2fd83bfd79e120a2b1bcb9071c0cbfed",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/03250/Babb__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "03250",
+  "timestamp": "2026-05-24T23:54:13.464316Z",
+  "version": 1
+}

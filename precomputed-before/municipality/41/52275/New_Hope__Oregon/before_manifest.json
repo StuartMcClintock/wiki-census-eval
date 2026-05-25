@@ -1,0 +1,16 @@
+{
+  "article": "New_Hope,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/52275/New_Hope__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8692aebf7329506eb2dd409c34b9701ddcb416f6bd017407482db9357d2a8d76",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8692aebf7329506eb2dd409c34b9701ddcb416f6bd017407482db9357d2a8d76",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/52275/New_Hope__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "52275",
+  "timestamp": "2026-05-25T00:05:52.698650Z",
+  "version": 1
+}

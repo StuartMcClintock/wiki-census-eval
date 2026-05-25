@@ -1,0 +1,16 @@
+{
+  "article": "Oakville,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/58395/Oakville__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "291e298f1ab2e886d7da9f1b0afe60121ccd63122e07585f557df698389da121",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "291e298f1ab2e886d7da9f1b0afe60121ccd63122e07585f557df698389da121",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/58395/Oakville__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "58395",
+  "timestamp": "2026-05-24T23:41:34.113796Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Lakeview,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/26150/Lakeview__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b068157d91806bdee541c63e1b3491490c7c4a0ed2bbddda54f94dbba9d31b0e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b068157d91806bdee541c63e1b3491490c7c4a0ed2bbddda54f94dbba9d31b0e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/26150/Lakeview__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "26150",
+  "timestamp": "2026-05-24T23:55:36.098257Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Lake_Wazeecha,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/41975/Lake_Wazeecha__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b989d246955eef00ee430e4fd00b676c9cc33a7078347ceaacda4efc592b2368",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b989d246955eef00ee430e4fd00b676c9cc33a7078347ceaacda4efc592b2368",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/41975/Lake_Wazeecha__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "41975",
+  "timestamp": "2026-05-25T00:22:18.922868Z",
+  "version": 1
+}

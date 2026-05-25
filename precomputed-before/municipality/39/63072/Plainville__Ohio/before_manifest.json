@@ -1,0 +1,16 @@
+{
+  "article": "Plainville,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/63072/Plainville__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a37aed891d9ce9c600809b39376c2bf9a2bfeedcea60abdb2a8e8f5bc1a993a5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a37aed891d9ce9c600809b39376c2bf9a2bfeedcea60abdb2a8e8f5bc1a993a5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/63072/Plainville__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "63072",
+  "timestamp": "2026-05-25T00:05:06.353495Z",
+  "version": 1
+}

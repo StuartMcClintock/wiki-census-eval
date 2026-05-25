@@ -1,0 +1,16 @@
+{
+  "article": "Mayville,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/50200/Mayville__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ee864cdc70c554a1ae6514040aed5158e7142db455d1f5c4e327f16cbdfd1102",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ee864cdc70c554a1ae6514040aed5158e7142db455d1f5c4e327f16cbdfd1102",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/50200/Mayville__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "50200",
+  "timestamp": "2026-05-25T00:22:24.008929Z",
+  "version": 1
+}

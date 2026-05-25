@@ -1,0 +1,16 @@
+{
+  "article": "La_Joya,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/37700/La_Joya__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "49dffeddab2d59b3cda9ce151d8a6bfd62ad85b46f99616b9ec4e638d99a0643",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "49dffeddab2d59b3cda9ce151d8a6bfd62ad85b46f99616b9ec4e638d99a0643",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/37700/La_Joya__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "37700",
+  "timestamp": "2026-05-24T23:58:36.155443Z",
+  "version": 1
+}

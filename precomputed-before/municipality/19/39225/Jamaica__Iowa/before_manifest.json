@@ -1,0 +1,16 @@
+{
+  "article": "Jamaica,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/39225/Jamaica__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "14babc29dcc673766000ea48f35b5f161ecfbdfba05c65b16ad2c8fb6aaa231c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "14babc29dcc673766000ea48f35b5f161ecfbdfba05c65b16ad2c8fb6aaa231c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/39225/Jamaica__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "39225",
+  "timestamp": "2026-05-24T23:41:13.789439Z",
+  "version": 1
+}

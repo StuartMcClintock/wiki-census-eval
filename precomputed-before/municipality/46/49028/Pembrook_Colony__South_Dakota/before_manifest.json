@@ -1,0 +1,16 @@
+{
+  "article": "Pembrook_Colony,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/49028/Pembrook_Colony__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "881d1b08177eb9ee3fde545eb955a56f27b3a83bb5d95ac847b086f69fa65db9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "881d1b08177eb9ee3fde545eb955a56f27b3a83bb5d95ac847b086f69fa65db9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/49028/Pembrook_Colony__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "49028",
+  "timestamp": "2026-05-25T00:11:08.069522Z",
+  "version": 1
+}

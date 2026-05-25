@@ -1,0 +1,16 @@
+{
+  "article": "La_Monte,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/40520/La_Monte__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "399f1c9d62d1a5018a622532f7aa95e1f1baa427ecb26ed48a2c9c62ecd17b3c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "399f1c9d62d1a5018a622532f7aa95e1f1baa427ecb26ed48a2c9c62ecd17b3c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/40520/La_Monte__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "40520",
+  "timestamp": "2026-05-24T23:53:25.947835Z",
+  "version": 1
+}

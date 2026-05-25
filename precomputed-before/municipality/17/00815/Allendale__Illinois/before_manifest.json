@@ -1,0 +1,16 @@
+{
+  "article": "Allendale,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/00815/Allendale__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "99a2f3c59e923e089987f9afa43247f409f3685f44695e3961f9e11c257cb738",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "99a2f3c59e923e089987f9afa43247f409f3685f44695e3961f9e11c257cb738",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/00815/Allendale__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "00815",
+  "timestamp": "2026-05-24T23:37:31.986551Z",
+  "version": 1
+}

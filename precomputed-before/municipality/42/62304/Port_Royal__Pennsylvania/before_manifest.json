@@ -1,0 +1,16 @@
+{
+  "article": "Port_Royal,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/62304/Port_Royal__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "33c68e4189d83ef5794f433f6332ad5f6905c37f777c49d578542d930bf2e628",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "33c68e4189d83ef5794f433f6332ad5f6905c37f777c49d578542d930bf2e628",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/62304/Port_Royal__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "62304",
+  "timestamp": "2026-05-25T00:08:32.969997Z",
+  "version": 1
+}

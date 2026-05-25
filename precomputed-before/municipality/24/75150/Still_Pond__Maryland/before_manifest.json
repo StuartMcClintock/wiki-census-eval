@@ -1,0 +1,16 @@
+{
+  "article": "Still_Pond,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/75150/Still_Pond__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ae06b6e80a171adb930577888f5c1b3d86b02d3b005b6d1e49c636f0c1e70a47",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ae06b6e80a171adb930577888f5c1b3d86b02d3b005b6d1e49c636f0c1e70a47",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/75150/Still_Pond__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "75150",
+  "timestamp": "2026-05-24T23:47:34.194392Z",
+  "version": 1
+}

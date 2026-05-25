@@ -1,0 +1,16 @@
+{
+  "article": "Evant,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/24864/Evant__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a004ded16a828bf1d0136580cb606ea3c6ab237adf5373f746a5b36dbf8c26e3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a004ded16a828bf1d0136580cb606ea3c6ab237adf5373f746a5b36dbf8c26e3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/24864/Evant__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "24864",
+  "timestamp": "2026-05-25T00:15:34.147123Z",
+  "version": 1
+}

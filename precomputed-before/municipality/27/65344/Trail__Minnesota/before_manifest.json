@@ -1,0 +1,16 @@
+{
+  "article": "Trail,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/65344/Trail__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d65b619e5c1a7b11c891aec63e07af67933c37391bc6da7b5fadb54eea16a9bf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d65b619e5c1a7b11c891aec63e07af67933c37391bc6da7b5fadb54eea16a9bf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/65344/Trail__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "65344",
+  "timestamp": "2026-05-24T23:49:49.220592Z",
+  "version": 1
+}

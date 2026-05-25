@@ -1,0 +1,16 @@
+{
+  "article": "Allenwood,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/00790/Allenwood__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6eecddf3000f0c8804dad47ae4675c14a6e58ca6b17e371fb778069588076aff",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6eecddf3000f0c8804dad47ae4675c14a6e58ca6b17e371fb778069588076aff",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/00790/Allenwood__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "00790",
+  "timestamp": "2026-05-24T23:57:38.358717Z",
+  "version": 1
+}

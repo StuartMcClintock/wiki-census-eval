@@ -1,0 +1,16 @@
+{
+  "article": "South_Lockport,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/69386/South_Lockport__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b279e99de1e7abf3e26d301f04b2d7ac8d114881a8a40d1a3b9a0ffea1b18f7a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b279e99de1e7abf3e26d301f04b2d7ac8d114881a8a40d1a3b9a0ffea1b18f7a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/69386/South_Lockport__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "69386",
+  "timestamp": "2026-05-25T00:01:16.771046Z",
+  "version": 1
+}

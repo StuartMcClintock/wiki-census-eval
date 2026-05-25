@@ -1,0 +1,16 @@
+{
+  "article": "Kinney,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/33416/Kinney__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "807f8fa12072484dbc9ffcdfc4dc2a3348811e8c073cf71887cd930a0f672f50",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "807f8fa12072484dbc9ffcdfc4dc2a3348811e8c073cf71887cd930a0f672f50",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/33416/Kinney__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "33416",
+  "timestamp": "2026-05-24T23:49:13.305403Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Butterfield,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/08992/Butterfield__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "180cc4296014202e4ebeba6b1b3c19e0552cb5b9a39308fd9a349316ef20c39e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "180cc4296014202e4ebeba6b1b3c19e0552cb5b9a39308fd9a349316ef20c39e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/08992/Butterfield__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "08992",
+  "timestamp": "2026-05-24T23:48:43.195079Z",
+  "version": 1
+}

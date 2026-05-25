@@ -1,0 +1,16 @@
+{
+  "article": "Chester_Heights,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/13232/Chester_Heights__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a8b240f2a7c9cd5389e8ac3bd152fc93f9e0661bfb93d1e8694a3c359a56c9c6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a8b240f2a7c9cd5389e8ac3bd152fc93f9e0661bfb93d1e8694a3c359a56c9c6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/13232/Chester_Heights__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "13232",
+  "timestamp": "2026-05-25T00:06:40.217904Z",
+  "version": 1
+}

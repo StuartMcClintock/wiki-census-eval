@@ -1,0 +1,16 @@
+{
+  "article": "Rouses_Point,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/63979/Rouses_Point__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "475c00a3046be36d15db94923b90f66361a20ba426a9270cb86d3f16800f0587",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "475c00a3046be36d15db94923b90f66361a20ba426a9270cb86d3f16800f0587",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/63979/Rouses_Point__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "63979",
+  "timestamp": "2026-05-25T00:01:09.351262Z",
+  "version": 1
+}

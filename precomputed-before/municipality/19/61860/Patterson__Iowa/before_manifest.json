@@ -1,0 +1,16 @@
+{
+  "article": "Patterson,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/61860/Patterson__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "801c016699ba9e7afb8104877f8cd144f06c408838cadd75063f7406c546583e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "801c016699ba9e7afb8104877f8cd144f06c408838cadd75063f7406c546583e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/61860/Patterson__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "61860",
+  "timestamp": "2026-05-24T23:41:37.300766Z",
+  "version": 1
+}

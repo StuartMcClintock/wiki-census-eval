@@ -1,0 +1,16 @@
+{
+  "article": "Bismarck,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/06184/Bismarck__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1cb3f6b780bae4c98fdae31be456d473ad6eaef154ff69acbc9a1a944a2854b3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1cb3f6b780bae4c98fdae31be456d473ad6eaef154ff69acbc9a1a944a2854b3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/06184/Bismarck__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "06184",
+  "timestamp": "2026-05-24T23:37:49.885073Z",
+  "version": 1
+}

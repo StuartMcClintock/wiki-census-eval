@@ -1,0 +1,16 @@
+{
+  "article": "Reed_Point,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/61900/Reed_Point__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "db03ca342790d8454208afd13ee4af521ad6dc7490cd80ade7bf8c341bfed0b2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "db03ca342790d8454208afd13ee4af521ad6dc7490cd80ade7bf8c341bfed0b2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/61900/Reed_Point__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "61900",
+  "timestamp": "2026-05-24T23:54:45.659689Z",
+  "version": 1
+}

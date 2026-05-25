@@ -1,0 +1,16 @@
+{
+  "article": "Fort_Garland,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/27535/Fort_Garland__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e157d2e636ec883551ccc86f0f90a9ac9253482b47929858a6c897bb22e4629a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e157d2e636ec883551ccc86f0f90a9ac9253482b47929858a6c897bb22e4629a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/27535/Fort_Garland__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "27535",
+  "timestamp": "2026-05-24T23:35:25.668396Z",
+  "version": 1
+}

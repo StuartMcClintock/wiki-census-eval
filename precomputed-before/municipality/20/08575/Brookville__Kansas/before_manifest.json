@@ -1,0 +1,16 @@
+{
+  "article": "Brookville,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/08575/Brookville__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c2d0a54ae0ac07088bd981accf066dcc98a6872262aa2c3530670bd4736aa67b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c2d0a54ae0ac07088bd981accf066dcc98a6872262aa2c3530670bd4736aa67b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/08575/Brookville__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "08575",
+  "timestamp": "2026-05-24T23:42:23.249531Z",
+  "version": 1
+}

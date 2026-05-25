@@ -1,0 +1,16 @@
+{
+  "article": "Bayshore,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/04850/Bayshore__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e41d4e8ce34e500378941a2a2c57aa2f40c0f4902afd690093e8254e015d5743",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e41d4e8ce34e500378941a2a2c57aa2f40c0f4902afd690093e8254e015d5743",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/04850/Bayshore__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "04850",
+  "timestamp": "2026-05-25T00:05:42.647207Z",
+  "version": 1
+}

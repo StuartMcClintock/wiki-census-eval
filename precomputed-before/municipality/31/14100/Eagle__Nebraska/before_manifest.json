@@ -1,0 +1,16 @@
+{
+  "article": "Eagle,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/14100/Eagle__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2111984ea3542c2ebd461c5ec7d7ebdb9274c1adcdacaacd9d3260cc39dd311f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2111984ea3542c2ebd461c5ec7d7ebdb9274c1adcdacaacd9d3260cc39dd311f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/14100/Eagle__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "14100",
+  "timestamp": "2026-05-24T23:55:23.850149Z",
+  "version": 1
+}

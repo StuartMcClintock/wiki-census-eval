@@ -1,0 +1,16 @@
+{
+  "article": "Waldron,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/82880/Waldron__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1030068552f2f4d5db9843b47d223c55204b14b5fc57826d1c37f0bcbee871e7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1030068552f2f4d5db9843b47d223c55204b14b5fc57826d1c37f0bcbee871e7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/82880/Waldron__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "82880",
+  "timestamp": "2026-05-24T23:48:31.961537Z",
+  "version": 1
+}

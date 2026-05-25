@@ -1,0 +1,16 @@
+{
+  "article": "Cayuga,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/10954/Cayuga__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6d23c19dd2515b0e04ffb347f6ea6d7f6cc62a7ff154594233c3c48edfe940f1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6d23c19dd2515b0e04ffb347f6ea6d7f6cc62a7ff154594233c3c48edfe940f1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/10954/Cayuga__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "10954",
+  "timestamp": "2026-05-24T23:39:29.441889Z",
+  "version": 1
+}

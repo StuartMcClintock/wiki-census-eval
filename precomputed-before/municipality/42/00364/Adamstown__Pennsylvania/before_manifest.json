@@ -1,0 +1,16 @@
+{
+  "article": "Adamstown,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/00364/Adamstown__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2a26d11cc69c76f12cb1a8b6ea2668ebe9b2405cbb7ec81ae8d0059f0c6d56aa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2a26d11cc69c76f12cb1a8b6ea2668ebe9b2405cbb7ec81ae8d0059f0c6d56aa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/00364/Adamstown__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "00364",
+  "timestamp": "2026-05-25T00:06:06.060749Z",
+  "version": 1
+}

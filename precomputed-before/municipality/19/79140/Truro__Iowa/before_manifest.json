@@ -1,0 +1,16 @@
+{
+  "article": "Truro,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/79140/Truro__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5c55f1da9a03068c7c1fae83a5a8496915c4ee1f0014cf647b6b8ceaa9221784",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5c55f1da9a03068c7c1fae83a5a8496915c4ee1f0014cf647b6b8ceaa9221784",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/79140/Truro__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "79140",
+  "timestamp": "2026-05-24T23:42:06.597120Z",
+  "version": 1
+}

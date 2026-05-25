@@ -1,0 +1,16 @@
+{
+  "article": "Fort_Thompson,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/22340/Fort_Thompson__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "80b0fc179f7c76b93312f75c9b2b92bea0f1210a2effc3dcede607272980f827",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "80b0fc179f7c76b93312f75c9b2b92bea0f1210a2effc3dcede607272980f827",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/22340/Fort_Thompson__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "22340",
+  "timestamp": "2026-05-25T00:10:38.560780Z",
+  "version": 1
+}

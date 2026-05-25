@@ -1,0 +1,16 @@
+{
+  "article": "Elgin,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/24794/Elgin__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f00b82b6b1e02e764ff77824c21cd618d3ea027cd3a748d3248c966cf35f7fcc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f00b82b6b1e02e764ff77824c21cd618d3ea027cd3a748d3248c966cf35f7fcc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/24794/Elgin__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "24794",
+  "timestamp": "2026-05-25T00:04:07.149649Z",
+  "version": 1
+}

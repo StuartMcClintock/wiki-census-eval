@@ -1,0 +1,16 @@
+{
+  "article": "McCoy,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/47345/McCoy__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fafccacc839d966fba4dd691ea1a3e9728c54f5e4137fafc31fa211149ae04c8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fafccacc839d966fba4dd691ea1a3e9728c54f5e4137fafc31fa211149ae04c8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/47345/McCoy__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "47345",
+  "timestamp": "2026-05-24T23:35:32.120342Z",
+  "version": 1
+}

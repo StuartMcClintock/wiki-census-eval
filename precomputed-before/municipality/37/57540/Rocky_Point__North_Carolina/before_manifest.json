@@ -1,0 +1,16 @@
+{
+  "article": "Rocky_Point,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/57540/Rocky_Point__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": false,
+  "current_hash": null,
+  "location_kind": "municipality",
+  "manifest_had_section": false,
+  "manifest_hash": null,
+  "reason": "no demographics section then or now",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/57540/Rocky_Point__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "57540",
+  "timestamp": "2026-05-25T00:02:19.334541Z",
+  "version": 1
+}

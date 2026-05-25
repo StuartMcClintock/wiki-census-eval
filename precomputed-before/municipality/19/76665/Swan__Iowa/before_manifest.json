@@ -1,0 +1,16 @@
+{
+  "article": "Swan,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/76665/Swan__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ba68704e4123db1b89746da708bc82b08e7359b52c97fcad932932d2d06e7836",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ba68704e4123db1b89746da708bc82b08e7359b52c97fcad932932d2d06e7836",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/76665/Swan__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "76665",
+  "timestamp": "2026-05-24T23:42:04.451866Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Clarksburg,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/15140/Clarksburg__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "db72a02b0db58d111eef8c7353108d78c26054c6836109afd6f1bd3eadaa41c5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "db72a02b0db58d111eef8c7353108d78c26054c6836109afd6f1bd3eadaa41c5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/15140/Clarksburg__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "15140",
+  "timestamp": "2026-05-25T00:14:35.076661Z",
+  "version": 1
+}

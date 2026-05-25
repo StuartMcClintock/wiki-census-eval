@@ -1,0 +1,16 @@
+{
+  "article": "Breckinridge_Center,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/09379/Breckinridge_Center__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2993c6a6c2d5e6b006be421befaa1db8242c252e155e163cfdfce92b1dda8d58",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2993c6a6c2d5e6b006be421befaa1db8242c252e155e163cfdfce92b1dda8d58",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/09379/Breckinridge_Center__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "09379",
+  "timestamp": "2026-05-24T23:43:44.307287Z",
+  "version": 1
+}

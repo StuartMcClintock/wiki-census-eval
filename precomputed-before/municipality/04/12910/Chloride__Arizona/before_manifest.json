@@ -1,0 +1,16 @@
+{
+  "article": "Chloride,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/12910/Chloride__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": false,
+  "current_hash": null,
+  "location_kind": "municipality",
+  "manifest_had_section": false,
+  "manifest_hash": null,
+  "reason": "no demographics section then or now",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/12910/Chloride__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "12910",
+  "timestamp": "2026-05-24T23:32:50.556496Z",
+  "version": 1
+}

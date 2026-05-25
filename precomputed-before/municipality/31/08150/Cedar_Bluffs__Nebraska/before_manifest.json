@@ -1,0 +1,16 @@
+{
+  "article": "Cedar_Bluffs,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/08150/Cedar_Bluffs__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4f426ddfc001a1efb9d95a77654c62656a889a5bfe0a4b6a1ee2ebed6664660f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4f426ddfc001a1efb9d95a77654c62656a889a5bfe0a4b6a1ee2ebed6664660f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/08150/Cedar_Bluffs__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "08150",
+  "timestamp": "2026-05-24T23:55:16.657279Z",
+  "version": 1
+}

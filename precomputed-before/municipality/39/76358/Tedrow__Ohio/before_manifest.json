@@ -1,0 +1,16 @@
+{
+  "article": "Tedrow,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/76358/Tedrow__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": false,
+  "current_hash": null,
+  "location_kind": "municipality",
+  "manifest_had_section": false,
+  "manifest_hash": null,
+  "reason": "no demographics section then or now",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/76358/Tedrow__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "76358",
+  "timestamp": "2026-05-25T00:05:31.649125Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Hughesville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/36160/Hughesville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "06b1639a1e0337ad7970aac3eb442f7e8c8673da5c92b5efa254045462d852d6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "06b1639a1e0337ad7970aac3eb442f7e8c8673da5c92b5efa254045462d852d6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/36160/Hughesville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "36160",
+  "timestamp": "2026-05-25T00:07:28.701304Z",
+  "version": 1
+}

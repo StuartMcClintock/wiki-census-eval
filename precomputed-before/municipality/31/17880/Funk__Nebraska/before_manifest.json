@@ -1,0 +1,16 @@
+{
+  "article": "Funk,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/17880/Funk__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8053195d40ffe418da92a4fe00f4da5b28028b268bdb665673c3a8520b81a5a1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8053195d40ffe418da92a4fe00f4da5b28028b268bdb665673c3a8520b81a5a1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/17880/Funk__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "17880",
+  "timestamp": "2026-05-24T23:55:27.811090Z",
+  "version": 1
+}

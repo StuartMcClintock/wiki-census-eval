@@ -1,0 +1,16 @@
+{
+  "article": "Bell_Hill,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/05245/Bell_Hill__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f6f59b33602cdeed6fbd5a29026712ff1405cfa98033c41461ac99137e83918e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f6f59b33602cdeed6fbd5a29026712ff1405cfa98033c41461ac99137e83918e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/05245/Bell_Hill__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "05245",
+  "timestamp": "2026-05-25T00:20:02.164677Z",
+  "version": 1
+}

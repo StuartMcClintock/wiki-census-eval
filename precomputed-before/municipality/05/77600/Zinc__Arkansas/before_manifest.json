@@ -1,0 +1,16 @@
+{
+  "article": "Zinc,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/77600/Zinc__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7edb747d6689ff8cebc88864360e92e99c50105eaa2ece8a29914753e6bcbb0d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7edb747d6689ff8cebc88864360e92e99c50105eaa2ece8a29914753e6bcbb0d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/77600/Zinc__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "77600",
+  "timestamp": "2026-05-24T23:34:16.108694Z",
+  "version": 1
+}

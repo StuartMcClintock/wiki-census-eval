@@ -1,0 +1,16 @@
+{
+  "article": "Ranchitos_Las_Lomas,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/60482/Ranchitos_Las_Lomas__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ce545cdaae3ae5e63fb2ef9503683247de47c8408cb224132a2593995ab23317",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ce545cdaae3ae5e63fb2ef9503683247de47c8408cb224132a2593995ab23317",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/60482/Ranchitos_Las_Lomas__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "60482",
+  "timestamp": "2026-05-25T00:16:27.457074Z",
+  "version": 1
+}

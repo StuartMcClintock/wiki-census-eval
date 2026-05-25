@@ -1,0 +1,50 @@
+==Demographics==
+{{US Census population
+| 1980 = 249
+| 1990 = 413
+| 2000 = 555
+| 2010 = 526
+| 2020 = 621
+| footnote = U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2015 }}</ref>
+}}
+
+{| class="wikitable"
+|+'''Annetta South racial composition as of 2020'''<ref>{{Cite web |title=Explore Census Data |url=https://data.census.gov/cedsci/table?g=1600000US4803342&tid=DECENNIALPL2020.P2 |access-date=May 21, 2022 |website=data.census.gov}}</ref><br /> (NH = Non-Hispanic){{efn|Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos can be of any race.<ref>{{Cite web|url=https://www.census.gov/en.html|title=Census.gov|website=Census.gov}}</ref><ref>{{cite web |title=About the Hispanic Population and its Origin |url=https://www.census.gov/topics/population/hispanic-origin/about.html |website=www.census.gov |access-date=May 18, 2022}}</ref>}}
+!Race
+!Number
+!Percentage
+|-
+|[[Non-Hispanic or Latino whites|White]] (NH)
+|529
+|85.19%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] (NH)
+|5
+|0.81%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] (NH)
+|5
+|0.81%
+|-
+|[[Asian Americans|Asian]] (NH)
+|2
+|0.32%
+|-
+|Some Other Race (NH)
+|1
+|0.16%
+|-
+|[[Multiracial Americans|Mixed/Multi-Racial]] (NH)
+|19
+|3.06%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]]
+|60
+|9.66%
+|-
+|'''Total'''
+|'''621'''
+|
+|}
+As of the [[2020 United States census]], there were 621 people, 207 households, and 183 families residing in the town.
+

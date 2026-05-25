@@ -1,0 +1,16 @@
+{
+  "article": "Tuttletown,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/80896/Tuttletown__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d8bd5ac2445c2b2c2a762be77d761fc5b8d2a9003be69d19d56e2e4aa32e129f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d8bd5ac2445c2b2c2a762be77d761fc5b8d2a9003be69d19d56e2e4aa32e129f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/80896/Tuttletown__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "80896",
+  "timestamp": "2026-05-24T23:35:11.456273Z",
+  "version": 1
+}

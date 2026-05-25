@@ -1,0 +1,16 @@
+{
+  "article": "Mansfield,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/40580/Mansfield__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "109eca66aa904d1462b1c088b3518d60f8c84f9b4c2114060d65fea2622c93b8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "109eca66aa904d1462b1c088b3518d60f8c84f9b4c2114060d65fea2622c93b8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/40580/Mansfield__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "40580",
+  "timestamp": "2026-05-25T00:11:02.344445Z",
+  "version": 1
+}

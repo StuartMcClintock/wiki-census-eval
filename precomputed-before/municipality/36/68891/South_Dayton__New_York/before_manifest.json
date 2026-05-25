@@ -1,0 +1,16 @@
+{
+  "article": "South_Dayton,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/68891/South_Dayton__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c24253ecb877ea41332367cb4beb9e02af16e110dbe9b0bf6ec94fa75a3464ec",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c24253ecb877ea41332367cb4beb9e02af16e110dbe9b0bf6ec94fa75a3464ec",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/68891/South_Dayton__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "68891",
+  "timestamp": "2026-05-25T00:01:15.732580Z",
+  "version": 1
+}

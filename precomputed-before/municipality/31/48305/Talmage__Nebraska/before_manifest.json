@@ -1,0 +1,16 @@
+{
+  "article": "Talmage,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/48305/Talmage__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "694c3ae10d8b70f44b5df0352d761b6cd0019b0a23bccbf7d07d7148cd88ab08",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "694c3ae10d8b70f44b5df0352d761b6cd0019b0a23bccbf7d07d7148cd88ab08",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/48305/Talmage__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "48305",
+  "timestamp": "2026-05-24T23:57:20.027598Z",
+  "version": 1
+}

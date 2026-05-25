@@ -1,0 +1,16 @@
+{
+  "article": "Dushore,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/20528/Dushore__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2bf4f79fb3fb8b0496fba955e44b547b47a499860e0f73400ae22a1d71a41125",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2bf4f79fb3fb8b0496fba955e44b547b47a499860e0f73400ae22a1d71a41125",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/20528/Dushore__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "20528",
+  "timestamp": "2026-05-25T00:06:54.686659Z",
+  "version": 1
+}

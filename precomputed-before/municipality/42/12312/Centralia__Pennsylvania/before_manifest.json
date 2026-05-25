@@ -1,0 +1,16 @@
+{
+  "article": "Centralia,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/12312/Centralia__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "af19d138109a05d7e8e79ad471297af5c0119c5a36d0637fbd2723e92ed28303",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "af19d138109a05d7e8e79ad471297af5c0119c5a36d0637fbd2723e92ed28303",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/12312/Centralia__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "12312",
+  "timestamp": "2026-05-25T00:06:38.851636Z",
+  "version": 1
+}

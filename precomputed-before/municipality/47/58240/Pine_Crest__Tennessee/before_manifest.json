@@ -1,0 +1,16 @@
+{
+  "article": "Pine_Crest,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/58240/Pine_Crest__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c99eec8521f94c22b7ca2fe1b031e29be07276441d1a81f5a6aa4daa2567e9ba",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c99eec8521f94c22b7ca2fe1b031e29be07276441d1a81f5a6aa4daa2567e9ba",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/58240/Pine_Crest__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "58240",
+  "timestamp": "2026-05-25T00:14:50.933269Z",
+  "version": 1
+}

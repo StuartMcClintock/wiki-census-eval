@@ -1,0 +1,16 @@
+{
+  "article": "Onward,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/56664/Onward__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "083f63714a95a174a06f2affda9eff1667e82e001ef221b7c9204773639ac794",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "083f63714a95a174a06f2affda9eff1667e82e001ef221b7c9204773639ac794",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/56664/Onward__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "56664",
+  "timestamp": "2026-05-24T23:40:06.740010Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Albany,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/00835/Albany__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "beee24f63026c038022f4593be11a0d0a3f66d95e199d6f5b2c0c59e20ac9591",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "beee24f63026c038022f4593be11a0d0a3f66d95e199d6f5b2c0c59e20ac9591",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/00835/Albany__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "00835",
+  "timestamp": "2026-05-24T23:44:27.519352Z",
+  "version": 1
+}

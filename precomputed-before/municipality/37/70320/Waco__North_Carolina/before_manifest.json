@@ -1,0 +1,16 @@
+{
+  "article": "Waco,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/70320/Waco__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "34950db2f27c5ae99416ca0c188d2d96ae94382c4d7c227d55944c73c33fb82c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "34950db2f27c5ae99416ca0c188d2d96ae94382c4d7c227d55944c73c33fb82c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/70320/Waco__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "70320",
+  "timestamp": "2026-05-25T00:02:27.643287Z",
+  "version": 1
+}

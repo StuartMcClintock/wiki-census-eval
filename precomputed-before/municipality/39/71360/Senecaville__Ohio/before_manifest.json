@@ -1,0 +1,16 @@
+{
+  "article": "Senecaville,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/71360/Senecaville__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "94d4ed7a3328cb5de8fcdcbe98f96aea10b05cccab4978a4a36d3be87f018507",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "94d4ed7a3328cb5de8fcdcbe98f96aea10b05cccab4978a4a36d3be87f018507",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/71360/Senecaville__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "71360",
+  "timestamp": "2026-05-25T00:05:26.744116Z",
+  "version": 1
+}

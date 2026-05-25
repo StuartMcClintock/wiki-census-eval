@@ -1,0 +1,16 @@
+{
+  "article": "Barnes_City,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/04555/Barnes_City__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7b1850ba266dcad34bcf961b4a4ce174399a70cfcaab174ffbba79ae9f0b3133",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7b1850ba266dcad34bcf961b4a4ce174399a70cfcaab174ffbba79ae9f0b3133",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/04555/Barnes_City__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "04555",
+  "timestamp": "2026-05-24T23:40:25.701601Z",
+  "version": 1
+}

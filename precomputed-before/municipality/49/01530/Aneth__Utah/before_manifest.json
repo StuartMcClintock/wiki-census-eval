@@ -1,0 +1,16 @@
+{
+  "article": "Aneth,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/01530/Aneth__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5c7681d4cb4f2184a4a30d6bf6131b7629ab5d198ad932452b373122a8fd3836",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5c7681d4cb4f2184a4a30d6bf6131b7629ab5d198ad932452b373122a8fd3836",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/01530/Aneth__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "01530",
+  "timestamp": "2026-05-25T00:16:53.028210Z",
+  "version": 1
+}

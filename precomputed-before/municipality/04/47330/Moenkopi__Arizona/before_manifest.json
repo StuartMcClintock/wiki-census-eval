@@ -1,0 +1,16 @@
+{
+  "article": "Moenkopi,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/47330/Moenkopi__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c52feb4e30c7ee3825cd23f9eb9ac5165a1942e77e369aa6799a7c46a33be17d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c52feb4e30c7ee3825cd23f9eb9ac5165a1942e77e369aa6799a7c46a33be17d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/47330/Moenkopi__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "47330",
+  "timestamp": "2026-05-24T23:33:04.408722Z",
+  "version": 1
+}

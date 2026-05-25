@@ -1,0 +1,16 @@
+{
+  "article": "Galt,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/28404/Galt__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "079bf026b68d0fffd742f2986eaad94b5155a05e0b292eb9cc01ad61d8e1c5d9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "079bf026b68d0fffd742f2986eaad94b5155a05e0b292eb9cc01ad61d8e1c5d9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/28404/Galt__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "28404",
+  "timestamp": "2026-05-24T23:38:14.711043Z",
+  "version": 1
+}

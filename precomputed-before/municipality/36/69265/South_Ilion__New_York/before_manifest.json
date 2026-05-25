@@ -1,0 +1,16 @@
+{
+  "article": "South_Ilion,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/69265/South_Ilion__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "277072cd43c91f5385a140d048be86c18209cf499f3042edc0f9d3bd6abb7594",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "277072cd43c91f5385a140d048be86c18209cf499f3042edc0f9d3bd6abb7594",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/69265/South_Ilion__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "69265",
+  "timestamp": "2026-05-25T00:01:16.470725Z",
+  "version": 1
+}

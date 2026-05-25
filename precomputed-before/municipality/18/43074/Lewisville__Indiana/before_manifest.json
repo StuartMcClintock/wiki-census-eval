@@ -1,0 +1,16 @@
+{
+  "article": "Lewisville,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/43074/Lewisville__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bfc0e43fda30642eaa94551431135dc4b6d6b244e2fcdf89d4e896126479cf83",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bfc0e43fda30642eaa94551431135dc4b6d6b244e2fcdf89d4e896126479cf83",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/43074/Lewisville__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "43074",
+  "timestamp": "2026-05-24T23:39:54.311104Z",
+  "version": 1
+}

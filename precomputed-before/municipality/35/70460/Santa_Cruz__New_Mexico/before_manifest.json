@@ -1,0 +1,16 @@
+{
+  "article": "Santa_Cruz,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/70460/Santa_Cruz__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5d789af1e089d31833580bdb9735165b658514202ae1d55c6626e221b1bde2b9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5d789af1e089d31833580bdb9735165b658514202ae1d55c6626e221b1bde2b9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/70460/Santa_Cruz__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "70460",
+  "timestamp": "2026-05-24T23:58:54.207298Z",
+  "version": 1
+}

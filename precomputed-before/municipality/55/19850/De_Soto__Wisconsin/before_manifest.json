@@ -1,0 +1,16 @@
+{
+  "article": "De_Soto,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/19850/De_Soto__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f155a6a125c360bf699deececfd7baca6315f478745b9bb136ef470644e27c5e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f155a6a125c360bf699deececfd7baca6315f478745b9bb136ef470644e27c5e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/19850/De_Soto__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "19850",
+  "timestamp": "2026-05-25T00:22:01.053996Z",
+  "version": 1
+}

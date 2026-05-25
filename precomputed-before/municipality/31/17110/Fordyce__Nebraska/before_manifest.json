@@ -1,0 +1,16 @@
+{
+  "article": "Fordyce,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/17110/Fordyce__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bab3fd9f5ec53c1cdc11edfa954d6dc03fec7acf5d94550b937881ab5ab8089d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bab3fd9f5ec53c1cdc11edfa954d6dc03fec7acf5d94550b937881ab5ab8089d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/17110/Fordyce__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "17110",
+  "timestamp": "2026-05-24T23:55:27.125643Z",
+  "version": 1
+}

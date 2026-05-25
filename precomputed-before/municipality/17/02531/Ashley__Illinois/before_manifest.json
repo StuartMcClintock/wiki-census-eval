@@ -1,0 +1,16 @@
+{
+  "article": "Ashley,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/02531/Ashley__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "24cd93c66fbf4b3889ed504373c37081f160c732ba8acead0b3cfb6f5dcaac46",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "24cd93c66fbf4b3889ed504373c37081f160c732ba8acead0b3cfb6f5dcaac46",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/02531/Ashley__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "02531",
+  "timestamp": "2026-05-24T23:37:34.604128Z",
+  "version": 1
+}

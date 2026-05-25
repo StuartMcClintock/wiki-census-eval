@@ -1,0 +1,16 @@
+{
+  "article": "Drysdale,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/20570/Drysdale__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "89848aef163253da4c127fa738cffc97518c1136fc09f20e46f42287138c4072",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "89848aef163253da4c127fa738cffc97518c1136fc09f20e46f42287138c4072",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/20570/Drysdale__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "20570",
+  "timestamp": "2026-05-24T23:32:52.734164Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Agency,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/00640/Agency__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "154d4d9587729e552774a962d98d04a8a4fe3f50a808ee56f93d8398a638737f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "154d4d9587729e552774a962d98d04a8a4fe3f50a808ee56f93d8398a638737f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/00640/Agency__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "00640",
+  "timestamp": "2026-05-24T23:40:21.114614Z",
+  "version": 1
+}

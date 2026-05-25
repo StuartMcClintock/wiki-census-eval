@@ -1,0 +1,16 @@
+{
+  "article": "Thebes,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/74873/Thebes__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6fc831783ed89ac4f384e47d73a4ad6b6b702236af3c7f67fa48373835e8d477",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6fc831783ed89ac4f384e47d73a4ad6b6b702236af3c7f67fa48373835e8d477",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/74873/Thebes__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "74873",
+  "timestamp": "2026-05-24T23:39:16.225041Z",
+  "version": 1
+}

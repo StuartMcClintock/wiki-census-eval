@@ -1,0 +1,16 @@
+{
+  "article": "Parkside,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/58176/Parkside__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "de2f866b3edf9696e2223c22c804247fdc43581de6e0bc7dada0ff0c7bfa190f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "de2f866b3edf9696e2223c22c804247fdc43581de6e0bc7dada0ff0c7bfa190f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/58176/Parkside__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "58176",
+  "timestamp": "2026-05-25T00:08:26.216410Z",
+  "version": 1
+}

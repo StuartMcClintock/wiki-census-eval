@@ -1,0 +1,16 @@
+{
+  "article": "Hartman,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/30520/Hartman__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7502721ed812467f0ce3ff207da2ebc512f070222338654d813cbf73e197363f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7502721ed812467f0ce3ff207da2ebc512f070222338654d813cbf73e197363f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/30520/Hartman__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "30520",
+  "timestamp": "2026-05-24T23:33:45.418451Z",
+  "version": 1
+}

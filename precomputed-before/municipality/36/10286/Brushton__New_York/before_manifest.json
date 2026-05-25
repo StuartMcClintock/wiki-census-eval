@@ -1,0 +1,16 @@
+{
+  "article": "Brushton,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/10286/Brushton__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4c92311747d1a760a2daf18172318b69eb4052a945266146c33beaa40d450eab",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4c92311747d1a760a2daf18172318b69eb4052a945266146c33beaa40d450eab",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/10286/Brushton__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "10286",
+  "timestamp": "2026-05-25T00:00:33.773366Z",
+  "version": 1
+}

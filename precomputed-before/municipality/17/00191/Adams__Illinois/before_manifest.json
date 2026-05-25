@@ -1,0 +1,16 @@
+{
+  "article": "Adams,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/00191/Adams__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "666e2b078ffb5195ade0268facfd13d551b8d07d0058751f60eeb05f5595a3f2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "666e2b078ffb5195ade0268facfd13d551b8d07d0058751f60eeb05f5595a3f2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/00191/Adams__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "00191",
+  "timestamp": "2026-05-24T23:37:31.156180Z",
+  "version": 1
+}

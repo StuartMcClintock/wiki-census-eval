@@ -1,0 +1,16 @@
+{
+  "article": "Ravinia,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/53220/Ravinia__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f0b780a46650f663ae87aec41c63bae3bb259d707a8030fd4f6e780c4c6e400f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f0b780a46650f663ae87aec41c63bae3bb259d707a8030fd4f6e780c4c6e400f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/53220/Ravinia__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "53220",
+  "timestamp": "2026-05-25T00:11:10.195711Z",
+  "version": 1
+}

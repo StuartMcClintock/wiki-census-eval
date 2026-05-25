@@ -1,0 +1,16 @@
+{
+  "article": "Hatboro,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/33088/Hatboro__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e085225e76b9476b8df12d8342060ef485d5d1f1f2f46408ef9e7e5b84956455",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e085225e76b9476b8df12d8342060ef485d5d1f1f2f46408ef9e7e5b84956455",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/33088/Hatboro__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "33088",
+  "timestamp": "2026-05-25T00:07:23.236088Z",
+  "version": 1
+}

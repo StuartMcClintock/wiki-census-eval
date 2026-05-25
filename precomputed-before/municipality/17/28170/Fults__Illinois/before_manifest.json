@@ -1,0 +1,16 @@
+{
+  "article": "Fults,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/28170/Fults__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b162288bfcd09117836601869459284376d21daf1fca99049b14a938da1e7bd2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b162288bfcd09117836601869459284376d21daf1fca99049b14a938da1e7bd2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/28170/Fults__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "28170",
+  "timestamp": "2026-05-24T23:38:14.500966Z",
+  "version": 1
+}

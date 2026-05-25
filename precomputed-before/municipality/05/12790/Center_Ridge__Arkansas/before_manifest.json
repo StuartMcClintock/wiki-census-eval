@@ -1,0 +1,16 @@
+{
+  "article": "Center_Ridge,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/12790/Center_Ridge__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "301ad9e5004f4de7da5f3f48222d0a56cd4bce9a1a52f974b86bdb4a90003d64",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "301ad9e5004f4de7da5f3f48222d0a56cd4bce9a1a52f974b86bdb4a90003d64",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/12790/Center_Ridge__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "12790",
+  "timestamp": "2026-05-24T23:33:24.639943Z",
+  "version": 1
+}

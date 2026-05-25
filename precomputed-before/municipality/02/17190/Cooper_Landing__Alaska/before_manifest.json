@@ -1,0 +1,16 @@
+{
+  "article": "Cooper_Landing,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/17190/Cooper_Landing__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fc88e8cd9b3169f30a018f03bee898c18161f649bed116c00beb65481cbd3cd3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fc88e8cd9b3169f30a018f03bee898c18161f649bed116c00beb65481cbd3cd3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/17190/Cooper_Landing__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "17190",
+  "timestamp": "2026-05-24T23:32:20.224368Z",
+  "version": 1
+}

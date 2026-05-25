@@ -1,0 +1,16 @@
+{
+  "article": "Gibraltar,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/29000/Gibraltar__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7115f8b9d83b06a1b12c30c20373119e843d16d51b15469f7d102e3247f37185",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7115f8b9d83b06a1b12c30c20373119e843d16d51b15469f7d102e3247f37185",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/29000/Gibraltar__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "29000",
+  "timestamp": "2026-05-25T00:07:15.342232Z",
+  "version": 1
+}

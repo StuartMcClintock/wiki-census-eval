@@ -1,0 +1,16 @@
+{
+  "article": "Satartia,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/65680/Satartia__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b40320d1fda9008a9ef4a54ecec36a633c50a2a1d47787e06b7bf08340a64e2a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b40320d1fda9008a9ef4a54ecec36a633c50a2a1d47787e06b7bf08340a64e2a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/65680/Satartia__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "65680",
+  "timestamp": "2026-05-24T23:50:22.958440Z",
+  "version": 1
+}

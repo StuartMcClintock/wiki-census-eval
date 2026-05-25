@@ -1,0 +1,16 @@
+{
+  "article": "Sciotodale,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/70912/Sciotodale__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3fa0a12d34f2424b01dc892e24a43164eeb3492240bb552b704b1b0ef088467c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3fa0a12d34f2424b01dc892e24a43164eeb3492240bb552b704b1b0ef088467c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/70912/Sciotodale__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "70912",
+  "timestamp": "2026-05-25T00:05:15.430505Z",
+  "version": 1
+}

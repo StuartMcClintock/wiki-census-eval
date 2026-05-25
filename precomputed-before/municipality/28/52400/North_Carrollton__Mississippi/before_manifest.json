@@ -1,0 +1,16 @@
+{
+  "article": "North_Carrollton,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/52400/North_Carrollton__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c0be2b752448cda78c1d725d6cf8083824b550261c2a453ccd299a15337e0700",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c0be2b752448cda78c1d725d6cf8083824b550261c2a453ccd299a15337e0700",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/52400/North_Carrollton__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "52400",
+  "timestamp": "2026-05-24T23:50:18.549936Z",
+  "version": 1
+}

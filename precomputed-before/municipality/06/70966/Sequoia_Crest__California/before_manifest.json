@@ -1,0 +1,16 @@
+{
+  "article": "Sequoia_Crest,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/70966/Sequoia_Crest__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3c8b705b4587012bb85d2a2444444f508e5e8459249ba28e3b039cfdf3a0ac35",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3c8b705b4587012bb85d2a2444444f508e5e8459249ba28e3b039cfdf3a0ac35",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/70966/Sequoia_Crest__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "70966",
+  "timestamp": "2026-05-24T23:35:04.591988Z",
+  "version": 1
+}

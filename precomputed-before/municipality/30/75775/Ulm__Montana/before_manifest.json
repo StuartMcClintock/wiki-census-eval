@@ -1,0 +1,16 @@
+{
+  "article": "Ulm,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/75775/Ulm__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "647a6dd3d628b516b954068a881db6f1a0bf0008d8b2232f6bb7934c251a2031",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "647a6dd3d628b516b954068a881db6f1a0bf0008d8b2232f6bb7934c251a2031",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/75775/Ulm__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "75775",
+  "timestamp": "2026-05-24T23:55:01.755344Z",
+  "version": 1
+}

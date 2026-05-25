@@ -1,0 +1,16 @@
+{
+  "article": "New_Buffalo,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/53320/New_Buffalo__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ee5dfb7c931edafe808707ef6f8cdc38aa8036ee8c17b8d4e64554e8b8cedf15",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ee5dfb7c931edafe808707ef6f8cdc38aa8036ee8c17b8d4e64554e8b8cedf15",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/53320/New_Buffalo__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "53320",
+  "timestamp": "2026-05-25T00:08:14.929317Z",
+  "version": 1
+}

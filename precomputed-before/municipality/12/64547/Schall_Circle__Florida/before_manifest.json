@@ -1,0 +1,16 @@
+{
+  "article": "Schall_Circle,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/64547/Schall_Circle__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d590a5703d6c9fd2e5ddd6ea0cea1ecf6592b6dd1f304278e60b01db82b65dfb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d590a5703d6c9fd2e5ddd6ea0cea1ecf6592b6dd1f304278e60b01db82b65dfb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/64547/Schall_Circle__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "64547",
+  "timestamp": "2026-05-24T23:36:22.412076Z",
+  "version": 1
+}

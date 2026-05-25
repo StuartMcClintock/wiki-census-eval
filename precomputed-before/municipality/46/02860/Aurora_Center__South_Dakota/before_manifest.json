@@ -1,0 +1,16 @@
+{
+  "article": "Aurora_Center,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/02860/Aurora_Center__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "873b41b6f7e93be9db68b590548c5ee86d91c39259eacfd612b2c126d21f06ea",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "873b41b6f7e93be9db68b590548c5ee86d91c39259eacfd612b2c126d21f06ea",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/02860/Aurora_Center__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "02860",
+  "timestamp": "2026-05-25T00:10:30.713715Z",
+  "version": 1
+}

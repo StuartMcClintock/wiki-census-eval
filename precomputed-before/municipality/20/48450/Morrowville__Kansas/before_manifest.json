@@ -1,0 +1,16 @@
+{
+  "article": "Morrowville,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/48450/Morrowville__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4a7cd703d05106165cb020c801e37200db8cc5677acc73229967751cdbcf28b9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4a7cd703d05106165cb020c801e37200db8cc5677acc73229967751cdbcf28b9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/48450/Morrowville__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "48450",
+  "timestamp": "2026-05-24T23:43:11.027453Z",
+  "version": 1
+}

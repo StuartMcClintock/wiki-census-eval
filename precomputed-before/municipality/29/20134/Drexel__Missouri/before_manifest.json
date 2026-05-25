@@ -1,0 +1,16 @@
+{
+  "article": "Drexel,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/20134/Drexel__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cc5f52be9dfb83c902a022a9d4f76d66b306c1fdb342b7275fc6f2dd497ad680",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cc5f52be9dfb83c902a022a9d4f76d66b306c1fdb342b7275fc6f2dd497ad680",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/20134/Drexel__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "20134",
+  "timestamp": "2026-05-24T23:51:04.425182Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Dublin,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/20220/Dublin__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3d5d4bab08969701a5285e15c91016a461b6e6446cbe9113f6a95042a7fb8172",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3d5d4bab08969701a5285e15c91016a461b6e6446cbe9113f6a95042a7fb8172",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/20220/Dublin__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "20220",
+  "timestamp": "2026-05-24T23:50:07.791524Z",
+  "version": 1
+}

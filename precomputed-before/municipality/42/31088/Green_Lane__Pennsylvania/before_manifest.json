@@ -1,0 +1,16 @@
+{
+  "article": "Green_Lane,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/31088/Green_Lane__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e8145c7247dc0c6fb3d341a7b0e689f86ccaf0127d5456e87eeb9788025a8fef",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e8145c7247dc0c6fb3d341a7b0e689f86ccaf0127d5456e87eeb9788025a8fef",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/31088/Green_Lane__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "31088",
+  "timestamp": "2026-05-25T00:07:19.731558Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Elkhorn,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/23865/Elkhorn__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7e60355233a0ee035d9d8915f11d00400e174f9ffe4ef296a13ab952cd012e8e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7e60355233a0ee035d9d8915f11d00400e174f9ffe4ef296a13ab952cd012e8e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/23865/Elkhorn__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "23865",
+  "timestamp": "2026-05-24T23:54:22.641336Z",
+  "version": 1
+}

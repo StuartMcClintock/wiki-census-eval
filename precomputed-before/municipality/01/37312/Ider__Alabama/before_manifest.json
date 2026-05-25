@@ -1,0 +1,16 @@
+{
+  "article": "Ider,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/37312/Ider__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "71373a34b5b5eca83d9c6874cccbf560ffdb0de64017f3ba6260cb1c11325114",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "71373a34b5b5eca83d9c6874cccbf560ffdb0de64017f3ba6260cb1c11325114",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/37312/Ider__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "37312",
+  "timestamp": "2026-05-24T23:32:00.799510Z",
+  "version": 1
+}

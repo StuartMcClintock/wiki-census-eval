@@ -1,0 +1,16 @@
+{
+  "article": "Ostrander,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/49030/Ostrander__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bc57d106001db917a0f2b4804ae4d41a50c2330a26521c61c0ef79c1a6f2fc73",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bc57d106001db917a0f2b4804ae4d41a50c2330a26521c61c0ef79c1a6f2fc73",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/49030/Ostrander__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "49030",
+  "timestamp": "2026-05-24T23:49:26.454571Z",
+  "version": 1
+}

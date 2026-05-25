@@ -1,0 +1,16 @@
+{
+  "article": "Atglen,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/03384/Atglen__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0551ad436da63093d325981529002b4c1fa6b036c97744c7aecb458ea5f6d07d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0551ad436da63093d325981529002b4c1fa6b036c97744c7aecb458ea5f6d07d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/03384/Atglen__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "03384",
+  "timestamp": "2026-05-25T00:06:10.348244Z",
+  "version": 1
+}

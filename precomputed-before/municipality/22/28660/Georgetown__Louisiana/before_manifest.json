@@ -1,0 +1,16 @@
+{
+  "article": "Georgetown,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/28660/Georgetown__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e079484f1bda9313d1aa51a7ff2bcc419dcbf1d98f6db2a549c885ba21cf865c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e079484f1bda9313d1aa51a7ff2bcc419dcbf1d98f6db2a549c885ba21cf865c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/28660/Georgetown__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "28660",
+  "timestamp": "2026-05-24T23:44:48.541184Z",
+  "version": 1
+}

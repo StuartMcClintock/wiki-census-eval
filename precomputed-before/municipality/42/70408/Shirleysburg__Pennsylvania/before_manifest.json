@@ -1,0 +1,16 @@
+{
+  "article": "Shirleysburg,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/70408/Shirleysburg__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "37b605dc7ab3a19026ca82b298b1f067910d8478011e52ee29bed78ad8765a70",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "37b605dc7ab3a19026ca82b298b1f067910d8478011e52ee29bed78ad8765a70",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/70408/Shirleysburg__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "70408",
+  "timestamp": "2026-05-25T00:09:04.201165Z",
+  "version": 1
+}

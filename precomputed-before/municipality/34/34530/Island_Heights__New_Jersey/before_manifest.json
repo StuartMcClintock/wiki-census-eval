@@ -1,0 +1,16 @@
+{
+  "article": "Island_Heights,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/34530/Island_Heights__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bd861555df0298ff5c806c5b40239b05d619d5532924128992551decb8d82362",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bd861555df0298ff5c806c5b40239b05d619d5532924128992551decb8d82362",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/34530/Island_Heights__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "34530",
+  "timestamp": "2026-05-24T23:57:51.470717Z",
+  "version": 1
+}

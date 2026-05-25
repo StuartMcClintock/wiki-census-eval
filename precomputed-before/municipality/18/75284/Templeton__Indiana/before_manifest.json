@@ -1,0 +1,16 @@
+{
+  "article": "Templeton,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/75284/Templeton__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bc9ac78fff46bc500a141c924281e793f82a2b5b384832be4eab29d0d5a7b8ef",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bc9ac78fff46bc500a141c924281e793f82a2b5b384832be4eab29d0d5a7b8ef",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/75284/Templeton__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "75284",
+  "timestamp": "2026-05-24T23:40:16.016460Z",
+  "version": 1
+}

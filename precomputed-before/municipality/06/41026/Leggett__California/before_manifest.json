@@ -1,0 +1,16 @@
+{
+  "article": "Leggett,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/41026/Leggett__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "77cb2eae8aac881ff0e17bb26f82601bfe579ffb4e7ffeac2ac28321e2a3a99f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "77cb2eae8aac881ff0e17bb26f82601bfe579ffb4e7ffeac2ac28321e2a3a99f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/41026/Leggett__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "41026",
+  "timestamp": "2026-05-24T23:34:34.016199Z",
+  "version": 1
+}

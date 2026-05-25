@@ -1,0 +1,16 @@
+{
+  "article": "Laurel_Mountain,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/41834/Laurel_Mountain__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b1d2b7ac5487c83b750d2ac4a0f7aa073e144693960c6f8506656ca40f3715ed",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b1d2b7ac5487c83b750d2ac4a0f7aa073e144693960c6f8506656ca40f3715ed",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/41834/Laurel_Mountain__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "41834",
+  "timestamp": "2026-05-25T00:07:48.740280Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Oakvale,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/60196/Oakvale__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f317ff2db745b0fc7b98d5cc0abc2843b6df4bf491155598f43c00c410d30f36",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f317ff2db745b0fc7b98d5cc0abc2843b6df4bf491155598f43c00c410d30f36",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/60196/Oakvale__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "60196",
+  "timestamp": "2026-05-25T00:21:19.698667Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Damon,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/19108/Damon__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c7eda19f0c93d2ee35d71b39e77b7aae8352fe2fea1f028796a83baf012d47ff",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c7eda19f0c93d2ee35d71b39e77b7aae8352fe2fea1f028796a83baf012d47ff",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/19108/Damon__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "19108",
+  "timestamp": "2026-05-25T00:15:28.058399Z",
+  "version": 1
+}

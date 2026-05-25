@@ -1,0 +1,16 @@
+{
+  "article": "Kiel,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/39525/Kiel__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4d70f10ee4f8eaf1a6be3ac58b9cac4ec8f327d6010597d0c7f8bce9399eeaf7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4d70f10ee4f8eaf1a6be3ac58b9cac4ec8f327d6010597d0c7f8bce9399eeaf7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/39525/Kiel__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "39525",
+  "timestamp": "2026-05-25T00:22:16.212072Z",
+  "version": 1
+}

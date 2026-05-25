@@ -1,0 +1,112 @@
+==Demographics==
+{{US Census population
+|align = left
+|1950= 107
+|1960= 105
+|1970= 137
+|1980= 280
+|1990= 638
+|2000= 740
+|2010= 961
+|2020= 797
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 19, 2022}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A45|title=Census Population API|publisher=United States Census Bureau|accessdate=October 15, 2022}}</ref>
+}}
+
+===2020 census===
+{| class="wikitable sortable" style="text-align:center;"
+|+'''Santee town, South Carolina – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Santee town, South Carolina|url=https://data.census.gov/table?g=160XX00US4563790&tid=DECENNIALSF12000.P004|website=[[United States Census Bureau]] |access-date= }}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Santee town, South Carolina|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US4563790&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!style="background-color: #ffffb3;" |Pop 2020<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Santee town, South Carolina|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US4563790&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!% 2000
+!% 2010
+!style="background-color: #ffffb3;" |% 2020
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|206
+|255
+|style='background: #ffffe6; |208
+|27.84%
+|26.53%
+|style='background: #ffffe6; |26.10%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|523
+|628
+|style='background: #ffffe6; |525
+|70.68%
+|65.35%
+|style='background: #ffffe6; |65.87%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |2
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.25%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|1
+|26
+|style='background: #ffffe6; |31
+|0.14%
+|2.71%
+|style='background: #ffffe6; |3.89%
+|-
+|[[Native Hawaiian]] or [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|0
+|2
+|style='background: #ffffe6; |4
+|0.00%
+|0.21%
+|style='background: #ffffe6; |0.50%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|4
+|18
+|style='background: #ffffe6; |16
+|0.54%
+|1.87%
+|style='background: #ffffe6; |2.01%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|6
+|32
+|style='background: #ffffe6; |11
+|0.81%
+|3.33%
+|style='background: #ffffe6; |1.38%
+|-
+|'''Total'''
+|'''740'''
+|'''961'''
+|style='background: #ffffe6; |'''797 '''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+As of the [[2020 United States census]], there were 797 people, 394 households, and 241 families residing in the town.
+
+===2000 census===
+[[Image:I95 bridge 1304.JPG|thumb|Interstate 95 bridge over Lake Marion, Santee, SC; The old (bypassed road) bridge/causeway is used as fishing pier. Man-made in the 1930s on the farmlands and [[marsh]]es of the [[Santee River]] [[river valley|valley]], Lake Marion is famous for [[awards|trophy-quality]] game fish, especially [[Bass (fish)|largemouth bass]].]]
+
+[[File:Condominium on Lake Marion, Santee, South Carolina (24 November 2006).jpg|thumb|New condominium by Lake Marion, Santee, SC]]
+As of the [[census]]<ref name="GR2" /> of 2000, there were 740 people, 310 households, and 221 families residing in the town. The population density was {{convert|367.4|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 394 housing units at an average density of {{convert|195.6|/sqmi|/km2|sp=us|adj=off}}. The racial makeup of the town was 28.11% [[White (U.S. Census)|White]], 70.68% [[African American (U.S. Census)|African American]], 0.14% [[Asian (U.S. Census)|Asian]], 0.54% from [[Race (United States Census)|other races]], and 0.54% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 0.81% of the population.
+
+There were 310 households, out of which 27.4% had children under the age of 18 living with them, 41.0% were [[Marriage|married couples]] living together, 26.8% had a female householder with no husband present, and 28.7% were non-families. 26.5% of all households were made up of individuals, and 14.2% had someone living alone who was 65 years of age or older. The average household size was 2.39 and the average family size was 2.85.
+
+In the town, the population was spread out, with 25.3% under the age of 18, 10.4% from 18 to 24, 20.4% from 25 to 44, 18.8% from 45 to 64, and 25.1% who were 65 years of age or older. The median age was 39 years. For every 100 females, there were 73.7 males. For every 100 females age 18 and over, there were 66.6 males.
+
+The median income for a household in the town was $22,292, and the median income for a family was $28,393. Males had a median income of $27,083 versus $16,650 for females. The [[per capita income]] for the town was $15,353. About 27.5% of families and 32.9% of the population were below the [[poverty line]], including 46.1% of those under age 18 and 17.8% of those age 65 or over.
+

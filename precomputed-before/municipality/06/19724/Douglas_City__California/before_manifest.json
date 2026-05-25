@@ -1,0 +1,16 @@
+{
+  "article": "Douglas_City,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/19724/Douglas_City__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e100db86a11bfad338c6bb1b04321e4983166520c38a642225afdab6aac9955e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e100db86a11bfad338c6bb1b04321e4983166520c38a642225afdab6aac9955e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/19724/Douglas_City__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "19724",
+  "timestamp": "2026-05-24T23:34:19.068851Z",
+  "version": 1
+}

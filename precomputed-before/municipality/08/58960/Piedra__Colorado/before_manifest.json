@@ -1,0 +1,16 @@
+{
+  "article": "Piedra,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/58960/Piedra__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "58e0056e805e2aad43773f1305db3384a6c80ad3e283326ab0386b6688aaf75d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "58e0056e805e2aad43773f1305db3384a6c80ad3e283326ab0386b6688aaf75d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/58960/Piedra__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "58960",
+  "timestamp": "2026-05-24T23:35:36.839050Z",
+  "version": 1
+}

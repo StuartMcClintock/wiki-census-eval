@@ -1,0 +1,16 @@
+{
+  "article": "Shakertowne,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/66935/Shakertowne__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0cae7ba9f62fb2c83823d86328e75f09b9947ae64501e53e1421c89f2866587f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0cae7ba9f62fb2c83823d86328e75f09b9947ae64501e53e1421c89f2866587f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/66935/Shakertowne__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "66935",
+  "timestamp": "2026-05-24T23:53:49.018521Z",
+  "version": 1
+}

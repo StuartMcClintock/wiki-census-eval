@@ -1,0 +1,16 @@
+{
+  "article": "Groveland_Station,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/31022/Groveland_Station__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f2752e7f28b0f2a0713df2d086aba43ce9d6662b44e7e61809ae3b76286acaa9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f2752e7f28b0f2a0713df2d086aba43ce9d6662b44e7e61809ae3b76286acaa9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/31022/Groveland_Station__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "31022",
+  "timestamp": "2026-05-25T00:00:45.865089Z",
+  "version": 1
+}

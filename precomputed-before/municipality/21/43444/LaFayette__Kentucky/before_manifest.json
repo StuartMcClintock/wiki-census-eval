@@ -1,0 +1,16 @@
+{
+  "article": "LaFayette,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/43444/LaFayette__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "94fd4b3ffa2b23982f236332be4cd1d5facd0c85bc43786cef5614e3091b5ac1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "94fd4b3ffa2b23982f236332be4cd1d5facd0c85bc43786cef5614e3091b5ac1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/43444/LaFayette__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "43444",
+  "timestamp": "2026-05-24T23:44:09.190313Z",
+  "version": 1
+}

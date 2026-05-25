@@ -1,0 +1,16 @@
+{
+  "article": "Kellyton,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/39472/Kellyton__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dc347e96f1b66d91cb8b201b7bd00403d05c9896b8f0f3a7fe91b12f363f1a8a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dc347e96f1b66d91cb8b201b7bd00403d05c9896b8f0f3a7fe91b12f363f1a8a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/39472/Kellyton__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "39472",
+  "timestamp": "2026-05-24T23:32:01.217450Z",
+  "version": 1
+}

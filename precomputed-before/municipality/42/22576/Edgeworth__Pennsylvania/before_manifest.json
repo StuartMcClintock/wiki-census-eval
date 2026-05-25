@@ -1,0 +1,16 @@
+{
+  "article": "Edgeworth,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/22576/Edgeworth__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e82ed262d885c02133e4375eb85980ee662f0b8d449e981d6418fd3fe1daa06e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e82ed262d885c02133e4375eb85980ee662f0b8d449e981d6418fd3fe1daa06e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/22576/Edgeworth__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "22576",
+  "timestamp": "2026-05-25T00:07:01.790608Z",
+  "version": 1
+}

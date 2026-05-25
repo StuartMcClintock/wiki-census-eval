@@ -1,0 +1,16 @@
+{
+  "article": "Allison,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/02040/Allison__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2d0adcaf33f4873485d28b1f2763da1b523da3cf51d1740d1412195ad858213c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2d0adcaf33f4873485d28b1f2763da1b523da3cf51d1740d1412195ad858213c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/02040/Allison__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "02040",
+  "timestamp": "2026-05-25T00:06:07.582267Z",
+  "version": 1
+}

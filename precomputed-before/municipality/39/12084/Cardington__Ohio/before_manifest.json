@@ -1,0 +1,16 @@
+{
+  "article": "Cardington,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/12084/Cardington__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "efd912d8a0322029d462c8960929dcef8d4fa245bcf3f2399a99a9661af54f04",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "efd912d8a0322029d462c8960929dcef8d4fa245bcf3f2399a99a9661af54f04",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/12084/Cardington__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "12084",
+  "timestamp": "2026-05-25T00:03:52.353890Z",
+  "version": 1
+}

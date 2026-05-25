@@ -1,0 +1,16 @@
+{
+  "article": "Mindenmines,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/48566/Mindenmines__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9cd8619294ac8a8fc8ca7a5d3765febdf7b728bf45ac45822e22272aea8e1ee7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9cd8619294ac8a8fc8ca7a5d3765febdf7b728bf45ac45822e22272aea8e1ee7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/48566/Mindenmines__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "48566",
+  "timestamp": "2026-05-24T23:53:32.835813Z",
+  "version": 1
+}

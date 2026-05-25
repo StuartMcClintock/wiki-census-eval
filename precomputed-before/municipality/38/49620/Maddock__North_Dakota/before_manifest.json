@@ -1,0 +1,16 @@
+{
+  "article": "Maddock,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/49620/Maddock__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6ce65cfd32b22a38db1357875abbc87ccbf8a78e1f1c4f4a88f0c494bfd0d68e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6ce65cfd32b22a38db1357875abbc87ccbf8a78e1f1c4f4a88f0c494bfd0d68e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/49620/Maddock__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "49620",
+  "timestamp": "2026-05-25T00:03:10.391395Z",
+  "version": 1
+}

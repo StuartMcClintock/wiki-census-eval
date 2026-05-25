@@ -1,0 +1,16 @@
+{
+  "article": "Ironton,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/31274/Ironton__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b88fda8f4038116b91120241c72c728f7c5bfabc234919b8990d63981d8f4e69",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b88fda8f4038116b91120241c72c728f7c5bfabc234919b8990d63981d8f4e69",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/31274/Ironton__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "31274",
+  "timestamp": "2026-05-24T23:49:10.490554Z",
+  "version": 1
+}

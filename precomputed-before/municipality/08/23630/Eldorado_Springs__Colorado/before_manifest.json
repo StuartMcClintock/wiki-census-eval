@@ -1,0 +1,16 @@
+{
+  "article": "Eldorado_Springs,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/23630/Eldorado_Springs__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b58becea71f52c4de4d8f22652e1a1f3d90b1adfcb49aba88a25169ae2fb35c0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b58becea71f52c4de4d8f22652e1a1f3d90b1adfcb49aba88a25169ae2fb35c0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/23630/Eldorado_Springs__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "23630",
+  "timestamp": "2026-05-24T23:35:24.699952Z",
+  "version": 1
+}

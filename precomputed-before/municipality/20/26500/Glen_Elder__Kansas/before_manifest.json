@@ -1,0 +1,16 @@
+{
+  "article": "Glen_Elder,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/26500/Glen_Elder__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b86a6767312b2e11f6c1091f930331bb76a89275e828c4a845ff6039b53e86e7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b86a6767312b2e11f6c1091f930331bb76a89275e828c4a845ff6039b53e86e7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/26500/Glen_Elder__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "26500",
+  "timestamp": "2026-05-24T23:42:41.541172Z",
+  "version": 1
+}

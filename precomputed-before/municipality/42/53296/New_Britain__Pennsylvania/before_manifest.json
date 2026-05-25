@@ -1,0 +1,16 @@
+{
+  "article": "New_Britain,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/53296/New_Britain__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e2b8d5b293a988bf5dcc0ae3ad2bfc42eb3bd53dd1f37b0feea0f701c16f49d6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e2b8d5b293a988bf5dcc0ae3ad2bfc42eb3bd53dd1f37b0feea0f701c16f49d6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/53296/New_Britain__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "53296",
+  "timestamp": "2026-05-25T00:08:14.814355Z",
+  "version": 1
+}

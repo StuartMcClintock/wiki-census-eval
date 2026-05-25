@@ -1,0 +1,16 @@
+{
+  "article": "West_Millgrove,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/83888/West_Millgrove__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f284323d286eae4bce7b9a82bea6bbeac7a3cb8dafc2fdbe0b713968d5f2dd38",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f284323d286eae4bce7b9a82bea6bbeac7a3cb8dafc2fdbe0b713968d5f2dd38",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/83888/West_Millgrove__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "83888",
+  "timestamp": "2026-05-25T00:05:38.001716Z",
+  "version": 1
+}

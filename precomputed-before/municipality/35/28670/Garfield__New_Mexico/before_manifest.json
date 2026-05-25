@@ -1,0 +1,16 @@
+{
+  "article": "Garfield,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/28670/Garfield__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2db6d7916ab31a93449c48cd1543f74a4c4aec6ba99b93d9e5ef26e25cb61fac",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2db6d7916ab31a93449c48cd1543f74a4c4aec6ba99b93d9e5ef26e25cb61fac",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/28670/Garfield__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "28670",
+  "timestamp": "2026-05-24T23:58:31.554917Z",
+  "version": 1
+}

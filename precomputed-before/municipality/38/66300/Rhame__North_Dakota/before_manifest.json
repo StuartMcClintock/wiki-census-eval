@@ -1,0 +1,16 @@
+{
+  "article": "Rhame,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/66300/Rhame__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c783dec98e0e3d19620d3c90154e38f614331d8aec15c16e9d2e8f8e7442e212",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c783dec98e0e3d19620d3c90154e38f614331d8aec15c16e9d2e8f8e7442e212",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/66300/Rhame__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "66300",
+  "timestamp": "2026-05-25T00:03:19.242824Z",
+  "version": 1
+}

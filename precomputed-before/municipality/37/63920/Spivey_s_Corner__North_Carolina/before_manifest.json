@@ -1,0 +1,16 @@
+{
+  "article": "Spivey's_Corner,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/63920/Spivey_s_Corner__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "801b41dccd36bc64b17795d47583f0aed854f86ed158339f964dd9cc7a4b827a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "801b41dccd36bc64b17795d47583f0aed854f86ed158339f964dd9cc7a4b827a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/63920/Spivey_s_Corner__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "63920",
+  "timestamp": "2026-05-25T00:02:24.210896Z",
+  "version": 1
+}

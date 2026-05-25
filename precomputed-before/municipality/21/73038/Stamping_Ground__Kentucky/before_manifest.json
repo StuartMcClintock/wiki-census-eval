@@ -1,0 +1,16 @@
+{
+  "article": "Stamping_Ground,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/73038/Stamping_Ground__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "88b42ce252475350ecc6cf2ba6e8ff970c53b581e9471e0e3bc0de224f7fa10c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "88b42ce252475350ecc6cf2ba6e8ff970c53b581e9471e0e3bc0de224f7fa10c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/73038/Stamping_Ground__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "73038",
+  "timestamp": "2026-05-24T23:44:22.222795Z",
+  "version": 1
+}

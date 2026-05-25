@@ -1,0 +1,16 @@
+{
+  "article": "Vining,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/73950/Vining__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a9ad869293f09f241bcedc4e025f67f1c98404838b97aced43b54a491a20d34c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a9ad869293f09f241bcedc4e025f67f1c98404838b97aced43b54a491a20d34c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/73950/Vining__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "73950",
+  "timestamp": "2026-05-24T23:43:34.626061Z",
+  "version": 1
+}

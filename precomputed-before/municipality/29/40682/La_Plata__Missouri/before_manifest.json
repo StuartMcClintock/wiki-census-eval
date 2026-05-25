@@ -1,0 +1,16 @@
+{
+  "article": "La_Plata,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/40682/La_Plata__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "733a81bc377eca9f2c9fe7566dd362049822a84f6f59a1e22c6e76d24ad8ad76",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "733a81bc377eca9f2c9fe7566dd362049822a84f6f59a1e22c6e76d24ad8ad76",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/40682/La_Plata__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "40682",
+  "timestamp": "2026-05-24T23:53:26.193176Z",
+  "version": 1
+}

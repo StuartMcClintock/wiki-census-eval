@@ -1,0 +1,16 @@
+{
+  "article": "Halbur,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/33645/Halbur__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a3b367045a32033816330fa159a0bfb618927a3aa45b2293ae79ebc2b0fa13a1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a3b367045a32033816330fa159a0bfb618927a3aa45b2293ae79ebc2b0fa13a1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/33645/Halbur__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "33645",
+  "timestamp": "2026-05-24T23:41:08.073154Z",
+  "version": 1
+}

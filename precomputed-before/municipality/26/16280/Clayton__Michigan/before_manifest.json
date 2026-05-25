@@ -1,0 +1,16 @@
+{
+  "article": "Clayton,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/16280/Clayton__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "db5e3f06f45c9b9d52c60bffea2955cc27b78b98ea25511bca087277389cf192",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "db5e3f06f45c9b9d52c60bffea2955cc27b78b98ea25511bca087277389cf192",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/16280/Clayton__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "16280",
+  "timestamp": "2026-05-24T23:47:49.021922Z",
+  "version": 1
+}

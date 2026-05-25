@@ -1,0 +1,16 @@
+{
+  "article": "Silver_Peak,_Nevada",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/32/67000/Silver_Peak__Nevada/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4046b79c27a7787840153e1e6bd29e373616157e22519f2f5d4ff85cb948f00a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4046b79c27a7787840153e1e6bd29e373616157e22519f2f5d4ff85cb948f00a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/32/67000/Silver_Peak__Nevada/manifest.json",
+  "state_fips": "32",
+  "status": "match",
+  "target_fips": "67000",
+  "timestamp": "2026-05-24T23:57:33.737163Z",
+  "version": 1
+}

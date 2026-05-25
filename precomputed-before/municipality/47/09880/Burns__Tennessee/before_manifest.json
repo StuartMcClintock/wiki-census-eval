@@ -1,0 +1,16 @@
+{
+  "article": "Burns,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/09880/Burns__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "32d5d6fd8f9a17cff5f00262d076089a4577cf23fe7d023c99c035e8681700d7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "32d5d6fd8f9a17cff5f00262d076089a4577cf23fe7d023c99c035e8681700d7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/09880/Burns__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "09880",
+  "timestamp": "2026-05-25T00:14:33.466410Z",
+  "version": 1
+}

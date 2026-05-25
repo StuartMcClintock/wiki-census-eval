@@ -1,0 +1,16 @@
+{
+  "article": "Oak_Valley,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/53217/Oak_Valley__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6d7c6eff4bbd9492db7dd86fcb2a9a60dd20b3fee2f64fb7b912b415dc3b6527",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6d7c6eff4bbd9492db7dd86fcb2a9a60dd20b3fee2f64fb7b912b415dc3b6527",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/53217/Oak_Valley__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "53217",
+  "timestamp": "2026-05-25T00:16:07.994385Z",
+  "version": 1
+}

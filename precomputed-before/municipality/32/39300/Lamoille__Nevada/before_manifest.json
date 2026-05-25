@@ -1,0 +1,16 @@
+{
+  "article": "Lamoille,_Nevada",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/32/39300/Lamoille__Nevada/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e461dc5c9331981cd8d4be39d3cf43388f102bfaa0655840e28379622d658ab1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e461dc5c9331981cd8d4be39d3cf43388f102bfaa0655840e28379622d658ab1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/32/39300/Lamoille__Nevada/manifest.json",
+  "state_fips": "32",
+  "status": "match",
+  "target_fips": "39300",
+  "timestamp": "2026-05-24T23:57:30.957747Z",
+  "version": 1
+}

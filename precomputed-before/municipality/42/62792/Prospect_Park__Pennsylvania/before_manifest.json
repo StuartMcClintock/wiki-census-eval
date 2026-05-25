@@ -1,0 +1,16 @@
+{
+  "article": "Prospect_Park,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/62792/Prospect_Park__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4280343a3624be43786f4f9ef37964c15c7027d27ae7f6c1ee260b647715fcb7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4280343a3624be43786f4f9ef37964c15c7027d27ae7f6c1ee260b647715fcb7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/62792/Prospect_Park__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "62792",
+  "timestamp": "2026-05-25T00:08:33.658080Z",
+  "version": 1
+}

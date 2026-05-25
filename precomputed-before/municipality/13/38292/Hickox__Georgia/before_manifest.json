@@ -1,0 +1,16 @@
+{
+  "article": "Hickox,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/38292/Hickox__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d91bc3b4cd4ca46f009811413b271e43685cb90a94296e1c534902d9a27eb890",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d91bc3b4cd4ca46f009811413b271e43685cb90a94296e1c534902d9a27eb890",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/38292/Hickox__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "38292",
+  "timestamp": "2026-05-24T23:36:50.171510Z",
+  "version": 1
+}

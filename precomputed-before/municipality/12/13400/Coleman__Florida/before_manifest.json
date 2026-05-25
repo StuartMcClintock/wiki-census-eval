@@ -1,0 +1,16 @@
+{
+  "article": "Coleman,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/13400/Coleman__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e85353b49376cb626ec7f24b4b04a84448f45af9886daf601865b9e9300c0c20",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e85353b49376cb626ec7f24b4b04a84448f45af9886daf601865b9e9300c0c20",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/13400/Coleman__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "13400",
+  "timestamp": "2026-05-24T23:36:10.237427Z",
+  "version": 1
+}

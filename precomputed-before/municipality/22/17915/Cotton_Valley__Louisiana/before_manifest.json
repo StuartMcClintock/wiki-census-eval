@@ -1,0 +1,16 @@
+{
+  "article": "Cotton_Valley,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/17915/Cotton_Valley__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9a0684845d379721de5027d99f9020a199d4b9257cc5cde51703101a929fe8ce",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9a0684845d379721de5027d99f9020a199d4b9257cc5cde51703101a929fe8ce",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/17915/Cotton_Valley__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "17915",
+  "timestamp": "2026-05-24T23:44:44.198323Z",
+  "version": 1
+}

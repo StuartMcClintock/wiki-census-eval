@@ -1,0 +1,16 @@
+{
+  "article": "Wilbur,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/78680/Wilbur__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e8d5159b4f9f49ae0446f1ef3199cf7e99d6d5c2453002da49c9c34d2e53d1fc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e8d5159b4f9f49ae0446f1ef3199cf7e99d6d5c2453002da49c9c34d2e53d1fc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/78680/Wilbur__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "78680",
+  "timestamp": "2026-05-25T00:20:38.851773Z",
+  "version": 1
+}

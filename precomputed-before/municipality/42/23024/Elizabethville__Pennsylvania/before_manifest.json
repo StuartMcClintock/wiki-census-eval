@@ -1,0 +1,16 @@
+{
+  "article": "Elizabethville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/23024/Elizabethville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "77a20fcb55faeabdbc6510845ea9f6c7abd82f0d024e9ce72e647e5222f8ddeb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "77a20fcb55faeabdbc6510845ea9f6c7abd82f0d024e9ce72e647e5222f8ddeb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/23024/Elizabethville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "23024",
+  "timestamp": "2026-05-25T00:07:03.148373Z",
+  "version": 1
+}

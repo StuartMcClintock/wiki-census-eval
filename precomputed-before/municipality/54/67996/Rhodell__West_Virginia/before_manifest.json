@@ -1,0 +1,16 @@
+{
+  "article": "Rhodell,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/67996/Rhodell__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3cea1d37f545fa3d14d06de9939787c65f8844a670c746c5db4298226c244781",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3cea1d37f545fa3d14d06de9939787c65f8844a670c746c5db4298226c244781",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/67996/Rhodell__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "67996",
+  "timestamp": "2026-05-25T00:21:23.384510Z",
+  "version": 1
+}

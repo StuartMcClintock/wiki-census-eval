@@ -1,0 +1,16 @@
+{
+  "article": "Meacham,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/46800/Meacham__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "32dd5a7da26f3d107c4f61f77fd34b15d98e0a32978a0213fa7cc2b36c8d162c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "32dd5a7da26f3d107c4f61f77fd34b15d98e0a32978a0213fa7cc2b36c8d162c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/46800/Meacham__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "46800",
+  "timestamp": "2026-05-25T00:05:51.625847Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Southampton_Meadows,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/73624/Southampton_Meadows__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "16022f4abf300fc0709131b820920d6147aed6881eacde276a2d828d3c12818f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "16022f4abf300fc0709131b820920d6147aed6881eacde276a2d828d3c12818f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/73624/Southampton_Meadows__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "73624",
+  "timestamp": "2026-05-25T00:19:38.667904Z",
+  "version": 1
+}

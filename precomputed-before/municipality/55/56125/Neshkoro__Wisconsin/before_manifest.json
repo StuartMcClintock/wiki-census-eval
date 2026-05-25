@@ -1,0 +1,16 @@
+{
+  "article": "Neshkoro,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/56125/Neshkoro__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "32b0967ae2beb18fc70b80fb99473f3a29265d58071b46c75c45eea4a429c744",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "32b0967ae2beb18fc70b80fb99473f3a29265d58071b46c75c45eea4a429c744",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/56125/Neshkoro__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "56125",
+  "timestamp": "2026-05-25T00:22:28.547540Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Paloma,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/57342/Paloma__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4cd8fc512b5b1d03b707fa4223e086a97754b6c7c0fc0988fd3c3b9502461e66",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4cd8fc512b5b1d03b707fa4223e086a97754b6c7c0fc0988fd3c3b9502461e66",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/57342/Paloma__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "57342",
+  "timestamp": "2026-05-24T23:39:00.178887Z",
+  "version": 1
+}

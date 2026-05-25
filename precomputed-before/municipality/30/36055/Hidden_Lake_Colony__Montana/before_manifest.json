@@ -1,0 +1,16 @@
+{
+  "article": "Hidden_Lake_Colony,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/36055/Hidden_Lake_Colony__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "35250c3909c485a31693ce3ff53d8d8863c89fd01ed16fc248a68d149752c7c2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "35250c3909c485a31693ce3ff53d8d8863c89fd01ed16fc248a68d149752c7c2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/36055/Hidden_Lake_Colony__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "36055",
+  "timestamp": "2026-05-24T23:54:29.794429Z",
+  "version": 1
+}

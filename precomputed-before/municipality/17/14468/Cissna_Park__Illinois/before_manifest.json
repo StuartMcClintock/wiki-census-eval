@@ -1,0 +1,16 @@
+{
+  "article": "Cissna_Park,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/14468/Cissna_Park__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a6e6f950995181d2536bb089cf8d4d7757cda8b9cbbe87fe27bb73169cea5f5b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a6e6f950995181d2536bb089cf8d4d7757cda8b9cbbe87fe27bb73169cea5f5b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/14468/Cissna_Park__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "14468",
+  "timestamp": "2026-05-24T23:38:00.869492Z",
+  "version": 1
+}

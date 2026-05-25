@@ -1,0 +1,16 @@
+{
+  "article": "Sound_Beach,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/68374/Sound_Beach__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7017598f9a2988134d7343c2c6ea342ee589c35bb07d2af2c573b53afe686c68",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7017598f9a2988134d7343c2c6ea342ee589c35bb07d2af2c573b53afe686c68",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/68374/Sound_Beach__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "68374",
+  "timestamp": "2026-05-25T00:01:15.414740Z",
+  "version": 1
+}

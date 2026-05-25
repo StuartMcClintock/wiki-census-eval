@@ -1,0 +1,16 @@
+{
+  "article": "Arkdale,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/02725/Arkdale__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "87fd2e828df8c7987dbdb728b8731e95deff543b59157916560ee0dbef86b23b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "87fd2e828df8c7987dbdb728b8731e95deff543b59157916560ee0dbef86b23b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/02725/Arkdale__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "02725",
+  "timestamp": "2026-05-25T00:21:32.779747Z",
+  "version": 1
+}

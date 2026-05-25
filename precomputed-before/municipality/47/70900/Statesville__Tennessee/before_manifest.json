@@ -1,0 +1,16 @@
+{
+  "article": "Statesville,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/70900/Statesville__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6c7328c155d96756c872740c12d506121f88cf9a39723e2d141a75d7705b6a8c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6c7328c155d96756c872740c12d506121f88cf9a39723e2d141a75d7705b6a8c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/70900/Statesville__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "70900",
+  "timestamp": "2026-05-25T00:14:55.149575Z",
+  "version": 1
+}

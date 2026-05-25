@@ -1,0 +1,16 @@
+{
+  "article": "Linville,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/38420/Linville__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "25ce619ed489881a16e43deb0eb0d7f7f982de21e7c0fa1e8aaee47fc691cd73",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "25ce619ed489881a16e43deb0eb0d7f7f982de21e7c0fa1e8aaee47fc691cd73",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/38420/Linville__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "38420",
+  "timestamp": "2026-05-25T00:02:07.833845Z",
+  "version": 1
+}

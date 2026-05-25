@@ -1,0 +1,16 @@
+{
+  "article": "Memphis,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/52960/Memphis__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a2b1b7bef9c9f29a880ac53a0c31cdd9b16d7ccfcad48d9a5c1dca99055f93bd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a2b1b7bef9c9f29a880ac53a0c31cdd9b16d7ccfcad48d9a5c1dca99055f93bd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/52960/Memphis__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "52960",
+  "timestamp": "2026-05-24T23:48:06.071406Z",
+  "version": 1
+}

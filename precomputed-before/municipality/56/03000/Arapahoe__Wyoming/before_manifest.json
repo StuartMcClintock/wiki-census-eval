@@ -1,0 +1,16 @@
+{
+  "article": "Arapahoe,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/03000/Arapahoe__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1ec98c13cc4ea74eb6749c584b1d58234e42659c3c0d8deedbb5b365b6df258a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1ec98c13cc4ea74eb6749c584b1d58234e42659c3c0d8deedbb5b365b6df258a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/03000/Arapahoe__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "03000",
+  "timestamp": "2026-05-25T00:23:07.390580Z",
+  "version": 1
+}

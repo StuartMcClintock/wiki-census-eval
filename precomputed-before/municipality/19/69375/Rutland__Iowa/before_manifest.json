@@ -1,0 +1,16 @@
+{
+  "article": "Rutland,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/69375/Rutland__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ef3dbc77ba064ad3d9f43582e1b9cc5ed05f97794af86783b0f689ec16728ee4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ef3dbc77ba064ad3d9f43582e1b9cc5ed05f97794af86783b0f689ec16728ee4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/69375/Rutland__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "69375",
+  "timestamp": "2026-05-24T23:41:45.337998Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Mount_Taylor,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/50615/Mount_Taylor__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "faab495f3dc8834a2e8ed8290df795965dfe9612a31703bbf15900be123b7e02",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "faab495f3dc8834a2e8ed8290df795965dfe9612a31703bbf15900be123b7e02",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/50615/Mount_Taylor__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "50615",
+  "timestamp": "2026-05-24T23:58:43.207701Z",
+  "version": 1
+}

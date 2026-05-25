@@ -1,0 +1,16 @@
+{
+  "article": "Menan,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/52030/Menan__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "49b585c0994adbfc62913e55a2535f83b90e160b2141a10b5861099c609350ff",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "49b585c0994adbfc62913e55a2535f83b90e160b2141a10b5861099c609350ff",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/52030/Menan__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "52030",
+  "timestamp": "2026-05-24T23:37:24.728585Z",
+  "version": 1
+}

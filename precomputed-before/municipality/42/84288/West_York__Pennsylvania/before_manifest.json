@@ -1,0 +1,16 @@
+{
+  "article": "West_York,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/84288/West_York__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f4dc8ffbb51e927c750a1f9a42ad7d2b6d4e6b0187ebb2c9f57299c088bcd005",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f4dc8ffbb51e927c750a1f9a42ad7d2b6d4e6b0187ebb2c9f57299c088bcd005",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/84288/West_York__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "84288",
+  "timestamp": "2026-05-25T00:09:30.043163Z",
+  "version": 1
+}

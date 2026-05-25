@@ -1,0 +1,16 @@
+{
+  "article": "Beedeville,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/04720/Beedeville__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4694f81f52cbe6223ac4c7424e0392c81f8dd370b32670cf6511a212468de7ad",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4694f81f52cbe6223ac4c7424e0392c81f8dd370b32670cf6511a212468de7ad",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/04720/Beedeville__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "04720",
+  "timestamp": "2026-05-24T23:33:19.981044Z",
+  "version": 1
+}

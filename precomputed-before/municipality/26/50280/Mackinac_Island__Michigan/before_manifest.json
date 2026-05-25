@@ -1,0 +1,16 @@
+{
+  "article": "Mackinac_Island,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/50280/Mackinac_Island__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e1927d2775200f73af026bc243c225287393860cbf3477e2b3bd7d0d7deb6c49",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e1927d2775200f73af026bc243c225287393860cbf3477e2b3bd7d0d7deb6c49",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/50280/Mackinac_Island__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "50280",
+  "timestamp": "2026-05-24T23:48:04.149169Z",
+  "version": 1
+}

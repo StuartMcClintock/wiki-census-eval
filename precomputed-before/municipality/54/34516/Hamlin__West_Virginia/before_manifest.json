@@ -1,0 +1,16 @@
+{
+  "article": "Hamlin,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/34516/Hamlin__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "78762cb4440e3c1dea8a653d68adb802b781b53c96d67e4629fb6dde032a7ec6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "78762cb4440e3c1dea8a653d68adb802b781b53c96d67e4629fb6dde032a7ec6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/34516/Hamlin__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "34516",
+  "timestamp": "2026-05-25T00:21:09.908870Z",
+  "version": 1
+}

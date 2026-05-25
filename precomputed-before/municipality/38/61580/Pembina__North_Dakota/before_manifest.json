@@ -1,0 +1,16 @@
+{
+  "article": "Pembina,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/61580/Pembina__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e2039bf5f0b7048117413c6507bb3c713be5f33101f918f07e74e6f261639c12",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e2039bf5f0b7048117413c6507bb3c713be5f33101f918f07e74e6f261639c12",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/61580/Pembina__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "61580",
+  "timestamp": "2026-05-25T00:03:16.603713Z",
+  "version": 1
+}

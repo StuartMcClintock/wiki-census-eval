@@ -1,0 +1,16 @@
+{
+  "article": "Lincoln_Beach,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/42550/Lincoln_Beach__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2b16726eece2447b23333fa204e72e374e70bb9e9ca288827ac2d62bff3904eb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2b16726eece2447b23333fa204e72e374e70bb9e9ca288827ac2d62bff3904eb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/42550/Lincoln_Beach__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "42550",
+  "timestamp": "2026-05-25T00:05:50.840203Z",
+  "version": 1
+}

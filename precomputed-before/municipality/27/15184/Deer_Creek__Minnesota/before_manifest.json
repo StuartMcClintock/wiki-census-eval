@@ -1,0 +1,16 @@
+{
+  "article": "Deer_Creek,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/15184/Deer_Creek__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fcc3d1cbb6e58c332fe79d93bccaa6626ce16d369c5832c1e6318351937419fb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fcc3d1cbb6e58c332fe79d93bccaa6626ce16d369c5832c1e6318351937419fb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/15184/Deer_Creek__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "15184",
+  "timestamp": "2026-05-24T23:48:48.729193Z",
+  "version": 1
+}

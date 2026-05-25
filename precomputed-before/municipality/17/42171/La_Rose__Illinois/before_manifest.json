@@ -1,0 +1,16 @@
+{
+  "article": "La_Rose,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/42171/La_Rose__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bf84d3602fbedd820f23735b648b6a933e660a847620d91161b6a8887982eb9a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bf84d3602fbedd820f23735b648b6a933e660a847620d91161b6a8887982eb9a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/42171/La_Rose__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "42171",
+  "timestamp": "2026-05-24T23:38:27.785968Z",
+  "version": 1
+}

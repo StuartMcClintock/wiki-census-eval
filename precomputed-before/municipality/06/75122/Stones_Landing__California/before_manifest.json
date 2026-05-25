@@ -1,0 +1,16 @@
+{
+  "article": "Stones_Landing,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/75122/Stones_Landing__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ed6ebede911204f2fa4bdd948c884f1f6bfcab261b25dc541f317b9ada0b3228",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ed6ebede911204f2fa4bdd948c884f1f6bfcab261b25dc541f317b9ada0b3228",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/75122/Stones_Landing__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "75122",
+  "timestamp": "2026-05-24T23:35:07.743906Z",
+  "version": 1
+}

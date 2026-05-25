@@ -1,0 +1,16 @@
+{
+  "article": "Lyndon,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/43350/Lyndon__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "689bf2f01385912c096eb7a7cd77595907a3b9ee63bdc3248d1a9807f5339f3d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "689bf2f01385912c096eb7a7cd77595907a3b9ee63bdc3248d1a9807f5339f3d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/43350/Lyndon__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "43350",
+  "timestamp": "2026-05-24T23:43:06.104703Z",
+  "version": 1
+}

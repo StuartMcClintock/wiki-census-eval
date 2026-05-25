@@ -1,0 +1,16 @@
+{
+  "article": "Sandy_Springs,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/63655/Sandy_Springs__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b92bb549e8f2e8fe9a3015fd3514fbd44c278ee7dcfe8e354ed4fdaee50286a3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b92bb549e8f2e8fe9a3015fd3514fbd44c278ee7dcfe8e354ed4fdaee50286a3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/63655/Sandy_Springs__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "63655",
+  "timestamp": "2026-05-25T00:10:20.742344Z",
+  "version": 1
+}

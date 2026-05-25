@@ -1,0 +1,16 @@
+{
+  "article": "New_Witten,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/45100/New_Witten__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7f5e67e6f9b3b7e405ca0c5d3200b7ac9f099aa4b6ef51827ec873e133fc1a12",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7f5e67e6f9b3b7e405ca0c5d3200b7ac9f099aa4b6ef51827ec873e133fc1a12",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/45100/New_Witten__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "45100",
+  "timestamp": "2026-05-25T00:11:05.139523Z",
+  "version": 1
+}

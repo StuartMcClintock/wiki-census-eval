@@ -1,0 +1,16 @@
+{
+  "article": "Chase_Crossing,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/14995/Chase_Crossing__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2dda5b264fe28faf07687021a4422a7415cd636ffb4681f210fcf0eb15654715",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2dda5b264fe28faf07687021a4422a7415cd636ffb4681f210fcf0eb15654715",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/14995/Chase_Crossing__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "14995",
+  "timestamp": "2026-05-25T00:19:05.561052Z",
+  "version": 1
+}

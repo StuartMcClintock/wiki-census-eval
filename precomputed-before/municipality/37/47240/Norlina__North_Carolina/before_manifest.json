@@ -1,0 +1,16 @@
+{
+  "article": "Norlina,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/47240/Norlina__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dd15d0eca95b0bf3b9f41bd3f33c881085a9fc531b814227e0d3863fbb746f56",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dd15d0eca95b0bf3b9f41bd3f33c881085a9fc531b814227e0d3863fbb746f56",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/47240/Norlina__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "47240",
+  "timestamp": "2026-05-25T00:02:13.570069Z",
+  "version": 1
+}

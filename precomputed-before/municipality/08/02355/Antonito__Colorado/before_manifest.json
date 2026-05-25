@@ -1,0 +1,16 @@
+{
+  "article": "Antonito,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/02355/Antonito__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5f785a84db58ba1cb164f5a3357d8e42d2783520d0ad094551da532465d58bf4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5f785a84db58ba1cb164f5a3357d8e42d2783520d0ad094551da532465d58bf4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/02355/Antonito__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "02355",
+  "timestamp": "2026-05-24T23:35:17.683057Z",
+  "version": 1
+}

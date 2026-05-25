@@ -1,0 +1,16 @@
+{
+  "article": "Woodland_Heights,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/86224/Woodland_Heights__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a87b09f77fdd12e6c70d30b53ac3c569a5b1630a59ba46c552b97fdf647393d0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a87b09f77fdd12e6c70d30b53ac3c569a5b1630a59ba46c552b97fdf647393d0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/86224/Woodland_Heights__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "86224",
+  "timestamp": "2026-05-25T00:09:32.898644Z",
+  "version": 1
+}

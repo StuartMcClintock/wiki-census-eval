@@ -1,0 +1,16 @@
+{
+  "article": "Jaconita,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/34925/Jaconita__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cc8788b537f6920d5e7a531cd63687c4d7aa322716f653b996406d9ae7fd4b09",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cc8788b537f6920d5e7a531cd63687c4d7aa322716f653b996406d9ae7fd4b09",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/34925/Jaconita__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "34925",
+  "timestamp": "2026-05-24T23:58:34.778371Z",
+  "version": 1
+}

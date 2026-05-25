@@ -1,0 +1,16 @@
+{
+  "article": "Heron,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/35875/Heron__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "579b4e063b55d3004a924c3189966ea02bb7c7e1f9087304aa833bd5300107c7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "579b4e063b55d3004a924c3189966ea02bb7c7e1f9087304aa833bd5300107c7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/35875/Heron__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "35875",
+  "timestamp": "2026-05-24T23:54:29.577427Z",
+  "version": 1
+}

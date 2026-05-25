@@ -1,0 +1,16 @@
+{
+  "article": "Milton,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/52500/Milton__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "81ee1baf254c11a7925ebe66bfee373dd4b169a04a32a6056883d2b78f5bdc58",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "81ee1baf254c11a7925ebe66bfee373dd4b169a04a32a6056883d2b78f5bdc58",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/52500/Milton__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "52500",
+  "timestamp": "2026-05-24T23:41:28.460916Z",
+  "version": 1
+}

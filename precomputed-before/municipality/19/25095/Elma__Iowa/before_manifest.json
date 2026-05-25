@@ -1,0 +1,16 @@
+{
+  "article": "Elma,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/25095/Elma__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c79ca5b9fbc1374b7890132826891f45f540c83b8310067144c024b1f4551ef3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c79ca5b9fbc1374b7890132826891f45f540c83b8310067144c024b1f4551ef3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/25095/Elma__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "25095",
+  "timestamp": "2026-05-24T23:40:45.295777Z",
+  "version": 1
+}

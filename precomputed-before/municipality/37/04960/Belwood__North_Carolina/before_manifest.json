@@ -1,0 +1,16 @@
+{
+  "article": "Belwood,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/04960/Belwood__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b03b0e3f594393fa4428e992a8c5f57441cb06a38ad2590a017c8ea2efd78911",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b03b0e3f594393fa4428e992a8c5f57441cb06a38ad2590a017c8ea2efd78911",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/04960/Belwood__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "04960",
+  "timestamp": "2026-05-25T00:01:44.465206Z",
+  "version": 1
+}

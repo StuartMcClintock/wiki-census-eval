@@ -1,0 +1,16 @@
+{
+  "article": "Yosemite_Valley,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/86912/Yosemite_Valley__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "441d32bd6e076ebd8117a54de5924bc67f266f6d4469f2a55a54ac0296d214c1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "441d32bd6e076ebd8117a54de5924bc67f266f6d4469f2a55a54ac0296d214c1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/86912/Yosemite_Valley__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "86912",
+  "timestamp": "2026-05-24T23:35:16.574509Z",
+  "version": 1
+}

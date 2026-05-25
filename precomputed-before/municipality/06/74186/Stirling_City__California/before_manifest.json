@@ -1,0 +1,16 @@
+{
+  "article": "Stirling_City,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/74186/Stirling_City__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d63b9809c6d4d2bd05220a2822feb742358c4d28e7e31834c5ed6b4f66d3169f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d63b9809c6d4d2bd05220a2822feb742358c4d28e7e31834c5ed6b4f66d3169f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/74186/Stirling_City__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "74186",
+  "timestamp": "2026-05-24T23:35:07.637185Z",
+  "version": 1
+}

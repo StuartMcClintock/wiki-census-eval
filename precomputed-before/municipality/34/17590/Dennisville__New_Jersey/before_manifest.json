@@ -1,0 +1,16 @@
+{
+  "article": "Dennisville,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/17590/Dennisville__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f48862c8f7ae0af431e1f64d8d8e55a6161076f691b55d8e8c283423a584566a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f48862c8f7ae0af431e1f64d8d8e55a6161076f691b55d8e8c283423a584566a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/17590/Dennisville__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "17590",
+  "timestamp": "2026-05-24T23:57:45.376863Z",
+  "version": 1
+}

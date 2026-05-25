@@ -1,0 +1,16 @@
+{
+  "article": "Fontana_Dam,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/23980/Fontana_Dam__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4036b465009fd61c71f6c5cca24d2377380bf4fd3e60377f61410f0b66da4caf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4036b465009fd61c71f6c5cca24d2377380bf4fd3e60377f61410f0b66da4caf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/23980/Fontana_Dam__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "23980",
+  "timestamp": "2026-05-25T00:01:56.207325Z",
+  "version": 1
+}

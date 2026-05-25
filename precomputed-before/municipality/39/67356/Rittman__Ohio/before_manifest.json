@@ -1,0 +1,16 @@
+{
+  "article": "Rittman,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/67356/Rittman__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5f372ad5f0803427beaaba2dde74819a02d20e6f697879543ab0fc9d4acb9d7e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5f372ad5f0803427beaaba2dde74819a02d20e6f697879543ab0fc9d4acb9d7e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/67356/Rittman__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "67356",
+  "timestamp": "2026-05-25T00:05:11.367094Z",
+  "version": 1
+}

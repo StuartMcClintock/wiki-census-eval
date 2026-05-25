@@ -1,0 +1,16 @@
+{
+  "article": "Kirby,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/42730/Kirby__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6bf0d334510e7e17655dead4d305c63d1be107e2979e3ddfb160a0da874e39ff",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6bf0d334510e7e17655dead4d305c63d1be107e2979e3ddfb160a0da874e39ff",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/42730/Kirby__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "42730",
+  "timestamp": "2026-05-25T00:23:17.018118Z",
+  "version": 1
+}

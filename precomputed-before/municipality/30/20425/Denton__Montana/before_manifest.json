@@ -1,0 +1,16 @@
+{
+  "article": "Denton,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/20425/Denton__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "40da876a267553d73f8b000d13cf7c8a81a2543ac0d6b64c08d87da58fe038ad",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "40da876a267553d73f8b000d13cf7c8a81a2543ac0d6b64c08d87da58fe038ad",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/20425/Denton__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "20425",
+  "timestamp": "2026-05-24T23:54:21.252790Z",
+  "version": 1
+}

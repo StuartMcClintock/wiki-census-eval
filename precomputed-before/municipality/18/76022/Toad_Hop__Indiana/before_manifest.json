@@ -1,0 +1,16 @@
+{
+  "article": "Toad_Hop,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/76022/Toad_Hop__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "156a854d967572f5039e878e0ab2495d8b76a6e2165b6d648887f71ec161ebcb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "156a854d967572f5039e878e0ab2495d8b76a6e2165b6d648887f71ec161ebcb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/76022/Toad_Hop__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "76022",
+  "timestamp": "2026-05-24T23:40:16.234021Z",
+  "version": 1
+}

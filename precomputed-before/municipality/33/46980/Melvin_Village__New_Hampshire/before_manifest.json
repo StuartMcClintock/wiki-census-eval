@@ -1,0 +1,16 @@
+{
+  "article": "Melvin_Village,_New_Hampshire",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/33/46980/Melvin_Village__New_Hampshire/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7fc8475db5a542bfa9b1c52bf2eddcb4bf366284784fe9b8585be04162feb35f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7fc8475db5a542bfa9b1c52bf2eddcb4bf366284784fe9b8585be04162feb35f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/33/46980/Melvin_Village__New_Hampshire/manifest.json",
+  "state_fips": "33",
+  "status": "match",
+  "target_fips": "46980",
+  "timestamp": "2026-05-24T23:57:36.380904Z",
+  "version": 1
+}

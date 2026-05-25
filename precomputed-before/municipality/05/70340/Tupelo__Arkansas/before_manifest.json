@@ -1,0 +1,16 @@
+{
+  "article": "Tupelo,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/70340/Tupelo__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6bc161fcf82089e2c29840927c3ea88d14205eea4c82c6d1afd4db0032cecf2d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6bc161fcf82089e2c29840927c3ea88d14205eea4c82c6d1afd4db0032cecf2d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/70340/Tupelo__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "70340",
+  "timestamp": "2026-05-24T23:34:11.510301Z",
+  "version": 1
+}

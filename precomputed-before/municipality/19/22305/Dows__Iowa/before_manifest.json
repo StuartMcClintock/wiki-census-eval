@@ -1,0 +1,16 @@
+{
+  "article": "Dows,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/22305/Dows__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a627fb29535e225650557f40976d2f6292c7b518b54cf21f1d718cdd1f997497",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a627fb29535e225650557f40976d2f6292c7b518b54cf21f1d718cdd1f997497",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/22305/Dows__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "22305",
+  "timestamp": "2026-05-24T23:40:42.580105Z",
+  "version": 1
+}

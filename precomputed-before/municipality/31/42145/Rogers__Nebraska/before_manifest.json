@@ -1,0 +1,16 @@
+{
+  "article": "Rogers,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/42145/Rogers__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d0f3b0323f839414f437f23a23e9d6ea62f1d5c4ff281752319296ab48d942f6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d0f3b0323f839414f437f23a23e9d6ea62f1d5c4ff281752319296ab48d942f6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/42145/Rogers__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "42145",
+  "timestamp": "2026-05-24T23:57:13.633219Z",
+  "version": 1
+}

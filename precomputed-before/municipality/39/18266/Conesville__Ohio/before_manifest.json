@@ -1,0 +1,16 @@
+{
+  "article": "Conesville,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/18266/Conesville__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a3409814b0ab1369502827b1198fa85829261ff5e6e4b353ab31805fa2313a17",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a3409814b0ab1369502827b1198fa85829261ff5e6e4b353ab31805fa2313a17",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/18266/Conesville__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "18266",
+  "timestamp": "2026-05-25T00:04:00.705869Z",
+  "version": 1
+}

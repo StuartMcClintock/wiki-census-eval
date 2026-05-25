@@ -1,0 +1,16 @@
+{
+  "article": "Otis,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/53525/Otis__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1e270f6e5b959cabbe4034770ecebb4e6198a7a3efabd9c2d040e5be257a5abe",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1e270f6e5b959cabbe4034770ecebb4e6198a7a3efabd9c2d040e5be257a5abe",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/53525/Otis__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "53525",
+  "timestamp": "2026-05-24T23:43:17.537559Z",
+  "version": 1
+}

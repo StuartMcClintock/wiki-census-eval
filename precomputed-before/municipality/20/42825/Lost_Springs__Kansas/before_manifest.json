@@ -1,0 +1,16 @@
+{
+  "article": "Lost_Springs,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/42825/Lost_Springs__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4b6b10e5bf2b73fc9ef71494f137c68f8b5a072219c6c8d5099458b12f582dbf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4b6b10e5bf2b73fc9ef71494f137c68f8b5a072219c6c8d5099458b12f582dbf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/42825/Lost_Springs__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "42825",
+  "timestamp": "2026-05-24T23:43:05.309709Z",
+  "version": 1
+}

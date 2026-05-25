@@ -1,0 +1,16 @@
+{
+  "article": "Blue_Eye,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/07150/Blue_Eye__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "61bc4ed4052d207959fb312ed29320a442c832631a1faa3dd7e5d6475c37ab9a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "61bc4ed4052d207959fb312ed29320a442c832631a1faa3dd7e5d6475c37ab9a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/07150/Blue_Eye__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "07150",
+  "timestamp": "2026-05-24T23:33:21.645885Z",
+  "version": 1
+}

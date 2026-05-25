@@ -1,0 +1,16 @@
+{
+  "article": "Cedarville,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/11410/Cedarville__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "da59b418cc844813229dcdc5ad879ecceb3bc2f3df93f183d17dbefab193751d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "da59b418cc844813229dcdc5ad879ecceb3bc2f3df93f183d17dbefab193751d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/11410/Cedarville__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "11410",
+  "timestamp": "2026-05-24T23:57:43.160673Z",
+  "version": 1
+}

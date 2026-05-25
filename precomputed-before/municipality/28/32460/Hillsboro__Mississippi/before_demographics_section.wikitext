@@ -1,0 +1,45 @@
+==Demographics==
+{{US Census population
+|2010= 1130
+|2020= 1072
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=http://www.census.gov/prod/www/decennial.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2016}}</ref>
+}}
+
+===2020 census===
+
+{| class="wikitable"
+|+'''Hillsboro racial composition'''<br /> (''NH = Non-Hispanic'')<ref>{{Cite web |title=Explore Census Data |url=https://data.census.gov/cedsci/table?g=1600000US1266725&tid=DECENNIALPL2020.P2 |access-date=2022-03-05 |website=data.census.gov}}</ref>{{efn|Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos can be of any race.<ref>https://www.census.gov/ {{nonspecific|date=August 2022}}</ref><ref>{{cite web |title=About the Hispanic Population and its Origin |url=https://www.census.gov/topics/population/hispanic-origin/about.html |website=www.census.gov |access-date=18 May 2022}}</ref>}}
+!Race
+!Number
+!Percentage
+|-
+|[[Non-Hispanic or Latino whites|White]] (NH)
+|339
+|31.62%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] (NH)
+|645
+|60.17%
+|-
+|[[Asian Americans|Asian]] (NH)
+|1
+|0.09%
+|-
+|Some Other Race (NH)
+|3
+|0.28%
+|-
+|[[Multiracial Americans|Mixed/Multi-Racial]] (NH)
+|34
+|3.17%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]]
+|50
+|4.66%
+|-
+|'''Total'''
+|'''1,072'''
+|
+|}
+As of the [[2020 United States census]], there were 1,072 people, 357 households, and 213 families residing in the CDP.
+

@@ -1,0 +1,16 @@
+{
+  "article": "Wallace,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/83304/Wallace__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "de66fea745e2cd1efb7d472ae2684908b1f36dc4d24a13de497297e760616e2b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "de66fea745e2cd1efb7d472ae2684908b1f36dc4d24a13de497297e760616e2b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/83304/Wallace__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "83304",
+  "timestamp": "2026-05-24T23:35:13.418327Z",
+  "version": 1
+}

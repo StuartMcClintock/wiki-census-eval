@@ -1,0 +1,16 @@
+{
+  "article": "Noble,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/53143/Noble__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "01e68b6800ccf5cc94bf8f5a70265f7ebf8f82dd68699660a50f0c33dc6325d5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "01e68b6800ccf5cc94bf8f5a70265f7ebf8f82dd68699660a50f0c33dc6325d5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/53143/Noble__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "53143",
+  "timestamp": "2026-05-24T23:38:41.173009Z",
+  "version": 1
+}

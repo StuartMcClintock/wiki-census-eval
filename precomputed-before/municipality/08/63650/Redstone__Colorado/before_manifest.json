@@ -1,0 +1,16 @@
+{
+  "article": "Redstone,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/63650/Redstone__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "71d99e750dc136178a52aa71507b14b15b533851f442dfceb0f57129ef526872",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "71d99e750dc136178a52aa71507b14b15b533851f442dfceb0f57129ef526872",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/63650/Redstone__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "63650",
+  "timestamp": "2026-05-24T23:35:38.169164Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Altamont,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/00910/Altamont__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "edd76d8d386981d6ce5f3ca577e3eef7ea9a2e9f31dc817d8e255eb6ff98d550",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "edd76d8d386981d6ce5f3ca577e3eef7ea9a2e9f31dc817d8e255eb6ff98d550",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/00910/Altamont__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "00910",
+  "timestamp": "2026-05-24T23:50:30.942129Z",
+  "version": 1
+}

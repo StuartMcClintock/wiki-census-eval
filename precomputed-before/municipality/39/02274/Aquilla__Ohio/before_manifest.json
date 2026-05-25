@@ -1,0 +1,16 @@
+{
+  "article": "Aquilla,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/02274/Aquilla__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "046ac0e03b13c90bd6939516515aaf38b4112fe4e1d7d655fac94708d43d5914",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "046ac0e03b13c90bd6939516515aaf38b4112fe4e1d7d655fac94708d43d5914",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/02274/Aquilla__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "02274",
+  "timestamp": "2026-05-25T00:03:30.757712Z",
+  "version": 1
+}

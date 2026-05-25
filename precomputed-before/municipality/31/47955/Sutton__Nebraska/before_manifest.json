@@ -1,0 +1,16 @@
+{
+  "article": "Sutton,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/47955/Sutton__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "88d9a5113639a0cd40db1b74f036a8b55c5ffea4ce3be4da35a39479e7816576",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "88d9a5113639a0cd40db1b74f036a8b55c5ffea4ce3be4da35a39479e7816576",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/47955/Sutton__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "47955",
+  "timestamp": "2026-05-24T23:57:19.513234Z",
+  "version": 1
+}

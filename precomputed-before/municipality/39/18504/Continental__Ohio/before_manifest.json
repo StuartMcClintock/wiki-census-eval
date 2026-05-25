@@ -1,0 +1,16 @@
+{
+  "article": "Continental,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/18504/Continental__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4fa6fa77e59813b2c2a1cd78567e95bf6bf5948a91db4d7758572d23307f3bf1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4fa6fa77e59813b2c2a1cd78567e95bf6bf5948a91db4d7758572d23307f3bf1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/18504/Continental__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "18504",
+  "timestamp": "2026-05-25T00:04:01.006830Z",
+  "version": 1
+}

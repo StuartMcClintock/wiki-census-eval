@@ -1,0 +1,16 @@
+{
+  "article": "Sayre,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/68096/Sayre__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "824b77c8425030af5e88d9f5af7ecddcf88e4f34844705087d238763c00d4549",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "824b77c8425030af5e88d9f5af7ecddcf88e4f34844705087d238763c00d4549",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/68096/Sayre__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "68096",
+  "timestamp": "2026-05-25T00:08:57.604426Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Fallon,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/25375/Fallon__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "15172aa0c6f0e2b86a3337745b1fd863efa8f4b20d4b3c6d2201041c818d1d6f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "15172aa0c6f0e2b86a3337745b1fd863efa8f4b20d4b3c6d2201041c818d1d6f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/25375/Fallon__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "25375",
+  "timestamp": "2026-05-24T23:54:23.750447Z",
+  "version": 1
+}

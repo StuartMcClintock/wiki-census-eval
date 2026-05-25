@@ -1,0 +1,16 @@
+{
+  "article": "Flaming_Gorge,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/25910/Flaming_Gorge__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f4bfa4d9b8650175a98499501aa19d1d339d3dbef23032860a8ca4ea2c9d4990",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f4bfa4d9b8650175a98499501aa19d1d339d3dbef23032860a8ca4ea2c9d4990",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/25910/Flaming_Gorge__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "25910",
+  "timestamp": "2026-05-25T00:16:58.114779Z",
+  "version": 1
+}

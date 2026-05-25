@@ -1,0 +1,16 @@
+{
+  "article": "Old_Brownsboro_Place,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/57658/Old_Brownsboro_Place__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "18afee9498554da97708d9d539b2c214edc5645bb741bcfab71d8bdf6027c860",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "18afee9498554da97708d9d539b2c214edc5645bb741bcfab71d8bdf6027c860",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/57658/Old_Brownsboro_Place__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "57658",
+  "timestamp": "2026-05-24T23:44:14.881748Z",
+  "version": 1
+}

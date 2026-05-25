@@ -1,0 +1,16 @@
+{
+  "article": "Custer,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/18700/Custer__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "178fe2a046791b0bd207b5a51f9252d1fbb62e38e91e0f5c1ff767cee0c881ca",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "178fe2a046791b0bd207b5a51f9252d1fbb62e38e91e0f5c1ff767cee0c881ca",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/18700/Custer__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "18700",
+  "timestamp": "2026-05-24T23:54:20.414814Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Vienna,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/67220/Vienna__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cdcf77d056b5db6f9af13ed162f81999c5de896e15110c01a8f40e4730b2adc0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cdcf77d056b5db6f9af13ed162f81999c5de896e15110c01a8f40e4730b2adc0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/67220/Vienna__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "67220",
+  "timestamp": "2026-05-25T00:14:26.886432Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Sweet_Grass,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/73075/Sweet_Grass__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "080827cbaa6e3030f6b12e027524431a8470f5e9d670a8c51a1c7edf6494fe4a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "080827cbaa6e3030f6b12e027524431a8470f5e9d670a8c51a1c7edf6494fe4a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/73075/Sweet_Grass__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "73075",
+  "timestamp": "2026-05-24T23:54:53.537293Z",
+  "version": 1
+}

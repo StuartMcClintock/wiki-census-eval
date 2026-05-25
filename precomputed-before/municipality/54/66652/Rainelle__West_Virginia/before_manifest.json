@@ -1,0 +1,16 @@
+{
+  "article": "Rainelle,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/66652/Rainelle__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "054c555bc89cabbb8d7971b92b14f9dc5d4cf8bc886fd159e4824d8321c3a4db",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "054c555bc89cabbb8d7971b92b14f9dc5d4cf8bc886fd159e4824d8321c3a4db",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/66652/Rainelle__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "66652",
+  "timestamp": "2026-05-25T00:21:22.589126Z",
+  "version": 1
+}

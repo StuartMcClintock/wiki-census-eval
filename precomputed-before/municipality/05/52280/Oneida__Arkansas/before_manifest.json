@@ -1,0 +1,16 @@
+{
+  "article": "Oneida,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/52280/Oneida__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "488246cf4110b9cc90ea18984f5e149d917e7a30f72ab49f6392ceb77c8a1702",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "488246cf4110b9cc90ea18984f5e149d917e7a30f72ab49f6392ceb77c8a1702",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/52280/Oneida__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "52280",
+  "timestamp": "2026-05-24T23:34:01.844476Z",
+  "version": 1
+}

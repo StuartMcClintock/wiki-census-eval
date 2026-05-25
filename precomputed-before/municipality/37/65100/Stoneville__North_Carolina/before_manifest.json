@@ -1,0 +1,16 @@
+{
+  "article": "Stoneville,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/65100/Stoneville__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "450528bb74c5d8f884a6f371598f11bda7efc247f7cf90e29c5d0d21c1f3e933",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "450528bb74c5d8f884a6f371598f11bda7efc247f7cf90e29c5d0d21c1f3e933",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/65100/Stoneville__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "65100",
+  "timestamp": "2026-05-25T00:02:25.289485Z",
+  "version": 1
+}

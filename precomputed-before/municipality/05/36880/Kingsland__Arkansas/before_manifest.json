@@ -1,0 +1,16 @@
+{
+  "article": "Kingsland,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/36880/Kingsland__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e0b14081078644c6036c57edb4035460508b6afbcd89a1e95f13e492ab471ff2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e0b14081078644c6036c57edb4035460508b6afbcd89a1e95f13e492ab471ff2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/36880/Kingsland__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "36880",
+  "timestamp": "2026-05-24T23:33:49.074805Z",
+  "version": 1
+}

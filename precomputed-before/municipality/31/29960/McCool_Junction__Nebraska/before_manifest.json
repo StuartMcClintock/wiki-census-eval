@@ -1,0 +1,16 @@
+{
+  "article": "McCool_Junction,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/29960/McCool_Junction__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0d5b58d7cc02f5866257dd3fcf2dfbee4bab6598ef711f8a38f36846112e601a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0d5b58d7cc02f5866257dd3fcf2dfbee4bab6598ef711f8a38f36846112e601a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/29960/McCool_Junction__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "29960",
+  "timestamp": "2026-05-24T23:55:50.559616Z",
+  "version": 1
+}

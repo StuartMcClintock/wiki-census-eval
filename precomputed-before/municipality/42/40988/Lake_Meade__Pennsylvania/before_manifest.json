@@ -1,0 +1,16 @@
+{
+  "article": "Lake_Meade,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/40988/Lake_Meade__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5a8a8edde67cc075b23d2e14212040c8152a32b068995d038037f42244245706",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5a8a8edde67cc075b23d2e14212040c8152a32b068995d038037f42244245706",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/40988/Lake_Meade__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "40988",
+  "timestamp": "2026-05-25T00:07:47.153522Z",
+  "version": 1
+}

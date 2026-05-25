@@ -1,0 +1,16 @@
+{
+  "article": "Manilla,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/48855/Manilla__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d4c58f421d0a4a3babc6750278f2819a23e610adcd46fa9f146135319fd8e062",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d4c58f421d0a4a3babc6750278f2819a23e610adcd46fa9f146135319fd8e062",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/48855/Manilla__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "48855",
+  "timestamp": "2026-05-24T23:41:24.865309Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Long_Hollow,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/38760/Long_Hollow__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f0aac36d6f8bc8285f4d3f82835b10bf2cdf8781e27413edd5a02634fc96a502",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f0aac36d6f8bc8285f4d3f82835b10bf2cdf8781e27413edd5a02634fc96a502",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/38760/Long_Hollow__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "38760",
+  "timestamp": "2026-05-25T00:11:01.461334Z",
+  "version": 1
+}

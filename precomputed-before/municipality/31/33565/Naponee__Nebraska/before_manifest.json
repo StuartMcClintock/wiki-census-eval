@@ -1,0 +1,16 @@
+{
+  "article": "Naponee,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/33565/Naponee__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8b691472cbbcb14df405c0eb24df19826e7187f518beaa97c8404b45261fdfbb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8b691472cbbcb14df405c0eb24df19826e7187f518beaa97c8404b45261fdfbb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/33565/Naponee__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "33565",
+  "timestamp": "2026-05-24T23:55:54.810499Z",
+  "version": 1
+}

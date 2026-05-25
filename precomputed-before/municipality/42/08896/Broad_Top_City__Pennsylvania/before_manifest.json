@@ -1,0 +1,16 @@
+{
+  "article": "Broad_Top_City,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/08896/Broad_Top_City__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a855ffcf2cb0ad4fc6730acc8b8f7c52ab11fcd6a7efdfcb01099796c07a9c01",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a855ffcf2cb0ad4fc6730acc8b8f7c52ab11fcd6a7efdfcb01099796c07a9c01",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/08896/Broad_Top_City__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "08896",
+  "timestamp": "2026-05-25T00:06:21.856902Z",
+  "version": 1
+}

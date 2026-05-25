@@ -1,0 +1,16 @@
+{
+  "article": "Olney_Springs,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/55705/Olney_Springs__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0d9eb14d42bab2171717e9f6db25ada5869e4b6d6ab633f7812b1365ec08e49e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0d9eb14d42bab2171717e9f6db25ada5869e4b6d6ab633f7812b1365ec08e49e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/55705/Olney_Springs__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "55705",
+  "timestamp": "2026-05-24T23:35:35.510315Z",
+  "version": 1
+}

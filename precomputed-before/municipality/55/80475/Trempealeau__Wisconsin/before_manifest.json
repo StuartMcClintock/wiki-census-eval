@@ -1,0 +1,16 @@
+{
+  "article": "Trempealeau,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/80475/Trempealeau__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "38305155837c819e3ad4629e644d0f06156a87caf325f149d96030b7884f1e6c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "38305155837c819e3ad4629e644d0f06156a87caf325f149d96030b7884f1e6c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/80475/Trempealeau__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "80475",
+  "timestamp": "2026-05-25T00:22:47.933875Z",
+  "version": 1
+}

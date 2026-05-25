@@ -1,0 +1,16 @@
+{
+  "article": "O'Kean,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/51500/O_Kean__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ccfce562daaab10e92e95a349d86d5f78d6d446527b49c13f89b99dcba0e6d6f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ccfce562daaab10e92e95a349d86d5f78d6d446527b49c13f89b99dcba0e6d6f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/51500/O_Kean__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "51500",
+  "timestamp": "2026-05-24T23:34:01.422820Z",
+  "version": 1
+}

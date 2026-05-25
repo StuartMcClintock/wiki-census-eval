@@ -1,0 +1,16 @@
+{
+  "article": "Frytown,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/29325/Frytown__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "78a21e614311dfe2ba8fc5709a02435b917d95d4610fbea917212dfd8a03e9ee",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "78a21e614311dfe2ba8fc5709a02435b917d95d4610fbea917212dfd8a03e9ee",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/29325/Frytown__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "29325",
+  "timestamp": "2026-05-24T23:41:03.690645Z",
+  "version": 1
+}

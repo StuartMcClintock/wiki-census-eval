@@ -1,0 +1,16 @@
+{
+  "article": "Dakota,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/14518/Dakota__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2b2284d334462b0e8e5a89cf099fe3667a9ab74d3771984460478a197f96141c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2b2284d334462b0e8e5a89cf099fe3667a9ab74d3771984460478a197f96141c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/14518/Dakota__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "14518",
+  "timestamp": "2026-05-24T23:48:47.816092Z",
+  "version": 1
+}

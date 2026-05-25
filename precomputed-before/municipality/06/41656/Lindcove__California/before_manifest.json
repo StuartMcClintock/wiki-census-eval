@@ -1,0 +1,16 @@
+{
+  "article": "Lindcove,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/41656/Lindcove__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "eff54fc3dae6f54aaf739afe8f8651a2048663d64bbe61b7689227c6619cecc7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "eff54fc3dae6f54aaf739afe8f8651a2048663d64bbe61b7689227c6619cecc7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/41656/Lindcove__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "41656",
+  "timestamp": "2026-05-24T23:34:34.430976Z",
+  "version": 1
+}

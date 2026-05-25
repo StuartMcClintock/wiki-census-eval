@@ -1,0 +1,16 @@
+{
+  "article": "Dendron,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/22160/Dendron__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "84ac8d808a9a7c3e64401e141c7035ce3e6a7fb62434d3a502e3ab33e0b349e6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "84ac8d808a9a7c3e64401e141c7035ce3e6a7fb62434d3a502e3ab33e0b349e6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/22160/Dendron__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "22160",
+  "timestamp": "2026-05-25T00:19:08.997404Z",
+  "version": 1
+}

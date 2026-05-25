@@ -1,0 +1,16 @@
+{
+  "article": "Harmony,_Rhode_Island",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/44/33040/Harmony__Rhode_Island/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dd4a6f25d95f9540a7c6e1b6d0545e67128ce211eaf3fd43f6357179ba7d1504",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dd4a6f25d95f9540a7c6e1b6d0545e67128ce211eaf3fd43f6357179ba7d1504",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/44/33040/Harmony__Rhode_Island/manifest.json",
+  "state_fips": "44",
+  "status": "match",
+  "target_fips": "33040",
+  "timestamp": "2026-05-25T00:09:36.864118Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Osage,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/58680/Osage__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "24021dcf49b1986de9d0239300a4028ff8abbf767b14485ee78b305b3c17037c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "24021dcf49b1986de9d0239300a4028ff8abbf767b14485ee78b305b3c17037c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/58680/Osage__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "58680",
+  "timestamp": "2026-05-25T00:23:20.393303Z",
+  "version": 1
+}

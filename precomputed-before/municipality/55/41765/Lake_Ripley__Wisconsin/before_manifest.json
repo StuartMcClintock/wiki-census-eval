@@ -1,0 +1,16 @@
+{
+  "article": "Lake_Ripley,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/41765/Lake_Ripley__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b56ebff949bbf1100ee4be7d42abb9a826817c024fffb1ce0a99767be72e2717",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b56ebff949bbf1100ee4be7d42abb9a826817c024fffb1ce0a99767be72e2717",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/41765/Lake_Ripley__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "41765",
+  "timestamp": "2026-05-25T00:22:18.725254Z",
+  "version": 1
+}

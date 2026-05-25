@@ -1,0 +1,16 @@
+{
+  "article": "Eagle_Harbor,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/23600/Eagle_Harbor__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "58f83d9080441524d6f127627bb80b32b8024687c104d1656ed92f9145704dc1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "58f83d9080441524d6f127627bb80b32b8024687c104d1656ed92f9145704dc1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/23600/Eagle_Harbor__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "23600",
+  "timestamp": "2026-05-24T23:47:52.538075Z",
+  "version": 1
+}

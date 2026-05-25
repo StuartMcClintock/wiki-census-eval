@@ -1,0 +1,16 @@
+{
+  "article": "Irwin,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/37803/Irwin__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f699ee25f4ef3fdbf9b8cfc49cad501d552217ca8643250243e268a664b33e97",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f699ee25f4ef3fdbf9b8cfc49cad501d552217ca8643250243e268a664b33e97",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/37803/Irwin__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "37803",
+  "timestamp": "2026-05-24T23:38:23.164496Z",
+  "version": 1
+}

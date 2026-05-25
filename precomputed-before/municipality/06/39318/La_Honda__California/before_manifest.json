@@ -1,0 +1,16 @@
+{
+  "article": "La_Honda,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/39318/La_Honda__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9a7ae19a06ae376ea95fdc9786f64d459474a14404c10cc409cc20bdf5c8c392",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9a7ae19a06ae376ea95fdc9786f64d459474a14404c10cc409cc20bdf5c8c392",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/39318/La_Honda__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "39318",
+  "timestamp": "2026-05-24T23:34:32.231800Z",
+  "version": 1
+}

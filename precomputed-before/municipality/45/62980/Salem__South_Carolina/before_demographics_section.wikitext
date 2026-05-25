@@ -1,0 +1,20 @@
+==Demographics==
+{{US Census population
+|align = left
+|1910= 139
+|1960= 206
+|1970= 301
+|1980= 194
+|1990= 192
+|2000= 126
+|2010= 135
+|2020= 120
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2015}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A45|title=Census Population API|publisher=United States Census Bureau|accessdate=October 15, 2022}}</ref>
+}}
+At the [[2000 United States census|2000 census]] there were 126 people, 54 households, and 36 families in the town. The population density was {{convert|150.5|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 72 housing units at an average density of {{convert|86.0|/sqmi|/km2|sp=us|adj=off}}.  The [[Race and ethnicity in the United States Census#2000 census|racial makeup]] of the town was 95.24% White, 0.79% African American and 3.97% Native American.<ref name="GR2" />
+Of the 54 households 31.5% had children under the age of 18 living with them, 59.3% were married couples living together, 7.4% had a female householder with no husband present, and 33.3% were non-families. 31.5% of households were one person and 22.2% were one person aged 65 or older. The average household size was 2.33 and the average family size was 2.94.
+
+The age distribution was 23.8% under the age of 18, 7.9% from 18 to 24, 27.8% from 25 to 44, 18.3% from 45 to 64, and 22.2% 65 or older. The median age was 40 years. For every 100 females, there were 85.3 males. For every 100 females age 18 and over, there were 77.8 males.
+
+The median household income was $30,000 and the median family income was $33,125. Males had a median income of $35,000 versus $26,667 for females. The per capita income for the town was $14,980. There were 9.7% of families and 12.5% of the population living below the [[poverty line]], including 11.1% of under eighteens and 18.8% of those over 64.
+

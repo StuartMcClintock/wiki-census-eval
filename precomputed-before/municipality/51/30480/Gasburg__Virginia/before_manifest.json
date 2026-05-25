@@ -1,0 +1,16 @@
+{
+  "article": "Gasburg,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/30480/Gasburg__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f6ba343eaa45352978f8a2421a04f9faa2b89b3bed3f457467d8e0cf49224cd2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f6ba343eaa45352978f8a2421a04f9faa2b89b3bed3f457467d8e0cf49224cd2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/30480/Gasburg__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "30480",
+  "timestamp": "2026-05-25T00:19:14.221388Z",
+  "version": 1
+}

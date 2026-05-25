@@ -1,0 +1,16 @@
+{
+  "article": "Ashley,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/03540/Ashley__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "acb6de68d3e132ff1203fd2e0ad094af5cb62bf8c6f4bbbf1c06acf405143a7c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "acb6de68d3e132ff1203fd2e0ad094af5cb62bf8c6f4bbbf1c06acf405143a7c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/03540/Ashley__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "03540",
+  "timestamp": "2026-05-25T00:02:32.994502Z",
+  "version": 1
+}

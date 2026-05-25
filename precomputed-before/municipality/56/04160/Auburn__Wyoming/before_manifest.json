@@ -1,0 +1,16 @@
+{
+  "article": "Auburn,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/04160/Auburn__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dc3cab7322ea797cf2795496c9288bc1f19ae4734dd9ce9c7059508798c524fb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dc3cab7322ea797cf2795496c9288bc1f19ae4734dd9ce9c7059508798c524fb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/04160/Auburn__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "04160",
+  "timestamp": "2026-05-25T00:23:07.981396Z",
+  "version": 1
+}

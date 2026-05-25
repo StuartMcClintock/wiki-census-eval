@@ -1,0 +1,16 @@
+{
+  "article": "Rock_Island_Arsenal,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/65104/Rock_Island_Arsenal__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "eb2c8c01abde90ad378f61c8643d8e581a3a65e0a240fa27914ff94196a3610e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "eb2c8c01abde90ad378f61c8643d8e581a3a65e0a240fa27914ff94196a3610e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/65104/Rock_Island_Arsenal__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "65104",
+  "timestamp": "2026-05-24T23:39:07.040722Z",
+  "version": 1
+}

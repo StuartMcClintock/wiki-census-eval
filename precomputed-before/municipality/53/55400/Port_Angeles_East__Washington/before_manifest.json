@@ -1,0 +1,16 @@
+{
+  "article": "Port_Angeles_East,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/55400/Port_Angeles_East__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dd6f81da6576cd0370c503ff1aebece93af8c1c9801a2054e6b5a83b298ba5d5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dd6f81da6576cd0370c503ff1aebece93af8c1c9801a2054e6b5a83b298ba5d5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/55400/Port_Angeles_East__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "55400",
+  "timestamp": "2026-05-25T00:20:28.437098Z",
+  "version": 1
+}

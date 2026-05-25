@@ -1,0 +1,16 @@
+{
+  "article": "Steele_City,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/47010/Steele_City__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6bd1608b7b7cd54be3bf1ee5ab1ec577336d502e002ed10ed4d5b7766d1d1b14",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6bd1608b7b7cd54be3bf1ee5ab1ec577336d502e002ed10ed4d5b7766d1d1b14",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/47010/Steele_City__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "47010",
+  "timestamp": "2026-05-24T23:57:17.807133Z",
+  "version": 1
+}

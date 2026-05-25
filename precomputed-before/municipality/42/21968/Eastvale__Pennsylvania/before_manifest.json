@@ -1,0 +1,16 @@
+{
+  "article": "Eastvale,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/21968/Eastvale__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ddca064de49228e0c1aa5b10296f0958c43234c3307795407e07f513286bdafa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ddca064de49228e0c1aa5b10296f0958c43234c3307795407e07f513286bdafa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/21968/Eastvale__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "21968",
+  "timestamp": "2026-05-25T00:07:00.591841Z",
+  "version": 1
+}

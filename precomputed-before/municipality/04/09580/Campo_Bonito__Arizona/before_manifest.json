@@ -1,0 +1,16 @@
+{
+  "article": "Campo_Bonito,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/09580/Campo_Bonito__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2736f1c5f2a55dff293578845156645ef73a882ef51de8ac31e6382d460c1e6d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2736f1c5f2a55dff293578845156645ef73a882ef51de8ac31e6382d460c1e6d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/09580/Campo_Bonito__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "09580",
+  "timestamp": "2026-05-24T23:32:49.689941Z",
+  "version": 1
+}

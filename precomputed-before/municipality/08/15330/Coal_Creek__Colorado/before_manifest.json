@@ -1,0 +1,16 @@
+{
+  "article": "Coal_Creek,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/15330/Coal_Creek__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4d55c04af3e5ea455c60ef3ebeb92c6363b1a99249f7e7883f10f1a3893d60ef",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4d55c04af3e5ea455c60ef3ebeb92c6363b1a99249f7e7883f10f1a3893d60ef",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/15330/Coal_Creek__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "15330",
+  "timestamp": "2026-05-24T23:35:21.651317Z",
+  "version": 1
+}

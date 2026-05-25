@@ -1,0 +1,16 @@
+{
+  "article": "Evergreen_Colony,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/20208/Evergreen_Colony__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2f47e9c60ce6eb69e100ad2003791fccc0a4d1cc7f7dc1ba5b192bc6020d377a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2f47e9c60ce6eb69e100ad2003791fccc0a4d1cc7f7dc1ba5b192bc6020d377a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/20208/Evergreen_Colony__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "20208",
+  "timestamp": "2026-05-25T00:10:37.585718Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Sandia_Park,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/66960/Sandia_Park__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aa96ee0c652e6e8e435816879b0d06c702f8eddb12ae542a099af8213e28c71f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aa96ee0c652e6e8e435816879b0d06c702f8eddb12ae542a099af8213e28c71f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/66960/Sandia_Park__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "66960",
+  "timestamp": "2026-05-24T23:58:52.642648Z",
+  "version": 1
+}

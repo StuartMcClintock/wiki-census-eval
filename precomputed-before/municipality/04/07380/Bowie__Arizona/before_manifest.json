@@ -1,0 +1,16 @@
+{
+  "article": "Bowie,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/07380/Bowie__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4e18cce33e8be419d6b8139829b18fe152d174943e1076e842afa894433a45ab",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4e18cce33e8be419d6b8139829b18fe152d174943e1076e842afa894433a45ab",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/07380/Bowie__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "07380",
+  "timestamp": "2026-05-24T23:32:49.018057Z",
+  "version": 1
+}

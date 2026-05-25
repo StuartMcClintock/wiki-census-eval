@@ -1,0 +1,16 @@
+{
+  "article": "Bellfountain,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/05700/Bellfountain__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9a7b57de205e4579a34b1477df2def06b0f39a2fab2f94c14f9982407fb112f5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9a7b57de205e4579a34b1477df2def06b0f39a2fab2f94c14f9982407fb112f5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/05700/Bellfountain__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "05700",
+  "timestamp": "2026-05-25T00:05:43.181722Z",
+  "version": 1
+}

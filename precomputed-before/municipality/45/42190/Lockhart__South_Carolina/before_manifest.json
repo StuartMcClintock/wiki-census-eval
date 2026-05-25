@@ -1,0 +1,16 @@
+{
+  "article": "Lockhart,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/42190/Lockhart__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bef834f284759f4a0809bce08643aeb177a4321b9177a730bf95d9fae3b978f9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bef834f284759f4a0809bce08643aeb177a4321b9177a730bf95d9fae3b978f9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/42190/Lockhart__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "42190",
+  "timestamp": "2026-05-25T00:10:11.060389Z",
+  "version": 1
+}

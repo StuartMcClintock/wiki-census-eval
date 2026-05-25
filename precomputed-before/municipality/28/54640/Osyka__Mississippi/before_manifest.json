@@ -1,0 +1,16 @@
+{
+  "article": "Osyka,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/54640/Osyka__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9d9ecfbeae0dc28802252f63970779db1f4886c7d5ed0a6ea3be9cedab937150",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9d9ecfbeae0dc28802252f63970779db1f4886c7d5ed0a6ea3be9cedab937150",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/54640/Osyka__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "54640",
+  "timestamp": "2026-05-24T23:50:18.949580Z",
+  "version": 1
+}

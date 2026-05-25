@@ -1,0 +1,16 @@
+{
+  "article": "Napeague,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/49424/Napeague__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "692bdd36b43c5ed74503b2d3b28111c3535dd37e51f6e171c0ec70c25c0d58b7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "692bdd36b43c5ed74503b2d3b28111c3535dd37e51f6e171c0ec70c25c0d58b7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/49424/Napeague__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "49424",
+  "timestamp": "2026-05-25T00:00:56.152659Z",
+  "version": 1
+}

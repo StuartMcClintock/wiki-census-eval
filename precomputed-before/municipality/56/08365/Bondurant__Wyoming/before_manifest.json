@@ -1,0 +1,16 @@
+{
+  "article": "Bondurant,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/08365/Bondurant__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "62e9d60045900f2ac3cabe2467172e36819c1bda485e0cc479948e73672ef0d8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "62e9d60045900f2ac3cabe2467172e36819c1bda485e0cc479948e73672ef0d8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/08365/Bondurant__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "08365",
+  "timestamp": "2026-05-25T00:23:09.205479Z",
+  "version": 1
+}

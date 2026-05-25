@@ -1,0 +1,16 @@
+{
+  "article": "North_Omak,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/50007/North_Omak__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a6fd10637efcbecaca019f603afd55910201ecd4c99b8304f25f419814bd3756",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a6fd10637efcbecaca019f603afd55910201ecd4c99b8304f25f419814bd3756",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/50007/North_Omak__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "50007",
+  "timestamp": "2026-05-25T00:20:25.413551Z",
+  "version": 1
+}

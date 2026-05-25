@@ -1,0 +1,16 @@
+{
+  "article": "Arlington,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/02044/Arlington__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "76ac8196bf69b8b7e781c2236672007c2fe891131f4ac6c8478ad977e1fb0ddb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "76ac8196bf69b8b7e781c2236672007c2fe891131f4ac6c8478ad977e1fb0ddb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/02044/Arlington__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "02044",
+  "timestamp": "2026-05-24T23:43:41.155952Z",
+  "version": 1
+}

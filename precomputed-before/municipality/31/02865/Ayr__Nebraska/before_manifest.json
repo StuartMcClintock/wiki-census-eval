@@ -1,0 +1,16 @@
+{
+  "article": "Ayr,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/02865/Ayr__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "84567680795306fb905c106e7c8e1db9dd9423b3c6b45323e34106a786fdc5e2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "84567680795306fb905c106e7c8e1db9dd9423b3c6b45323e34106a786fdc5e2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/02865/Ayr__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "02865",
+  "timestamp": "2026-05-24T23:55:09.682377Z",
+  "version": 1
+}

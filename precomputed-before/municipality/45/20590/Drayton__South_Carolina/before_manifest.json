@@ -1,0 +1,16 @@
+{
+  "article": "Drayton,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/20590/Drayton__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7222871c2374e15b857fca7b0c85dfb3bdc4b9769e0ec61c3387248d88566c30",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7222871c2374e15b857fca7b0c85dfb3bdc4b9769e0ec61c3387248d88566c30",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/20590/Drayton__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "20590",
+  "timestamp": "2026-05-25T00:10:00.610639Z",
+  "version": 1
+}

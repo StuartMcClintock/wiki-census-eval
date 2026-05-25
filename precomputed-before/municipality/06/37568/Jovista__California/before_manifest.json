@@ -1,0 +1,16 @@
+{
+  "article": "Jovista,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/37568/Jovista__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "246e739ff1c3cfa27a3aec8bc306ba379988bf91df3d52007ba9e722e5068be9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "246e739ff1c3cfa27a3aec8bc306ba379988bf91df3d52007ba9e722e5068be9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/37568/Jovista__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "37568",
+  "timestamp": "2026-05-24T23:34:30.675001Z",
+  "version": 1
+}

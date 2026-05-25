@@ -1,0 +1,16 @@
+{
+  "article": "Leawood,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/41132/Leawood__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a0660b9b1f560edef7c0818ee0d9a43eca06362b5d51974fc703acbd5a5b51af",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a0660b9b1f560edef7c0818ee0d9a43eca06362b5d51974fc703acbd5a5b51af",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/41132/Leawood__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "41132",
+  "timestamp": "2026-05-24T23:53:27.116892Z",
+  "version": 1
+}

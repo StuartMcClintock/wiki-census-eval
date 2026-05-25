@@ -1,0 +1,16 @@
+{
+  "article": "Harleysville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/32616/Harleysville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e100f2f4e70fda772fc38156fa1fe9f28e0e01505da0cb49244c6fe8c4182451",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e100f2f4e70fda772fc38156fa1fe9f28e0e01505da0cb49244c6fe8c4182451",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/32616/Harleysville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "32616",
+  "timestamp": "2026-05-25T00:07:21.852262Z",
+  "version": 1
+}

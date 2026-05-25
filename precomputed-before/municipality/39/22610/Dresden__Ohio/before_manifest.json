@@ -1,0 +1,16 @@
+{
+  "article": "Dresden,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/22610/Dresden__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "22687bbbf317b8bcc14dbced67e4aec9b6b6c5176686d2f552da21accc853f29",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "22687bbbf317b8bcc14dbced67e4aec9b6b6c5176686d2f552da21accc853f29",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/22610/Dresden__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "22610",
+  "timestamp": "2026-05-25T00:04:04.958484Z",
+  "version": 1
+}

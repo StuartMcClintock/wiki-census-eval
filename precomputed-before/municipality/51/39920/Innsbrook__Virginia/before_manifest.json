@@ -1,0 +1,16 @@
+{
+  "article": "Innsbrook,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/39920/Innsbrook__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8eb345a5826e05ee8a3cac21ea46a3acc0fa3c12f585bf4ed7b20c6cd129203b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8eb345a5826e05ee8a3cac21ea46a3acc0fa3c12f585bf4ed7b20c6cd129203b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/39920/Innsbrook__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "39920",
+  "timestamp": "2026-05-25T00:19:18.957240Z",
+  "version": 1
+}

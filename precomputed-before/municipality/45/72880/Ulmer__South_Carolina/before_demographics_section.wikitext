@@ -1,0 +1,56 @@
+==Demographics==
+{{US Census population
+|1900= 150
+|1910= 190
+|1920= 186
+|1930= 199
+|1940= 169
+|1950= 139
+|1960= 168
+|1970= 109
+|1980= 91
+|1990= 90
+|2000= 102
+|2010= 88
+|2020= 65
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|access-date=June 4, 2015}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A45|title=Census Population API|publisher=United States Census Bureau|accessdate=October 15, 2022}}</ref>
+}}
+
+===2020 census===
+{| class="wikitable"
+|+'''Ulmer racial composition'''<br> (Hispanics excluded from racial categories)<br> (''NH = Non-Hispanic'')<ref>{{Cite web|title=Explore Census Data|url=https://data.census.gov/cedsci/table?g=1600000US4572880&tid=DECENNIALPL2020.P2|access-date=February 24, 2022|website=data.census.gov}}</ref>
+!Race
+!Number
+!Percentage
+|-
+|[[Non-Hispanic or Latino whites|White]] (NH)
+|39
+|60.0%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] (NH)
+|23
+|35.38%
+|-
+|[[Multiracial Americans|Mixed/Multi-Racial]] (NH)
+|2
+|3.08%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]]
+|1
+|1.54%
+|-
+|'''Total'''
+|'''65'''
+|
+|}
+As of the [[2020 United States census]], there were 65 people, 23 households, and 8 families residing in the town.
+
+===2000 census===
+As of the [[census]]<ref name="GR2" /> of 2000, there were 102 people, 40 households, and 27 families living in the town. The population density was {{convert|103.9|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 54 housing units at an average density of {{convert|55.0|/sqmi|/km2|sp=us|adj=off}}. The racial makeup of the town was 85.29% [[White (U.S. Census)|White]], 11.76% [[African American (U.S. Census)|African American]], 1.96% [[Native American (U.S. Census)|Native American]], and 0.98% from two or more races.
+
+There were 40 households, out of which 32.5% had children under the age of 18 living with them, 60.0% were [[Marriage|married couples]] living together, 2.5% had a female householder with no husband present, and 32.5% were non-families. 27.5% of all households were made up of individuals, and 17.5% had someone living alone who was 65 years of age or older. The average household size was 2.55 and the average family size was 3.22.
+
+In the town, the population was spread out, with 31.4% under the age of 18, 2.9% from 18 to 24, 28.4% from 25 to 44, 21.6% from 45 to 64, and 15.7% who were 65 years of age or older. The median age was 38 years. For every 100 females, there were 96.2 males. For every 100 females age 18 and over, there were 94.4 males.
+
+The median income for a household in the town was $33,750, and the median income for a family was $53,333. Males had a median income of $26,667 versus $26,750 for females. The [[per capita income]] for the town was $16,363. There were 11.5% of families and 11.5% of the population living below the [[poverty line]], including no under eighteens and 41.7% of those over 64.
+

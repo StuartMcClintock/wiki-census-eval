@@ -1,0 +1,16 @@
+{
+  "article": "Leonard,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/45980/Leonard__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a77b636e143a666dbad91114414fefad1be5ed2657654a636678f00e2f02c4ff",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a77b636e143a666dbad91114414fefad1be5ed2657654a636678f00e2f02c4ff",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/45980/Leonard__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "45980",
+  "timestamp": "2026-05-25T00:03:08.657449Z",
+  "version": 1
+}

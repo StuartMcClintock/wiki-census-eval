@@ -1,0 +1,16 @@
+{
+  "article": "Mitchellville,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/46190/Mitchellville__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d92572c96fd9c937564915efa4f5ad41440b378362de22d858e0ea22b855b30b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d92572c96fd9c937564915efa4f5ad41440b378362de22d858e0ea22b855b30b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/46190/Mitchellville__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "46190",
+  "timestamp": "2026-05-24T23:33:53.388189Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Ocean,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/58215/Ocean__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f27e26bca16aa5b542cb0786db46be736d901fc2834783012cf3b6aab83a0d66",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f27e26bca16aa5b542cb0786db46be736d901fc2834783012cf3b6aab83a0d66",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/58215/Ocean__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "58215",
+  "timestamp": "2026-05-24T23:47:29.781061Z",
+  "version": 1
+}

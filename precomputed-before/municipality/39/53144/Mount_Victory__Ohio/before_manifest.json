@@ -1,0 +1,16 @@
+{
+  "article": "Mount_Victory,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/53144/Mount_Victory__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "953e36f8d25e24276761cc1005a4ca56206c1f68b9d498e3b7888efb434c5d3d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "953e36f8d25e24276761cc1005a4ca56206c1f68b9d498e3b7888efb434c5d3d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/53144/Mount_Victory__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "53144",
+  "timestamp": "2026-05-25T00:04:49.607692Z",
+  "version": 1
+}

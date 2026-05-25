@@ -1,0 +1,16 @@
+{
+  "article": "Vernon_Center,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/66910/Vernon_Center__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3529e93babaf84ee8bc79b6fc261b4574ba34d529ceb912e5851ffea600a00b3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3529e93babaf84ee8bc79b6fc261b4574ba34d529ceb912e5851ffea600a00b3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/66910/Vernon_Center__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "66910",
+  "timestamp": "2026-05-24T23:49:51.039323Z",
+  "version": 1
+}

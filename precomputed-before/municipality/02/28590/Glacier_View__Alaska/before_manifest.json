@@ -1,0 +1,16 @@
+{
+  "article": "Glacier_View,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/28590/Glacier_View__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bc5aa3955e07acb4cf2519f6386b7351ba245c4155fbd229b2b11f2bd84fe1dc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bc5aa3955e07acb4cf2519f6386b7351ba245c4155fbd229b2b11f2bd84fe1dc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/28590/Glacier_View__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "28590",
+  "timestamp": "2026-05-24T23:32:22.379404Z",
+  "version": 1
+}

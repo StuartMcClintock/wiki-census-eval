@@ -1,0 +1,16 @@
+{
+  "article": "Fremont,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/27270/Fremont__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "51414329bf641ed4780815b59ddf7aad699a0a976e926f944bde978a72e9b36a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "51414329bf641ed4780815b59ddf7aad699a0a976e926f944bde978a72e9b36a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/27270/Fremont__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "27270",
+  "timestamp": "2026-05-25T00:17:00.423330Z",
+  "version": 1
+}

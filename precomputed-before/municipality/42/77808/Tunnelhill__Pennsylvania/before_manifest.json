@@ -1,0 +1,16 @@
+{
+  "article": "Tunnelhill,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/77808/Tunnelhill__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d823485110d9804b8960c33d7763038e29d74c72c719f20fcb2a31cd36a490a3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d823485110d9804b8960c33d7763038e29d74c72c719f20fcb2a31cd36a490a3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/77808/Tunnelhill__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "77808",
+  "timestamp": "2026-05-25T00:09:19.664982Z",
+  "version": 1
+}

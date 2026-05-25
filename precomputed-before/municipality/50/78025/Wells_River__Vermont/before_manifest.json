@@ -1,0 +1,16 @@
+{
+  "article": "Wells_River,_Vermont",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/50/78025/Wells_River__Vermont/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "83b96b658813e934e52a1f32083771a9d9dec949eed98b0a0aa7ef387c6f382d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "83b96b658813e934e52a1f32083771a9d9dec949eed98b0a0aa7ef387c6f382d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/50/78025/Wells_River__Vermont/manifest.json",
+  "state_fips": "50",
+  "status": "match",
+  "target_fips": "78025",
+  "timestamp": "2026-05-25T00:17:19.283472Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Ford,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/23725/Ford__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7905a64aa062c154512498ec09dbcd30168b924c93ec0b4f7d0ced4c551966c9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7905a64aa062c154512498ec09dbcd30168b924c93ec0b4f7d0ced4c551966c9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/23725/Ford__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "23725",
+  "timestamp": "2026-05-24T23:42:38.274177Z",
+  "version": 1
+}

@@ -1,0 +1,112 @@
+==Demographics==
+{{US Census population
+|1880= 254
+|1890= 250
+|1930= 503
+|1940= 500
+|1950= 503
+|1960= 458
+|1970= 372
+|1980= 540
+|1990= 487
+|2000= 615
+|2010= 452
+|2020= 417
+|footnote=Sources:<ref name="GR9">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|publisher=[[United States Census Bureau]]|access-date=March 4, 2012|title=Census of Population and Housing: Decennial Censuses|df=}}</ref><ref name=CensusPopEst>{{cite web|title=Incorporated Places and Minor Civil Divisions Datasets: Subcounty Resident Population Estimates: April 1, 2010 to July 1, 2012|url=https://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|work=Population Estimates|publisher=U.S. Census Bureau|access-date=December 11, 2013|url-status=dead|archive-url=https://web.archive.org/web/20130611010502/http://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|archive-date=June 11, 2013|df=}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A47|title=Census Population API|publisher=United States Census Bureau|accessdate=October 15, 2022}}</ref>
+}}
+
+===2020 census===
+{| class="wikitable" style="text-align:center;"
+|+'''Stanton town, Tennessee – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Stanton town, Tennessee |url=https://data.census.gov/table?g=160XX00US4770820&tid=DECENNIALSF12000.P004|publisher=[[United States Census Bureau]] |access-date= }}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Stanton town, Tennessee|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US4770820&tid=DECENNIALPL2010.P2|publisher=[[United States Census Bureau]] |access-date= }}</ref>
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Stanton town, Tennessee |url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US4770820&tid=DECENNIALPL2020.P2|publisher=[[United States Census Bureau]] |access-date= }}</ref>
+!% 2000
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|196
+|133
+|style='background: #ffffe6; |121
+|31.87%
+|29.42%
+|style='background: #ffffe6; |29.02%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|414
+|314
+|style='background: #ffffe6; |286
+|67.32%
+|69.47%
+|style='background: #ffffe6; |68.59%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|1
+|1
+|style='background: #ffffe6; |3
+|0.16%
+|0.22%
+|style='background: #ffffe6; |0.72%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |1
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.24%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|1
+|0
+|style='background: #ffffe6; |0
+|0.16%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|Some Other Race alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|0
+|2
+|style='background: #ffffe6; |4
+|0.00%
+|0.44%
+|style='background: #ffffe6; |0.96%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|3
+|2
+|style='background: #ffffe6; |2
+|0.49%
+|0.44%
+|style='background: #ffffe6; |0.48%
+|-
+|'''Total'''
+|'''615'''
+|'''452'''
+|style='background: #ffffe6; |'''417'''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+===2000 Census===
+As of the [[census]]<ref name="GR2" /> of 2000, there were 615 people, 254 households, and 167 families residing in the town. The population density was {{convert|1,191.3|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 283 housing units at an average density of {{convert|548.2|/sqmi|/km2|sp=us|adj=off}}. The racial makeup of the town was 67.80% [[African American (U.S. Census)|African American]], 31.00% whites 0.16% [[Native American (U.S. Census)|Native American]] and 0.16% [[Pacific Islander (U.S. Census)|Pacific Islander]]. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 0.49% of the population.
+
+There were 254 households, out of which 39.4% had children under the age of 18 living with them, 26.8% were [[Marriage|married couples]] living together, 35.8% had a female householder with no husband present, and 33.9% were non-families. 30.3% of all households were made up of individuals, and 10.6% had someone living alone who was 65 years of age or older. The average household size was 2.42 and the average family size was 2.98.
+
+In the town, the population was spread out, with 32.5% under the age of 18, 9.8% from 18 to 24, 27.5% from 25 to 44, 18.2% from 45 to 64, and 12.0% who were 65 years of age or older. The median age was 30 years. For every 100 females, there were 80.4 males. For every 100 females age 18 and over, there were 60.9 males.
+
+The median income for a household in the town was $17,422, and the median income for a family was $18,229. Males had a median income of $30,000 versus $19,583 for females. The [[per capita income]] for the town was $13,888. About 36.5% of families and 40.9% of the population were below the [[poverty line]], including 51.4% of those under age 18 and 36.8% of those age 65 or over.
+
+Joseph Boyd Rives (1888-1955) lived here before moving to [[Rossville, Tennessee]].  There he started [[Rossville Savings Bank]].  This was purchased by [[Somerville Bank and Trust]].  Later Somerville Bank and Trust was purchased by [[Trustmark Bank|Trustmark National Bank]].
+

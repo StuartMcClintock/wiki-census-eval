@@ -1,0 +1,16 @@
+{
+  "article": "Mechanicsburg,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/48706/Mechanicsburg__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "efc95367c7a66c9c48dbae6929cfc2a9d821a72942f6e8db5fe71469a79010ec",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "efc95367c7a66c9c48dbae6929cfc2a9d821a72942f6e8db5fe71469a79010ec",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/48706/Mechanicsburg__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "48706",
+  "timestamp": "2026-05-25T00:04:44.393343Z",
+  "version": 1
+}

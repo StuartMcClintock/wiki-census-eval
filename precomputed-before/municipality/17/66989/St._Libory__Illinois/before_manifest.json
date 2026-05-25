@@ -1,0 +1,16 @@
+{
+  "article": "St._Libory,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/66989/St._Libory__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1d0705b8ec29c105eb61233982fe39a3cbc1d66633766a2a9bcac2b4ccddfb75",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1d0705b8ec29c105eb61233982fe39a3cbc1d66633766a2a9bcac2b4ccddfb75",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/66989/St._Libory__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "66989",
+  "timestamp": "2026-05-24T23:39:09.013017Z",
+  "version": 1
+}

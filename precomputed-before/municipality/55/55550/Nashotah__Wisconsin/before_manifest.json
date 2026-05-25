@@ -1,0 +1,16 @@
+{
+  "article": "Nashotah,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/55550/Nashotah__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fb73525274378b751caa08a74dffc227104efba4c1780a858cb8c8ba5dbfaa7b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fb73525274378b751caa08a74dffc227104efba4c1780a858cb8c8ba5dbfaa7b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/55550/Nashotah__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "55550",
+  "timestamp": "2026-05-25T00:22:27.540272Z",
+  "version": 1
+}

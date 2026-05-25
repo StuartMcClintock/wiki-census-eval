@@ -1,0 +1,16 @@
+{
+  "article": "Naper,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/33530/Naper__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7de61170764121e253180562a296e3f9c870f7c3ae9a97020daac708c3531701",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7de61170764121e253180562a296e3f9c870f7c3ae9a97020daac708c3531701",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/33530/Naper__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "33530",
+  "timestamp": "2026-05-24T23:55:54.708001Z",
+  "version": 1
+}

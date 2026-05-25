@@ -1,0 +1,16 @@
+{
+  "article": "Furman,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/27835/Furman__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f3d7f12156c51973f466c1b076eb69229b0d2beb2093973e03476175bc90c143",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f3d7f12156c51973f466c1b076eb69229b0d2beb2093973e03476175bc90c143",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/27835/Furman__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "27835",
+  "timestamp": "2026-05-25T00:10:03.767332Z",
+  "version": 1
+}

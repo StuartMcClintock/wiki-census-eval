@@ -1,0 +1,16 @@
+{
+  "article": "Glen,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/27540/Glen__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "45ddb301ba714c97525a37bf7c620c16c1885441f024133565b3f1a71ff2dd67",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "45ddb301ba714c97525a37bf7c620c16c1885441f024133565b3f1a71ff2dd67",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/27540/Glen__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "27540",
+  "timestamp": "2026-05-24T23:50:10.739082Z",
+  "version": 1
+}

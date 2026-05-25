@@ -1,0 +1,16 @@
+{
+  "article": "James_City,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/37656/James_City__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fd61efa29e86475fffb9f110c44186d2389c976ed2350d5ea30aaa5e15011074",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fd61efa29e86475fffb9f110c44186d2389c976ed2350d5ea30aaa5e15011074",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/37656/James_City__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "37656",
+  "timestamp": "2026-05-25T00:07:42.151071Z",
+  "version": 1
+}

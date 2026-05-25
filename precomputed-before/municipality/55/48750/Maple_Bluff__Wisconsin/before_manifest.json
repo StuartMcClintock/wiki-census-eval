@@ -1,0 +1,16 @@
+{
+  "article": "Maple_Bluff,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/48750/Maple_Bluff__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a5589b8ce80762b0024fc7f02db8dd81257c20d06a176a2b093fd4658a33ac17",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a5589b8ce80762b0024fc7f02db8dd81257c20d06a176a2b093fd4658a33ac17",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/48750/Maple_Bluff__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "48750",
+  "timestamp": "2026-05-25T00:22:22.997528Z",
+  "version": 1
+}

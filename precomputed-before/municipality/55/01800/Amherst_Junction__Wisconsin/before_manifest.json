@@ -1,0 +1,16 @@
+{
+  "article": "Amherst_Junction,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/01800/Amherst_Junction__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d6d6b032c932d370315fb6098d966ce0ef63504cc9881d1a7aff7fa773b06983",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d6d6b032c932d370315fb6098d966ce0ef63504cc9881d1a7aff7fa773b06983",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/01800/Amherst_Junction__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "01800",
+  "timestamp": "2026-05-25T00:21:32.034513Z",
+  "version": 1
+}

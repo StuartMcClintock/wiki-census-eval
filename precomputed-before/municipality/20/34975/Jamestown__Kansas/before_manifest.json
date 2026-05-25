@@ -1,0 +1,16 @@
+{
+  "article": "Jamestown,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/34975/Jamestown__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f88b1d4db2b9275f6cb2cde73a2f0bd344228cc2f8ec5bcc2d898ca1d081f79b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f88b1d4db2b9275f6cb2cde73a2f0bd344228cc2f8ec5bcc2d898ca1d081f79b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/34975/Jamestown__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "34975",
+  "timestamp": "2026-05-24T23:42:48.940583Z",
+  "version": 1
+}

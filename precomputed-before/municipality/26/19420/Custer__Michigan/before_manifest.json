@@ -1,0 +1,16 @@
+{
+  "article": "Custer,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/19420/Custer__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7537c54ba7fce2e2aa808583314d9e9995774701f4874045f1b32af230b7670b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7537c54ba7fce2e2aa808583314d9e9995774701f4874045f1b32af230b7670b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/19420/Custer__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "19420",
+  "timestamp": "2026-05-24T23:47:50.987113Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Somers,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/69475/Somers__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e1514c9cc2e33ddf0569cfefc2b6f35a438ba6319e9ee8ba395be8551f414b34",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e1514c9cc2e33ddf0569cfefc2b6f35a438ba6319e9ee8ba395be8551f414b34",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/69475/Somers__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "69475",
+  "timestamp": "2026-05-24T23:54:51.421252Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Mineralwells,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/54580/Mineralwells__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7bf1f97db13fb90a92ea01b7cdb92ad774dadb69ac6eae4599f11c8a32bda02a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7bf1f97db13fb90a92ea01b7cdb92ad774dadb69ac6eae4599f11c8a32bda02a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/54580/Mineralwells__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "54580",
+  "timestamp": "2026-05-25T00:21:17.463623Z",
+  "version": 1
+}

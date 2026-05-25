@@ -1,0 +1,16 @@
+{
+  "article": "Cookstown,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/14980/Cookstown__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "26505ed8b9c2f36cb2f724927f6ddd5097df97f3c4218d7a8f49f6119ca12c83",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "26505ed8b9c2f36cb2f724927f6ddd5097df97f3c4218d7a8f49f6119ca12c83",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/14980/Cookstown__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "14980",
+  "timestamp": "2026-05-24T23:57:44.071877Z",
+  "version": 1
+}

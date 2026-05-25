@@ -1,0 +1,16 @@
+{
+  "article": "Balsam_Lake,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/04475/Balsam_Lake__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9499d5f88e752b5364b046e7f352b2fb857f88fcdf5e62b2c22bd364a55d45ea",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9499d5f88e752b5364b046e7f352b2fb857f88fcdf5e62b2c22bd364a55d45ea",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/04475/Balsam_Lake__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "04475",
+  "timestamp": "2026-05-25T00:21:34.044690Z",
+  "version": 1
+}

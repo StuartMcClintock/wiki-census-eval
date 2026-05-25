@@ -1,0 +1,16 @@
+{
+  "article": "Paxton,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/55475/Paxton__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "96ded7f464f9968db2d5e96d186d046fa20ad23c8ba2e1c722038a4c8eb933a1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "96ded7f464f9968db2d5e96d186d046fa20ad23c8ba2e1c722038a4c8eb933a1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/55475/Paxton__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "55475",
+  "timestamp": "2026-05-24T23:36:20.505956Z",
+  "version": 1
+}

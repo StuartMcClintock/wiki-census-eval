@@ -1,0 +1,16 @@
+{
+  "article": "Lime_Ridge,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/44225/Lime_Ridge__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b1ca06fdd7b94615d0331f3bef6e353eb9d661015257392772d7f6035cd03b72",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b1ca06fdd7b94615d0331f3bef6e353eb9d661015257392772d7f6035cd03b72",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/44225/Lime_Ridge__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "44225",
+  "timestamp": "2026-05-25T00:22:20.357523Z",
+  "version": 1
+}

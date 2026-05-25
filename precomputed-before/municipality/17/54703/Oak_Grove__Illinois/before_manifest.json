@@ -1,0 +1,16 @@
+{
+  "article": "Oak_Grove,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/54703/Oak_Grove__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c2508256b9fb8f5b4e4d5c296dad87817b9c4d91306f2e321386f0e25310cb59",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c2508256b9fb8f5b4e4d5c296dad87817b9c4d91306f2e321386f0e25310cb59",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/54703/Oak_Grove__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "54703",
+  "timestamp": "2026-05-24T23:38:42.023700Z",
+  "version": 1
+}

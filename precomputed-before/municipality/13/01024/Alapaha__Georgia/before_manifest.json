@@ -1,0 +1,16 @@
+{
+  "article": "Alapaha,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/01024/Alapaha__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "060d2ed7c4bf3c48eb2d743e134f4c330cf2c221c93828575bee8c75c0d0abaf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "060d2ed7c4bf3c48eb2d743e134f4c330cf2c221c93828575bee8c75c0d0abaf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/01024/Alapaha__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "01024",
+  "timestamp": "2026-05-24T23:36:26.264704Z",
+  "version": 1
+}

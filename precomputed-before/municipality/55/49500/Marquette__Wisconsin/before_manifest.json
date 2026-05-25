@@ -1,0 +1,16 @@
+{
+  "article": "Marquette,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/49500/Marquette__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0bac67748b481603859f8c8a99882ff7cb032c5081a514376d3f5f7bb46b1ac4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0bac67748b481603859f8c8a99882ff7cb032c5081a514376d3f5f7bb46b1ac4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/49500/Marquette__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "49500",
+  "timestamp": "2026-05-25T00:22:23.552357Z",
+  "version": 1
+}

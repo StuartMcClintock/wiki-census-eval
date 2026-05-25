@@ -1,0 +1,16 @@
+{
+  "article": "Prairieburg,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/64425/Prairieburg__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dcb03e123c67a1a1220d520c60ff238e5f2613cc18182a8f56e65bf45d5d6bb0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dcb03e123c67a1a1220d520c60ff238e5f2613cc18182a8f56e65bf45d5d6bb0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/64425/Prairieburg__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "64425",
+  "timestamp": "2026-05-24T23:41:39.385886Z",
+  "version": 1
+}

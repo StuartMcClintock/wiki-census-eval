@@ -1,0 +1,16 @@
+{
+  "article": "Granville,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/32475/Granville__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "27689e3b139892ec80aa1393ac78002e286de591aa5eacf24bb204c4947828d6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "27689e3b139892ec80aa1393ac78002e286de591aa5eacf24bb204c4947828d6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/32475/Granville__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "32475",
+  "timestamp": "2026-05-24T23:41:06.994003Z",
+  "version": 1
+}

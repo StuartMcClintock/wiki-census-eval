@@ -1,0 +1,16 @@
+{
+  "article": "Whitestone_Logging_Camp,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/84200/Whitestone_Logging_Camp__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "88fac86d4df35fd555c46b349f2e78d9543362179cacc0f3dfbad2b830aaa4cf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "88fac86d4df35fd555c46b349f2e78d9543362179cacc0f3dfbad2b830aaa4cf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/84200/Whitestone_Logging_Camp__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "84200",
+  "timestamp": "2026-05-24T23:32:46.257886Z",
+  "version": 1
+}

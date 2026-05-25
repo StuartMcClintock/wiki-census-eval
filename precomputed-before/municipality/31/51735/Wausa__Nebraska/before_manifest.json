@@ -1,0 +1,16 @@
+{
+  "article": "Wausa,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/51735/Wausa__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e3fe9ec792eabebfb5b8340255fa3c3300c8bff58976924541a094630ea2c084",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e3fe9ec792eabebfb5b8340255fa3c3300c8bff58976924541a094630ea2c084",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/51735/Wausa__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "51735",
+  "timestamp": "2026-05-24T23:57:24.318480Z",
+  "version": 1
+}

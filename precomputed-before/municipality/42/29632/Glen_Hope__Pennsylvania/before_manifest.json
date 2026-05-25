@@ -1,0 +1,16 @@
+{
+  "article": "Glen_Hope,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/29632/Glen_Hope__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b58eab7ca8ddbe67a3e32a226e5d9ea3abd58561a557fdf072245a45fafbe8bc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b58eab7ca8ddbe67a3e32a226e5d9ea3abd58561a557fdf072245a45fafbe8bc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/29632/Glen_Hope__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "29632",
+  "timestamp": "2026-05-25T00:07:16.705837Z",
+  "version": 1
+}

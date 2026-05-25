@@ -1,0 +1,16 @@
+{
+  "article": "Ridgeville,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/64422/Ridgeville__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b1e051f7ed4dc5cbc93795ac52fefe45a134958f9dde90f6af2d788c76160203",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b1e051f7ed4dc5cbc93795ac52fefe45a134958f9dde90f6af2d788c76160203",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/64422/Ridgeville__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "64422",
+  "timestamp": "2026-05-24T23:40:09.803018Z",
+  "version": 1
+}

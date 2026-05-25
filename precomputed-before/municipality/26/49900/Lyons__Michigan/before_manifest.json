@@ -1,0 +1,16 @@
+{
+  "article": "Lyons,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/49900/Lyons__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f414b38b22d166a951d75da9fe57d34237d4491f2474fc956a941a3b1aae2acb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f414b38b22d166a951d75da9fe57d34237d4491f2474fc956a941a3b1aae2acb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/49900/Lyons__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "49900",
+  "timestamp": "2026-05-24T23:48:03.795570Z",
+  "version": 1
+}

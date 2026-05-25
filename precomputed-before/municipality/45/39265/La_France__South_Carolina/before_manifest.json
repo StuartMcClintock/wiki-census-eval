@@ -1,0 +1,16 @@
+{
+  "article": "La_France,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/39265/La_France__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1e528b1a103f01fcb789f0732004de11d85d8e6668e1b91961f3e3da6907bbbc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1e528b1a103f01fcb789f0732004de11d85d8e6668e1b91961f3e3da6907bbbc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/39265/La_France__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "39265",
+  "timestamp": "2026-05-25T00:10:09.270804Z",
+  "version": 1
+}

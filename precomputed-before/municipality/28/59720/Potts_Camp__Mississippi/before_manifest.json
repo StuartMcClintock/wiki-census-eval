@@ -1,0 +1,16 @@
+{
+  "article": "Potts_Camp,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/59720/Potts_Camp__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "19a927a05405fa1f8642125e7f6c63d0c32edcc07c4223527751231dc2fe2c6b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "19a927a05405fa1f8642125e7f6c63d0c32edcc07c4223527751231dc2fe2c6b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/59720/Potts_Camp__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "59720",
+  "timestamp": "2026-05-24T23:50:20.930407Z",
+  "version": 1
+}

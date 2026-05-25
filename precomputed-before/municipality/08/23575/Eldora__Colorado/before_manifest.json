@@ -1,0 +1,16 @@
+{
+  "article": "Eldora,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/23575/Eldora__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "923f6f7f0eb937ea58ded24f44538d4096f72891f646da9e51389395f5197f96",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "923f6f7f0eb937ea58ded24f44538d4096f72891f646da9e51389395f5197f96",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/23575/Eldora__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "23575",
+  "timestamp": "2026-05-24T23:35:24.586858Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Shumway,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/66540/Shumway__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "675e40c02ed494a3b2acee89612c8ec60d0a426ebd853402990475d6bd041949",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "675e40c02ed494a3b2acee89612c8ec60d0a426ebd853402990475d6bd041949",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/66540/Shumway__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "66540",
+  "timestamp": "2026-05-24T23:33:09.777210Z",
+  "version": 1
+}

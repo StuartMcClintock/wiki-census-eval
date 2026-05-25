@@ -1,0 +1,16 @@
+{
+  "article": "Plummer,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/51712/Plummer__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "185a4c00a8f30851a88663e5f4f06007f646151e7295016198fe98c8ae2d000c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "185a4c00a8f30851a88663e5f4f06007f646151e7295016198fe98c8ae2d000c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/51712/Plummer__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "51712",
+  "timestamp": "2026-05-24T23:49:39.434675Z",
+  "version": 1
+}

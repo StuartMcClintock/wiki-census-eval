@@ -1,0 +1,16 @@
+{
+  "article": "Sunshine,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/75585/Sunshine__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d837b5cb2fcb3bcb2aa8ef49c035d0f97ac3117299a9f9979df17ae34e2c8e1e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d837b5cb2fcb3bcb2aa8ef49c035d0f97ac3117299a9f9979df17ae34e2c8e1e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/75585/Sunshine__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "75585",
+  "timestamp": "2026-05-24T23:35:53.321980Z",
+  "version": 1
+}

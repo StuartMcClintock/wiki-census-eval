@@ -1,0 +1,16 @@
+{
+  "article": "Newville,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/54600/Newville__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "14b13fcc8f31a6614f0e4df85ae6acd8d5681e39893249953f9ca2f705b8f17a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "14b13fcc8f31a6614f0e4df85ae6acd8d5681e39893249953f9ca2f705b8f17a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/54600/Newville__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "54600",
+  "timestamp": "2026-05-24T23:32:06.661627Z",
+  "version": 1
+}

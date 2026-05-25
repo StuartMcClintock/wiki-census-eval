@@ -1,0 +1,16 @@
+{
+  "article": "Bethlehem,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/07612/Bethlehem__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ce8a3f9d443057729669ecf8da541113cffa62e26559435b2139ff31d5b0767d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ce8a3f9d443057729669ecf8da541113cffa62e26559435b2139ff31d5b0767d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/07612/Bethlehem__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "07612",
+  "timestamp": "2026-05-24T23:36:28.407859Z",
+  "version": 1
+}

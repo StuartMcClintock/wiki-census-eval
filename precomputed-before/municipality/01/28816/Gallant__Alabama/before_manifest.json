@@ -1,0 +1,16 @@
+{
+  "article": "Gallant,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/28816/Gallant__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a8bdf953968b1078bc96cfdc176b57298eb8309c9340798b079e106437eaa052",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a8bdf953968b1078bc96cfdc176b57298eb8309c9340798b079e106437eaa052",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/28816/Gallant__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "28816",
+  "timestamp": "2026-05-24T23:31:56.805166Z",
+  "version": 1
+}

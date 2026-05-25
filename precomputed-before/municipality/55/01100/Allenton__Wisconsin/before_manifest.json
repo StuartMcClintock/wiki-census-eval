@@ -1,0 +1,16 @@
+{
+  "article": "Allenton,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/01100/Allenton__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "43beb1c7197f0241c3a2a200c2dea771b0bc977e2599f2d313eb3ca68d3560cc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "43beb1c7197f0241c3a2a200c2dea771b0bc977e2599f2d313eb3ca68d3560cc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/01100/Allenton__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "01100",
+  "timestamp": "2026-05-25T00:21:31.060408Z",
+  "version": 1
+}

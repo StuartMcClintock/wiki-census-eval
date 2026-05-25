@@ -1,0 +1,16 @@
+{
+  "article": "Dobbins_Heights,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/17325/Dobbins_Heights__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2a6598513cee533deb1c23a4e67cb6898585d20c7e4aada8dcc0a8b55f927a1f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2a6598513cee533deb1c23a4e67cb6898585d20c7e4aada8dcc0a8b55f927a1f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/17325/Dobbins_Heights__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "17325",
+  "timestamp": "2026-05-25T00:01:53.087455Z",
+  "version": 1
+}

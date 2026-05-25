@@ -1,0 +1,16 @@
+{
+  "article": "Virden,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/83200/Virden__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2dc1bfcc46e6499b5e3db4c49e68d56d48c487cf1ee1c20078b4e38787f6f241",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2dc1bfcc46e6499b5e3db4c49e68d56d48c487cf1ee1c20078b4e38787f6f241",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/83200/Virden__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "83200",
+  "timestamp": "2026-05-25T00:00:27.727874Z",
+  "version": 1
+}

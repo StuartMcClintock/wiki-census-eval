@@ -1,0 +1,16 @@
+{
+  "article": "Skyline_Acres,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/72648/Skyline_Acres__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f837184498d68a347f37ab1da5c1bad2f166880712bef727d0da698f3cd3c052",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f837184498d68a347f37ab1da5c1bad2f166880712bef727d0da698f3cd3c052",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/72648/Skyline_Acres__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "72648",
+  "timestamp": "2026-05-25T00:05:27.531646Z",
+  "version": 1
+}

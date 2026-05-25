@@ -1,0 +1,16 @@
+{
+  "article": "Crestview,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/18770/Crestview__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "05d88e5a6035e8b7bfd5a81c8845d3c139de0013672663e3ffd7470541b8c187",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "05d88e5a6035e8b7bfd5a81c8845d3c139de0013672663e3ffd7470541b8c187",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/18770/Crestview__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "18770",
+  "timestamp": "2026-05-24T23:58:27.001165Z",
+  "version": 1
+}

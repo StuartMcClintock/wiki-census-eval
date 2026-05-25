@@ -1,0 +1,16 @@
+{
+  "article": "Stanton,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/46800/Stanton__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7fc23d95365e771b2a7c5eced5db8dc223fa9575847ee611c14ab784d202187f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7fc23d95365e771b2a7c5eced5db8dc223fa9575847ee611c14ab784d202187f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/46800/Stanton__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "46800",
+  "timestamp": "2026-05-24T23:57:17.498555Z",
+  "version": 1
+}

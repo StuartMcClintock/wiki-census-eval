@@ -1,0 +1,16 @@
+{
+  "article": "Hartman,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/34520/Hartman__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3c2e7c5e2e07474e99dec7e44e785cecb0165b5671c3e44f40173ddb2be55bf8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3c2e7c5e2e07474e99dec7e44e785cecb0165b5671c3e44f40173ddb2be55bf8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/34520/Hartman__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "34520",
+  "timestamp": "2026-05-24T23:35:27.440485Z",
+  "version": 1
+}

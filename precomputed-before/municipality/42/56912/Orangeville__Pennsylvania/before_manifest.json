@@ -1,0 +1,16 @@
+{
+  "article": "Orangeville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/56912/Orangeville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d96d38b80069ec31046f74c4b826e5a6f21b00af0cdde0a527a8568c6d372671",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d96d38b80069ec31046f74c4b826e5a6f21b00af0cdde0a527a8568c6d372671",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/56912/Orangeville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "56912",
+  "timestamp": "2026-05-25T00:08:23.424111Z",
+  "version": 1
+}

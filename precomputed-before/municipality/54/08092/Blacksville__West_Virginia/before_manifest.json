@@ -1,0 +1,16 @@
+{
+  "article": "Blacksville,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/08092/Blacksville__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4138f28f3c6aa71fe39ed0a4343325f32a6b482c91fbca20cb21a6f865f8a229",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4138f28f3c6aa71fe39ed0a4343325f32a6b482c91fbca20cb21a6f865f8a229",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/08092/Blacksville__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "08092",
+  "timestamp": "2026-05-25T00:20:44.056990Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Stockholm,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/61740/Stockholm__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "86a986c84e5ba37e09efcf7b7e365007af166df46492973e06a1802a80d4c1dd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "86a986c84e5ba37e09efcf7b7e365007af166df46492973e06a1802a80d4c1dd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/61740/Stockholm__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "61740",
+  "timestamp": "2026-05-25T00:12:48.610469Z",
+  "version": 1
+}

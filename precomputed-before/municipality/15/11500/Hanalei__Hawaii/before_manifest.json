@@ -1,0 +1,16 @@
+{
+  "article": "Hanalei,_Hawaii",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/15/11500/Hanalei__Hawaii/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cf46d4a2619bcbba3cbc5e57f49605846aac514160a19c08e72409af9f79216f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cf46d4a2619bcbba3cbc5e57f49605846aac514160a19c08e72409af9f79216f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/15/11500/Hanalei__Hawaii/manifest.json",
+  "state_fips": "15",
+  "status": "match",
+  "target_fips": "11500",
+  "timestamp": "2026-05-24T23:37:13.607234Z",
+  "version": 1
+}

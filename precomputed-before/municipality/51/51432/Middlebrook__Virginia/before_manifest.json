@@ -1,0 +1,16 @@
+{
+  "article": "Middlebrook,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/51432/Middlebrook__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ab02257b3371d57497c4eefd869c05d5bd6bbbfeca91c0a403cf50d7ea63ff92",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ab02257b3371d57497c4eefd869c05d5bd6bbbfeca91c0a403cf50d7ea63ff92",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/51432/Middlebrook__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "51432",
+  "timestamp": "2026-05-25T00:19:26.139450Z",
+  "version": 1
+}

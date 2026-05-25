@@ -1,0 +1,16 @@
+{
+  "article": "Sims,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/69894/Sims__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b1134fbb75d451ca8082b564fbebeba220dfe139eda7309d2d3ae9e26f8ff4ec",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b1134fbb75d451ca8082b564fbebeba220dfe139eda7309d2d3ae9e26f8ff4ec",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/69894/Sims__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "69894",
+  "timestamp": "2026-05-24T23:40:13.368210Z",
+  "version": 1
+}

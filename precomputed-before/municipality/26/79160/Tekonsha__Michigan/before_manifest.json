@@ -1,0 +1,16 @@
+{
+  "article": "Tekonsha,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/79160/Tekonsha__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f0a70bbda0ef51535acbeb2e6750166eeb50b6b2719b0c88a50dfa3884967f35",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f0a70bbda0ef51535acbeb2e6750166eeb50b6b2719b0c88a50dfa3884967f35",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/79160/Tekonsha__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "79160",
+  "timestamp": "2026-05-24T23:48:29.999073Z",
+  "version": 1
+}

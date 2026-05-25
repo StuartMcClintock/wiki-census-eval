@@ -1,0 +1,16 @@
+{
+  "article": "Oshkosh,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/37560/Oshkosh__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "530b36ce3398bd81c26c03754ed69327c63c3143234447f53e67d12968af9f11",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "530b36ce3398bd81c26c03754ed69327c63c3143234447f53e67d12968af9f11",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/37560/Oshkosh__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "37560",
+  "timestamp": "2026-05-24T23:56:01.057133Z",
+  "version": 1
+}

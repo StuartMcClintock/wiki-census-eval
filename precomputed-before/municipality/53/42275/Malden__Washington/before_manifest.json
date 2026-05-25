@@ -1,0 +1,16 @@
+{
+  "article": "Malden,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/42275/Malden__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a3c0ad7454e130e9a13b957bed6c27eb0e31896ca5c8bb4eb4775cf277a3e92e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a3c0ad7454e130e9a13b957bed6c27eb0e31896ca5c8bb4eb4775cf277a3e92e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/42275/Malden__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "42275",
+  "timestamp": "2026-05-25T00:20:21.122949Z",
+  "version": 1
+}

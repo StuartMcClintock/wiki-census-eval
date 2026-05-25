@@ -1,0 +1,16 @@
+{
+  "article": "Jansen,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/39250/Jansen__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1b0df002bd2cf8e4f3ab5eeffa4385206980386b81cebd883b2da1288f1eeaa4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1b0df002bd2cf8e4f3ab5eeffa4385206980386b81cebd883b2da1288f1eeaa4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/39250/Jansen__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "39250",
+  "timestamp": "2026-05-24T23:35:29.730263Z",
+  "version": 1
+}

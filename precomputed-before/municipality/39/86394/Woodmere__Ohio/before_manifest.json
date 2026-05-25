@@ -1,0 +1,16 @@
+{
+  "article": "Woodmere,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/86394/Woodmere__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "455eb3f2bf0416ba012094f4ef4c14b068b6d62bf6e6778089ce856c2a4195c3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "455eb3f2bf0416ba012094f4ef4c14b068b6d62bf6e6778089ce856c2a4195c3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/86394/Woodmere__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "86394",
+  "timestamp": "2026-05-25T00:05:40.723414Z",
+  "version": 1
+}

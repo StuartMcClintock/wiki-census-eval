@@ -1,0 +1,16 @@
+{
+  "article": "Whitewater,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/80200/Whitewater__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8697215dc1c82591850a702ccac69225c01210216eb8c97f9d2fdb8d716389e7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8697215dc1c82591850a702ccac69225c01210216eb8c97f9d2fdb8d716389e7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/80200/Whitewater__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "80200",
+  "timestamp": "2026-05-24T23:55:04.146293Z",
+  "version": 1
+}

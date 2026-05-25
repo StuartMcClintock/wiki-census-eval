@@ -1,0 +1,16 @@
+{
+  "article": "Ramah,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/62660/Ramah__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fba1a97e64010c4bfa7ff3f55fd04b84128290642e9b89d6c0b4367890430d57",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fba1a97e64010c4bfa7ff3f55fd04b84128290642e9b89d6c0b4367890430d57",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/62660/Ramah__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "62660",
+  "timestamp": "2026-05-24T23:35:37.584855Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Vansant,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/80608/Vansant__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e7404bc8a1becbc3a0906045c36c13cb5466e46bfca222393a21df4629829538",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e7404bc8a1becbc3a0906045c36c13cb5466e46bfca222393a21df4629829538",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/80608/Vansant__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "80608",
+  "timestamp": "2026-05-25T00:19:43.051209Z",
+  "version": 1
+}

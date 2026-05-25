@@ -1,0 +1,16 @@
+{
+  "article": "Harborton,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/35240/Harborton__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ba535f79e35c7c34be9ee0dc7a9e2707bd6e5d2396f4a2ada86ab59dc31344eb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ba535f79e35c7c34be9ee0dc7a9e2707bd6e5d2396f4a2ada86ab59dc31344eb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/35240/Harborton__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "35240",
+  "timestamp": "2026-05-25T00:19:17.091377Z",
+  "version": 1
+}

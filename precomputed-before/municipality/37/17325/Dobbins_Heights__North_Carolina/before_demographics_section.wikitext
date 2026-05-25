@@ -1,0 +1,42 @@
+==Demographics==
+{{US Census population
+|1990= 1144
+|2000= 936
+|2010= 866
+|2020= 687
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2015}}</ref>
+}}
+
+===2020 census===
+{| class="wikitable" style="text-align:right"
+|+Dobbins Heights racial composition<ref>{{Cite web|title=Explore Census Data|url=https://data.census.gov/cedsci/table?g=1600000US3717325&tid=DECENNIALPL2020.P2|access-date=December 22, 2021|website=data.census.gov}}</ref>
+!scope="col"| Race
+!scope="col"| Number
+!scope="col"| Percentage
+|-
+!scope="row"| [[White (U.S. Census)|White]] (non-Hispanic)
+| 73
+| 10.63%
+|-
+!scope="row"| [[African American (U.S. Census)|Black or African American]] (non-Hispanic)
+| 545
+| 79.33%
+|-
+!scope="row"| [[Native American (U.S. Census)|Native American]]
+| 6
+| 0.87%
+|-
+!scope="row"| [[Asian (U.S. Census)|Asian]]
+| 1
+| 0.15%
+|-
+!scope="row"| [[Race (United States Census)|Other/Mixed]]
+| 45
+| 6.55%
+|-
+!scope="row"| [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]]
+| 17
+| 2.47%
+|}
+As of the [[2020 United States census]], there were 687 people, 404 households, and 218 families residing in the town.
+

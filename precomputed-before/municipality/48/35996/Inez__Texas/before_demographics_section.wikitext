@@ -1,0 +1,108 @@
+==Demographics==
+{{US Census population
+|1990= 1371
+|2000= 1787
+|2010= 2098
+|2020= 2641
+|align-fn=center
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census/decade.html|title=Decennial Census by Decade|website=[[United States Census Bureau]]|access-date=}}</ref><br> 1850–1900<ref name=1900CensusTX>{{Cite web|title= 1900 Census of Population - Population of Texas By Counties And Minor Civil Divisions |url=https://www2.census.gov/library/publications/decennial/1900/bulletins/demographic/49-population-tx.pdf|website=[[United States Census Bureau]]}}</ref> 1910<ref name=1910CensusTX>{{Cite web|title=1910 Census of Population - Supplement for Texas|url=https://www2.census.gov/library/publications/decennial/1910/abstract/supplement-tx-p1.pdf|website=[[United States Census Bureau]]|access-date=July 13, 2024|archive-date=March 30, 2025|archive-url=https://web.archive.org/web/20250330000710/https://www2.census.gov/library/publications/decennial/1910/abstract/supplement-tx-p1.pdf|url-status=dead}}</ref><br> 1920<ref name=1920CensusTX>{{Cite web|title= 1920 Census of Population - Number of Inhabitants - Texas |url=https://www2.census.gov/library/publications/decennial/1920/bulletins/demographics/population-tx-number-of-inhabitants.pdf|website=[[United States Census Bureau]]}}</ref> 1930<ref name=1930CensusTX>{{Cite web|title= 1930 Census of Population - Number of Inhabitants - Texas |url=https://www2.census.gov/library/publications/decennial/1930/population-volume-1/03815512v1ch10.pdf|website=[[United States Census Bureau]]}}</ref> 1940<ref name=1940CensusTX>{{Cite web|title= 1940 Census of Population - Number of Inhabitants - Texas |url=https://www2.census.gov/library/publications/decennial/1940/population-volume-1/33973538v1ch09.pdf|website=[[United States Census Bureau]]}}</ref><br>
+1950<ref name=1950CensusTX>{{Cite web|title= 1950 Census of Population - Number of Inhabitants - Texas |url=https://www2.census.gov/library/publications/decennial/1950/population-volume-1/vol-01-46.pdf|website=[[United States Census Bureau]]}}</ref> 1960<ref name=1960CensusTX>{{Cite web|title= 1960 Census of Population - Number of Inhabitants - Texas |url=https://www2.census.gov/library/publications/decennial/1960/population-volume-1/33255142v1p45ch02.pdf|website=[[United States Census Bureau]]}}</ref> 1970<ref name=1970CensusTX>{{Cite web|title= 1970 Census of Population - Number of Inhabitants - Texas |url=https://www2.census.gov/prod2/decennial/documents/00496492v1p45s1ch02.pdf|website=[[United States Census Bureau]]}}</ref><br> 1980<ref name=1980CensusTX>{{Cite web|title= 1980 Census of Population - Number of Inhabitants - Texas |url=https://www2.census.gov/library/publications/decennial/1980/volume-1/texas/1980a_txab-01.pdf|website=[[United States Census Bureau]]}}</ref> 1990<ref name=1990CensusTX>{{Cite web|title=1990 Census of Population - Population and Housing Unit Counts - Texas |url=https://www2.census.gov/library/publications/decennial/1990/cph-2/cph-2-45.pdf|website=[[United States Census Bureau]]}}</ref> 2000<ref name=2000CensusTX>{{Cite web|title=2000 Census of Population - Population and Housing Unit Counts - Texas |url=https://www2.census.gov/library/publications/2003/dec/phc-3-45.pdf|website=[[United States Census Bureau]]}}</ref><br> 2010<ref name=2010CensusTX>{{Cite web|title=2010 Census of Population - Population and Housing Unit Counts - Texas |url=https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-45.pdf|website=[[United States Census Bureau]]}}</ref> 2020<ref name=2020CensusP2/>
+}}
+
+Inez first appeared as a [[census designated place]] in the [[1990 U.S. census]].<ref name=1990CensusTX/>
+
+===2020 census===
+{| class="wikitable" style="text-align:center;"
+|+'''Inez CDP, Texas – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Inez CDP, Texas|url=https://data.census.gov/table?g=160XX00US4835996&tid=DECENNIALSF12000.P004|website=[[United States Census Bureau]] |access-date= }}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Inez CDP, Texas|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US4835996&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Inez CDP, Texas|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US4835996&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!% 2000
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|1,527
+|1,773
+|style='background: #ffffe6; |2,053
+|85.45%
+|84.51%
+|style='background: #ffffe6; |77.74%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|19
+|22
+|style='background: #ffffe6; |26
+|1.06%
+|1.05%
+|style='background: #ffffe6; |0.98%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|5
+|2
+|style='background: #ffffe6; |2
+|0.28%
+|0.10%
+|style='background: #ffffe6; |0.08%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|7
+|4
+|style='background: #ffffe6; |8
+|0.39%
+|0.19%
+|style='background: #ffffe6; |0.30%
+|-
+|[[Native Hawaiian]] or [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |1
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.04%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|1
+|0
+|style='background: #ffffe6; |10
+|0.06%
+|0.00%
+|style='background: #ffffe6; |0.38%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|15
+|18
+|style='background: #ffffe6; |88
+|0.84%
+|0.86%
+|style='background: #ffffe6; |3.33%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|213
+|279
+|style='background: #ffffe6; |453
+|11.92%
+|13.30%
+|style='background: #ffffe6; |17.15%
+|-
+|'''Total'''
+|'''1,787'''
+|'''2,098'''
+|style='background: #ffffe6; |'''2,641 '''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+As of the [[2020 United States census]], there were 2,641 people, 805 households, and 698 families residing in the CDP.
+
+===2000 census===
+As of the [[census]]<ref name="GR2" /> of 2000, there were 1,787 people, 628 households, and 503 families residing in the CDP. The population density was {{convert|30.0|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 684 housing units at an average density of 11.5/sq&nbsp;mi (4.4/km<sup>2</sup>). The racial makeup of the CDP was 91.55% [[White (U.S. Census)|White]], 1.51% [[African American (U.S. Census)|African American]], 1.01% [[Native American (U.S. Census)|Native American]], 0.39% [[Asian (U.S. Census)|Asian]], 4.36% from [[Race (United States Census)|other races]], and 1.18% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 11.92% of the population.
+
+There were 628 households, out of which 43.8% had children under the age of 18 living with them, 69.7% were [[Marriage|married couples]] living together, 6.8% had a female householder with no husband present, and 19.9% were non-families. 18.6% of all households were made up of individuals, and 7.8% had someone living alone who was 65 years of age or older. The average household size was 2.85 and the average family size was 3.25.
+
+In the CDP, the population was spread out, with 31.2% under the age of 18, 6.9% from 18 to 24, 30.9% from 25 to 44, 22.0% from 45 to 64, and 9.0% who were 65 years of age or older. The median age was 35 years. For every 100 females, there were 102.8 males. For every 100 females age 18 and over, there were 101.8 males.
+
+The median income for a household in the CDP was $50,000, and the median income for a family was $56,806. Males had a median income of $35,926 versus $22,050 for females. The [[per capita income]] for the CDP was $18,487. About 2.6% of families and 4.0% of the population were below the [[poverty line]], including 3.7% of those under age 18 and 10.1% of those age 65 or over.
+

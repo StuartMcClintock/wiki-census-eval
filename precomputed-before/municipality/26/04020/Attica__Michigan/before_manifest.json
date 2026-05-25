@@ -1,0 +1,16 @@
+{
+  "article": "Attica,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/04020/Attica__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "26aaac20e0425855c4952a8214146be7fdd2a8037643a80292708d9f83494ae9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "26aaac20e0425855c4952a8214146be7fdd2a8037643a80292708d9f83494ae9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/04020/Attica__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "04020",
+  "timestamp": "2026-05-24T23:47:41.506404Z",
+  "version": 1
+}

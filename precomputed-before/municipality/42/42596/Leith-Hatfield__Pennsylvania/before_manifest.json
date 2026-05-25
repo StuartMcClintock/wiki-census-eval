@@ -1,0 +1,16 @@
+{
+  "article": "Leith-Hatfield,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/42596/Leith-Hatfield__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "80c30dd69d97d7c6bec5b0891eb66dd5077aad93941a9233c2fd887e48b244f1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "80c30dd69d97d7c6bec5b0891eb66dd5077aad93941a9233c2fd887e48b244f1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/42596/Leith-Hatfield__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "42596",
+  "timestamp": "2026-05-25T00:07:50.376089Z",
+  "version": 1
+}

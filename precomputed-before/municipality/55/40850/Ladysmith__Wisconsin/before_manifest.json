@@ -1,0 +1,16 @@
+{
+  "article": "Ladysmith,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/40850/Ladysmith__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f56dfd9303746def66c38ec99f06a7e3d00d40552ec1e0a2b4a4fd5fa3419200",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f56dfd9303746def66c38ec99f06a7e3d00d40552ec1e0a2b4a4fd5fa3419200",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/40850/Ladysmith__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "40850",
+  "timestamp": "2026-05-25T00:22:17.309679Z",
+  "version": 1
+}

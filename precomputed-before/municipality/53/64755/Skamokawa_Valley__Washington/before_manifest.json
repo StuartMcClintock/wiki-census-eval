@@ -1,0 +1,16 @@
+{
+  "article": "Skamokawa_Valley,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/64755/Skamokawa_Valley__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "911c29accedc845ba8f8aee258ad4748f6c6eeeb056f30c87ac38b4c11eff612",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "911c29accedc845ba8f8aee258ad4748f6c6eeeb056f30c87ac38b4c11eff612",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/64755/Skamokawa_Valley__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "64755",
+  "timestamp": "2026-05-25T00:20:32.320254Z",
+  "version": 1
+}

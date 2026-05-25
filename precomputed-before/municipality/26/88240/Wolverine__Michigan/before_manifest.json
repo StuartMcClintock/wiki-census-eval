@@ -1,0 +1,16 @@
+{
+  "article": "Wolverine,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/88240/Wolverine__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "af7b4e3271d0d6b4cee62f60425bdb43802d0a45b477c57c5aad1c8cb650dc93",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "af7b4e3271d0d6b4cee62f60425bdb43802d0a45b477c57c5aad1c8cb650dc93",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/88240/Wolverine__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "88240",
+  "timestamp": "2026-05-24T23:48:33.543561Z",
+  "version": 1
+}

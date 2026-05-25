@@ -1,0 +1,16 @@
+{
+  "article": "Elm_Creek,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/15360/Elm_Creek__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "82777965f2496c23fe74a153026a94494cf1ef874d6c3415189e0138a3679d35",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "82777965f2496c23fe74a153026a94494cf1ef874d6c3415189e0138a3679d35",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/15360/Elm_Creek__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "15360",
+  "timestamp": "2026-05-24T23:55:24.642290Z",
+  "version": 1
+}

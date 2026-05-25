@@ -1,0 +1,16 @@
+{
+  "article": "White_City,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/81191/White_City__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0df83a58a31783e68d6e4aaee1da71726e49d6785c8d5a3a85c999d1cf833f7c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0df83a58a31783e68d6e4aaee1da71726e49d6785c8d5a3a85c999d1cf833f7c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/81191/White_City__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "81191",
+  "timestamp": "2026-05-24T23:39:22.825241Z",
+  "version": 1
+}

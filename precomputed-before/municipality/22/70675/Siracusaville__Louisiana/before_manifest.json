@@ -1,0 +1,16 @@
+{
+  "article": "Siracusaville,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/70675/Siracusaville__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dce478e09f5a77dcd1bf8b6c6147a2d53b34929d7919d16bf9c80c7939623d59",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dce478e09f5a77dcd1bf8b6c6147a2d53b34929d7919d16bf9c80c7939623d59",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/70675/Siracusaville__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "70675",
+  "timestamp": "2026-05-24T23:45:09.062117Z",
+  "version": 1
+}

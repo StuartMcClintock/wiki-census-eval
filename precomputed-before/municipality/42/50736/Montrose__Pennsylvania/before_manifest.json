@@ -1,0 +1,16 @@
+{
+  "article": "Montrose,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/50736/Montrose__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "af248e8c577f96f2923552727b41f794cbd64ea66cbea10bddc9d38d51904fad",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "af248e8c577f96f2923552727b41f794cbd64ea66cbea10bddc9d38d51904fad",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/50736/Montrose__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "50736",
+  "timestamp": "2026-05-25T00:08:08.968741Z",
+  "version": 1
+}

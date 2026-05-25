@@ -1,0 +1,16 @@
+{
+  "article": "Youngsville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/87224/Youngsville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f8dd0e84456af5a74163a31066c9cf2bf932d23f88139cbf69e0bffb62b3ebd3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f8dd0e84456af5a74163a31066c9cf2bf932d23f88139cbf69e0bffb62b3ebd3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/87224/Youngsville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "87224",
+  "timestamp": "2026-05-25T00:09:35.463868Z",
+  "version": 1
+}

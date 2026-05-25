@@ -1,0 +1,16 @@
+{
+  "article": "Williford,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/75740/Williford__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3b18394639653629d66eb989dafe0ca5cb79fe809d20ac88549304527f06f36b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3b18394639653629d66eb989dafe0ca5cb79fe809d20ac88549304527f06f36b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/75740/Williford__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "75740",
+  "timestamp": "2026-05-24T23:34:14.761812Z",
+  "version": 1
+}

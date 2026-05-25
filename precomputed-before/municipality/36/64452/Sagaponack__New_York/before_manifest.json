@@ -1,0 +1,16 @@
+{
+  "article": "Sagaponack,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/64452/Sagaponack__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "10534cd4f586390bfd271591903c230dbc2ffbeea9221dfd49b6fbcb7dfb45ab",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "10534cd4f586390bfd271591903c230dbc2ffbeea9221dfd49b6fbcb7dfb45ab",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/64452/Sagaponack__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "64452",
+  "timestamp": "2026-05-25T00:01:10.232585Z",
+  "version": 1
+}

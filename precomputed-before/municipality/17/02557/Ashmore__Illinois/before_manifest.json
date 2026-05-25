@@ -1,0 +1,16 @@
+{
+  "article": "Ashmore,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/02557/Ashmore__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "34d2e81bd0f0be819b2ac049a5560b4b1cd10b94b53bc4ec01fd99fa5e7cb3f4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "34d2e81bd0f0be819b2ac049a5560b4b1cd10b94b53bc4ec01fd99fa5e7cb3f4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/02557/Ashmore__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "02557",
+  "timestamp": "2026-05-24T23:37:34.713546Z",
+  "version": 1
+}

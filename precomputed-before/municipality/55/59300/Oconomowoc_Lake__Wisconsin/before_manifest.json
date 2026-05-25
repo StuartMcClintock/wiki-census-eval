@@ -1,0 +1,16 @@
+{
+  "article": "Oconomowoc_Lake,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/59300/Oconomowoc_Lake__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "92c163aba5764e5cc44c1d2a1f11b1ee31f9c0b17766aab1071f7cf6d4efbeae",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "92c163aba5764e5cc44c1d2a1f11b1ee31f9c0b17766aab1071f7cf6d4efbeae",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/59300/Oconomowoc_Lake__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "59300",
+  "timestamp": "2026-05-25T00:22:31.015867Z",
+  "version": 1
+}

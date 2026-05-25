@@ -1,0 +1,16 @@
+{
+  "article": "Sisquoc,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/72086/Sisquoc__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "00a25d58ecd91dd0633530e714a114452783ff1099ed6ebcc9f1110e1f0b2bc0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "00a25d58ecd91dd0633530e714a114452783ff1099ed6ebcc9f1110e1f0b2bc0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/72086/Sisquoc__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "72086",
+  "timestamp": "2026-05-24T23:35:05.981560Z",
+  "version": 1
+}

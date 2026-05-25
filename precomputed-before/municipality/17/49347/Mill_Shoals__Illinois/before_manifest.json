@@ -1,0 +1,16 @@
+{
+  "article": "Mill_Shoals,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/49347/Mill_Shoals__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7a2803ce9dbc408382b582edae34e18f0727a0e7249e4c17c5ffbd3d3e1b933b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7a2803ce9dbc408382b582edae34e18f0727a0e7249e4c17c5ffbd3d3e1b933b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/49347/Mill_Shoals__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "49347",
+  "timestamp": "2026-05-24T23:38:36.069458Z",
+  "version": 1
+}

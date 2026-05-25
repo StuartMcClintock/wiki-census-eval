@@ -1,0 +1,16 @@
+{
+  "article": "South_Shore,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/59940/South_Shore__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d003d4f4df33fddc7214af94b7ea811aad94252c4f512aa56d4ab4293929daea",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d003d4f4df33fddc7214af94b7ea811aad94252c4f512aa56d4ab4293929daea",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/59940/South_Shore__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "59940",
+  "timestamp": "2026-05-25T00:12:47.829957Z",
+  "version": 1
+}

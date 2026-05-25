@@ -1,0 +1,16 @@
+{
+  "article": "Hermitage,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/31540/Hermitage__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "51bf839e4547823c2007fb4fadc7e0b15696441fab77bad90934c4510e318c30",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "51bf839e4547823c2007fb4fadc7e0b15696441fab77bad90934c4510e318c30",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/31540/Hermitage__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "31540",
+  "timestamp": "2026-05-24T23:33:46.207267Z",
+  "version": 1
+}

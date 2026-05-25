@@ -1,0 +1,16 @@
+{
+  "article": "Linden,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/45390/Linden__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6c3a2e7164f3d6506db153e27f0ac7cb3c5c5c4c83e2e74fa0da9653d2ca8b18",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6c3a2e7164f3d6506db153e27f0ac7cb3c5c5c4c83e2e74fa0da9653d2ca8b18",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/45390/Linden__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "45390",
+  "timestamp": "2026-05-24T23:41:20.326399Z",
+  "version": 1
+}

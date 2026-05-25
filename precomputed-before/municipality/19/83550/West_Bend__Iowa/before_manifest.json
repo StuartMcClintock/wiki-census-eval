@@ -1,0 +1,16 @@
+{
+  "article": "West_Bend,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/83550/West_Bend__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "85666f9036d1e3301a0b83217dc60e01e908858bbaf150d31f6ae9e9612b95f6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "85666f9036d1e3301a0b83217dc60e01e908858bbaf150d31f6ae9e9612b95f6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/83550/West_Bend__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "83550",
+  "timestamp": "2026-05-24T23:42:11.004682Z",
+  "version": 1
+}

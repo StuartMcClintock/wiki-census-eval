@@ -1,0 +1,16 @@
+{
+  "article": "Avella,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/03616/Avella__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "271badc941b1610a321cbb7918803bf7d50721f8c649b6570fd41e3f90438e70",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "271badc941b1610a321cbb7918803bf7d50721f8c649b6570fd41e3f90438e70",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/03616/Avella__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "03616",
+  "timestamp": "2026-05-25T00:06:11.273112Z",
+  "version": 1
+}

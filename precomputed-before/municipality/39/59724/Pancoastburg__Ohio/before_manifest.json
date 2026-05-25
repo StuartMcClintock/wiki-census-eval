@@ -1,0 +1,16 @@
+{
+  "article": "Pancoastburg,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/59724/Pancoastburg__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0fecd8dd244f897544e232d1f4a83fe2d23ef0d79c981ab6348690574db13c73",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0fecd8dd244f897544e232d1f4a83fe2d23ef0d79c981ab6348690574db13c73",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/59724/Pancoastburg__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "59724",
+  "timestamp": "2026-05-25T00:05:03.835160Z",
+  "version": 1
+}

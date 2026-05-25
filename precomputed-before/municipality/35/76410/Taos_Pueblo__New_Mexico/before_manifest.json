@@ -1,0 +1,16 @@
+{
+  "article": "Taos_Pueblo,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/76410/Taos_Pueblo__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "49645b6c6d182ea4496235ea347e6c7733b91853a8ca862b94196dc8782737b4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "49645b6c6d182ea4496235ea347e6c7733b91853a8ca862b94196dc8782737b4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/76410/Taos_Pueblo__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "76410",
+  "timestamp": "2026-05-24T23:59:07.523217Z",
+  "version": 1
+}

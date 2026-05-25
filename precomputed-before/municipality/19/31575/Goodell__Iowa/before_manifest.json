@@ -1,0 +1,16 @@
+{
+  "article": "Goodell,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/31575/Goodell__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "be7ad1671559f2afa5addbcb7f953d10b1f920d9948ec03689c7f2087d9e09be",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "be7ad1671559f2afa5addbcb7f953d10b1f920d9948ec03689c7f2087d9e09be",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/31575/Goodell__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "31575",
+  "timestamp": "2026-05-24T23:41:05.643353Z",
+  "version": 1
+}

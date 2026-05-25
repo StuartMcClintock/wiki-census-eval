@@ -1,0 +1,16 @@
+{
+  "article": "Lewisville,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/39640/Lewisville__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2b21835aefdc31a54d5344231134884368756f48969dd88a52c82d2ce12afb5f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2b21835aefdc31a54d5344231134884368756f48969dd88a52c82d2ce12afb5f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/39640/Lewisville__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "39640",
+  "timestamp": "2026-05-24T23:33:50.597100Z",
+  "version": 1
+}

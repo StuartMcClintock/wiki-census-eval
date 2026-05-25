@@ -1,0 +1,16 @@
+{
+  "article": "Rock_Falls,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/68025/Rock_Falls__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a7b08df227f8abfec26ac8f166df7673d795365232a2aa6b77394cb9ef4bdea5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a7b08df227f8abfec26ac8f166df7673d795365232a2aa6b77394cb9ef4bdea5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/68025/Rock_Falls__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "68025",
+  "timestamp": "2026-05-24T23:41:43.688197Z",
+  "version": 1
+}

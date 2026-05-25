@@ -1,0 +1,16 @@
+{
+  "article": "La_Conner,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/36780/La_Conner__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "58409d9aae5c93675f4f022db2aac5cbc02f9d990f85239804038040f237917a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "58409d9aae5c93675f4f022db2aac5cbc02f9d990f85239804038040f237917a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/36780/La_Conner__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "36780",
+  "timestamp": "2026-05-25T00:20:17.704676Z",
+  "version": 1
+}

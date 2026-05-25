@@ -1,0 +1,16 @@
+{
+  "article": "Glenshaw,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/29800/Glenshaw__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "effa3d40e7027604ece425a8678dad45cc04c09e4f9fc02381de4342d97e92bd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "effa3d40e7027604ece425a8678dad45cc04c09e4f9fc02381de4342d97e92bd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/29800/Glenshaw__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "29800",
+  "timestamp": "2026-05-25T00:07:17.507661Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Hadar,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/20470/Hadar__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5d9e00e007370d2ee2926de0b92e5dfffa425eec904bd8537b953ac7db9c9dfe",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5d9e00e007370d2ee2926de0b92e5dfffa425eec904bd8537b953ac7db9c9dfe",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/20470/Hadar__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "20470",
+  "timestamp": "2026-05-24T23:55:30.028032Z",
+  "version": 1
+}

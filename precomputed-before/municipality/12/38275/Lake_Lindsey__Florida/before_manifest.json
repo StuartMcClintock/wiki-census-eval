@@ -1,0 +1,16 @@
+{
+  "article": "Lake_Lindsey,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/38275/Lake_Lindsey__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f7d62842b0c7e21070250d8a545cfa53f54d5ffd5ac5b2b6f932c324d41d7971",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f7d62842b0c7e21070250d8a545cfa53f54d5ffd5ac5b2b6f932c324d41d7971",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/38275/Lake_Lindsey__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "38275",
+  "timestamp": "2026-05-24T23:36:16.186766Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Glen_Echo_Park,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/27370/Glen_Echo_Park__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "34ee32e4a23fa545becfada40a3850ed64e1998b7dd2c66408195bf1d077b8d9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "34ee32e4a23fa545becfada40a3850ed64e1998b7dd2c66408195bf1d077b8d9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/27370/Glen_Echo_Park__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "27370",
+  "timestamp": "2026-05-24T23:53:13.589828Z",
+  "version": 1
+}

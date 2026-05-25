@@ -1,0 +1,16 @@
+{
+  "article": "Rectortown,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/66032/Rectortown__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9c0fe65ee9ef6c94e63ce972bcee8e095bdab64aa8d3bdd69ca69709714a5482",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9c0fe65ee9ef6c94e63ce972bcee8e095bdab64aa8d3bdd69ca69709714a5482",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/66032/Rectortown__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "66032",
+  "timestamp": "2026-05-25T00:19:33.801171Z",
+  "version": 1
+}

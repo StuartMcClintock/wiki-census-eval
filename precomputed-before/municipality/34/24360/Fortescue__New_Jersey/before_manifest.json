@@ -1,0 +1,16 @@
+{
+  "article": "Fortescue,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/24360/Fortescue__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fe2d16d044faee7d0e6672a2b9faad72c984a4dbe749e3b5cd2f03b7b9be3b07",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fe2d16d044faee7d0e6672a2b9faad72c984a4dbe749e3b5cd2f03b7b9be3b07",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/24360/Fortescue__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "24360",
+  "timestamp": "2026-05-24T23:57:48.260027Z",
+  "version": 1
+}

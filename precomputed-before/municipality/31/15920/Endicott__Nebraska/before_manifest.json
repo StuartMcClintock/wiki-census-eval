@@ -1,0 +1,16 @@
+{
+  "article": "Endicott,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/15920/Endicott__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8ccda329ef588bb35da1fbdd10c23af61f6250d3af3d9f4285bbdf1ef91ef5a4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8ccda329ef588bb35da1fbdd10c23af61f6250d3af3d9f4285bbdf1ef91ef5a4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/15920/Endicott__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "15920",
+  "timestamp": "2026-05-24T23:55:25.649757Z",
+  "version": 1
+}

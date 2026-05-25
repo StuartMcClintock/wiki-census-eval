@@ -1,0 +1,16 @@
+{
+  "article": "Persia,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/62445/Persia__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "db94c936398aa6fab901e07c6bcea470547191e40e2355434d1a9aa74650d0c2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "db94c936398aa6fab901e07c6bcea470547191e40e2355434d1a9aa74650d0c2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/62445/Persia__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "62445",
+  "timestamp": "2026-05-24T23:41:37.609238Z",
+  "version": 1
+}

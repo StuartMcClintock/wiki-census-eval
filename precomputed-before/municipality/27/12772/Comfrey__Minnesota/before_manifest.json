@@ -1,0 +1,16 @@
+{
+  "article": "Comfrey,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/12772/Comfrey__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b3414dff8b962ba8ae5e5408246de7e14f4f9a60471cc40fc70362ed3b130548",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b3414dff8b962ba8ae5e5408246de7e14f4f9a60471cc40fc70362ed3b130548",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/12772/Comfrey__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "12772",
+  "timestamp": "2026-05-24T23:48:46.528209Z",
+  "version": 1
+}

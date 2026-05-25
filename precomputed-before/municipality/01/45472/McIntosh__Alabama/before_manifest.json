@@ -1,0 +1,16 @@
+{
+  "article": "McIntosh,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/45472/McIntosh__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ef3686a17189efc95d926be4760709fc2b4327ef79995e3501a2388bfb4ddae0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ef3686a17189efc95d926be4760709fc2b4327ef79995e3501a2388bfb4ddae0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/45472/McIntosh__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "45472",
+  "timestamp": "2026-05-24T23:32:03.271497Z",
+  "version": 1
+}

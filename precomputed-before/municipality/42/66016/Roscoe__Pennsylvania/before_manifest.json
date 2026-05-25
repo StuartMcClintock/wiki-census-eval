@@ -1,0 +1,16 @@
+{
+  "article": "Roscoe,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/66016/Roscoe__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "28df8f89d34e8e3619820594fddfc7a11e6ede9b76fb76fad38ba42385d2a1fd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "28df8f89d34e8e3619820594fddfc7a11e6ede9b76fb76fad38ba42385d2a1fd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/66016/Roscoe__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "66016",
+  "timestamp": "2026-05-25T00:08:52.316605Z",
+  "version": 1
+}

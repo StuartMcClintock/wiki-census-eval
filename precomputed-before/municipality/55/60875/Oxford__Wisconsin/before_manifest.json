@@ -1,0 +1,16 @@
+{
+  "article": "Oxford,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/60875/Oxford__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c75c108c479a2e4ce761d872d044eefd5385844516d6a90b6a396dd3f68ab7a1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c75c108c479a2e4ce761d872d044eefd5385844516d6a90b6a396dd3f68ab7a1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/60875/Oxford__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "60875",
+  "timestamp": "2026-05-25T00:22:32.710755Z",
+  "version": 1
+}

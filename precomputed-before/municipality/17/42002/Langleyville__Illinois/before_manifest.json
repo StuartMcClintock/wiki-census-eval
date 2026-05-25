@@ -1,0 +1,16 @@
+{
+  "article": "Langleyville,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/42002/Langleyville__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1e094ed05d967e8b40f7e6c87c57a44a51a119552a18cf3e8a0b512455405f3c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1e094ed05d967e8b40f7e6c87c57a44a51a119552a18cf3e8a0b512455405f3c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/42002/Langleyville__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "42002",
+  "timestamp": "2026-05-24T23:38:27.676866Z",
+  "version": 1
+}

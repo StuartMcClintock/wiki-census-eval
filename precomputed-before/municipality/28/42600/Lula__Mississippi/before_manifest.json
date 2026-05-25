@@ -1,0 +1,16 @@
+{
+  "article": "Lula,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/42600/Lula__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ca261e1a9a305d1dd7d7d8df94b8abea576973352cb4e62650512d9f812dd061",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ca261e1a9a305d1dd7d7d8df94b8abea576973352cb4e62650512d9f812dd061",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/42600/Lula__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "42600",
+  "timestamp": "2026-05-24T23:50:15.148684Z",
+  "version": 1
+}

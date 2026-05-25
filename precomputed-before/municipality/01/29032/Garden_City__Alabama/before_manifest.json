@@ -1,0 +1,16 @@
+{
+  "article": "Garden_City,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/29032/Garden_City__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "936fccefdafa30715ab482eb172041c23449e6218fe22c092b248589a8823434",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "936fccefdafa30715ab482eb172041c23449e6218fe22c092b248589a8823434",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/29032/Garden_City__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "29032",
+  "timestamp": "2026-05-24T23:31:57.018688Z",
+  "version": 1
+}

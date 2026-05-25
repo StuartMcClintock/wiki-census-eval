@@ -1,0 +1,16 @@
+{
+  "article": "Pleasant_Grove,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/62100/Pleasant_Grove__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6f10e70b02de182553c42b6669aec8ff05c281c186a490475c762e602ea139a3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6f10e70b02de182553c42b6669aec8ff05c281c186a490475c762e602ea139a3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/62100/Pleasant_Grove__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "62100",
+  "timestamp": "2026-05-24T23:47:30.595311Z",
+  "version": 1
+}

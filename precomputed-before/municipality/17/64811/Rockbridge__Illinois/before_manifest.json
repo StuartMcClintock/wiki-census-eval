@@ -1,0 +1,16 @@
+{
+  "article": "Rockbridge,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/64811/Rockbridge__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cf3f7d7ab8f463428cc02d9d8b9a1408c718f058a34af2239f95b9322bef93cf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cf3f7d7ab8f463428cc02d9d8b9a1408c718f058a34af2239f95b9322bef93cf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/64811/Rockbridge__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "64811",
+  "timestamp": "2026-05-24T23:39:06.821044Z",
+  "version": 1
+}

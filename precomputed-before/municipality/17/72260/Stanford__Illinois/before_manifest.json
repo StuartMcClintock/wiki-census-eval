@@ -1,0 +1,16 @@
+{
+  "article": "Stanford,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/72260/Stanford__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "49b2a61ee1b5074c06763d8bace8e79690aef1048d786e5d437e38e7dcb0aec4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "49b2a61ee1b5074c06763d8bace8e79690aef1048d786e5d437e38e7dcb0aec4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/72260/Stanford__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "72260",
+  "timestamp": "2026-05-24T23:39:13.562475Z",
+  "version": 1
+}

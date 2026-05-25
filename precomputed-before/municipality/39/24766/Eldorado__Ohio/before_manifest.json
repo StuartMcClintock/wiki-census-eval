@@ -1,0 +1,16 @@
+{
+  "article": "Eldorado,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/24766/Eldorado__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f28c045a88d411f01c18933ec1a80e8d816004b93aa1aa1c7309f6a3ba3f8f58",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f28c045a88d411f01c18933ec1a80e8d816004b93aa1aa1c7309f6a3ba3f8f58",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/24766/Eldorado__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "24766",
+  "timestamp": "2026-05-25T00:04:07.029075Z",
+  "version": 1
+}

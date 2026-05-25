@@ -1,0 +1,16 @@
+{
+  "article": "Wilkshire_Hills,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/85228/Wilkshire_Hills__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c6057ecbdd4b41f14f1bae835b12a1c1239c2be02ebe092cbdc184c024b503c4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c6057ecbdd4b41f14f1bae835b12a1c1239c2be02ebe092cbdc184c024b503c4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/85228/Wilkshire_Hills__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "85228",
+  "timestamp": "2026-05-25T00:05:39.485058Z",
+  "version": 1
+}

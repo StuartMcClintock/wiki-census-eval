@@ -1,0 +1,16 @@
+{
+  "article": "West_Middlesex,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/83496/West_Middlesex__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "14924e1cedfabd623faac24de587ff7e7ce6f4ee968c4535bd06a3b8bfe76ddb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "14924e1cedfabd623faac24de587ff7e7ce6f4ee968c4535bd06a3b8bfe76ddb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/83496/West_Middlesex__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "83496",
+  "timestamp": "2026-05-25T00:09:28.727935Z",
+  "version": 1
+}

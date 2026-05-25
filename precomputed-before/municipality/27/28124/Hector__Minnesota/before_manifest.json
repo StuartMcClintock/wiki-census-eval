@@ -1,0 +1,16 @@
+{
+  "article": "Hector,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/28124/Hector__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "654e30b6f96e2d1f0b5c1f9a4a803409b79bf6cbe24ec40339272a959bf05d9c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "654e30b6f96e2d1f0b5c1f9a4a803409b79bf6cbe24ec40339272a959bf05d9c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/28124/Hector__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "28124",
+  "timestamp": "2026-05-24T23:49:07.282585Z",
+  "version": 1
+}

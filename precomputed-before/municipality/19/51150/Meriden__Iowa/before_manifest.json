@@ -1,0 +1,16 @@
+{
+  "article": "Meriden,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/51150/Meriden__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "71b79caf84d7138bd58bbdbae31ba044912053841a9c90ba21682fd9059c1551",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "71b79caf84d7138bd58bbdbae31ba044912053841a9c90ba21682fd9059c1551",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/51150/Meriden__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "51150",
+  "timestamp": "2026-05-24T23:41:27.222116Z",
+  "version": 1
+}

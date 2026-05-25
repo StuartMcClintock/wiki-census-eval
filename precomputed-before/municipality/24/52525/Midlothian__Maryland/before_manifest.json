@@ -1,0 +1,16 @@
+{
+  "article": "Midlothian,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/52525/Midlothian__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b1c1c100c890d31f4708866c53275e75e89c9e50f0d09329ce1b30284f2862a4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b1c1c100c890d31f4708866c53275e75e89c9e50f0d09329ce1b30284f2862a4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/52525/Midlothian__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "52525",
+  "timestamp": "2026-05-24T23:47:27.657404Z",
+  "version": 1
+}

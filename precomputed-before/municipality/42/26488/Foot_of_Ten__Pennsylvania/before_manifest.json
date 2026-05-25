@@ -1,0 +1,16 @@
+{
+  "article": "Foot_of_Ten,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/26488/Foot_of_Ten__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d3123ea274f47210c2c0641972026ebe7b9c36f8b99d111d32ab964a6530893f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d3123ea274f47210c2c0641972026ebe7b9c36f8b99d111d32ab964a6530893f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/26488/Foot_of_Ten__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "26488",
+  "timestamp": "2026-05-25T00:07:09.817023Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Garfield,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/23120/Garfield__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1e20b771e8d431cba1364e1bce15abc6314fe88d4d5fd9b47a35fc4828e43094",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1e20b771e8d431cba1364e1bce15abc6314fe88d4d5fd9b47a35fc4828e43094",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/23120/Garfield__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "23120",
+  "timestamp": "2026-05-24T23:49:01.482885Z",
+  "version": 1
+}

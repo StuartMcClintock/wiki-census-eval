@@ -1,0 +1,16 @@
+{
+  "article": "Lake_Ivanhoe,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/41560/Lake_Ivanhoe__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6620a064cae29de2a75e5185c7e27e530cdc0487b9cd3258fd2e1f582e855eaf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6620a064cae29de2a75e5185c7e27e530cdc0487b9cd3258fd2e1f582e855eaf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/41560/Lake_Ivanhoe__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "41560",
+  "timestamp": "2026-05-25T00:22:18.166312Z",
+  "version": 1
+}

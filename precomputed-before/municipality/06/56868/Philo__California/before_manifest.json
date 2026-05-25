@@ -1,0 +1,16 @@
+{
+  "article": "Philo,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/56868/Philo__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dfe6697116137553a5b136cfb3a1e3e2172a72e1beffb6f4eda7c947a144d5e6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dfe6697116137553a5b136cfb3a1e3e2172a72e1beffb6f4eda7c947a144d5e6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/56868/Philo__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "56868",
+  "timestamp": "2026-05-24T23:34:46.254955Z",
+  "version": 1
+}

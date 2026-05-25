@@ -1,0 +1,16 @@
+{
+  "article": "Lazy_Y_U,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/40400/Lazy_Y_U__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a0c855daca5457d490c3bd4f61ff6eb994316d3797db49be80ce7662fbe7f8cd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a0c855daca5457d490c3bd4f61ff6eb994316d3797db49be80ce7662fbe7f8cd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/40400/Lazy_Y_U__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "40400",
+  "timestamp": "2026-05-24T23:33:02.687130Z",
+  "version": 1
+}

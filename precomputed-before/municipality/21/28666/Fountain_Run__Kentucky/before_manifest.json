@@ -1,0 +1,16 @@
+{
+  "article": "Fountain_Run,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/28666/Fountain_Run__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a0d4a105f5962620b6683c27d6bb1e80f923e00b41975eb1d45f6f05493ff4bb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a0d4a105f5962620b6683c27d6bb1e80f923e00b41975eb1d45f6f05493ff4bb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/28666/Fountain_Run__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "28666",
+  "timestamp": "2026-05-24T23:44:03.284446Z",
+  "version": 1
+}

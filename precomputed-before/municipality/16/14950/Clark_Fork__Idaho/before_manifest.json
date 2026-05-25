@@ -1,0 +1,16 @@
+{
+  "article": "Clark_Fork,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/14950/Clark_Fork__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "841e7237ce2688c289e027d68239af68fd1e5d3be96e9a3807eb4c2bcde6dbcf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "841e7237ce2688c289e027d68239af68fd1e5d3be96e9a3807eb4c2bcde6dbcf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/14950/Clark_Fork__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "14950",
+  "timestamp": "2026-05-24T23:37:17.604119Z",
+  "version": 1
+}

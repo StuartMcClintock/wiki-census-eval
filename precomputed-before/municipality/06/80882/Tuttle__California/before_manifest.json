@@ -1,0 +1,16 @@
+{
+  "article": "Tuttle,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/80882/Tuttle__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e4ec713a2a95831c985070c005546283c5150a4b277810aaa73183259a1c5483",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e4ec713a2a95831c985070c005546283c5150a4b277810aaa73183259a1c5483",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/80882/Tuttle__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "80882",
+  "timestamp": "2026-05-24T23:35:11.366089Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Lovilia,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/46830/Lovilia__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7b658ea1a778ee84101e22561ab6653f3c2fb2afc4427a3004297c7d892967c8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7b658ea1a778ee84101e22561ab6653f3c2fb2afc4427a3004297c7d892967c8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/46830/Lovilia__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "46830",
+  "timestamp": "2026-05-24T23:41:22.109980Z",
+  "version": 1
+}

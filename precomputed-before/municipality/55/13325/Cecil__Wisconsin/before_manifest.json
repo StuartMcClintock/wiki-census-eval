@@ -1,0 +1,16 @@
+{
+  "article": "Cecil,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/13325/Cecil__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a52f6b3be2e28601665e519ced4c550344c9e254a15064b6fa0575292f7a1aa1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a52f6b3be2e28601665e519ced4c550344c9e254a15064b6fa0575292f7a1aa1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/13325/Cecil__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "13325",
+  "timestamp": "2026-05-25T00:21:41.845940Z",
+  "version": 1
+}

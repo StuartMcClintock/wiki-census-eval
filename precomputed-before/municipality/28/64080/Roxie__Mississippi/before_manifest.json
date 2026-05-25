@@ -1,0 +1,16 @@
+{
+  "article": "Roxie,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/64080/Roxie__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "eff09605b88249f0ba90ae2f89697ede29f075c74b2aed3f26649a5cfffa84a9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "eff09605b88249f0ba90ae2f89697ede29f075c74b2aed3f26649a5cfffa84a9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/64080/Roxie__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "64080",
+  "timestamp": "2026-05-24T23:50:22.517804Z",
+  "version": 1
+}

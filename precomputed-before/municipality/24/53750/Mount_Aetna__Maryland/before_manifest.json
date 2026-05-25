@@ -1,0 +1,16 @@
+{
+  "article": "Mount_Aetna,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/53750/Mount_Aetna__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0dacd5c2cc8f48a65b91071fa58c1f69306eedb987a9b9939cf3b211ebebdbee",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0dacd5c2cc8f48a65b91071fa58c1f69306eedb987a9b9939cf3b211ebebdbee",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/53750/Mount_Aetna__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "53750",
+  "timestamp": "2026-05-24T23:47:28.127112Z",
+  "version": 1
+}

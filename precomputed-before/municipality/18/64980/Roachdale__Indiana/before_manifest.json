@@ -1,0 +1,16 @@
+{
+  "article": "Roachdale,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/64980/Roachdale__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "921cf808cd1e53843d2c98da1f8a8d364d519d3a33a59edffc681bf844a80f7e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "921cf808cd1e53843d2c98da1f8a8d364d519d3a33a59edffc681bf844a80f7e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/64980/Roachdale__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "64980",
+  "timestamp": "2026-05-24T23:40:10.106425Z",
+  "version": 1
+}

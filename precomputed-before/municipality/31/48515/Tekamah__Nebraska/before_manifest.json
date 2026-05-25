@@ -1,0 +1,16 @@
+{
+  "article": "Tekamah,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/48515/Tekamah__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c2fc7b8420880033182e088d76f9f68add979b93524f19d2dd1552d4b08cada5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c2fc7b8420880033182e088d76f9f68add979b93524f19d2dd1552d4b08cada5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/48515/Tekamah__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "48515",
+  "timestamp": "2026-05-24T23:57:20.596708Z",
+  "version": 1
+}

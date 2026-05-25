@@ -1,0 +1,16 @@
+{
+  "article": "Whiting,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/78100/Whiting__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "728e7edd66b56e8274d31a49a98368efa4960d6ba087fcb5d8978354c15f0dcb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "728e7edd66b56e8274d31a49a98368efa4960d6ba087fcb5d8978354c15f0dcb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/78100/Whiting__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "78100",
+  "timestamp": "2026-05-24T23:43:37.978883Z",
+  "version": 1
+}

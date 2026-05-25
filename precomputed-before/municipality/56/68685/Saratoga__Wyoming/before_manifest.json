@@ -1,0 +1,16 @@
+{
+  "article": "Saratoga,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/68685/Saratoga__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0d80c5e2a60ffe2e749243e5f2fc8dfe36e7c33242ce7a03c9f8c13bc0cb55cb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0d80c5e2a60ffe2e749243e5f2fc8dfe36e7c33242ce7a03c9f8c13bc0cb55cb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/68685/Saratoga__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "68685",
+  "timestamp": "2026-05-25T00:23:22.928583Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Coral,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/16301/Coral__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6d01025ee5884e3aba1196f853c08c25702b87c5c0584674701317b2738b7eda",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6d01025ee5884e3aba1196f853c08c25702b87c5c0584674701317b2738b7eda",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/16301/Coral__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "16301",
+  "timestamp": "2026-05-24T23:38:02.915436Z",
+  "version": 1
+}

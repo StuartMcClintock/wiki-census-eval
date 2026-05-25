@@ -1,0 +1,16 @@
+{
+  "article": "Zeba,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/89240/Zeba__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d91079a79ce22959735fc88e7fe76ea86a2a53deaa0b0e427a10e01e9187f718",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d91079a79ce22959735fc88e7fe76ea86a2a53deaa0b0e427a10e01e9187f718",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/89240/Zeba__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "89240",
+  "timestamp": "2026-05-24T23:48:33.741057Z",
+  "version": 1
+}

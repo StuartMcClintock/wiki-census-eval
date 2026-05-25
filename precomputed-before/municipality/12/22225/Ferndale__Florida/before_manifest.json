@@ -1,0 +1,16 @@
+{
+  "article": "Ferndale,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/22225/Ferndale__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "add27e0ef59aea296791bcfc7565863c3a12d5dd00a3e48185dc0075e9d5c04b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "add27e0ef59aea296791bcfc7565863c3a12d5dd00a3e48185dc0075e9d5c04b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/22225/Ferndale__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "22225",
+  "timestamp": "2026-05-24T23:36:11.192055Z",
+  "version": 1
+}

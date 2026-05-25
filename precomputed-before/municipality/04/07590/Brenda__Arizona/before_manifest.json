@@ -1,0 +1,16 @@
+{
+  "article": "Brenda,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/07590/Brenda__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ec6adc8373afb41b3b827f078ea480f4afbad38df1708c18f977340cf8d4ddfc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ec6adc8373afb41b3b827f078ea480f4afbad38df1708c18f977340cf8d4ddfc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/07590/Brenda__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "07590",
+  "timestamp": "2026-05-24T23:32:49.118691Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Kennard,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/39438/Kennard__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "66991c5cb19cd97c40fff431b41ffbbdae7902ff753e7767298cf6762736f06f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "66991c5cb19cd97c40fff431b41ffbbdae7902ff753e7767298cf6762736f06f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/39438/Kennard__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "39438",
+  "timestamp": "2026-05-24T23:39:40.666466Z",
+  "version": 1
+}

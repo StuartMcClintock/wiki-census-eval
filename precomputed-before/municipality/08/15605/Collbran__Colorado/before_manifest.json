@@ -1,0 +1,16 @@
+{
+  "article": "Collbran,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/15605/Collbran__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "12962bf180b72df6648de13b94af37456c12b815a3572e126f9bfeae41e4e3e6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "12962bf180b72df6648de13b94af37456c12b815a3572e126f9bfeae41e4e3e6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/15605/Collbran__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "15605",
+  "timestamp": "2026-05-24T23:35:21.991729Z",
+  "version": 1
+}

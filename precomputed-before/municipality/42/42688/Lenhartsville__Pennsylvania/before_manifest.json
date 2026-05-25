@@ -1,0 +1,16 @@
+{
+  "article": "Lenhartsville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/42688/Lenhartsville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f1eb76f23befc5cdfb6bfd2f51058870b3270d7bc4b7340177a4ab8dcc84e5fd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f1eb76f23befc5cdfb6bfd2f51058870b3270d7bc4b7340177a4ab8dcc84e5fd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/42688/Lenhartsville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "42688",
+  "timestamp": "2026-05-25T00:07:50.836804Z",
+  "version": 1
+}

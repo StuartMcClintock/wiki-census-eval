@@ -1,0 +1,16 @@
+{
+  "article": "Marion,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/48645/Marion__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "406a2f4701b10e44609ee3cb927f28a98accf772d41c48635ee305c31bb7bc41",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "406a2f4701b10e44609ee3cb927f28a98accf772d41c48635ee305c31bb7bc41",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/48645/Marion__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "48645",
+  "timestamp": "2026-05-24T23:44:55.630371Z",
+  "version": 1
+}

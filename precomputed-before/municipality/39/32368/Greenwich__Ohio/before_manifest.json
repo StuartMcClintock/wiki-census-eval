@@ -1,0 +1,16 @@
+{
+  "article": "Greenwich,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/32368/Greenwich__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cf46b2d4d08375d01bc31483eaf106bf2afd64df4026edb4cc88ccf154f7817d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cf46b2d4d08375d01bc31483eaf106bf2afd64df4026edb4cc88ccf154f7817d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/32368/Greenwich__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "32368",
+  "timestamp": "2026-05-25T00:04:14.675515Z",
+  "version": 1
+}

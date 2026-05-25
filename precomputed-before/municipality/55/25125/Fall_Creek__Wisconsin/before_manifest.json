@@ -1,0 +1,16 @@
+{
+  "article": "Fall_Creek,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/25125/Fall_Creek__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3f3eddbc45dbebaf80ccdb0cac0c1c3a5a700885f87e3150eb01969c94ee040a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3f3eddbc45dbebaf80ccdb0cac0c1c3a5a700885f87e3150eb01969c94ee040a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/25125/Fall_Creek__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "25125",
+  "timestamp": "2026-05-25T00:22:05.790609Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Prospect,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/62733/Prospect__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fcf0fbe4773831e37ec933828e5474c4b1fccb4e5542d5f5dfd4f2a8a65235e2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fcf0fbe4773831e37ec933828e5474c4b1fccb4e5542d5f5dfd4f2a8a65235e2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/62733/Prospect__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "62733",
+  "timestamp": "2026-05-24T23:45:05.928810Z",
+  "version": 1
+}

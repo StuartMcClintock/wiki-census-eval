@@ -1,0 +1,16 @@
+{
+  "article": "Valle_Vista,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/82332/Valle_Vista__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4a55322ac6e0561a09a8ab18f500880871b9c4c7a269538716454f3d5ec6db34",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4a55322ac6e0561a09a8ab18f500880871b9c4c7a269538716454f3d5ec6db34",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/82332/Valle_Vista__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "82332",
+  "timestamp": "2026-05-25T00:00:26.992050Z",
+  "version": 1
+}

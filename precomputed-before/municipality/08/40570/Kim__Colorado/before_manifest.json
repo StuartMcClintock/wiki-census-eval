@@ -1,0 +1,16 @@
+{
+  "article": "Kim,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/40570/Kim__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6087f5096bf7df2814bc070fb9486a55476a719fb22364f1b6d1a8add6fb51e3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6087f5096bf7df2814bc070fb9486a55476a719fb22364f1b6d1a8add6fb51e3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/40570/Kim__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "40570",
+  "timestamp": "2026-05-24T23:35:30.086074Z",
+  "version": 1
+}

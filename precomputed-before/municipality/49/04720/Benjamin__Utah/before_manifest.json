@@ -1,0 +1,16 @@
+{
+  "article": "Benjamin,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/04720/Benjamin__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6860b52d96308281738d0fb223cc353e6e74c5b16d87da3a08109bd52db43d70",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6860b52d96308281738d0fb223cc353e6e74c5b16d87da3a08109bd52db43d70",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/04720/Benjamin__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "04720",
+  "timestamp": "2026-05-25T00:16:53.527896Z",
+  "version": 1
+}

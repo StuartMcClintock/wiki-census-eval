@@ -1,0 +1,16 @@
+{
+  "article": "Golden,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/27940/Golden__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "43ea7cb5a534cd299b232cbc4161a3c2dd74205f67d14623ee8c68e168a8b90b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "43ea7cb5a534cd299b232cbc4161a3c2dd74205f67d14623ee8c68e168a8b90b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/27940/Golden__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "27940",
+  "timestamp": "2026-05-24T23:50:11.180734Z",
+  "version": 1
+}

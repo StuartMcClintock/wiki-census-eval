@@ -1,0 +1,16 @@
+{
+  "article": "South_Canal,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/73118/South_Canal__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b3a5921f89bcbc53f95e62d9d20eac053757c52341b3dded1e7eb6fdb03b30cc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b3a5921f89bcbc53f95e62d9d20eac053757c52341b3dded1e7eb6fdb03b30cc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/73118/South_Canal__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "73118",
+  "timestamp": "2026-05-25T00:05:28.143280Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Lockbourne,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/44310/Lockbourne__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bcb105ae0ebcb4c3c622a7539e9f18cc1feee76d7219f758ec382bd983ccbd13",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bcb105ae0ebcb4c3c622a7539e9f18cc1feee76d7219f758ec382bd983ccbd13",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/44310/Lockbourne__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "44310",
+  "timestamp": "2026-05-25T00:04:39.110565Z",
+  "version": 1
+}

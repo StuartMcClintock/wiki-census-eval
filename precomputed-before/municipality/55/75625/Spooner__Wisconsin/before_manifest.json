@@ -1,0 +1,16 @@
+{
+  "article": "Spooner,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/75625/Spooner__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a4e6b0a2ef0fc632fb92c112e7dc008400a0fdce11018bf927397922c1e16871",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a4e6b0a2ef0fc632fb92c112e7dc008400a0fdce11018bf927397922c1e16871",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/75625/Spooner__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "75625",
+  "timestamp": "2026-05-25T00:22:44.380377Z",
+  "version": 1
+}

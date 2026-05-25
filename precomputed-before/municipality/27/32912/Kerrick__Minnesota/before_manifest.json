@@ -1,0 +1,16 @@
+{
+  "article": "Kerrick,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/32912/Kerrick__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d25397ca3055e407a8ff53e568c5234d14da02a67d753a9e76cc567b25f43f64",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d25397ca3055e407a8ff53e568c5234d14da02a67d753a9e76cc567b25f43f64",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/32912/Kerrick__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "32912",
+  "timestamp": "2026-05-24T23:49:12.429956Z",
+  "version": 1
+}

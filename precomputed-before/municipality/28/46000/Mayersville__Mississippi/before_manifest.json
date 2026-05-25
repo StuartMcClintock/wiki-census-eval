@@ -1,0 +1,16 @@
+{
+  "article": "Mayersville,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/46000/Mayersville__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "64ba34f75b5d01f9f50a313f7d1c84b770e5c323eddb24c39e3c3e32aeb41111",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "64ba34f75b5d01f9f50a313f7d1c84b770e5c323eddb24c39e3c3e32aeb41111",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/46000/Mayersville__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "46000",
+  "timestamp": "2026-05-24T23:50:16.303332Z",
+  "version": 1
+}

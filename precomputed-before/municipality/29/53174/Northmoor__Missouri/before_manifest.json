@@ -1,0 +1,16 @@
+{
+  "article": "Northmoor,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/53174/Northmoor__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "03c49ecc98a627b201962fa3e9351265b2f188259888267893c24c396c63cf61",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "03c49ecc98a627b201962fa3e9351265b2f188259888267893c24c396c63cf61",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/53174/Northmoor__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "53174",
+  "timestamp": "2026-05-24T23:53:36.826839Z",
+  "version": 1
+}

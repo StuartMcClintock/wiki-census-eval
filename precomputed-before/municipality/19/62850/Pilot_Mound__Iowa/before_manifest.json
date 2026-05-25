@@ -1,0 +1,16 @@
+{
+  "article": "Pilot_Mound,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/62850/Pilot_Mound__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "77ccaa4622ef33bd54e52dcdd543546f9e844cfc22c532378a6e6f5f181ccab6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "77ccaa4622ef33bd54e52dcdd543546f9e844cfc22c532378a6e6f5f181ccab6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/62850/Pilot_Mound__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "62850",
+  "timestamp": "2026-05-24T23:41:37.994746Z",
+  "version": 1
+}

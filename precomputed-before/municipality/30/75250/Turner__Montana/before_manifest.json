@@ -1,0 +1,16 @@
+{
+  "article": "Turner,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/75250/Turner__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "be513fc5d27b694b7881974f8fd59235b3c28086972786c24fb45a6600b3d9a2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "be513fc5d27b694b7881974f8fd59235b3c28086972786c24fb45a6600b3d9a2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/75250/Turner__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "75250",
+  "timestamp": "2026-05-24T23:55:00.964915Z",
+  "version": 1
+}

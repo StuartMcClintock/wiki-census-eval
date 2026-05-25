@@ -1,0 +1,16 @@
+{
+  "article": "Chapman,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/08780/Chapman__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2f0dff1f86ad538e4864c0a8ea5013d0114187f328a7c0c6acf6d3cc2a94ba64",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2f0dff1f86ad538e4864c0a8ea5013d0114187f328a7c0c6acf6d3cc2a94ba64",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/08780/Chapman__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "08780",
+  "timestamp": "2026-05-24T23:55:17.534203Z",
+  "version": 1
+}

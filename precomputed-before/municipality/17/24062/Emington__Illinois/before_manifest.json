@@ -1,0 +1,16 @@
+{
+  "article": "Emington,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/24062/Emington__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "014b7cd2ac902c1f7108e7b1d2a022c3c60ca5660059cc1b10c0ff59040052df",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "014b7cd2ac902c1f7108e7b1d2a022c3c60ca5660059cc1b10c0ff59040052df",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/24062/Emington__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "24062",
+  "timestamp": "2026-05-24T23:38:10.910552Z",
+  "version": 1
+}

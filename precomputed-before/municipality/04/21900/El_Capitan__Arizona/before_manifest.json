@@ -1,0 +1,16 @@
+{
+  "article": "El_Capitan,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/21900/El_Capitan__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2c807e6efa65ad0e9b63c6c424a4efe04c4cfc715d44971bf35b07d4706570fc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2c807e6efa65ad0e9b63c6c424a4efe04c4cfc715d44971bf35b07d4706570fc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/21900/El_Capitan__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "21900",
+  "timestamp": "2026-05-24T23:32:53.660949Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Downing,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/19990/Downing__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9d571815cb25c04593fbbd79729f683fe737af09d442093dede6fd0276fc5186",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9d571815cb25c04593fbbd79729f683fe737af09d442093dede6fd0276fc5186",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/19990/Downing__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "19990",
+  "timestamp": "2026-05-24T23:51:04.292404Z",
+  "version": 1
+}

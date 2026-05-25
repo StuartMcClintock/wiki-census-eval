@@ -1,0 +1,16 @@
+{
+  "article": "Ellenton,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/27008/Ellenton__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "75c1a4bb6ca6a0f6231493d2bc822cb5e1ad517a27895db35ab3556d79bfe0a6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "75c1a4bb6ca6a0f6231493d2bc822cb5e1ad517a27895db35ab3556d79bfe0a6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/27008/Ellenton__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "27008",
+  "timestamp": "2026-05-24T23:36:35.765307Z",
+  "version": 1
+}

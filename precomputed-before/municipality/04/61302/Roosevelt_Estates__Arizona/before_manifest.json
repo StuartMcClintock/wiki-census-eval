@@ -1,0 +1,16 @@
+{
+  "article": "Roosevelt_Estates,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/61302/Roosevelt_Estates__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "254864a41c6655fc276c3ad76cd0e4a9867788a395bdb1357cab5589dd909630",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "254864a41c6655fc276c3ad76cd0e4a9867788a395bdb1357cab5589dd909630",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/61302/Roosevelt_Estates__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "61302",
+  "timestamp": "2026-05-24T23:33:07.597868Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Gadsden,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/26070/Gadsden__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b0b3032243db6ba36b38b948a0bbea7364780bf174e335193660ce9d5909a1ae",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b0b3032243db6ba36b38b948a0bbea7364780bf174e335193660ce9d5909a1ae",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/26070/Gadsden__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "26070",
+  "timestamp": "2026-05-24T23:32:54.824732Z",
+  "version": 1
+}

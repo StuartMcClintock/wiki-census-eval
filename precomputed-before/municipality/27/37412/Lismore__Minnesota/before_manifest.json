@@ -1,0 +1,16 @@
+{
+  "article": "Lismore,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/37412/Lismore__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ac594bee7518c8000ce3a23eb289a606a1bb3fdfb45fd5f0d5f7940545f9b472",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ac594bee7518c8000ce3a23eb289a606a1bb3fdfb45fd5f0d5f7940545f9b472",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/37412/Lismore__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "37412",
+  "timestamp": "2026-05-24T23:49:16.318141Z",
+  "version": 1
+}

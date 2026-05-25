@@ -1,0 +1,16 @@
+{
+  "article": "Gateway,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/26110/Gateway__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "03ad7922bb4d4c6d9feef9f92882130ed1b499967e9f6e1a971ed6f383d82510",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "03ad7922bb4d4c6d9feef9f92882130ed1b499967e9f6e1a971ed6f383d82510",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/26110/Gateway__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "26110",
+  "timestamp": "2026-05-24T23:33:42.709618Z",
+  "version": 1
+}

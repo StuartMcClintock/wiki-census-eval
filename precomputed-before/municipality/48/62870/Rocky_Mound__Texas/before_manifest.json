@@ -1,0 +1,16 @@
+{
+  "article": "Rocky_Mound,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/62870/Rocky_Mound__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8a35ec8a9de6b16e9f337117345220e91c64d10db3334229ca45654b152100b7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8a35ec8a9de6b16e9f337117345220e91c64d10db3334229ca45654b152100b7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/62870/Rocky_Mound__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "62870",
+  "timestamp": "2026-05-25T00:16:31.547113Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Strasburg,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/76500/Strasburg__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d6af8b05b3ea1e7a6a324353341789c1a1756008dea60ea30b3696633dbb50bf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d6af8b05b3ea1e7a6a324353341789c1a1756008dea60ea30b3696633dbb50bf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/76500/Strasburg__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "76500",
+  "timestamp": "2026-05-25T00:03:23.492284Z",
+  "version": 1
+}

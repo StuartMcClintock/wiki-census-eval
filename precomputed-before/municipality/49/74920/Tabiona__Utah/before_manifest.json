@@ -1,0 +1,16 @@
+{
+  "article": "Tabiona,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/74920/Tabiona__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0051365fb5d7eecc7838610d7d3d48a0411ec45dfdfdddc6630bf0bc893963ea",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0051365fb5d7eecc7838610d7d3d48a0411ec45dfdfdddc6630bf0bc893963ea",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/74920/Tabiona__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "74920",
+  "timestamp": "2026-05-25T00:17:10.717314Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "South_Wallins,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/72255/South_Wallins__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7fc074f4d557db8691e9be5c9835e83aa3b2878cf3b8f1cb2d8d58ceae9fb9ab",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7fc074f4d557db8691e9be5c9835e83aa3b2878cf3b8f1cb2d8d58ceae9fb9ab",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/72255/South_Wallins__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "72255",
+  "timestamp": "2026-05-24T23:44:21.477381Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Marion,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/51660/Marion__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "29bc2a3e41afe3fea5793adf881c02bafa6094bc68d29e4bbb14b2fc4b2b746b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "29bc2a3e41afe3fea5793adf881c02bafa6094bc68d29e4bbb14b2fc4b2b746b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/51660/Marion__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "51660",
+  "timestamp": "2026-05-24T23:48:05.160513Z",
+  "version": 1
+}

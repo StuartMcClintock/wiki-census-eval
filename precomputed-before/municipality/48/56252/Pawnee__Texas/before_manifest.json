@@ -1,0 +1,16 @@
+{
+  "article": "Pawnee,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/56252/Pawnee__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b42d12f2ecc4c49e4ad8a1d9eba3daf00e5f4c50864730347bae6148a1822eaa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b42d12f2ecc4c49e4ad8a1d9eba3daf00e5f4c50864730347bae6148a1822eaa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/56252/Pawnee__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "56252",
+  "timestamp": "2026-05-25T00:16:10.404252Z",
+  "version": 1
+}

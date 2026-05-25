@@ -1,0 +1,16 @@
+{
+  "article": "Magnolia,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/46844/Magnolia__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1530af5b7706f7c90120980e279676a2361d35008bcd58b8d25f05892e173de2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1530af5b7706f7c90120980e279676a2361d35008bcd58b8d25f05892e173de2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/46844/Magnolia__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "46844",
+  "timestamp": "2026-05-25T00:04:42.017014Z",
+  "version": 1
+}

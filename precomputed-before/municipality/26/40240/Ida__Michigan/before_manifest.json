@@ -1,0 +1,16 @@
+{
+  "article": "Ida,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/40240/Ida__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f49dd83072298cd4961ecd695c5f44a0df9e91ab7c4204c27f45a3c11aa36b3e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f49dd83072298cd4961ecd695c5f44a0df9e91ab7c4204c27f45a3c11aa36b3e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/40240/Ida__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "40240",
+  "timestamp": "2026-05-24T23:47:59.756072Z",
+  "version": 1
+}

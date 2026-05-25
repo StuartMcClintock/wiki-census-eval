@@ -1,0 +1,16 @@
+{
+  "article": "Boothville,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/08710/Boothville__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9f070b1b1946875180309a3d01fdd7c980a2a9e5e5d2174c8dcbf4677adfd11a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9f070b1b1946875180309a3d01fdd7c980a2a9e5e5d2174c8dcbf4677adfd11a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/08710/Boothville__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "08710",
+  "timestamp": "2026-05-24T23:44:29.609735Z",
+  "version": 1
+}

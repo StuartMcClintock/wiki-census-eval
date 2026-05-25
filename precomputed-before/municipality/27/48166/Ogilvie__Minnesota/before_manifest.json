@@ -1,0 +1,16 @@
+{
+  "article": "Ogilvie,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/48166/Ogilvie__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "64d0b2afddf2f02d0eae53d8561eacbbedf772ff6a48896147e7187e2b2359ed",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "64d0b2afddf2f02d0eae53d8561eacbbedf772ff6a48896147e7187e2b2359ed",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/48166/Ogilvie__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "48166",
+  "timestamp": "2026-05-24T23:49:25.529003Z",
+  "version": 1
+}

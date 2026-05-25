@@ -1,0 +1,16 @@
+{
+  "article": "Hatfield,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/32494/Hatfield__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "84434735e69f127923380bfad2ebc98e331a8724e568e06138d00ebb2b3ec5da",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "84434735e69f127923380bfad2ebc98e331a8724e568e06138d00ebb2b3ec5da",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/32494/Hatfield__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "32494",
+  "timestamp": "2026-05-24T23:39:38.328076Z",
+  "version": 1
+}

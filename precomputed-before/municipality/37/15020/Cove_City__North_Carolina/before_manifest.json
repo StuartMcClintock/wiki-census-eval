@@ -1,0 +1,16 @@
+{
+  "article": "Cove_City,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/15020/Cove_City__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "23ac90618845bfdc98c4868945ca8d126bcf3557783cde8f179638d7daac71c2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "23ac90618845bfdc98c4868945ca8d126bcf3557783cde8f179638d7daac71c2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/15020/Cove_City__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "15020",
+  "timestamp": "2026-05-25T00:01:51.345791Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Terrebonne,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/72800/Terrebonne__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0106ccc3ae01f3c27926d00f51bd52eb9ae9e04289ee23ddc9556e97b5cf2214",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0106ccc3ae01f3c27926d00f51bd52eb9ae9e04289ee23ddc9556e97b5cf2214",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/72800/Terrebonne__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "72800",
+  "timestamp": "2026-05-25T00:06:03.652400Z",
+  "version": 1
+}

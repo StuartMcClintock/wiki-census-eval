@@ -1,0 +1,16 @@
+{
+  "article": "Aspermont,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/04408/Aspermont__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "416f47c4fbb6a5b629f7af7fca65de138ba2ece0cbcf68694bf19bcadc0d3f6b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "416f47c4fbb6a5b629f7af7fca65de138ba2ece0cbcf68694bf19bcadc0d3f6b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/04408/Aspermont__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "04408",
+  "timestamp": "2026-05-25T00:15:02.486296Z",
+  "version": 1
+}

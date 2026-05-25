@@ -1,0 +1,16 @@
+{
+  "article": "Ocean_Isle_Beach,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/48700/Ocean_Isle_Beach__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4003aa8a683acaabc9e5bd64766096aec86bcb18e0b7afb5479c3a21340915a8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4003aa8a683acaabc9e5bd64766096aec86bcb18e0b7afb5479c3a21340915a8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/48700/Ocean_Isle_Beach__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "48700",
+  "timestamp": "2026-05-25T00:02:14.346992Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Dayton,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/19525/Dayton__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "50adfb9375d3340404c55d26607944e8a00a14a5542496ef738afdd04aee42fd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "50adfb9375d3340404c55d26607944e8a00a14a5542496ef738afdd04aee42fd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/19525/Dayton__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "19525",
+  "timestamp": "2026-05-24T23:54:20.854728Z",
+  "version": 1
+}

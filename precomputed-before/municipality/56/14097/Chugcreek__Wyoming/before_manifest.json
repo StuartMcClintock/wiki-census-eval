@@ -1,0 +1,16 @@
+{
+  "article": "Chugcreek,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/14097/Chugcreek__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7e3295561261b34e8980b0f4caf5b758a0f2c15fed10ca37eb37a58b53e5ff14",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7e3295561261b34e8980b0f4caf5b758a0f2c15fed10ca37eb37a58b53e5ff14",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/14097/Chugcreek__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "14097",
+  "timestamp": "2026-05-25T00:23:10.281896Z",
+  "version": 1
+}

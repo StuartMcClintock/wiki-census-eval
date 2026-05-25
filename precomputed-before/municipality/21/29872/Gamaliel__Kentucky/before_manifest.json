@@ -1,0 +1,16 @@
+{
+  "article": "Gamaliel,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/29872/Gamaliel__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ae99b5af834bcfe38242ea2fd1640a71eb865e2278aa3e245a9a49800bc43850",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ae99b5af834bcfe38242ea2fd1640a71eb865e2278aa3e245a9a49800bc43850",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/29872/Gamaliel__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "29872",
+  "timestamp": "2026-05-24T23:44:03.802330Z",
+  "version": 1
+}

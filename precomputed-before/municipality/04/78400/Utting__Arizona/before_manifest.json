@@ -1,0 +1,16 @@
+{
+  "article": "Utting,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/78400/Utting__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "921fddbe5d3ab7cd6c1c3a9e96b616e179faf568bb53eed2b0af505cfb0a69e2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "921fddbe5d3ab7cd6c1c3a9e96b616e179faf568bb53eed2b0af505cfb0a69e2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/78400/Utting__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "78400",
+  "timestamp": "2026-05-24T23:33:13.154021Z",
+  "version": 1
+}

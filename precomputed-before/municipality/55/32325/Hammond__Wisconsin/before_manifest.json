@@ -1,0 +1,16 @@
+{
+  "article": "Hammond,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/32325/Hammond__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fbd61f71f63f5840bbc2909cf4907875026cf73c629d5f17ebfed464d24324ec",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fbd61f71f63f5840bbc2909cf4907875026cf73c629d5f17ebfed464d24324ec",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/32325/Hammond__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "32325",
+  "timestamp": "2026-05-25T00:22:10.694756Z",
+  "version": 1
+}

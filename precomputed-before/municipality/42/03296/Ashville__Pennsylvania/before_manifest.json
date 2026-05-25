@@ -1,0 +1,16 @@
+{
+  "article": "Ashville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/03296/Ashville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e34502140a45c548ceedf294c445115612fcd8493f6a81852a3c61927ea86eca",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e34502140a45c548ceedf294c445115612fcd8493f6a81852a3c61927ea86eca",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/03296/Ashville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "03296",
+  "timestamp": "2026-05-25T00:06:10.022641Z",
+  "version": 1
+}

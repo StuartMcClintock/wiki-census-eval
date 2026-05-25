@@ -1,0 +1,16 @@
+{
+  "article": "Hardy,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/34300/Hardy__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0a71e5f0d42ef4bf1b628df4fc7b3d82aae835e21ea15eaec8a35c0e895773f8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0a71e5f0d42ef4bf1b628df4fc7b3d82aae835e21ea15eaec8a35c0e895773f8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/34300/Hardy__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "34300",
+  "timestamp": "2026-05-24T23:54:28.206236Z",
+  "version": 1
+}

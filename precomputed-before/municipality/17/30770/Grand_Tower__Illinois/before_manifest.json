@@ -1,0 +1,16 @@
+{
+  "article": "Grand_Tower,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/30770/Grand_Tower__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0f1baa40ee445e100e65bf3b70b52a5ff952fa57abe89eaf82f43cf89fc27de0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0f1baa40ee445e100e65bf3b70b52a5ff952fa57abe89eaf82f43cf89fc27de0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/30770/Grand_Tower__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "30770",
+  "timestamp": "2026-05-24T23:38:17.447054Z",
+  "version": 1
+}

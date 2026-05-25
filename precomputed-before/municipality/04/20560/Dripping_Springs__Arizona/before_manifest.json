@@ -1,0 +1,16 @@
+{
+  "article": "Dripping_Springs,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/20560/Dripping_Springs__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "18dfef36f07dc67901394b14dcad63a6cd0b1a1d52918cb3a407cef3b1d48ca0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "18dfef36f07dc67901394b14dcad63a6cd0b1a1d52918cb3a407cef3b1d48ca0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/20560/Dripping_Springs__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "20560",
+  "timestamp": "2026-05-24T23:32:52.648378Z",
+  "version": 1
+}

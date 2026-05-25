@@ -1,0 +1,16 @@
+{
+  "article": "Hidden_Lake,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/35860/Hidden_Lake__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "60f0f3e620cf71291448af574baac5b3f856dab5321ffe6b1a8bb45998196ccd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "60f0f3e620cf71291448af574baac5b3f856dab5321ffe6b1a8bb45998196ccd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/35860/Hidden_Lake__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "35860",
+  "timestamp": "2026-05-24T23:35:28.087912Z",
+  "version": 1
+}

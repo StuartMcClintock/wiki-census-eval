@@ -1,0 +1,16 @@
+{
+  "article": "Running_Water,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/56820/Running_Water__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "da632cc66e6e06d411cae173966ab3feb3bfd819f06b6640b9b64a4310f78284",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "da632cc66e6e06d411cae173966ab3feb3bfd819f06b6640b9b64a4310f78284",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/56820/Running_Water__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "56820",
+  "timestamp": "2026-05-25T00:12:46.180101Z",
+  "version": 1
+}

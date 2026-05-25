@@ -1,0 +1,16 @@
+{
+  "article": "Buffalo_Gap,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/08340/Buffalo_Gap__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6b6b9c465f2fccc33461bbb15cb55b26eb4dc2eb7d8986748ab26019c498c614",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6b6b9c465f2fccc33461bbb15cb55b26eb4dc2eb7d8986748ab26019c498c614",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/08340/Buffalo_Gap__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "08340",
+  "timestamp": "2026-05-25T00:10:32.925523Z",
+  "version": 1
+}

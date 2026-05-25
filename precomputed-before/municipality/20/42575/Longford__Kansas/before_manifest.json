@@ -1,0 +1,16 @@
+{
+  "article": "Longford,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/42575/Longford__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2676267d8f7a9827401086904ce74c0a24a7242952bec49c6ad28f5c0a466c01",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2676267d8f7a9827401086904ce74c0a24a7242952bec49c6ad28f5c0a466c01",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/42575/Longford__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "42575",
+  "timestamp": "2026-05-24T23:43:04.779725Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Woodside,_Delaware",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/10/80830/Woodside__Delaware/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d47a6f2f79b59a2700f31fe263b1c707246ff01ae2fff4c757d34bc4f3e49426",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d47a6f2f79b59a2700f31fe263b1c707246ff01ae2fff4c757d34bc4f3e49426",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/10/80830/Woodside__Delaware/manifest.json",
+  "state_fips": "10",
+  "status": "match",
+  "target_fips": "80830",
+  "timestamp": "2026-05-24T23:36:06.117898Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Beckemeyer,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/04533/Beckemeyer__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4736a168f4a98094540978240390b1b7034ea01dbcfbe57d97a72e47d8333c0d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4736a168f4a98094540978240390b1b7034ea01dbcfbe57d97a72e47d8333c0d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/04533/Beckemeyer__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "04533",
+  "timestamp": "2026-05-24T23:37:37.035737Z",
+  "version": 1
+}

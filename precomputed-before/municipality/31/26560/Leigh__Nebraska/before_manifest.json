@@ -1,0 +1,16 @@
+{
+  "article": "Leigh,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/26560/Leigh__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e3ac23f0304ef4eaad98b9c2c9f4d63044185ea2b86d176322aa6779d7929783",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e3ac23f0304ef4eaad98b9c2c9f4d63044185ea2b86d176322aa6779d7929783",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/26560/Leigh__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "26560",
+  "timestamp": "2026-05-24T23:55:47.770013Z",
+  "version": 1
+}

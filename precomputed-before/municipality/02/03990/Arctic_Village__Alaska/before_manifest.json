@@ -1,0 +1,16 @@
+{
+  "article": "Arctic_Village,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/03990/Arctic_Village__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f4c3e4d3b842496b2f8a4b944787cb3d37abb73d5f5a35c3f0613cffbf82ba4c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f4c3e4d3b842496b2f8a4b944787cb3d37abb73d5f5a35c3f0613cffbf82ba4c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/03990/Arctic_Village__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "03990",
+  "timestamp": "2026-05-24T23:32:17.769376Z",
+  "version": 1
+}

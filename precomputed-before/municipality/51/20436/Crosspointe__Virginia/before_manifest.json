@@ -1,0 +1,16 @@
+{
+  "article": "Crosspointe,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/20436/Crosspointe__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a7e50ab913e9cc2703d1e53df3687f7ad45915ae44eb957d0d4d826d5c4b5532",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a7e50ab913e9cc2703d1e53df3687f7ad45915ae44eb957d0d4d826d5c4b5532",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/20436/Crosspointe__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "20436",
+  "timestamp": "2026-05-25T00:19:08.076418Z",
+  "version": 1
+}

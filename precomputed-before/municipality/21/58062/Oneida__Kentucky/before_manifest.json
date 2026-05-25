@@ -1,0 +1,16 @@
+{
+  "article": "Oneida,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/58062/Oneida__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ae778d8b8b99d7a52bcd28b20947b77b8439eed1b813369aefc3970e998015a4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ae778d8b8b99d7a52bcd28b20947b77b8439eed1b813369aefc3970e998015a4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/58062/Oneida__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "58062",
+  "timestamp": "2026-05-24T23:44:14.981761Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Red_Feather_Lakes,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/63320/Red_Feather_Lakes__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f31fcae161f83ae94c7efb21bd99fb17ea1985be9bc414b7050b5828b4be7c0d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f31fcae161f83ae94c7efb21bd99fb17ea1985be9bc414b7050b5828b4be7c0d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/63320/Red_Feather_Lakes__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "63320",
+  "timestamp": "2026-05-24T23:35:37.988802Z",
+  "version": 1
+}

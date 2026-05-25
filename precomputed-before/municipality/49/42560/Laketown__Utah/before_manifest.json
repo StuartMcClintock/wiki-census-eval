@@ -1,0 +1,16 @@
+{
+  "article": "Laketown,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/42560/Laketown__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "62401a7d9d09c35ff700beb932057ca8c08820af5a09aa5b6178ebc60b23da7b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "62401a7d9d09c35ff700beb932057ca8c08820af5a09aa5b6178ebc60b23da7b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/42560/Laketown__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "42560",
+  "timestamp": "2026-05-25T00:17:03.999386Z",
+  "version": 1
+}

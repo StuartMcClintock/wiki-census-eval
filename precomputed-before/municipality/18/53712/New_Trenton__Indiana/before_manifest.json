@@ -1,0 +1,16 @@
+{
+  "article": "New_Trenton,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/53712/New_Trenton__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "561281508a3a6e1622e2f14af25bede4c1971bf0b121d744ca1a21141aaaf2a5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "561281508a3a6e1622e2f14af25bede4c1971bf0b121d744ca1a21141aaaf2a5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/53712/New_Trenton__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "53712",
+  "timestamp": "2026-05-24T23:40:05.853359Z",
+  "version": 1
+}

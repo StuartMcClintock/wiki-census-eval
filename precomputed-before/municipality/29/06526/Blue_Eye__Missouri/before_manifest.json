@@ -1,0 +1,16 @@
+{
+  "article": "Blue_Eye,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/06526/Blue_Eye__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "14a5cff0d01d6ae1212c91cd6696d51b52a65f79563f34249ce9ab881cb57899",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "14a5cff0d01d6ae1212c91cd6696d51b52a65f79563f34249ce9ab881cb57899",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/06526/Blue_Eye__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "06526",
+  "timestamp": "2026-05-24T23:50:48.621766Z",
+  "version": 1
+}

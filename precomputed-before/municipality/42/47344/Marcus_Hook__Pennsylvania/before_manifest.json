@@ -1,0 +1,16 @@
+{
+  "article": "Marcus_Hook,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/47344/Marcus_Hook__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7b025aab08dd0d86a779d0c3d9f02fbfa963041761f1f81562ebcef9e0140cb3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7b025aab08dd0d86a779d0c3d9f02fbfa963041761f1f81562ebcef9e0140cb3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/47344/Marcus_Hook__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "47344",
+  "timestamp": "2026-05-25T00:08:01.253414Z",
+  "version": 1
+}

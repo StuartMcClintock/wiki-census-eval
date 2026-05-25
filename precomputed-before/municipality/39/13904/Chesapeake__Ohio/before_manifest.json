@@ -1,0 +1,16 @@
+{
+  "article": "Chesapeake,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/13904/Chesapeake__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a1961100506741df27ada52960b919b3fb32eab443f6663f19c7e6e3f8326b45",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a1961100506741df27ada52960b919b3fb32eab443f6663f19c7e6e3f8326b45",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/13904/Chesapeake__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "13904",
+  "timestamp": "2026-05-25T00:03:53.704450Z",
+  "version": 1
+}

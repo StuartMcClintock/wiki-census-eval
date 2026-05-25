@@ -1,0 +1,16 @@
+{
+  "article": "McFarland,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/46850/McFarland__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a8d135ec2716d654f9eb027134d3586ed04cdc4059f9e5885d6b690d93bcfc6a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a8d135ec2716d654f9eb027134d3586ed04cdc4059f9e5885d6b690d93bcfc6a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/46850/McFarland__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "46850",
+  "timestamp": "2026-05-25T00:22:22.621160Z",
+  "version": 1
+}

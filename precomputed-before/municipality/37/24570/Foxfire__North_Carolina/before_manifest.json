@@ -1,0 +1,16 @@
+{
+  "article": "Foxfire,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/24570/Foxfire__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "94ee6c7f8986c9ce70e9010a2253b9f640eab30fa9e5d38bb660bf01c8381d68",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "94ee6c7f8986c9ce70e9010a2253b9f640eab30fa9e5d38bb660bf01c8381d68",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/24570/Foxfire__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "24570",
+  "timestamp": "2026-05-25T00:01:56.635666Z",
+  "version": 1
+}

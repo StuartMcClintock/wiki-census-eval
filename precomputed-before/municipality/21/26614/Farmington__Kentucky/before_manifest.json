@@ -1,0 +1,16 @@
+{
+  "article": "Farmington,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/26614/Farmington__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5cd02a8a2e84bc25095e2aa1c4d89b121925e0d370beaa5bd5210ef1d30be396",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5cd02a8a2e84bc25095e2aa1c4d89b121925e0d370beaa5bd5210ef1d30be396",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/26614/Farmington__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "26614",
+  "timestamp": "2026-05-24T23:44:02.459324Z",
+  "version": 1
+}

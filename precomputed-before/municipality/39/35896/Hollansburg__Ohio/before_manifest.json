@@ -1,0 +1,16 @@
+{
+  "article": "Hollansburg,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/35896/Hollansburg__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0cd1d075a2267d04f1e81648dbb26432560e64e12b1beac7174e344a53dff945",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0cd1d075a2267d04f1e81648dbb26432560e64e12b1beac7174e344a53dff945",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/35896/Hollansburg__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "35896",
+  "timestamp": "2026-05-25T00:04:19.140357Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Scipio,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/67880/Scipio__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "66cb113a2a841c2f79159afdf0139ce9f43b1ab8e60fc70d92ae4f0e74a87de6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "66cb113a2a841c2f79159afdf0139ce9f43b1ab8e60fc70d92ae4f0e74a87de6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/67880/Scipio__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "67880",
+  "timestamp": "2026-05-25T00:17:09.128076Z",
+  "version": 1
+}

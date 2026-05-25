@@ -1,0 +1,16 @@
+{
+  "article": "Finley_Point,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/26226/Finley_Point__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dee5b95aa5095f118c05c0d91797e6fc8123a3073c98c01a984f865a9bb2b748",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dee5b95aa5095f118c05c0d91797e6fc8123a3073c98c01a984f865a9bb2b748",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/26226/Finley_Point__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "26226",
+  "timestamp": "2026-05-24T23:54:23.870008Z",
+  "version": 1
+}

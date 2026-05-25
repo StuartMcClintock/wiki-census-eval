@@ -1,0 +1,16 @@
+{
+  "article": "Doerun,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/23284/Doerun__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fec930b162f162fc15081f116c19cfb2c469ae03f995a5b33276b36358dbbef4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fec930b162f162fc15081f116c19cfb2c469ae03f995a5b33276b36358dbbef4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/23284/Doerun__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "23284",
+  "timestamp": "2026-05-24T23:36:35.041778Z",
+  "version": 1
+}

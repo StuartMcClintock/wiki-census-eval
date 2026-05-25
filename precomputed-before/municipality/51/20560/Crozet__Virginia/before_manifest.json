@@ -1,0 +1,16 @@
+{
+  "article": "Crozet,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/20560/Crozet__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cb70278a6e4fba39fdf7e894be9c377e5340cb1436e0c1b35bc6b1c21df0c1ec",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cb70278a6e4fba39fdf7e894be9c377e5340cb1436e0c1b35bc6b1c21df0c1ec",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/20560/Crozet__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "20560",
+  "timestamp": "2026-05-25T00:19:08.224203Z",
+  "version": 1
+}

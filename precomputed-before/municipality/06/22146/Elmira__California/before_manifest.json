@@ -1,0 +1,16 @@
+{
+  "article": "Elmira,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/22146/Elmira__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f9dee9bbe4b7ca4b853edbbd36f04f088228b231abfbe0e292c02609cb67db5d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f9dee9bbe4b7ca4b853edbbd36f04f088228b231abfbe0e292c02609cb67db5d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/22146/Elmira__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "22146",
+  "timestamp": "2026-05-24T23:34:21.471229Z",
+  "version": 1
+}

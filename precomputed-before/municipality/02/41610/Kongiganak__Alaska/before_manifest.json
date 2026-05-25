@@ -1,0 +1,16 @@
+{
+  "article": "Kongiganak,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/41610/Kongiganak__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "88bb7d19e91fab179030e59a41ad2a79e6f2844ce796130834ae522a780dc952",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "88bb7d19e91fab179030e59a41ad2a79e6f2844ce796130834ae522a780dc952",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/41610/Kongiganak__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "41610",
+  "timestamp": "2026-05-24T23:32:25.322610Z",
+  "version": 1
+}

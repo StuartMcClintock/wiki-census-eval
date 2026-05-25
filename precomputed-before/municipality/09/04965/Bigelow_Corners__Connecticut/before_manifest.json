@@ -1,0 +1,16 @@
+{
+  "article": "Bigelow_Corners,_Connecticut",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/09/04965/Bigelow_Corners__Connecticut/before_demographics_section.wikitext",
+  "current_has_demographics_section": false,
+  "current_hash": null,
+  "location_kind": "municipality",
+  "manifest_had_section": false,
+  "manifest_hash": null,
+  "reason": "no demographics section then or now",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/09/04965/Bigelow_Corners__Connecticut/manifest.json",
+  "state_fips": "09",
+  "status": "match",
+  "target_fips": "04965",
+  "timestamp": "2026-05-24T23:35:56.669394Z",
+  "version": 1
+}

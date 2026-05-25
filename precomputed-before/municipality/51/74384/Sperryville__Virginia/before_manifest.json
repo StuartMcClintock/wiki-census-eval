@@ -1,0 +1,16 @@
+{
+  "article": "Sperryville,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/74384/Sperryville__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "adad989dee35984668792b828de7f1bdfd5e77df9c8d4dc5fa428b9ea68460c4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "adad989dee35984668792b828de7f1bdfd5e77df9c8d4dc5fa428b9ea68460c4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/74384/Sperryville__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "74384",
+  "timestamp": "2026-05-25T00:19:39.079854Z",
+  "version": 1
+}

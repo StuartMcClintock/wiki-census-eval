@@ -1,0 +1,16 @@
+{
+  "article": "Strawberry,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/67250/Strawberry__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "13853991357a7aae636f7f4e7e3640e687f44cf6c3c3a80ae6ed1b04df7a9ad7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "13853991357a7aae636f7f4e7e3640e687f44cf6c3c3a80ae6ed1b04df7a9ad7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/67250/Strawberry__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "67250",
+  "timestamp": "2026-05-24T23:34:09.650472Z",
+  "version": 1
+}

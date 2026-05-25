@@ -1,0 +1,16 @@
+{
+  "article": "Galatia,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/28261/Galatia__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "35d7384160bb0659570ffea1bf6c872d558154e7571d67cb399deb8b0d927727",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "35d7384160bb0659570ffea1bf6c872d558154e7571d67cb399deb8b0d927727",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/28261/Galatia__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "28261",
+  "timestamp": "2026-05-24T23:38:14.614173Z",
+  "version": 1
+}

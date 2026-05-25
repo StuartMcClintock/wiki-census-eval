@@ -1,0 +1,16 @@
+{
+  "article": "Dearing,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/22024/Dearing__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0f647a2a894ba7080cb570a7f02e54be7026ef293dab4e6e984997d77af7ffa1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0f647a2a894ba7080cb570a7f02e54be7026ef293dab4e6e984997d77af7ffa1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/22024/Dearing__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "22024",
+  "timestamp": "2026-05-24T23:36:34.215383Z",
+  "version": 1
+}

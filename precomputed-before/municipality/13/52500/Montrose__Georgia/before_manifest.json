@@ -1,0 +1,16 @@
+{
+  "article": "Montrose,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/52500/Montrose__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "61838c3d966d5b0fd170df814ede5ca2bac93abe740870339e6fb0bc817fdd44",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "61838c3d966d5b0fd170df814ede5ca2bac93abe740870339e6fb0bc817fdd44",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/52500/Montrose__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "52500",
+  "timestamp": "2026-05-24T23:36:56.269346Z",
+  "version": 1
+}

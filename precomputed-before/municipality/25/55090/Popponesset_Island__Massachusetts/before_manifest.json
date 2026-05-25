@@ -1,0 +1,16 @@
+{
+  "article": "Popponesset_Island,_Massachusetts",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/25/55090/Popponesset_Island__Massachusetts/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f76d2b1e78dd65e42d6132d5e5a2fb11860c5fc825fcffa5c7dd9825fea6a246",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f76d2b1e78dd65e42d6132d5e5a2fb11860c5fc825fcffa5c7dd9825fea6a246",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/25/55090/Popponesset_Island__Massachusetts/manifest.json",
+  "state_fips": "25",
+  "status": "match",
+  "target_fips": "55090",
+  "timestamp": "2026-05-24T23:47:38.891093Z",
+  "version": 1
+}

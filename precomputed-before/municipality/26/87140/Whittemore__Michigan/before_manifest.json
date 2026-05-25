@@ -1,0 +1,16 @@
+{
+  "article": "Whittemore,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/87140/Whittemore__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7d2897a0402471b0d1e1c0dcdb5c8ded12e37a8b74b036b873788c0f285b643f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7d2897a0402471b0d1e1c0dcdb5c8ded12e37a8b74b036b873788c0f285b643f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/87140/Whittemore__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "87140",
+  "timestamp": "2026-05-24T23:48:33.258273Z",
+  "version": 1
+}

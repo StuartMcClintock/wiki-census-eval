@@ -1,0 +1,16 @@
+{
+  "article": "Lobo_Canyon,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/41953/Lobo_Canyon__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c48a44677eca4e6f1f239f5340c16645a94c219ab059cdc0e6699ebefb9863a9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c48a44677eca4e6f1f239f5340c16645a94c219ab059cdc0e6699ebefb9863a9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/41953/Lobo_Canyon__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "41953",
+  "timestamp": "2026-05-24T23:58:38.736494Z",
+  "version": 1
+}

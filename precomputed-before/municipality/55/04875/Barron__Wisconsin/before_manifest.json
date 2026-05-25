@@ -1,0 +1,16 @@
+{
+  "article": "Barron,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/04875/Barron__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2f3d13e88ce14e5c0c71ebdb1e78822e6b18922119b0c32f79d0d5af726cfd1a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2f3d13e88ce14e5c0c71ebdb1e78822e6b18922119b0c32f79d0d5af726cfd1a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/04875/Barron__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "04875",
+  "timestamp": "2026-05-25T00:21:34.481079Z",
+  "version": 1
+}

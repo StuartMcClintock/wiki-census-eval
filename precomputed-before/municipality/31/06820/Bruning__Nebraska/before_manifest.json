@@ -1,0 +1,16 @@
+{
+  "article": "Bruning,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/06820/Bruning__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8b993cc6abfa396dcb47811b29487ef528fd2c999eb55df0f08abb7248a3335a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8b993cc6abfa396dcb47811b29487ef528fd2c999eb55df0f08abb7248a3335a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/06820/Bruning__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "06820",
+  "timestamp": "2026-05-24T23:55:14.781227Z",
+  "version": 1
+}

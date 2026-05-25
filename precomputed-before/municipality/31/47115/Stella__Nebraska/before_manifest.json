@@ -1,0 +1,16 @@
+{
+  "article": "Stella,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/47115/Stella__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c4a68316c86956030f0bc143afd5ceb9c6f47b3ab241f71415897f41b2c0d3a2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c4a68316c86956030f0bc143afd5ceb9c6f47b3ab241f71415897f41b2c0d3a2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/47115/Stella__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "47115",
+  "timestamp": "2026-05-24T23:57:18.020560Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Biggers,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/06040/Biggers__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "742e5d882b1269561794a04bf4a03ff8c3bdfdc1ada010150092a32b2795efe5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "742e5d882b1269561794a04bf4a03ff8c3bdfdc1ada010150092a32b2795efe5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/06040/Biggers__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "06040",
+  "timestamp": "2026-05-24T23:33:20.934575Z",
+  "version": 1
+}

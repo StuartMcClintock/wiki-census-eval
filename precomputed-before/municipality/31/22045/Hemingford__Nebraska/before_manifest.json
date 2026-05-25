@@ -1,0 +1,16 @@
+{
+  "article": "Hemingford,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/22045/Hemingford__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b75d038b98ed402f86cc27876d80c5404f62ff62432ff7ac391be4833f5e999f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b75d038b98ed402f86cc27876d80c5404f62ff62432ff7ac391be4833f5e999f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/22045/Hemingford__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "22045",
+  "timestamp": "2026-05-24T23:55:31.941615Z",
+  "version": 1
+}

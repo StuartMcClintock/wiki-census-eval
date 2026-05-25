@@ -1,0 +1,16 @@
+{
+  "article": "Hutchinson,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/33690/Hutchinson__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e2e2087806de93930ee93529c8b9ba27530dd1c6f7ab58450343aa0282ea6471",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e2e2087806de93930ee93529c8b9ba27530dd1c6f7ab58450343aa0282ea6471",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/33690/Hutchinson__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "33690",
+  "timestamp": "2026-05-24T23:57:51.106139Z",
+  "version": 1
+}

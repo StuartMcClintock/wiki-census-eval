@@ -1,0 +1,16 @@
+{
+  "article": "Marquette,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/49620/Marquette__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "39f4444d744e6e2637193e4602a87b452bb282a55948925644ddf1c6c8007ecf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "39f4444d744e6e2637193e4602a87b452bb282a55948925644ddf1c6c8007ecf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/49620/Marquette__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "49620",
+  "timestamp": "2026-05-24T23:41:25.321375Z",
+  "version": 1
+}

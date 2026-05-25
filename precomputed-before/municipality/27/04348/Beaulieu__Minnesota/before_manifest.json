@@ -1,0 +1,16 @@
+{
+  "article": "Beaulieu,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/04348/Beaulieu__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ed49f0b69144478aa8a445ae6992dbb0f89d828b9daae70b4d649ac0cf37b5db",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ed49f0b69144478aa8a445ae6992dbb0f89d828b9daae70b4d649ac0cf37b5db",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/04348/Beaulieu__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "04348",
+  "timestamp": "2026-05-24T23:48:37.931784Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Biggersville,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/06100/Biggersville__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b8608393e2df88bb943b007be4e4abcd503ade64a3778b7da18545701423c7ac",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b8608393e2df88bb943b007be4e4abcd503ade64a3778b7da18545701423c7ac",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/06100/Biggersville__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "06100",
+  "timestamp": "2026-05-24T23:50:03.092831Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Goldville,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/30448/Goldville__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6c9783528114a4dacef6209c0ee3ebc6bdab343d02193d557786c6e0ed4e38ac",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6c9783528114a4dacef6209c0ee3ebc6bdab343d02193d557786c6e0ed4e38ac",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/30448/Goldville__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "30448",
+  "timestamp": "2026-05-24T23:31:57.706243Z",
+  "version": 1
+}

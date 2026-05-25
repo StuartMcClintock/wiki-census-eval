@@ -1,0 +1,16 @@
+{
+  "article": "Concho,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/15150/Concho__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e0e99a26a7a1b627cfb3d9499d54db7f3a0301c9e75521198b8fe27479f58ccc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e0e99a26a7a1b627cfb3d9499d54db7f3a0301c9e75521198b8fe27479f58ccc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/15150/Concho__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "15150",
+  "timestamp": "2026-05-24T23:32:51.337512Z",
+  "version": 1
+}

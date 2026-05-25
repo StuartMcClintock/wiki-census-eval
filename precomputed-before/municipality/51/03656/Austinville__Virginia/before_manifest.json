@@ -1,0 +1,16 @@
+{
+  "article": "Austinville,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/03656/Austinville__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c1290bf1b26ddb41f6a4b995c1448c7ed4cb3b8a7019a98210819ab819439217",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c1290bf1b26ddb41f6a4b995c1448c7ed4cb3b8a7019a98210819ab819439217",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/03656/Austinville__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "03656",
+  "timestamp": "2026-05-25T00:17:33.536227Z",
+  "version": 1
+}

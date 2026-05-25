@@ -1,0 +1,16 @@
+{
+  "article": "Lorimor,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/46515/Lorimor__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "216b7efcb1edce90228562396e3c13373b41f3f1205fbec7205692b621e91b90",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "216b7efcb1edce90228562396e3c13373b41f3f1205fbec7205692b621e91b90",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/46515/Lorimor__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "46515",
+  "timestamp": "2026-05-24T23:41:21.702165Z",
+  "version": 1
+}

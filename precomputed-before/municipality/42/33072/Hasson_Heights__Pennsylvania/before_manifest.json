@@ -1,0 +1,16 @@
+{
+  "article": "Hasson_Heights,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/33072/Hasson_Heights__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "78f6516f9e23f79279ed6f778eae1e59866e874cbb407658006642ea9eb23e28",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "78f6516f9e23f79279ed6f778eae1e59866e874cbb407658006642ea9eb23e28",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/33072/Hasson_Heights__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "33072",
+  "timestamp": "2026-05-25T00:07:22.975623Z",
+  "version": 1
+}

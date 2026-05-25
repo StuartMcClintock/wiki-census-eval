@@ -1,0 +1,16 @@
+{
+  "article": "Elgin,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/22150/Elgin__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5a7f86a065ccb41866578c5fead95f384ccab90b223dd0dd93a554498b1435cf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5a7f86a065ccb41866578c5fead95f384ccab90b223dd0dd93a554498b1435cf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/22150/Elgin__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "22150",
+  "timestamp": "2026-05-24T23:32:53.989670Z",
+  "version": 1
+}

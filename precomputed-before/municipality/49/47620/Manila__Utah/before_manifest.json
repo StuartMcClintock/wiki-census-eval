@@ -1,0 +1,16 @@
+{
+  "article": "Manila,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/47620/Manila__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c75fce84f2a046cc5a76ec853ec3a26f35b2bb1b133ed4c66d476dbc4982efc3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c75fce84f2a046cc5a76ec853ec3a26f35b2bb1b133ed4c66d476dbc4982efc3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/47620/Manila__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "47620",
+  "timestamp": "2026-05-25T00:17:05.081108Z",
+  "version": 1
+}

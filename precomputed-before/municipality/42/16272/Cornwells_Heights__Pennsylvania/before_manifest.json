@@ -1,0 +1,16 @@
+{
+  "article": "Cornwells_Heights,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/16272/Cornwells_Heights__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4184bac581a341a4fbad3b2abdc78f1d1d5e3b016bc56991a3cd51129f1c307d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4184bac581a341a4fbad3b2abdc78f1d1d5e3b016bc56991a3cd51129f1c307d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/16272/Cornwells_Heights__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "16272",
+  "timestamp": "2026-05-25T00:06:46.738734Z",
+  "version": 1
+}

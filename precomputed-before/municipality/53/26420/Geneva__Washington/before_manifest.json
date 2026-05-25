@@ -1,0 +1,16 @@
+{
+  "article": "Geneva,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/26420/Geneva__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fc980da8ed8a98c0cd412a093363d741c0714f3fb2923b0a44c2bda76b3f6f17",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fc980da8ed8a98c0cd412a093363d741c0714f3fb2923b0a44c2bda76b3f6f17",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/26420/Geneva__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "26420",
+  "timestamp": "2026-05-25T00:20:13.453809Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "McKeansburg,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/46232/McKeansburg__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "10c03092641c684879003360f82b66401cab5e2e0ebe183149c5762b932b2b3c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "10c03092641c684879003360f82b66401cab5e2e0ebe183149c5762b932b2b3c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/46232/McKeansburg__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "46232",
+  "timestamp": "2026-05-25T00:07:56.098593Z",
+  "version": 1
+}

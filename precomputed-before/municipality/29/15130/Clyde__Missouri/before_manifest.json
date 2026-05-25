@@ -1,0 +1,16 @@
+{
+  "article": "Clyde,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/15130/Clyde__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "85612ebc9dd42845eab7bf6a047c726322a29c57f494ffe0e9c232964c5e70f7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "85612ebc9dd42845eab7bf6a047c726322a29c57f494ffe0e9c232964c5e70f7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/15130/Clyde__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "15130",
+  "timestamp": "2026-05-24T23:50:55.558469Z",
+  "version": 1
+}

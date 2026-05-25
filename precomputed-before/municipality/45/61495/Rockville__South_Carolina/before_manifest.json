@@ -1,0 +1,16 @@
+{
+  "article": "Rockville,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/61495/Rockville__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "557106b976573e21afa64be2905ab70b1543d6df001d1517f0a28813faccf65c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "557106b976573e21afa64be2905ab70b1543d6df001d1517f0a28813faccf65c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/61495/Rockville__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "61495",
+  "timestamp": "2026-05-25T00:10:19.570175Z",
+  "version": 1
+}

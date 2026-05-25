@@ -1,0 +1,16 @@
+{
+  "article": "Ridott,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/64044/Ridott__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f3ce0a35aac2b440dfab45b3cc31eb7bebf90b8c1106857c3342893c55189e02",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f3ce0a35aac2b440dfab45b3cc31eb7bebf90b8c1106857c3342893c55189e02",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/64044/Ridott__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "64044",
+  "timestamp": "2026-05-24T23:39:05.948312Z",
+  "version": 1
+}

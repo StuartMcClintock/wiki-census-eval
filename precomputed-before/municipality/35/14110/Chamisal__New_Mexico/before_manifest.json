@@ -1,0 +1,16 @@
+{
+  "article": "Chamisal,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/14110/Chamisal__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "827e337fd0bb12c01788f3faf9b9ff8142edda550c2e401d21292f50e6a425e3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "827e337fd0bb12c01788f3faf9b9ff8142edda550c2e401d21292f50e6a425e3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/14110/Chamisal__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "14110",
+  "timestamp": "2026-05-24T23:58:24.417367Z",
+  "version": 1
+}

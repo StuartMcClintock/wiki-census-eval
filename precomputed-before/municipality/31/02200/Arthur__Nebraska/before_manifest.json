@@ -1,0 +1,16 @@
+{
+  "article": "Arthur,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/02200/Arthur__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "940970d640ca4e4787ac22bf22448a3f9b533e3299f10c01e2012e416e2f98ce",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "940970d640ca4e4787ac22bf22448a3f9b533e3299f10c01e2012e416e2f98ce",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/02200/Arthur__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "02200",
+  "timestamp": "2026-05-24T23:55:08.891786Z",
+  "version": 1
+}

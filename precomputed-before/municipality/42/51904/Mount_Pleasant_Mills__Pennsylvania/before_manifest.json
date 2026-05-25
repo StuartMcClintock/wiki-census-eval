@@ -1,0 +1,16 @@
+{
+  "article": "Mount_Pleasant_Mills,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/51904/Mount_Pleasant_Mills__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "113a22a940690ab17ed7cf4a566858fc23158524a6a6b6fa5d415c59fd3d9765",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "113a22a940690ab17ed7cf4a566858fc23158524a6a6b6fa5d415c59fd3d9765",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/51904/Mount_Pleasant_Mills__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "51904",
+  "timestamp": "2026-05-25T00:08:11.938666Z",
+  "version": 1
+}

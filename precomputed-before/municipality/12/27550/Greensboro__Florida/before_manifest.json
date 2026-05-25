@@ -1,0 +1,16 @@
+{
+  "article": "Greensboro,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/27550/Greensboro__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c275a6311a434abfcb01dbe1e84b9b1f92f2328d3ef68667e20f1c0fc8b41d60",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c275a6311a434abfcb01dbe1e84b9b1f92f2328d3ef68667e20f1c0fc8b41d60",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/27550/Greensboro__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "27550",
+  "timestamp": "2026-05-24T23:36:13.098351Z",
+  "version": 1
+}

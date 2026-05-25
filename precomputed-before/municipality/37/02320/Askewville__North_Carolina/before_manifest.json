@@ -1,0 +1,16 @@
+{
+  "article": "Askewville,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/02320/Askewville__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aced77d17ac877debe42837cbe877a622a115dd276be51fe0ad575ade65fcdbb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aced77d17ac877debe42837cbe877a622a115dd276be51fe0ad575ade65fcdbb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/02320/Askewville__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "02320",
+  "timestamp": "2026-05-25T00:01:41.309571Z",
+  "version": 1
+}

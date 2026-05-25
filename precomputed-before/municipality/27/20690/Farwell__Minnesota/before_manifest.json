@@ -1,0 +1,16 @@
+{
+  "article": "Farwell,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/20690/Farwell__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d84bf84168711f3c623685d2ff368cc820521dd2bc2754c2a8bf763c6c68008b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d84bf84168711f3c623685d2ff368cc820521dd2bc2754c2a8bf763c6c68008b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/20690/Farwell__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "20690",
+  "timestamp": "2026-05-24T23:48:54.093130Z",
+  "version": 1
+}

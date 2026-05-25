@@ -1,0 +1,16 @@
+{
+  "article": "Cornell,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/17100/Cornell__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3f9603a056ecfb8bbda5b252745617536be5b100339790087d6651bb5a7a6c3a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3f9603a056ecfb8bbda5b252745617536be5b100339790087d6651bb5a7a6c3a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/17100/Cornell__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "17100",
+  "timestamp": "2026-05-25T00:21:45.076311Z",
+  "version": 1
+}

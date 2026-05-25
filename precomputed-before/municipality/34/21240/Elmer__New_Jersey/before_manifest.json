@@ -1,0 +1,16 @@
+{
+  "article": "Elmer,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/21240/Elmer__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fe69480c0e9f050948185f525e72831dcf0422964d203d1311baff4102eb59ee",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fe69480c0e9f050948185f525e72831dcf0422964d203d1311baff4102eb59ee",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/21240/Elmer__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "21240",
+  "timestamp": "2026-05-24T23:57:46.571558Z",
+  "version": 1
+}

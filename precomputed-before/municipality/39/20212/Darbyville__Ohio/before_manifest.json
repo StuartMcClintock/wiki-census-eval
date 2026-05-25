@@ -1,0 +1,16 @@
+{
+  "article": "Darbyville,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/20212/Darbyville__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ff5c4bc770ee31bc551488d74b83a6b487b029ce75183c2a81ce557200db37ea",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ff5c4bc770ee31bc551488d74b83a6b487b029ce75183c2a81ce557200db37ea",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/20212/Darbyville__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "20212",
+  "timestamp": "2026-05-25T00:04:03.449470Z",
+  "version": 1
+}

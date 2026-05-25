@@ -1,0 +1,16 @@
+{
+  "article": "Walworth,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/83250/Walworth__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ab89d7503040cd6e1d7e87e7b3b1d9e526f66198ad5c2132250fda7481675974",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ab89d7503040cd6e1d7e87e7b3b1d9e526f66198ad5c2132250fda7481675974",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/83250/Walworth__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "83250",
+  "timestamp": "2026-05-25T00:23:01.583582Z",
+  "version": 1
+}

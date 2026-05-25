@@ -1,0 +1,16 @@
+{
+  "article": "Cumberland_Hill,_Rhode_Island",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/44/20260/Cumberland_Hill__Rhode_Island/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "66720761bb0c52701aa4ac2c0cae8ae2696f68aade3abe6d14a8c9d307e9570b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "66720761bb0c52701aa4ac2c0cae8ae2696f68aade3abe6d14a8c9d307e9570b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/44/20260/Cumberland_Hill__Rhode_Island/manifest.json",
+  "state_fips": "44",
+  "status": "match",
+  "target_fips": "20260",
+  "timestamp": "2026-05-25T00:09:36.450386Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Selma,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/68706/Selma__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d034def281ef0da4cf863f5b98e5234fcc669a98457b3e50f81d10a0833c9200",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d034def281ef0da4cf863f5b98e5234fcc669a98457b3e50f81d10a0833c9200",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/68706/Selma__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "68706",
+  "timestamp": "2026-05-24T23:40:12.281009Z",
+  "version": 1
+}

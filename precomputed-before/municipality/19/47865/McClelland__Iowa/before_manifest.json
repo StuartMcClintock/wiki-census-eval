@@ -1,0 +1,16 @@
+{
+  "article": "McClelland,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/47865/McClelland__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3f91a787227e2a715a2946f6042fc69b1e31d33805debc7121ae030f2f9cca0e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3f91a787227e2a715a2946f6042fc69b1e31d33805debc7121ae030f2f9cca0e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/47865/McClelland__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "47865",
+  "timestamp": "2026-05-24T23:41:23.731381Z",
+  "version": 1
+}

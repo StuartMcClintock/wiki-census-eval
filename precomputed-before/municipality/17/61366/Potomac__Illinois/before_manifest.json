@@ -1,0 +1,16 @@
+{
+  "article": "Potomac,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/61366/Potomac__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bc6d6a14f0c6ee26086acc66e11e0b8501565120ca9ee6971ca8745d8cec10bc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bc6d6a14f0c6ee26086acc66e11e0b8501565120ca9ee6971ca8745d8cec10bc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/61366/Potomac__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "61366",
+  "timestamp": "2026-05-24T23:39:03.336611Z",
+  "version": 1
+}

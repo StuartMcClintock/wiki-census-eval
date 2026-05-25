@@ -1,0 +1,16 @@
+{
+  "article": "Philadelphia,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/57350/Philadelphia__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "223d2a375460a37708fc7a8be19f5594b81d891d3bc4852b6c7aecc2b8583cbc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "223d2a375460a37708fc7a8be19f5594b81d891d3bc4852b6c7aecc2b8583cbc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/57350/Philadelphia__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "57350",
+  "timestamp": "2026-05-24T23:53:41.311407Z",
+  "version": 1
+}

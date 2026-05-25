@@ -1,0 +1,16 @@
+{
+  "article": "Mesa_del_Caballo,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/46005/Mesa_del_Caballo__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6af59ed5b376449d18492481b49d9ec51afb5f2a25aa26e8746410fda043b61d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6af59ed5b376449d18492481b49d9ec51afb5f2a25aa26e8746410fda043b61d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/46005/Mesa_del_Caballo__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "46005",
+  "timestamp": "2026-05-24T23:33:03.999276Z",
+  "version": 1
+}

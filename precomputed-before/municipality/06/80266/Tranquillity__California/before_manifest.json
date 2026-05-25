@@ -1,0 +1,16 @@
+{
+  "article": "Tranquillity,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/80266/Tranquillity__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "97438981d86ea151add54d6a2839a62b07f3159d8727d7c47881e0f38d2d2216",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "97438981d86ea151add54d6a2839a62b07f3159d8727d7c47881e0f38d2d2216",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/80266/Tranquillity__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "80266",
+  "timestamp": "2026-05-24T23:35:10.292545Z",
+  "version": 1
+}

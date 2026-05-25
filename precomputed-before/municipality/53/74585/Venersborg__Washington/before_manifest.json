@@ -1,0 +1,16 @@
+{
+  "article": "Venersborg,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/74585/Venersborg__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d788bf4708843452280f91b4fc2679a955392bf977e5a70ad1f12d08bdaef46c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d788bf4708843452280f91b4fc2679a955392bf977e5a70ad1f12d08bdaef46c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/74585/Venersborg__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "74585",
+  "timestamp": "2026-05-25T00:20:37.453922Z",
+  "version": 1
+}

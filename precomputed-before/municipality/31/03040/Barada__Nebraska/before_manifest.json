@@ -1,0 +1,16 @@
+{
+  "article": "Barada,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/03040/Barada__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8f135244d55aa15c92ecd3c0140e3c8e86441bd7eba7c7b4e3ae07675eac996c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8f135244d55aa15c92ecd3c0140e3c8e86441bd7eba7c7b4e3ae07675eac996c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/03040/Barada__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "03040",
+  "timestamp": "2026-05-24T23:55:09.932061Z",
+  "version": 1
+}

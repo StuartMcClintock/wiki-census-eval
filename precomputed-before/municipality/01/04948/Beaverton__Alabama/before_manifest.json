@@ -1,0 +1,16 @@
+{
+  "article": "Beaverton,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/04948/Beaverton__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "71b9b68780bf5c314b4d6ee6e608f0f541ccee7542e70b6b8ae031b9e6f65ab8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "71b9b68780bf5c314b4d6ee6e608f0f541ccee7542e70b6b8ae031b9e6f65ab8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/04948/Beaverton__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "04948",
+  "timestamp": "2026-05-24T23:31:49.100048Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Fort_Yates,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/27860/Fort_Yates__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3d0dc59cf60f783071bf1641277ab69f09c4e6d3a06f79f8ede30c0541bcab00",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3d0dc59cf60f783071bf1641277ab69f09c4e6d3a06f79f8ede30c0541bcab00",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/27860/Fort_Yates__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "27860",
+  "timestamp": "2026-05-25T00:02:56.202904Z",
+  "version": 1
+}

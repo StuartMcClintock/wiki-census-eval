@@ -1,0 +1,16 @@
+{
+  "article": "Grand_Rapids,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/31206/Grand_Rapids__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a35a0eedf3a2efe17c070de9f1d9bddb6f95a73f626e9bdd99c7971ace6f3401",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a35a0eedf3a2efe17c070de9f1d9bddb6f95a73f626e9bdd99c7971ace6f3401",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/31206/Grand_Rapids__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "31206",
+  "timestamp": "2026-05-25T00:04:13.528067Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Solomon,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/68010/Solomon__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "73c04fe62b82e38d7b8835fcde7368fb69cc9ead37dfd72c0bee6d63bfae525a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "73c04fe62b82e38d7b8835fcde7368fb69cc9ead37dfd72c0bee6d63bfae525a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/68010/Solomon__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "68010",
+  "timestamp": "2026-05-24T23:33:10.056922Z",
+  "version": 1
+}

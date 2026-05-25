@@ -1,0 +1,16 @@
+{
+  "article": "Bone_Gap,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/07224/Bone_Gap__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9d56a77b276c1b30a4868a6ca64e81cadcb515da777f3d24c938c6002a9326de",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9d56a77b276c1b30a4868a6ca64e81cadcb515da777f3d24c938c6002a9326de",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/07224/Bone_Gap__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "07224",
+  "timestamp": "2026-05-24T23:37:50.408989Z",
+  "version": 1
+}

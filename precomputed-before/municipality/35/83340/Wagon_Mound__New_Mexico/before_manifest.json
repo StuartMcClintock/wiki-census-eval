@@ -1,0 +1,16 @@
+{
+  "article": "Wagon_Mound,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/83340/Wagon_Mound__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "732b69cd9afca060bc94cb0bc3bed9ccb2abc89c04574aa04e0d2fc243a1df3f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "732b69cd9afca060bc94cb0bc3bed9ccb2abc89c04574aa04e0d2fc243a1df3f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/83340/Wagon_Mound__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "83340",
+  "timestamp": "2026-05-25T00:00:27.842842Z",
+  "version": 1
+}

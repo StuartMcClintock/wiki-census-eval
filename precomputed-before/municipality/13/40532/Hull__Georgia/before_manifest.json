@@ -1,0 +1,16 @@
+{
+  "article": "Hull,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/40532/Hull__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f7602182fbf343f02e621cb42f276c94152b8aaee4a52ae75c92ebdba358c3c2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f7602182fbf343f02e621cb42f276c94152b8aaee4a52ae75c92ebdba358c3c2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/40532/Hull__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "40532",
+  "timestamp": "2026-05-24T23:36:50.905539Z",
+  "version": 1
+}

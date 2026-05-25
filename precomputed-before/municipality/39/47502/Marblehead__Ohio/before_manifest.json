@@ -1,0 +1,16 @@
+{
+  "article": "Marblehead,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/47502/Marblehead__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "17b42fe59bf5981eee5bd09011a38c74cef17c15a9ff058958fcd8112feaf7c3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "17b42fe59bf5981eee5bd09011a38c74cef17c15a9ff058958fcd8112feaf7c3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/47502/Marblehead__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "47502",
+  "timestamp": "2026-05-25T00:04:43.136426Z",
+  "version": 1
+}

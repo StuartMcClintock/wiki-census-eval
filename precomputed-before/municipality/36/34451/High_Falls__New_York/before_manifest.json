@@ -1,0 +1,16 @@
+{
+  "article": "High_Falls,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/34451/High_Falls__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "df60f37270c8a11b1366bdf8ac86e100d623b25b64479988ed03681eb3e2bf5f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "df60f37270c8a11b1366bdf8ac86e100d623b25b64479988ed03681eb3e2bf5f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/34451/High_Falls__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "34451",
+  "timestamp": "2026-05-25T00:00:47.868047Z",
+  "version": 1
+}

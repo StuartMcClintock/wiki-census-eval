@@ -1,0 +1,16 @@
+{
+  "article": "Columbus,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/15400/Columbus__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ef2e5c7ac813cb05aa5551ed3b11cbf5564d8ab602f9d9c7e0a19c90fd98a151",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ef2e5c7ac813cb05aa5551ed3b11cbf5564d8ab602f9d9c7e0a19c90fd98a151",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/15400/Columbus__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "15400",
+  "timestamp": "2026-05-25T00:06:44.659613Z",
+  "version": 1
+}

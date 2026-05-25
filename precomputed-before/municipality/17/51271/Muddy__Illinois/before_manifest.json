@@ -1,0 +1,16 @@
+{
+  "article": "Muddy,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/51271/Muddy__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dd3dd095d227825e096b06eb9e12f91ead49c633918bb8b2b60bba006a0dcb2b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dd3dd095d227825e096b06eb9e12f91ead49c633918bb8b2b60bba006a0dcb2b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/51271/Muddy__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "51271",
+  "timestamp": "2026-05-24T23:38:37.738237Z",
+  "version": 1
+}

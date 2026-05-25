@@ -1,0 +1,16 @@
+{
+  "article": "St._Stephens,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/67584/St._Stephens__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "13e84866022c488d7bb3568049928ef97958ad008a3e768de3883b0025a44895",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "13e84866022c488d7bb3568049928ef97958ad008a3e768de3883b0025a44895",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/67584/St._Stephens__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "67584",
+  "timestamp": "2026-05-24T23:32:11.660068Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Newtown,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/53694/Newtown__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "28fcb0eb5e95013bfb27291d1bb4692e932772d11e3e49b3d51e5d6c064863f9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "28fcb0eb5e95013bfb27291d1bb4692e932772d11e3e49b3d51e5d6c064863f9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/53694/Newtown__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "53694",
+  "timestamp": "2026-05-24T23:40:05.752199Z",
+  "version": 1
+}

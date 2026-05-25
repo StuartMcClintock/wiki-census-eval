@@ -1,0 +1,16 @@
+{
+  "article": "Rockport,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/65130/Rockport__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "940669e23e10d3f48dabd3355e1940523d07f07f10e19b0f21ce3c2f02106184",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "940669e23e10d3f48dabd3355e1940523d07f07f10e19b0f21ce3c2f02106184",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/65130/Rockport__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "65130",
+  "timestamp": "2026-05-24T23:39:07.136232Z",
+  "version": 1
+}

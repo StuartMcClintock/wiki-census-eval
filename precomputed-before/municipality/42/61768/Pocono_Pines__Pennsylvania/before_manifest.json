@@ -1,0 +1,16 @@
+{
+  "article": "Pocono_Pines,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/61768/Pocono_Pines__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "51adf1965259656f836fcb527611bdfad263d4baa779a89d352f1a18c30c9a31",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "51adf1965259656f836fcb527611bdfad263d4baa779a89d352f1a18c30c9a31",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/61768/Pocono_Pines__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "61768",
+  "timestamp": "2026-05-25T00:08:31.339579Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Franklin_Furnace,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/28532/Franklin_Furnace__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9bd1102822a38318e7108bf205cd13023efc43384ef591803000adea3ddb57a2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9bd1102822a38318e7108bf205cd13023efc43384ef591803000adea3ddb57a2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/28532/Franklin_Furnace__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "28532",
+  "timestamp": "2026-05-25T00:04:09.819592Z",
+  "version": 1
+}

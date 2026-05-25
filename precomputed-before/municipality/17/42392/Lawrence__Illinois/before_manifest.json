@@ -1,0 +1,16 @@
+{
+  "article": "Lawrence,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/42392/Lawrence__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "462fd74cd13e2e91c7044e6f7802124f4721d0a0f93ab9ba0f5d3dee891d7fb7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "462fd74cd13e2e91c7044e6f7802124f4721d0a0f93ab9ba0f5d3dee891d7fb7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/42392/Lawrence__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "42392",
+  "timestamp": "2026-05-24T23:38:28.008393Z",
+  "version": 1
+}

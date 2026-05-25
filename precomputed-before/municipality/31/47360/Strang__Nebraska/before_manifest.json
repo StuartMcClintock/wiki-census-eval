@@ -1,0 +1,16 @@
+{
+  "article": "Strang,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/47360/Strang__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cc353b462a8251931afa0891734688342ef018de443939d6ed70a336ad63307e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cc353b462a8251931afa0891734688342ef018de443939d6ed70a336ad63307e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/47360/Strang__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "47360",
+  "timestamp": "2026-05-24T23:57:18.463981Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "North_Star,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/57064/North_Star__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "99bc77c6d72be258e637226a20299aad0e6a9c6a3511efa028472d5b77dd6fff",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "99bc77c6d72be258e637226a20299aad0e6a9c6a3511efa028472d5b77dd6fff",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/57064/North_Star__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "57064",
+  "timestamp": "2026-05-25T00:05:01.995337Z",
+  "version": 1
+}

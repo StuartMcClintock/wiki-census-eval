@@ -1,0 +1,16 @@
+{
+  "article": "Yorkshire,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/87164/Yorkshire__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5fc8c375d69564dbcde66e8de36495f80bbb82c2bcc1709ae08f9bf1c5589891",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5fc8c375d69564dbcde66e8de36495f80bbb82c2bcc1709ae08f9bf1c5589891",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/87164/Yorkshire__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "87164",
+  "timestamp": "2026-05-25T00:05:41.571910Z",
+  "version": 1
+}

@@ -1,0 +1,37 @@
+==Demographics==
+{{US Census population
+|1980= 431
+|1990= 281
+|2000= 383
+|2010= 364
+|2020= 259
+|estyear=2024
+|estimate=259
+|estref=<ref>{{cite web |title=City and Town Population Totals: 2020-2024 |url=https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html |publisher=United States Census Bureau |access-date=9 August 2025}}</ref> {{same}}
+|footnote=U.S. 
+Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2015}}</ref>
+}}
+{| class="wikitable" style="text-align:right"
+|+Chataignier racial composition as of 2020<ref>{{Cite web|title=Explore Census Data|url=https://data.census.gov/cedsci/table?g=1600000US2214450&tid=DECENNIALPL2020.P2|access-date=December 29, 2021|website=data.census.gov}}</ref>
+!scope="col"| Race
+!scope="col"| Number
+!scope="col"| Percentage
+|-
+!scope="row"| [[White (U.S. Census)|White]] (non-Hispanic)
+| 107
+| 41.31%
+|-
+!scope="row"| [[African American (U.S. Census)|Black or African American]] (non-Hispanic)
+| 141
+| 54.44%
+|-
+!scope="row"| [[Race (United States Census)|Other/Mixed]]
+| 5
+| 1.93%
+|-
+!scope="row"| [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]]
+| 6
+| 2.52%
+|}
+As of the [[2020 United States census]], there were 259 people, 142 households, and 71 families residing in the village.
+

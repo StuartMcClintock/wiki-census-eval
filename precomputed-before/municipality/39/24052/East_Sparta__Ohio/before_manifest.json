@@ -1,0 +1,16 @@
+{
+  "article": "East_Sparta,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/24052/East_Sparta__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "badc9553160989a2ab39f2cd0b45182faf417dda80b0469640abad2e4d869fe1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "badc9553160989a2ab39f2cd0b45182faf417dda80b0469640abad2e4d869fe1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/24052/East_Sparta__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "24052",
+  "timestamp": "2026-05-25T00:04:06.411081Z",
+  "version": 1
+}

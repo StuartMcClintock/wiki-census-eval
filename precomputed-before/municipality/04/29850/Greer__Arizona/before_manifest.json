@@ -1,0 +1,16 @@
+{
+  "article": "Greer,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/29850/Greer__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b914bf98a0c8c7b64cdd3ad09cbe4e56055686c0d75d4e4513b2ffcbdc9ac2d8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b914bf98a0c8c7b64cdd3ad09cbe4e56055686c0d75d4e4513b2ffcbdc9ac2d8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/29850/Greer__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "29850",
+  "timestamp": "2026-05-24T23:32:55.712802Z",
+  "version": 1
+}

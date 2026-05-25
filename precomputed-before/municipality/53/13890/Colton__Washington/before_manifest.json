@@ -1,0 +1,16 @@
+{
+  "article": "Colton,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/13890/Colton__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "96e268308bd0ac7bfac7745b24d2187137089cd8c8d0ba5f2fd1d8ae12866df5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "96e268308bd0ac7bfac7745b24d2187137089cd8c8d0ba5f2fd1d8ae12866df5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/13890/Colton__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "13890",
+  "timestamp": "2026-05-25T00:20:07.044069Z",
+  "version": 1
+}

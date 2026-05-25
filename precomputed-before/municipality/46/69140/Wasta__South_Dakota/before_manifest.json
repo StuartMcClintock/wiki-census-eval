@@ -1,0 +1,16 @@
+{
+  "article": "Wasta,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/69140/Wasta__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e29b55e23f0526d73843cc3fb22f14750a576e4099487211aaf84cc52141a458",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e29b55e23f0526d73843cc3fb22f14750a576e4099487211aaf84cc52141a458",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/69140/Wasta__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "69140",
+  "timestamp": "2026-05-25T00:14:27.952723Z",
+  "version": 1
+}

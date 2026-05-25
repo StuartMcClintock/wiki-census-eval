@@ -1,0 +1,16 @@
+{
+  "article": "Wallingford,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/81975/Wallingford__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c3fd622412440c4946ccedcd7fff095bde9afa37b52fc5353878d5164b4396e7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c3fd622412440c4946ccedcd7fff095bde9afa37b52fc5353878d5164b4396e7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/81975/Wallingford__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "81975",
+  "timestamp": "2026-05-24T23:42:09.333444Z",
+  "version": 1
+}

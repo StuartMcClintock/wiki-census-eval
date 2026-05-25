@@ -1,0 +1,16 @@
+{
+  "article": "Wenonah,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/79826/Wenonah__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1c16f4bbc379e37dcbf18c693cea8ab52874d3e0e24d6d2cea8dbec8720510b8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1c16f4bbc379e37dcbf18c693cea8ab52874d3e0e24d6d2cea8dbec8720510b8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/79826/Wenonah__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "79826",
+  "timestamp": "2026-05-24T23:39:21.523024Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Bunkerville,_Nevada",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/32/08100/Bunkerville__Nevada/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3f1de614fe7064bc31fe2a2236a3c85f9e58e2a045fe1395833e20b36d2c6e34",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3f1de614fe7064bc31fe2a2236a3c85f9e58e2a045fe1395833e20b36d2c6e34",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/32/08100/Bunkerville__Nevada/manifest.json",
+  "state_fips": "32",
+  "status": "match",
+  "target_fips": "08100",
+  "timestamp": "2026-05-24T23:57:27.532644Z",
+  "version": 1
+}

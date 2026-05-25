@@ -1,0 +1,16 @@
+{
+  "article": "Beaver,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/04696/Beaver__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b22fbcd527f95d8f7aaa8b94eeb618ffdc4f6b10db5697b47a3bf45cc4d8b3f0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b22fbcd527f95d8f7aaa8b94eeb618ffdc4f6b10db5697b47a3bf45cc4d8b3f0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/04696/Beaver__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "04696",
+  "timestamp": "2026-05-25T00:03:33.053871Z",
+  "version": 1
+}

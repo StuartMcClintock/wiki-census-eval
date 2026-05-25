@@ -1,0 +1,16 @@
+{
+  "article": "Milan,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/42146/Milan__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7448c840f3518e361d4d8396fdcd725bbacc9ce6ee107f0b1931f25b14ee1a5c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7448c840f3518e361d4d8396fdcd725bbacc9ce6ee107f0b1931f25b14ee1a5c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/42146/Milan__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "42146",
+  "timestamp": "2026-05-24T23:49:20.867543Z",
+  "version": 1
+}

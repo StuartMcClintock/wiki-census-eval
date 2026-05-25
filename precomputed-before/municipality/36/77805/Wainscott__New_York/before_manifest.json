@@ -1,0 +1,16 @@
+{
+  "article": "Wainscott,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/77805/Wainscott__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "345459b60255b9539a61163b1308474471808ad121f0691bf8a2d0d920b45271",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "345459b60255b9539a61163b1308474471808ad121f0691bf8a2d0d920b45271",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/77805/Wainscott__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "77805",
+  "timestamp": "2026-05-25T00:01:22.804602Z",
+  "version": 1
+}

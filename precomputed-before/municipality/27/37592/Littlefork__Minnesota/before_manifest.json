@@ -1,0 +1,16 @@
+{
+  "article": "Littlefork,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/37592/Littlefork__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d5c9ad68de906a313360c35c5a8ce5ea9b3bbe8e0fd16b3cfbf108064b5b9dc0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d5c9ad68de906a313360c35c5a8ce5ea9b3bbe8e0fd16b3cfbf108064b5b9dc0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/37592/Littlefork__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "37592",
+  "timestamp": "2026-05-24T23:49:16.429193Z",
+  "version": 1
+}

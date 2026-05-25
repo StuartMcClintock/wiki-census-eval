@@ -1,0 +1,16 @@
+{
+  "article": "Madrid,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/45904/Madrid__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "54cb52031aa3d87e84c35d969ddd7cfd91471fdd98bffaa59573de50309aa24f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "54cb52031aa3d87e84c35d969ddd7cfd91471fdd98bffaa59573de50309aa24f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/45904/Madrid__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "45904",
+  "timestamp": "2026-05-24T23:32:03.602524Z",
+  "version": 1
+}

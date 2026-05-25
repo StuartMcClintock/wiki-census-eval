@@ -1,0 +1,16 @@
+{
+  "article": "Sena,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/71790/Sena__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9e134b9e9f121b818f73237fefc9daa3b6a4b387be7a726dbc7fa0bf42d5c031",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9e134b9e9f121b818f73237fefc9daa3b6a4b387be7a726dbc7fa0bf42d5c031",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/71790/Sena__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "71790",
+  "timestamp": "2026-05-24T23:59:05.844202Z",
+  "version": 1
+}

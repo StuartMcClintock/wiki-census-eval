@@ -1,0 +1,16 @@
+{
+  "article": "Metompkin,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/51362/Metompkin__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "55ab7066786a7a075ed021d60c8afe0886123a0083a41a1dbe9c018201841b3a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "55ab7066786a7a075ed021d60c8afe0886123a0083a41a1dbe9c018201841b3a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/51362/Metompkin__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "51362",
+  "timestamp": "2026-05-25T00:19:26.035253Z",
+  "version": 1
+}

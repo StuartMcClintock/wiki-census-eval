@@ -1,0 +1,16 @@
+{
+  "article": "Crescent,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/17175/Crescent__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9c5abd0c5db01b0f2e146becf94a7ddebfed224c2612bcfdf50be98ec88f2bd4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9c5abd0c5db01b0f2e146becf94a7ddebfed224c2612bcfdf50be98ec88f2bd4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/17175/Crescent__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "17175",
+  "timestamp": "2026-05-24T23:40:37.835596Z",
+  "version": 1
+}

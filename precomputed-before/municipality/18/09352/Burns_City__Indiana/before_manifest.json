@@ -1,0 +1,16 @@
+{
+  "article": "Burns_City,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/09352/Burns_City__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "01f28d3eb6f75e71f23ea33da0b12cecc55ef88d0c5c7a0b7f3c5bc3dba1b6ee",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "01f28d3eb6f75e71f23ea33da0b12cecc55ef88d0c5c7a0b7f3c5bc3dba1b6ee",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/09352/Burns_City__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "09352",
+  "timestamp": "2026-05-24T23:39:28.167583Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Wildersville,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/80720/Wildersville__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8c6ab0bb0857a8b0903978d65ec4f1c56f1888506a4e399d55e3d81e20b92d08",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8c6ab0bb0857a8b0903978d65ec4f1c56f1888506a4e399d55e3d81e20b92d08",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/80720/Wildersville__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "80720",
+  "timestamp": "2026-05-25T00:14:59.125187Z",
+  "version": 1
+}

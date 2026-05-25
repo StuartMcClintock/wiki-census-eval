@@ -1,0 +1,16 @@
+{
+  "article": "Alvord,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/02284/Alvord__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "39ce07f0d15acec0a221ac7ff0bccf5945d65648350d981d512528712bf00f62",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "39ce07f0d15acec0a221ac7ff0bccf5945d65648350d981d512528712bf00f62",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/02284/Alvord__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "02284",
+  "timestamp": "2026-05-25T00:15:01.385688Z",
+  "version": 1
+}

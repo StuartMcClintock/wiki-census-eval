@@ -1,0 +1,16 @@
+{
+  "article": "Oceanville,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/54630/Oceanville__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0d7cc12ea6615c4cd637ce5c9cc12dfbffee10fd61f8f0c37c4792adeacbfad5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0d7cc12ea6615c4cd637ce5c9cc12dfbffee10fd61f8f0c37c4792adeacbfad5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/54630/Oceanville__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "54630",
+  "timestamp": "2026-05-24T23:57:57.432685Z",
+  "version": 1
+}

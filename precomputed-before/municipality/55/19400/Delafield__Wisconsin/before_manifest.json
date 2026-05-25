@@ -1,0 +1,16 @@
+{
+  "article": "Delafield,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/19400/Delafield__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "04c7985d68d04aae17064a521b73f7beb5e77c245de36ad4c96d83608919b14a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "04c7985d68d04aae17064a521b73f7beb5e77c245de36ad4c96d83608919b14a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/19400/Delafield__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "19400",
+  "timestamp": "2026-05-25T00:22:00.357912Z",
+  "version": 1
+}

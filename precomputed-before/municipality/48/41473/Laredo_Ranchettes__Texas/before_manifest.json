@@ -1,0 +1,16 @@
+{
+  "article": "Laredo_Ranchettes,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/41473/Laredo_Ranchettes__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f12827d33673a8e3d80bb0b06e92677ef8101fcbbfa1a469dd9f85ad710afb68",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f12827d33673a8e3d80bb0b06e92677ef8101fcbbfa1a469dd9f85ad710afb68",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/41473/Laredo_Ranchettes__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "41473",
+  "timestamp": "2026-05-25T00:15:52.165870Z",
+  "version": 1
+}

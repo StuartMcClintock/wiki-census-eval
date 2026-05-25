@@ -1,0 +1,16 @@
+{
+  "article": "Biron,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/07650/Biron__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d8414ac4f044a54e1004a01332f65220ce72b692d44bfb6dc59a398d4da71cfb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d8414ac4f044a54e1004a01332f65220ce72b692d44bfb6dc59a398d4da71cfb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/07650/Biron__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "07650",
+  "timestamp": "2026-05-25T00:21:36.567670Z",
+  "version": 1
+}

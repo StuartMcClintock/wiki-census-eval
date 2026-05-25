@@ -1,0 +1,16 @@
+{
+  "article": "Oso,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/52110/Oso__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8f260879de061de22f50a595fe89e7137602ad2f1889b703c9233576e348f1a7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8f260879de061de22f50a595fe89e7137602ad2f1889b703c9233576e348f1a7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/52110/Oso__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "52110",
+  "timestamp": "2026-05-25T00:20:26.756533Z",
+  "version": 1
+}

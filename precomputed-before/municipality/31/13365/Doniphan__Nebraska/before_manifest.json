@@ -1,0 +1,16 @@
+{
+  "article": "Doniphan,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/13365/Doniphan__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c773758d1439e8f8c2595eca793e2b196da2a53a8ec48e474c61213f35fb86c7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c773758d1439e8f8c2595eca793e2b196da2a53a8ec48e474c61213f35fb86c7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/13365/Doniphan__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "13365",
+  "timestamp": "2026-05-24T23:55:22.997305Z",
+  "version": 1
+}

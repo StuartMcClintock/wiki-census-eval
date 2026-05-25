@@ -1,0 +1,16 @@
+{
+  "article": "Tangier,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/77520/Tangier__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "240a342ca842bb7dac41a5eb643e2c14333b1a8e1a9b7d8978f58ec0a4f67b6d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "240a342ca842bb7dac41a5eb643e2c14333b1a8e1a9b7d8978f58ec0a4f67b6d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/77520/Tangier__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "77520",
+  "timestamp": "2026-05-25T00:19:41.186042Z",
+  "version": 1
+}

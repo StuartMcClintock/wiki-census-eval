@@ -1,0 +1,16 @@
+{
+  "article": "Powell,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/62075/Powell__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1782563ebfd9b6feabe2618d9a8fa297e8dc8b21b20ad4a5a368962c3677cf14",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1782563ebfd9b6feabe2618d9a8fa297e8dc8b21b20ad4a5a368962c3677cf14",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/62075/Powell__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "62075",
+  "timestamp": "2026-05-24T23:32:09.526732Z",
+  "version": 1
+}

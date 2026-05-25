@@ -1,0 +1,16 @@
+{
+  "article": "Blanchard,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/08290/Blanchard__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4d53641507c5eac519fe00b9a7655ba92a11f030411b58289c1c44e73b876665",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4d53641507c5eac519fe00b9a7655ba92a11f030411b58289c1c44e73b876665",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/08290/Blanchard__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "08290",
+  "timestamp": "2026-05-24T23:37:16.432167Z",
+  "version": 1
+}

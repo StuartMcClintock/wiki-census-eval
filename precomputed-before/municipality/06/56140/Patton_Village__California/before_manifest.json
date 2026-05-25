@@ -1,0 +1,16 @@
+{
+  "article": "Patton_Village,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/56140/Patton_Village__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1e44d2d3c48b6b55bdae65198465711ee3ec13d5f60810b15f8058f5225e68c8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1e44d2d3c48b6b55bdae65198465711ee3ec13d5f60810b15f8058f5225e68c8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/56140/Patton_Village__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "56140",
+  "timestamp": "2026-05-24T23:34:45.396057Z",
+  "version": 1
+}

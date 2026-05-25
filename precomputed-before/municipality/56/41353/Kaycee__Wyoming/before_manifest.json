@@ -1,0 +1,16 @@
+{
+  "article": "Kaycee,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/41353/Kaycee__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "27c42b5ef250c0d66c4cb1a8a8c104a9c9ad579eaac6b1f35e31c4678d7b076d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "27c42b5ef250c0d66c4cb1a8a8c104a9c9ad579eaac6b1f35e31c4678d7b076d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/41353/Kaycee__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "41353",
+  "timestamp": "2026-05-25T00:23:16.812699Z",
+  "version": 1
+}

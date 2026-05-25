@@ -1,0 +1,16 @@
+{
+  "article": "Springport,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/72332/Springport__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "66765514e9cfeb813f0597f822097541830e2efb0e6895a92c1737d92ff6973d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "66765514e9cfeb813f0597f822097541830e2efb0e6895a92c1737d92ff6973d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/72332/Springport__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "72332",
+  "timestamp": "2026-05-24T23:40:14.106042Z",
+  "version": 1
+}

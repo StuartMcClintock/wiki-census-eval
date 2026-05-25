@@ -1,0 +1,16 @@
+{
+  "article": "Hartville,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/30754/Hartville__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b1f3e70eb6368206b6fe2982e59c10f7e820c7aa723a7605b1fc83f365352a27",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b1f3e70eb6368206b6fe2982e59c10f7e820c7aa723a7605b1fc83f365352a27",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/30754/Hartville__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "30754",
+  "timestamp": "2026-05-24T23:53:16.358123Z",
+  "version": 1
+}

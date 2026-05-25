@@ -1,0 +1,16 @@
+{
+  "article": "Juneau,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/38675/Juneau__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e36c4b5b3ad174e5086dbcebc146c9c8a7253ff3d6b52843a83bcdad8ad543dc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e36c4b5b3ad174e5086dbcebc146c9c8a7253ff3d6b52843a83bcdad8ad543dc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/38675/Juneau__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "38675",
+  "timestamp": "2026-05-25T00:22:15.328676Z",
+  "version": 1
+}

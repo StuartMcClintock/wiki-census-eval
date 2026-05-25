@@ -1,0 +1,16 @@
+{
+  "article": "Pendroy,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/56875/Pendroy__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fbc15327e60703bb93d78cbe986924cd943337ff7cd5bf5856bfc10eec9cb8b6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fbc15327e60703bb93d78cbe986924cd943337ff7cd5bf5856bfc10eec9cb8b6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/56875/Pendroy__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "56875",
+  "timestamp": "2026-05-24T23:54:41.992532Z",
+  "version": 1
+}

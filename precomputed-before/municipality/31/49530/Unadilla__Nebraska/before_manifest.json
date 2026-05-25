@@ -1,0 +1,16 @@
+{
+  "article": "Unadilla,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/49530/Unadilla__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dae8505798072bf98bb685e9a1bdc886ce9faf1ad03b086603f14408dfb82c30",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dae8505798072bf98bb685e9a1bdc886ce9faf1ad03b086603f14408dfb82c30",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/49530/Unadilla__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "49530",
+  "timestamp": "2026-05-24T23:57:21.871803Z",
+  "version": 1
+}

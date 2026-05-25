@@ -1,0 +1,16 @@
+{
+  "article": "Cainsville,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/10342/Cainsville__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6eb437dc7f2b639593950bc823f60b0c825800c6e315affaa193acd72ec8d7bd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6eb437dc7f2b639593950bc823f60b0c825800c6e315affaa193acd72ec8d7bd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/10342/Cainsville__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "10342",
+  "timestamp": "2026-05-24T23:50:51.733520Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Pope,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/59240/Pope__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "26c91834ebc6a628eff9c27d3afd1b17da18b114fb92e933d1bbe78b070b0822",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "26c91834ebc6a628eff9c27d3afd1b17da18b114fb92e933d1bbe78b070b0822",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/59240/Pope__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "59240",
+  "timestamp": "2026-05-24T23:50:20.570323Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Oregon,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/54848/Oregon__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e9747cca0b80ab20400700dfb8124b6e6e4d950a5b9e48e0b503674d413efd91",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e9747cca0b80ab20400700dfb8124b6e6e4d950a5b9e48e0b503674d413efd91",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/54848/Oregon__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "54848",
+  "timestamp": "2026-05-24T23:53:38.434136Z",
+  "version": 1
+}

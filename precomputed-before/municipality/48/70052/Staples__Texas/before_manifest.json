@@ -1,0 +1,16 @@
+{
+  "article": "Staples,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/70052/Staples__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "62aebeef0c2515d2ddfc7f9ec8259abad2c58219f5d7147210dcd9b8cbef87c6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "62aebeef0c2515d2ddfc7f9ec8259abad2c58219f5d7147210dcd9b8cbef87c6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/70052/Staples__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "70052",
+  "timestamp": "2026-05-25T00:16:40.196870Z",
+  "version": 1
+}

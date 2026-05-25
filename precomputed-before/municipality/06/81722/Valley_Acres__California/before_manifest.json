@@ -1,0 +1,16 @@
+{
+  "article": "Valley_Acres,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/81722/Valley_Acres__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fdc8ce0e1a64aee97fad2a8a6f82bba824b1a005f4dc1c7f7fd94e0222d7a0e6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fdc8ce0e1a64aee97fad2a8a6f82bba824b1a005f4dc1c7f7fd94e0222d7a0e6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/81722/Valley_Acres__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "81722",
+  "timestamp": "2026-05-24T23:35:11.926262Z",
+  "version": 1
+}

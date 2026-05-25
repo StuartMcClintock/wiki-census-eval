@@ -1,0 +1,16 @@
+{
+  "article": "Morven,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/44560/Morven__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "15c7ab77ca80f3cbd463ee616ff66d921e941542bfc386e5936a265f2be440b0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "15c7ab77ca80f3cbd463ee616ff66d921e941542bfc386e5936a265f2be440b0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/44560/Morven__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "44560",
+  "timestamp": "2026-05-25T00:02:12.340311Z",
+  "version": 1
+}

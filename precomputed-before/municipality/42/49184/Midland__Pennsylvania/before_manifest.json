@@ -1,0 +1,16 @@
+{
+  "article": "Midland,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/49184/Midland__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7362cbe40537b425c525ada29a249e6ade64f2805b5062d7ae778e1a4f372fde",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7362cbe40537b425c525ada29a249e6ade64f2805b5062d7ae778e1a4f372fde",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/49184/Midland__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "49184",
+  "timestamp": "2026-05-25T00:08:05.165455Z",
+  "version": 1
+}

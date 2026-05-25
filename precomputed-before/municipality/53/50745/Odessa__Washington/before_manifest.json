@@ -1,0 +1,16 @@
+{
+  "article": "Odessa,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/50745/Odessa__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6413ecd1e1a4da1b947fa4d8cb120b57042392954e10060e02b455b2a1eaccee",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6413ecd1e1a4da1b947fa4d8cb120b57042392954e10060e02b455b2a1eaccee",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/50745/Odessa__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "50745",
+  "timestamp": "2026-05-25T00:20:26.379453Z",
+  "version": 1
+}

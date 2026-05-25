@@ -1,0 +1,16 @@
+{
+  "article": "Yatesville,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/84708/Yatesville__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dc389fe272222c8db0aa8c98d75b794867c5ba479dbcab0d55f16f6e29411d29",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dc389fe272222c8db0aa8c98d75b794867c5ba479dbcab0d55f16f6e29411d29",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/84708/Yatesville__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "84708",
+  "timestamp": "2026-05-24T23:37:13.240585Z",
+  "version": 1
+}

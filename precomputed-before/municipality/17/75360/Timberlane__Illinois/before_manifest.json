@@ -1,0 +1,16 @@
+{
+  "article": "Timberlane,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/75360/Timberlane__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "eb5ed6f6b0e0074987be3ddb525b6bb29a99a5639d3a3b5120b18f97611a43f9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "eb5ed6f6b0e0074987be3ddb525b6bb29a99a5639d3a3b5120b18f97611a43f9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/75360/Timberlane__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "75360",
+  "timestamp": "2026-05-24T23:39:16.553219Z",
+  "version": 1
+}

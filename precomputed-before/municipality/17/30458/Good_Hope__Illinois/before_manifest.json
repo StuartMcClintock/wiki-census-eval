@@ -1,0 +1,16 @@
+{
+  "article": "Good_Hope,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/30458/Good_Hope__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "87593f2137e0182a7531970254d8205ca70826250ad2772c9dba1d1b18e63c48",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "87593f2137e0182a7531970254d8205ca70826250ad2772c9dba1d1b18e63c48",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/30458/Good_Hope__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "30458",
+  "timestamp": "2026-05-24T23:38:16.776250Z",
+  "version": 1
+}

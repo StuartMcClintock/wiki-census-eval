@@ -1,0 +1,16 @@
+{
+  "article": "Accomac,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/00180/Accomac__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "512bfd2f644e2824c34e852f964dcf26190f6cf5de836a95a6885af0894826fb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "512bfd2f644e2824c34e852f964dcf26190f6cf5de836a95a6885af0894826fb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/00180/Accomac__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "00180",
+  "timestamp": "2026-05-25T00:17:20.533510Z",
+  "version": 1
+}

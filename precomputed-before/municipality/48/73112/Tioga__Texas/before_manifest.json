@@ -1,0 +1,16 @@
+{
+  "article": "Tioga,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/73112/Tioga__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "93a7d47898db99c550b37a49e63b0ed94b9efb09999e6cae9175d20686d83e3e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "93a7d47898db99c550b37a49e63b0ed94b9efb09999e6cae9175d20686d83e3e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/73112/Tioga__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "73112",
+  "timestamp": "2026-05-25T00:16:43.952026Z",
+  "version": 1
+}

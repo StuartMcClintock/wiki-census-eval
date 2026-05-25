@@ -1,0 +1,16 @@
+{
+  "article": "C\u00e9sar_Ch\u00e1vez,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/14038/C_sar_Ch_vez__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "08137bf98a6c4bbccfb3ddf7712441d0d47de3724b8b56697c6d9e10f29c9580",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "08137bf98a6c4bbccfb3ddf7712441d0d47de3724b8b56697c6d9e10f29c9580",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/14038/C_sar_Ch_vez__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "14038",
+  "timestamp": "2026-05-25T00:15:24.168182Z",
+  "version": 1
+}

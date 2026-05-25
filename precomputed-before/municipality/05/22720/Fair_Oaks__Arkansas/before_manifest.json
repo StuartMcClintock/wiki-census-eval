@@ -1,0 +1,16 @@
+{
+  "article": "Fair_Oaks,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/22720/Fair_Oaks__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3bff453fc2752b9f17afd6e2dcb59001578c9b2681f4c84ccc635da228919432",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3bff453fc2752b9f17afd6e2dcb59001578c9b2681f4c84ccc635da228919432",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/22720/Fair_Oaks__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "22720",
+  "timestamp": "2026-05-24T23:33:40.602800Z",
+  "version": 1
+}

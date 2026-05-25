@@ -1,0 +1,16 @@
+{
+  "article": "Cooksville,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/16210/Cooksville__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d3c4c1c8f55bfc35c46c2b15bac5259038717ba45a3c22d72795486e000b399b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d3c4c1c8f55bfc35c46c2b15bac5259038717ba45a3c22d72795486e000b399b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/16210/Cooksville__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "16210",
+  "timestamp": "2026-05-24T23:38:02.798149Z",
+  "version": 1
+}

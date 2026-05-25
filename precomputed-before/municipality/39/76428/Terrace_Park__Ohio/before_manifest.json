@@ -1,0 +1,16 @@
+{
+  "article": "Terrace_Park,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/76428/Terrace_Park__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "699ba6d4534aee3458157fe90b8e4582f8a5579e1aa619eafb515be19e86a807",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "699ba6d4534aee3458157fe90b8e4582f8a5579e1aa619eafb515be19e86a807",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/76428/Terrace_Park__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "76428",
+  "timestamp": "2026-05-25T00:05:31.745766Z",
+  "version": 1
+}

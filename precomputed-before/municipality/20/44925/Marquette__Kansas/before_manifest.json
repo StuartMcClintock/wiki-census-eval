@@ -1,0 +1,16 @@
+{
+  "article": "Marquette,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/44925/Marquette__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3ed6d2e73cbebdaac24b7329345268557d1147bdada4223a7e18fff16e09478a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3ed6d2e73cbebdaac24b7329345268557d1147bdada4223a7e18fff16e09478a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/44925/Marquette__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "44925",
+  "timestamp": "2026-05-24T23:43:08.132414Z",
+  "version": 1
+}

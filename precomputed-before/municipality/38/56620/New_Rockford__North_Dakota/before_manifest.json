@@ -1,0 +1,16 @@
+{
+  "article": "New_Rockford,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/56620/New_Rockford__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "946e53ccf3fdcbaef09b17293bce300d34bb69a8815b5f96a855de6e30a609cc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "946e53ccf3fdcbaef09b17293bce300d34bb69a8815b5f96a855de6e30a609cc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/56620/New_Rockford__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "56620",
+  "timestamp": "2026-05-25T00:03:14.501862Z",
+  "version": 1
+}

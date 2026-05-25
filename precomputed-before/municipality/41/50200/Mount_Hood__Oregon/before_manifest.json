@@ -1,0 +1,16 @@
+{
+  "article": "Mount_Hood,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/50200/Mount_Hood__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ad4ed580a2ce98ca9f20ceccb23cb018e0ae29c94965d3d2728ff08e27e37c57",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ad4ed580a2ce98ca9f20ceccb23cb018e0ae29c94965d3d2728ff08e27e37c57",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/50200/Mount_Hood__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "50200",
+  "timestamp": "2026-05-25T00:05:52.150599Z",
+  "version": 1
+}

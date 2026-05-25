@@ -1,0 +1,16 @@
+{
+  "article": "Craig,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/17056/Craig__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dbb8191fe95048604071999774249e813fe468d4d0a5eb11ad3b8d6c09a1d088",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dbb8191fe95048604071999774249e813fe468d4d0a5eb11ad3b8d6c09a1d088",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/17056/Craig__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "17056",
+  "timestamp": "2026-05-24T23:51:01.493671Z",
+  "version": 1
+}

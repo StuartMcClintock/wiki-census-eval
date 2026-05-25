@@ -1,0 +1,16 @@
+{
+  "article": "Augusta_Springs,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/03608/Augusta_Springs__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5f8100f39553c9daaa5e40011c0ccbc9b88de714a81599ea5a334cfc747fcea0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5f8100f39553c9daaa5e40011c0ccbc9b88de714a81599ea5a334cfc747fcea0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/03608/Augusta_Springs__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "03608",
+  "timestamp": "2026-05-25T00:17:33.440893Z",
+  "version": 1
+}

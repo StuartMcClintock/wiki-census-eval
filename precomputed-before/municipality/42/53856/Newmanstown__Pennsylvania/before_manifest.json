@@ -1,0 +1,16 @@
+{
+  "article": "Newmanstown,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/53856/Newmanstown__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "07a2c77fff4c729ea25332d5b359eac1ffa7294e754eebc63c6227afad1f4032",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "07a2c77fff4c729ea25332d5b359eac1ffa7294e754eebc63c6227afad1f4032",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/53856/Newmanstown__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "53856",
+  "timestamp": "2026-05-25T00:08:16.805081Z",
+  "version": 1
+}

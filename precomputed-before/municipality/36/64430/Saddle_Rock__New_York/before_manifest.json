@@ -1,0 +1,16 @@
+{
+  "article": "Saddle_Rock,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/64430/Saddle_Rock__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "eb6c6ba7fc1f92e7cad621bdf36a8f3c9feeb8b81c0280ee1653194d8c0c2075",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "eb6c6ba7fc1f92e7cad621bdf36a8f3c9feeb8b81c0280ee1653194d8c0c2075",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/64430/Saddle_Rock__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "64430",
+  "timestamp": "2026-05-25T00:01:09.941730Z",
+  "version": 1
+}

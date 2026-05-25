@@ -1,0 +1,16 @@
+{
+  "article": "Wachapreague,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/82320/Wachapreague__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cdb075bbe7af5742e7d6deba40fb2495449391df909d79ea52eddd83c483281b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cdb075bbe7af5742e7d6deba40fb2495449391df909d79ea52eddd83c483281b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/82320/Wachapreague__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "82320",
+  "timestamp": "2026-05-25T00:19:43.504704Z",
+  "version": 1
+}

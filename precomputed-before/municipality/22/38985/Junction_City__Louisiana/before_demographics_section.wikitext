@@ -1,0 +1,51 @@
+==Demographics==
+{{US Census population
+|align=left
+|1900= 389
+|1910= 396
+|1920= 322
+|1930= 388
+|1940= 355
+|1950= 514
+|1960= 639
+|1970= 733
+|1980= 727
+|1990= 749
+|2000= 652
+|2010= 582
+|2020= 437
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2015}}</ref>
+}}
+
+{| class="wikitable" style="text-align:right"
+|+Junction City racial composition as of 2020<ref name=":0">{{Cite web|title=Explore Census Data|url=https://data.census.gov/cedsci/table?g=1600000US2238985&tid=DECENNIALPL2020.P2|access-date=December 29, 2021|website=data.census.gov}}</ref>
+!scope="col"| Race
+!scope="col"| Number
+!scope="col"| Percentage
+|-
+!scope="row"| [[White (U.S. Census)|White]] (non-Hispanic)
+| 210
+| 48.05%
+|-
+!scope="row"| [[African American (U.S. Census)|Black or African American]] (non-Hispanic)
+| 201
+| 46.0%
+|-
+!scope="row"| [[Native American (U.S. Census)|Native American]]
+| 1
+| 0.23%
+|-
+!scope="row"| [[Asian (U.S. Census)|Asian]]
+| 1
+| 0.23%
+|-
+!scope="row"| [[Race (United States Census)|Other/Mixed]]
+| 11
+| 2.52%
+|-
+!scope="row"| [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]]
+| 13
+| 2.97%
+|}
+As of the [[2020 United States census]], there were 437 people, 251 households, and 158 families residing in the village.
+

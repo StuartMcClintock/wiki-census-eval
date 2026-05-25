@@ -1,0 +1,16 @@
+{
+  "article": "Holly_Pond,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/35560/Holly_Pond__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e811f8db884c6e03f7600bf4a28371092c88d6b8515eb0953d724d2dcdb280e4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e811f8db884c6e03f7600bf4a28371092c88d6b8515eb0953d724d2dcdb280e4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/35560/Holly_Pond__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "35560",
+  "timestamp": "2026-05-24T23:32:00.236719Z",
+  "version": 1
+}

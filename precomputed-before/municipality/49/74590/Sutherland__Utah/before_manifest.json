@@ -1,0 +1,16 @@
+{
+  "article": "Sutherland,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/74590/Sutherland__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c810aef480729bdabadfa93ef6c86695fd59389ec73b89a2ac6f7417d2d1b2ed",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c810aef480729bdabadfa93ef6c86695fd59389ec73b89a2ac6f7417d2d1b2ed",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/74590/Sutherland__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "74590",
+  "timestamp": "2026-05-25T00:17:10.621976Z",
+  "version": 1
+}

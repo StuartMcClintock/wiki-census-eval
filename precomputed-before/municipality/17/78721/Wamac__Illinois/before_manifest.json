@@ -1,0 +1,16 @@
+{
+  "article": "Wamac,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/78721/Wamac__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "10589ea4df167321361f82db9c47be8c096c72564dfd0866ce2d1dffbd73f85c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "10589ea4df167321361f82db9c47be8c096c72564dfd0866ce2d1dffbd73f85c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/78721/Wamac__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "78721",
+  "timestamp": "2026-05-24T23:39:20.438190Z",
+  "version": 1
+}

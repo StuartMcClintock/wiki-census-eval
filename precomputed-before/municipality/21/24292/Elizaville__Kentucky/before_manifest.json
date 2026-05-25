@@ -1,0 +1,16 @@
+{
+  "article": "Elizaville,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/24292/Elizaville__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d7c3d1253f4be59b70a289b23903d97d7a292902c62118d46bb33a1817c04efd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d7c3d1253f4be59b70a289b23903d97d7a292902c62118d46bb33a1817c04efd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/24292/Elizaville__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "24292",
+  "timestamp": "2026-05-24T23:44:01.350870Z",
+  "version": 1
+}

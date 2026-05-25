@@ -1,0 +1,16 @@
+{
+  "article": "Dolton,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/16860/Dolton__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aa80cbb79880e979cd6ab98e8122848a364472b1b86c5ab99179fef64c2bbcdb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aa80cbb79880e979cd6ab98e8122848a364472b1b86c5ab99179fef64c2bbcdb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/16860/Dolton__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "16860",
+  "timestamp": "2026-05-25T00:10:36.807129Z",
+  "version": 1
+}

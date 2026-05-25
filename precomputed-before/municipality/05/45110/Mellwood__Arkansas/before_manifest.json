@@ -1,0 +1,16 @@
+{
+  "article": "Mellwood,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/45110/Mellwood__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ee967d8afb0c6a656b74b05fe1879c7d55595351034878b1b3c7e8df9dff46fb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ee967d8afb0c6a656b74b05fe1879c7d55595351034878b1b3c7e8df9dff46fb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/45110/Mellwood__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "45110",
+  "timestamp": "2026-05-24T23:33:52.965259Z",
+  "version": 1
+}

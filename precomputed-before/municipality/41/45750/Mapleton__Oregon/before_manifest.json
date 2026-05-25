@@ -1,0 +1,16 @@
+{
+  "article": "Mapleton,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/45750/Mapleton__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0203f226fbda750399a97c1562a954d5be7308aafeb98ea77b5129c4037d23ab",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0203f226fbda750399a97c1562a954d5be7308aafeb98ea77b5129c4037d23ab",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/45750/Mapleton__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "45750",
+  "timestamp": "2026-05-25T00:05:51.149573Z",
+  "version": 1
+}

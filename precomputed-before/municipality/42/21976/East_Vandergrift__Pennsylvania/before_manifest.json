@@ -1,0 +1,16 @@
+{
+  "article": "East_Vandergrift,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/21976/East_Vandergrift__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3b6f24753f62fe1e7051823bf3bcff8cfd4d52686d49e9ff7074c0ad6e1bfe6d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3b6f24753f62fe1e7051823bf3bcff8cfd4d52686d49e9ff7074c0ad6e1bfe6d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/21976/East_Vandergrift__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "21976",
+  "timestamp": "2026-05-25T00:07:00.690541Z",
+  "version": 1
+}

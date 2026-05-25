@@ -1,0 +1,16 @@
+{
+  "article": "Bovey,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/07048/Bovey__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "431b3ff3c00d080f2068a0201035b3be98267e8708c71f3c4c9c15e14552dcdd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "431b3ff3c00d080f2068a0201035b3be98267e8708c71f3c4c9c15e14552dcdd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/07048/Bovey__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "07048",
+  "timestamp": "2026-05-24T23:48:40.833909Z",
+  "version": 1
+}

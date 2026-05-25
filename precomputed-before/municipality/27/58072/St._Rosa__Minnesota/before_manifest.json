@@ -1,0 +1,16 @@
+{
+  "article": "St._Rosa,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/58072/St._Rosa__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "707e1e7a1e8b5ce53295deff8b6dcba4bb0c3c342067a1e1ac96d6862836e79b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "707e1e7a1e8b5ce53295deff8b6dcba4bb0c3c342067a1e1ac96d6862836e79b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/58072/St._Rosa__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "58072",
+  "timestamp": "2026-05-24T23:49:43.983618Z",
+  "version": 1
+}

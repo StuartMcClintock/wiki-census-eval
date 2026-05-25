@@ -1,0 +1,16 @@
+{
+  "article": "Raleigh,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/59475/Raleigh__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "20f2d9a30b8764f15388a4a01dbc66666688394af80b56a0c3fc28db17b8b2be",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "20f2d9a30b8764f15388a4a01dbc66666688394af80b56a0c3fc28db17b8b2be",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/59475/Raleigh__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "59475",
+  "timestamp": "2026-05-24T23:36:21.723974Z",
+  "version": 1
+}

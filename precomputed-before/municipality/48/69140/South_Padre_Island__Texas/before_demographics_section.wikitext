@@ -1,0 +1,63 @@
+==Demographics==
+{{US Census population
+| 1980 = 791
+| 1990 = 1677
+| 2000 = 2422
+| 2010 = 2816
+| 2020 = 2066
+|align-fn=center
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census/decade.html|title=Decennial Census by Decade|website=[[United States Census Bureau]]|access-date=}}</ref><br> 1850–1900<ref name=1900CensusTX>{{Cite web|title= 1900 Census of Population - Population of Texas By Counties And Minor Civil Divisions |url=https://www2.census.gov/library/publications/decennial/1900/bulletins/demographic/49-population-tx.pdf|website=[[United States Census Bureau]]}}</ref> 1910<ref name=1910CensusTX>{{Cite web|title= 1910 Census of Population - Supplement for Texas |url=https://www2.census.gov/library/publications/decennial/1910/abstract/supplement-tx-p1.pdf|website=[[United States Census Bureau]]}}</ref><br> 1920<ref name=1920CensusTX>{{Cite web|title= 1920 Census of Population - Number of Inhabitants - Texas |url=https://www2.census.gov/library/publications/decennial/1920/bulletins/demographics/population-tx-number-of-inhabitants.pdf|website=[[United States Census Bureau]]}}</ref> 1930<ref name=1930CensusTX>{{Cite web|title= 1930 Census of Population - Number of Inhabitants - Texas |url=https://www2.census.gov/library/publications/decennial/1930/population-volume-1/03815512v1ch10.pdf|website=[[United States Census Bureau]]}}</ref> 1940<ref name=1940CensusTX>{{Cite web|title= 1940 Census of Population - Number of Inhabitants - Texas |url=https://www2.census.gov/library/publications/decennial/1940/population-volume-1/33973538v1ch09.pdf|website=[[United States Census Bureau]]}}</ref><br>
+1950<ref name=1950CensusTX>{{Cite web|title= 1950 Census of Population - Number of Inhabitants - Texas |url=https://www2.census.gov/library/publications/decennial/1950/population-volume-1/vol-01-46.pdf|website=[[United States Census Bureau]]}}</ref> 1960<ref name=1960CensusTX>{{Cite web|title= 1960 Census of Population - Number of Inhabitants - Texas |url=https://www2.census.gov/library/publications/decennial/1960/population-volume-1/33255142v1p45ch02.pdf|website=[[United States Census Bureau]]}}</ref> 1970<ref name=1970CensusTX>{{Cite web|title= 1970 Census of Population - Number of Inhabitants - Texas |url=https://www2.census.gov/prod2/decennial/documents/00496492v1p45s1ch02.pdf|website=[[United States Census Bureau]]}}</ref><br> 1980<ref name=1980CensusTX>{{Cite web|title= 1980 Census of Population - Number of Inhabitants - Texas |url=https://www2.census.gov/library/publications/decennial/1980/volume-1/texas/1980a_txab-01.pdf|website=[[United States Census Bureau]]}}</ref> 1990<ref name=1990CensusTX>{{Cite web|title=1990 Census of Population - Population and Housing Unit Counts - Texas |url=https://www2.census.gov/library/publications/decennial/1990/cph-2/cph-2-45.pdf|website=[[United States Census Bureau]]}}</ref> 2000<ref name=2000CensusTX>{{Cite web|title=2000 Census of Population - Population and Housing Unit Counts - Texas |url=https://www2.census.gov/library/publications/2003/dec/phc-3-45.pdf|website=[[United States Census Bureau]]}}</ref><br> 2010<ref name=2010CensusTX>{{Cite web|title=2010 Census of Population - Population and Housing Unit Counts - Texas |url=https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-45.pdf|website=[[United States Census Bureau]]}}</ref>
+}}
+
+===2020 census===
+
+{| class="wikitable"
+|+'''South Padre Island racial composition'''<ref>{{Cite web |title=Explore Census Data |url=https://data.census.gov/cedsci/table?g=1600000US4869140&tid=DECENNIALPL2020.P2 |access-date=May 21, 2022 |website=data.census.gov |archive-date=May 21, 2022 |archive-url=https://web.archive.org/web/20220521142421/https://data.census.gov/cedsci/table?g=1600000US4869140&tid=DECENNIALPL2020.P2 |url-status=live }}</ref><br /> (NH = Non-Hispanic){{efn|Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos can be of any race.<ref>https://www.census.gov/ {{Webarchive|url=https://web.archive.org/web/20210701194655/https://www.census.gov/ |date=July 1, 2021 }} {{nonspecific|date=August 2022}}</ref><ref>{{cite web |title=About the Hispanic Population and its Origin |url=https://www.census.gov/topics/population/hispanic-origin/about.html |website=www.census.gov |access-date=May 18, 2022 |archive-date=May 20, 2022 |archive-url=https://web.archive.org/web/20220520112546/https://www.census.gov/topics/population/hispanic-origin/about.html |url-status=live }}</ref>}}
+!Race
+!Number
+!Percentage
+|-
+|[[Non-Hispanic or Latino whites|White]] (NH)
+|1,322
+|63.99%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] (NH)
+|15
+|0.73%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] (NH)
+|7
+|0.34%
+|-
+|[[Asian Americans|Asian]] (NH)
+|64
+|3.1%
+|-
+|Some Other Race (NH)
+|5
+|0.24%
+|-
+|[[Multiracial Americans|Mixed/Multi-Racial]] (NH)
+|44
+|2.13%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]]
+|609
+|29.48%
+|-
+|'''Total'''
+|'''2,066'''
+|
+|}
+As of the [[2020 United States census]], there were 2,066 people, 1,477 households, and 892 families residing in the town.
+
+===2000 census===
+As of the [[census]]<ref name="GR2" /> of 2000, there were 2,422 people, 1,222 households, and 662 families residing in the town. The population density was {{convert|1,335.9|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 4,685 housing units at an average density of {{convert|2,584.1|/sqmi|/km2|sp=us|adj=off}}. The racial makeup of the town was 94.59% [[White (U.S. Census)|White]], 0.70% [[African American (U.S. Census)|African American]], 0.45% [[Native American (U.S. Census)|Native American]], 0.21% [[Asian (U.S. Census)|Asian]], 0.04% [[Pacific Islander (U.S. Census)|Pacific Islander]], 2.77% from [[Race (United States Census)|other races]], and 1.24% from two or more races. 22.83% of the population is [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race.
+
+There were 1,211 households, out of which 15.4% had children under the age of 18 living with them, 47.2% were [[Marriage|married couples]] living together, 4.2% had a female householder with no husband present, and 45.3% were non-families. 35.8% of all households were made up of individuals, and 7.8% had someone living alone who was 65 years of age or older. The average household size was 2.00 and the average family size was 2.54.
+
+In the town, the population was spread out, with 12.9% under the age of 18, 6.2% from 18 to 24, 28.2% from 25 to 44, 34.2% from 45 to 64, and 18.4% who were 65 years of age or older. The median age was 47 years. For every 100 females, there were 113.8 males. For every 100 females age 18 and over, there were 115.9 males.
+
+The [[median income]] for a household in the town was $45,417, and the median income for a family was $53,250. Males had a median income of $39,250 versus $30,028 for females. The [[per capita income]] for the town was $31,708. About 10.2% of families and 12.0% of the population were below the [[poverty line]], including 11.1% of those under age 18 and 7.8% of those age 65 or over.
+

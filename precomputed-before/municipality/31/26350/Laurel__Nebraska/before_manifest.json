@@ -1,0 +1,16 @@
+{
+  "article": "Laurel,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/26350/Laurel__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "88a2cc57607a437ee7529289f7159dd4577d1f50911b8fe71a81ae1041ed487a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "88a2cc57607a437ee7529289f7159dd4577d1f50911b8fe71a81ae1041ed487a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/26350/Laurel__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "26350",
+  "timestamp": "2026-05-24T23:55:47.453610Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Takotna,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/74610/Takotna__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "136b696470b3ea7798c5bf1502e3e218ebc82cd198fc6fe23e054fa39de9e479",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "136b696470b3ea7798c5bf1502e3e218ebc82cd198fc6fe23e054fa39de9e479",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/74610/Takotna__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "74610",
+  "timestamp": "2026-05-24T23:32:44.503957Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Walnut_Creek,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/80825/Walnut_Creek__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0233f1fec4b7a2c4936d658ab2548b7377fea358d654bada2a74af3b9a492055",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0233f1fec4b7a2c4936d658ab2548b7377fea358d654bada2a74af3b9a492055",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/80825/Walnut_Creek__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "80825",
+  "timestamp": "2026-05-24T23:33:14.077605Z",
+  "version": 1
+}

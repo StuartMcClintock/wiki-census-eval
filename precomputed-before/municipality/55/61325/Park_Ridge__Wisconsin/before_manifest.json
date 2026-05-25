@@ -1,0 +1,16 @@
+{
+  "article": "Park_Ridge,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/61325/Park_Ridge__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "84126c0683973be256748fe4fde12d54bdddc22358b71c3c4312ecd4189207fa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "84126c0683973be256748fe4fde12d54bdddc22358b71c3c4312ecd4189207fa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/61325/Park_Ridge__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "61325",
+  "timestamp": "2026-05-25T00:22:33.455846Z",
+  "version": 1
+}

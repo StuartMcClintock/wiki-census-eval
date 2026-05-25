@@ -1,0 +1,16 @@
+{
+  "article": "Free_Union,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/29840/Free_Union__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b066ee748e32d7b2553c3fc5f92a2af4623a575cbf8cae2c8c1e8f00030eb30c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b066ee748e32d7b2553c3fc5f92a2af4623a575cbf8cae2c8c1e8f00030eb30c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/29840/Free_Union__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "29840",
+  "timestamp": "2026-05-25T00:19:13.856688Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Donnellson,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/21810/Donnellson__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aac54496a0dbe5327cc60ed35018d055635e4e84555c831b907a74e6ec80562e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aac54496a0dbe5327cc60ed35018d055635e4e84555c831b907a74e6ec80562e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/21810/Donnellson__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "21810",
+  "timestamp": "2026-05-24T23:40:41.903460Z",
+  "version": 1
+}

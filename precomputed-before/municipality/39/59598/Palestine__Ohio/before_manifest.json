@@ -1,0 +1,16 @@
+{
+  "article": "Palestine,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/59598/Palestine__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5735e8d116ae1ef5d7ec81097837645d1d5e7b87e8da4f73ba8dafd0a8ad5783",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5735e8d116ae1ef5d7ec81097837645d1d5e7b87e8da4f73ba8dafd0a8ad5783",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/59598/Palestine__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "59598",
+  "timestamp": "2026-05-25T00:05:03.729643Z",
+  "version": 1
+}

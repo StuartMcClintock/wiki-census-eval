@@ -1,0 +1,16 @@
+{
+  "article": "Riverwood,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/65766/Riverwood__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d02cf3c24442c2cc599a4c9c628884011a5a53c850e3b2e84ab0ae89793844b3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d02cf3c24442c2cc599a4c9c628884011a5a53c850e3b2e84ab0ae89793844b3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/65766/Riverwood__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "65766",
+  "timestamp": "2026-05-24T23:44:17.963369Z",
+  "version": 1
+}

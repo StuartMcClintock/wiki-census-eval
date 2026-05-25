@@ -1,0 +1,16 @@
+{
+  "article": "Centre_Grove,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/11770/Centre_Grove__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "176217adc38df54b7b2957d109b228e5e7ecc2be40616169e3cf6d5ca6b619c6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "176217adc38df54b7b2957d109b228e5e7ecc2be40616169e3cf6d5ca6b619c6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/11770/Centre_Grove__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "11770",
+  "timestamp": "2026-05-24T23:57:43.257312Z",
+  "version": 1
+}

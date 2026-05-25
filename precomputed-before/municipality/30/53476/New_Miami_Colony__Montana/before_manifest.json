@@ -1,0 +1,16 @@
+{
+  "article": "New_Miami_Colony,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/53476/New_Miami_Colony__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "07d22bd208b4d78810ce34ed030660395ae06cc9c326b0b0f771ab8829c208a1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "07d22bd208b4d78810ce34ed030660395ae06cc9c326b0b0f771ab8829c208a1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/53476/New_Miami_Colony__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "53476",
+  "timestamp": "2026-05-24T23:54:39.681571Z",
+  "version": 1
+}

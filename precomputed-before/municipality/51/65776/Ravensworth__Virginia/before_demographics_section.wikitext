@@ -1,0 +1,79 @@
+==Demographics==
+{{US Census population
+|align=right
+|2010= 2466
+|2020= 2680
+|estyear=
+|estimate=
+|estref=
+|align-fn=center
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census/decade.html|title=Decennial Census by Decade|website=[[United States Census Bureau]]|access-date=}}</ref><br>
+2010<ref name=2010CensusVA>{{Cite web|title= 2010 Census of Population - Population and Housing Unit Counts - Virginia|url=https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-48.pdf|website=[[United States Census Bureau]]}}</ref> 2020
+}}
+
+Ravensworth was first listed as a [[census designated place]] in the [[2010 U.S. census]] formed from part of [[North Springfield, Virginia|North Springfield CDP]].<ref name=2010CensusVA/>
+
+===2020 census===
+{| class="wikitable sortable" style="text-align:center;"
+|+'''Ravensworth CDP, Virginia – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Ravensworth CDP, Virginia|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US5165776&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!style="background-color: #ffffb3;" |Pop 2020<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Ravensworth CDP, Virginia|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US5165776&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!% 2010
+!style="background-color: #ffffb3;" |% 2020
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|1,452
+|style='background: #ffffe6; |1,263
+|58.88%
+|style='background: #ffffe6; |47.13%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|59
+|style='background: #ffffe6; |67
+|2.39%
+|style='background: #ffffe6; |2.50%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|5
+|style='background: #ffffe6; |5
+|0.20%
+|style='background: #ffffe6; |0.19%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|531
+|style='background: #ffffe6; |698
+|21.53%
+|style='background: #ffffe6; |26.04%
+|-
+|[[Native Hawaiian]] or [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|4
+|style='background: #ffffe6; |1
+|0.16%
+|style='background: #ffffe6; |0.04%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|10
+|style='background: #ffffe6; |22
+|0.41%
+|style='background: #ffffe6; |0.82%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|50
+|style='background: #ffffe6; |134
+|2.03%
+|style='background: #ffffe6; |5.00%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|355
+|style='background: #ffffe6; |490
+|14.40%
+|style='background: #ffffe6; |18.28%
+|-
+|'''Total'''
+|'''2,466'''
+|style='background: #ffffe6; |'''2,680 '''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+

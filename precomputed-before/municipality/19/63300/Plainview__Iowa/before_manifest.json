@@ -1,0 +1,16 @@
+{
+  "article": "Plainview,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/63300/Plainview__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8a999f6170e7a955d281649b8cb65030b03c3f81beb7c0a92fec4bd3b7fb0114",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8a999f6170e7a955d281649b8cb65030b03c3f81beb7c0a92fec4bd3b7fb0114",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/63300/Plainview__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "63300",
+  "timestamp": "2026-05-24T23:41:38.291688Z",
+  "version": 1
+}

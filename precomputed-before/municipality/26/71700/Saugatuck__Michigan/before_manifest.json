@@ -1,0 +1,16 @@
+{
+  "article": "Saugatuck,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/71700/Saugatuck__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b491e3a84f0b1b99dfb0329e79d76ae4be68886a50bde4f2357663bd6d1e307d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b491e3a84f0b1b99dfb0329e79d76ae4be68886a50bde4f2357663bd6d1e307d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/71700/Saugatuck__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "71700",
+  "timestamp": "2026-05-24T23:48:27.307848Z",
+  "version": 1
+}

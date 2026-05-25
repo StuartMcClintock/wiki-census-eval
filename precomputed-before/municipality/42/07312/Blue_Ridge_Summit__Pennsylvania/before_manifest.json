@@ -1,0 +1,16 @@
+{
+  "article": "Blue_Ridge_Summit,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/07312/Blue_Ridge_Summit__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": false,
+  "current_hash": null,
+  "location_kind": "municipality",
+  "manifest_had_section": false,
+  "manifest_hash": null,
+  "reason": "no demographics section then or now",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/07312/Blue_Ridge_Summit__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "07312",
+  "timestamp": "2026-05-25T00:06:18.975938Z",
+  "version": 1
+}

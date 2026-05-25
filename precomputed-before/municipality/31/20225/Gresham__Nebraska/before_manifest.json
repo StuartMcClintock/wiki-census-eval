@@ -1,0 +1,16 @@
+{
+  "article": "Gresham,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/20225/Gresham__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4de39f55ec89f8bb1889751200b923ccef0ba3c550de9a3ac7e17c276d97bd60",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4de39f55ec89f8bb1889751200b923ccef0ba3c550de9a3ac7e17c276d97bd60",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/20225/Gresham__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "20225",
+  "timestamp": "2026-05-24T23:55:29.627601Z",
+  "version": 1
+}

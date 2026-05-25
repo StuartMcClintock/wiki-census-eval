@@ -1,0 +1,16 @@
+{
+  "article": "Point_Lay,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/61700/Point_Lay__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3c7f43510cdf748559e634126bd209ae56cf1eb3cb83e027cf014455c51c21eb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3c7f43510cdf748559e634126bd209ae56cf1eb3cb83e027cf014455c51c21eb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/61700/Point_Lay__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "61700",
+  "timestamp": "2026-05-24T23:32:30.833994Z",
+  "version": 1
+}

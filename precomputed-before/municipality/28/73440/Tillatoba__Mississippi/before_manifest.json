@@ -1,0 +1,16 @@
+{
+  "article": "Tillatoba,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/73440/Tillatoba__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "232df6d80bb70cdd5aa8660e5041daabb8ce1e916a19da20d3ab387932481cea",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "232df6d80bb70cdd5aa8660e5041daabb8ce1e916a19da20d3ab387932481cea",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/73440/Tillatoba__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "73440",
+  "timestamp": "2026-05-24T23:50:27.113676Z",
+  "version": 1
+}

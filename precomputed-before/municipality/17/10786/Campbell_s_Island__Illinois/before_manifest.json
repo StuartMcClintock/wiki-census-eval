@@ -1,0 +1,16 @@
+{
+  "article": "Campbell's_Island,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/10786/Campbell_s_Island__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e5a7da1aea7d1e7d02031099be2be8d3ef324ca2f35c55df9a2115ad775e8c9c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e5a7da1aea7d1e7d02031099be2be8d3ef324ca2f35c55df9a2115ad775e8c9c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/10786/Campbell_s_Island__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "10786",
+  "timestamp": "2026-05-24T23:37:54.874849Z",
+  "version": 1
+}

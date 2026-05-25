@@ -1,0 +1,16 @@
+{
+  "article": "Green_Harbor,_Massachusetts",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/25/27130/Green_Harbor__Massachusetts/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b00c06985ee3cbb4ae33b28b351882f3d23d636a7981a08c557f17daccbfb851",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b00c06985ee3cbb4ae33b28b351882f3d23d636a7981a08c557f17daccbfb851",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/25/27130/Green_Harbor__Massachusetts/manifest.json",
+  "state_fips": "25",
+  "status": "match",
+  "target_fips": "27130",
+  "timestamp": "2026-05-24T23:47:37.877941Z",
+  "version": 1
+}

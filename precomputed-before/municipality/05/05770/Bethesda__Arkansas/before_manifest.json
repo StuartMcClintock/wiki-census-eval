@@ -1,0 +1,16 @@
+{
+  "article": "Bethesda,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/05770/Bethesda__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a9dbdb1424d0e67c16a2a1e1874accd1ad0aca56fa5d103ac6138995e3876e53",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a9dbdb1424d0e67c16a2a1e1874accd1ad0aca56fa5d103ac6138995e3876e53",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/05770/Bethesda__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "05770",
+  "timestamp": "2026-05-24T23:33:20.611493Z",
+  "version": 1
+}

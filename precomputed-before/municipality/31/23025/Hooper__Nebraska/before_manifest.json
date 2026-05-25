@@ -1,0 +1,16 @@
+{
+  "article": "Hooper,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/23025/Hooper__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1f5422acc3969867ee9b5c9ea79d32a02dfb4ced5116797a77426c4d4499bdc7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1f5422acc3969867ee9b5c9ea79d32a02dfb4ced5116797a77426c4d4499bdc7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/23025/Hooper__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "23025",
+  "timestamp": "2026-05-24T23:55:33.122222Z",
+  "version": 1
+}

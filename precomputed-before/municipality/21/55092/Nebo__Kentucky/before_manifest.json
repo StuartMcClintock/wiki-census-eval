@@ -1,0 +1,16 @@
+{
+  "article": "Nebo,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/55092/Nebo__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0600fa927eeba0601a30a931d3d3ad315941876ac8e35d4c70839f263e401f8c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0600fa927eeba0601a30a931d3d3ad315941876ac8e35d4c70839f263e401f8c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/55092/Nebo__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "55092",
+  "timestamp": "2026-05-24T23:44:13.845678Z",
+  "version": 1
+}

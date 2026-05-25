@@ -1,0 +1,16 @@
+{
+  "article": "Phillips,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/39030/Phillips__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "81c9675b2fb49b7ab4bb514fd6cd7ba5a06178fa75d3ad5d4677d013b6ae897c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "81c9675b2fb49b7ab4bb514fd6cd7ba5a06178fa75d3ad5d4677d013b6ae897c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/39030/Phillips__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "39030",
+  "timestamp": "2026-05-24T23:56:02.873178Z",
+  "version": 1
+}

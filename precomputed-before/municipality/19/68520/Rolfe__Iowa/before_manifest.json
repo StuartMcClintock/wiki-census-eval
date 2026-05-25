@@ -1,0 +1,16 @@
+{
+  "article": "Rolfe,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/68520/Rolfe__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f7097c2fa00de7c7a1842adb7b3cf1ce48d027567a7736dfd0a2bc4f84eb9376",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f7097c2fa00de7c7a1842adb7b3cf1ce48d027567a7736dfd0a2bc4f84eb9376",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/68520/Rolfe__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "68520",
+  "timestamp": "2026-05-24T23:41:44.140812Z",
+  "version": 1
+}

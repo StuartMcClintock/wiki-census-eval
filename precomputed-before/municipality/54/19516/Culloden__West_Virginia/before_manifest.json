@@ -1,0 +1,16 @@
+{
+  "article": "Culloden,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/19516/Culloden__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "492e41417998e069e7630b64e9dd16f800da550f9c41b7279826326afada66e7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "492e41417998e069e7630b64e9dd16f800da550f9c41b7279826326afada66e7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/19516/Culloden__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "19516",
+  "timestamp": "2026-05-25T00:21:03.113601Z",
+  "version": 1
+}

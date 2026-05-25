@@ -1,0 +1,16 @@
+{
+  "article": "Long_Creek,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/47796/Long_Creek__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "919ebb53ed325bc8b429e1af46e889d0e64db713bc83b7510b0ecec04295da69",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "919ebb53ed325bc8b429e1af46e889d0e64db713bc83b7510b0ecec04295da69",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/47796/Long_Creek__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "47796",
+  "timestamp": "2026-05-25T00:03:09.432003Z",
+  "version": 1
+}

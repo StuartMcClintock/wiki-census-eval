@@ -1,0 +1,16 @@
+{
+  "article": "Alpine,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/01090/Alpine__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "70c68a9429683b2b90e4cf806c5f619e7eb8171cc63b93460f231cf857001259",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "70c68a9429683b2b90e4cf806c5f619e7eb8171cc63b93460f231cf857001259",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/01090/Alpine__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "01090",
+  "timestamp": "2026-05-24T23:33:17.803326Z",
+  "version": 1
+}

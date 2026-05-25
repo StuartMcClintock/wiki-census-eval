@@ -1,0 +1,16 @@
+{
+  "article": "Rew,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/64296/Rew__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "966f00d9f8ef3de7eed88c268cca9d3a043352a17ccd1029630af46936eed5c2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "966f00d9f8ef3de7eed88c268cca9d3a043352a17ccd1029630af46936eed5c2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/64296/Rew__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "64296",
+  "timestamp": "2026-05-25T00:08:48.818161Z",
+  "version": 1
+}

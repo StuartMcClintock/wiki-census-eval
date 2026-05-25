@@ -1,0 +1,16 @@
+{
+  "article": "Ellsworth,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/25050/Ellsworth__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "94421d334def4ad5f0788829065ab817d5df33a17e77d41811666eadc2aae4e9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "94421d334def4ad5f0788829065ab817d5df33a17e77d41811666eadc2aae4e9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/25050/Ellsworth__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "25050",
+  "timestamp": "2026-05-24T23:40:45.184539Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Ugashik,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/80100/Ugashik__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f862f6bd2a111bb04deb84268b568f559c33d26e1b44b03d8f6ce3a9f5f4f987",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f862f6bd2a111bb04deb84268b568f559c33d26e1b44b03d8f6ce3a9f5f4f987",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/80100/Ugashik__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "80100",
+  "timestamp": "2026-05-24T23:32:45.962052Z",
+  "version": 1
+}

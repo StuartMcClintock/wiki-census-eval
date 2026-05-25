@@ -1,0 +1,16 @@
+{
+  "article": "Magnolia,_Delaware",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/10/44430/Magnolia__Delaware/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ccbd521a03b4ea6f424a47f3b42353f43cd23d6844fbf1c56482f1a62f470131",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ccbd521a03b4ea6f424a47f3b42353f43cd23d6844fbf1c56482f1a62f470131",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/10/44430/Magnolia__Delaware/manifest.json",
+  "state_fips": "10",
+  "status": "match",
+  "target_fips": "44430",
+  "timestamp": "2026-05-24T23:36:05.307545Z",
+  "version": 1
+}

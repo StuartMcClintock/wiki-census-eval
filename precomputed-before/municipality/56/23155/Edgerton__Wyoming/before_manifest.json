@@ -1,0 +1,16 @@
+{
+  "article": "Edgerton,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/23155/Edgerton__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dfbd0b7c678cd0e3ba627d5205b363923535b0bd7323e32c2ecd17cc22f3aa49",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dfbd0b7c678cd0e3ba627d5205b363923535b0bd7323e32c2ecd17cc22f3aa49",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/23155/Edgerton__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "23155",
+  "timestamp": "2026-05-25T00:23:12.378857Z",
+  "version": 1
+}

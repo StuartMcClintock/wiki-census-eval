@@ -1,0 +1,16 @@
+{
+  "article": "Cross_Timbers,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/17524/Cross_Timbers__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bc31ee9a1c5843b1d2ac0226b337cf2d51c9236e8e591e53759e448a270415c7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bc31ee9a1c5843b1d2ac0226b337cf2d51c9236e8e591e53759e448a270415c7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/17524/Cross_Timbers__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "17524",
+  "timestamp": "2026-05-24T23:51:01.868397Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Pemberton,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/57480/Pemberton__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5d3d3bbcbc31b4da3127f7201cf4912cb4563a9a9375fbca9b6cb2e60fb3e16f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5d3d3bbcbc31b4da3127f7201cf4912cb4563a9a9375fbca9b6cb2e60fb3e16f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/57480/Pemberton__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "57480",
+  "timestamp": "2026-05-24T23:57:58.081658Z",
+  "version": 1
+}

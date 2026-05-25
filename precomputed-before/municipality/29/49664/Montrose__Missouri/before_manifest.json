@@ -1,0 +1,16 @@
+{
+  "article": "Montrose,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/49664/Montrose__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "01e0cc41af7b56e513ce648df8124aa2d8bfd27ea076f03df2423694aafab7b8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "01e0cc41af7b56e513ce648df8124aa2d8bfd27ea076f03df2423694aafab7b8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/49664/Montrose__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "49664",
+  "timestamp": "2026-05-24T23:53:33.837508Z",
+  "version": 1
+}

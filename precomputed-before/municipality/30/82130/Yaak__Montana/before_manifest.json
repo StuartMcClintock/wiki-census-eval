@@ -1,0 +1,16 @@
+{
+  "article": "Yaak,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/82130/Yaak__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2b53572d0a983eb97a19744eff81a4a98e229fa7e788b8e2297fece79850a473",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2b53572d0a983eb97a19744eff81a4a98e229fa7e788b8e2297fece79850a473",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/82130/Yaak__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "82130",
+  "timestamp": "2026-05-24T23:55:06.083131Z",
+  "version": 1
+}

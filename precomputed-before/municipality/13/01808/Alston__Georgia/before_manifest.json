@@ -1,0 +1,16 @@
+{
+  "article": "Alston,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/01808/Alston__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bcb97fbc81c7265032164354aa3b3feda0e16ab979dc056b9376d6e820603a23",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bcb97fbc81c7265032164354aa3b3feda0e16ab979dc056b9376d6e820603a23",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/01808/Alston__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "01808",
+  "timestamp": "2026-05-24T23:36:26.589597Z",
+  "version": 1
+}

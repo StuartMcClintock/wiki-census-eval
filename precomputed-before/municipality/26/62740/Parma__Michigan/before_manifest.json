@@ -1,0 +1,16 @@
+{
+  "article": "Parma,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/62740/Parma__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "127712055293e29ccf04a82781f13fa9913794483fe1c523dbf5236d2336bdff",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "127712055293e29ccf04a82781f13fa9913794483fe1c523dbf5236d2336bdff",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/62740/Parma__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "62740",
+  "timestamp": "2026-05-24T23:48:22.704208Z",
+  "version": 1
+}

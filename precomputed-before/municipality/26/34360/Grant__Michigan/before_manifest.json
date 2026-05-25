@@ -1,0 +1,16 @@
+{
+  "article": "Grant,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/34360/Grant__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d6f3342a513e3dd372f70a2ef92ab97a3a96d866c8fb58056f39b643a721f548",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d6f3342a513e3dd372f70a2ef92ab97a3a96d866c8fb58056f39b643a721f548",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/34360/Grant__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "34360",
+  "timestamp": "2026-05-24T23:47:57.064650Z",
+  "version": 1
+}

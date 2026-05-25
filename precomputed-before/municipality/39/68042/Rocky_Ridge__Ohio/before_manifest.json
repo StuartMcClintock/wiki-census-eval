@@ -1,0 +1,16 @@
+{
+  "article": "Rocky_Ridge,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/68042/Rocky_Ridge__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d3de1128efef1c244955954569be13da02d733cf665afea9cfb0ed66d633fb3b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d3de1128efef1c244955954569be13da02d733cf665afea9cfb0ed66d633fb3b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/68042/Rocky_Ridge__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "68042",
+  "timestamp": "2026-05-25T00:05:12.344176Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Woodlawn,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/83206/Woodlawn__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ffd956cafc6d793ec7781775f4a28252dc1ce882fabfa067448623be722c6a53",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ffd956cafc6d793ec7781775f4a28252dc1ce882fabfa067448623be722c6a53",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/83206/Woodlawn__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "83206",
+  "timestamp": "2026-05-24T23:39:24.079158Z",
+  "version": 1
+}

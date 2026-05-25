@@ -1,0 +1,16 @@
+{
+  "article": "Helenwood,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/33120/Helenwood__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "29df38a6cfef4ff29ec8561da985da78e7d87a044fa6c46b8833c9abf40a1ea1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "29df38a6cfef4ff29ec8561da985da78e7d87a044fa6c46b8833c9abf40a1ea1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/33120/Helenwood__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "33120",
+  "timestamp": "2026-05-25T00:14:41.848359Z",
+  "version": 1
+}

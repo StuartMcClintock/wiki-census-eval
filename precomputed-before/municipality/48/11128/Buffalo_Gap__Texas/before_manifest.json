@@ -1,0 +1,16 @@
+{
+  "article": "Buffalo_Gap,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/11128/Buffalo_Gap__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7fc37b3f5572bbce8dd8c30e515f3d3811f59e5bbe6eb22231a052294983bfea",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7fc37b3f5572bbce8dd8c30e515f3d3811f59e5bbe6eb22231a052294983bfea",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/11128/Buffalo_Gap__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "11128",
+  "timestamp": "2026-05-25T00:15:10.161592Z",
+  "version": 1
+}

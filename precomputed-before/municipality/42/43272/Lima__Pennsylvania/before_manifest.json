@@ -1,0 +1,16 @@
+{
+  "article": "Lima,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/43272/Lima__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1bf310ff89c4f7a1aaaaa2f89fa3acbbe93af436bb695f115cc2b7120d80b8ec",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1bf310ff89c4f7a1aaaaa2f89fa3acbbe93af436bb695f115cc2b7120d80b8ec",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/43272/Lima__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "43272",
+  "timestamp": "2026-05-25T00:07:52.089199Z",
+  "version": 1
+}

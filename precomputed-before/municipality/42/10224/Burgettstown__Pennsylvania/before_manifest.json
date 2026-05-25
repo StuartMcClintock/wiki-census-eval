@@ -1,0 +1,16 @@
+{
+  "article": "Burgettstown,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/10224/Burgettstown__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8494393cb2c3b57882595424e7b46436d82d61ef3d9dc6a2c43a7037ae714ffc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8494393cb2c3b57882595424e7b46436d82d61ef3d9dc6a2c43a7037ae714ffc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/10224/Burgettstown__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "10224",
+  "timestamp": "2026-05-25T00:06:23.461794Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Fancy_Farm,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/26452/Fancy_Farm__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2d467e3f1081876a559c85255eef086974e0d9f659fee71c3e082a2e50d1bb64",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2d467e3f1081876a559c85255eef086974e0d9f659fee71c3e082a2e50d1bb64",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/26452/Fancy_Farm__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "26452",
+  "timestamp": "2026-05-24T23:44:02.245387Z",
+  "version": 1
+}

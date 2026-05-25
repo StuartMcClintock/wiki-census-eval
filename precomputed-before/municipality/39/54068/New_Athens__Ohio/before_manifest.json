@@ -1,0 +1,16 @@
+{
+  "article": "New_Athens,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/54068/New_Athens__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "029d01b8e737c042d5422b5a3ab5bd34775d9845e48ecb0edf548d311c03e814",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "029d01b8e737c042d5422b5a3ab5bd34775d9845e48ecb0edf548d311c03e814",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/54068/New_Athens__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "54068",
+  "timestamp": "2026-05-25T00:04:51.191063Z",
+  "version": 1
+}

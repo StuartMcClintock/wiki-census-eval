@@ -1,0 +1,16 @@
+{
+  "article": "Cadwell,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/12344/Cadwell__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7b74d206a85d3721f42960450c1e83eb9416145d1d1bf4537a8fcddbe7c547a4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7b74d206a85d3721f42960450c1e83eb9416145d1d1bf4537a8fcddbe7c547a4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/12344/Cadwell__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "12344",
+  "timestamp": "2026-05-24T23:36:30.549658Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Kilbourne,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/39650/Kilbourne__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e2b58d379ded6467a077a89b98e676ae80d5b65cc909a97ef7a3cf2ad53db471",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e2b58d379ded6467a077a89b98e676ae80d5b65cc909a97ef7a3cf2ad53db471",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/39650/Kilbourne__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "39650",
+  "timestamp": "2026-05-24T23:44:52.610242Z",
+  "version": 1
+}

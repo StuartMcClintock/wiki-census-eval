@@ -1,0 +1,16 @@
+{
+  "article": "Ross_Corner,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/64860/Ross_Corner__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b388acc2c6dcee83d0b99eaa591c65dd3eb0b458fe16a47663990fb1560d2141",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b388acc2c6dcee83d0b99eaa591c65dd3eb0b458fe16a47663990fb1560d2141",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/64860/Ross_Corner__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "64860",
+  "timestamp": "2026-05-24T23:58:00.675861Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Winchester,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/87850/Winchester__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "645bdfd34ae6e47a37fdd91c653384dd84c99294c98a122ec6b60ae8b734ae0b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "645bdfd34ae6e47a37fdd91c653384dd84c99294c98a122ec6b60ae8b734ae0b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/87850/Winchester__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "87850",
+  "timestamp": "2026-05-24T23:37:30.736429Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Goldsboro,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/30016/Goldsboro__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0692c04c7f42f4ed30f4668493fd9e3a4cd4173ff9cd335b586204a0caffb5eb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0692c04c7f42f4ed30f4668493fd9e3a4cd4173ff9cd335b586204a0caffb5eb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/30016/Goldsboro__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "30016",
+  "timestamp": "2026-05-25T00:07:17.989595Z",
+  "version": 1
+}

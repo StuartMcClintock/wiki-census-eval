@@ -1,0 +1,16 @@
+{
+  "article": "Milstead,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/51660/Milstead__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ebdb0de0ea1d536134078b51aae39306a7084c1cf97df03b499b3f7d3051c016",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ebdb0de0ea1d536134078b51aae39306a7084c1cf97df03b499b3f7d3051c016",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/51660/Milstead__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "51660",
+  "timestamp": "2026-05-24T23:36:55.854402Z",
+  "version": 1
+}

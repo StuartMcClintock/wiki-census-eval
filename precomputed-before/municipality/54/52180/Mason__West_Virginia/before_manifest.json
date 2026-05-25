@@ -1,0 +1,16 @@
+{
+  "article": "Mason,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/52180/Mason__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d6569a26bde13ba6011318607f87bca654a7deb9a73b1f1c1fb6869a193ec223",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d6569a26bde13ba6011318607f87bca654a7deb9a73b1f1c1fb6869a193ec223",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/52180/Mason__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "52180",
+  "timestamp": "2026-05-25T00:21:16.212014Z",
+  "version": 1
+}

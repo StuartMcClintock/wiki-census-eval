@@ -1,0 +1,16 @@
+{
+  "article": "Beclabito,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/06425/Beclabito__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2609947802d9fcc42c69936abb2c0bea053c06e7868e8aed4f8727607dc2648b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2609947802d9fcc42c69936abb2c0bea053c06e7868e8aed4f8727607dc2648b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/06425/Beclabito__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "06425",
+  "timestamp": "2026-05-24T23:58:20.559268Z",
+  "version": 1
+}

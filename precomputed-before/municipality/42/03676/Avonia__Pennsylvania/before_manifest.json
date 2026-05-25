@@ -1,0 +1,16 @@
+{
+  "article": "Avonia,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/03676/Avonia__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ac2bb1ec33d11039cc144c4dbddca09b819325888666d0dc702bedccccb69ab4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ac2bb1ec33d11039cc144c4dbddca09b819325888666d0dc702bedccccb69ab4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/03676/Avonia__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "03676",
+  "timestamp": "2026-05-25T00:06:11.871816Z",
+  "version": 1
+}

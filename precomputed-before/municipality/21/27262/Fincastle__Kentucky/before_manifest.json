@@ -1,0 +1,16 @@
+{
+  "article": "Fincastle,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/27262/Fincastle__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fa6495eecff60af9392d01aad01d852b2aa700b065f6553f368e7f4d365e9b32",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fa6495eecff60af9392d01aad01d852b2aa700b065f6553f368e7f4d365e9b32",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/27262/Fincastle__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "27262",
+  "timestamp": "2026-05-24T23:44:02.702261Z",
+  "version": 1
+}

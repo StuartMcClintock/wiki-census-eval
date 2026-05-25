@@ -1,0 +1,16 @@
+{
+  "article": "Fredericksburg,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/28616/Fredericksburg__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8050219ce460e6cf15ae156655735de1036218e396053493231225543d3fee80",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8050219ce460e6cf15ae156655735de1036218e396053493231225543d3fee80",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/28616/Fredericksburg__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "28616",
+  "timestamp": "2026-05-25T00:04:10.009530Z",
+  "version": 1
+}

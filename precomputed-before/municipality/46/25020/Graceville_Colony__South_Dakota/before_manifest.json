@@ -1,0 +1,16 @@
+{
+  "article": "Graceville_Colony,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/25020/Graceville_Colony__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3c8b0aa257f051a2808dc2bc34760116a0b80be2e6889ad28f456174c68dd814",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3c8b0aa257f051a2808dc2bc34760116a0b80be2e6889ad28f456174c68dd814",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/25020/Graceville_Colony__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "25020",
+  "timestamp": "2026-05-25T00:10:40.072571Z",
+  "version": 1
+}

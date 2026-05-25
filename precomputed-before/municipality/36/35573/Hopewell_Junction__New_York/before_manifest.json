@@ -1,0 +1,16 @@
+{
+  "article": "Hopewell_Junction,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/35573/Hopewell_Junction__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "eb9a39450fbe82a12f4bf0af857037eb3b825eb60d90f68ca0a9387ad1681870",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "eb9a39450fbe82a12f4bf0af857037eb3b825eb60d90f68ca0a9387ad1681870",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/35573/Hopewell_Junction__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "35573",
+  "timestamp": "2026-05-25T00:00:48.802653Z",
+  "version": 1
+}

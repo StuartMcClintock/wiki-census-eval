@@ -1,0 +1,16 @@
+{
+  "article": "Woodville_Farm_Labor_Camp,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/86489/Woodville_Farm_Labor_Camp__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c0a76ca6aa34fa0548461e84ef6fc43fbb0f53fe1bf22e827e57b24aaa67698f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c0a76ca6aa34fa0548461e84ef6fc43fbb0f53fe1bf22e827e57b24aaa67698f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/86489/Woodville_Farm_Labor_Camp__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "86489",
+  "timestamp": "2026-05-24T23:35:15.935354Z",
+  "version": 1
+}

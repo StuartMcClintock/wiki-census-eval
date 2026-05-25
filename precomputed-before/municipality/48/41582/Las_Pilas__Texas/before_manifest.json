@@ -1,0 +1,16 @@
+{
+  "article": "Las_Pilas,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/41582/Las_Pilas__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f1533dfb9c61c5c299c69985d8dcba47a059cd5f17e6cace47b377c0af74a22e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f1533dfb9c61c5c299c69985d8dcba47a059cd5f17e6cace47b377c0af74a22e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/41582/Las_Pilas__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "41582",
+  "timestamp": "2026-05-25T00:15:53.299123Z",
+  "version": 1
+}

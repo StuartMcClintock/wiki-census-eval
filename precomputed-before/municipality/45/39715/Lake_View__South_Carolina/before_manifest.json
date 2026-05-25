@@ -1,0 +1,16 @@
+{
+  "article": "Lake_View,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/39715/Lake_View__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "647408b3b432d39a6fbb459e87101ccb33d4be974ef532fec865c76b5b2c3d3f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "647408b3b432d39a6fbb459e87101ccb33d4be974ef532fec865c76b5b2c3d3f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/39715/Lake_View__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "39715",
+  "timestamp": "2026-05-25T00:10:09.566698Z",
+  "version": 1
+}

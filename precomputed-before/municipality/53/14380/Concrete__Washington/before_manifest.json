@@ -1,0 +1,16 @@
+{
+  "article": "Concrete,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/14380/Concrete__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5bafcb754497ea7e5e75eda4d2ed11711ca62b343e2c65cef9bdabae08cc4394",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5bafcb754497ea7e5e75eda4d2ed11711ca62b343e2c65cef9bdabae08cc4394",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/14380/Concrete__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "14380",
+  "timestamp": "2026-05-25T00:20:07.277678Z",
+  "version": 1
+}

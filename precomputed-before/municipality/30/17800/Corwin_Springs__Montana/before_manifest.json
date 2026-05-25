@@ -1,0 +1,16 @@
+{
+  "article": "Corwin_Springs,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/17800/Corwin_Springs__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "34be4edc6f3ac08fe44fdd4138bb4c963d9c6a1b7a092a78b92e7202e2f6c05e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "34be4edc6f3ac08fe44fdd4138bb4c963d9c6a1b7a092a78b92e7202e2f6c05e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/17800/Corwin_Springs__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "17800",
+  "timestamp": "2026-05-24T23:54:19.944368Z",
+  "version": 1
+}

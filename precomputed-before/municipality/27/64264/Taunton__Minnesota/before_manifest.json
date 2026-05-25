@@ -1,0 +1,16 @@
+{
+  "article": "Taunton,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/64264/Taunton__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "703ed4be13a85b77a31e1651cdc572c5a65ba39268be46fc7cc493559f41cf19",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "703ed4be13a85b77a31e1651cdc572c5a65ba39268be46fc7cc493559f41cf19",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/64264/Taunton__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "64264",
+  "timestamp": "2026-05-24T23:49:48.342179Z",
+  "version": 1
+}

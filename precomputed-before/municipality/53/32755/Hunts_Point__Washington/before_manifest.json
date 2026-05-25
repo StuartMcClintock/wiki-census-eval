@@ -1,0 +1,16 @@
+{
+  "article": "Hunts_Point,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/32755/Hunts_Point__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "46f1e9addbbf2156bda0e569ae6005cf714c4e9300a32b5ffd4acdcd493931a9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "46f1e9addbbf2156bda0e569ae6005cf714c4e9300a32b5ffd4acdcd493931a9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/32755/Hunts_Point__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "32755",
+  "timestamp": "2026-05-25T00:20:15.945406Z",
+  "version": 1
+}

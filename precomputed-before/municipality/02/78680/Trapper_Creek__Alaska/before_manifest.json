@@ -1,0 +1,16 @@
+{
+  "article": "Trapper_Creek,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/78680/Trapper_Creek__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6edda861255b1758899e8c9784dfad97b687d81f853df28f3662f75098cec9d2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6edda861255b1758899e8c9784dfad97b687d81f853df28f3662f75098cec9d2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/78680/Trapper_Creek__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "78680",
+  "timestamp": "2026-05-24T23:32:45.226196Z",
+  "version": 1
+}

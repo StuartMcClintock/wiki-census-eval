@@ -1,0 +1,16 @@
+{
+  "article": "Basco,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/04052/Basco__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "38bd78af24a11303ce6319d91f983f93838bd3cf791247831f85a785a0f8b64e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "38bd78af24a11303ce6319d91f983f93838bd3cf791247831f85a785a0f8b64e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/04052/Basco__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "04052",
+  "timestamp": "2026-05-24T23:37:36.137387Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "North_La_Junta,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/54495/North_La_Junta__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a53bb2927600c473a8455643d0908df5395671a0018d5280023e412bad67eb53",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a53bb2927600c473a8455643d0908df5395671a0018d5280023e412bad67eb53",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/54495/North_La_Junta__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "54495",
+  "timestamp": "2026-05-24T23:35:34.446782Z",
+  "version": 1
+}

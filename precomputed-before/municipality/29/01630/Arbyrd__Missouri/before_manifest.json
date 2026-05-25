@@ -1,0 +1,16 @@
+{
+  "article": "Arbyrd,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/01630/Arbyrd__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "06a3e72497d4f36425fc363209fba00c2c86f61810f2cd4e732f2dda2e4500bb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "06a3e72497d4f36425fc363209fba00c2c86f61810f2cd4e732f2dda2e4500bb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/01630/Arbyrd__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "01630",
+  "timestamp": "2026-05-24T23:50:31.994062Z",
+  "version": 1
+}

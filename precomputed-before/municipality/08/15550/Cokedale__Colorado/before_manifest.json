@@ -1,0 +1,16 @@
+{
+  "article": "Cokedale,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/15550/Cokedale__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "617443fba510d9ac7eec0adfa8886ae5c5f022f47bc6d57c0df9de46b48c7321",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "617443fba510d9ac7eec0adfa8886ae5c5f022f47bc6d57c0df9de46b48c7321",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/15550/Cokedale__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "15550",
+  "timestamp": "2026-05-24T23:35:21.881289Z",
+  "version": 1
+}

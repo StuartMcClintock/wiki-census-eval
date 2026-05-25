@@ -1,0 +1,16 @@
+{
+  "article": "Iron_Gate,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/40024/Iron_Gate__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d42cc54d0d0753b9e11d9b0ba5333ba2fa423d99733e7fb3586228335f80040c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d42cc54d0d0753b9e11d9b0ba5333ba2fa423d99733e7fb3586228335f80040c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/40024/Iron_Gate__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "40024",
+  "timestamp": "2026-05-25T00:19:19.046687Z",
+  "version": 1
+}

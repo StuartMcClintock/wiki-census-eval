@@ -1,0 +1,16 @@
+{
+  "article": "Chestertown,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/15363/Chestertown__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "08898a5c37df939b7e36d8794c7207d13720abd79e3253049ba7541f99f0e64f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "08898a5c37df939b7e36d8794c7207d13720abd79e3253049ba7541f99f0e64f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/15363/Chestertown__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "15363",
+  "timestamp": "2026-05-25T00:00:36.065540Z",
+  "version": 1
+}

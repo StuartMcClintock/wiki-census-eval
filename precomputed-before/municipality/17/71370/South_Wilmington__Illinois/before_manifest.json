@@ -1,0 +1,16 @@
+{
+  "article": "South_Wilmington,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/71370/South_Wilmington__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bdb85b255adff36aba5d0f3d10f82526ebc212c7930cd52658a7e190728e3178",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bdb85b255adff36aba5d0f3d10f82526ebc212c7930cd52658a7e190728e3178",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/71370/South_Wilmington__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "71370",
+  "timestamp": "2026-05-24T23:39:12.724465Z",
+  "version": 1
+}

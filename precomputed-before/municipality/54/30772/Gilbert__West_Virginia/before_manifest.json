@@ -1,0 +1,16 @@
+{
+  "article": "Gilbert,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/30772/Gilbert__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ae0239115699b4fc4d4770d11fbaed0afde6755d38f9dc9142c254101e68bc58",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ae0239115699b4fc4d4770d11fbaed0afde6755d38f9dc9142c254101e68bc58",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/30772/Gilbert__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "30772",
+  "timestamp": "2026-05-25T00:21:08.032901Z",
+  "version": 1
+}

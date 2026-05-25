@@ -1,0 +1,16 @@
+{
+  "article": "Sand_Springs,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/65240/Sand_Springs__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2a1a87b4214ec12ebe92997687d61b6b7722da2dd62cd477780170f824f5e620",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2a1a87b4214ec12ebe92997687d61b6b7722da2dd62cd477780170f824f5e620",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/65240/Sand_Springs__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "65240",
+  "timestamp": "2026-05-25T00:16:34.222195Z",
+  "version": 1
+}

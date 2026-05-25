@@ -1,0 +1,16 @@
+{
+  "article": "North_Robinson,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/56994/North_Robinson__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "94b4e8c5b089f317c0ab6b8a45e59f17e8436f0722570b9861f39bdf92aec118",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "94b4e8c5b089f317c0ab6b8a45e59f17e8436f0722570b9861f39bdf92aec118",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/56994/North_Robinson__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "56994",
+  "timestamp": "2026-05-25T00:05:01.861657Z",
+  "version": 1
+}

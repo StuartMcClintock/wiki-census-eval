@@ -1,0 +1,16 @@
+{
+  "article": "Grand_View_Estates,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/31935/Grand_View_Estates__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ae152ceab12702cfdbb94cbb8460c656869b15f74ad31bd1c0c82e33d2e9a71e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ae152ceab12702cfdbb94cbb8460c656869b15f74ad31bd1c0c82e33d2e9a71e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/31935/Grand_View_Estates__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "31935",
+  "timestamp": "2026-05-24T23:35:27.013675Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Belleville,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/06300/Belleville__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "827ef43cf682965ced23cbfab1e4ceb0255d98abee9b41523edd8c831a22c85c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "827ef43cf682965ced23cbfab1e4ceb0255d98abee9b41523edd8c831a22c85c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/06300/Belleville__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "06300",
+  "timestamp": "2026-05-25T00:21:35.349454Z",
+  "version": 1
+}

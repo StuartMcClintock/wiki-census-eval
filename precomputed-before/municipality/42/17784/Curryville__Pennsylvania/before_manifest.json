@@ -1,0 +1,16 @@
+{
+  "article": "Curryville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/17784/Curryville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b05b25b77a008482e09a00990f43e0627ad1dfa9b97ed9f285b6689d803b3f29",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b05b25b77a008482e09a00990f43e0627ad1dfa9b97ed9f285b6689d803b3f29",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/17784/Curryville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "17784",
+  "timestamp": "2026-05-25T00:06:48.777501Z",
+  "version": 1
+}

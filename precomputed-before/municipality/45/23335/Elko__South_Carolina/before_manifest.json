@@ -1,0 +1,16 @@
+{
+  "article": "Elko,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/23335/Elko__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f47d7d00488442b3a75f161d9383163346c4c203f538dc61c0bd4dbb7a1f68d6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f47d7d00488442b3a75f161d9383163346c4c203f538dc61c0bd4dbb7a1f68d6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/23335/Elko__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "23335",
+  "timestamp": "2026-05-25T00:10:01.705350Z",
+  "version": 1
+}

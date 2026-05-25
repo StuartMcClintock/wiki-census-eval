@@ -1,0 +1,16 @@
+{
+  "article": "Parkway_Village,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/59322/Parkway_Village__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a2fca5095d49060e61c778cafd195a37f2a73446be1e9ac53be3696b0cac606f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a2fca5095d49060e61c778cafd195a37f2a73446be1e9ac53be3696b0cac606f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/59322/Parkway_Village__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "59322",
+  "timestamp": "2026-05-24T23:44:15.307349Z",
+  "version": 1
+}

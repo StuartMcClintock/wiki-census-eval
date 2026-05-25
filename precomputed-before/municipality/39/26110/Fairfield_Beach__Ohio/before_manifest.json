@@ -1,0 +1,16 @@
+{
+  "article": "Fairfield_Beach,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/26110/Fairfield_Beach__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5b0048884d4b6911508d1116984ed46245d2dd8e7991a345f7ab0296e6be0595",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5b0048884d4b6911508d1116984ed46245d2dd8e7991a345f7ab0296e6be0595",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/26110/Fairfield_Beach__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "26110",
+  "timestamp": "2026-05-25T00:04:08.139549Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Ocean_City,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/50500/Ocean_City__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "af471111cd16d95cd9836b8d68459e8db5b69451a23c3d98d4cdafe9bde2fe03",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "af471111cd16d95cd9836b8d68459e8db5b69451a23c3d98d4cdafe9bde2fe03",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/50500/Ocean_City__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "50500",
+  "timestamp": "2026-05-25T00:20:26.109537Z",
+  "version": 1
+}

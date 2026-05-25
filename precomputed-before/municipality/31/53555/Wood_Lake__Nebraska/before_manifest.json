@@ -1,0 +1,16 @@
+{
+  "article": "Wood_Lake,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/53555/Wood_Lake__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "06f28e058bde697e8e71faa70212b7096e1bf9da7dd566cf03c90d34d79a8c51",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "06f28e058bde697e8e71faa70212b7096e1bf9da7dd566cf03c90d34d79a8c51",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/53555/Wood_Lake__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "53555",
+  "timestamp": "2026-05-24T23:57:26.240096Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Lakeville,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/41670/Lakeville__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "403bc13b80fd6687c678ace4427fdb2fffaca8e8a87e3b2d29cec68bff3e3e81",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "403bc13b80fd6687c678ace4427fdb2fffaca8e8a87e3b2d29cec68bff3e3e81",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/41670/Lakeville__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "41670",
+  "timestamp": "2026-05-24T23:39:53.404695Z",
+  "version": 1
+}

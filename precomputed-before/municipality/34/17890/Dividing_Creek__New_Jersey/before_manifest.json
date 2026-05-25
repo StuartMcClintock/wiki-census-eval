@@ -1,0 +1,16 @@
+{
+  "article": "Dividing_Creek,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/17890/Dividing_Creek__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3d0c0b348892db8b80c3d4d56de0c9028164a3b533fe7c474b21b04d05cab537",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3d0c0b348892db8b80c3d4d56de0c9028164a3b533fe7c474b21b04d05cab537",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/17890/Dividing_Creek__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "17890",
+  "timestamp": "2026-05-24T23:57:45.605325Z",
+  "version": 1
+}

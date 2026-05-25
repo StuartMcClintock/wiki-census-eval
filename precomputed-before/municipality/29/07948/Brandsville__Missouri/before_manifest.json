@@ -1,0 +1,16 @@
+{
+  "article": "Brandsville,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/07948/Brandsville__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "66b17a2bcc799b06073ce1aac420c68662bebbd72ce11b4f0f19a25cf8880d15",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "66b17a2bcc799b06073ce1aac420c68662bebbd72ce11b4f0f19a25cf8880d15",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/07948/Brandsville__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "07948",
+  "timestamp": "2026-05-24T23:50:49.268501Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Gold_Key_Lake,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/30013/Gold_Key_Lake__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f71f8ecadd71b1209f1a5d515155dd15daa9d63e549afe8f1c6f707cc4768216",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f71f8ecadd71b1209f1a5d515155dd15daa9d63e549afe8f1c6f707cc4768216",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/30013/Gold_Key_Lake__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "30013",
+  "timestamp": "2026-05-25T00:07:17.850873Z",
+  "version": 1
+}

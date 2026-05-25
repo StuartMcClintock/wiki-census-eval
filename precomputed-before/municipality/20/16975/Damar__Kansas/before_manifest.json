@@ -1,0 +1,16 @@
+{
+  "article": "Damar,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/16975/Damar__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "da23f3b763cfb5fb34b19c3db97d44c3f26476466c1548bb439bbfa203e5775c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "da23f3b763cfb5fb34b19c3db97d44c3f26476466c1548bb439bbfa203e5775c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/16975/Damar__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "16975",
+  "timestamp": "2026-05-24T23:42:31.429895Z",
+  "version": 1
+}

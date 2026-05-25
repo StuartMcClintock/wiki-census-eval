@@ -1,0 +1,16 @@
+{
+  "article": "Bancroft,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/03005/Bancroft__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ba2a9660edd892144c348bbed23ff896fa8a8736068f3047529ce8714a9d3303",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ba2a9660edd892144c348bbed23ff896fa8a8736068f3047529ce8714a9d3303",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/03005/Bancroft__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "03005",
+  "timestamp": "2026-05-24T23:55:09.816948Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "West_Brooklyn,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/80008/West_Brooklyn__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "88ea1e927d20a91ee8c0fe6b80e9dd830e61c19c78868ec8b6cfe7e3485fa1dd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "88ea1e927d20a91ee8c0fe6b80e9dd830e61c19c78868ec8b6cfe7e3485fa1dd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/80008/West_Brooklyn__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "80008",
+  "timestamp": "2026-05-24T23:39:21.626530Z",
+  "version": 1
+}

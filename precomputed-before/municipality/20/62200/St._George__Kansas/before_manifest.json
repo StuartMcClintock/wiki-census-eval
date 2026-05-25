@@ -1,0 +1,16 @@
+{
+  "article": "St._George,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/62200/St._George__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d6adfcde7716150d4d19ecc4d082b6e042c0a0ebd699d171e49c1c1b3bdab3da",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d6adfcde7716150d4d19ecc4d082b6e042c0a0ebd699d171e49c1c1b3bdab3da",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/62200/St._George__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "62200",
+  "timestamp": "2026-05-24T23:43:26.378743Z",
+  "version": 1
+}

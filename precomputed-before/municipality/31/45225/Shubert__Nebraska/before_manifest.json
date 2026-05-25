@@ -1,0 +1,16 @@
+{
+  "article": "Shubert,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/45225/Shubert__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "620c36b331ca4f575c2147cf1781e089f966500b68684c626bd802b837abd5e7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "620c36b331ca4f575c2147cf1781e089f966500b68684c626bd802b837abd5e7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/45225/Shubert__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "45225",
+  "timestamp": "2026-05-24T23:57:16.279426Z",
+  "version": 1
+}

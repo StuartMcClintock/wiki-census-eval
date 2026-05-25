@@ -1,0 +1,16 @@
+{
+  "article": "Sigel,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/69914/Sigel__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6543aa0877f09d7a077ae52409767cf1835d7fc7e6150b00d8bc88a4927e69dc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6543aa0877f09d7a077ae52409767cf1835d7fc7e6150b00d8bc88a4927e69dc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/69914/Sigel__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "69914",
+  "timestamp": "2026-05-24T23:39:11.719244Z",
+  "version": 1
+}

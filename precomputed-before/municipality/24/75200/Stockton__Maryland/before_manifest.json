@@ -1,0 +1,16 @@
+{
+  "article": "Stockton,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/75200/Stockton__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a850795f72bf8d4402342e21eca40afb455efd5bb5c6c957d1665d10a3ab40e8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a850795f72bf8d4402342e21eca40afb455efd5bb5c6c957d1665d10a3ab40e8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/75200/Stockton__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "75200",
+  "timestamp": "2026-05-24T23:47:34.343038Z",
+  "version": 1
+}

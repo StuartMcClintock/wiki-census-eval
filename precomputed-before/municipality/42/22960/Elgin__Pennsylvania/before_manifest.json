@@ -1,0 +1,16 @@
+{
+  "article": "Elgin,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/22960/Elgin__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0c77873bc349b7721728a337666dd45d6289d6b039224d8ef040211878474357",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0c77873bc349b7721728a337666dd45d6289d6b039224d8ef040211878474357",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/22960/Elgin__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "22960",
+  "timestamp": "2026-05-25T00:07:02.955225Z",
+  "version": 1
+}

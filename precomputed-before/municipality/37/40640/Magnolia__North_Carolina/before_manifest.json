@@ -1,0 +1,16 @@
+{
+  "article": "Magnolia,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/40640/Magnolia__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fe71920d29179f9ad12cdc4da3fa9d28eda94f5ccc40151948a641a6216b6bee",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fe71920d29179f9ad12cdc4da3fa9d28eda94f5ccc40151948a641a6216b6bee",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/40640/Magnolia__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "40640",
+  "timestamp": "2026-05-25T00:02:09.630523Z",
+  "version": 1
+}

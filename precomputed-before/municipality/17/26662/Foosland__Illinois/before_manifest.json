@@ -1,0 +1,16 @@
+{
+  "article": "Foosland,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/26662/Foosland__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e7e3d3c495612d50ca775567cf18a414bb326f5fac58e69625af59b58d5d627b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e7e3d3c495612d50ca775567cf18a414bb326f5fac58e69625af59b58d5d627b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/26662/Foosland__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "26662",
+  "timestamp": "2026-05-24T23:38:13.604118Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Cove,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/15700/Cove__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b93dbb84172b8a062b6c28c3937ef7ee5388af8a03a256c9e47c1914573dd143",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b93dbb84172b8a062b6c28c3937ef7ee5388af8a03a256c9e47c1914573dd143",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/15700/Cove__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "15700",
+  "timestamp": "2026-05-24T23:33:26.032875Z",
+  "version": 1
+}

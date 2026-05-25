@@ -1,0 +1,16 @@
+{
+  "article": "Maunaloa,_Hawaii",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/15/50150/Maunaloa__Hawaii/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "62281dc4580709a8db2c61d274300aa41640e481639e861f19eeb75467504ac9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "62281dc4580709a8db2c61d274300aa41640e481639e861f19eeb75467504ac9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/15/50150/Maunaloa__Hawaii/manifest.json",
+  "state_fips": "15",
+  "status": "match",
+  "target_fips": "50150",
+  "timestamp": "2026-05-24T23:37:14.334020Z",
+  "version": 1
+}

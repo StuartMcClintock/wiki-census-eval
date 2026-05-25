@@ -1,0 +1,16 @@
+{
+  "article": "West_Conshohocken,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/82736/West_Conshohocken__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cbd244ce4ab0b6535be14be26da4f5183abcd0d015d6cf6334250d599124911a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cbd244ce4ab0b6535be14be26da4f5183abcd0d015d6cf6334250d599124911a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/82736/West_Conshohocken__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "82736",
+  "timestamp": "2026-05-25T00:09:26.660560Z",
+  "version": 1
+}

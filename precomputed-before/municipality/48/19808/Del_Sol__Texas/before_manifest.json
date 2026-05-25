@@ -1,0 +1,16 @@
+{
+  "article": "Del_Sol,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/19808/Del_Sol__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cdd4e5a9bf02a41d20730ab5b01c4eaec17ee8c2ea7bebb53799db27dada3ebf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cdd4e5a9bf02a41d20730ab5b01c4eaec17ee8c2ea7bebb53799db27dada3ebf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/19808/Del_Sol__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "19808",
+  "timestamp": "2026-05-25T00:15:28.839689Z",
+  "version": 1
+}

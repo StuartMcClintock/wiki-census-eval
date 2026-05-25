@@ -1,0 +1,16 @@
+{
+  "article": "Lyon,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/42960/Lyon__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "080e2eb064a535318f38a0a78e686c580c532a9bc217e26e25a5dec957642578",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "080e2eb064a535318f38a0a78e686c580c532a9bc217e26e25a5dec957642578",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/42960/Lyon__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "42960",
+  "timestamp": "2026-05-24T23:50:15.256395Z",
+  "version": 1
+}

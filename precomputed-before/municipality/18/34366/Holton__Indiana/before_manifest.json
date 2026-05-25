@@ -1,0 +1,16 @@
+{
+  "article": "Holton,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/34366/Holton__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a967ba9b4e6c2e31916ab5bf96ea42c92c36b2131e911da7c57e386b5922307d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a967ba9b4e6c2e31916ab5bf96ea42c92c36b2131e911da7c57e386b5922307d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/34366/Holton__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "34366",
+  "timestamp": "2026-05-24T23:39:39.156297Z",
+  "version": 1
+}

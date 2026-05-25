@@ -1,0 +1,16 @@
+{
+  "article": "Queen_Valley,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/58290/Queen_Valley__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d821934c9f7959257934f6376f901ef76177e4eaba31b8db0ac9082fd84c6f18",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d821934c9f7959257934f6376f901ef76177e4eaba31b8db0ac9082fd84c6f18",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/58290/Queen_Valley__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "58290",
+  "timestamp": "2026-05-24T23:33:06.845686Z",
+  "version": 1
+}

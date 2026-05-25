@@ -1,0 +1,16 @@
+{
+  "article": "McGuffey,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/46046/McGuffey__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1daec4446fb836d3312dc22065506a7f21c7c9a11a6c4c329e64aa16c6bae512",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1daec4446fb836d3312dc22065506a7f21c7c9a11a6c4c329e64aa16c6bae512",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/46046/McGuffey__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "46046",
+  "timestamp": "2026-05-25T00:04:41.529238Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Lemon_Grove,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/40100/Lemon_Grove__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4e95e1f3ba3dadff6953a680186d3c001a1f626d622e8b66c0f43ab480e6d5a0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4e95e1f3ba3dadff6953a680186d3c001a1f626d622e8b66c0f43ab480e6d5a0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/40100/Lemon_Grove__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "40100",
+  "timestamp": "2026-05-24T23:36:17.237623Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Lizton,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/44442/Lizton__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6b164e470e9fbea9b02d2d8c9b48aa649094cfc9a9e7db1676e8fa45dd8e0e88",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6b164e470e9fbea9b02d2d8c9b48aa649094cfc9a9e7db1676e8fa45dd8e0e88",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/44442/Lizton__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "44442",
+  "timestamp": "2026-05-24T23:39:54.713657Z",
+  "version": 1
+}

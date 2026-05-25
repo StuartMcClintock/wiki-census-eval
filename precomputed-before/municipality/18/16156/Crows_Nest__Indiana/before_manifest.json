@@ -1,0 +1,16 @@
+{
+  "article": "Crows_Nest,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/16156/Crows_Nest__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dacc8d976e8eb57fbf3265bd6f9ed0d453d419e4efcfc7b27323c61cd43f81c4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dacc8d976e8eb57fbf3265bd6f9ed0d453d419e4efcfc7b27323c61cd43f81c4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/16156/Crows_Nest__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "16156",
+  "timestamp": "2026-05-24T23:39:31.873747Z",
+  "version": 1
+}

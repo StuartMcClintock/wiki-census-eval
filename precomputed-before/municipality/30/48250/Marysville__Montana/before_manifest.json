@@ -1,0 +1,16 @@
+{
+  "article": "Marysville,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/48250/Marysville__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b11361cd5ba272be82d43d7642684e3c2bccd4bae2e243bac0162c79e144005d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b11361cd5ba272be82d43d7642684e3c2bccd4bae2e243bac0162c79e144005d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/48250/Marysville__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "48250",
+  "timestamp": "2026-05-24T23:54:37.483585Z",
+  "version": 1
+}

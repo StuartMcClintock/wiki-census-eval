@@ -1,0 +1,16 @@
+{
+  "article": "Sand_City,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/65112/Sand_City__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5e411d1a17545e3fd2c59d9191142c821a0b2100c6ca9730ba1958758110d2ca",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5e411d1a17545e3fd2c59d9191142c821a0b2100c6ca9730ba1958758110d2ca",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/65112/Sand_City__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "65112",
+  "timestamp": "2026-05-24T23:35:03.773520Z",
+  "version": 1
+}

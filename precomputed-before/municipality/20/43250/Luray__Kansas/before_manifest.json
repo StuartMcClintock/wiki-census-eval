@@ -1,0 +1,16 @@
+{
+  "article": "Luray,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/43250/Luray__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c58fc72811b4c1eafaaeb8334a668b722f3b8ba7b0ad51d357319397368495a2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c58fc72811b4c1eafaaeb8334a668b722f3b8ba7b0ad51d357319397368495a2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/43250/Luray__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "43250",
+  "timestamp": "2026-05-24T23:43:05.956533Z",
+  "version": 1
+}

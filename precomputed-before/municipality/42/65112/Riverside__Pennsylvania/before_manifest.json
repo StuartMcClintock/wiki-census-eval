@@ -1,0 +1,16 @@
+{
+  "article": "Riverside,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/65112/Riverside__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "afb40b04ea3813fe0c609889bc62fa17a226b216b70dea8f778f22921a5fcd23",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "afb40b04ea3813fe0c609889bc62fa17a226b216b70dea8f778f22921a5fcd23",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/65112/Riverside__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "65112",
+  "timestamp": "2026-05-25T00:08:50.449570Z",
+  "version": 1
+}

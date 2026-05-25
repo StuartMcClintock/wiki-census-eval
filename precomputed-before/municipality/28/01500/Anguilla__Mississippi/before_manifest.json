@@ -1,0 +1,16 @@
+{
+  "article": "Anguilla,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/01500/Anguilla__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1ae409f00e76a0dc1bf77186dbc488061ffb4711887bd346c73b67ce64e7d590",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1ae409f00e76a0dc1bf77186dbc488061ffb4711887bd346c73b67ce64e7d590",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/01500/Anguilla__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "01500",
+  "timestamp": "2026-05-24T23:50:01.146662Z",
+  "version": 1
+}

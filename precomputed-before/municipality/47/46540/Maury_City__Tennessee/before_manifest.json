@@ -1,0 +1,16 @@
+{
+  "article": "Maury_City,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/46540/Maury_City__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7baa249a7fcf88dc48707006c692bff1f73bb4ca47773bf7e4c278281e8f3953",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7baa249a7fcf88dc48707006c692bff1f73bb4ca47773bf7e4c278281e8f3953",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/46540/Maury_City__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "46540",
+  "timestamp": "2026-05-25T00:14:46.518076Z",
+  "version": 1
+}

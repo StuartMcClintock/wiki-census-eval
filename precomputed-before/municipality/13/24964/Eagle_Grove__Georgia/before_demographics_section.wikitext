@@ -1,0 +1,72 @@
+==Demographics==
+{{US Census population
+|2010= 164
+|2020= 139
+|footnote=1980-2000<ref name=2000CensusGA>{{Cite web|first= |last= |authorlink=   |title= 2000 Census of Population - General Population Characteristics - Georgia  |publisher=United States Census Bureau|date= 2000|url=https://www2.census.gov/library/publications/2003/dec/phc-3-12.pdf |accessdate=|archive-url=| archive-date=}}</ref><br> 2010<ref name=2010CensusP2/> 2020<ref name=2020CensusP2/>
+}}
+
+Eagle Grove was first listed as a [[census designated place]] in the [[2010 U.S. census]].<ref name=2010CensusP2/><ref name=2000CensusGA/>
+
+{| class="wikitable" style="text-align:center;"
+|+'''Eagle Grove, Georgia – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Eagle Grove CDP, Georgia |url=https://data.census.gov/table?q=p2&g=160XX00US1324964&tid=DECENNIALPL2010.P2|publisher=United States Census Bureau}}</ref>
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Eagle Grove CDP, Georgia|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US1324964&tid=DECENNIALPL2020.P2|publisher=United States Census Bureau}}</ref>
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|147
+|style='background: #ffffe6; |127
+|89.63%
+|style='background: #ffffe6; |91.37%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|8
+|style='background: #ffffe6; |2
+|4.88%
+|style='background: #ffffe6; |1.44%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|6
+|style='background: #ffffe6; |6
+|3.66%
+|style='background: #ffffe6; |4.32%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|0
+|style='background: #ffffe6; |1
+|0.00%
+|style='background: #ffffe6; |0.72%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|3
+|style='background: #ffffe6; |0
+|1.83%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|0
+|style='background: #ffffe6; |3
+|0.00%
+|style='background: #ffffe6; |2.16%
+|-
+|'''Total'''
+|'''164'''
+|style='background: #ffffe6; |'''139'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+

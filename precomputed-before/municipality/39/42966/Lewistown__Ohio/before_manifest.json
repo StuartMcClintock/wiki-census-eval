@@ -1,0 +1,16 @@
+{
+  "article": "Lewistown,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/42966/Lewistown__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ae16d25fa3d9890ca0d9618bc1a8cd9c52bbc39e453681d4d2161f9bf343e390",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ae16d25fa3d9890ca0d9618bc1a8cd9c52bbc39e453681d4d2161f9bf343e390",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/42966/Lewistown__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "42966",
+  "timestamp": "2026-05-25T00:04:37.803728Z",
+  "version": 1
+}

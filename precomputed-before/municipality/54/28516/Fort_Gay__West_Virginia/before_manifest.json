@@ -1,0 +1,16 @@
+{
+  "article": "Fort_Gay,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/28516/Fort_Gay__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7812753eefc74cdfdab3eb8ac23a77198d78937ac3362e996f260c929629ac82",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7812753eefc74cdfdab3eb8ac23a77198d78937ac3362e996f260c929629ac82",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/28516/Fort_Gay__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "28516",
+  "timestamp": "2026-05-25T00:21:06.882762Z",
+  "version": 1
+}

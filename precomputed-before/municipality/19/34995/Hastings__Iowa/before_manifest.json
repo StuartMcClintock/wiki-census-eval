@@ -1,0 +1,16 @@
+{
+  "article": "Hastings,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/34995/Hastings__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2e721fc56e8ab5295bceb56ff68b3277aec4429c8e66f8a4cdf2cf4e37e331c0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2e721fc56e8ab5295bceb56ff68b3277aec4429c8e66f8a4cdf2cf4e37e331c0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/34995/Hastings__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "34995",
+  "timestamp": "2026-05-24T23:41:10.071076Z",
+  "version": 1
+}

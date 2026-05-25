@@ -1,0 +1,16 @@
+{
+  "article": "Charlotte,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/12855/Charlotte__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0944799980808e7e1f292f713824b52a5a964c8bfdd41f0a35c97ec3ffcf7c5e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0944799980808e7e1f292f713824b52a5a964c8bfdd41f0a35c97ec3ffcf7c5e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/12855/Charlotte__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "12855",
+  "timestamp": "2026-05-24T23:40:33.521568Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Plymouth,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/39590/Plymouth__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "597a4a911f0c96c1eab4003609827b2d57bea07a6bf0b506097754bf0e5c4fdd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "597a4a911f0c96c1eab4003609827b2d57bea07a6bf0b506097754bf0e5c4fdd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/39590/Plymouth__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "39590",
+  "timestamp": "2026-05-24T23:56:03.803224Z",
+  "version": 1
+}

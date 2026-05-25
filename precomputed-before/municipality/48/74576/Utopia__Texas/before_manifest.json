@@ -1,0 +1,16 @@
+{
+  "article": "Utopia,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/74576/Utopia__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "16b12b8cf35916380d572c7b675ad45c84b845286c7b7b26bcd6c2ca221f3169",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "16b12b8cf35916380d572c7b675ad45c84b845286c7b7b26bcd6c2ca221f3169",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/74576/Utopia__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "74576",
+  "timestamp": "2026-05-25T00:16:45.726722Z",
+  "version": 1
+}

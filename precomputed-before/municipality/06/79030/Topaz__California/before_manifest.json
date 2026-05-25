@@ -1,0 +1,16 @@
+{
+  "article": "Topaz,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/79030/Topaz__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "451231dcb5a9fe56a27ee9a44f7ae62f6c6d848c1c09700641589535d4af0034",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "451231dcb5a9fe56a27ee9a44f7ae62f6c6d848c1c09700641589535d4af0034",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/79030/Topaz__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "79030",
+  "timestamp": "2026-05-24T23:35:10.180272Z",
+  "version": 1
+}

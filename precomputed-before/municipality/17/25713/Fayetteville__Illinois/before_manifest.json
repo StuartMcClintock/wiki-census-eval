@@ -1,0 +1,16 @@
+{
+  "article": "Fayetteville,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/25713/Fayetteville__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ea38af7563dfde3cd2f811fb3bd4b942f2417bd233f126f29c789b4f7170763c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ea38af7563dfde3cd2f811fb3bd4b942f2417bd233f126f29c789b4f7170763c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/25713/Fayetteville__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "25713",
+  "timestamp": "2026-05-24T23:38:12.333796Z",
+  "version": 1
+}

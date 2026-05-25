@@ -1,0 +1,16 @@
+{
+  "article": "Stratford,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/77750/Stratford__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "63c076b922f3be62a603328d49f2c01b5f60348126f36b6bb9712bbbc9860408",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "63c076b922f3be62a603328d49f2c01b5f60348126f36b6bb9712bbbc9860408",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/77750/Stratford__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "77750",
+  "timestamp": "2026-05-25T00:22:45.472040Z",
+  "version": 1
+}

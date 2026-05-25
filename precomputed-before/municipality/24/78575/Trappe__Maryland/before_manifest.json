@@ -1,0 +1,16 @@
+{
+  "article": "Trappe,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/78575/Trappe__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ea2aa9ee7e7e678612aa5839885425b1294128ceb25c91a909b9826b69f39807",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ea2aa9ee7e7e678612aa5839885425b1294128ceb25c91a909b9826b69f39807",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/78575/Trappe__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "78575",
+  "timestamp": "2026-05-24T23:47:35.494867Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Kelso,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/38216/Kelso__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "af785e7497c484bc265c4c5f5dce5278ab2ccac97fdb3981bf5e23bcf999b402",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "af785e7497c484bc265c4c5f5dce5278ab2ccac97fdb3981bf5e23bcf999b402",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/38216/Kelso__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "38216",
+  "timestamp": "2026-05-24T23:53:22.770941Z",
+  "version": 1
+}

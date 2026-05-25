@@ -1,0 +1,16 @@
+{
+  "article": "Sand_Ridge,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/65024/Sand_Ridge__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "df6be1ad69e89d3a23c3c7d4de20872c56143ffd57290901aff7410d4d0f7edc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "df6be1ad69e89d3a23c3c7d4de20872c56143ffd57290901aff7410d4d0f7edc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/65024/Sand_Ridge__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "65024",
+  "timestamp": "2026-05-25T00:01:11.396519Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Sargent,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/43685/Sargent__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6c4ad607ea7ce1e034ad614b17d61933becd07f9a15ce7d3a63fc2aca5ab5212",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6c4ad607ea7ce1e034ad614b17d61933becd07f9a15ce7d3a63fc2aca5ab5212",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/43685/Sargent__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "43685",
+  "timestamp": "2026-05-24T23:57:15.243429Z",
+  "version": 1
+}

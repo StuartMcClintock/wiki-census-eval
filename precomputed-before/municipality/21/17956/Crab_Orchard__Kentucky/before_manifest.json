@@ -1,0 +1,16 @@
+{
+  "article": "Crab_Orchard,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/17956/Crab_Orchard__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3f5113f8a89b0951112e43df6b7582c51239188f3e874c3045d0d94f1e4250de",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3f5113f8a89b0951112e43df6b7582c51239188f3e874c3045d0d94f1e4250de",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/17956/Crab_Orchard__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "17956",
+  "timestamp": "2026-05-24T23:43:49.358501Z",
+  "version": 1
+}

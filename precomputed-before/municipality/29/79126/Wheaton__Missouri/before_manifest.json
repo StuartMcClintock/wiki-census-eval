@@ -1,0 +1,16 @@
+{
+  "article": "Wheaton,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/79126/Wheaton__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "86b9c27c8aaac5cf06492c0dddb26833091bf76d82ac2afb34f62066aa5afce0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "86b9c27c8aaac5cf06492c0dddb26833091bf76d82ac2afb34f62066aa5afce0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/79126/Wheaton__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "79126",
+  "timestamp": "2026-05-24T23:54:09.334320Z",
+  "version": 1
+}

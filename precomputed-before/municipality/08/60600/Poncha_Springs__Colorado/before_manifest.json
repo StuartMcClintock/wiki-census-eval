@@ -1,0 +1,16 @@
+{
+  "article": "Poncha_Springs,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/60600/Poncha_Springs__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "263754444cd1289cd7250274de0d49cb2f8bf270cc96d924e8f6db4cc50b3f6a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "263754444cd1289cd7250274de0d49cb2f8bf270cc96d924e8f6db4cc50b3f6a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/60600/Poncha_Springs__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "60600",
+  "timestamp": "2026-05-24T23:35:37.392210Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Old_Ripley,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/55717/Old_Ripley__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "11c856d5371bd655c916fc6f3900519f2a63d36e15923c3a3b03812717cc70d9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "11c856d5371bd655c916fc6f3900519f2a63d36e15923c3a3b03812717cc70d9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/55717/Old_Ripley__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "55717",
+  "timestamp": "2026-05-24T23:38:43.052162Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Wilburton_Number_One,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/85076/Wilburton_Number_One__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bc47cb2e41ffa15367af728770f77cc44899feb75d514e5fc1e42816014f51b5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bc47cb2e41ffa15367af728770f77cc44899feb75d514e5fc1e42816014f51b5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/85076/Wilburton_Number_One__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "85076",
+  "timestamp": "2026-05-25T00:09:30.870900Z",
+  "version": 1
+}

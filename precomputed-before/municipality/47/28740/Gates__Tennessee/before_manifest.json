@@ -1,0 +1,16 @@
+{
+  "article": "Gates,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/28740/Gates__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b36076d629aedca27122230dfbedffa7a2a54908527417569d79757305df7165",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b36076d629aedca27122230dfbedffa7a2a54908527417569d79757305df7165",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/28740/Gates__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "28740",
+  "timestamp": "2026-05-25T00:14:40.126648Z",
+  "version": 1
+}

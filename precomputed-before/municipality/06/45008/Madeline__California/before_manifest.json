@@ -1,0 +1,16 @@
+{
+  "article": "Madeline,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/45008/Madeline__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3d303c0276a29a92c05ee5b955dc5b99d30c2d4c17444074b33da752a75d5486",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3d303c0276a29a92c05ee5b955dc5b99d30c2d4c17444074b33da752a75d5486",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/45008/Madeline__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "45008",
+  "timestamp": "2026-05-24T23:34:37.049329Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Bent_Tree_Harbor,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/04864/Bent_Tree_Harbor__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6d8628ad8a380e9c7cb67c6f9d68d864d1f77d960ffcb4df5e3034558f55a631",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6d8628ad8a380e9c7cb67c6f9d68d864d1f77d960ffcb4df5e3034558f55a631",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/04864/Bent_Tree_Harbor__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "04864",
+  "timestamp": "2026-05-24T23:50:46.447844Z",
+  "version": 1
+}

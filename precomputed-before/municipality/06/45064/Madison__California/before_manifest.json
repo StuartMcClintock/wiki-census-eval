@@ -1,0 +1,16 @@
+{
+  "article": "Madison,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/45064/Madison__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "60854f54ebbead665e91ec0b71ec1f7600c9bc8549bdd3c712cdc2b26a9301be",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "60854f54ebbead665e91ec0b71ec1f7600c9bc8549bdd3c712cdc2b26a9301be",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/45064/Madison__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "45064",
+  "timestamp": "2026-05-24T23:34:37.160094Z",
+  "version": 1
+}

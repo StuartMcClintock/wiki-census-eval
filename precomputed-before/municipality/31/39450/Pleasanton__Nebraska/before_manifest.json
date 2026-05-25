@@ -1,0 +1,16 @@
+{
+  "article": "Pleasanton,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/39450/Pleasanton__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ad843355ececa7ceddbd69b224d90b045bdb46e203cf2638f17cde6e23de5d89",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ad843355ececa7ceddbd69b224d90b045bdb46e203cf2638f17cde6e23de5d89",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/39450/Pleasanton__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "39450",
+  "timestamp": "2026-05-24T23:56:03.702305Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Hartville,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/35625/Hartville__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1c57d14f54a056d2fbc13d2031d9eb9dd54291b7e22bc0894fdd06a51ff64e7d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1c57d14f54a056d2fbc13d2031d9eb9dd54291b7e22bc0894fdd06a51ff64e7d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/35625/Hartville__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "35625",
+  "timestamp": "2026-05-25T00:23:15.266250Z",
+  "version": 1
+}

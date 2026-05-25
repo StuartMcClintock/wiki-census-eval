@@ -1,0 +1,16 @@
+{
+  "article": "Eagle_Nest,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/22020/Eagle_Nest__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "89325133b2591dac5c558a7fee6abc22f65e277d82d840f4e1f7b2c23c40727d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "89325133b2591dac5c558a7fee6abc22f65e277d82d840f4e1f7b2c23c40727d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/22020/Eagle_Nest__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "22020",
+  "timestamp": "2026-05-24T23:58:28.853576Z",
+  "version": 1
+}

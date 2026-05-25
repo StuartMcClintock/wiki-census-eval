@@ -1,0 +1,16 @@
+{
+  "article": "Elkville,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/23373/Elkville__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "86010fba2a2a8af7ed41ed587a31dcf6e9ff181fc923ad928dfb1b0e20629a22",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "86010fba2a2a8af7ed41ed587a31dcf6e9ff181fc923ad928dfb1b0e20629a22",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/23373/Elkville__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "23373",
+  "timestamp": "2026-05-24T23:38:09.969861Z",
+  "version": 1
+}

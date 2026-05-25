@@ -1,0 +1,16 @@
+{
+  "article": "Lake_City,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/37875/Lake_City__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "33a3e63b2f7b18bd4c9f6e66b49f16fb7380785e1dfd4b3ba58fa2954a9a1fd0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "33a3e63b2f7b18bd4c9f6e66b49f16fb7380785e1dfd4b3ba58fa2954a9a1fd0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/37875/Lake_City__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "37875",
+  "timestamp": "2026-05-24T23:43:00.522444Z",
+  "version": 1
+}

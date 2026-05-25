@@ -1,0 +1,16 @@
+{
+  "article": "Medford,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/50425/Medford__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4e466b221981870ad2b71f6721fc7a485262919699789911b7858d66010c6770",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4e466b221981870ad2b71f6721fc7a485262919699789911b7858d66010c6770",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/50425/Medford__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "50425",
+  "timestamp": "2026-05-25T00:22:24.237133Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Odell,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/54550/Odell__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c3880497c1fd6537db3b0834f76ee16a982f2ab320700cf811a9769a0db6c476",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c3880497c1fd6537db3b0834f76ee16a982f2ab320700cf811a9769a0db6c476",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/54550/Odell__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "54550",
+  "timestamp": "2026-05-25T00:05:53.220729Z",
+  "version": 1
+}

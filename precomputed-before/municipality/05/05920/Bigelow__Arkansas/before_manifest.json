@@ -1,0 +1,16 @@
+{
+  "article": "Bigelow,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/05920/Bigelow__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "efb1237147d4157c6d3a0363a1988ae4b3d5911aa83ce89d3c147484de24fc77",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "efb1237147d4157c6d3a0363a1988ae4b3d5911aa83ce89d3c147484de24fc77",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/05920/Bigelow__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "05920",
+  "timestamp": "2026-05-24T23:33:20.729575Z",
+  "version": 1
+}

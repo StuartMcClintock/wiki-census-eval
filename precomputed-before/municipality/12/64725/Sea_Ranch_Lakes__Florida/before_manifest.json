@@ -1,0 +1,16 @@
+{
+  "article": "Sea_Ranch_Lakes,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/64725/Sea_Ranch_Lakes__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e6b8bdc4001e849a943af8589a0934d739d79673c47b69e5ad3ea98f11807b0c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e6b8bdc4001e849a943af8589a0934d739d79673c47b69e5ad3ea98f11807b0c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/64725/Sea_Ranch_Lakes__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "64725",
+  "timestamp": "2026-05-24T23:36:22.530683Z",
+  "version": 1
+}

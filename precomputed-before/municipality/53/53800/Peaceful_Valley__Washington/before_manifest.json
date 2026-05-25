@@ -1,0 +1,16 @@
+{
+  "article": "Peaceful_Valley,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/53800/Peaceful_Valley__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "99b5208c49ea15d6e940f46bd58e35f9170602d3df09be4074363ea6fa60e8dc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "99b5208c49ea15d6e940f46bd58e35f9170602d3df09be4074363ea6fa60e8dc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/53800/Peaceful_Valley__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "53800",
+  "timestamp": "2026-05-25T00:20:27.773103Z",
+  "version": 1
+}

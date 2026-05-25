@@ -1,0 +1,16 @@
+{
+  "article": "Garden_Farms,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/28210/Garden_Farms__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f8adf161f3bf26727183ab701a57a991373d6d5860b73cfebbf9e957771b4f79",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f8adf161f3bf26727183ab701a57a991373d6d5860b73cfebbf9e957771b4f79",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/28210/Garden_Farms__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "28210",
+  "timestamp": "2026-05-24T23:34:24.892002Z",
+  "version": 1
+}

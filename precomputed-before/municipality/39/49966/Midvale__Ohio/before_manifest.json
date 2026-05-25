@@ -1,0 +1,16 @@
+{
+  "article": "Midvale,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/49966/Midvale__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6097483bb3aef788111f1b32ec4b6316bb099a62c6c9e405c4875dfadcd622ae",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6097483bb3aef788111f1b32ec4b6316bb099a62c6c9e405c4875dfadcd622ae",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/49966/Midvale__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "49966",
+  "timestamp": "2026-05-25T00:04:45.889127Z",
+  "version": 1
+}

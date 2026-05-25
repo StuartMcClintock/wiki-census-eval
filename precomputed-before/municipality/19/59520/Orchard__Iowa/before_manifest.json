@@ -1,0 +1,16 @@
+{
+  "article": "Orchard,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/59520/Orchard__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "231b0a347db5a6420cfe50875cdeb2bed2d022dbae2b984c4b9f3ed0b4218f91",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "231b0a347db5a6420cfe50875cdeb2bed2d022dbae2b984c4b9f3ed0b4218f91",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/59520/Orchard__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "59520",
+  "timestamp": "2026-05-24T23:41:35.016491Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Fall_City,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/23200/Fall_City__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2e038f4c8c825b2e98c1add138abfe61e79a7647104eca9e20447abee7743878",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2e038f4c8c825b2e98c1add138abfe61e79a7647104eca9e20447abee7743878",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/23200/Fall_City__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "23200",
+  "timestamp": "2026-05-25T00:20:12.125914Z",
+  "version": 1
+}

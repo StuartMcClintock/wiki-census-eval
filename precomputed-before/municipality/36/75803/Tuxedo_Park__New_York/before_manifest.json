@@ -1,0 +1,16 @@
+{
+  "article": "Tuxedo_Park,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/75803/Tuxedo_Park__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4b45f3a3c056e2a90d44d8fc2d69fe792bfa94e53c28300af18ca43081f7ae78",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4b45f3a3c056e2a90d44d8fc2d69fe792bfa94e53c28300af18ca43081f7ae78",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/75803/Tuxedo_Park__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "75803",
+  "timestamp": "2026-05-25T00:01:20.926996Z",
+  "version": 1
+}

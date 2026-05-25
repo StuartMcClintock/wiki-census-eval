@@ -1,0 +1,16 @@
+{
+  "article": "Federal_Dam,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/20798/Federal_Dam__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "509b612253caf46e0b9d7ae436fbf634d30d9113934754fc6a1c7d29d3e67129",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "509b612253caf46e0b9d7ae436fbf634d30d9113934754fc6a1c7d29d3e67129",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/20798/Federal_Dam__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "20798",
+  "timestamp": "2026-05-24T23:48:54.187998Z",
+  "version": 1
+}

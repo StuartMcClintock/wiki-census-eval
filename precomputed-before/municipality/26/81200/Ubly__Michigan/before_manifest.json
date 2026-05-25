@@ -1,0 +1,16 @@
+{
+  "article": "Ubly,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/81200/Ubly__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "03ab17892ec0e9cfda46714d9670b09c6d15fe476455914ff78c628279f8a506",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "03ab17892ec0e9cfda46714d9670b09c6d15fe476455914ff78c628279f8a506",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/81200/Ubly__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "81200",
+  "timestamp": "2026-05-24T23:48:31.120493Z",
+  "version": 1
+}

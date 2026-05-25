@@ -1,0 +1,16 @@
+{
+  "article": "Lykens,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/45592/Lykens__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ff830df25b34ce40ad3ca3ae353d4a136e355f4870fc7f349cf7187524989da6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ff830df25b34ce40ad3ca3ae353d4a136e355f4870fc7f349cf7187524989da6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/45592/Lykens__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "45592",
+  "timestamp": "2026-05-25T00:07:54.733590Z",
+  "version": 1
+}

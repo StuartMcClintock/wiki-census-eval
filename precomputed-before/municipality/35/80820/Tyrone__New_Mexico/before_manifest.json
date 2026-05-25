@@ -1,0 +1,16 @@
+{
+  "article": "Tyrone,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/80820/Tyrone__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d256ca30ba30fce4c442b0d9f0c6d53fc305e69417af68a93c1a9689dd50189a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d256ca30ba30fce4c442b0d9f0c6d53fc305e69417af68a93c1a9689dd50189a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/80820/Tyrone__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "80820",
+  "timestamp": "2026-05-24T23:59:10.157586Z",
+  "version": 1
+}

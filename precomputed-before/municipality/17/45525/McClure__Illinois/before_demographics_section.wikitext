@@ -1,0 +1,49 @@
+==Demographics==
+{{US Census population
+|align=left
+|2010= 402
+|2020= 256
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|access-date=June 4, 2015}}</ref>
+}}
+
+===2020 census===
+''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos can be of any race.''
+
+As of the [[2020 United States census|2020 census]]<ref>{{Cite web |title=Explore Census Data |url=https://data.census.gov/cedsci/profile?g=1600000US1745525 |access-date=June 28, 2022 |website=data.census.gov}}</ref> there were 256 people, 111 households, and 79 families residing in the village. The population density was {{Convert|167.54|PD/sqmi|PD/km2}}. There were 153 housing units at an average density of {{Convert|100.13|/sqmi|/km2}}. The racial makeup of the village was 93.36% [[White (U.S. Census)|White]], 1.17% [[African American (U.S. Census)|African American]], 0.78% from [[Race (United States Census)|other races]], and 4.69% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 0.78% of the population.
+
+There were 111 households, out of which 14.4% had children under the age of 18 living with them, 47.75% were married couples living together, 22.52% had a female householder with no husband present, and 28.83% were non-families. 27.93% of all households were made up of individuals, and 12.61% had someone living alone who was 65 years of age or older. The average household size was 2.51 and the average family size was 2.17.
+
+The village's age distribution consisted of 8.7% under the age of 18, 4.1% from 18 to 24, 14.6% from 25 to 44, 41.4% from 45 to 64, and 31.1% who were 65 years of age or older. The median age was 55.8 years. For every 100 females, there were 89.8 males. For every 100 females age 18 and over, there were 84.9 males.
+
+The median income for a household in the village was $42,614, and the median income for a family was $51,250. Males had a median income of $28,958 versus $25,000 for females. The [[per capita income]] for the village was $23,432. About 19.0% of families and 18.8% of the population were below the [[poverty line]], including 63.2% of those under age 18 and 14.7% of those age 65 or over.
+{| class="wikitable"
+|+'''McClure racial composition'''<br> (''NH = Non-Hispanic'')<ref>{{Cite web |title=Explore Census Data |url=https://data.census.gov/cedsci/table?g=1600000US1745525&tid=DECENNIALPL2020.P2 |access-date=March 8, 2022 |website=data.census.gov}}</ref>
+!Race
+!Number
+!Percentage
+|-
+|[[Non-Hispanic or Latino whites|White]] (NH)
+|238
+|92.97%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] (NH)
+|3
+|1.17%
+|-
+|Some Other Race (NH)
+|2
+|0.78%
+|-
+|[[Multiracial Americans|Mixed/Multi-Racial]] (NH)
+|11
+|4.3%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]]
+|2
+|0.78%
+|-
+|'''Total'''
+|'''256'''
+|
+|}
+

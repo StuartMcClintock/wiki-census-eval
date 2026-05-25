@@ -1,0 +1,16 @@
+{
+  "article": "Fredonia,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/28380/Fredonia__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "08b9de31aecd7eed095c32c151e20f00e5827786c64874cf85aef4d92b44b632",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "08b9de31aecd7eed095c32c151e20f00e5827786c64874cf85aef4d92b44b632",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/28380/Fredonia__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "28380",
+  "timestamp": "2026-05-25T00:02:56.508974Z",
+  "version": 1
+}

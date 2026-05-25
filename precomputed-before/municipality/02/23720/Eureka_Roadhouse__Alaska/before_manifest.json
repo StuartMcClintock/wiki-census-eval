@@ -1,0 +1,16 @@
+{
+  "article": "Eureka_Roadhouse,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/23720/Eureka_Roadhouse__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7e95b4a8870c50d6dbf90eab1ba84bcf3a72cb3a3213bac0f46940331c0618a3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7e95b4a8870c50d6dbf90eab1ba84bcf3a72cb3a3213bac0f46940331c0618a3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/23720/Eureka_Roadhouse__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "23720",
+  "timestamp": "2026-05-24T23:32:21.280827Z",
+  "version": 1
+}

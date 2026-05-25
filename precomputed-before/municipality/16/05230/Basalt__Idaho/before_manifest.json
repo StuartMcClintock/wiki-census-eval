@@ -1,0 +1,16 @@
+{
+  "article": "Basalt,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/05230/Basalt__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2f163e59c8fca8936391e32025fdf6476679b00d09038397eac0fb5c12e571aa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2f163e59c8fca8936391e32025fdf6476679b00d09038397eac0fb5c12e571aa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/05230/Basalt__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "05230",
+  "timestamp": "2026-05-24T23:37:16.232686Z",
+  "version": 1
+}

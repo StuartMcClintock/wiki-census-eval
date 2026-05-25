@@ -1,0 +1,16 @@
+{
+  "article": "West_Alexandria,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/82880/West_Alexandria__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8fa4c84377f29ee90fd7eadfd7979652eb8aac3f28d02eee9398c690392db8c3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8fa4c84377f29ee90fd7eadfd7979652eb8aac3f28d02eee9398c690392db8c3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/82880/West_Alexandria__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "82880",
+  "timestamp": "2026-05-25T00:05:36.854111Z",
+  "version": 1
+}

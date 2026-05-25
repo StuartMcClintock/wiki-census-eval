@@ -1,0 +1,16 @@
+{
+  "article": "Cope,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/16720/Cope__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f2001f0a39027249335e2aa3bd702031c6a82744fb3a106f8b2f79d549bfeab7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f2001f0a39027249335e2aa3bd702031c6a82744fb3a106f8b2f79d549bfeab7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/16720/Cope__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "16720",
+  "timestamp": "2026-05-25T00:09:55.995747Z",
+  "version": 1
+}

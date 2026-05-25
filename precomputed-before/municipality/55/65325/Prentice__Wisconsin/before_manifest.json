@@ -1,0 +1,16 @@
+{
+  "article": "Prentice,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/65325/Prentice__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ac4c90386fb1d23f1c9e2d78a4acc046c68add1a98ee19e049ff9633a4fa38ad",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ac4c90386fb1d23f1c9e2d78a4acc046c68add1a98ee19e049ff9633a4fa38ad",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/65325/Prentice__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "65325",
+  "timestamp": "2026-05-25T00:22:36.368838Z",
+  "version": 1
+}

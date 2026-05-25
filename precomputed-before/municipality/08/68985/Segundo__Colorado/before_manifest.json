@@ -1,0 +1,16 @@
+{
+  "article": "Segundo,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/68985/Segundo__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6ee9ec0277bcd99a1f9aa53a51d67bbe9a71a898a0c8556c1f86374287db43a4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6ee9ec0277bcd99a1f9aa53a51d67bbe9a71a898a0c8556c1f86374287db43a4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/68985/Segundo__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "68985",
+  "timestamp": "2026-05-24T23:35:40.218424Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Waldo,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/74925/Waldo__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "072c1b79ff9a4e31162a46e1ca22f4cd15c7298cacfdd2423c8aec97d1333f76",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "072c1b79ff9a4e31162a46e1ca22f4cd15c7298cacfdd2423c8aec97d1333f76",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/74925/Waldo__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "74925",
+  "timestamp": "2026-05-24T23:36:24.040574Z",
+  "version": 1
+}

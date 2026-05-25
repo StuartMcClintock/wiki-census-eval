@@ -1,0 +1,16 @@
+{
+  "article": "Ethel,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/23220/Ethel__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d2f4c94c12feba0f6d006f391bda939c6b06c2ebac422607d74264cb3d3afc4e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d2f4c94c12feba0f6d006f391bda939c6b06c2ebac422607d74264cb3d3afc4e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/23220/Ethel__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "23220",
+  "timestamp": "2026-05-24T23:50:09.208516Z",
+  "version": 1
+}

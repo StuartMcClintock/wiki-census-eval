@@ -1,0 +1,16 @@
+{
+  "article": "Lodoga,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/42230/Lodoga__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d67434463c4d3358625cd36f887ac3f28f1c9886321ce1191406f633bcfd259f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d67434463c4d3358625cd36f887ac3f28f1c9886321ce1191406f633bcfd259f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/42230/Lodoga__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "42230",
+  "timestamp": "2026-05-24T23:34:35.087422Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Humeston,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/37605/Humeston__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6b6799defe63ab903afefd7410f7a03e67b8194517555b64459376980ddc97f6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6b6799defe63ab903afefd7410f7a03e67b8194517555b64459376980ddc97f6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/37605/Humeston__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "37605",
+  "timestamp": "2026-05-24T23:41:12.623176Z",
+  "version": 1
+}

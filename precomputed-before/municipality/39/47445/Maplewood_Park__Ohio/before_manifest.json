@@ -1,0 +1,16 @@
+{
+  "article": "Maplewood_Park,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/47445/Maplewood_Park__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c1c9eaca1b20ba21faaa0d510e4cdca5a159cf46600d022e1364463dfa0edaa1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c1c9eaca1b20ba21faaa0d510e4cdca5a159cf46600d022e1364463dfa0edaa1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/47445/Maplewood_Park__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "47445",
+  "timestamp": "2026-05-25T00:04:42.807972Z",
+  "version": 1
+}

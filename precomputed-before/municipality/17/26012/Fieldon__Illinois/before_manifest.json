@@ -1,0 +1,16 @@
+{
+  "article": "Fieldon,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/26012/Fieldon__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e77564379e097ff4239476f56e0cfd4d872c74a96444575093c6f35d532b8169",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e77564379e097ff4239476f56e0cfd4d872c74a96444575093c6f35d532b8169",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/26012/Fieldon__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "26012",
+  "timestamp": "2026-05-24T23:38:12.864502Z",
+  "version": 1
+}

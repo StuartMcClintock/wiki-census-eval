@@ -1,0 +1,16 @@
+{
+  "article": "Painted_Post,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/56088/Painted_Post__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "06f60f51d8e2655a4bbf8e3cb28d6bed51ab62fc7f697acb509dc589da507583",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "06f60f51d8e2655a4bbf8e3cb28d6bed51ab62fc7f697acb509dc589da507583",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/56088/Painted_Post__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "56088",
+  "timestamp": "2026-05-25T00:01:01.536615Z",
+  "version": 1
+}

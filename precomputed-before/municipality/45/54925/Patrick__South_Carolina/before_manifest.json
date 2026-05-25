@@ -1,0 +1,16 @@
+{
+  "article": "Patrick,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/54925/Patrick__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ff81f7a416c68cb722ec34345b6a0b2580fc1d8621966e3b931940ab87f0ab6e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ff81f7a416c68cb722ec34345b6a0b2580fc1d8621966e3b931940ab87f0ab6e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/54925/Patrick__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "54925",
+  "timestamp": "2026-05-25T00:10:16.359757Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "New_Franklin,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/51824/New_Franklin__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "392931ac3b08e660469a1d9734c91cac3903a8f33e6f836d4a7be7021c2b6e97",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "392931ac3b08e660469a1d9734c91cac3903a8f33e6f836d4a7be7021c2b6e97",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/51824/New_Franklin__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "51824",
+  "timestamp": "2026-05-24T23:53:35.789372Z",
+  "version": 1
+}

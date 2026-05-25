@@ -1,0 +1,16 @@
+{
+  "article": "Universal,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/77912/Universal__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9ac41e0952ad1f0567bc07ad1d4fbc2ad9c3d4d2d919060f627bf94531079c59",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9ac41e0952ad1f0567bc07ad1d4fbc2ad9c3d4d2d919060f627bf94531079c59",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/77912/Universal__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "77912",
+  "timestamp": "2026-05-24T23:40:16.756004Z",
+  "version": 1
+}

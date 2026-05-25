@@ -1,0 +1,16 @@
+{
+  "article": "Cheyenne_Wells,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/14175/Cheyenne_Wells__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4f8292fa5e881564a3113baa2fd976d9752f1b5d85aa13a660680cf83d6c696c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4f8292fa5e881564a3113baa2fd976d9752f1b5d85aa13a660680cf83d6c696c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/14175/Cheyenne_Wells__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "14175",
+  "timestamp": "2026-05-24T23:35:21.554741Z",
+  "version": 1
+}

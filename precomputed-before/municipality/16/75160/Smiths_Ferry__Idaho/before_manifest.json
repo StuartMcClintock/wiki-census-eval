@@ -1,0 +1,16 @@
+{
+  "article": "Smiths_Ferry,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/75160/Smiths_Ferry__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fec9c0adb53fd795af924f92fa6f594fe709e3e5518f62f76d5cc9d7c4fdfb01",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fec9c0adb53fd795af924f92fa6f594fe709e3e5518f62f76d5cc9d7c4fdfb01",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/75160/Smiths_Ferry__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "75160",
+  "timestamp": "2026-05-24T23:37:28.907404Z",
+  "version": 1
+}

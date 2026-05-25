@@ -1,0 +1,16 @@
+{
+  "article": "Merigold,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/46720/Merigold__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "df1f4db5baf576633001640e6978dfdc3e3d739ce04bee161e785b3375c4d515",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "df1f4db5baf576633001640e6978dfdc3e3d739ce04bee161e785b3375c4d515",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/46720/Merigold__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "46720",
+  "timestamp": "2026-05-24T23:50:16.607379Z",
+  "version": 1
+}

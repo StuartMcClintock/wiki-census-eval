@@ -1,0 +1,16 @@
+{
+  "article": "Port_Republic,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/63896/Port_Republic__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "375f2bf6661cb87de43436bba846d1306a00eff371c7cbdd805e65dda94663de",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "375f2bf6661cb87de43436bba846d1306a00eff371c7cbdd805e65dda94663de",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/63896/Port_Republic__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "63896",
+  "timestamp": "2026-05-25T00:19:32.358060Z",
+  "version": 1
+}

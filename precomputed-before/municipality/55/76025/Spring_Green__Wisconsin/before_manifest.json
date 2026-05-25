@@ -1,0 +1,16 @@
+{
+  "article": "Spring_Green,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/76025/Spring_Green__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a2075b045587a12570fff9125522ebd94120bfa941f0e2e34104f7b2c46f41ed",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a2075b045587a12570fff9125522ebd94120bfa941f0e2e34104f7b2c46f41ed",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/76025/Spring_Green__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "76025",
+  "timestamp": "2026-05-25T00:22:44.518164Z",
+  "version": 1
+}

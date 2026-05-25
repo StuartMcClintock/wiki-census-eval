@@ -1,0 +1,16 @@
+{
+  "article": "New_Middletown,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/55118/New_Middletown__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e1a967ba6eb9c5f120f5b76ebf114e43e4a52884229ef60141c8ab9d24b82061",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e1a967ba6eb9c5f120f5b76ebf114e43e4a52884229ef60141c8ab9d24b82061",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/55118/New_Middletown__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "55118",
+  "timestamp": "2026-05-25T00:04:52.952090Z",
+  "version": 1
+}

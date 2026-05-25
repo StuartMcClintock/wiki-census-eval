@@ -1,0 +1,16 @@
+{
+  "article": "Mallory,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/50860/Mallory__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a069cd907fc5e15564508a5aeadb859611408baea9df0d18685f8cb80c47fdf5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a069cd907fc5e15564508a5aeadb859611408baea9df0d18685f8cb80c47fdf5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/50860/Mallory__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "50860",
+  "timestamp": "2026-05-25T00:21:15.856098Z",
+  "version": 1
+}

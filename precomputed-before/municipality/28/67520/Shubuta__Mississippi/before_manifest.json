@@ -1,0 +1,16 @@
+{
+  "article": "Shubuta,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/67520/Shubuta__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "67db467538a38aec74a87dad8f0c3fa9354a0dce066c6c7f2efed7a852be7a23",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "67db467538a38aec74a87dad8f0c3fa9354a0dce066c6c7f2efed7a852be7a23",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/67520/Shubuta__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "67520",
+  "timestamp": "2026-05-24T23:50:24.357573Z",
+  "version": 1
+}

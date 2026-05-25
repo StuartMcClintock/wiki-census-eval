@@ -1,0 +1,16 @@
+{
+  "article": "Woodridge,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/82953/Woodridge__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a3becdad9422aafd2b01a64aebef7e8f1c18ce362684df9ea08d98858eddd16d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a3becdad9422aafd2b01a64aebef7e8f1c18ce362684df9ea08d98858eddd16d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/82953/Woodridge__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "82953",
+  "timestamp": "2026-05-25T00:01:39.034431Z",
+  "version": 1
+}

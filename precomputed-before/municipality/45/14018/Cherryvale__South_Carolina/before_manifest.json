@@ -1,0 +1,16 @@
+{
+  "article": "Cherryvale,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/14018/Cherryvale__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "123a32243202511f29af67d4bf1a1d046ebff8be56d53ea71f096ff7254b7913",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "123a32243202511f29af67d4bf1a1d046ebff8be56d53ea71f096ff7254b7913",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/14018/Cherryvale__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "14018",
+  "timestamp": "2026-05-25T00:09:54.725684Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Nageezi,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/50790/Nageezi__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "715df5939ebe6c4c9b44d2facce6e3f7c2c38960c0fee7d0baf17ce9ad4fe468",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "715df5939ebe6c4c9b44d2facce6e3f7c2c38960c0fee7d0baf17ce9ad4fe468",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/50790/Nageezi__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "50790",
+  "timestamp": "2026-05-24T23:58:43.409812Z",
+  "version": 1
+}

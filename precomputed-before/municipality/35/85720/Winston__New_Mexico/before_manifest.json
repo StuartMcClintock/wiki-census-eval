@@ -1,0 +1,16 @@
+{
+  "article": "Winston,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/85720/Winston__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "622c262383d932f6d989689c01d933212c44339eae988edcea43803f314e9a9e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "622c262383d932f6d989689c01d933212c44339eae988edcea43803f314e9a9e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/85720/Winston__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "85720",
+  "timestamp": "2026-05-25T00:00:29.210692Z",
+  "version": 1
+}

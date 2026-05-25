@@ -1,0 +1,16 @@
+{
+  "article": "Beaver_Springs,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/04824/Beaver_Springs__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e60c4b55de6a1ee90630b1a99f1a03f766dcfe7c1ad26f276a01cdb93e767314",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e60c4b55de6a1ee90630b1a99f1a03f766dcfe7c1ad26f276a01cdb93e767314",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/04824/Beaver_Springs__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "04824",
+  "timestamp": "2026-05-25T00:06:14.284967Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Rachel,_Nevada",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/32/58820/Rachel__Nevada/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c349daf0a88cb7d25aba0c70e6d42f44b1b43ee75730a465be3bdba89fa8fefc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c349daf0a88cb7d25aba0c70e6d42f44b1b43ee75730a465be3bdba89fa8fefc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/32/58820/Rachel__Nevada/manifest.json",
+  "state_fips": "32",
+  "status": "match",
+  "target_fips": "58820",
+  "timestamp": "2026-05-24T23:57:33.037006Z",
+  "version": 1
+}

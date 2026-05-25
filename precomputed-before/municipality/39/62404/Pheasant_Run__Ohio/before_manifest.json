@@ -1,0 +1,16 @@
+{
+  "article": "Pheasant_Run,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/62404/Pheasant_Run__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7923b6b0e1a1eccef5ce10159412c476090f7f25e7e4181c7ca192af77cd0c8a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7923b6b0e1a1eccef5ce10159412c476090f7f25e7e4181c7ca192af77cd0c8a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/62404/Pheasant_Run__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "62404",
+  "timestamp": "2026-05-25T00:05:05.253161Z",
+  "version": 1
+}

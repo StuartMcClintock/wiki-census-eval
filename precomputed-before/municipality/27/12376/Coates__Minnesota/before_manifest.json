@@ -1,0 +1,16 @@
+{
+  "article": "Coates,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/12376/Coates__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "eabd47d2bcccf50282c37ffabceeaf9776c88fcec1043a4fa561a912f17257ca",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "eabd47d2bcccf50282c37ffabceeaf9776c88fcec1043a4fa561a912f17257ca",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/12376/Coates__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "12376",
+  "timestamp": "2026-05-24T23:48:46.319985Z",
+  "version": 1
+}

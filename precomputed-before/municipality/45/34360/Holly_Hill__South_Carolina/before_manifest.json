@@ -1,0 +1,16 @@
+{
+  "article": "Holly_Hill,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/34360/Holly_Hill__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "018d551441419a1571a09217053fa227cafd59bdfce335c9fb06a1cfed727cfb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "018d551441419a1571a09217053fa227cafd59bdfce335c9fb06a1cfed727cfb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/34360/Holly_Hill__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "34360",
+  "timestamp": "2026-05-25T00:10:06.691395Z",
+  "version": 1
+}

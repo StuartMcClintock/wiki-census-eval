@@ -1,0 +1,16 @@
+{
+  "article": "Misquamicut,_Rhode_Island",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/44/46000/Misquamicut__Rhode_Island/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c4f6f095fc9ad5617eb6c731a9f6587f35e7952c369eb0dc584adeb2e9905085",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c4f6f095fc9ad5617eb6c731a9f6587f35e7952c369eb0dc584adeb2e9905085",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/44/46000/Misquamicut__Rhode_Island/manifest.json",
+  "state_fips": "44",
+  "status": "match",
+  "target_fips": "46000",
+  "timestamp": "2026-05-25T00:09:37.592812Z",
+  "version": 1
+}

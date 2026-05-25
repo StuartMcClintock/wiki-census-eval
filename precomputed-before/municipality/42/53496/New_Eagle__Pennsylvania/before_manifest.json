@@ -1,0 +1,16 @@
+{
+  "article": "New_Eagle,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/53496/New_Eagle__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "34d6f265c31c4931c8f94bec65ce4f94619a36a3cfd3ff468913cb2a4ea625dc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "34d6f265c31c4931c8f94bec65ce4f94619a36a3cfd3ff468913cb2a4ea625dc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/53496/New_Eagle__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "53496",
+  "timestamp": "2026-05-25T00:08:15.609752Z",
+  "version": 1
+}

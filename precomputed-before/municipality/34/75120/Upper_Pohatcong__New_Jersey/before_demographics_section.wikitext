@@ -1,0 +1,80 @@
+==Demographics==
+{{US Census population
+|2010= 1781
+|2020= 1714
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=http://www.census.gov/prod/www/decennial.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2016}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A34|title=Census Population API|publisher=United States Census Bureau|accessdate=Oct 11, 2022}}</ref>
+}}
+
+Upper Pohatcong first appeared as a [[census designated place]] in the [[2010 U.S. census]].<ref>{{Cite web|title= 2010 Census of Population - Population and Housing Unit Counts - New Jersey |url=https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-32.pdf|website=[[United States Census Bureau]]|archive-url=https://web.archive.org/web/20251111220031/https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-32.pdf| archive-date=November 11, 2025}}</ref>
+
+===2020 census===
+{| class="wikitable sortable" style="text-align:center;"
+|+'''Upper Pohatcong CDP, New Jersey – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Upper Pohatcong CDP, New Jersey|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US3475120&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!style="background-color: #ffffb3;" |Pop 2020<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Upper Pohatcong CDP, New Jersey|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US3475120&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!% 2010
+!style="background-color: #ffffb3;" |% 2020
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|1,630
+|style='background: #ffffe6; |1,438
+|91.52%
+|style='background: #ffffe6; |83.90%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|39
+|style='background: #ffffe6; |68
+|2.19%
+|style='background: #ffffe6; |3.97%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|19
+|style='background: #ffffe6; |26
+|1.07%
+|style='background: #ffffe6; |1.52%
+|-
+|[[Native Hawaiian]] or [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|style='background: #ffffe6; |1
+|0.00%
+|style='background: #ffffe6; |0.06%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|1
+|style='background: #ffffe6; |1
+|0.06%
+|style='background: #ffffe6; |0.06%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|23
+|style='background: #ffffe6; |69
+|1.29%
+|style='background: #ffffe6; |4.03%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|69
+|style='background: #ffffe6; |111
+|3.87%
+|style='background: #ffffe6; |6.48%
+|-
+|'''Total'''
+|'''1,781'''
+|style='background: #ffffe6; |'''1,714 '''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+===2010 census===
+The [[2010 United States census]] counted 1,781 people, 699 households, and 501 families in the CDP. The [[population density]] was {{convert|2713.1|/sqmi}}. There were 732 housing units at an average density of {{convert|1115.1|/sqmi}}. The racial makeup was 94.61% (1,685) [[White (U.S. census)|White]], 2.19% (39) [[Black (U.S. census)|Black or African American]], 0.00% (0) [[Native American (U.S. census)|Native American]], 1.07% (19) [[Asian (U.S. census)|Asian]], 0.00% (0) [[Pacific Islander (U.S. census)|Pacific Islander]], 0.28% (5) from [[Race and ethnicity in the United States census|other races]], and 1.85% (33) from two or more races. [[Hispanic (U.S. census)|Hispanic or Latino]] of any race were 3.87% (69) of the population.<ref name=Census2010>[http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/1600000US3475120 DP-1 - Profile of General Population and Housing Characteristics: 2010 Demographic Profile Data for Upper Pohatcong CDP, New Jersey] {{Webarchive|url=https://archive.today/20200212143133/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/1600000US3475120 |date=February 12, 2020 }}, [[United States Census Bureau]]. Accessed June 3, 2013.</ref>
+
+Of the 699 households, 28.9% had children under the age of 18; 59.4% were married couples living together; 8.4% had a female householder with no husband present and 28.3% were non-families. Of all households, 24.2% were made up of individuals and 13.0% had someone living alone who was 65 years of age or older. The average household size was 2.55 and the average family size was 3.05.<ref name=Census2010/>
+
+22.2% of the population were under the age of 18, 6.9% from 18 to 24, 24.3% from 25 to 44, 30.1% from 45 to 64, and 16.5% who were 65 years of age or older. The median age was 42.7 years. For every 100 females, the population had 98.3 males. For every 100 females ages 18 and older there were 91.2 males.<ref name=Census2010/>
+

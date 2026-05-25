@@ -1,0 +1,16 @@
+{
+  "article": "Big_Piney,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/07060/Big_Piney__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bc15e2fc7c72edd67b3064e341f1d810618caab40209e55eea2716be3635e6ed",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bc15e2fc7c72edd67b3064e341f1d810618caab40209e55eea2716be3635e6ed",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/07060/Big_Piney__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "07060",
+  "timestamp": "2026-05-25T00:23:09.112569Z",
+  "version": 1
+}

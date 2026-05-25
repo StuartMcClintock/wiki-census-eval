@@ -1,0 +1,16 @@
+{
+  "article": "Marshall,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/41580/Marshall__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2888e03a05dee2d6fd4bb729abcebb4786ef5a4811980e071b1d971611b48c3f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2888e03a05dee2d6fd4bb729abcebb4786ef5a4811980e071b1d971611b48c3f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/41580/Marshall__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "41580",
+  "timestamp": "2026-05-25T00:02:10.301132Z",
+  "version": 1
+}

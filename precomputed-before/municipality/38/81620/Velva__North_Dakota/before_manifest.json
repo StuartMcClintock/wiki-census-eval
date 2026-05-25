@@ -1,0 +1,16 @@
+{
+  "article": "Velva,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/81620/Velva__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "144df0e403d5be2177d4c2762670b5fe4adaa65bde54aeae64ff6368898cc8d6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "144df0e403d5be2177d4c2762670b5fe4adaa65bde54aeae64ff6368898cc8d6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/81620/Velva__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "81620",
+  "timestamp": "2026-05-25T00:03:25.438311Z",
+  "version": 1
+}

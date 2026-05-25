@@ -1,0 +1,16 @@
+{
+  "article": "Elfrida,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/22080/Elfrida__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2557be14d8a81fb7734bfb6b76f85dce59d467a7b55744331080da9482429bcc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2557be14d8a81fb7734bfb6b76f85dce59d467a7b55744331080da9482429bcc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/22080/Elfrida__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "22080",
+  "timestamp": "2026-05-24T23:32:53.876725Z",
+  "version": 1
+}

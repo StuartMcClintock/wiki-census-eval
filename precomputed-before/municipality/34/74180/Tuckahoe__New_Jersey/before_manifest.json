@@ -1,0 +1,16 @@
+{
+  "article": "Tuckahoe,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/74180/Tuckahoe__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f1a9cb5570d528e4cf9a779cbe67841485a9d0135ed1d9edc6c18db2c8885a30",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f1a9cb5570d528e4cf9a779cbe67841485a9d0135ed1d9edc6c18db2c8885a30",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/74180/Tuckahoe__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "74180",
+  "timestamp": "2026-05-24T23:58:04.417215Z",
+  "version": 1
+}

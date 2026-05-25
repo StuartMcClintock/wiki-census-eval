@@ -1,0 +1,16 @@
+{
+  "article": "Shippingport,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/70376/Shippingport__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6178545801a5728f44ad9296e4dc0a45687eab4ed5668f024b447620b68b2624",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6178545801a5728f44ad9296e4dc0a45687eab4ed5668f024b447620b68b2624",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/70376/Shippingport__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "70376",
+  "timestamp": "2026-05-25T00:09:03.983803Z",
+  "version": 1
+}

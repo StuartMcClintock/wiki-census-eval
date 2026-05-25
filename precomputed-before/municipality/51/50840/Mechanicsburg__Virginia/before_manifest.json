@@ -1,0 +1,16 @@
+{
+  "article": "Mechanicsburg,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/50840/Mechanicsburg__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "745d0bb82274f7a3a5659dddbf8e4a4189e0ab2bc42697f7f87878cc28a4424d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "745d0bb82274f7a3a5659dddbf8e4a4189e0ab2bc42697f7f87878cc28a4424d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/50840/Mechanicsburg__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "50840",
+  "timestamp": "2026-05-25T00:19:25.581507Z",
+  "version": 1
+}

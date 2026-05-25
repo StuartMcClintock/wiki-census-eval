@@ -1,0 +1,16 @@
+{
+  "article": "Rolling_Prairie,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/65736/Rolling_Prairie__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4747a9b3f2f1262903694a9f25071759601f6ebcc1472dde5cd5047e0d32e7a8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4747a9b3f2f1262903694a9f25071759601f6ebcc1472dde5cd5047e0d32e7a8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/65736/Rolling_Prairie__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "65736",
+  "timestamp": "2026-05-24T23:40:10.525912Z",
+  "version": 1
+}

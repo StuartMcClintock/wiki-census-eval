@@ -1,0 +1,60 @@
+==Demographics==
+{{US Census population
+|1900= 79
+|1910= 99
+|1920= 118
+|1930= 149
+|1940= 324
+|1950= 383
+|1960= 401
+|1970= 229
+|1980= 261
+|1990= 208
+|2000= 185
+|2010= 180
+|2020= 147
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2015}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A45|title=Census Population API|publisher=United States Census Bureau|accessdate=October 15, 2022}}</ref>
+}}
+
+===2020 census===
+{| class="wikitable"
+|+'''Sycamore racial composition'''<br> (Hispanics excluded from racial categories)<br> (''NH = Non-Hispanic'')<ref>{{Cite web|title=Explore Census Data|url=https://data.census.gov/cedsci/table?g=1600000US4570900&tid=DECENNIALPL2020.P2|access-date=February 24, 2022|website=data.census.gov}}</ref>
+!Race
+!Number
+!Percentage
+|-
+|[[Non-Hispanic or Latino whites|White]] (NH)
+|95
+|64.63%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] (NH)
+|40
+|27.21%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] (NH)
+|4
+|2.72%
+|-
+|[[Multiracial Americans|Mixed/Multi-Racial]] (NH)
+|5
+|3.4%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]]
+|3
+|2.04%
+|-
+|'''Total'''
+|'''147'''
+|
+|}
+As of the [[2020 United States census]], there were 147 people, 104 households, and 36 families residing in the town.
+
+===2000 census===
+At the [[2000 United States census|2000 census]] there were 185 people, 81 households, and 54 families living in the town. The population density was {{convert|58.3|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 93 housing units at an average density of {{convert|29.3|/sqmi|/km2|sp=us|adj=off}}.  The [[Race and ethnicity in the United States Census#2000 census|racial makeup]] of the town was 61.62% White, 35.14% African American, 0.54% Native American, 0.54% from other races, and 2.16% from two or more races. Hispanic or Latino of any race were 2.16%.<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|accessdate=January 31, 2008|title=U.S. Census website}}</ref>
+
+Of the 81 households 22.2% had children under the age of 18 living with them, 48.1% were married couples living together, 13.6% had a female householder with no husband present, and 33.3% were non-families. 29.6% of households were one person and 16.0% were one person aged 65 or older. The average household size was 2.28 and the average family size was 2.85.
+
+The age distribution was 18.9% under the age of 18, 8.1% from 18 to 24, 25.9% from 25 to 44, 25.4% from 45 to 64, and 21.6% 65 or older. The median age was 43 years. For every 100 females, there were 94.7 males. For every 100 females age 18 and over, there were 82.9 males.
+
+The median household income was $28,333 and the median family income  was $40,625. Males had a median income of $35,500 versus $18,750 for females. The per capita income for the town was $18,297. About 6.8% of families and 10.1% of the population were below the [[poverty line]], including 7.5% of those under the age of eighteen and 16.7% of those sixty five or over.
+

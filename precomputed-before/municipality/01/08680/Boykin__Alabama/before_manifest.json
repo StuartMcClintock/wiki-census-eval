@@ -1,0 +1,16 @@
+{
+  "article": "Boykin,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/08680/Boykin__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c7f23a88b1e5a4af183f4549d193f4d8d38ea4c9c5b259f5f01d58c32c1a8cf2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c7f23a88b1e5a4af183f4549d193f4d8d38ea4c9c5b259f5f01d58c32c1a8cf2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/08680/Boykin__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "08680",
+  "timestamp": "2026-05-24T23:31:50.164674Z",
+  "version": 1
+}

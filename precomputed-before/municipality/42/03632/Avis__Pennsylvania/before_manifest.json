@@ -1,0 +1,16 @@
+{
+  "article": "Avis,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/03632/Avis__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c81e95bc52b285c2d0f92dce56a1783047a416916960fcdfaff3f51bc60c9dcb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c81e95bc52b285c2d0f92dce56a1783047a416916960fcdfaff3f51bc60c9dcb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/03632/Avis__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "03632",
+  "timestamp": "2026-05-25T00:06:11.381042Z",
+  "version": 1
+}

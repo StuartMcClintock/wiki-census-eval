@@ -1,0 +1,16 @@
+{
+  "article": "Peoria,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/58510/Peoria__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "882134711c64024e7aee8aa8bea8055fcf2d6f620bd931f64cd9b89744392f57",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "882134711c64024e7aee8aa8bea8055fcf2d6f620bd931f64cd9b89744392f57",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/58510/Peoria__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "58510",
+  "timestamp": "2026-05-24T23:35:36.546981Z",
+  "version": 1
+}

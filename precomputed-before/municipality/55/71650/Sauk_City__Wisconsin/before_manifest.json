@@ -1,0 +1,16 @@
+{
+  "article": "Sauk_City,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/71650/Sauk_City__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c9fe6105207f187267a29567592157a4b0a4749d2ecab52918212d2e36a7b141",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c9fe6105207f187267a29567592157a4b0a4749d2ecab52918212d2e36a7b141",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/71650/Sauk_City__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "71650",
+  "timestamp": "2026-05-25T00:22:41.046801Z",
+  "version": 1
+}

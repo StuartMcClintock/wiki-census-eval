@@ -1,0 +1,16 @@
+{
+  "article": "Ontonagon,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/60860/Ontonagon__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1df15accc539d34911ed9e8acb9fb11f2bd986c7bede983e785fb618ba9ce0ad",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1df15accc539d34911ed9e8acb9fb11f2bd986c7bede983e785fb618ba9ce0ad",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/60860/Ontonagon__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "60860",
+  "timestamp": "2026-05-24T23:48:10.246077Z",
+  "version": 1
+}

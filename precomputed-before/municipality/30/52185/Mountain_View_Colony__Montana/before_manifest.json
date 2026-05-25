@@ -1,0 +1,16 @@
+{
+  "article": "Mountain_View_Colony,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/52185/Mountain_View_Colony__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3f4a8f90a807ca711c0ccbfdce8e0dc8f1ff99aed2c109b245ec0f4b09f89dca",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3f4a8f90a807ca711c0ccbfdce8e0dc8f1ff99aed2c109b245ec0f4b09f89dca",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/52185/Mountain_View_Colony__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "52185",
+  "timestamp": "2026-05-24T23:54:39.107189Z",
+  "version": 1
+}

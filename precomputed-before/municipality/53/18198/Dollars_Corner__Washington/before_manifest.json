@@ -1,0 +1,16 @@
+{
+  "article": "Dollars_Corner,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/18198/Dollars_Corner__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7223f74fb9e8192afcec11c46a187cd82b95ebf0fb7fc42867f0a0d8d59f4527",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7223f74fb9e8192afcec11c46a187cd82b95ebf0fb7fc42867f0a0d8d59f4527",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/18198/Dollars_Corner__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "18198",
+  "timestamp": "2026-05-25T00:20:10.383172Z",
+  "version": 1
+}

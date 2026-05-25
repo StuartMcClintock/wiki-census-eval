@@ -1,0 +1,22 @@
+==Demographics==
+{{US Census population
+|align=right
+|1880= 208
+|1890= 435
+|1900= 810
+|1910= 1522
+|1920= 2605
+|1930= 3072
+|1940= 3022
+|1950= 3147
+|1960= 3148
+|1970= 2916
+|1980= 2425
+|1990= 2112
+|2000= 2107
+|2010= 1971
+|2020= 1873
+|footnote=Sources:<ref name="USDecennialCensus">{{cite web |title=Census of Population and Housing |url=https://www.census.gov/programs-surveys/decennial-census.html |publisher=U.S. Census Bureau |access-date=December 11, 2013}}</ref><ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=January 31, 2008 |title=U.S. Census website}}</ref><ref name=CensusPopEst>{{cite web |title=Incorporated Places and Minor Civil Divisions Datasets: Subcounty Resident Population Estimates: April 1, 2010 to July 1, 2012 |url=https://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html |work=Population Estimates |publisher=U.S. Census Bureau |access-date=December 11, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130611010502/http://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html |archive-date=June 11, 2013}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web |url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A42 |title=Census Population API |publisher=United States Census Bureau |accessdate=October 12, 2022}}</ref>
+}}
+As of the census of 2020, there were 850 households and 956 housing units in the borough. The racial makeup of the borough was 93.2% [[White (U.S. Census)|White]], 4.5% [[African American (U.S. Census)|African American]], and 2.3% from other races. The median income was $52,928.<ref>{{cite web |title=North Belle Vernon Borough |url=https://data.census.gov/profile/North_Belle_Vernon_borough,_Westmoreland_County,_Pennsylvania?g=060XX00US4212954776 |publisher=United States Census Bureau}}</ref>
+

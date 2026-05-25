@@ -1,0 +1,16 @@
+{
+  "article": "Cheshire,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/13000/Cheshire__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e6d26a569b925ba6eebc37e45f9cac1b4b2dadda0dbef8c833f74e0e47ba4747",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e6d26a569b925ba6eebc37e45f9cac1b4b2dadda0dbef8c833f74e0e47ba4747",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/13000/Cheshire__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "13000",
+  "timestamp": "2026-05-25T00:05:45.464171Z",
+  "version": 1
+}

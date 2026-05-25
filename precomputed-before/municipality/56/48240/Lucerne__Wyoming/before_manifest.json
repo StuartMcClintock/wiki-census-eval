@@ -1,0 +1,16 @@
+{
+  "article": "Lucerne,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/48240/Lucerne__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dd4d9c295f4b899617b0ead24809168f70725a883ca3d1dd949b4d4e825e8c2a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dd4d9c295f4b899617b0ead24809168f70725a883ca3d1dd949b4d4e825e8c2a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/48240/Lucerne__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "48240",
+  "timestamp": "2026-05-25T00:23:18.204249Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Mulino,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/50450/Mulino__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6b979f0af176ead8159c8dc515fff7c21c27a3e18b783b83ff4d70fe252386d7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6b979f0af176ead8159c8dc515fff7c21c27a3e18b783b83ff4d70fe252386d7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/50450/Mulino__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "50450",
+  "timestamp": "2026-05-25T00:05:52.262351Z",
+  "version": 1
+}

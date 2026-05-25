@@ -1,0 +1,16 @@
+{
+  "article": "Humptulips,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/32650/Humptulips__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a53019651a4b866bc9f1420809c0df6e98fb2338f92d8eb0580c94bd85a7f3f3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a53019651a4b866bc9f1420809c0df6e98fb2338f92d8eb0580c94bd85a7f3f3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/32650/Humptulips__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "32650",
+  "timestamp": "2026-05-25T00:20:15.802395Z",
+  "version": 1
+}

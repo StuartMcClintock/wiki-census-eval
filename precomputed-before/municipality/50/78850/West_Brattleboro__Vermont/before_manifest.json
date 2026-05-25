@@ -1,0 +1,16 @@
+{
+  "article": "West_Brattleboro,_Vermont",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/50/78850/West_Brattleboro__Vermont/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dcef922cb23496f81fa1db617313762b0e67f9e03c1dd3af4c97be52b0627748",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dcef922cb23496f81fa1db617313762b0e67f9e03c1dd3af4c97be52b0627748",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/50/78850/West_Brattleboro__Vermont/manifest.json",
+  "state_fips": "50",
+  "status": "match",
+  "target_fips": "78850",
+  "timestamp": "2026-05-25T00:17:19.392302Z",
+  "version": 1
+}

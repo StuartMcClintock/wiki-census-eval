@@ -1,0 +1,61 @@
+==Demographics==
+Heathsville was first listed as a [[census designated place]] in the [[2010 U.S. census]].<ref name=2010CensusVA/>
+
+{| class="wikitable"
+|+'''Racial composition as of 2020'''(''NH = Non-Hispanic'')
+!Race / Ethnicity
+!Pop 2020<ref name="2020CensusP2">{{Cite web |title=P2 HISPANIC OR LATINO, AND NOT HISPANIC OR LATINO BY RACE – 2020: DEC Redistricting Data (PL 94-171) – Heathsville CDP, Virginia |url=https://data.census.gov/table?q=p2&g=1600000US5136216 |website=[[United States Census Bureau]]}}</ref>
+!% 2020
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|106
+|77.94%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|18
+|13.23%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|0
+|0.00%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|2
+|1.47%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|0.00%
+|-
+|[[Race and ethnicity in the United States census|Some Other Race]] alone (NH)
+|1
+|0.74%
+|-
+|[[Multiracial Americans|Mixed Race/Multi-Racial]] (NH)
+|7
+|5.15%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|2
+|1.47%
+|-
+|'''Total'''
+|'''136'''
+|'''100.00%'''
+|}
+''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos can be of any race.''
+
+{{US Census population
+| 1980 = 185
+| 1990 = 127
+| 2000 = 142
+| 2010 = 142
+| 2020 = 136
+|estyear=
+|estimate=
+|estref=
+|align-fn=center
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census/decade.html|title=Decennial Census by Decade|website=[[United States Census Bureau]]|access-date=}}</ref><br>
+2010<ref name=2010CensusVA>{{Cite web|title= 2010 Census of Population - Population and Housing Unit Counts - Virginia|url=https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-6.pdf|website=[[United States Census Bureau]]}}</ref> 2020
+}}
+

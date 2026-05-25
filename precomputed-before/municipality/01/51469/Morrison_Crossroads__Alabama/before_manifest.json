@@ -1,0 +1,16 @@
+{
+  "article": "Morrison_Crossroads,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/51469/Morrison_Crossroads__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3fcf9aafc9732d62778e6aab637786919e7aa33949ba16da22cb74d701a41562",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3fcf9aafc9732d62778e6aab637786919e7aa33949ba16da22cb74d701a41562",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/51469/Morrison_Crossroads__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "51469",
+  "timestamp": "2026-05-24T23:32:04.907070Z",
+  "version": 1
+}

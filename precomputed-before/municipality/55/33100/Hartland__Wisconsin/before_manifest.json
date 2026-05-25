@@ -1,0 +1,16 @@
+{
+  "article": "Hartland,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/33100/Hartland__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "76be2a07e0290e6d07039a6b146827910e3370af20a28f23cc2e5cc384368714",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "76be2a07e0290e6d07039a6b146827910e3370af20a28f23cc2e5cc384368714",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/33100/Hartland__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "33100",
+  "timestamp": "2026-05-25T00:22:11.134927Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Molena,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/52108/Molena__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "02924231b28bbcacfc35564e3f6419fb80243ab44d76fd85b4d3d0067b10f181",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "02924231b28bbcacfc35564e3f6419fb80243ab44d76fd85b4d3d0067b10f181",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/52108/Molena__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "52108",
+  "timestamp": "2026-05-24T23:36:56.160069Z",
+  "version": 1
+}

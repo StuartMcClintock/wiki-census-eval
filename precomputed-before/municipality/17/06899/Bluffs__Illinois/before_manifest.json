@@ -1,0 +1,16 @@
+{
+  "article": "Bluffs,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/06899/Bluffs__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1e30dcade584f24b8f9c04b9b5c9ce86e1ccbc29cf7540b3620a8010e423f25a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1e30dcade584f24b8f9c04b9b5c9ce86e1ccbc29cf7540b3620a8010e423f25a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/06899/Bluffs__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "06899",
+  "timestamp": "2026-05-24T23:37:50.094573Z",
+  "version": 1
+}

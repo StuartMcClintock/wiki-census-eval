@@ -1,0 +1,16 @@
+{
+  "article": "Clarkedale,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/14050/Clarkedale__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "991c0d6f36b983c857516c6bfc8ad870887d1dd06f3203dfe767d8ac8020c883",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "991c0d6f36b983c857516c6bfc8ad870887d1dd06f3203dfe767d8ac8020c883",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/14050/Clarkedale__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "14050",
+  "timestamp": "2026-05-24T23:33:25.257369Z",
+  "version": 1
+}

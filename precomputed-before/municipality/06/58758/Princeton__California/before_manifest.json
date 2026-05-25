@@ -1,0 +1,16 @@
+{
+  "article": "Princeton,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/58758/Princeton__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9610273661637f69316a66a4d8d417bc1a15332fdbfbd47ae7e9469aa73231c8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9610273661637f69316a66a4d8d417bc1a15332fdbfbd47ae7e9469aa73231c8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/58758/Princeton__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "58758",
+  "timestamp": "2026-05-24T23:35:00.217582Z",
+  "version": 1
+}

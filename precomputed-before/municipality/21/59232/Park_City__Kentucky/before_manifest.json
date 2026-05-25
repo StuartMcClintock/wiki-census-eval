@@ -1,0 +1,16 @@
+{
+  "article": "Park_City,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/59232/Park_City__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8755d4a9f203dd903c517de406e03971f8e171532711cbafd59a6f6a0b4d79b1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8755d4a9f203dd903c517de406e03971f8e171532711cbafd59a6f6a0b4d79b1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/59232/Park_City__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "59232",
+  "timestamp": "2026-05-24T23:44:15.206582Z",
+  "version": 1
+}

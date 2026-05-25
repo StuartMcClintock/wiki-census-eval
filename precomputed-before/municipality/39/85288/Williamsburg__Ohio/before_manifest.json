@@ -1,0 +1,16 @@
+{
+  "article": "Williamsburg,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/85288/Williamsburg__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c2524c05a086884c06513ef39bc90cd171af1c7074b48357ea1d0a523e2d19e8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c2524c05a086884c06513ef39bc90cd171af1c7074b48357ea1d0a523e2d19e8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/85288/Williamsburg__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "85288",
+  "timestamp": "2026-05-25T00:05:39.581882Z",
+  "version": 1
+}

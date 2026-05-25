@@ -1,0 +1,16 @@
+{
+  "article": "Vinegar_Bend,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/79032/Vinegar_Bend__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a6f25d0356633c102dc1f3a7dfc0b8b18c4309419fc0bc44b0d7424d1ff3f950",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a6f25d0356633c102dc1f3a7dfc0b8b18c4309419fc0bc44b0d7424d1ff3f950",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/79032/Vinegar_Bend__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "79032",
+  "timestamp": "2026-05-24T23:32:15.225546Z",
+  "version": 1
+}

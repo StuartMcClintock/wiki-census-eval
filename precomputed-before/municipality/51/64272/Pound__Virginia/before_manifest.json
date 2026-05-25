@@ -1,0 +1,16 @@
+{
+  "article": "Pound,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/64272/Pound__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e9f83d05ea206fea9d9bb5aa29a45acc1c747b92ff07f2a5dfcd8f294d99df87",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e9f83d05ea206fea9d9bb5aa29a45acc1c747b92ff07f2a5dfcd8f294d99df87",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/64272/Pound__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "64272",
+  "timestamp": "2026-05-25T00:19:32.596708Z",
+  "version": 1
+}

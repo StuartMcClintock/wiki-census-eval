@@ -1,0 +1,16 @@
+{
+  "article": "Roosevelt,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/59705/Roosevelt__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f4aa6fbc5524826e496d66199061d31b0050df67609238e07838f5945e0f0c6a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f4aa6fbc5524826e496d66199061d31b0050df67609238e07838f5945e0f0c6a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/59705/Roosevelt__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "59705",
+  "timestamp": "2026-05-25T00:20:30.670664Z",
+  "version": 1
+}

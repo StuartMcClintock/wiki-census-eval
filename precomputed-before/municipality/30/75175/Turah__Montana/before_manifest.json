@@ -1,0 +1,16 @@
+{
+  "article": "Turah,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/75175/Turah__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e4c31217d8cf6842fc48d1236e3ea054e66bc025fc29e71fedfe501127bed6d8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e4c31217d8cf6842fc48d1236e3ea054e66bc025fc29e71fedfe501127bed6d8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/75175/Turah__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "75175",
+  "timestamp": "2026-05-24T23:55:00.848447Z",
+  "version": 1
+}

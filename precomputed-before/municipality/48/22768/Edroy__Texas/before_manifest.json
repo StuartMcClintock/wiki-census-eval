@@ -1,0 +1,16 @@
+{
+  "article": "Edroy,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/22768/Edroy__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "85f81920aea6003a050383610a1585f1781481eabc2eaba5b083a63e0a5c3551",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "85f81920aea6003a050383610a1585f1781481eabc2eaba5b083a63e0a5c3551",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/22768/Edroy__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "22768",
+  "timestamp": "2026-05-25T00:15:31.234595Z",
+  "version": 1
+}

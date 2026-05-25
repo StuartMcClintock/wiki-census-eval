@@ -1,0 +1,16 @@
+{
+  "article": "Stanfield,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/69130/Stanfield__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d6d8700db561f2a7124daceb72bc2c4d24ae4a2b020fb8bb4ed8ebb49cf43b59",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d6d8700db561f2a7124daceb72bc2c4d24ae4a2b020fb8bb4ed8ebb49cf43b59",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/69130/Stanfield__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "69130",
+  "timestamp": "2026-05-24T23:33:10.375132Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Sportsmans_Park,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/69387/Sportsmans_Park__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ef5a2a88b8daa9091913845503ee8707612d4b30f08109f1afe2084f90d92a6b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ef5a2a88b8daa9091913845503ee8707612d4b30f08109f1afe2084f90d92a6b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/69387/Sportsmans_Park__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "69387",
+  "timestamp": "2026-05-25T00:06:02.839289Z",
+  "version": 1
+}

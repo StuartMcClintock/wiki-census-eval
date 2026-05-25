@@ -1,0 +1,16 @@
+{
+  "article": "Springville,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/73710/Springville__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e71ef726322c0d23a998b03402fa2c14ac9053706f93bc37e3f3e89ac35bc084",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e71ef726322c0d23a998b03402fa2c14ac9053706f93bc37e3f3e89ac35bc084",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/73710/Springville__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "73710",
+  "timestamp": "2026-05-24T23:35:07.079177Z",
+  "version": 1
+}

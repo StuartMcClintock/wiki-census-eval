@@ -1,0 +1,16 @@
+{
+  "article": "Dilworthtown,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/19232/Dilworthtown__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "41de251be4a10711ffcf2552da58623b487b1e03bf1860146f900623fe019fff",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "41de251be4a10711ffcf2552da58623b487b1e03bf1860146f900623fe019fff",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/19232/Dilworthtown__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "19232",
+  "timestamp": "2026-05-25T00:06:51.758658Z",
+  "version": 1
+}

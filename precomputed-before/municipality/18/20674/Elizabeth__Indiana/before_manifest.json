@@ -1,0 +1,16 @@
+{
+  "article": "Elizabeth,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/20674/Elizabeth__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d687099f6ee8f572caeb4b927060b34b39311f80bce26aa77eabcab0136bb8fc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d687099f6ee8f572caeb4b927060b34b39311f80bce26aa77eabcab0136bb8fc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/20674/Elizabeth__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "20674",
+  "timestamp": "2026-05-24T23:39:34.097004Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Brule,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/06785/Brule__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7269786d0fe34f1c7fdc81e8bdb159d2acf33e576e33a11a1e9da3d622226bb6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7269786d0fe34f1c7fdc81e8bdb159d2acf33e576e33a11a1e9da3d622226bb6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/06785/Brule__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "06785",
+  "timestamp": "2026-05-24T23:55:14.673023Z",
+  "version": 1
+}

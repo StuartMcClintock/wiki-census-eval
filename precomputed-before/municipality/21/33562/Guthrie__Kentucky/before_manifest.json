@@ -1,0 +1,16 @@
+{
+  "article": "Guthrie,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/33562/Guthrie__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5eb0693f8fe8c69ec2ce055f3fe50a033406f1be5646f0ba90ec1c8f81637c9a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5eb0693f8fe8c69ec2ce055f3fe50a033406f1be5646f0ba90ec1c8f81637c9a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/33562/Guthrie__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "33562",
+  "timestamp": "2026-05-24T23:44:05.525742Z",
+  "version": 1
+}

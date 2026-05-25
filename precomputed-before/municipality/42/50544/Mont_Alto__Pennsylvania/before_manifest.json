@@ -1,0 +1,16 @@
+{
+  "article": "Mont_Alto,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/50544/Mont_Alto__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ddbe262dbcebabf3ca7cb9f7349dc0df4c130753cd9fd72ac97103224fe177bc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ddbe262dbcebabf3ca7cb9f7349dc0df4c130753cd9fd72ac97103224fe177bc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/50544/Mont_Alto__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "50544",
+  "timestamp": "2026-05-25T00:08:08.488440Z",
+  "version": 1
+}

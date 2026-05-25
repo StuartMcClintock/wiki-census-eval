@@ -1,0 +1,16 @@
+{
+  "article": "Woodville,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/86492/Woodville__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6c2e758d04afef6cf710913d71cf346ee3efc732342e5860e41c3f8919290e86",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6c2e758d04afef6cf710913d71cf346ee3efc732342e5860e41c3f8919290e86",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/86492/Woodville__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "86492",
+  "timestamp": "2026-05-25T00:05:41.125267Z",
+  "version": 1
+}

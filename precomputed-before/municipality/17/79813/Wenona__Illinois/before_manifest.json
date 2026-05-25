@@ -1,0 +1,16 @@
+{
+  "article": "Wenona,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/79813/Wenona__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0de82df54e3cfb4532de1665154a78c780213a64f9d56769bfd0a2213fe859fa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0de82df54e3cfb4532de1665154a78c780213a64f9d56769bfd0a2213fe859fa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/79813/Wenona__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "79813",
+  "timestamp": "2026-05-24T23:39:21.419274Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Tildenville,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/71850/Tildenville__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8b5eec58d455ed544d68478a72f3f7bf18048efcc19482a64918622bfaa38c2d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8b5eec58d455ed544d68478a72f3f7bf18048efcc19482a64918622bfaa38c2d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/71850/Tildenville__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "71850",
+  "timestamp": "2026-05-24T23:36:23.568212Z",
+  "version": 1
+}

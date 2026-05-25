@@ -1,0 +1,16 @@
+{
+  "article": "Excelsior_Estates,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/23077/Excelsior_Estates__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bf734ad56f3f9b1349f563dd2b988a68b8c5f094ecce781db141e8d628dceded",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bf734ad56f3f9b1349f563dd2b988a68b8c5f094ecce781db141e8d628dceded",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/23077/Excelsior_Estates__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "23077",
+  "timestamp": "2026-05-24T23:51:07.685197Z",
+  "version": 1
+}

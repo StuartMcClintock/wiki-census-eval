@@ -1,0 +1,16 @@
+{
+  "article": "Acequia,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/00280/Acequia__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a89a75cf3e7f7350caa0528134e677145b0073fce8248851392de8e84c262abd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a89a75cf3e7f7350caa0528134e677145b0073fce8248851392de8e84c262abd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/00280/Acequia__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "00280",
+  "timestamp": "2026-05-24T23:37:15.116527Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Lime_Village,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/44030/Lime_Village__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2354118d14c254b18e6a0bc92dd0352ec7f827f8c3a4cb0367c99c61320dfb48",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2354118d14c254b18e6a0bc92dd0352ec7f827f8c3a4cb0367c99c61320dfb48",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/44030/Lime_Village__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "44030",
+  "timestamp": "2026-05-24T23:32:25.829006Z",
+  "version": 1
+}

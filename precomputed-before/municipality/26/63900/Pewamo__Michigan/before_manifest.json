@@ -1,0 +1,16 @@
+{
+  "article": "Pewamo,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/63900/Pewamo__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8184889cba925de7701ae7eb9511dc51cdde51d91eb7d6b274f391a8d0036296",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8184889cba925de7701ae7eb9511dc51cdde51d91eb7d6b274f391a8d0036296",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/63900/Pewamo__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "63900",
+  "timestamp": "2026-05-24T23:48:23.480219Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Westover,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/83736/Westover__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d72fc6775031722fe0e5a925f434b5d2f68d7772b7f3540a4aa4ae6c7fc58418",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d72fc6775031722fe0e5a925f434b5d2f68d7772b7f3540a4aa4ae6c7fc58418",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/83736/Westover__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "83736",
+  "timestamp": "2026-05-25T00:09:29.358469Z",
+  "version": 1
+}

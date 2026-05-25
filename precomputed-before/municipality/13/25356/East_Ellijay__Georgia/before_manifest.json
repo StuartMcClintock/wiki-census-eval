@@ -1,0 +1,16 @@
+{
+  "article": "East_Ellijay,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/25356/East_Ellijay__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7d15d8d782c43d36bb0a022666ddd3ce9a43537c0722fc2e7fe401af6f7431a3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7d15d8d782c43d36bb0a022666ddd3ce9a43537c0722fc2e7fe401af6f7431a3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/25356/East_Ellijay__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "25356",
+  "timestamp": "2026-05-24T23:36:35.544157Z",
+  "version": 1
+}

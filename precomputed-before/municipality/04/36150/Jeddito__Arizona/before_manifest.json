@@ -1,0 +1,16 @@
+{
+  "article": "Jeddito,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/36150/Jeddito__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bbcab6c32636448a3bc75e8917d5fa0356ae2f6bfcd50182c2133f17bd0d3c88",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bbcab6c32636448a3bc75e8917d5fa0356ae2f6bfcd50182c2133f17bd0d3c88",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/36150/Jeddito__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "36150",
+  "timestamp": "2026-05-24T23:33:01.075438Z",
+  "version": 1
+}

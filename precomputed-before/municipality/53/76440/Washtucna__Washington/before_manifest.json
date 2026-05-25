@@ -1,0 +1,16 @@
+{
+  "article": "Washtucna,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/76440/Washtucna__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3cf77af8a1b008d34f0476a4c6dfde89692c08ab9752060f5f66f1c89bcb0f70",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3cf77af8a1b008d34f0476a4c6dfde89692c08ab9752060f5f66f1c89bcb0f70",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/76440/Washtucna__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "76440",
+  "timestamp": "2026-05-25T00:20:38.074258Z",
+  "version": 1
+}

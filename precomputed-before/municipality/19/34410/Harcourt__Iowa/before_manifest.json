@@ -1,0 +1,16 @@
+{
+  "article": "Harcourt,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/34410/Harcourt__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f72f538fc945af87ef47fb7cb684d82519e8aa32acb0dfe005f4ff4836433122",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f72f538fc945af87ef47fb7cb684d82519e8aa32acb0dfe005f4ff4836433122",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/34410/Harcourt__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "34410",
+  "timestamp": "2026-05-24T23:41:09.155452Z",
+  "version": 1
+}

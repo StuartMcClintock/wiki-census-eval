@@ -1,0 +1,16 @@
+{
+  "article": "Beverly_Hills,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/05248/Beverly_Hills__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "09ef0fa8ebabbfa962efd732a75ee5b979920bf003cb3c6d8197271b5b8dd3f5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "09ef0fa8ebabbfa962efd732a75ee5b979920bf003cb3c6d8197271b5b8dd3f5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/05248/Beverly_Hills__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "05248",
+  "timestamp": "2026-05-24T23:50:46.890248Z",
+  "version": 1
+}

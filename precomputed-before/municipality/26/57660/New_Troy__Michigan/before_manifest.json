@@ -1,0 +1,16 @@
+{
+  "article": "New_Troy,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/57660/New_Troy__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d05bc50a2873b1300b59a3d9f676b64cffdf7d41d38ea0272241b79e8bc677ee",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d05bc50a2873b1300b59a3d9f676b64cffdf7d41d38ea0272241b79e8bc677ee",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/57660/New_Troy__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "57660",
+  "timestamp": "2026-05-24T23:48:08.783279Z",
+  "version": 1
+}

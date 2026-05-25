@@ -1,0 +1,16 @@
+{
+  "article": "Lake_City,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/41040/Lake_City__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f446ac1a647dd6b8d3527bb9ceb10e0d6a8be61dbc558e375385519d8532e530",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f446ac1a647dd6b8d3527bb9ceb10e0d6a8be61dbc558e375385519d8532e530",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/41040/Lake_City__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "41040",
+  "timestamp": "2026-05-24T23:38:27.139151Z",
+  "version": 1
+}

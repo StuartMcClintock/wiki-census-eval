@@ -1,0 +1,16 @@
+{
+  "article": "Ridgeville,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/64656/Ridgeville__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b70b6c7ff11b05e51e4fea31e1243eb7ff0b8a343e49b938c49f015301b7fa3c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b70b6c7ff11b05e51e4fea31e1243eb7ff0b8a343e49b938c49f015301b7fa3c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/64656/Ridgeville__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "64656",
+  "timestamp": "2026-05-24T23:32:10.556069Z",
+  "version": 1
+}

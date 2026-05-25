@@ -1,0 +1,16 @@
+{
+  "article": "Cortland,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/10635/Cortland__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ad7f2f5ad0661df1ba0bf8590f1084ad9a74a39210dc063de2a6e2e32a367002",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ad7f2f5ad0661df1ba0bf8590f1084ad9a74a39210dc063de2a6e2e32a367002",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/10635/Cortland__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "10635",
+  "timestamp": "2026-05-24T23:55:19.457308Z",
+  "version": 1
+}

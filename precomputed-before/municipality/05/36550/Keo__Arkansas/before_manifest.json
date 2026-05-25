@@ -1,0 +1,16 @@
+{
+  "article": "Keo,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/36550/Keo__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a3dde0716630bbb5ca85b3bb4d64619140a26cb274c48eb2f9aa202055a3c9cd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a3dde0716630bbb5ca85b3bb4d64619140a26cb274c48eb2f9aa202055a3c9cd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/36550/Keo__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "36550",
+  "timestamp": "2026-05-24T23:33:48.975690Z",
+  "version": 1
+}

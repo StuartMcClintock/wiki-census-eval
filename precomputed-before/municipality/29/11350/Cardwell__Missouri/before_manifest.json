@@ -1,0 +1,16 @@
+{
+  "article": "Cardwell,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/11350/Cardwell__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e92e6183ae729600dc08c182e3e1df1e135cce6372c5b27f9e4ef0b269986735",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e92e6183ae729600dc08c182e3e1df1e135cce6372c5b27f9e4ef0b269986735",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/11350/Cardwell__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "11350",
+  "timestamp": "2026-05-24T23:50:52.832834Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Ali_Chukson,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/01570/Ali_Chukson__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8cb322dd4808141aecb774f009edbcfeba54c79f4781ac089ab054f966cfc000",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8cb322dd4808141aecb774f009edbcfeba54c79f4781ac089ab054f966cfc000",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/01570/Ali_Chukson__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "01570",
+  "timestamp": "2026-05-24T23:32:47.113539Z",
+  "version": 1
+}

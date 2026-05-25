@@ -1,0 +1,16 @@
+{
+  "article": "Twin_Lakes,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/73065/Twin_Lakes__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6bbf0f44f2e84fa6db6af8ef05d7bffbe50374245d6b4c0703615f41eb6593ca",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6bbf0f44f2e84fa6db6af8ef05d7bffbe50374245d6b4c0703615f41eb6593ca",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/73065/Twin_Lakes__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "73065",
+  "timestamp": "2026-05-25T00:20:36.515344Z",
+  "version": 1
+}

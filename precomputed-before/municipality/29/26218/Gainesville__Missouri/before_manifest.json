@@ -1,0 +1,16 @@
+{
+  "article": "Gainesville,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/26218/Gainesville__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7370980812334a290ded0a40f2f1b121d34242aa698afb288732eb8ccc7d5b02",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7370980812334a290ded0a40f2f1b121d34242aa698afb288732eb8ccc7d5b02",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/26218/Gainesville__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "26218",
+  "timestamp": "2026-05-24T23:51:11.491152Z",
+  "version": 1
+}

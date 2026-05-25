@@ -1,0 +1,16 @@
+{
+  "article": "North_Walpole,_New_Hampshire",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/33/56420/North_Walpole__New_Hampshire/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7b81eccf5613963a29165ff07c19c6fe85d13a601836fcff4cad45bf1375001d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7b81eccf5613963a29165ff07c19c6fe85d13a601836fcff4cad45bf1375001d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/33/56420/North_Walpole__New_Hampshire/manifest.json",
+  "state_fips": "33",
+  "status": "match",
+  "target_fips": "56420",
+  "timestamp": "2026-05-24T23:57:36.831943Z",
+  "version": 1
+}

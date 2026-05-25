@@ -1,0 +1,16 @@
+{
+  "article": "Between,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/07640/Between__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "68082c73ae9b6660026007354465b00fe89c4dcba1629fdc3f90f1b803b49e67",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "68082c73ae9b6660026007354465b00fe89c4dcba1629fdc3f90f1b803b49e67",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/07640/Between__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "07640",
+  "timestamp": "2026-05-24T23:36:28.517330Z",
+  "version": 1
+}

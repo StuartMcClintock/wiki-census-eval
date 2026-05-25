@@ -1,0 +1,16 @@
+{
+  "article": "Gisela,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/27540/Gisela__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8c7c6c5454f1096ea5d06b473c2f7d31339b27a20451a64a97afdb94a6a093fe",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8c7c6c5454f1096ea5d06b473c2f7d31339b27a20451a64a97afdb94a6a093fe",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/27540/Gisela__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "27540",
+  "timestamp": "2026-05-24T23:32:55.268190Z",
+  "version": 1
+}

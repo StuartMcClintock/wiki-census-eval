@@ -1,0 +1,16 @@
+{
+  "article": "Buckshot,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/08020/Buckshot__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "38f9f86fdeb3ed8590eff73956e1ffcb013ec07330bfaccafd8538eb2206e430",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "38f9f86fdeb3ed8590eff73956e1ffcb013ec07330bfaccafd8538eb2206e430",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/08020/Buckshot__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "08020",
+  "timestamp": "2026-05-24T23:32:49.300635Z",
+  "version": 1
+}

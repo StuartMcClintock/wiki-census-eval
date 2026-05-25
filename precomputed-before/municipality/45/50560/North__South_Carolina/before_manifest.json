@@ -1,0 +1,16 @@
+{
+  "article": "North,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/50560/North__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dcb7ac305a938f805a0dd1a23ca1999e274008b987f03a884e4ab2e1891ce350",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dcb7ac305a938f805a0dd1a23ca1999e274008b987f03a884e4ab2e1891ce350",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/50560/North__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "50560",
+  "timestamp": "2026-05-25T00:10:15.022156Z",
+  "version": 1
+}

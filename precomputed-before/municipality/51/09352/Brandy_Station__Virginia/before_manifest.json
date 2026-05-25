@@ -1,0 +1,16 @@
+{
+  "article": "Brandy_Station,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/09352/Brandy_Station__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f3510056dc52182779098fd5a6bdc7a8440f1587ce77f677ff52f6066fe5c98a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f3510056dc52182779098fd5a6bdc7a8440f1587ce77f677ff52f6066fe5c98a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/09352/Brandy_Station__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "09352",
+  "timestamp": "2026-05-25T00:19:02.530494Z",
+  "version": 1
+}

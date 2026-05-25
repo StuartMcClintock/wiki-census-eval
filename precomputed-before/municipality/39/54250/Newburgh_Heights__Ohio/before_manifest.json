@@ -1,0 +1,16 @@
+{
+  "article": "Newburgh_Heights,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/54250/Newburgh_Heights__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e71546cc5c5f4ad73a033e062eceb1b6f888547e23381ff45730909b26b5db3c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e71546cc5c5f4ad73a033e062eceb1b6f888547e23381ff45730909b26b5db3c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/54250/Newburgh_Heights__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "54250",
+  "timestamp": "2026-05-25T00:04:51.721455Z",
+  "version": 1
+}

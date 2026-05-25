@@ -1,0 +1,16 @@
+{
+  "article": "Fullerton,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/17810/Fullerton__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d7ca831d75c7c312b5f557da5411325d3788e34f7eb556027295f7aafa6cbfba",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d7ca831d75c7c312b5f557da5411325d3788e34f7eb556027295f7aafa6cbfba",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/17810/Fullerton__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "17810",
+  "timestamp": "2026-05-24T23:55:27.694701Z",
+  "version": 1
+}

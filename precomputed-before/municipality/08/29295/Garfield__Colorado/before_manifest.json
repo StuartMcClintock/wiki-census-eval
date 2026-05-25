@@ -1,0 +1,16 @@
+{
+  "article": "Garfield,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/29295/Garfield__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7181b221de42095fc193f8f05573808bea1c768f9c5f9d69219611e4f547bb0b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7181b221de42095fc193f8f05573808bea1c768f9c5f9d69219611e4f547bb0b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/29295/Garfield__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "29295",
+  "timestamp": "2026-05-24T23:35:26.227647Z",
+  "version": 1
+}

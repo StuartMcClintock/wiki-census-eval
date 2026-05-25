@@ -1,0 +1,16 @@
+{
+  "article": "New_Market,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/53872/New_Market__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "315cf1eaa681a7d0ee1c0432ef9dc2246d59d4247d8e5051d0255e92d5a55c75",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "315cf1eaa681a7d0ee1c0432ef9dc2246d59d4247d8e5051d0255e92d5a55c75",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/53872/New_Market__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "53872",
+  "timestamp": "2026-05-25T00:08:16.926016Z",
+  "version": 1
+}

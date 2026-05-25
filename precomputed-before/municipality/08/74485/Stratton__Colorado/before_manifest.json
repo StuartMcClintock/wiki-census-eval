@@ -1,0 +1,16 @@
+{
+  "article": "Stratton,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/74485/Stratton__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b31b157d2db8029632146545f80b36ba597ad9629f01215a02e09761aa56a784",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b31b157d2db8029632146545f80b36ba597ad9629f01215a02e09761aa56a784",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/74485/Stratton__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "74485",
+  "timestamp": "2026-05-24T23:35:41.984686Z",
+  "version": 1
+}

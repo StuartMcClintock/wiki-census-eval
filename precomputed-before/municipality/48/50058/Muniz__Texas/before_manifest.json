@@ -1,0 +1,16 @@
+{
+  "article": "Muniz,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/50058/Muniz__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "24904cdb5cb7c4dc3be64e6acec323101c104991c685d4ba74ce40aaab41fb2b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "24904cdb5cb7c4dc3be64e6acec323101c104991c685d4ba74ce40aaab41fb2b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/50058/Muniz__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "50058",
+  "timestamp": "2026-05-25T00:16:04.855149Z",
+  "version": 1
+}

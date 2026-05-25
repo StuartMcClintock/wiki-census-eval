@@ -1,0 +1,16 @@
+{
+  "article": "Ossian,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/59970/Ossian__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0fcee6fc8c26ee4f1559fb9b3b4156198027258c1822a3aac7103f43fa674b83",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0fcee6fc8c26ee4f1559fb9b3b4156198027258c1822a3aac7103f43fa674b83",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/59970/Ossian__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "59970",
+  "timestamp": "2026-05-24T23:41:35.403455Z",
+  "version": 1
+}

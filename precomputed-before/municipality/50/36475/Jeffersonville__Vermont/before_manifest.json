@@ -1,0 +1,16 @@
+{
+  "article": "Jeffersonville,_Vermont",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/50/36475/Jeffersonville__Vermont/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4d8c81fa6d4cea3de458f82b4c1c795be208b9ea028a148efef0dd39c6fe00f4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4d8c81fa6d4cea3de458f82b4c1c795be208b9ea028a148efef0dd39c6fe00f4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/50/36475/Jeffersonville__Vermont/manifest.json",
+  "state_fips": "50",
+  "status": "match",
+  "target_fips": "36475",
+  "timestamp": "2026-05-25T00:17:15.829139Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Fosston,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/21986/Fosston__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3572db4b56a48c13858cf2656a8cd8201b62771d55772ebdbbb0d075772e1bf1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3572db4b56a48c13858cf2656a8cd8201b62771d55772ebdbbb0d075772e1bf1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/21986/Fosston__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "21986",
+  "timestamp": "2026-05-24T23:48:56.120137Z",
+  "version": 1
+}

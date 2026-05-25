@@ -1,0 +1,16 @@
+{
+  "article": "Bedford,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/06045/Bedford__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ee822352aac88c8851146350d89b9d9272059856e58b682691a16c66e79abfb6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ee822352aac88c8851146350d89b9d9272059856e58b682691a16c66e79abfb6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/06045/Bedford__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "06045",
+  "timestamp": "2026-05-25T00:23:08.628744Z",
+  "version": 1
+}

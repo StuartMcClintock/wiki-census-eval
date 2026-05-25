@@ -1,0 +1,63 @@
+==Demographics==
+{{US Census population
+|1870= 329
+|1880= 393
+|1890= 576
+|1900= 468
+|1910= 604
+|1920= 278
+|1930= 502
+|1940= 663
+|1950= 1000
+|1960= 1562
+|1970= 1725
+|1980= 2160
+|1990= 2287
+|2000= 2428
+|2010= 2680
+|2020= 2703
+|footnote=Sources:<ref name="GR9">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|publisher=[[United States Census Bureau]]|access-date=March 4, 2012|title=Census of Population and Housing: Decennial Censuses}}</ref><ref name=CensusPopEst>{{cite web|title=Incorporated Places and Minor Civil Divisions Datasets: Subcounty Resident Population Estimates: April 1, 2010 to July 1, 2012|url=https://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|work=Population Estimates|publisher=U.S. Census Bureau|access-date=December 11, 2013|url-status=dead|archive-url=https://web.archive.org/web/20130611010502/http://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|archive-date=June 11, 2013}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A47|title=Census Population API|publisher=United States Census Bureau|accessdate=October 15, 2022}}</ref>
+}}
+
+===2020 census===
+{| class="wikitable" style="text-align:right"
+|+Woodbury racial composition<ref>{{Cite web|title=Explore Census Data|url=https://data.census.gov/cedsci/table?g=1600000US4781560&tid=DECENNIALPL2020.P2|access-date=December 26, 2021|website=data.census.gov}}</ref>
+!scope="col"| Race
+!scope="col"| Number
+!scope="col"| Percentage
+|-
+!scope="row"| [[White (U.S. Census)|White]] (non-Hispanic)
+| 2,382
+| 88.12%
+|-
+!scope="row"| [[African American (U.S. Census)|Black or African American]] (non-Hispanic)
+| 88
+| 3.26%
+|-
+!scope="row"| [[Native American (U.S. Census)|Native American]]
+| 5
+| 0.18%
+|-
+!scope="row"| [[Asian (U.S. Census)|Asian]]
+| 20
+| 0.74%
+|-
+!scope="row"| [[Race (United States Census)|Other/Mixed]]
+| 100
+| 3.7%
+|-
+!scope="row"| [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]]
+| 108
+| 4.0%
+|}
+As of the [[2020 United States census]], there were 2,703 people, 1,139 households, and 609 families residing in the town.
+
+===2010 census===
+As of the [[census]]<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=January 31, 2008|title=U.S. Census website}}</ref> of 2010, there were 2,680 people, 1,052 households, and 608 families residing in the town. The [[population density]] was {{convert|1,552.0|/mi2|/km2|disp=preunit|people&nbsp;|people}}. There were 1,159 housing units at an average density of {{convert|671.1|/mi2|/km2}}. The racial makeup of the town was 94.36% [[White (U.S. Census)|White]], 3.83% [[African American (U.S. Census)|African American]], 0.54% [[Native American (U.S. Census)|Native American]], 0.04% [[Asian (U.S. Census)|Asian]], 0.04% [[Pacific Islander (U.S. Census)|Pacific Islander]], 0.41% from [[Race (United States Census)|other races]], and 0.78% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 2.35% of the population.
+
+There were 1,052 households, out of which 27.3% had children under the age of 18 living with them, 37.1% were [[Marriage|married couples]] living together, 16.6% had a female householder with no husband present, and 42.2% were non-families. 39.5% of all households were made up of individuals, and 19.7% had someone living alone who was 65 years of age or older. The average household size was 2.16 and the average family size was 2.88.
+
+In the town, the population was spread out, with 23.1% under the age of 18, 10.2% from 18 to 24, 23.4% from 25 to 44, 21.7% from 45 to 64, and 21.6% who were 65 years of age or older. The median age was 40 years. For every 100 females, there were 80.0 males. For every 100 females age 18 and over, there were 71.8 males.
+
+The median income for a household in the town was $23,846, and the median income for a family was $33,889. Males had a median income of $28,636 versus $19,231 for females. The [[per capita income]] for the town was $17,557. About 17.9% of families and 23.1% of the population were below the [[poverty line]], including 34.2% of those under age 18 and 24.5% of those age 65 or over.
+

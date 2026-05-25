@@ -1,0 +1,16 @@
+{
+  "article": "Salineville,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/70100/Salineville__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a4bc2af0172a89d2ef1748dcd3fd531be83e12e0413f36c6f24ed4f92c36d442",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a4bc2af0172a89d2ef1748dcd3fd531be83e12e0413f36c6f24ed4f92c36d442",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/70100/Salineville__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "70100",
+  "timestamp": "2026-05-25T00:05:14.513156Z",
+  "version": 1
+}

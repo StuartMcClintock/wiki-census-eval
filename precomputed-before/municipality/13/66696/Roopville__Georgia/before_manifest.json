@@ -1,0 +1,16 @@
+{
+  "article": "Roopville,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/66696/Roopville__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0c8049fb84caa577297d8ea713a368279c3a271cf194c070cda6a5db8686ef8b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0c8049fb84caa577297d8ea713a368279c3a271cf194c070cda6a5db8686ef8b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/66696/Roopville__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "66696",
+  "timestamp": "2026-05-24T23:37:05.938024Z",
+  "version": 1
+}

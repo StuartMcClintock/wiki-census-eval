@@ -1,0 +1,16 @@
+{
+  "article": "Centralia,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/12425/Centralia__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a2970a7958dd927e055a0a8756a1c6d55ac17abd0369038dcf73fac6c029ea8b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a2970a7958dd927e055a0a8756a1c6d55ac17abd0369038dcf73fac6c029ea8b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/12425/Centralia__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "12425",
+  "timestamp": "2026-05-24T23:42:27.068098Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Columbus,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/16768/Columbus__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dd910a75bccbf388d0c719b13207ad8c6bb020b503c6f7b04d613c32badf8d2f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dd910a75bccbf388d0c719b13207ad8c6bb020b503c6f7b04d613c32badf8d2f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/16768/Columbus__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "16768",
+  "timestamp": "2026-05-24T23:43:48.693709Z",
+  "version": 1
+}

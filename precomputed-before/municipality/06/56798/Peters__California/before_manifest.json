@@ -1,0 +1,16 @@
+{
+  "article": "Peters,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/56798/Peters__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ee8c2cfbf5dff265e91adc29f5e42b364a917bc2f5c902fd9682b7c4cd8b8f01",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ee8c2cfbf5dff265e91adc29f5e42b364a917bc2f5c902fd9682b7c4cd8b8f01",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/56798/Peters__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "56798",
+  "timestamp": "2026-05-24T23:34:45.995554Z",
+  "version": 1
+}

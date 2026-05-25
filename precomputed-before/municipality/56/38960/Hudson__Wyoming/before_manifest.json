@@ -1,0 +1,16 @@
+{
+  "article": "Hudson,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/38960/Hudson__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9618469c5c48d9156f9c4538994ddb78dee8b7c3d1b111562a9699106b7e768b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9618469c5c48d9156f9c4538994ddb78dee8b7c3d1b111562a9699106b7e768b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/38960/Hudson__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "38960",
+  "timestamp": "2026-05-25T00:23:15.952442Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Superior,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/47815/Superior__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "690cf289211e804d8ec98b5478b04086226762025d4dfa4b6784c472dadad6c3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "690cf289211e804d8ec98b5478b04086226762025d4dfa4b6784c472dadad6c3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/47815/Superior__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "47815",
+  "timestamp": "2026-05-24T23:57:19.147243Z",
+  "version": 1
+}

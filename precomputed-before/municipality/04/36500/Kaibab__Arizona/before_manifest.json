@@ -1,0 +1,16 @@
+{
+  "article": "Kaibab,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/36500/Kaibab__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2d4838ed5912c0a49f5adb1d5411162211283d4a453651f7a760d0e6f9490788",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2d4838ed5912c0a49f5adb1d5411162211283d4a453651f7a760d0e6f9490788",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/36500/Kaibab__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "36500",
+  "timestamp": "2026-05-24T23:33:01.477401Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Union_City,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/78448/Union_City__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d7492d960856ff91b615e894d455ca719bc09f796e273d3b1444e6256bd8b054",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d7492d960856ff91b615e894d455ca719bc09f796e273d3b1444e6256bd8b054",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/78448/Union_City__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "78448",
+  "timestamp": "2026-05-25T00:09:20.906997Z",
+  "version": 1
+}

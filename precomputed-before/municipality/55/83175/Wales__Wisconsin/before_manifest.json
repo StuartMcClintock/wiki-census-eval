@@ -1,0 +1,16 @@
+{
+  "article": "Wales,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/83175/Wales__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b1f0d9a5b95cd9b96ae1258b12f5d78c259b28c0f04fda9678c45bcf69e78b3e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b1f0d9a5b95cd9b96ae1258b12f5d78c259b28c0f04fda9678c45bcf69e78b3e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/83175/Wales__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "83175",
+  "timestamp": "2026-05-25T00:23:01.473498Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Schuylkill_Haven,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/68312/Schuylkill_Haven__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2be1650ee8b9b51c3b80278ee8492919a4367495239192eac78de32abd7d9fbb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2be1650ee8b9b51c3b80278ee8492919a4367495239192eac78de32abd7d9fbb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/68312/Schuylkill_Haven__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "68312",
+  "timestamp": "2026-05-25T00:08:58.464739Z",
+  "version": 1
+}

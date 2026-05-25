@@ -1,0 +1,16 @@
+{
+  "article": "Roca,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/41830/Roca__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "874ffe92e774fdd8096a5a2b5a4f9e7303afaf90cfbfb9e5d37a310694593cab",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "874ffe92e774fdd8096a5a2b5a4f9e7303afaf90cfbfb9e5d37a310694593cab",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/41830/Roca__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "41830",
+  "timestamp": "2026-05-24T23:57:13.425560Z",
+  "version": 1
+}

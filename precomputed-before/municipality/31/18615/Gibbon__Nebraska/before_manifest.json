@@ -1,0 +1,16 @@
+{
+  "article": "Gibbon,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/18615/Gibbon__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "088905e0324b3c41b2ae00a715ca27d49277294e891ecb87b354c0863fd6aa74",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "088905e0324b3c41b2ae00a715ca27d49277294e891ecb87b354c0863fd6aa74",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/18615/Gibbon__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "18615",
+  "timestamp": "2026-05-24T23:55:28.341376Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Townville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/77232/Townville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b604e230c13fee9e5e3fe09dce6cb62c576fac8207402f5fd9fde7071d6c914d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b604e230c13fee9e5e3fe09dce6cb62c576fac8207402f5fd9fde7071d6c914d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/77232/Townville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "77232",
+  "timestamp": "2026-05-25T00:09:17.867264Z",
+  "version": 1
+}

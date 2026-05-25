@@ -1,0 +1,16 @@
+{
+  "article": "Brick_Center,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/08530/Brick_Center__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1cdb3c9cdf1b30178c09f05bb7515b1f7867097221e63aa91cb034bc77202455",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1cdb3c9cdf1b30178c09f05bb7515b1f7867097221e63aa91cb034bc77202455",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/08530/Brick_Center__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "08530",
+  "timestamp": "2026-05-24T23:35:20.090634Z",
+  "version": 1
+}

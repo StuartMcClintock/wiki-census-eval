@@ -1,0 +1,16 @@
+{
+  "article": "Lawrenceville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/42016/Lawrenceville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f64dcf00e4229227139d48e182b2b404cee3db1b08b14c43d4606291f6d8c991",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f64dcf00e4229227139d48e182b2b404cee3db1b08b14c43d4606291f6d8c991",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/42016/Lawrenceville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "42016",
+  "timestamp": "2026-05-25T00:07:49.400588Z",
+  "version": 1
+}

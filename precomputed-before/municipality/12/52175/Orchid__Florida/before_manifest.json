@@ -1,0 +1,16 @@
+{
+  "article": "Orchid,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/52175/Orchid__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5975b23f6c4b7d5bb536451c67655a862f5fdb871ef324422ae5782ca45d1736",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5975b23f6c4b7d5bb536451c67655a862f5fdb871ef324422ae5782ca45d1736",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/52175/Orchid__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "52175",
+  "timestamp": "2026-05-24T23:36:19.982636Z",
+  "version": 1
+}

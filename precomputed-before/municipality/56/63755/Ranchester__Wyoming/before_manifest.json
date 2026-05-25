@@ -1,0 +1,16 @@
+{
+  "article": "Ranchester,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/63755/Ranchester__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "52c61b5e16a66c01c9544aa9d0fe69380a0bdb4c75e7074e21403397dd0c4629",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "52c61b5e16a66c01c9544aa9d0fe69380a0bdb4c75e7074e21403397dd0c4629",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/63755/Ranchester__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "63755",
+  "timestamp": "2026-05-25T00:23:21.922346Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Ohlman,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/55418/Ohlman__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c451350e0c6e260c51e7c4c54dd25f489cbc65a648003e3a4415670921b91dca",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c451350e0c6e260c51e7c4c54dd25f489cbc65a648003e3a4415670921b91dca",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/55418/Ohlman__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "55418",
+  "timestamp": "2026-05-24T23:38:42.798921Z",
+  "version": 1
+}

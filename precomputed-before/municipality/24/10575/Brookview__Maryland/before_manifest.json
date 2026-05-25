@@ -1,0 +1,16 @@
+{
+  "article": "Brookview,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/10575/Brookview__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e6874afea844dd0eddbd2668c1313dbe9d2de76bd8111aec5cc493488a8b02f7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e6874afea844dd0eddbd2668c1313dbe9d2de76bd8111aec5cc493488a8b02f7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/10575/Brookview__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "10575",
+  "timestamp": "2026-05-24T23:47:15.250036Z",
+  "version": 1
+}

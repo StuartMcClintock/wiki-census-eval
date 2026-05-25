@@ -1,0 +1,105 @@
+==Demographics==
+{{US Census population
+|1900= 1226
+|1910= 1584
+|1920= 1859
+|1930= 2064
+|1940= 2202
+|1950= 2143
+|1960= 3074
+|1970= 3169
+|1980= 2841
+|1990= 2613
+|2000= 2453
+|2010= 2546
+|2020= 2474
+|footnote=<ref>{{cite web |title=Census 2020|url=https://pasdc.hbg.psu.edu/Portals/48/Features/CountyAndMunicipalPopulationChange_2010to2020.xlsx?ver=2021-08-24-080135-920}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A42|title=Census Population API|publisher=United States Census Bureau|accessdate=Oct 12, 2022}}</ref>
+}}
+
+===2020 census===
+{| class="wikitable" style="text-align:center;"
+|+'''Colwyn borough, Pennsylvania  – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Colwyn borough, Delaware County, Pennsylvania |url=https://data.census.gov/table?g=060XX00US4204515432&tid=DECENNIALSF12000.P004|website=[[United States Census Bureau]] |access-date= }}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Colwyn borough, Delaware County, Pennsylvania |url=https://data.census.gov/cedsci/table?q=p2&g=060XX00US4204515432&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Colwyn borough, Delaware County, Pennsylvania |url=https://data.census.gov/cedsci/table?q=p2&g=060XX00US4204515432&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!% 2000
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|1,041
+|395
+|style='background: #ffffe6; |225
+|42.44%
+|15.51%
+|style='background: #ffffe6; |9.09%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|1,262
+|2,024
+|style='background: #ffffe6; |2,052
+|51.45%
+|79.50%
+|style='background: #ffffe6; |82.94%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|3
+|1
+|style='background: #ffffe6; |0
+|0.12%
+|0.04%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|24
+|19
+|style='background: #ffffe6; |21
+|0.98%
+|0.75%
+|style='background: #ffffe6; |0.85%
+|-
+|[[Native Hawaiian]] or [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|1
+|style='background: #ffffe6; |0
+|0.00%
+|0.04%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|13
+|5
+|style='background: #ffffe6; |0
+|0.53%
+|0.20%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|70
+|59
+|style='background: #ffffe6; |114
+|2.85%
+|2.32%
+|style='background: #ffffe6; |4.61%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|40
+|42
+|style='background: #ffffe6; |62
+|1.63%
+|1.65%
+|style='background: #ffffe6; |2.51%
+|-
+|'''Total'''
+|'''2,453'''
+|'''2,546'''
+|style='background: #ffffe6; |'''2,474'''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+===2010 census===
+As of 2010 census, the racial makeup of the borough was 15.9% [[White (U.S. Census)|White]], 80.1% [[African American (U.S. Census)|African American]], 0.7% [[Asian (U.S. Census)|Asian]], 0.6% from [[Race (United States Census)|other races]], and 2.6% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 1.6% of the population. 25.7% of the borough's population was foreign-born, mostly African-born.<ref>[https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?src=CF]{{dead link|date=July 2020|bot=medic}}{{cbignore|bot=medic}}</ref>
+

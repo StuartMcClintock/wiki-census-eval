@@ -1,0 +1,16 @@
+{
+  "article": "Falkner,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/24220/Falkner__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bdc86e3d7a63822c6182db5a949a27486d40528508078d2cdba791c5899babdf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bdc86e3d7a63822c6182db5a949a27486d40528508078d2cdba791c5899babdf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/24220/Falkner__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "24220",
+  "timestamp": "2026-05-24T23:50:09.679599Z",
+  "version": 1
+}

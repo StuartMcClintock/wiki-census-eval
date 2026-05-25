@@ -1,0 +1,16 @@
+{
+  "article": "Pine_Grove,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/63892/Pine_Grove__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9fbf5da088b34a99d5bde9e282bb6199b87c6b21c690330134698ad2a202a99c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9fbf5da088b34a99d5bde9e282bb6199b87c6b21c690330134698ad2a202a99c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/63892/Pine_Grove__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "63892",
+  "timestamp": "2026-05-25T00:21:21.155737Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Hazel_Green,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/33500/Hazel_Green__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f81525e06b6e55c2b431aa2ecaa08b58af46eb9361e6812a80b95d2859cf1dfd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f81525e06b6e55c2b431aa2ecaa08b58af46eb9361e6812a80b95d2859cf1dfd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/33500/Hazel_Green__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "33500",
+  "timestamp": "2026-05-25T00:22:11.839745Z",
+  "version": 1
+}

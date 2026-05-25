@@ -1,0 +1,16 @@
+{
+  "article": "Virgilina,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/81312/Virgilina__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "22ad19a51b239cd43bf528df1d31763c0927155df7f4f71bb6005c9379fd0a54",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "22ad19a51b239cd43bf528df1d31763c0927155df7f4f71bb6005c9379fd0a54",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/81312/Virgilina__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "81312",
+  "timestamp": "2026-05-25T00:19:43.404839Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Sadorus,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/66534/Sadorus__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "81f974d7cc81b31bb0a67bf1981d331d1275d817350fa559a174d55158931ac6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "81f974d7cc81b31bb0a67bf1981d331d1275d817350fa559a174d55158931ac6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/66534/Sadorus__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "66534",
+  "timestamp": "2026-05-24T23:39:08.276078Z",
+  "version": 1
+}

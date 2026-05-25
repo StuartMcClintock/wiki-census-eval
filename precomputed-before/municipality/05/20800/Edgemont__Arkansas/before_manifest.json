@@ -1,0 +1,16 @@
+{
+  "article": "Edgemont,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/20800/Edgemont__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c0f5b602b3615b3e57c15ae339af733a8c88d68169e1269ca74d771609c208bf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c0f5b602b3615b3e57c15ae339af733a8c88d68169e1269ca74d771609c208bf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/20800/Edgemont__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "20800",
+  "timestamp": "2026-05-24T23:33:28.212663Z",
+  "version": 1
+}

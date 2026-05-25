@@ -1,0 +1,16 @@
+{
+  "article": "Avalon,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/02660/Avalon__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "33694cac14f44e7c8aa6c4b3e243f2dc5de6b3993541025946fa4a88e1d7b50b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "33694cac14f44e7c8aa6c4b3e243f2dc5de6b3993541025946fa4a88e1d7b50b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/02660/Avalon__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "02660",
+  "timestamp": "2026-05-24T23:36:06.959398Z",
+  "version": 1
+}

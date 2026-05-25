@@ -1,0 +1,16 @@
+{
+  "article": "Groom,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/31292/Groom__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "056578e4dc196f20f569119e6336883e1318260ef695573d39e37d3ddb50242b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "056578e4dc196f20f569119e6336883e1318260ef695573d39e37d3ddb50242b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/31292/Groom__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "31292",
+  "timestamp": "2026-05-25T00:15:40.316242Z",
+  "version": 1
+}

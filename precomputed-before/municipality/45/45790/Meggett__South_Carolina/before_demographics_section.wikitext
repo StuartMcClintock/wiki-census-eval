@@ -1,0 +1,55 @@
+==Demographics==
+{{US Census population
+|1950= 224
+|1960= 188
+|1970= 180
+|1980= 249
+|1990= 787
+|2000= 1230
+|2010= 1226
+|2020= 1390
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2015}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A45|title=Census Population API|publisher=United States Census Bureau|accessdate=October 15, 2022}}</ref>
+}}
+
+===2020 census===
+{| class="wikitable"
+|+Meggett racial composition<ref>{{Cite web|title=Explore Census Data|url=https://data.census.gov/cedsci/table?g=1600000US4545790&tid=DECENNIALPL2020.P2|access-date=December 15, 2021|website=data.census.gov}}</ref>
+!Race
+!Num.
+!Perc.
+|-
+|[[White (U.S. Census)|White]] (non-Hispanic)
+|1,200
+|86.33%
+|-
+|[[African American (U.S. Census)|Black or African American]] (non-Hispanic)
+|112
+|8.06%
+|-
+|[[Native American (U.S. Census)|Native American]]
+|2
+|0.14%
+|-
+|[[Asian (U.S. Census)|Asian]]
+|10
+|0.72%
+|-
+|[[Race (United States Census)|Other/Mixed]]
+|33
+|2.37%
+|-
+|[[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]]
+|33
+|2.37%
+|}
+As of the [[2020 United States census]], there were 1,390 people, 498 households, and 325 families residing in the town.
+
+===2000 census===
+As of the [[census]]<ref name="GR2" /> of 2000, there were 1,230 people, 484 households, and 377 families residing in the town. The population density was {{convert|84.4|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 540 housing units at an average density of {{convert|37.1|/sqmi|/km2|sp=us|adj=off}}. The racial makeup of the town was 78.78% [[White (U.S. Census)|White]], 20.24% [[African American (U.S. Census)|African American]], 0.41% [[Native American (U.S. Census)|Native American]], 0.08% [[Asian (U.S. Census)|Asian]], and 0.49% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 0.57% of the population.
+
+There were 484 households, out of which 28.3% had children under the age of 18 living with them, 67.8% were [[Marriage|married couples]] living together, 6.8% had a female householder with no husband present, and 22.1% were non-families. 18.8% of all households were made up of individuals, and 8.5% had someone living alone who was 65 years of age or older. The average household size was 2.54 and the average family size was 2.90.
+
+In the town, the population was spread out, with 21.5% under the age of 18, 5.9% from 18 to 24, 25.5% from 25 to 44, 33.5% from 45 to 64, and 13.7% who were 65 years of age or older. The median age was 44 years. For every 100 females, there were 105.3 males. For every 100 females age 18 and over, there were 103.8 males.
+
+The median income for a household in the town was $45,809, and the median income for a family was $51,667. Males had a median income of $36,563 versus $26,375 for females. The [[per capita income]] for the town was $22,906. About 6.0% of families and 9.3% of the population were below the [[poverty line]], including 10.8% of those under age 18 and 10.7% of those age 65 or over.
+

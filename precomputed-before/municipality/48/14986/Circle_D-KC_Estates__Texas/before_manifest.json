@@ -1,0 +1,16 @@
+{
+  "article": "Circle_D-KC_Estates,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/14986/Circle_D-KC_Estates__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "352e0e415e10f2d00cdec32b2f37e79ca2e2a0d545401734520352c490dfb4b2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "352e0e415e10f2d00cdec32b2f37e79ca2e2a0d545401734520352c490dfb4b2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/14986/Circle_D-KC_Estates__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "14986",
+  "timestamp": "2026-05-25T00:15:25.375336Z",
+  "version": 1
+}

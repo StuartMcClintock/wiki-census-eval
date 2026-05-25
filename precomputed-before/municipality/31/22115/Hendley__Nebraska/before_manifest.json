@@ -1,0 +1,16 @@
+{
+  "article": "Hendley,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/22115/Hendley__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "75c1a0cdf4b2aaa40e117d7e07178a61888c7a63a65d66326552bdd2b6e6993a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "75c1a0cdf4b2aaa40e117d7e07178a61888c7a63a65d66326552bdd2b6e6993a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/22115/Hendley__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "22115",
+  "timestamp": "2026-05-24T23:55:32.157499Z",
+  "version": 1
+}

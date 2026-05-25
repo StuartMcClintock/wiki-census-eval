@@ -1,0 +1,16 @@
+{
+  "article": "Genoa,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/29680/Genoa__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "537696dced6c67b1fdc916dcb596848a047a0d824d6c4f6b8d57758b02944ae7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "537696dced6c67b1fdc916dcb596848a047a0d824d6c4f6b8d57758b02944ae7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/29680/Genoa__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "29680",
+  "timestamp": "2026-05-24T23:35:26.390378Z",
+  "version": 1
+}

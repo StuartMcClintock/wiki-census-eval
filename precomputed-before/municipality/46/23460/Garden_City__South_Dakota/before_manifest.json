@@ -1,0 +1,16 @@
+{
+  "article": "Garden_City,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/23460/Garden_City__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d2edfecc2f727fad749e0a4bfccc197cad72fb7b1ff7ad771adcaaee39a831ef",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d2edfecc2f727fad749e0a4bfccc197cad72fb7b1ff7ad771adcaaee39a831ef",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/23460/Garden_City__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "23460",
+  "timestamp": "2026-05-25T00:10:39.397508Z",
+  "version": 1
+}

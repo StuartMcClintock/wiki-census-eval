@@ -1,0 +1,16 @@
+{
+  "article": "Gasquet,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/29154/Gasquet__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7558748b797c27a075e773f248624fad65ba7d74ac2d6d75c3a0634572d7f7ce",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7558748b797c27a075e773f248624fad65ba7d74ac2d6d75c3a0634572d7f7ce",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/29154/Gasquet__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "29154",
+  "timestamp": "2026-05-24T23:34:25.085958Z",
+  "version": 1
+}

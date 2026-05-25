@@ -1,0 +1,16 @@
+{
+  "article": "Riegelsville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/64856/Riegelsville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fea00701d7da4e63ff4285b203d63e91c99785d3fa5c022965d65199b3636e5b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fea00701d7da4e63ff4285b203d63e91c99785d3fa5c022965d65199b3636e5b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/64856/Riegelsville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "64856",
+  "timestamp": "2026-05-25T00:08:50.133421Z",
+  "version": 1
+}

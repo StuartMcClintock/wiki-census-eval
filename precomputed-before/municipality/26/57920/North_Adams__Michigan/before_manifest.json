@@ -1,0 +1,16 @@
+{
+  "article": "North_Adams,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/57920/North_Adams__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "88a4d1c3b7b57ee1303a79deb39892b38098276ab7d4547dcd79acc20628a2f6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "88a4d1c3b7b57ee1303a79deb39892b38098276ab7d4547dcd79acc20628a2f6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/57920/North_Adams__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "57920",
+  "timestamp": "2026-05-24T23:48:08.887662Z",
+  "version": 1
+}

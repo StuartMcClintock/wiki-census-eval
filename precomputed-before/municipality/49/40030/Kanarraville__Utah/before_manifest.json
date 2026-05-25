@@ -1,0 +1,16 @@
+{
+  "article": "Kanarraville,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/40030/Kanarraville__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "591fe24090db2cd3dd79a10a59e8ee6d9093a9f1fa76cbf36d1e1b3adb7e1263",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "591fe24090db2cd3dd79a10a59e8ee6d9093a9f1fa76cbf36d1e1b3adb7e1263",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/40030/Kanarraville__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "40030",
+  "timestamp": "2026-05-25T00:17:03.272936Z",
+  "version": 1
+}

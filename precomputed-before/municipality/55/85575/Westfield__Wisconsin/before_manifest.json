@@ -1,0 +1,16 @@
+{
+  "article": "Westfield,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/85575/Westfield__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "499127c4e6ab64160a2de222b631f1c067831d4f07ae73501e7f61681e8ffc44",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "499127c4e6ab64160a2de222b631f1c067831d4f07ae73501e7f61681e8ffc44",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/85575/Westfield__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "85575",
+  "timestamp": "2026-05-25T00:23:02.873345Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Menlo,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/45750/Menlo__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f20a621b7dedc1928ee39037f59468764cfb1d59562a829714585c192e8ee3b5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f20a621b7dedc1928ee39037f59468764cfb1d59562a829714585c192e8ee3b5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/45750/Menlo__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "45750",
+  "timestamp": "2026-05-24T23:43:08.771095Z",
+  "version": 1
+}

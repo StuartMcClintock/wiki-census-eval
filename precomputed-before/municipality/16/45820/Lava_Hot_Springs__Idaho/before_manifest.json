@@ -1,0 +1,16 @@
+{
+  "article": "Lava_Hot_Springs,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/45820/Lava_Hot_Springs__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "25fe56e8aa4e5f95c146a58fe61b639c184433a2ae6a30add55670900898171e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "25fe56e8aa4e5f95c146a58fe61b639c184433a2ae6a30add55670900898171e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/45820/Lava_Hot_Springs__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "45820",
+  "timestamp": "2026-05-24T23:37:23.649214Z",
+  "version": 1
+}

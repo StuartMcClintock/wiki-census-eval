@@ -1,0 +1,16 @@
+{
+  "article": "Hungry_Horse,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/38125/Hungry_Horse__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9aa266fbb82a32e054b7864ee49a9cfea630c2c44dcc951200eb6600d86d6fdb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9aa266fbb82a32e054b7864ee49a9cfea630c2c44dcc951200eb6600d86d6fdb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/38125/Hungry_Horse__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "38125",
+  "timestamp": "2026-05-24T23:54:31.195294Z",
+  "version": 1
+}

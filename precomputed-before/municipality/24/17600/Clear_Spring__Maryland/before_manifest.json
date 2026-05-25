@@ -1,0 +1,16 @@
+{
+  "article": "Clear_Spring,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/17600/Clear_Spring__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1b00119beae778667f798d1e5d164d49a47de4e552e76a5a97399e1362938b50",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1b00119beae778667f798d1e5d164d49a47de4e552e76a5a97399e1362938b50",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/17600/Clear_Spring__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "17600",
+  "timestamp": "2026-05-24T23:47:18.276754Z",
+  "version": 1
+}

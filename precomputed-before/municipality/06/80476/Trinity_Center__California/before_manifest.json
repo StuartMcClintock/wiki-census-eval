@@ -1,0 +1,16 @@
+{
+  "article": "Trinity_Center,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/80476/Trinity_Center__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "487ab8c9e094ac5c4e90f542a4473a84bd35fab5e531587b8608c1b7835c7d09",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "487ab8c9e094ac5c4e90f542a4473a84bd35fab5e531587b8608c1b7835c7d09",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/80476/Trinity_Center__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "80476",
+  "timestamp": "2026-05-24T23:35:10.795131Z",
+  "version": 1
+}

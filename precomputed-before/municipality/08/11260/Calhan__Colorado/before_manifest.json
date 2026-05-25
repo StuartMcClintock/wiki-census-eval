@@ -1,0 +1,16 @@
+{
+  "article": "Calhan,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/11260/Calhan__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "44331dd3533f3b0fbbe13dd508f5b6cadd8dac92b4c1521ee79a4b055cd1aa2e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "44331dd3533f3b0fbbe13dd508f5b6cadd8dac92b4c1521ee79a4b055cd1aa2e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/11260/Calhan__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "11260",
+  "timestamp": "2026-05-24T23:35:20.553315Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Kettlersville,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/40054/Kettlersville__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "95b66a1db5cba01669717d7364f003183ca07eb34ec64e3981e00b74990b1e68",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "95b66a1db5cba01669717d7364f003183ca07eb34ec64e3981e00b74990b1e68",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/40054/Kettlersville__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "40054",
+  "timestamp": "2026-05-25T00:04:22.448892Z",
+  "version": 1
+}

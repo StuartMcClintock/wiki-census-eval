@@ -1,0 +1,16 @@
+{
+  "article": "Toccopola,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/73760/Toccopola__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "27bff68c74aeda5864d633a8d284a590f0de2b863354ff0f01476bed8ef047e6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "27bff68c74aeda5864d633a8d284a590f0de2b863354ff0f01476bed8ef047e6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/73760/Toccopola__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "73760",
+  "timestamp": "2026-05-24T23:50:27.296851Z",
+  "version": 1
+}

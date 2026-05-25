@@ -1,0 +1,16 @@
+{
+  "article": "Watson,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/77848/Watson__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "73a94fb3f4dfe88b44615eaa50c94cfa10cfdb6f5f5e8bfb26681dc31fcdcace",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "73a94fb3f4dfe88b44615eaa50c94cfa10cfdb6f5f5e8bfb26681dc31fcdcace",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/77848/Watson__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "77848",
+  "timestamp": "2026-05-24T23:54:07.849405Z",
+  "version": 1
+}

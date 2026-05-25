@@ -1,0 +1,16 @@
+{
+  "article": "Falconaire,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/25338/Falconaire__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "664f23722bbc8dd45ddb1517ad60ace3205e2c2953714cfdefde6f65f1078a77",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "664f23722bbc8dd45ddb1517ad60ace3205e2c2953714cfdefde6f65f1078a77",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/25338/Falconaire__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "25338",
+  "timestamp": "2026-05-25T00:15:34.635900Z",
+  "version": 1
+}

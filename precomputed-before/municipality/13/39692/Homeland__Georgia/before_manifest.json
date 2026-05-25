@@ -1,0 +1,16 @@
+{
+  "article": "Homeland,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/39692/Homeland__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cb15e492f7ec243f4d069a756c72df398cca2021d9de6a432f335ab8199636e7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cb15e492f7ec243f4d069a756c72df398cca2021d9de6a432f335ab8199636e7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/39692/Homeland__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "39692",
+  "timestamp": "2026-05-24T23:36:50.618070Z",
+  "version": 1
+}

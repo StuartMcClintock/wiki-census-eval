@@ -1,0 +1,16 @@
+{
+  "article": "Vineland,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/81305/Vineland__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "619f3908fa60685be77ea5827077afa2b119b72d5dc07075d61f4881b11e46d4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "619f3908fa60685be77ea5827077afa2b119b72d5dc07075d61f4881b11e46d4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/81305/Vineland__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "81305",
+  "timestamp": "2026-05-24T23:35:54.864369Z",
+  "version": 1
+}

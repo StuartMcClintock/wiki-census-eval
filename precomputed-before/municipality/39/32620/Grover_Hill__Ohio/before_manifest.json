@@ -1,0 +1,16 @@
+{
+  "article": "Grover_Hill,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/32620/Grover_Hill__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3509be57aab40a07d9181eef28632953ad2808b4ed0462fba6af9226d3ac720a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3509be57aab40a07d9181eef28632953ad2808b4ed0462fba6af9226d3ac720a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/32620/Grover_Hill__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "32620",
+  "timestamp": "2026-05-25T00:04:14.883109Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Schurz,_Nevada",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/32/65400/Schurz__Nevada/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1d70fd3d43075d02cea56a849495de4b2865660d757548f205fc0c35c4e56b30",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1d70fd3d43075d02cea56a849495de4b2865660d757548f205fc0c35c4e56b30",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/32/65400/Schurz__Nevada/manifest.json",
+  "state_fips": "32",
+  "status": "match",
+  "target_fips": "65400",
+  "timestamp": "2026-05-24T23:57:33.595992Z",
+  "version": 1
+}

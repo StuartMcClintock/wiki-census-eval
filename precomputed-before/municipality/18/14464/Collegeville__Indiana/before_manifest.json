@@ -1,0 +1,16 @@
+{
+  "article": "Collegeville,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/14464/Collegeville__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ee628b087afced5fada7d2f6d74a56ee86c9135a9a2c45edec5cc51f116def4d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ee628b087afced5fada7d2f6d74a56ee86c9135a9a2c45edec5cc51f116def4d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/14464/Collegeville__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "14464",
+  "timestamp": "2026-05-24T23:39:31.192481Z",
+  "version": 1
+}

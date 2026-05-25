@@ -1,0 +1,16 @@
+{
+  "article": "Bazile_Mills,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/03355/Bazile_Mills__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "50107abd83eae55499255642f1be358de31e2e063604db2e757175d580a110a6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "50107abd83eae55499255642f1be358de31e2e063604db2e757175d580a110a6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/03355/Bazile_Mills__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "03355",
+  "timestamp": "2026-05-24T23:55:10.704362Z",
+  "version": 1
+}

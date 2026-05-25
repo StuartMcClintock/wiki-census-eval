@@ -1,0 +1,16 @@
+{
+  "article": "Greenup,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/33004/Greenup__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "87f94d8a3e0b108986138a03760b95e65e519d29f2272f4a68d5b9ab2826aada",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "87f94d8a3e0b108986138a03760b95e65e519d29f2272f4a68d5b9ab2826aada",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/33004/Greenup__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "33004",
+  "timestamp": "2026-05-24T23:44:05.403006Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Deseret,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/19020/Deseret__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "102ce9a72f30400a4ee4d7def8ce6f600f2f8e87526540892db8ede9f4264b6b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "102ce9a72f30400a4ee4d7def8ce6f600f2f8e87526540892db8ede9f4264b6b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/19020/Deseret__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "19020",
+  "timestamp": "2026-05-25T00:16:56.618691Z",
+  "version": 1
+}

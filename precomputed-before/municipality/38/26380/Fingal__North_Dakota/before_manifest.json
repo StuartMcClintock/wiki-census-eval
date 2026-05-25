@@ -1,0 +1,16 @@
+{
+  "article": "Fingal,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/26380/Fingal__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dcd253a710b6f119b04f4bc27cf5b59b5c0b0c7adab6f78f96d4cd40eb5ce6a0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dcd253a710b6f119b04f4bc27cf5b59b5c0b0c7adab6f78f96d4cd40eb5ce6a0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/26380/Fingal__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "26380",
+  "timestamp": "2026-05-25T00:02:54.768362Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Quail,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/60020/Quail__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2f88ce5ea495019bc242cf16a115084cc613e8706bde9f9876ea86873612000c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2f88ce5ea495019bc242cf16a115084cc613e8706bde9f9876ea86873612000c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/60020/Quail__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "60020",
+  "timestamp": "2026-05-25T00:16:26.017649Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Hartford,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/30490/Hartford__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f8c133ffdffcc3b5906c76b80ce00fd0788287a02cf85e70213cd87d1b2718f4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f8c133ffdffcc3b5906c76b80ce00fd0788287a02cf85e70213cd87d1b2718f4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/30490/Hartford__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "30490",
+  "timestamp": "2026-05-24T23:33:45.321496Z",
+  "version": 1
+}

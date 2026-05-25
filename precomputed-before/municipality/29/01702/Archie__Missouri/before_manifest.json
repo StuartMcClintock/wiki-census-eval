@@ -1,0 +1,16 @@
+{
+  "article": "Archie,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/01702/Archie__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bf4dc5830ef215186ec1ce7bccb3881260ba1cc6ec6194994e5972174e65e7cd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bf4dc5830ef215186ec1ce7bccb3881260ba1cc6ec6194994e5972174e65e7cd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/01702/Archie__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "01702",
+  "timestamp": "2026-05-24T23:50:32.232140Z",
+  "version": 1
+}

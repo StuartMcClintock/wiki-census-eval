@@ -1,0 +1,16 @@
+{
+  "article": "Corriganville,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/19975/Corriganville__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "53b09a59e3a694faa6d8caac1d486400c3d3729c962ee7018d83b9c5e6e54b59",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "53b09a59e3a694faa6d8caac1d486400c3d3729c962ee7018d83b9c5e6e54b59",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/19975/Corriganville__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "19975",
+  "timestamp": "2026-05-24T23:47:18.472387Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Roosevelt,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/61300/Roosevelt__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c7f56f60704dde385da208c62b3939160439e7e29c16f9852afbcdbce85cce31",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c7f56f60704dde385da208c62b3939160439e7e29c16f9852afbcdbce85cce31",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/61300/Roosevelt__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "61300",
+  "timestamp": "2026-05-24T23:33:07.490200Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Scotland_Neck,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/59780/Scotland_Neck__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "be04bf14c3f6450e9800536b3cd30020528e493335d00b37413d26efae0d52b9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "be04bf14c3f6450e9800536b3cd30020528e493335d00b37413d26efae0d52b9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/59780/Scotland_Neck__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "59780",
+  "timestamp": "2026-05-25T00:02:21.876014Z",
+  "version": 1
+}

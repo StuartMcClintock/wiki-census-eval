@@ -1,0 +1,16 @@
+{
+  "article": "Carp_Lake,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/13480/Carp_Lake__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c5261c5cb445d1c55924c1ed96d1f04a6582d3a29f4d7ac0031fac61673af3c8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c5261c5cb445d1c55924c1ed96d1f04a6582d3a29f4d7ac0031fac61673af3c8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/13480/Carp_Lake__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "13480",
+  "timestamp": "2026-05-24T23:47:47.094028Z",
+  "version": 1
+}

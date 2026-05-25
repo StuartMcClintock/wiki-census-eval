@@ -1,0 +1,16 @@
+{
+  "article": "Rodanthe,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/57580/Rodanthe__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c069dedddf6b80fb5213be035fd14e517542a26f252233f506394cde6ea901ac",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c069dedddf6b80fb5213be035fd14e517542a26f252233f506394cde6ea901ac",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/57580/Rodanthe__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "57580",
+  "timestamp": "2026-05-25T00:02:19.472956Z",
+  "version": 1
+}

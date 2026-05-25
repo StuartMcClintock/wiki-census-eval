@@ -1,0 +1,16 @@
+{
+  "article": "McGregor,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/48000/McGregor__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "472eeaa0e5b269c54a256d52bf0db9456bba39454b93215417e7c184f7a8b8f4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "472eeaa0e5b269c54a256d52bf0db9456bba39454b93215417e7c184f7a8b8f4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/48000/McGregor__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "48000",
+  "timestamp": "2026-05-24T23:41:23.959550Z",
+  "version": 1
+}

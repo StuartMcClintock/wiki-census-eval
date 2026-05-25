@@ -1,0 +1,16 @@
+{
+  "article": "Rosburg,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/59845/Rosburg__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "746ee3cc9949dd85ee0420b5c8b9121f03f0beb4469000ec0fb89c6786fd9a3c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "746ee3cc9949dd85ee0420b5c8b9121f03f0beb4469000ec0fb89c6786fd9a3c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/59845/Rosburg__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "59845",
+  "timestamp": "2026-05-25T00:20:30.885470Z",
+  "version": 1
+}

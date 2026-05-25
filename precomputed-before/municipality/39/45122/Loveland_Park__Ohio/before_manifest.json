@@ -1,0 +1,16 @@
+{
+  "article": "Loveland_Park,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/45122/Loveland_Park__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ed3937706076728527541aab8f27ca14e59bf194aed21211147b924e4e119354",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ed3937706076728527541aab8f27ca14e59bf194aed21211147b924e4e119354",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/45122/Loveland_Park__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "45122",
+  "timestamp": "2026-05-25T00:04:39.778031Z",
+  "version": 1
+}

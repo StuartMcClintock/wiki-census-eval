@@ -1,0 +1,16 @@
+{
+  "article": "Montrose,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/52904/Montrose__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5ffb9420efcfc10e5a657b4e5f397232f75a92212f787042336338be84bb11ae",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5ffb9420efcfc10e5a657b4e5f397232f75a92212f787042336338be84bb11ae",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/52904/Montrose__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "52904",
+  "timestamp": "2026-05-25T00:19:27.105581Z",
+  "version": 1
+}

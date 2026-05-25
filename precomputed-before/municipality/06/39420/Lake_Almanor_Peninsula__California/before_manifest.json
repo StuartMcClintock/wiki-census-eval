@@ -1,0 +1,16 @@
+{
+  "article": "Lake_Almanor_Peninsula,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/39420/Lake_Almanor_Peninsula__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4f65904c8c4d7ba1ab19fed476fcbfb0e92ca59297c0a5e89af58868ac111a06",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4f65904c8c4d7ba1ab19fed476fcbfb0e92ca59297c0a5e89af58868ac111a06",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/39420/Lake_Almanor_Peninsula__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "39420",
+  "timestamp": "2026-05-24T23:34:32.536182Z",
+  "version": 1
+}

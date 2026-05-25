@@ -1,0 +1,16 @@
+{
+  "article": "Phillips,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/62450/Phillips__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "51a0d3943a7dc15b43d71013f4cfaf17aa8a474b32c7bd2bb41af9594bb6fa3a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "51a0d3943a7dc15b43d71013f4cfaf17aa8a474b32c7bd2bb41af9594bb6fa3a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/62450/Phillips__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "62450",
+  "timestamp": "2026-05-25T00:22:33.895601Z",
+  "version": 1
+}

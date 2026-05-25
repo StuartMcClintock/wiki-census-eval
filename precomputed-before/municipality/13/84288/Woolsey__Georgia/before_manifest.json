@@ -1,0 +1,16 @@
+{
+  "article": "Woolsey,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/84288/Woolsey__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4193608079ba953d1343d8e5d41c2d21373e0a4e5da5cca0fa556c2ad19d8fee",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4193608079ba953d1343d8e5d41c2d21373e0a4e5da5cca0fa556c2ad19d8fee",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/84288/Woolsey__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "84288",
+  "timestamp": "2026-05-24T23:37:13.124980Z",
+  "version": 1
+}

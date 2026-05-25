@@ -1,0 +1,16 @@
+{
+  "article": "Granville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/30472/Granville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4de6e08bf49fa2abeb39ba7b95a719a7975761b913695704adfbf41b7fa42a6a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4de6e08bf49fa2abeb39ba7b95a719a7975761b913695704adfbf41b7fa42a6a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/30472/Granville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "30472",
+  "timestamp": "2026-05-25T00:07:18.866324Z",
+  "version": 1
+}

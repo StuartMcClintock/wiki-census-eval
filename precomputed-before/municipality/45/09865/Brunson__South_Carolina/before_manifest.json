@@ -1,0 +1,16 @@
+{
+  "article": "Brunson,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/09865/Brunson__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5e1bf867b34ca7ca89696722682492cd7dbd54d3e4282d7194455aeb2433d895",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5e1bf867b34ca7ca89696722682492cd7dbd54d3e4282d7194455aeb2433d895",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/09865/Brunson__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "09865",
+  "timestamp": "2026-05-25T00:09:41.256743Z",
+  "version": 1
+}

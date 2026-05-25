@@ -1,0 +1,16 @@
+{
+  "article": "Montrose,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/50283/Montrose__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d13ae90adc2d2293afe7832ebbb3e9a23fb7300cb885d17a7713c73fc0d7ec20",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d13ae90adc2d2293afe7832ebbb3e9a23fb7300cb885d17a7713c73fc0d7ec20",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/50283/Montrose__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "50283",
+  "timestamp": "2026-05-24T23:38:36.600794Z",
+  "version": 1
+}

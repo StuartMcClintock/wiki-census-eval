@@ -1,0 +1,16 @@
+{
+  "article": "Emma,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/22312/Emma__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8c7d9413de20340214f6f7ddf2115aa8449ef6643cdd4ecfa7f7ffa1319dc13e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8c7d9413de20340214f6f7ddf2115aa8449ef6643cdd4ecfa7f7ffa1319dc13e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/22312/Emma__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "22312",
+  "timestamp": "2026-05-24T23:51:06.697887Z",
+  "version": 1
+}

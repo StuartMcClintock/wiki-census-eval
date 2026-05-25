@@ -1,0 +1,16 @@
+{
+  "article": "Riceville,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/66585/Riceville__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "71eb5c49a199383c9618337b5a24262ba938b731581da42937c7c4e1fb2d5f56",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "71eb5c49a199383c9618337b5a24262ba938b731581da42937c7c4e1fb2d5f56",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/66585/Riceville__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "66585",
+  "timestamp": "2026-05-24T23:41:42.349888Z",
+  "version": 1
+}

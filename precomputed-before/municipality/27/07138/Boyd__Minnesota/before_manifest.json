@@ -1,0 +1,16 @@
+{
+  "article": "Boyd,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/07138/Boyd__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c0183fdea3792758519e1ef25f61b17ae16c3087760fed2ef767c2610076591a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c0183fdea3792758519e1ef25f61b17ae16c3087760fed2ef767c2610076591a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/07138/Boyd__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "07138",
+  "timestamp": "2026-05-24T23:48:41.049942Z",
+  "version": 1
+}

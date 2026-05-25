@@ -1,0 +1,16 @@
+{
+  "article": "Buttzville,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/09100/Buttzville__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "031a8d207f1b8062722ea2243a1cf3b2a1df99a669d3e248c473af2c3ffa19cb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "031a8d207f1b8062722ea2243a1cf3b2a1df99a669d3e248c473af2c3ffa19cb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/09100/Buttzville__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "09100",
+  "timestamp": "2026-05-24T23:57:42.376991Z",
+  "version": 1
+}

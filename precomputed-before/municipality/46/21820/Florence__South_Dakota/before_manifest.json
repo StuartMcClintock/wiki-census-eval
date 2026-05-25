@@ -1,0 +1,16 @@
+{
+  "article": "Florence,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/21820/Florence__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "84f35324b141b2987d379d719327f0646b2aec726739b38ba5905063bb7ef4f4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "84f35324b141b2987d379d719327f0646b2aec726739b38ba5905063bb7ef4f4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/21820/Florence__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "21820",
+  "timestamp": "2026-05-25T00:10:38.369783Z",
+  "version": 1
+}

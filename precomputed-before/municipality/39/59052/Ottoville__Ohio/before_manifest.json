@@ -1,0 +1,16 @@
+{
+  "article": "Ottoville,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/59052/Ottoville__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "154841fb3d73d23a323ca87cc5ac398c4657fb1570ecf9adad366908dbb0de33",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "154841fb3d73d23a323ca87cc5ac398c4657fb1570ecf9adad366908dbb0de33",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/59052/Ottoville__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "59052",
+  "timestamp": "2026-05-25T00:05:03.436242Z",
+  "version": 1
+}

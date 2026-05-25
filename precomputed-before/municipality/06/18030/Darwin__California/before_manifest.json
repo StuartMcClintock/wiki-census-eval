@@ -1,0 +1,16 @@
+{
+  "article": "Darwin,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/18030/Darwin__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d7c2a12e13b063e5f30db1ac2afa293d04b0b4f3c7651a2e21274f5f3f1461e4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d7c2a12e13b063e5f30db1ac2afa293d04b0b4f3c7651a2e21274f5f3f1461e4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/18030/Darwin__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "18030",
+  "timestamp": "2026-05-24T23:34:17.425107Z",
+  "version": 1
+}

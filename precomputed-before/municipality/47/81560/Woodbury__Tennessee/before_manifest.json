@@ -1,0 +1,16 @@
+{
+  "article": "Woodbury,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/81560/Woodbury__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b1564e76a84aec684803901df4cce7b4c4d8b4a9d258722daa0ea5a82b466e1a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b1564e76a84aec684803901df4cce7b4c4d8b4a9d258722daa0ea5a82b466e1a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/81560/Woodbury__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "81560",
+  "timestamp": "2026-05-25T00:14:59.477827Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Van_Buren,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/79394/Van_Buren__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5757c00aed8cfe056d437f2dac88338e5ea7b2174bc170ccd82725a2f529d0ff",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5757c00aed8cfe056d437f2dac88338e5ea7b2174bc170ccd82725a2f529d0ff",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/79394/Van_Buren__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "79394",
+  "timestamp": "2026-05-25T00:05:34.388310Z",
+  "version": 1
+}

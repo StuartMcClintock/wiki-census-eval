@@ -1,0 +1,16 @@
+{
+  "article": "Cammack_Village,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/10780/Cammack_Village__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "70fa8bb76803020b080c504eaaec0447336d48454327728f48112c0abcebaeb6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "70fa8bb76803020b080c504eaaec0447336d48454327728f48112c0abcebaeb6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/10780/Cammack_Village__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "10780",
+  "timestamp": "2026-05-24T23:33:23.842382Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Breckenridge,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/10160/Breckenridge__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0551efd41bf9d869d13674d2842d048d9b6ef30e7dacb6cdf92781097c309168",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0551efd41bf9d869d13674d2842d048d9b6ef30e7dacb6cdf92781097c309168",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/10160/Breckenridge__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "10160",
+  "timestamp": "2026-05-24T23:47:44.576741Z",
+  "version": 1
+}

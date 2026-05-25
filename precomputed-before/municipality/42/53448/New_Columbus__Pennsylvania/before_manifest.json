@@ -1,0 +1,16 @@
+{
+  "article": "New_Columbus,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/53448/New_Columbus__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a2600f82a300962a7d5af41e24c08049ac3563913b7f4af52816bb7b4f692699",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a2600f82a300962a7d5af41e24c08049ac3563913b7f4af52816bb7b4f692699",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/53448/New_Columbus__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "53448",
+  "timestamp": "2026-05-25T00:08:15.405402Z",
+  "version": 1
+}

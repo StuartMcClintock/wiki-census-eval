@@ -1,0 +1,16 @@
+{
+  "article": "Penn,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/58872/Penn__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7e913555d9235b9da7bbff0e7a7ca0c6827a89ffaecf63c9f02199340f76605b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7e913555d9235b9da7bbff0e7a7ca0c6827a89ffaecf63c9f02199340f76605b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/58872/Penn__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "58872",
+  "timestamp": "2026-05-25T00:08:27.232252Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Nellie,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/53816/Nellie__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1cfa2c58f9123d8f0062e8656a50d4af3d392a0ee4bf2a51a983b57bb1160365",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1cfa2c58f9123d8f0062e8656a50d4af3d392a0ee4bf2a51a983b57bb1160365",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/53816/Nellie__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "53816",
+  "timestamp": "2026-05-25T00:04:50.694107Z",
+  "version": 1
+}

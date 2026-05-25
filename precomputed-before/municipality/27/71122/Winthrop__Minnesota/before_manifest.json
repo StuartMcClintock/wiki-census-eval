@@ -1,0 +1,16 @@
+{
+  "article": "Winthrop,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/71122/Winthrop__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "801a6aa12636343f80683f650b35286ba0d2be9a26e0a0970176b6cf16aee5ae",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "801a6aa12636343f80683f650b35286ba0d2be9a26e0a0970176b6cf16aee5ae",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/71122/Winthrop__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "71122",
+  "timestamp": "2026-05-24T23:49:55.267449Z",
+  "version": 1
+}

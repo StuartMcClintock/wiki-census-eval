@@ -1,0 +1,16 @@
+{
+  "article": "Choctaw_Lake,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/14288/Choctaw_Lake__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "30e8ee6da8a6ca2c32d6466b903e6c7fc22b9265b6cb9313ca57484e6cfff245",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "30e8ee6da8a6ca2c32d6466b903e6c7fc22b9265b6cb9313ca57484e6cfff245",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/14288/Choctaw_Lake__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "14288",
+  "timestamp": "2026-05-25T00:03:54.592179Z",
+  "version": 1
+}

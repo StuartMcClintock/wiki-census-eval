@@ -1,0 +1,16 @@
+{
+  "article": "Seven_Corners,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/71216/Seven_Corners__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c2d24a80a0fde1818c3284c6b09538764e89a169b34363cd1dee20c96f09a2d7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c2d24a80a0fde1818c3284c6b09538764e89a169b34363cd1dee20c96f09a2d7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/71216/Seven_Corners__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "71216",
+  "timestamp": "2026-05-25T00:19:37.098087Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Cedar_Grove,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/13924/Cedar_Grove__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8a91bbe854431aa0943bd1b5f89ce6c9233b76d4e7531923913df92932499b32",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8a91bbe854431aa0943bd1b5f89ce6c9233b76d4e7531923913df92932499b32",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/13924/Cedar_Grove__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "13924",
+  "timestamp": "2026-05-25T00:20:47.184432Z",
+  "version": 1
+}

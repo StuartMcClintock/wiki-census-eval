@@ -1,0 +1,16 @@
+{
+  "article": "Kettle_River,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/32966/Kettle_River__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bde069eaf49d1bb2f6cb565719c6d80db845530ab3a2507ddb274d7d25921ca1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bde069eaf49d1bb2f6cb565719c6d80db845530ab3a2507ddb274d7d25921ca1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/32966/Kettle_River__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "32966",
+  "timestamp": "2026-05-24T23:49:12.528811Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Chester_Gap,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/16240/Chester_Gap__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fd92ca2dbac49d62a1da5df132133f445c1d8c231367684d151e794b7d030005",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fd92ca2dbac49d62a1da5df132133f445c1d8c231367684d151e794b7d030005",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/16240/Chester_Gap__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "16240",
+  "timestamp": "2026-05-25T00:19:05.910083Z",
+  "version": 1
+}

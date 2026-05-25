@@ -1,0 +1,16 @@
+{
+  "article": "Vernon_Valley,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/75750/Vernon_Valley__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d06e6becadc7d81011940992b5c88e3606d457ef119180cff65d668d4789552f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d06e6becadc7d81011940992b5c88e3606d457ef119180cff65d668d4789552f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/75750/Vernon_Valley__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "75750",
+  "timestamp": "2026-05-24T23:58:04.968691Z",
+  "version": 1
+}

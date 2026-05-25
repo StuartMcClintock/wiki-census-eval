@@ -1,0 +1,16 @@
+{
+  "article": "Weston,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/83972/Weston__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "669a0027d796c8de125777b41dc399cb43c3c1125959391d4df9bd85a84a164e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "669a0027d796c8de125777b41dc399cb43c3c1125959391d4df9bd85a84a164e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/83972/Weston__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "83972",
+  "timestamp": "2026-05-25T00:05:38.203346Z",
+  "version": 1
+}

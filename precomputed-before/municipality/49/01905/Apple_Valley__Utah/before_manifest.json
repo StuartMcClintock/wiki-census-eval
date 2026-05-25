@@ -1,0 +1,16 @@
+{
+  "article": "Apple_Valley,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/01905/Apple_Valley__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d7338d655fa4a845961cb0c4a2b8a826234857acc6e4e05d0595a3e0f9cec52c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d7338d655fa4a845961cb0c4a2b8a826234857acc6e4e05d0595a3e0f9cec52c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/01905/Apple_Valley__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "01905",
+  "timestamp": "2026-05-25T00:16:53.315053Z",
+  "version": 1
+}

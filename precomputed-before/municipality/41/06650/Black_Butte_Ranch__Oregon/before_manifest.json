@@ -1,0 +1,16 @@
+{
+  "article": "Black_Butte_Ranch,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/06650/Black_Butte_Ranch__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4e11daf0ae6a36f15ec055faa5eef257322fa4d43f508aef5ed22cb4ba37e514",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4e11daf0ae6a36f15ec055faa5eef257322fa4d43f508aef5ed22cb4ba37e514",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/06650/Black_Butte_Ranch__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "06650",
+  "timestamp": "2026-05-25T00:05:43.444178Z",
+  "version": 1
+}

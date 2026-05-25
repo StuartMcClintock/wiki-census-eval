@@ -1,0 +1,80 @@
+==Demographics==
+{{US Census population
+|2010= 922
+|2020= 792
+|footnote=Population sources: 2010<ref name=Census2010>[http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/1600000US3459500 DP-1 - Profile of General Population and Housing Characteristics: 2010 Demographic Profile Data for Pleasant Plains CDP, New Jersey] {{Webarchive|url=https://archive.today/20200212132839/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/1600000US3459500 |date=2020-02-12 }}, [[United States Census Bureau]]. Accessed February 11, 2013.</ref> 2020<ref name=Census2020/>
+}}
+
+Pleasant Plains first appeared as a [[census designated place]] in the [[2010 U.S. census]].<ref>{{Cite web|title= 2010 Census of Population - Population and Housing Unit Counts - New Jersey |url=https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-32.pdf|website=[[United States Census Bureau]]|archive-url=https://web.archive.org/web/20251111220031/https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-32.pdf| archive-date=November 11, 2025}}</ref>
+
+===2020 census===
+{| class="wikitable sortable" style="text-align:center;"
+|+'''Pleasant Plains CDP, New Jersey – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Pleasant Plains CDP, New Jersey|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US3459500&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!style="background-color: #ffffb3;" |Pop 2020<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Pleasant Plains CDP, New Jersey|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US3459500&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!% 2010
+!style="background-color: #ffffb3;" |% 2020
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|346
+|style='background: #ffffe6; |256
+|37.53%
+|style='background: #ffffe6; |32.32%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|198
+|style='background: #ffffe6; |162
+|21.48%
+|style='background: #ffffe6; |20.45%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|2
+|style='background: #ffffe6; |2
+|0.22%
+|style='background: #ffffe6; |0.25%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|310
+|style='background: #ffffe6; |309
+|33.62%
+|style='background: #ffffe6; |39.02%
+|-
+|[[Native Hawaiian]] or [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|6
+|style='background: #ffffe6; |3
+|0.65%
+|style='background: #ffffe6; |0.38%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|13
+|style='background: #ffffe6; |26
+|1.41%
+|style='background: #ffffe6; |3.28%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|47
+|style='background: #ffffe6; |34
+|5.10%
+|style='background: #ffffe6; |4.29%
+|-
+|'''Total'''
+|'''922'''
+|style='background: #ffffe6; |'''792 '''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+===2010 census===
+The [[2010 United States census]] counted 922 people, 254 households, and 236 families in the CDP. The [[population density]] was {{convert|286.8|/sqmi}}. There were 257 housing units at an average density of {{convert|79.9|/sqmi}}. The racial makeup was 40.13% (370) [[White (U.S. census)|White]], 21.80% (201) [[Black (U.S. census)|Black or African American]], 0.22% (2) [[Native American (U.S. census)|Native American]], 33.62% (310) [[Asian (U.S. census)|Asian]], 0.00% (0) [[Pacific Islander (U.S. census)|Pacific Islander]], 2.82% (26) from [[Race and ethnicity in the United States census|other races]], and 1.41% (13) from two or more races. [[Hispanic (U.S. census)|Hispanic or Latino]] of any race were 5.10% (47) of the population.<ref name=Census2010/>
+
+Of the 254 households, 57.1% had children under the age of 18; 85.0% were married couples living together; 5.5% had a female householder with no husband present and 7.1% were non-families. Of all households, 5.9% were made up of individuals and 0.8% had someone living alone who was 65 years of age or older. The average household size was 3.63 and the average family size was 3.73.<ref name=Census2010/>
+
+30.4% of the population were under the age of 18, 5.6% from 18 to 24, 23.6% from 25 to 44, 32.9% from 45 to 64, and 7.5% who were 65 years of age or older. The median age was 41.1 years. For every 100 females, the population had 97.0 males. For every 100 females ages 18 and older there were 93.4 males.<ref name=Census2010/>
+

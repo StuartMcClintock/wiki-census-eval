@@ -1,0 +1,16 @@
+{
+  "article": "Black_River_Falls,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/07900/Black_River_Falls__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8506ecf745d0095e6cb1458ebd74000a8b40d588fd7f2425bf5b39144b93ba3b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8506ecf745d0095e6cb1458ebd74000a8b40d588fd7f2425bf5b39144b93ba3b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/07900/Black_River_Falls__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "07900",
+  "timestamp": "2026-05-25T00:21:37.032934Z",
+  "version": 1
+}

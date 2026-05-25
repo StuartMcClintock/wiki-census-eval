@@ -1,0 +1,16 @@
+{
+  "article": "Micro,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/42620/Micro__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "54ca75200a528a87c2a9dccde64f1fbbb1b270f5a0ec547709fdd733ba5611f3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "54ca75200a528a87c2a9dccde64f1fbbb1b270f5a0ec547709fdd733ba5611f3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/42620/Micro__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "42620",
+  "timestamp": "2026-05-25T00:02:10.813654Z",
+  "version": 1
+}

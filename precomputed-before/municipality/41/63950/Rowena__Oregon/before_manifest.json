@@ -1,0 +1,16 @@
+{
+  "article": "Rowena,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/63950/Rowena__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6a0c2ba278c556c89a2b89ef66563c66b8105eb8c41c2c92942842e5a178a123",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6a0c2ba278c556c89a2b89ef66563c66b8105eb8c41c2c92942842e5a178a123",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/63950/Rowena__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "63950",
+  "timestamp": "2026-05-25T00:06:01.754416Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Nicolaus,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/51336/Nicolaus__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "143bb268794a2866ea7dd5936ba3d60649ba28ed052c948f7041036f4b6043b0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "143bb268794a2866ea7dd5936ba3d60649ba28ed052c948f7041036f4b6043b0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/51336/Nicolaus__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "51336",
+  "timestamp": "2026-05-24T23:34:42.724523Z",
+  "version": 1
+}

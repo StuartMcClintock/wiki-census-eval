@@ -1,0 +1,16 @@
+{
+  "article": "Bishop_Hill,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/06171/Bishop_Hill__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f553df0428091bab239e964193ff4a260b5c02ad6cae2ed32ece9a4175cc6bd6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f553df0428091bab239e964193ff4a260b5c02ad6cae2ed32ece9a4175cc6bd6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/06171/Bishop_Hill__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "06171",
+  "timestamp": "2026-05-24T23:37:49.786425Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Green_Springs,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/32256/Green_Springs__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "21c149be0d2b7331945f9f15e4c3a4a4e4c86ffa486491dfe06414a0f2526c0c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "21c149be0d2b7331945f9f15e4c3a4a4e4c86ffa486491dfe06414a0f2526c0c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/32256/Green_Springs__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "32256",
+  "timestamp": "2026-05-25T00:04:14.576747Z",
+  "version": 1
+}

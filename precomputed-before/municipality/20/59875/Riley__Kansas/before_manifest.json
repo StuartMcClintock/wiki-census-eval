@@ -1,0 +1,16 @@
+{
+  "article": "Riley,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/59875/Riley__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "481bdc3daa0a0354e0d8f61e642815772485a20115cdcc4661890a636668b498",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "481bdc3daa0a0354e0d8f61e642815772485a20115cdcc4661890a636668b498",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/59875/Riley__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "59875",
+  "timestamp": "2026-05-24T23:43:24.735968Z",
+  "version": 1
+}

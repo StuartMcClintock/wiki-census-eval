@@ -1,0 +1,16 @@
+{
+  "article": "Honey_Brook,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/35528/Honey_Brook__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "102748bfd2311286c3391630cc4f81d785d47af3eb7404500f24e42af2222133",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "102748bfd2311286c3391630cc4f81d785d47af3eb7404500f24e42af2222133",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/35528/Honey_Brook__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "35528",
+  "timestamp": "2026-05-25T00:07:27.093327Z",
+  "version": 1
+}

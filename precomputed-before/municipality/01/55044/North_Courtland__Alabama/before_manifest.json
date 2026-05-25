@@ -1,0 +1,16 @@
+{
+  "article": "North_Courtland,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/55044/North_Courtland__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fea104ca5f60051b5ee942aa2aa149963826f8328035172a0532fe2e974c413c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fea104ca5f60051b5ee942aa2aa149963826f8328035172a0532fe2e974c413c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/55044/North_Courtland__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "55044",
+  "timestamp": "2026-05-24T23:32:06.850058Z",
+  "version": 1
+}

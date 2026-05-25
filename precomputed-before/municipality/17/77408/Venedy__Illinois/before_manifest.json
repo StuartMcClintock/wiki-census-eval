@@ -1,0 +1,16 @@
+{
+  "article": "Venedy,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/77408/Venedy__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cae12299182b587b696769aaa4195cc78f22e24b34e7057073a1a32ba2ccaad6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cae12299182b587b696769aaa4195cc78f22e24b34e7057073a1a32ba2ccaad6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/77408/Venedy__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "77408",
+  "timestamp": "2026-05-24T23:39:18.920527Z",
+  "version": 1
+}

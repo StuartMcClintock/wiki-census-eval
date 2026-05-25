@@ -1,0 +1,16 @@
+{
+  "article": "New_Bloomington,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/54152/New_Bloomington__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9c2aa2db434d2b4283ea87e0c1d1cd5ca1247bf7720491b27e0d23cb0900cf26",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9c2aa2db434d2b4283ea87e0c1d1cd5ca1247bf7720491b27e0d23cb0900cf26",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/54152/New_Bloomington__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "54152",
+  "timestamp": "2026-05-25T00:04:51.498421Z",
+  "version": 1
+}

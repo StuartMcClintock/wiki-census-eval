@@ -1,0 +1,16 @@
+{
+  "article": "Hackett,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/29290/Hackett__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "967ede0ff1fbaeb9bfa98c80d23d56d95b895d18fff3e17b9e8f3f9079504bd0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "967ede0ff1fbaeb9bfa98c80d23d56d95b895d18fff3e17b9e8f3f9079504bd0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/29290/Hackett__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "29290",
+  "timestamp": "2026-05-24T23:33:44.780725Z",
+  "version": 1
+}

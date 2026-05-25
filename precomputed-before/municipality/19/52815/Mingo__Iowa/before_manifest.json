@@ -1,0 +1,16 @@
+{
+  "article": "Mingo,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/52815/Mingo__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "33d327fa0460896350e42ba46e4c182f3286afdc6cb461d3700045aad96256c0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "33d327fa0460896350e42ba46e4c182f3286afdc6cb461d3700045aad96256c0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/52815/Mingo__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "52815",
+  "timestamp": "2026-05-24T23:41:28.905039Z",
+  "version": 1
+}

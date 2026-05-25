@@ -1,0 +1,16 @@
+{
+  "article": "Bradford_Woods,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/08064/Bradford_Woods__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2ee7ed284984163096be2c367cf907ceb930d0e895251e88a5084576274f6956",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2ee7ed284984163096be2c367cf907ceb930d0e895251e88a5084576274f6956",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/08064/Bradford_Woods__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "08064",
+  "timestamp": "2026-05-25T00:06:20.410575Z",
+  "version": 1
+}

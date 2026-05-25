@@ -1,0 +1,16 @@
+{
+  "article": "Hetland,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/28460/Hetland__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8e03989a49f2703eda9a188aec622127555b67cd95fff0f7feb4ec83398e35f9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8e03989a49f2703eda9a188aec622127555b67cd95fff0f7feb4ec83398e35f9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/28460/Hetland__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "28460",
+  "timestamp": "2026-05-25T00:10:41.717262Z",
+  "version": 1
+}

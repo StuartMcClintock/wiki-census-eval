@@ -1,0 +1,16 @@
+{
+  "article": "Topeka,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/75757/Topeka__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b2070fbfee9fe9f3a25b20ddb64365bd3ecb613186f41f0713702bbfa72a2493",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b2070fbfee9fe9f3a25b20ddb64365bd3ecb613186f41f0713702bbfa72a2493",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/75757/Topeka__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "75757",
+  "timestamp": "2026-05-24T23:39:16.969902Z",
+  "version": 1
+}

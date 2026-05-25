@@ -1,0 +1,16 @@
+{
+  "article": "Gillett,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/29050/Gillett__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "af3ce2db64889355a8fafc1317e930c737bc6acf0582db066abe222b82e436bd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "af3ce2db64889355a8fafc1317e930c737bc6acf0582db066abe222b82e436bd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/29050/Gillett__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "29050",
+  "timestamp": "2026-05-25T00:22:08.761922Z",
+  "version": 1
+}

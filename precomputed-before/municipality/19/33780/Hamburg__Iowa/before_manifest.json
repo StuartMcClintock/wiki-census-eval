@@ -1,0 +1,16 @@
+{
+  "article": "Hamburg,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/33780/Hamburg__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "32fe7247d2713ef6f0435e401c45c085135a3b3a91de36c3f5d85a10e0b54e24",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "32fe7247d2713ef6f0435e401c45c085135a3b3a91de36c3f5d85a10e0b54e24",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/33780/Hamburg__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "33780",
+  "timestamp": "2026-05-24T23:41:08.251366Z",
+  "version": 1
+}

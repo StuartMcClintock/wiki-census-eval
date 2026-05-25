@@ -1,0 +1,16 @@
+{
+  "article": "Turkey_Creek,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/76685/Turkey_Creek__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "935acd8ba413983022b364b9ae5e9bdb65f7d6421b86761103cefe1399b25cad",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "935acd8ba413983022b364b9ae5e9bdb65f7d6421b86761103cefe1399b25cad",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/76685/Turkey_Creek__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "76685",
+  "timestamp": "2026-05-24T23:45:11.076099Z",
+  "version": 1
+}

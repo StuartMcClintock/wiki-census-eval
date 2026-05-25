@@ -1,0 +1,16 @@
+{
+  "article": "Bealeton,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/05336/Bealeton__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "91c938daf54611590e38bd6f3ffdf12f1b69d5947172a96ff1e721b2205a1bf4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "91c938daf54611590e38bd6f3ffdf12f1b69d5947172a96ff1e721b2205a1bf4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/05336/Bealeton__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "05336",
+  "timestamp": "2026-05-25T00:17:34.302703Z",
+  "version": 1
+}

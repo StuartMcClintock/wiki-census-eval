@@ -1,0 +1,16 @@
+{
+  "article": "Henderson,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/34007/Henderson__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f7c4fc2b4befc03d8d026ab7e6988bdb2ff499cdf92dcce785cf14f399cdac8d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f7c4fc2b4befc03d8d026ab7e6988bdb2ff499cdf92dcce785cf14f399cdac8d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/34007/Henderson__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "34007",
+  "timestamp": "2026-05-24T23:38:19.515507Z",
+  "version": 1
+}

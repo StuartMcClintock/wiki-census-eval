@@ -1,0 +1,16 @@
+{
+  "article": "Primrose,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/64240/Primrose__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0c1ff47737e7dc04df29328c00634e2d6e842f2871996e40209039ee95de45b9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0c1ff47737e7dc04df29328c00634e2d6e842f2871996e40209039ee95de45b9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/64240/Primrose__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "64240",
+  "timestamp": "2026-05-24T23:32:42.671466Z",
+  "version": 1
+}

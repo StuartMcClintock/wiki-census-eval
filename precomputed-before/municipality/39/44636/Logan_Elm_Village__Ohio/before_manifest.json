@@ -1,0 +1,16 @@
+{
+  "article": "Logan_Elm_Village,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/44636/Logan_Elm_Village__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bfa4d97f97b386b2f86378c66c75a7282a2a852d12b1953ef6d321bd47aaa545",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bfa4d97f97b386b2f86378c66c75a7282a2a852d12b1953ef6d321bd47aaa545",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/44636/Logan_Elm_Village__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "44636",
+  "timestamp": "2026-05-25T00:04:39.462492Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Gurley,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/32440/Gurley__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "af105a999dacc02feb6c5eaa7d9e476e92b10cb5c4fb70ca02ebb1f8c6bfb287",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "af105a999dacc02feb6c5eaa7d9e476e92b10cb5c4fb70ca02ebb1f8c6bfb287",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/32440/Gurley__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "32440",
+  "timestamp": "2026-05-24T23:31:58.440565Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Pamplico,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/54340/Pamplico__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2773a15d77946a69673e2f766fb5180594919e190a50ba4403bbe94c2de1e475",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2773a15d77946a69673e2f766fb5180594919e190a50ba4403bbe94c2de1e475",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/54340/Pamplico__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "54340",
+  "timestamp": "2026-05-25T00:10:16.161309Z",
+  "version": 1
+}

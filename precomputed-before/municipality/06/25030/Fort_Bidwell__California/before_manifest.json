@@ -1,0 +1,16 @@
+{
+  "article": "Fort_Bidwell,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/25030/Fort_Bidwell__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "389fbacd657fd724ad755845e061565165ee3d70b49f0c3b2125cf7ebeaaf02d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "389fbacd657fd724ad755845e061565165ee3d70b49f0c3b2125cf7ebeaaf02d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/25030/Fort_Bidwell__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "25030",
+  "timestamp": "2026-05-24T23:34:23.529830Z",
+  "version": 1
+}

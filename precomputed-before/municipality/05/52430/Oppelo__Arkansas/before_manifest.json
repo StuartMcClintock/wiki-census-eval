@@ -1,0 +1,16 @@
+{
+  "article": "Oppelo,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/52430/Oppelo__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "eebfe4e6f4f0a48c2a3d545c46362081308b747b9b858e4e21673eddb0e524f7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "eebfe4e6f4f0a48c2a3d545c46362081308b747b9b858e4e21673eddb0e524f7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/52430/Oppelo__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "52430",
+  "timestamp": "2026-05-24T23:34:01.951218Z",
+  "version": 1
+}

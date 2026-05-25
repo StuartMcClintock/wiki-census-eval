@@ -1,0 +1,16 @@
+{
+  "article": "Wayne,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/84940/Wayne__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4646fbb0bb5950b8dba1f0db2d9fa3e7849ea465fedcdb2817557a86962975c0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4646fbb0bb5950b8dba1f0db2d9fa3e7849ea465fedcdb2817557a86962975c0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/84940/Wayne__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "84940",
+  "timestamp": "2026-05-25T00:21:28.854550Z",
+  "version": 1
+}

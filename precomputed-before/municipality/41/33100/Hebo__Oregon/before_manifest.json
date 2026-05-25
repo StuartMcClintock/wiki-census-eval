@@ -1,0 +1,16 @@
+{
+  "article": "Hebo,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/33100/Hebo__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d0ecc458a0f3b710e853b525a5b60c82691ee672c1e671f24417fc8d9d1fe77a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d0ecc458a0f3b710e853b525a5b60c82691ee672c1e671f24417fc8d9d1fe77a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/33100/Hebo__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "33100",
+  "timestamp": "2026-05-25T00:05:49.016032Z",
+  "version": 1
+}

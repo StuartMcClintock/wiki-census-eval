@@ -1,0 +1,16 @@
+{
+  "article": "Port_Costa,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/58226/Port_Costa__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f4616b7a168a1e5a2ce4f3cab84f5c7622184f1c081ac5b0ff39aaa4637a5de2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f4616b7a168a1e5a2ce4f3cab84f5c7622184f1c081ac5b0ff39aaa4637a5de2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/58226/Port_Costa__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "58226",
+  "timestamp": "2026-05-24T23:34:47.494190Z",
+  "version": 1
+}

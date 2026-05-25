@@ -1,0 +1,16 @@
+{
+  "article": "New_Village,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/52050/New_Village__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b57f65c75f3fd0414008acc0587818f28557de2336a6f0f6b54ae915bbe27ac0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b57f65c75f3fd0414008acc0587818f28557de2336a6f0f6b54ae915bbe27ac0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/52050/New_Village__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "52050",
+  "timestamp": "2026-05-24T23:57:56.963863Z",
+  "version": 1
+}

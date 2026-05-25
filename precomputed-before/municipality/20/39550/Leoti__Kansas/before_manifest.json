@@ -1,0 +1,16 @@
+{
+  "article": "Leoti,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/39550/Leoti__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "82be0ba607fca287fedcef60e90f468e48df5ec7538966c1f839385cd9b0628b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "82be0ba607fca287fedcef60e90f468e48df5ec7538966c1f839385cd9b0628b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/39550/Leoti__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "39550",
+  "timestamp": "2026-05-24T23:43:02.444636Z",
+  "version": 1
+}

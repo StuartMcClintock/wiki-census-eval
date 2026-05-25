@@ -1,0 +1,16 @@
+{
+  "article": "Mooresville,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/51264/Mooresville__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "efe3e8f33310133beac84d046c4532fc642c21bb13912fb75e6c5149e8b81879",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "efe3e8f33310133beac84d046c4532fc642c21bb13912fb75e6c5149e8b81879",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/51264/Mooresville__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "51264",
+  "timestamp": "2026-05-24T23:32:04.800472Z",
+  "version": 1
+}

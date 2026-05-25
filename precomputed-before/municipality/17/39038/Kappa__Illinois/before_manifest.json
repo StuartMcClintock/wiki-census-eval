@@ -1,0 +1,16 @@
+{
+  "article": "Kappa,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/39038/Kappa__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "05c370729a9b2de1bdfe9b5d766de3f0c4c2d196ba740e9efc6c92393946f1ef",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "05c370729a9b2de1bdfe9b5d766de3f0c4c2d196ba740e9efc6c92393946f1ef",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/39038/Kappa__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "39038",
+  "timestamp": "2026-05-24T23:38:25.103126Z",
+  "version": 1
+}

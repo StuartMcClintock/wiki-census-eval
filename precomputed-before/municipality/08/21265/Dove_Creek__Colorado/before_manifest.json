@@ -1,0 +1,16 @@
+{
+  "article": "Dove_Creek,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/21265/Dove_Creek__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3933334282680331977acf742dd2a1cc2075c5eb60aa64523777b2469d815a77",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3933334282680331977acf742dd2a1cc2075c5eb60aa64523777b2469d815a77",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/21265/Dove_Creek__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "21265",
+  "timestamp": "2026-05-24T23:35:23.805860Z",
+  "version": 1
+}

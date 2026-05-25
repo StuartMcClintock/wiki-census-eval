@@ -1,0 +1,16 @@
+{
+  "article": "Coalport,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/14656/Coalport__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c28c62778975d15807acf5f6b2904339bd85161f8f61149d64cf2caee00ef41f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c28c62778975d15807acf5f6b2904339bd85161f8f61149d64cf2caee00ef41f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/14656/Coalport__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "14656",
+  "timestamp": "2026-05-25T00:06:43.694448Z",
+  "version": 1
+}

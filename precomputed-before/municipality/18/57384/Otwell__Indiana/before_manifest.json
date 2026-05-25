@@ -1,0 +1,16 @@
+{
+  "article": "Otwell,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/57384/Otwell__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "20b9552b03dd04549897b005428db3bc126acdbb9875dde0887197b64576c35d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "20b9552b03dd04549897b005428db3bc126acdbb9875dde0887197b64576c35d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/57384/Otwell__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "57384",
+  "timestamp": "2026-05-24T23:40:07.102789Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Athol,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/03700/Athol__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0a7e0e79ff00ed8e3165e4ddc5cb71b375cea5b62860e495f50ce98c5a9bfee8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0a7e0e79ff00ed8e3165e4ddc5cb71b375cea5b62860e495f50ce98c5a9bfee8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/03700/Athol__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "03700",
+  "timestamp": "2026-05-24T23:37:15.791889Z",
+  "version": 1
+}

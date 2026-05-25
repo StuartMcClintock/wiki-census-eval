@@ -1,0 +1,16 @@
+{
+  "article": "Penney_Farms,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/55875/Penney_Farms__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c5296c81e5137c69733dbfd6a50f095a8f3bb96c039bd27217586a4c9351d97d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c5296c81e5137c69733dbfd6a50f095a8f3bb96c039bd27217586a4c9351d97d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/55875/Penney_Farms__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "55875",
+  "timestamp": "2026-05-24T23:36:20.610472Z",
+  "version": 1
+}

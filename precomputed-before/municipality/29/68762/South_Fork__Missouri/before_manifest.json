@@ -1,0 +1,16 @@
+{
+  "article": "South_Fork,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/68762/South_Fork__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6879eca703438f9b330fdf08289ae06583522443cfef99a5176291e50e3a1d7c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6879eca703438f9b330fdf08289ae06583522443cfef99a5176291e50e3a1d7c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/68762/South_Fork__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "68762",
+  "timestamp": "2026-05-24T23:53:50.095877Z",
+  "version": 1
+}

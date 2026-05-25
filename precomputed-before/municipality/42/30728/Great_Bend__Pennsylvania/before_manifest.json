@@ -1,0 +1,16 @@
+{
+  "article": "Great_Bend,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/30728/Great_Bend__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "093d2538f7620a92d75beb8aba1321f8945b819bea50a37fa0b0de7ddf4414fb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "093d2538f7620a92d75beb8aba1321f8945b819bea50a37fa0b0de7ddf4414fb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/30728/Great_Bend__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "30728",
+  "timestamp": "2026-05-25T00:07:19.372635Z",
+  "version": 1
+}

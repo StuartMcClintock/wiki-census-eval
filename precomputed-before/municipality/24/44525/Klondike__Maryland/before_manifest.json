@@ -1,0 +1,16 @@
+{
+  "article": "Klondike,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/44525/Klondike__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "45ae3dfd7c478c0875836f1b3a8e743a4212c07f0fd416cfe8eff496c81d173e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "45ae3dfd7c478c0875836f1b3a8e743a4212c07f0fd416cfe8eff496c81d173e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/44525/Klondike__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "44525",
+  "timestamp": "2026-05-24T23:47:25.512021Z",
+  "version": 1
+}

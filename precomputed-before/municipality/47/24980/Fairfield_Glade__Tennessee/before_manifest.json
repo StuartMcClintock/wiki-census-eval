@@ -1,0 +1,16 @@
+{
+  "article": "Fairfield_Glade,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/24980/Fairfield_Glade__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "862fffb63dbe40d29fa39d580bea67e97f8b7ab6c0e3a23825bdc6efbaa4d190",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "862fffb63dbe40d29fa39d580bea67e97f8b7ab6c0e3a23825bdc6efbaa4d190",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/24980/Fairfield_Glade__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "24980",
+  "timestamp": "2026-05-25T00:14:38.494005Z",
+  "version": 1
+}

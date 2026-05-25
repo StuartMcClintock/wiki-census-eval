@@ -1,0 +1,16 @@
+{
+  "article": "Silvana,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/64190/Silvana__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "09820c348975c5f8a5509a1e34a5d70e5ab3e7de77f71be25168a20bd08916e1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "09820c348975c5f8a5509a1e34a5d70e5ab3e7de77f71be25168a20bd08916e1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/64190/Silvana__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "64190",
+  "timestamp": "2026-05-25T00:20:32.075341Z",
+  "version": 1
+}

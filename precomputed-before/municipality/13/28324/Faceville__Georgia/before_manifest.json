@@ -1,0 +1,16 @@
+{
+  "article": "Faceville,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/28324/Faceville__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "769f4d8d482d7afe8022716e6f3595f6df8668ea14c4bf1e62d0fb14ddbbef90",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "769f4d8d482d7afe8022716e6f3595f6df8668ea14c4bf1e62d0fb14ddbbef90",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/28324/Faceville__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "28324",
+  "timestamp": "2026-05-24T23:36:36.411685Z",
+  "version": 1
+}

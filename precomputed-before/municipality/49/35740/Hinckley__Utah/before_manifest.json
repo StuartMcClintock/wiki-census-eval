@@ -1,0 +1,16 @@
+{
+  "article": "Hinckley,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/35740/Hinckley__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e67a1f41f77c02c3a2fd568436a18a159bf59f99b9550a0a76fcd951f7fb0a15",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e67a1f41f77c02c3a2fd568436a18a159bf59f99b9550a0a76fcd951f7fb0a15",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/35740/Hinckley__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "35740",
+  "timestamp": "2026-05-25T00:17:01.984459Z",
+  "version": 1
+}

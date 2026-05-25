@@ -1,0 +1,16 @@
+{
+  "article": "New_Minden,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/52714/New_Minden__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2e4a2de9252631bea9bd84f3a2156c6541bef7552cda6db1886be329204ae92e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2e4a2de9252631bea9bd84f3a2156c6541bef7552cda6db1886be329204ae92e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/52714/New_Minden__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "52714",
+  "timestamp": "2026-05-24T23:38:40.757628Z",
+  "version": 1
+}

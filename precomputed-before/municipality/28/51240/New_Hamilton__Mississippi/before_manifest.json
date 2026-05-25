@@ -1,0 +1,16 @@
+{
+  "article": "New_Hamilton,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/51240/New_Hamilton__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7c35c1b5435070a8e510774e8fc702ff9624e05348909faa8c9d3c425ef7a8f8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7c35c1b5435070a8e510774e8fc702ff9624e05348909faa8c9d3c425ef7a8f8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/51240/New_Hamilton__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "51240",
+  "timestamp": "2026-05-24T23:50:17.988821Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Lake_Buckhorn,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/41349/Lake_Buckhorn__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f475f677a6e8db558258b129202aa2657b9ae3c5de12a78614054ef875381be2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f475f677a6e8db558258b129202aa2657b9ae3c5de12a78614054ef875381be2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/41349/Lake_Buckhorn__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "41349",
+  "timestamp": "2026-05-25T00:04:35.253759Z",
+  "version": 1
+}

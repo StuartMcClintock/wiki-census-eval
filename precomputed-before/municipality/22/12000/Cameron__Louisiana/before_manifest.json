@@ -1,0 +1,16 @@
+{
+  "article": "Cameron,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/12000/Cameron__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8b524f883041638dc6ddfe6cd3cffc23e34b134f8891d9beb8cb3037261fa5a4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8b524f883041638dc6ddfe6cd3cffc23e34b134f8891d9beb8cb3037261fa5a4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/12000/Cameron__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "12000",
+  "timestamp": "2026-05-24T23:44:30.571813Z",
+  "version": 1
+}

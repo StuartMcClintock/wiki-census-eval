@@ -1,0 +1,16 @@
+{
+  "article": "Dodson,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/21170/Dodson__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "df76560f1a622c505c29c6ddffa13b80be8b8d9cb4f7b173e2166c79e4bf39a7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "df76560f1a622c505c29c6ddffa13b80be8b8d9cb4f7b173e2166c79e4bf39a7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/21170/Dodson__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "21170",
+  "timestamp": "2026-05-24T23:44:45.172733Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Bluff_City,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/07270/Bluff_City__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c7810ada11b3102a75e9005e9161035955236c6f59a5bc7ce27030d0e9454860",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c7810ada11b3102a75e9005e9161035955236c6f59a5bc7ce27030d0e9454860",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/07270/Bluff_City__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "07270",
+  "timestamp": "2026-05-24T23:33:21.868669Z",
+  "version": 1
+}

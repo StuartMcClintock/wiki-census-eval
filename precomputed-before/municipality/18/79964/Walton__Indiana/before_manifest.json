@@ -1,0 +1,16 @@
+{
+  "article": "Walton,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/79964/Walton__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "46f36a6d7a588c11a14652bc28e950da3f77f29aa5b28ff026d5af519ec4fb78",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "46f36a6d7a588c11a14652bc28e950da3f77f29aa5b28ff026d5af519ec4fb78",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/79964/Walton__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "79964",
+  "timestamp": "2026-05-24T23:40:17.776267Z",
+  "version": 1
+}

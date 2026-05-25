@@ -1,0 +1,16 @@
+{
+  "article": "Enon_Valley,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/23768/Enon_Valley__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a4fb0b54048624ee369213b4533c4b1b7879e72e60ecd23380f55e9cccb64978",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a4fb0b54048624ee369213b4533c4b1b7879e72e60ecd23380f55e9cccb64978",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/23768/Enon_Valley__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "23768",
+  "timestamp": "2026-05-25T00:07:05.141682Z",
+  "version": 1
+}

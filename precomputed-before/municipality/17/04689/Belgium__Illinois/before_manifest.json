@@ -1,0 +1,16 @@
+{
+  "article": "Belgium,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/04689/Belgium__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1d6ff470d8bc2d14c94df051099ae1af8e5fd6d8a2d453c1efe115104a810ddd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1d6ff470d8bc2d14c94df051099ae1af8e5fd6d8a2d453c1efe115104a810ddd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/04689/Belgium__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "04689",
+  "timestamp": "2026-05-24T23:37:37.385448Z",
+  "version": 1
+}

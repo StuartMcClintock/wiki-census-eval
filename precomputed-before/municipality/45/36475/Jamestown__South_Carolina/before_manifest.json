@@ -1,0 +1,16 @@
+{
+  "article": "Jamestown,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/36475/Jamestown__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "22af5d7d6ac82b1b9ce07d0c8f1f9e68820687e6ec7a3de51091bb9f1975e9af",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "22af5d7d6ac82b1b9ce07d0c8f1f9e68820687e6ec7a3de51091bb9f1975e9af",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/36475/Jamestown__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "36475",
+  "timestamp": "2026-05-25T00:10:07.930854Z",
+  "version": 1
+}

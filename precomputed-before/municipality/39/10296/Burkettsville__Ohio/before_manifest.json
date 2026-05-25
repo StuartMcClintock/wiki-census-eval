@@ -1,0 +1,16 @@
+{
+  "article": "Burkettsville,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/10296/Burkettsville__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ed0aa3ce47a52099af29c76d60232c61962ad92cfd1db23003274ec14df1e5a0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ed0aa3ce47a52099af29c76d60232c61962ad92cfd1db23003274ec14df1e5a0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/10296/Burkettsville__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "10296",
+  "timestamp": "2026-05-25T00:03:50.846710Z",
+  "version": 1
+}

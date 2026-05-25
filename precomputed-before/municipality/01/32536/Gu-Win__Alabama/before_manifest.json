@@ -1,0 +1,16 @@
+{
+  "article": "Gu-Win,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/32536/Gu-Win__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2269afe9173db523e4d19ab11d91c0036b71f0576c5a12f149ab31aacb03969e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2269afe9173db523e4d19ab11d91c0036b71f0576c5a12f149ab31aacb03969e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/32536/Gu-Win__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "32536",
+  "timestamp": "2026-05-24T23:31:58.543452Z",
+  "version": 1
+}

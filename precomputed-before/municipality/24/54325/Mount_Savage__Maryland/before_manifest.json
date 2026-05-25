@@ -1,0 +1,16 @@
+{
+  "article": "Mount_Savage,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/54325/Mount_Savage__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "12e4d9c0c77427866e32429ddb2133f75ed7f8b040331dd6f4f576700ac51e44",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "12e4d9c0c77427866e32429ddb2133f75ed7f8b040331dd6f4f576700ac51e44",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/54325/Mount_Savage__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "54325",
+  "timestamp": "2026-05-24T23:47:28.471890Z",
+  "version": 1
+}

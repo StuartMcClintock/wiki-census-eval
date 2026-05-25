@@ -1,0 +1,16 @@
+{
+  "article": "Taylorsville,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/78008/Taylorsville__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0651a3716bcc8de7ff7dec0257625c22dc85e228ffb77e0aca042e29dced5dde",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0651a3716bcc8de7ff7dec0257625c22dc85e228ffb77e0aca042e29dced5dde",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/78008/Taylorsville__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "78008",
+  "timestamp": "2026-05-24T23:35:08.930738Z",
+  "version": 1
+}

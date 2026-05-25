@@ -1,0 +1,16 @@
+{
+  "article": "Norman,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/50030/Norman__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7f647501d3e5c50856f6937b76184134b2aff8ef5ee655aebcaaf5deeed2d787",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7f647501d3e5c50856f6937b76184134b2aff8ef5ee655aebcaaf5deeed2d787",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/50030/Norman__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "50030",
+  "timestamp": "2026-05-24T23:34:00.592989Z",
+  "version": 1
+}

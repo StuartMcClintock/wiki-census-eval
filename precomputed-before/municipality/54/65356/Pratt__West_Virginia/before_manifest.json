@@ -1,0 +1,16 @@
+{
+  "article": "Pratt,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/65356/Pratt__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "670c831a9e6e177ce3ba49da7a5667acac9e18d1ec32a2463ec1e9b489fb5305",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "670c831a9e6e177ce3ba49da7a5667acac9e18d1ec32a2463ec1e9b489fb5305",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/65356/Pratt__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "65356",
+  "timestamp": "2026-05-25T00:21:21.683303Z",
+  "version": 1
+}

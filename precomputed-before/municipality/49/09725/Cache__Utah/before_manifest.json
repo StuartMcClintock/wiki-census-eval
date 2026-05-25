@@ -1,0 +1,16 @@
+{
+  "article": "Cache,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/09725/Cache__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "38b7e2ff46b284e71cbef7a00c572dd4b568dbcf4fc40576986e7fc95686923c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "38b7e2ff46b284e71cbef7a00c572dd4b568dbcf4fc40576986e7fc95686923c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/09725/Cache__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "09725",
+  "timestamp": "2026-05-25T00:16:54.766104Z",
+  "version": 1
+}

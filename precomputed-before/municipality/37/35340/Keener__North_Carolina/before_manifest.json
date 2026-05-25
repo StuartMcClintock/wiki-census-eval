@@ -1,0 +1,16 @@
+{
+  "article": "Keener,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/35340/Keener__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b634ee3b303923457df22a19a6c0a849030cb0d1a805c5abb06990e17d6cfd64",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b634ee3b303923457df22a19a6c0a849030cb0d1a805c5abb06990e17d6cfd64",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/35340/Keener__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "35340",
+  "timestamp": "2026-05-25T00:02:05.711772Z",
+  "version": 1
+}

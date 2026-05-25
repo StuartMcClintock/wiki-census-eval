@@ -1,0 +1,16 @@
+{
+  "article": "Coal_Center,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/14568/Coal_Center__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a4ab3cf50a8b9142c51fbff43e02bfc0d2114e621e94c1cd0936f186e4ef35fd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a4ab3cf50a8b9142c51fbff43e02bfc0d2114e621e94c1cd0936f186e4ef35fd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/14568/Coal_Center__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "14568",
+  "timestamp": "2026-05-25T00:06:43.463693Z",
+  "version": 1
+}

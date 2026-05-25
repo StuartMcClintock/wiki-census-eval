@@ -1,0 +1,16 @@
+{
+  "article": "Pender,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/38750/Pender__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d14793378222238cb4dcc87272c775f3010dac20c7449d919eb40e4063411408",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d14793378222238cb4dcc87272c775f3010dac20c7449d919eb40e4063411408",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/38750/Pender__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "38750",
+  "timestamp": "2026-05-24T23:56:02.560967Z",
+  "version": 1
+}

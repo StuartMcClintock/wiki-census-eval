@@ -1,0 +1,16 @@
+{
+  "article": "Westland,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/83272/Westland__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "06a039d36473b1d394a6d4cfd1be4fe2d204fde384acc4f0b3d9782b3f24d99a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "06a039d36473b1d394a6d4cfd1be4fe2d204fde384acc4f0b3d9782b3f24d99a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/83272/Westland__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "83272",
+  "timestamp": "2026-05-25T00:09:28.192869Z",
+  "version": 1
+}

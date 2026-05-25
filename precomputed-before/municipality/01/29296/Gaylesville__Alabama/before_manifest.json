@@ -1,0 +1,16 @@
+{
+  "article": "Gaylesville,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/29296/Gaylesville__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fdbe21f612769462a145266571b83b7212c9b98ca0b2ea971156cbf947899c65",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fdbe21f612769462a145266571b83b7212c9b98ca0b2ea971156cbf947899c65",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/29296/Gaylesville__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "29296",
+  "timestamp": "2026-05-24T23:31:57.112161Z",
+  "version": 1
+}

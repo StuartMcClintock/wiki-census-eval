@@ -1,0 +1,16 @@
+{
+  "article": "Chaumont,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/14036/Chaumont__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "217b80b4c9094d604672d0d3030f8033ebb002f9ccf53de416cf3aadf331c9be",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "217b80b4c9094d604672d0d3030f8033ebb002f9ccf53de416cf3aadf331c9be",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/14036/Chaumont__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "14036",
+  "timestamp": "2026-05-25T00:00:35.852430Z",
+  "version": 1
+}

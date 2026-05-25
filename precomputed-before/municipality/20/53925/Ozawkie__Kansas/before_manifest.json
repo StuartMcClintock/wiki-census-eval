@@ -1,0 +1,16 @@
+{
+  "article": "Ozawkie,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/53925/Ozawkie__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "528bd9e258d7a802ceb4c184cab4b54549cac15009fa798a4accee662000e3c2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "528bd9e258d7a802ceb4c184cab4b54549cac15009fa798a4accee662000e3c2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/53925/Ozawkie__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "53925",
+  "timestamp": "2026-05-24T23:43:17.985415Z",
+  "version": 1
+}

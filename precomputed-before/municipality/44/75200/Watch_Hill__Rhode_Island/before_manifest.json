@@ -1,0 +1,16 @@
+{
+  "article": "Watch_Hill,_Rhode_Island",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/44/75200/Watch_Hill__Rhode_Island/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3cdd7c1bff04ce424afe420f3c39df31629b819fbe112a7d574944f4532bff42",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3cdd7c1bff04ce424afe420f3c39df31629b819fbe112a7d574944f4532bff42",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/44/75200/Watch_Hill__Rhode_Island/manifest.json",
+  "state_fips": "44",
+  "status": "match",
+  "target_fips": "75200",
+  "timestamp": "2026-05-25T00:09:37.731906Z",
+  "version": 1
+}

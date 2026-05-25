@@ -1,0 +1,16 @@
+{
+  "article": "Crooked_Creek,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/20550/Crooked_Creek__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4b196b21c0c90c13d4fe13909fb52dae4cbd62e7c2d6309e21f3eba032108373",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4b196b21c0c90c13d4fe13909fb52dae4cbd62e7c2d6309e21f3eba032108373",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/20550/Crooked_Creek__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "20550",
+  "timestamp": "2026-05-24T23:36:33.429753Z",
+  "version": 1
+}

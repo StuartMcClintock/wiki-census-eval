@@ -1,0 +1,16 @@
+{
+  "article": "The_Silos,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/73760/The_Silos__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "67a19c33c080d7f504ae5c9ae115583a7fda90f8cdbd5f581b0a80fabe7df5cf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "67a19c33c080d7f504ae5c9ae115583a7fda90f8cdbd5f581b0a80fabe7df5cf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/73760/The_Silos__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "73760",
+  "timestamp": "2026-05-24T23:54:53.917451Z",
+  "version": 1
+}

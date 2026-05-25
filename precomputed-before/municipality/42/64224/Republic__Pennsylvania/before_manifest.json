@@ -1,0 +1,16 @@
+{
+  "article": "Republic,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/64224/Republic__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "74c548456a9450eb81e5357ece7b94a651186e31ab6bbfe6f8d6f2d8bbca8f41",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "74c548456a9450eb81e5357ece7b94a651186e31ab6bbfe6f8d6f2d8bbca8f41",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/64224/Republic__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "64224",
+  "timestamp": "2026-05-25T00:08:48.495979Z",
+  "version": 1
+}

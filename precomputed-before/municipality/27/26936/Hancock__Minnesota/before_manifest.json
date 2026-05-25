@@ -1,0 +1,16 @@
+{
+  "article": "Hancock,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/26936/Hancock__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f43de8a57aa4a2817a07f2e428e8c2860bb44a09af9630148bb2e700330ad95d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f43de8a57aa4a2817a07f2e428e8c2860bb44a09af9630148bb2e700330ad95d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/26936/Hancock__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "26936",
+  "timestamp": "2026-05-24T23:49:05.883268Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Fowler,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/30040/Fowler__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1de9c6f20c2c5a34d5b095ebf199b236d9141d19a23a0b97e313fa11c75689fc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1de9c6f20c2c5a34d5b095ebf199b236d9141d19a23a0b97e313fa11c75689fc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/30040/Fowler__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "30040",
+  "timestamp": "2026-05-24T23:47:55.469679Z",
+  "version": 1
+}

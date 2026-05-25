@@ -1,0 +1,16 @@
+{
+  "article": "Olivet,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/55820/Olivet__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6ce851475a2a29ee43adc8fb2ebbf718ae213d413c244de6498f88c4d6336a38",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6ce851475a2a29ee43adc8fb2ebbf718ae213d413c244de6498f88c4d6336a38",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/55820/Olivet__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "55820",
+  "timestamp": "2026-05-25T00:14:49.612243Z",
+  "version": 1
+}

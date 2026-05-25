@@ -1,0 +1,16 @@
+{
+  "article": "Lockport_Heights,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/44244/Lockport_Heights__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7ce34cbc67a3e67952a6b290b7a5f4b57b496634b8404d4e69434cff22da8c8c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7ce34cbc67a3e67952a6b290b7a5f4b57b496634b8404d4e69434cff22da8c8c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/44244/Lockport_Heights__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "44244",
+  "timestamp": "2026-05-24T23:38:30.013679Z",
+  "version": 1
+}

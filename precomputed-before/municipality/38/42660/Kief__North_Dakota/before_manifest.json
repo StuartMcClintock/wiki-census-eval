@@ -1,0 +1,16 @@
+{
+  "article": "Kief,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/42660/Kief__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "493ba2b100f73e3b970876bcad4b576f8f1346ea12aeb6227a1aba7fe4b2d3e8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "493ba2b100f73e3b970876bcad4b576f8f1346ea12aeb6227a1aba7fe4b2d3e8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/42660/Kief__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "42660",
+  "timestamp": "2026-05-25T00:03:06.102634Z",
+  "version": 1
+}

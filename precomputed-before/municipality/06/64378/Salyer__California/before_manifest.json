@@ -1,0 +1,16 @@
+{
+  "article": "Salyer,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/64378/Salyer__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "92f00420e773df4a38521c35377fcdff57a212f48384ad85fa8461e3d932c9f2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "92f00420e773df4a38521c35377fcdff57a212f48384ad85fa8461e3d932c9f2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/64378/Salyer__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "64378",
+  "timestamp": "2026-05-24T23:35:03.361155Z",
+  "version": 1
+}

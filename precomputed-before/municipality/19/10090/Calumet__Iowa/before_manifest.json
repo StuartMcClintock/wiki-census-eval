@@ -1,0 +1,16 @@
+{
+  "article": "Calumet,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/10090/Calumet__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6185ca093b9f0065e4a6b2d4921f3e8fd79337a0a8aa881cd7ba20860c2c7866",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6185ca093b9f0065e4a6b2d4921f3e8fd79337a0a8aa881cd7ba20860c2c7866",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/10090/Calumet__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "10090",
+  "timestamp": "2026-05-24T23:40:32.066916Z",
+  "version": 1
+}

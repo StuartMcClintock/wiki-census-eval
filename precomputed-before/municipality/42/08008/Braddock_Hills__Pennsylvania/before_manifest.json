@@ -1,0 +1,16 @@
+{
+  "article": "Braddock_Hills,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/08008/Braddock_Hills__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c31b033a87c8e875e2f63f7f7bfd207b885f8206e9e545599adfc624eee0e3f1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c31b033a87c8e875e2f63f7f7bfd207b885f8206e9e545599adfc624eee0e3f1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/08008/Braddock_Hills__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "08008",
+  "timestamp": "2026-05-25T00:06:20.163376Z",
+  "version": 1
+}

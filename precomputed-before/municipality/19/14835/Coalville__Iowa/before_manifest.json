@@ -1,0 +1,16 @@
+{
+  "article": "Coalville,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/14835/Coalville__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "67e7cbb4f39afd025bef9348fb62a707287b8eb7be93d56365378201e6e19d15",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "67e7cbb4f39afd025bef9348fb62a707287b8eb7be93d56365378201e6e19d15",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/14835/Coalville__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "14835",
+  "timestamp": "2026-05-24T23:40:35.500846Z",
+  "version": 1
+}

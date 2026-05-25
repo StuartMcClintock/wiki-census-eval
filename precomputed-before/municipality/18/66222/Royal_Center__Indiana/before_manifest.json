@@ -1,0 +1,16 @@
+{
+  "article": "Royal_Center,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/66222/Royal_Center__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a4d0bb1bb63bf16edb20ed1e9deb79904e3733c72ee70df7c341f7782cdebfc5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a4d0bb1bb63bf16edb20ed1e9deb79904e3733c72ee70df7c341f7782cdebfc5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/66222/Royal_Center__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "66222",
+  "timestamp": "2026-05-24T23:40:10.987523Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Fair_Play,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/24730/Fair_Play__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d7d5a57ed8c6dea3a4ac9d8c2244f1d1eaa1f0e4fa57f9a8003241ffb105183c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d7d5a57ed8c6dea3a4ac9d8c2244f1d1eaa1f0e4fa57f9a8003241ffb105183c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/24730/Fair_Play__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "24730",
+  "timestamp": "2026-05-25T00:10:02.699903Z",
+  "version": 1
+}

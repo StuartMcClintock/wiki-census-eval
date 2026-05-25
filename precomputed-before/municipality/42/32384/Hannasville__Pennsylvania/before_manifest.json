@@ -1,0 +1,16 @@
+{
+  "article": "Hannasville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/32384/Hannasville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0700fa738ecb302be59ad33ec3d280ff6480417abbccd47ff64c21aeaaa3093b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0700fa738ecb302be59ad33ec3d280ff6480417abbccd47ff64c21aeaaa3093b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/32384/Hannasville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "32384",
+  "timestamp": "2026-05-25T00:07:21.591953Z",
+  "version": 1
+}

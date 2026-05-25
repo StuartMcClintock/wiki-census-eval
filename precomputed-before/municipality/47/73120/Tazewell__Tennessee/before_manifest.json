@@ -1,0 +1,16 @@
+{
+  "article": "Tazewell,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/73120/Tazewell__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "eeed09aec45113e8dee346deeecd37ee1c159a2ced4653d078266c77884f39d1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "eeed09aec45113e8dee346deeecd37ee1c159a2ced4653d078266c77884f39d1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/73120/Tazewell__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "73120",
+  "timestamp": "2026-05-25T00:14:55.900862Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Rock_River,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/67090/Rock_River__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5e9a4bf1b7b2036c95b171b1ecf6acd809cc26560b4d8599fac18e6d442410a0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5e9a4bf1b7b2036c95b171b1ecf6acd809cc26560b4d8599fac18e6d442410a0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/67090/Rock_River__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "67090",
+  "timestamp": "2026-05-25T00:23:22.532519Z",
+  "version": 1
+}

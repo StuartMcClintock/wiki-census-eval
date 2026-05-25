@@ -1,0 +1,16 @@
+{
+  "article": "Decker,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/17110/Decker__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ddd1afaaf00de2edde9c0f2a7c69e5890f1c1d9684795de0316009a44fd7211b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ddd1afaaf00de2edde9c0f2a7c69e5890f1c1d9684795de0316009a44fd7211b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/17110/Decker__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "17110",
+  "timestamp": "2026-05-24T23:39:32.410213Z",
+  "version": 1
+}

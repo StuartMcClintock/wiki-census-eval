@@ -1,0 +1,16 @@
+{
+  "article": "Hansboro,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/35140/Hansboro__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "00775e96a1c75fa0c9bc0b1ecd4897385d2cff067bbfc439746282ea8b10da76",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "00775e96a1c75fa0c9bc0b1ecd4897385d2cff067bbfc439746282ea8b10da76",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/35140/Hansboro__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "35140",
+  "timestamp": "2026-05-25T00:03:03.202936Z",
+  "version": 1
+}

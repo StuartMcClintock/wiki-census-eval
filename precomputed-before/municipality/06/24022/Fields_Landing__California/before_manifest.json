@@ -1,0 +1,16 @@
+{
+  "article": "Fields_Landing,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/24022/Fields_Landing__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e762c400a71284deb345088f8956c479af5807f1d9eebc8c800564365d164ee2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e762c400a71284deb345088f8956c479af5807f1d9eebc8c800564365d164ee2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/24022/Fields_Landing__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "24022",
+  "timestamp": "2026-05-24T23:34:22.915325Z",
+  "version": 1
+}

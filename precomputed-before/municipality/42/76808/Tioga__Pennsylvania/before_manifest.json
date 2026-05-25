@@ -1,0 +1,16 @@
+{
+  "article": "Tioga,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/76808/Tioga__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d913ee589317a7480d9cf2c2fcfb9f99d87876d9e9f96d6c16e14e1fc2c3883e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d913ee589317a7480d9cf2c2fcfb9f99d87876d9e9f96d6c16e14e1fc2c3883e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/76808/Tioga__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "76808",
+  "timestamp": "2026-05-25T00:09:16.964694Z",
+  "version": 1
+}

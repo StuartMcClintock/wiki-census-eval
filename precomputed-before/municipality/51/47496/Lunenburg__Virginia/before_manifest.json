@@ -1,0 +1,16 @@
+{
+  "article": "Lunenburg,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/47496/Lunenburg__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cae41745bc589ada14b3f40a438950ce36860e061462697b64a91a4ba3af1a67",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cae41745bc589ada14b3f40a438950ce36860e061462697b64a91a4ba3af1a67",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/47496/Lunenburg__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "47496",
+  "timestamp": "2026-05-25T00:19:22.971815Z",
+  "version": 1
+}

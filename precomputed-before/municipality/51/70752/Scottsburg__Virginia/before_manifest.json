@@ -1,0 +1,16 @@
+{
+  "article": "Scottsburg,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/70752/Scottsburg__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9b20fa4bccab77d2920eb481a0ab3bb1b1f388e62a70b3cec0ca5fb824fe3c6e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9b20fa4bccab77d2920eb481a0ab3bb1b1f388e62a70b3cec0ca5fb824fe3c6e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/70752/Scottsburg__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "70752",
+  "timestamp": "2026-05-25T00:19:36.562671Z",
+  "version": 1
+}

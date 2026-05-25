@@ -1,0 +1,16 @@
+{
+  "article": "Johnson_City,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/35600/Johnson_City__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4b2d92dfef9e5961c676f15aced0fb5a5a9c421aeeb95a586fcb5219f869b5bf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4b2d92dfef9e5961c676f15aced0fb5a5a9c421aeeb95a586fcb5219f869b5bf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/35600/Johnson_City__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "35600",
+  "timestamp": "2026-05-24T23:42:49.628294Z",
+  "version": 1
+}

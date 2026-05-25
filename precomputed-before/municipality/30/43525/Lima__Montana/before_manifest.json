@@ -1,0 +1,16 @@
+{
+  "article": "Lima,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/43525/Lima__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c737b158dd0d111201ce499532370735177a72843ae139985f027598f11259b8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c737b158dd0d111201ce499532370735177a72843ae139985f027598f11259b8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/43525/Lima__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "43525",
+  "timestamp": "2026-05-24T23:54:35.098810Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Saluda,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/70112/Saluda__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "04be940af6069f86cd37ccb915c76efc042c6ed27acd7b142d2fd6672a6f235c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "04be940af6069f86cd37ccb915c76efc042c6ed27acd7b142d2fd6672a6f235c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/70112/Saluda__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "70112",
+  "timestamp": "2026-05-25T00:19:35.425847Z",
+  "version": 1
+}

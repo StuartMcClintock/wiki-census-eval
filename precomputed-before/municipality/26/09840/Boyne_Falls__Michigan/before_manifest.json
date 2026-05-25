@@ -1,0 +1,16 @@
+{
+  "article": "Boyne_Falls,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/09840/Boyne_Falls__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "930462318e3282c0990932e984b7e89de11539993856457626400c14879674eb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "930462318e3282c0990932e984b7e89de11539993856457626400c14879674eb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/09840/Boyne_Falls__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "09840",
+  "timestamp": "2026-05-24T23:47:44.481019Z",
+  "version": 1
+}

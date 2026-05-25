@@ -1,0 +1,16 @@
+{
+  "article": "Caswell_Beach,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/10960/Caswell_Beach__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ecac9d7dfda409d79682853a53f6dbb7f79ce254fb0396efeb3a481b9bbd5bba",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ecac9d7dfda409d79682853a53f6dbb7f79ce254fb0396efeb3a481b9bbd5bba",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/10960/Caswell_Beach__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "10960",
+  "timestamp": "2026-05-25T00:01:48.967477Z",
+  "version": 1
+}

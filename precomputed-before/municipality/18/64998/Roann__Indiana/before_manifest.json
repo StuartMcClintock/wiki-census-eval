@@ -1,0 +1,16 @@
+{
+  "article": "Roann,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/64998/Roann__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b4376b3e182fbcf117b7234341d1d298ef35ea47fb356da6f8579bcfc5d54079",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b4376b3e182fbcf117b7234341d1d298ef35ea47fb356da6f8579bcfc5d54079",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/64998/Roann__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "64998",
+  "timestamp": "2026-05-24T23:40:10.211218Z",
+  "version": 1
+}

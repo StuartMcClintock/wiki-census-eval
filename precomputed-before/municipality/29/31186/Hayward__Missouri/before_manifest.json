@@ -1,0 +1,16 @@
+{
+  "article": "Hayward,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/31186/Hayward__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a7a9681906b51131570fb3991def382528adff1b2f3ea089fe67fa3d97071f1a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a7a9681906b51131570fb3991def382528adff1b2f3ea089fe67fa3d97071f1a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/31186/Hayward__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "31186",
+  "timestamp": "2026-05-24T23:53:17.034817Z",
+  "version": 1
+}

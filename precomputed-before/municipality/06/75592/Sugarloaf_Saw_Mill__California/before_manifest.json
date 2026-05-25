@@ -1,0 +1,16 @@
+{
+  "article": "Sugarloaf_Saw_Mill,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/75592/Sugarloaf_Saw_Mill__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bc6bbd9c7d50faf1e79333789340964f5393475954e478f8196922808b679f7c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bc6bbd9c7d50faf1e79333789340964f5393475954e478f8196922808b679f7c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/75592/Sugarloaf_Saw_Mill__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "75592",
+  "timestamp": "2026-05-24T23:35:07.960256Z",
+  "version": 1
+}

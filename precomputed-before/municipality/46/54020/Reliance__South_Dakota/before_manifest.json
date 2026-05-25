@@ -1,0 +1,16 @@
+{
+  "article": "Reliance,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/54020/Reliance__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ec930e1bf217569f15c932491eb21100f304d372d148df62c1956f71e57dc58e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ec930e1bf217569f15c932491eb21100f304d372d148df62c1956f71e57dc58e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/54020/Reliance__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "54020",
+  "timestamp": "2026-05-25T00:12:44.855938Z",
+  "version": 1
+}

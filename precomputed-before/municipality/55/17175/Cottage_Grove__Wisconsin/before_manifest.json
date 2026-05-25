@@ -1,0 +1,16 @@
+{
+  "article": "Cottage_Grove,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/17175/Cottage_Grove__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "868e92a9c5a9e46d9ba016e669595b1bdab7fee2906f5dec50b9c2fd4128a166",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "868e92a9c5a9e46d9ba016e669595b1bdab7fee2906f5dec50b9c2fd4128a166",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/17175/Cottage_Grove__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "17175",
+  "timestamp": "2026-05-25T00:21:45.276670Z",
+  "version": 1
+}

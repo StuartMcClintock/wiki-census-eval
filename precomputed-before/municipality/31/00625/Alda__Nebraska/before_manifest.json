@@ -1,0 +1,16 @@
+{
+  "article": "Alda,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/00625/Alda__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "49ed5b4fd402f24225daf4b43ba6b081a4e6addb7cc9286e3c833d1520e7daa7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "49ed5b4fd402f24225daf4b43ba6b081a4e6addb7cc9286e3c833d1520e7daa7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/00625/Alda__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "00625",
+  "timestamp": "2026-05-24T23:55:07.137938Z",
+  "version": 1
+}

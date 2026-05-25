@@ -1,0 +1,16 @@
+{
+  "article": "Lewistown_Heights,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/43400/Lewistown_Heights__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9f60924c4829fdf50b60bcfd39efa21e77c17f52ab177271b0a7eef9622ee6db",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9f60924c4829fdf50b60bcfd39efa21e77c17f52ab177271b0a7eef9622ee6db",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/43400/Lewistown_Heights__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "43400",
+  "timestamp": "2026-05-24T23:54:34.958128Z",
+  "version": 1
+}

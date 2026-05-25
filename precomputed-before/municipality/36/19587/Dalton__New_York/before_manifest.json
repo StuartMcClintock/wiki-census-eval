@@ -1,0 +1,16 @@
+{
+  "article": "Dalton,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/19587/Dalton__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "caf0ad37468db83f102bf2024c16a244c0e5c2c14dcbdb4d47d386bd06b69fc4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "caf0ad37468db83f102bf2024c16a244c0e5c2c14dcbdb4d47d386bd06b69fc4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/19587/Dalton__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "19587",
+  "timestamp": "2026-05-25T00:00:39.040421Z",
+  "version": 1
+}

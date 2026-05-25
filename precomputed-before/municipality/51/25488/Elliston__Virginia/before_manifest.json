@@ -1,0 +1,16 @@
+{
+  "article": "Elliston,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/25488/Elliston__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "210c4a731c7a21a8e9703ccd861f3ad76ac185a758c86905c8a34324973a0612",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "210c4a731c7a21a8e9703ccd861f3ad76ac185a758c86905c8a34324973a0612",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/25488/Elliston__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "25488",
+  "timestamp": "2026-05-25T00:19:11.682796Z",
+  "version": 1
+}

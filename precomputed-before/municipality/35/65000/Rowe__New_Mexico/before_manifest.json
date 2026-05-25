@@ -1,0 +1,16 @@
+{
+  "article": "Rowe,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/65000/Rowe__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1ea3ff0ca754fa80c189d1b780bb6b9c250b2a9de31c2b3cf10d7e46ceafbeb9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1ea3ff0ca754fa80c189d1b780bb6b9c250b2a9de31c2b3cf10d7e46ceafbeb9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/65000/Rowe__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "65000",
+  "timestamp": "2026-05-24T23:58:51.736980Z",
+  "version": 1
+}

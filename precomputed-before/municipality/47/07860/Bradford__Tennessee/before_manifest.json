@@ -1,0 +1,16 @@
+{
+  "article": "Bradford,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/07860/Bradford__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e14dfdab05641c0d6fb7d541937bd09d590612368a738b7ab486f70398dde2cf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e14dfdab05641c0d6fb7d541937bd09d590612368a738b7ab486f70398dde2cf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/07860/Bradford__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "07860",
+  "timestamp": "2026-05-25T00:14:32.744668Z",
+  "version": 1
+}

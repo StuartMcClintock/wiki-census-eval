@@ -1,0 +1,16 @@
+{
+  "article": "Letcher,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/36620/Letcher__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "632b977a74cda73f4ebbb9534809887ca84182e942e95a7d73297af42fa9cba2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "632b977a74cda73f4ebbb9534809887ca84182e942e95a7d73297af42fa9cba2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/36620/Letcher__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "36620",
+  "timestamp": "2026-05-25T00:11:01.265758Z",
+  "version": 1
+}

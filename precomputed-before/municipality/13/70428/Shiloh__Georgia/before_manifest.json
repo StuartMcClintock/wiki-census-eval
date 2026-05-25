@@ -1,0 +1,16 @@
+{
+  "article": "Shiloh,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/70428/Shiloh__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "89b8f4096ceb11d2bd3c65f26753792ea3e3e69ee73626598ed6b82b9a837238",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "89b8f4096ceb11d2bd3c65f26753792ea3e3e69ee73626598ed6b82b9a837238",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/70428/Shiloh__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "70428",
+  "timestamp": "2026-05-24T23:37:07.568256Z",
+  "version": 1
+}

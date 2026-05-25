@@ -1,0 +1,16 @@
+{
+  "article": "Hillview,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/35203/Hillview__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "61840879b4bbc5db42f92e6b2a029733e3f79cae2c5a8b6413db1679b5c3fd43",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "61840879b4bbc5db42f92e6b2a029733e3f79cae2c5a8b6413db1679b5c3fd43",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/35203/Hillview__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "35203",
+  "timestamp": "2026-05-24T23:38:20.243968Z",
+  "version": 1
+}

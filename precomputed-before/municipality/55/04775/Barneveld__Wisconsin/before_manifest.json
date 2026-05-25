@@ -1,0 +1,16 @@
+{
+  "article": "Barneveld,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/04775/Barneveld__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aede842c36c2119884e7aad6f1a9564b8f6435ed5a1f92b9635329e377b9c001",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aede842c36c2119884e7aad6f1a9564b8f6435ed5a1f92b9635329e377b9c001",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/04775/Barneveld__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "04775",
+  "timestamp": "2026-05-25T00:21:34.364925Z",
+  "version": 1
+}

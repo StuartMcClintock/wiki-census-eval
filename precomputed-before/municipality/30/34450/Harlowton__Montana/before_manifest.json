@@ -1,0 +1,16 @@
+{
+  "article": "Harlowton,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/34450/Harlowton__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c135a0bab3a84d0c968f6d886750a0124be320f50746eb9b8295a3c616deecd8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c135a0bab3a84d0c968f6d886750a0124be320f50746eb9b8295a3c616deecd8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/34450/Harlowton__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "34450",
+  "timestamp": "2026-05-24T23:54:28.518768Z",
+  "version": 1
+}

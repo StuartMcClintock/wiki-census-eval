@@ -1,0 +1,16 @@
+{
+  "article": "Lansford,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/44900/Lansford__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7ec0fa35ac71f69ff1379088aa827a806218bc35be5d1bc93b5e5c3c1227445e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7ec0fa35ac71f69ff1379088aa827a806218bc35be5d1bc93b5e5c3c1227445e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/44900/Lansford__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "44900",
+  "timestamp": "2026-05-25T00:03:07.470286Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Espy,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/24088/Espy__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dd00c23fa1f95e2dee2cd18b4b536e447eedfaff02eaa06d3aea7a9545a5d42b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dd00c23fa1f95e2dee2cd18b4b536e447eedfaff02eaa06d3aea7a9545a5d42b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/24088/Espy__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "24088",
+  "timestamp": "2026-05-25T00:07:05.352494Z",
+  "version": 1
+}

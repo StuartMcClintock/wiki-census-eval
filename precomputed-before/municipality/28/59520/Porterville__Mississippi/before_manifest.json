@@ -1,0 +1,16 @@
+{
+  "article": "Porterville,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/59520/Porterville__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "17357d020f577faa85aaf526d7e03933abf3716e47351f24c31d4e0ef2c029f0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "17357d020f577faa85aaf526d7e03933abf3716e47351f24c31d4e0ef2c029f0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/59520/Porterville__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "59520",
+  "timestamp": "2026-05-24T23:50:20.671667Z",
+  "version": 1
+}

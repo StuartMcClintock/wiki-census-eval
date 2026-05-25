@@ -1,0 +1,16 @@
+{
+  "article": "Union_Springs,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/76155/Union_Springs__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4ab2577a24bf08f4b960018c92f721090cc4334ef7dbb60af4afb862272e51be",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4ab2577a24bf08f4b960018c92f721090cc4334ef7dbb60af4afb862272e51be",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/76155/Union_Springs__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "76155",
+  "timestamp": "2026-05-25T00:01:21.122968Z",
+  "version": 1
+}

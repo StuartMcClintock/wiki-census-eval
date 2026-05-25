@@ -1,0 +1,16 @@
+{
+  "article": "Switzer,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/78796/Switzer__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "332a89b881e8c21fcba5c4b2c3fe9a8b6bbeb1d2ca6ab63ef1b427ec2003d2b6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "332a89b881e8c21fcba5c4b2c3fe9a8b6bbeb1d2ca6ab63ef1b427ec2003d2b6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/78796/Switzer__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "78796",
+  "timestamp": "2026-05-25T00:21:26.747009Z",
+  "version": 1
+}

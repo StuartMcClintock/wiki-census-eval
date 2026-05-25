@@ -1,0 +1,16 @@
+{
+  "article": "Preston,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/59870/Preston__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3f37f48ba65407ff8bc2720750ffde7dcc2bb63c8abc54e8ed4732bd56c9f7a6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3f37f48ba65407ff8bc2720750ffde7dcc2bb63c8abc54e8ed4732bd56c9f7a6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/59870/Preston__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "59870",
+  "timestamp": "2026-05-24T23:53:43.843963Z",
+  "version": 1
+}

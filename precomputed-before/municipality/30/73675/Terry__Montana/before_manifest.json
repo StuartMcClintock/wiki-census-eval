@@ -1,0 +1,16 @@
+{
+  "article": "Terry,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/73675/Terry__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ac17b4e5b444b6d7b018956dda9ca9c77dde601e9d4c52d3607c8dcc68908b2d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ac17b4e5b444b6d7b018956dda9ca9c77dde601e9d4c52d3607c8dcc68908b2d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/73675/Terry__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "73675",
+  "timestamp": "2026-05-24T23:54:53.782115Z",
+  "version": 1
+}

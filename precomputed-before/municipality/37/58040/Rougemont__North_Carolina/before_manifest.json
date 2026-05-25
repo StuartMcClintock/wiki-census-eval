@@ -1,0 +1,16 @@
+{
+  "article": "Rougemont,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/58040/Rougemont__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "30b16226f91fad83d8b14484e17bed85d7e8d5f6e7fd22ff7c94103ca607f32c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "30b16226f91fad83d8b14484e17bed85d7e8d5f6e7fd22ff7c94103ca607f32c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/58040/Rougemont__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "58040",
+  "timestamp": "2026-05-25T00:02:20.129264Z",
+  "version": 1
+}

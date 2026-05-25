@@ -1,0 +1,16 @@
+{
+  "article": "Little_Eagle,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/37900/Little_Eagle__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5f0880b5578af49a821efd3a898b79b4393c068ed2c66d08ccbb53c5640ec778",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5f0880b5578af49a821efd3a898b79b4393c068ed2c66d08ccbb53c5640ec778",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/37900/Little_Eagle__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "37900",
+  "timestamp": "2026-05-25T00:11:01.372556Z",
+  "version": 1
+}

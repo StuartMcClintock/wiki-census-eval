@@ -1,0 +1,16 @@
+{
+  "article": "Cuyamungue,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/19640/Cuyamungue__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "865d6aa5de47e913e0e44a892f922634ec7a169d2e1bfad2b46dfb7a97503f61",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "865d6aa5de47e913e0e44a892f922634ec7a169d2e1bfad2b46dfb7a97503f61",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/19640/Cuyamungue__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "19640",
+  "timestamp": "2026-05-24T23:58:27.780351Z",
+  "version": 1
+}

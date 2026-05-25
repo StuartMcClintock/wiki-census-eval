@@ -1,0 +1,16 @@
+{
+  "article": "Lower_Frisco,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/44595/Lower_Frisco__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "be5435ae4b368f34386baa1b64bcb97a20347198076b355e02e0facd34df20ba",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "be5435ae4b368f34386baa1b64bcb97a20347198076b355e02e0facd34df20ba",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/44595/Lower_Frisco__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "44595",
+  "timestamp": "2026-05-24T23:58:39.467486Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Spencer,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/73992/Spencer__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c280a16fbeeb5f2dca9d5221baa14500a1a5e738ca7f9c438cd25daa488912a6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c280a16fbeeb5f2dca9d5221baa14500a1a5e738ca7f9c438cd25daa488912a6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/73992/Spencer__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "73992",
+  "timestamp": "2026-05-25T00:05:29.149912Z",
+  "version": 1
+}

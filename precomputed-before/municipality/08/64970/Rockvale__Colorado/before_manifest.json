@@ -1,0 +1,16 @@
+{
+  "article": "Rockvale,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/64970/Rockvale__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "55b277f0982b5e7a8be1ebc2173636c814534834121c5b6db1bafa2175af23b9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "55b277f0982b5e7a8be1ebc2173636c814534834121c5b6db1bafa2175af23b9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/64970/Rockvale__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "64970",
+  "timestamp": "2026-05-24T23:35:38.688442Z",
+  "version": 1
+}

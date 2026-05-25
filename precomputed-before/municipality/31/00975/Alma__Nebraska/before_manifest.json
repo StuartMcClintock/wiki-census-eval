@@ -1,0 +1,16 @@
+{
+  "article": "Alma,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/00975/Alma__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fcf6985cd7334f7baf69603691e903db6baf8d7fda15e9d89d7596bb21582c5c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fcf6985cd7334f7baf69603691e903db6baf8d7fda15e9d89d7596bb21582c5c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/00975/Alma__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "00975",
+  "timestamp": "2026-05-24T23:55:07.498450Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Valley_Park,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/76040/Valley_Park__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c8b748477d22e7730dfa304c32c35a855d15932c71f41902a70ea15d9240be52",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c8b748477d22e7730dfa304c32c35a855d15932c71f41902a70ea15d9240be52",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/76040/Valley_Park__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "76040",
+  "timestamp": "2026-05-24T23:50:28.213449Z",
+  "version": 1
+}

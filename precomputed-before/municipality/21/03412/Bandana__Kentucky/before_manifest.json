@@ -1,0 +1,16 @@
+{
+  "article": "Bandana,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/03412/Bandana__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d73a5872d0b47305cf83b9e7da9162f0d3910a399f0d74db422cdf693a95beab",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d73a5872d0b47305cf83b9e7da9162f0d3910a399f0d74db422cdf693a95beab",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/03412/Bandana__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "03412",
+  "timestamp": "2026-05-24T23:43:41.900102Z",
+  "version": 1
+}

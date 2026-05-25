@@ -1,0 +1,16 @@
+{
+  "article": "Flat,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/26004/Flat__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "07745c2e1ed8bd93bffff9536dfe88122e80e8bc72a010ec75a20e475b6b3ca3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "07745c2e1ed8bd93bffff9536dfe88122e80e8bc72a010ec75a20e475b6b3ca3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/26004/Flat__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "26004",
+  "timestamp": "2026-05-25T00:15:35.921790Z",
+  "version": 1
+}

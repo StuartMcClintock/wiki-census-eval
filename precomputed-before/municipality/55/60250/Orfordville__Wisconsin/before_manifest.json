@@ -1,0 +1,16 @@
+{
+  "article": "Orfordville,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/60250/Orfordville__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f0396cc2fc24fc12d30fce5ec05915a0ade10b25f933338d183fa46adf460e11",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f0396cc2fc24fc12d30fce5ec05915a0ade10b25f933338d183fa46adf460e11",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/60250/Orfordville__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "60250",
+  "timestamp": "2026-05-25T00:22:32.186150Z",
+  "version": 1
+}

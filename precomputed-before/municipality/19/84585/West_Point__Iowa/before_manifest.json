@@ -1,0 +1,16 @@
+{
+  "article": "West_Point,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/84585/West_Point__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e471d23926d0bb8ad8aa903b824c2ad79e515492cbc769eb5dbbb61bbec75fdc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e471d23926d0bb8ad8aa903b824c2ad79e515492cbc769eb5dbbb61bbec75fdc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/84585/West_Point__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "84585",
+  "timestamp": "2026-05-24T23:42:11.763825Z",
+  "version": 1
+}

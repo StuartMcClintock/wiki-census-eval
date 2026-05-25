@@ -1,0 +1,16 @@
+{
+  "article": "Kipnuk,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/39740/Kipnuk__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c75c943bba4c0e5f7fb86769c24a040daf21dca8a1718cbc9f9f62a0526256be",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c75c943bba4c0e5f7fb86769c24a040daf21dca8a1718cbc9f9f62a0526256be",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/39740/Kipnuk__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "39740",
+  "timestamp": "2026-05-24T23:32:24.814731Z",
+  "version": 1
+}

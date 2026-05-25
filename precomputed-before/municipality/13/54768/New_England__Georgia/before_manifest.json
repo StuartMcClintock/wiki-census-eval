@@ -1,0 +1,16 @@
+{
+  "article": "New_England,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/54768/New_England__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c808bbea539094b21273b78f4b2dfab820cba1c7fc00af6e7c62404875da949c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c808bbea539094b21273b78f4b2dfab820cba1c7fc00af6e7c62404875da949c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/54768/New_England__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "54768",
+  "timestamp": "2026-05-24T23:37:01.172553Z",
+  "version": 1
+}

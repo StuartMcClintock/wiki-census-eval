@@ -1,0 +1,16 @@
+{
+  "article": "Fort_Loramie,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/27832/Fort_Loramie__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "88f01b59d5af40827cce8562dcb1ec9d0b6ab212af79594db4bd10b491aa48ac",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "88f01b59d5af40827cce8562dcb1ec9d0b6ab212af79594db4bd10b491aa48ac",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/27832/Fort_Loramie__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "27832",
+  "timestamp": "2026-05-25T00:04:09.366638Z",
+  "version": 1
+}

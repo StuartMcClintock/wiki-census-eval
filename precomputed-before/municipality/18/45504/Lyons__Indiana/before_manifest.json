@@ -1,0 +1,16 @@
+{
+  "article": "Lyons,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/45504/Lyons__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c5fd9ed30b3b099661c9b86d3d7e7c78c410070757f4ebb41fd398f63d4c3480",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c5fd9ed30b3b099661c9b86d3d7e7c78c410070757f4ebb41fd398f63d4c3480",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/45504/Lyons__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "45504",
+  "timestamp": "2026-05-24T23:39:55.131713Z",
+  "version": 1
+}

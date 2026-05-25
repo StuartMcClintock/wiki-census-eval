@@ -1,0 +1,16 @@
+{
+  "article": "Biddle,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/05650/Biddle__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "14070f2d5183cb02361e08960e0c37add8a111c90f70beb460cd40bad3f87097",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "14070f2d5183cb02361e08960e0c37add8a111c90f70beb460cd40bad3f87097",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/05650/Biddle__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "05650",
+  "timestamp": "2026-05-24T23:54:14.765501Z",
+  "version": 1
+}

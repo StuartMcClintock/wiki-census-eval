@@ -1,0 +1,16 @@
+{
+  "article": "Dora,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/21180/Dora__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3a2ad719a5d6ff84feb9d098af19db0845b4631dd9c7dcbe587d280cd1fe15ea",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3a2ad719a5d6ff84feb9d098af19db0845b4631dd9c7dcbe587d280cd1fe15ea",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/21180/Dora__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "21180",
+  "timestamp": "2026-05-24T23:58:28.624005Z",
+  "version": 1
+}

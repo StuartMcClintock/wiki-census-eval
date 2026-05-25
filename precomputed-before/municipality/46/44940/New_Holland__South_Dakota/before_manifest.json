@@ -1,0 +1,16 @@
+{
+  "article": "New_Holland,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/44940/New_Holland__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d1cdb2db52661fc62558ad48eb4781125518c14c24660dcd7363dfe315c8f38b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d1cdb2db52661fc62558ad48eb4781125518c14c24660dcd7363dfe315c8f38b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/44940/New_Holland__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "44940",
+  "timestamp": "2026-05-25T00:11:04.950857Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Screven,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/69448/Screven__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "68414446c059d0e355e71d79aa7dd06faeb02fc7f08bc8c789357d483c074f98",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "68414446c059d0e355e71d79aa7dd06faeb02fc7f08bc8c789357d483c074f98",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/69448/Screven__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "69448",
+  "timestamp": "2026-05-24T23:37:06.855339Z",
+  "version": 1
+}

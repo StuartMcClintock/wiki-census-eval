@@ -1,0 +1,16 @@
+{
+  "article": "Versailles,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/80040/Versailles__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "faa18fe734d89eb95144ae96149f65fa7d25b696ad5e21ad0fcc0fd4081c15f4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "faa18fe734d89eb95144ae96149f65fa7d25b696ad5e21ad0fcc0fd4081c15f4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/80040/Versailles__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "80040",
+  "timestamp": "2026-05-25T00:09:22.436873Z",
+  "version": 1
+}

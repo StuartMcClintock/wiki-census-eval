@@ -1,0 +1,16 @@
+{
+  "article": "Libertyville,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/42808/Libertyville__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "70ee1ace17c108c02de6b9a41154c008dc653ac95f83f7339f38c2abfde1b8ec",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "70ee1ace17c108c02de6b9a41154c008dc653ac95f83f7339f38c2abfde1b8ec",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/42808/Libertyville__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "42808",
+  "timestamp": "2026-05-24T23:32:02.243583Z",
+  "version": 1
+}

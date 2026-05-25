@@ -1,0 +1,16 @@
+{
+  "article": "Noxen,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/55728/Noxen__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d1bc3a593c1bfe3abd6b78c7a4c22443ae3c73b8bc6714cdaa2288a1ceebb86d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d1bc3a593c1bfe3abd6b78c7a4c22443ae3c73b8bc6714cdaa2288a1ceebb86d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/55728/Noxen__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "55728",
+  "timestamp": "2026-05-25T00:08:21.355442Z",
+  "version": 1
+}

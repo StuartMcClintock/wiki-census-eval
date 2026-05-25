@@ -1,0 +1,16 @@
+{
+  "article": "Mount_Pleasant,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/49640/Mount_Pleasant__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5dd4e4751ab9557bfa61751bfcf462023aab464ff789f26d61875e5c7c6aecad",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5dd4e4751ab9557bfa61751bfcf462023aab464ff789f26d61875e5c7c6aecad",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/49640/Mount_Pleasant__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "49640",
+  "timestamp": "2026-05-24T23:50:17.603273Z",
+  "version": 1
+}

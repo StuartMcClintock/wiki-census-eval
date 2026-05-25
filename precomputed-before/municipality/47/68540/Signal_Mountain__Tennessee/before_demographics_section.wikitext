@@ -1,0 +1,62 @@
+==Demographics==
+{{US Census population
+|1920= 441
+|1930= 966
+|1940= 1308
+|1950= 1786
+|1960= 3413
+|1970= 4839
+|1980= 5818
+|1990= 7034
+|2000= 7429
+|2010= 7554
+|2020= 8852
+|footnote=Sources:<ref name="GR9">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|publisher=[[United States Census Bureau]]|access-date=March 4, 2012|title=Census of Population and Housing: Decennial Censuses}}</ref><ref name=CensusPopEst>{{cite web|title=Incorporated Places and Minor Civil Divisions Datasets: Subcounty Resident Population Estimates: April 1, 2010 to July 1, 2012|url=https://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|work=Population Estimates|publisher=U.S. Census Bureau|access-date=December 11, 2013|url-status=dead|archive-url=https://web.archive.org/web/20130611010502/http://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|archive-date=June 11, 2013}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A47|title=Census Population API|publisher=United States Census Bureau|accessdate=October 15, 2022}}</ref>
+}}
+
+===2020 census===
+{| class="wikitable" style="text-align:right"
+|+Signal Mountain racial composition<ref>{{Cite web|title=Explore Census Data|url=https://data.census.gov/cedsci/table?g=1600000US4768540&tid=DECENNIALPL2020.P2|access-date=December 25, 2021|website=data.census.gov}}</ref>
+!scope="col"| Race
+!scope="col"| Number
+!scope="col"| Percentage
+|-
+!scope="row"| [[White (U.S. Census)|White]] (non-Hispanic)
+| 8,146
+| 92.02%
+|-
+!scope="row"| [[African American (U.S. Census)|Black or African American]] (non-Hispanic)
+| 50
+| 0.56%
+|-
+!scope="row"| [[Native American (U.S. Census)|Native American]]
+| 1
+| 0.01%
+|-
+!scope="row"| [[Asian (U.S. Census)|Asian]]
+| 118
+| 1.33%
+|-
+!scope="row"| [[Pacific Islander (U.S. Census)|Pacific Islander]]
+| 6
+| 0.07%
+|-
+!scope="row"| [[Race (United States Census)|Other/Mixed]]
+| 292
+| 3.3%
+|-
+!scope="row"| [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]]
+| 239
+| 2.7%
+|}
+As of the [[2020 United States census]], there were 8,852 people, 3,096 households, and 2,419 families residing in the town.
+
+===2010 census===
+As of the census of 2010, there were 7,554 people, 2,950 households, and 2,175 families residing in the town. The population density was {{convert|1,112.6|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 3,168 housing units at an average density of {{convert|457.4|/sqmi|/km2|sp=us|adj=off}}. The racial makeup of the town was 98.2% White, 0.03% African American, 0.1% Native American, 0.5% Asian, and 0.2% from other races.
+
+There were 2,960 households, of which 33.4% had children under the age of 18 living with them, 65.3% were married couples living together, 6.2% had a female householder with no husband present, and 26.5% were non-families. 25.1% of all households were made up of individuals, and 17.2% had someone living alone who was 65 years of age or older. The average household size was 2.51 and the average family size was 3.01.
+
+The population of Signal Mountain was spread out, with 25.6% under the age of 18, 4.4% from 18 to 24, 22.2% from 25 to 44, 27.1% from 45 to 64 and 20.6% who were 65 years of age or older. The median age was 45.3 years. For every 100 females, there were 87.6 males. For every 100 females age 18 and over, there were 83.3 males.
+
+The median income for a household was $78,900, and the median income for a family was $130,997. Males had a median income of $102,241 versus $54,878 for females. The per capita income for the town was $71,134. About 2.3% of families and 3.4% of the population were below the poverty line, including 3.3% of those under age 18 and 3.0% of those age 65 or over.
+

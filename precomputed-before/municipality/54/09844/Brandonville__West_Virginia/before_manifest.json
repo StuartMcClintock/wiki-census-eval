@@ -1,0 +1,16 @@
+{
+  "article": "Brandonville,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/09844/Brandonville__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4e895423fe706473965408adc83ae80a8bbcd05991441f8950043a5de448bbbd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4e895423fe706473965408adc83ae80a8bbcd05991441f8950043a5de448bbbd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/09844/Brandonville__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "09844",
+  "timestamp": "2026-05-25T00:20:45.212277Z",
+  "version": 1
+}

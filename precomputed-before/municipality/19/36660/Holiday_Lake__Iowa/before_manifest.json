@@ -1,0 +1,16 @@
+{
+  "article": "Holiday_Lake,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/36660/Holiday_Lake__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1c8fb5b75562c27e93e8e5018ecdbcd4786038a5b0b057c8a5fe10c88c720467",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1c8fb5b75562c27e93e8e5018ecdbcd4786038a5b0b057c8a5fe10c88c720467",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/36660/Holiday_Lake__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "36660",
+  "timestamp": "2026-05-24T23:41:11.585117Z",
+  "version": 1
+}

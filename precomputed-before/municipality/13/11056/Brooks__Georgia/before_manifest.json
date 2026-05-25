@@ -1,0 +1,16 @@
+{
+  "article": "Brooks,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/11056/Brooks__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "be17e6b400cb8741b14efe0e12a4652fb052d25505d14a5362da8b83dbd7b271",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "be17e6b400cb8741b14efe0e12a4652fb052d25505d14a5362da8b83dbd7b271",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/11056/Brooks__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "11056",
+  "timestamp": "2026-05-24T23:36:30.180179Z",
+  "version": 1
+}

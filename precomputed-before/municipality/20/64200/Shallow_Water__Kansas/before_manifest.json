@@ -1,0 +1,16 @@
+{
+  "article": "Shallow_Water,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/64200/Shallow_Water__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e0f05d003b7e6245b3b8a4781ce3b7e0b9d7e0ec8304584cd01f152b4faf2dd6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e0f05d003b7e6245b3b8a4781ce3b7e0b9d7e0ec8304584cd01f152b4faf2dd6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/64200/Shallow_Water__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "64200",
+  "timestamp": "2026-05-24T23:43:28.702727Z",
+  "version": 1
+}

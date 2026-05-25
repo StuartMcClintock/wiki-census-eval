@@ -1,0 +1,16 @@
+{
+  "article": "Epes,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/24256/Epes__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3c04de73455262436dd93ff5dcad4faa1970c671297c722f03124cda2d20ba1a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3c04de73455262436dd93ff5dcad4faa1970c671297c722f03124cda2d20ba1a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/24256/Epes__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "24256",
+  "timestamp": "2026-05-24T23:31:54.736319Z",
+  "version": 1
+}

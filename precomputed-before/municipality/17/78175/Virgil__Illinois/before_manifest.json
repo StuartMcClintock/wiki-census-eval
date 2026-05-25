@@ -1,0 +1,16 @@
+{
+  "article": "Virgil,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/78175/Virgil__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fb85cda0712bc30c62ab75cb69d211706f8ee4f3bc88047625d3f737448a7cb7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fb85cda0712bc30c62ab75cb69d211706f8ee4f3bc88047625d3f737448a7cb7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/78175/Virgil__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "78175",
+  "timestamp": "2026-05-24T23:39:19.908681Z",
+  "version": 1
+}

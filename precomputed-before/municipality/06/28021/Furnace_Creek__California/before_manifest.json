@@ -1,0 +1,16 @@
+{
+  "article": "Furnace_Creek,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/28021/Furnace_Creek__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5eb5c1ddf62c06a9ae1871b04584c776e765816b20ab59e92a9fb20568c71945",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5eb5c1ddf62c06a9ae1871b04584c776e765816b20ab59e92a9fb20568c71945",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/28021/Furnace_Creek__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "28021",
+  "timestamp": "2026-05-24T23:34:24.701844Z",
+  "version": 1
+}

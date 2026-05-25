@@ -1,0 +1,16 @@
+{
+  "article": "Chetek,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/14325/Chetek__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c8ce29c9dccf7135f55fd819db70d58123dff2b3eb9bdfa2aa84c3ebd1c5c4a0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c8ce29c9dccf7135f55fd819db70d58123dff2b3eb9bdfa2aa84c3ebd1c5c4a0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/14325/Chetek__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "14325",
+  "timestamp": "2026-05-25T00:21:42.716068Z",
+  "version": 1
+}

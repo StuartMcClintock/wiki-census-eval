@@ -1,0 +1,16 @@
+{
+  "article": "Yorktown,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/87420/Yorktown__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "25dfa02688adefd46d4b1431ba0eb395332a81fac698ab4b33fa6f9f9ef00d69",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "25dfa02688adefd46d4b1431ba0eb395332a81fac698ab4b33fa6f9f9ef00d69",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/87420/Yorktown__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "87420",
+  "timestamp": "2026-05-24T23:42:14.201701Z",
+  "version": 1
+}

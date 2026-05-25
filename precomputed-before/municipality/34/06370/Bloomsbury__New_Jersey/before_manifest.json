@@ -1,0 +1,16 @@
+{
+  "article": "Bloomsbury,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/06370/Bloomsbury__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4b965388223211bafb6da07f1469dda042264c10f501e4086fd38dffcdf97866",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4b965388223211bafb6da07f1469dda042264c10f501e4086fd38dffcdf97866",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/06370/Bloomsbury__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "06370",
+  "timestamp": "2026-05-24T23:57:40.875230Z",
+  "version": 1
+}

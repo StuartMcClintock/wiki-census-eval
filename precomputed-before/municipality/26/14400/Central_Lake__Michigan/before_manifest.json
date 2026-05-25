@@ -1,0 +1,16 @@
+{
+  "article": "Central_Lake,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/14400/Central_Lake__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a589fbffad64563b8f6fca1ea0983a58c801f285c1412e2e8e7053680045c167",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a589fbffad64563b8f6fca1ea0983a58c801f285c1412e2e8e7053680045c167",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/14400/Central_Lake__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "14400",
+  "timestamp": "2026-05-24T23:47:48.046729Z",
+  "version": 1
+}

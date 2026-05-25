@@ -1,0 +1,16 @@
+{
+  "article": "Doran,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/23008/Doran__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9342001832bbdb94485e8a7f3c9e34bdcf664cb58b82c15351ca29c4031ec0cc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9342001832bbdb94485e8a7f3c9e34bdcf664cb58b82c15351ca29c4031ec0cc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/23008/Doran__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "23008",
+  "timestamp": "2026-05-25T00:19:09.545177Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Redwater,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/61400/Redwater__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ad43b4a36db592ceb4510c0c21179818b2488c48dd18a9a38413c31f2030ef43",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ad43b4a36db592ceb4510c0c21179818b2488c48dd18a9a38413c31f2030ef43",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/61400/Redwater__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "61400",
+  "timestamp": "2026-05-24T23:50:21.720269Z",
+  "version": 1
+}

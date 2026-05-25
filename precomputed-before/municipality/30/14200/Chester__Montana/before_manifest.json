@@ -1,0 +1,16 @@
+{
+  "article": "Chester,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/14200/Chester__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bb5fe5215d4458e5a4c76ce3e607afea9164d28960419d4c734a182e6b15a1a4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bb5fe5215d4458e5a4c76ce3e607afea9164d28960419d4c734a182e6b15a1a4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/14200/Chester__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "14200",
+  "timestamp": "2026-05-24T23:54:18.577631Z",
+  "version": 1
+}

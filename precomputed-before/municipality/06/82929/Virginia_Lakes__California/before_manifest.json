@@ -1,0 +1,16 @@
+{
+  "article": "Virginia_Lakes,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/82929/Virginia_Lakes__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d3d07b1dc713466e85dcffac9fb0da214c5a33815f3791f99d74c0a7f8b991ef",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d3d07b1dc713466e85dcffac9fb0da214c5a33815f3791f99d74c0a7f8b991ef",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/82929/Virginia_Lakes__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "82929",
+  "timestamp": "2026-05-24T23:35:13.029984Z",
+  "version": 1
+}

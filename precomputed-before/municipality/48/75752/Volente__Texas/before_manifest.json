@@ -1,0 +1,16 @@
+{
+  "article": "Volente,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/75752/Volente__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "95fcf0865b300effd1de49e919362a8aa9aeedb2588cb4b36515cb403b55abbf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "95fcf0865b300effd1de49e919362a8aa9aeedb2588cb4b36515cb403b55abbf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/75752/Volente__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "75752",
+  "timestamp": "2026-05-25T00:16:47.647172Z",
+  "version": 1
+}

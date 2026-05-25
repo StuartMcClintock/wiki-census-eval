@@ -1,0 +1,16 @@
+{
+  "article": "Bowling_Green,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/08888/Bowling_Green__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "862d30ba484b519bfefd7c71067d6b58e9527b2090a70e0b8eb3197550c30e15",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "862d30ba484b519bfefd7c71067d6b58e9527b2090a70e0b8eb3197550c30e15",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/08888/Bowling_Green__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "08888",
+  "timestamp": "2026-05-25T00:19:01.541866Z",
+  "version": 1
+}

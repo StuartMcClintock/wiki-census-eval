@@ -1,0 +1,16 @@
+{
+  "article": "Dry_Run,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/22674/Dry_Run__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "731d01e53e55d362c64e7222bd0647f5d29c686dc6c461e6fc8931edf516a7b2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "731d01e53e55d362c64e7222bd0647f5d29c686dc6c461e6fc8931edf516a7b2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/22674/Dry_Run__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "22674",
+  "timestamp": "2026-05-25T00:04:05.276635Z",
+  "version": 1
+}

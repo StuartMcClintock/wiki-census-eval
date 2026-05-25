@@ -1,0 +1,16 @@
+{
+  "article": "Reightown,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/64080/Reightown__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4a0e589883ea7f274f8957a451cf02c828e5afc5ea120c54fe89bbdc5619c8a1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4a0e589883ea7f274f8957a451cf02c828e5afc5ea120c54fe89bbdc5619c8a1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/64080/Reightown__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "64080",
+  "timestamp": "2026-05-25T00:08:36.794933Z",
+  "version": 1
+}

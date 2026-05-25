@@ -1,0 +1,16 @@
+{
+  "article": "Byhalia,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/10060/Byhalia__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "af78998b4f68db085b8756a917e7004224686dd6f91c5c681bc0ff71d020589f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "af78998b4f68db085b8756a917e7004224686dd6f91c5c681bc0ff71d020589f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/10060/Byhalia__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "10060",
+  "timestamp": "2026-05-24T23:50:04.624054Z",
+  "version": 1
+}

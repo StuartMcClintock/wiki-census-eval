@@ -1,0 +1,16 @@
+{
+  "article": "Elberta,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/22776/Elberta__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5cf3852f67e0e23836a2b29277306d6eaf76d5045853ac3ede79b1bd71029fdf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5cf3852f67e0e23836a2b29277306d6eaf76d5045853ac3ede79b1bd71029fdf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/22776/Elberta__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "22776",
+  "timestamp": "2026-05-25T00:07:02.435073Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Sperry,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/74325/Sperry__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e1fcb1145862a013e77277f2c5044f056a21ea46f1dd2bde618dacc39f05c618",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e1fcb1145862a013e77277f2c5044f056a21ea46f1dd2bde618dacc39f05c618",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/74325/Sperry__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "74325",
+  "timestamp": "2026-05-24T23:42:01.955414Z",
+  "version": 1
+}

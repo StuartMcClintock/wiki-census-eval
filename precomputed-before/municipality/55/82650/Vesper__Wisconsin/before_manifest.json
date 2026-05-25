@@ -1,0 +1,16 @@
+{
+  "article": "Vesper,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/82650/Vesper__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f7ea9fde212ef042351e210f58a114c04d68ff92edc53f3b3c2807286b0014df",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f7ea9fde212ef042351e210f58a114c04d68ff92edc53f3b3c2807286b0014df",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/82650/Vesper__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "82650",
+  "timestamp": "2026-05-25T00:23:00.970034Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Floweree,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/27025/Floweree__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f2df5ba56116c553661ce162525da91e9f79aa181cd90c9a764cba0e476d263d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f2df5ba56116c553661ce162525da91e9f79aa181cd90c9a764cba0e476d263d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/27025/Floweree__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "27025",
+  "timestamp": "2026-05-24T23:54:24.431075Z",
+  "version": 1
+}

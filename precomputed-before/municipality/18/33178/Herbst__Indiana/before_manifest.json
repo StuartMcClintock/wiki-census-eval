@@ -1,0 +1,16 @@
+{
+  "article": "Herbst,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/33178/Herbst__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ecee60fc2f234c35d0649f5770aaf4b1ad6c0f80c5f1dd7a387810ae120130a9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ecee60fc2f234c35d0649f5770aaf4b1ad6c0f80c5f1dd7a387810ae120130a9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/33178/Herbst__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "33178",
+  "timestamp": "2026-05-24T23:39:38.755430Z",
+  "version": 1
+}

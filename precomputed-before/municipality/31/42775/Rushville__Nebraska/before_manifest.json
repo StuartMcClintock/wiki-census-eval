@@ -1,0 +1,16 @@
+{
+  "article": "Rushville,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/42775/Rushville__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d7dd86ef9d59885694803267041566894621535d53ee80f2429170a81e3daa9a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d7dd86ef9d59885694803267041566894621535d53ee80f2429170a81e3daa9a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/42775/Rushville__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "42775",
+  "timestamp": "2026-05-24T23:57:14.377216Z",
+  "version": 1
+}

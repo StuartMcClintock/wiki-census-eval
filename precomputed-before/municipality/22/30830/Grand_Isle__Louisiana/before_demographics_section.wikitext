@@ -1,0 +1,109 @@
+==Demographics==
+{{US Census population
+|1950= 1100
+|1960= 2074
+|1970= 2236
+|1980= 1982
+|1990= 1455
+|2000= 1541
+|2010= 1296
+|2020= 1005
+|align-fn=center
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census/decade.html|title=Decennial Census by Decade|website=[[United States Census Bureau]]}}</ref><br> 1950<ref name=1950CensusLA>{{Cite web|title= 1950 Census of Population - Louisiana - Table 7 - Population of all incorporated places and of unincorporated places of 1,000 or more: 1950 and 1940|website=[[United States Census Bureau]]|date=1950 |url=  https://www2.census.gov/library/publications/decennial/1950/population-volume-1/vol-01-21.pdf }}</ref> 1960<ref name=1960CensusLA>{{Cite web|title= 1960 Census of Population - Number of Inhabitants - Louisiana - Table 8 - Population of All Incorporated Places and Unincorporated Places of 1,000 or More: 1940 to 1960  |website=[[United States Census Bureau]]|date= 1960|url=https://www2.census.gov/library/publications/decennial/1960/population-volume-1/37722904v1p20ch2.pdf  }}</ref> 1970<ref name=1970CensusLA>{{Cite web|title= 1970 Census of Population - Louisiana - Characteristics of the Population - Table 6. Population of Places: 1970 and 1960  |website=[[United States Census Bureau]]|date= 1970|url=https://www2.census.gov/prod2/decennial/documents/1970a_la-01.pdf  }}</ref> 1980<ref name=1980CensusLA>{{Cite web|title= 1980 Census of Population - Louisiana - Table 14 - Summary of General Characteristics |website=[[United States Census Bureau]]|date= 1980|url= https://www2.census.gov/prod2/decennial/documents/1980a_laABC-02.pdf }}</ref><br> 1990<ref name=1990CensusLA>{{Cite web|title= 1990 Census of Population - Louisiana - Table 1. Summary of General Characteristics of Persons: 1990 |website=[[United States Census Bureau]]|date=1990 |url= https://www2.census.gov/library/publications/decennial/1990/cp-1/cp-1-20.pdf }}</ref> 2000<ref name=2000CensusLA>{{Cite web|title= 2000 Census of Population - Population and Housing Unit Counts - Louisiana |publisher=United States Census Bureau|date= 2000|url=https://www2.census.gov/library/publications/2003/dec/phc-3-20.pdf}}</ref> 2010<ref name=2010CensusLA>{{Cite web|title= 2010 Census of Population - Population and Housing Unit Counts - Louisiana |url=https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-20.pdf|website=[[United States Census Bureau]]|archive-url=https://web.archive.org/web/20240402175429/https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-20.pdf| archive-date=April 2, 2024}}</ref>
+}}
+
+Grand Isle first appeared as an unincorporated place in the [[1950 U.S. census]];<ref name=1950CensusLA/> and as a town in the [[1960 U.S. census]].<ref name=1960CensusLA/>
+
+{| class="wikitable" style="text-align:center;" 
+|+'''Grand Isle town, Louisiana – Racial and ethnic composition'''<br><small>{{nobold|''Note: the U.S. Census Bureau treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small> 
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Grand Isle town, Louisiana |url=https://data.census.gov/table?g=160XX00US2230830&tid=DECENNIALSF12000.P004|website=[[United States Census Bureau]] |access-date= }}</ref> 
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Grand Isle town, Louisiana |url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US2230830&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]] |access-date= }}</ref> 
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Grand Isle town, Louisiana |url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US2230830&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]] |access-date= }}</ref> 
+!% 2000 
+!% 2010 
+!{{partial|% 2020}} 
+|- 
+|[[Non-Hispanic or Latino whites|White]] alone (NH) 
+|1,463
+|1,178
+|style='background: #ffffe6; |929
+|94.94% 
+|90.90% 
+|style='background: #ffffe6; |92.44% 
+|- 
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH) 
+|3
+|10
+|style='background: #ffffe6; |2
+|0.19% 
+|0.77% 
+|style='background: #ffffe6; |0.20% 
+|- 
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH) 
+|35
+|28
+|style='background: #ffffe6; |15
+|2.27% 
+|2.16% 
+|style='background: #ffffe6; |1.49% 
+|- 
+|[[Asian Americans|Asian]] alone (NH) 
+|3 
+|2
+|style='background: #ffffe6; |6
+|0.19% 
+|0.15% 
+|style='background: #ffffe6; |0.60% 
+|- 
+|[[Native Hawaiian]] or [[Pacific Islander Americans|Pacific Islander]] alone (NH) 
+|0 
+|0 
+|style='background: #ffffe6; |0 
+|0.00% 
+|0.00% 
+|style='background: #ffffe6; |0.00% 
+|- 
+|[[Race and ethnicity in the United States census|Other race]] alone (NH) 
+|1
+|2
+|style='background: #ffffe6; |4
+|0.06% 
+|0.15% 
+|style='background: #ffffe6; |0.40% 
+|- 
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH) 
+|13
+|25
+|style='background: #ffffe6; |19 
+|0.84% 
+|1.93% 
+|style='background: #ffffe6; |1.89% 
+|- 
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race) 
+|23
+|51
+|style='background: #ffffe6; |30
+|1.49% 
+|3.94% 
+|style='background: #ffffe6; |2.99% 
+|- 
+|'''Total''' 
+|'''1,541''' 
+|'''1,296''' 
+|style='background: #ffffe6; |'''1,005''' 
+|'''100.00%''' 
+|'''100.00%''' 
+|style='background: #ffffe6; |'''100.00%''' 
+|}
+
+At the [[2000 United States census|2000 U.S. census]],<ref name="GR2">{{cite web|url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=January 31, 2008 |title=U.S. Census website }}</ref> 1,541 people, 622 households, and 436 families lived in the town.
+
+The [[population density]] was {{Convert|251.1|PD/sqmi}}. There were 1,875 housing units at an average density of {{Convert|305.6|/sqmi}}. In 2000, there were 622 households, out of which 29.6% had children under the age of 18 living with them, 54.2% were married couples living together, 8.4% had a female householder with no husband present, and 29.9% were non-families. The U.S. Census Bureau tabulated that 24.0% of all households were made up of individuals, and 9.3% had someone living alone who was 65 years of age or older. The average household size was 2.46 and the average family size was 2.89.
+
+The median income for a household in the town was $33,548, and the median income for a family was $35,517. Males had a median income of $34,000 versus $19,333 for females. The [[per capita income]] for the town was $18,330. About 9.1% of families and 13.2% of the population were below the [[poverty line]], including 14.3% of those under age 18 and 12.9% of those age 65 or over.
+
+At the 2019 [[American Community Survey]], there were 2,038 housing units and 214 were owner-occupied; there were 184 families in the town.<ref>{{Cite web|title=2019 American Community Survey Households and Families|url=https://data.census.gov/cedsci/table?q=Grand%20Isle%20town,%20Louisiana%20housing&tid=ACSST5Y2019.S1101|website=data.census.gov}}</ref> The average household size was 2.06 for owner-occupied housing units, and the median value of owner-occupied housing units was $203,600.<ref>{{Cite web|title=2019 American Community Survey Selected Housing Characteristics|url=https://data.census.gov/cedsci/table?q=Grand%20Isle%20town,%20Louisiana%20housing&tid=ACSDP5Y2019.DP04|access-date=July 8, 2021|website=data.census.gov}}</ref> Residents of Grand Isle had a median household income of $43,333 in 2019,<ref>{{Cite web|title=2019 American Community Survey Financial Characteristics|url=https://data.census.gov/cedsci/table?q=Grand%20Isle%20town,%20Louisiana%20housing&tid=ACSST5Y2019.S2503|access-date=July 8, 2021|website=data.census.gov}}</ref> and an estimated 22.3% of the population lived at or below the poverty line.<ref>{{Cite web|title=2019 American Community Survey Poverty Status|url=https://data.census.gov/cedsci/table?q=Grand%20Isle%20town,%20Louisiana%20poverty&tid=ACSST5Y2019.S1701|access-date=July 8, 2021|website=data.census.gov|language=en}}</ref> A year later by the [[2020 United States census]], there were 1,005 people, 330 households, and 184 families residing in the town.
+
+In 2000, the racial makeup of the town was 96.04% [[White (U.S. Census)|White]], 2.27% [[Native Americans in the United States|Native American]], 0.19% [[African Americans|African American]], 0.19% [[Asian Americans|Asian]], 0.39% from [[Race (United States Census)|other races]], and 0.91% from two or more races. Hispanics or Latin Americans of any race were 1.49% of the population. In 2019, 94.9% of Grand Isle's population were [[Non-Hispanic whites|non-Hispanic white]], 0.8% Black or African American, 2.0% multiracial, and 2.3% Hispanic or Latin American of any race.<ref>{{Cite web|title=2019 American Community Survey Demographic and Housing Estimates|url=https://data.census.gov/cedsci/table?q=Grand%20Isle%20town,%20Louisiana%20race%20and%20ethnicity&tid=ACSDP5Y2019.DP05|access-date=July 8, 2021|website=data.census.gov}}</ref> By 2020, the composition was 92.44% non-Hispanic white, 0.2% Black or African American, 1.49% Native American, 0.6% Asian, 2.29% multiracial or some other race, and 2.99% Hispanic or Latino American.<ref name=":0">{{Cite web|title=2020 Race and Population Totals|url=https://data.census.gov/cedsci/table?g=1600000US2230830&tid=DECENNIALPL2020.P2|access-date=December 28, 2021|website=data.census.gov}}</ref>
+

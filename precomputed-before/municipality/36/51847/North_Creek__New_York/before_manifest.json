@@ -1,0 +1,16 @@
+{
+  "article": "North_Creek,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/51847/North_Creek__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e8e404010ae320ee750a6fd170b89595d4995b20ad951e53ad2982bf0539555e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e8e404010ae320ee750a6fd170b89595d4995b20ad951e53ad2982bf0539555e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/51847/North_Creek__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "51847",
+  "timestamp": "2026-05-25T00:00:57.839666Z",
+  "version": 1
+}

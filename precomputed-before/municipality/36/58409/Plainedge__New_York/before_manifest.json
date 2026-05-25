@@ -1,0 +1,16 @@
+{
+  "article": "Plainedge,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/58409/Plainedge__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ca6dc41d5074b1984e66dc0dda8e4b2e57890009d482d7fb23e4ea9fb8fe9d1b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ca6dc41d5074b1984e66dc0dda8e4b2e57890009d482d7fb23e4ea9fb8fe9d1b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/58409/Plainedge__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "58409",
+  "timestamp": "2026-05-25T00:01:03.978702Z",
+  "version": 1
+}

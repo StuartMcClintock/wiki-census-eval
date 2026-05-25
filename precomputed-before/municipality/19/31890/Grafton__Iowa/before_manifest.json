@@ -1,0 +1,16 @@
+{
+  "article": "Grafton,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/31890/Grafton__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f3d2f42a50f29638572d24a6704d30b13630c125b137d74c54406df8dad155eb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f3d2f42a50f29638572d24a6704d30b13630c125b137d74c54406df8dad155eb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/31890/Grafton__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "31890",
+  "timestamp": "2026-05-24T23:41:06.232067Z",
+  "version": 1
+}

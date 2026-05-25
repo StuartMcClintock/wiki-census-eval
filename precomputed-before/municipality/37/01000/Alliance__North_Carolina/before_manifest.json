@@ -1,0 +1,16 @@
+{
+  "article": "Alliance,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/01000/Alliance__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fc6763298cfe591925db51075847570e624f4edd7ec97d48f0f5e077a1ff83c1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fc6763298cfe591925db51075847570e624f4edd7ec97d48f0f5e077a1ff83c1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/01000/Alliance__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "01000",
+  "timestamp": "2026-05-25T00:01:40.564609Z",
+  "version": 1
+}

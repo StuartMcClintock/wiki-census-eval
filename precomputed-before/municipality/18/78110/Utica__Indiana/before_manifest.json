@@ -1,0 +1,16 @@
+{
+  "article": "Utica,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/78110/Utica__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a2ca891b6b85ae92473847fc18212ae2720d2a9f33902ba49ed5b651f0ea049e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a2ca891b6b85ae92473847fc18212ae2720d2a9f33902ba49ed5b651f0ea049e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/78110/Utica__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "78110",
+  "timestamp": "2026-05-24T23:40:16.879452Z",
+  "version": 1
+}

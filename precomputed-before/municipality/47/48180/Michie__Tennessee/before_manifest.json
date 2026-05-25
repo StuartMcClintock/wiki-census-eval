@@ -1,0 +1,16 @@
+{
+  "article": "Michie,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/48180/Michie__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aafe6358a543673aa5c5ad058a86ad6b8bf1e8114a612e7a6767aaa9806932c6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aafe6358a543673aa5c5ad058a86ad6b8bf1e8114a612e7a6767aaa9806932c6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/48180/Michie__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "48180",
+  "timestamp": "2026-05-25T00:14:46.965436Z",
+  "version": 1
+}

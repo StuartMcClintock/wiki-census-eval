@@ -1,0 +1,16 @@
+{
+  "article": "Hickman,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/33504/Hickman__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d662e3f56e7155a6c77b1bd10d065446fb1f7aeba678be6ef59461a6f7cec9bc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d662e3f56e7155a6c77b1bd10d065446fb1f7aeba678be6ef59461a6f7cec9bc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/33504/Hickman__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "33504",
+  "timestamp": "2026-05-24T23:34:28.053449Z",
+  "version": 1
+}

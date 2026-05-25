@@ -1,0 +1,16 @@
+{
+  "article": "Cleveland,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/14923/Cleveland__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b0737c4ad5c9915cb7c8b3209a0ee5eb113fcc7657e9901e4328306c1944bdc0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b0737c4ad5c9915cb7c8b3209a0ee5eb113fcc7657e9901e4328306c1944bdc0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/14923/Cleveland__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "14923",
+  "timestamp": "2026-05-24T23:38:01.482836Z",
+  "version": 1
+}

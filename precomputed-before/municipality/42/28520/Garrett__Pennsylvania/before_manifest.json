@@ -1,0 +1,16 @@
+{
+  "article": "Garrett,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/28520/Garrett__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b7237986860cd13ca566f2287632c4d3da1cb56261b89915b921f080c855e62a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b7237986860cd13ca566f2287632c4d3da1cb56261b89915b921f080c855e62a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/28520/Garrett__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "28520",
+  "timestamp": "2026-05-25T00:07:14.713292Z",
+  "version": 1
+}

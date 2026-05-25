@@ -1,0 +1,82 @@
+==Demographics==
+{{US Census population
+|2010= 524
+|2020= 487
+|footnote=U.S. Decennial Census<ref name=DecennialCensus>[http://www.census.gov/prod/www/decennial.html Census of Population and Housing], [[United States Census Bureau]]. Accessed June 1, 2023.</ref><br>2020<ref name=Census2020/>
+}}
+
+Pedricktown first appeared as a [[census designated place]] in the [[2010 U.S. census]].<ref>{{Cite web|title= 2010 Census of Population - Population and Housing Unit Counts - New Jersey |url=https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-32.pdf|website=[[United States Census Bureau]]|archive-url=https://web.archive.org/web/20251111220031/https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-32.pdf| archive-date=November 11, 2025}}</ref>
+
+===2020 census===
+{| class="wikitable sortable" style="text-align:center;"
+|+'''Pedricktown CDP, New Jersey – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Pedricktown CDP, New Jersey|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US3457360&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!style="background-color: #ffffb3;" |Pop 2020<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Pedricktown CDP, New Jersey|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US3457360&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!% 2010
+!style="background-color: #ffffb3;" |% 2020
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|452
+|style='background: #ffffe6; |422
+|86.26%
+|style='background: #ffffe6; |86.65%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|13
+|style='background: #ffffe6; |13
+|2.48%
+|style='background: #ffffe6; |2.67%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|1
+|style='background: #ffffe6; |0
+|0.19%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Native Hawaiian]] or [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|2
+|style='background: #ffffe6; |1
+|0.38%
+|style='background: #ffffe6; |0.21%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|4
+|style='background: #ffffe6; |19
+|0.76%
+|style='background: #ffffe6; |3.90%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|52
+|style='background: #ffffe6; |32
+|9.92%
+|style='background: #ffffe6; |6.57%
+|-
+|'''Total'''
+|'''524'''
+|style='background: #ffffe6; |'''487 '''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+As of the [[2020 United States census]], the population was 487.<ref name=Census2020/>
+
+===2010 census===
+The [[2010 United States census]] counted 524 people, 197 households, and 147 families in the CDP. The [[population density]] was {{convert|580.0|/sqmi}}. There were 220 housing units at an average density of {{convert|243.5|/sqmi}}. The racial makeup was 91.79% (481) [[White (U.S. census)|White]], 2.67% (14) [[Black (U.S. census)|Black or African American]], 0.00% (0) [[Native American (U.S. census)|Native American]], 0.19% (1) [[Asian (U.S. census)|Asian]], 0.00% (0) [[Pacific Islander (U.S. census)|Pacific Islander]], 4.58% (24) from [[Race and ethnicity in the United States census|other races]], and 0.76% (4) from two or more races. [[Hispanic (U.S. census)|Hispanic or Latino]] people of any race were 9.92% (52) of the population.<ref name=Census2010>[http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/1600000US3457360 DP-1 - Profile of General Population and Housing Characteristics: 2010 Demographic Profile Data for Pedricktown CDP, New Jersey] {{Webarchive|url=https://archive.today/20200212140354/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/1600000US3457360 |date=2020-02-12 }}, [[United States Census Bureau]]. Accessed February 9, 2013.</ref>
+
+Of the 197 households, 36.0% had children under the age of 18; 53.8% were married couples living together; 13.2% had a female householder with no husband present and 25.4% were non-families. Of all households, 20.3% were made up of individuals and 5.1% had someone living alone who was 65 years of age or older. The average household size was 2.66 and the average family size was 3.04.<ref name=Census2010/>
+
+26.9% of the population were under the age of 18, 6.7% from 18 to 24, 28.4% from 25 to 44, 27.5% from 45 to 64, and 10.5% who were 65 years of age or older. The median age was 36.0 years. For every 100 females, the population had 94.8 males. For every 100 females ages 18 and older there were 100.5 males.<ref name=Census2010/>
+

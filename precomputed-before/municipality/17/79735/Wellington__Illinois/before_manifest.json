@@ -1,0 +1,16 @@
+{
+  "article": "Wellington,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/79735/Wellington__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2ed4a02f986176bf9019a4b00a0282c65a0a5252f0795c5b1949cfefd587024e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2ed4a02f986176bf9019a4b00a0282c65a0a5252f0795c5b1949cfefd587024e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/79735/Wellington__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "79735",
+  "timestamp": "2026-05-24T23:39:21.315422Z",
+  "version": 1
+}

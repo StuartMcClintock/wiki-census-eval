@@ -1,0 +1,16 @@
+{
+  "article": "Harts,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/35596/Harts__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cdd34abc1b8ab1b86ba749515b64a329c863f20c5ef83339a33d1f7a2fe81687",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cdd34abc1b8ab1b86ba749515b64a329c863f20c5ef83339a33d1f7a2fe81687",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/35596/Harts__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "35596",
+  "timestamp": "2026-05-25T00:21:10.663235Z",
+  "version": 1
+}

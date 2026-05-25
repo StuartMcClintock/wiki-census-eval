@@ -1,0 +1,16 @@
+{
+  "article": "Scranton,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/64600/Scranton__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d72628eaac4541e14d8c3c36920b9c84253282dbeac65648e6e72282b6c1a3c9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d72628eaac4541e14d8c3c36920b9c84253282dbeac65648e6e72282b6c1a3c9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/64600/Scranton__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "64600",
+  "timestamp": "2026-05-25T00:10:21.189766Z",
+  "version": 1
+}

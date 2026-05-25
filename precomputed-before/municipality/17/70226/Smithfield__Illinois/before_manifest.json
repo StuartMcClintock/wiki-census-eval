@@ -1,0 +1,16 @@
+{
+  "article": "Smithfield,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/70226/Smithfield__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "67bb569746ec1a315dfc9c021c1316340521eb3788543a5e94ead926d12eff30",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "67bb569746ec1a315dfc9c021c1316340521eb3788543a5e94ead926d12eff30",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/70226/Smithfield__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "70226",
+  "timestamp": "2026-05-24T23:39:12.160350Z",
+  "version": 1
+}

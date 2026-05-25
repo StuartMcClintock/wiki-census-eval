@@ -1,0 +1,16 @@
+{
+  "article": "Cornland,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/16431/Cornland__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7e1c6e5da4ba3ae12cb8a894b601b0d9ad06947cc25b5e6441468fa0b00778cc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7e1c6e5da4ba3ae12cb8a894b601b0d9ad06947cc25b5e6441468fa0b00778cc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/16431/Cornland__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "16431",
+  "timestamp": "2026-05-24T23:38:03.222922Z",
+  "version": 1
+}

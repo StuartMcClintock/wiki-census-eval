@@ -1,0 +1,16 @@
+{
+  "article": "Mocanaqua,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/50208/Mocanaqua__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5eb41fc80b853e57c656f44246e95aed9d2819ee497894c86828b8d27d734aeb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5eb41fc80b853e57c656f44246e95aed9d2819ee497894c86828b8d27d734aeb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/50208/Mocanaqua__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "50208",
+  "timestamp": "2026-05-25T00:08:07.814491Z",
+  "version": 1
+}

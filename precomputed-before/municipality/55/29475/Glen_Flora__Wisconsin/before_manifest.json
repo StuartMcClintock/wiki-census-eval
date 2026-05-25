@@ -1,0 +1,16 @@
+{
+  "article": "Glen_Flora,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/29475/Glen_Flora__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "275243b35a239293c9a244bbb3931715ddbf7a2bddd076f807eef60195decf2c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "275243b35a239293c9a244bbb3931715ddbf7a2bddd076f807eef60195decf2c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/29475/Glen_Flora__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "29475",
+  "timestamp": "2026-05-25T00:22:09.006599Z",
+  "version": 1
+}

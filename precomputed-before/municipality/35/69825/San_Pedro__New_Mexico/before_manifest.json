@@ -1,0 +1,16 @@
+{
+  "article": "San_Pedro,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/69825/San_Pedro__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "af752b585e81e340bc7dad8463e98630b9de882ef0866b7c65f52dc42447f7c6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "af752b585e81e340bc7dad8463e98630b9de882ef0866b7c65f52dc42447f7c6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/69825/San_Pedro__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "69825",
+  "timestamp": "2026-05-24T23:58:53.700724Z",
+  "version": 1
+}

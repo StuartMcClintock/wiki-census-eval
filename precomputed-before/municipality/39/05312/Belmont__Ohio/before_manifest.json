@@ -1,0 +1,16 @@
+{
+  "article": "Belmont,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/05312/Belmont__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "477d277d47f1712b3c42cd679cc53e2cf1dcdeedf709c5958b817cd8221dfdb9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "477d277d47f1712b3c42cd679cc53e2cf1dcdeedf709c5958b817cd8221dfdb9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/05312/Belmont__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "05312",
+  "timestamp": "2026-05-25T00:03:33.774048Z",
+  "version": 1
+}

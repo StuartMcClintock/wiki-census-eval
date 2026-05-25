@@ -1,0 +1,16 @@
+{
+  "article": "Matoaca,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/50136/Matoaca__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "538e295dbefcaad523c4811723ffc2f9ddc3ed17a69ff80eb6da19604c3aa304",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "538e295dbefcaad523c4811723ffc2f9ddc3ed17a69ff80eb6da19604c3aa304",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/50136/Matoaca__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "50136",
+  "timestamp": "2026-05-25T00:19:25.053655Z",
+  "version": 1
+}

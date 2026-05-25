@@ -1,0 +1,16 @@
+{
+  "article": "Collins,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/17832/Collins__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "737903b8da04608067ecf131755ee9353b90666450d59736ca3e76d5c0392e4c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "737903b8da04608067ecf131755ee9353b90666450d59736ca3e76d5c0392e4c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/17832/Collins__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "17832",
+  "timestamp": "2026-05-24T23:36:32.686392Z",
+  "version": 1
+}

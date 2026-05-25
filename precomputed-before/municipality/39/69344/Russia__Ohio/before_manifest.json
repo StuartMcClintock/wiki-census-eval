@@ -1,0 +1,16 @@
+{
+  "article": "Russia,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/69344/Russia__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0ff41ee6b7349f99af464a57d83fbd16f9499fd52434a391413e2efde3840d0b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0ff41ee6b7349f99af464a57d83fbd16f9499fd52434a391413e2efde3840d0b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/69344/Russia__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "69344",
+  "timestamp": "2026-05-25T00:05:13.862048Z",
+  "version": 1
+}

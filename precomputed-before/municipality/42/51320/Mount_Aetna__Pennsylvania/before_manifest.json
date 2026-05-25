@@ -1,0 +1,16 @@
+{
+  "article": "Mount_Aetna,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/51320/Mount_Aetna__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ad4081fe7c19cd0ff3a10294d6608afd970e404b402583d9ea54c3672ba8634b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ad4081fe7c19cd0ff3a10294d6608afd970e404b402583d9ea54c3672ba8634b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/51320/Mount_Aetna__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "51320",
+  "timestamp": "2026-05-25T00:08:10.425427Z",
+  "version": 1
+}

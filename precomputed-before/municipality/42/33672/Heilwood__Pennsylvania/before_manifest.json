@@ -1,0 +1,16 @@
+{
+  "article": "Heilwood,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/33672/Heilwood__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "21425e30905c39d953ad95a074a26a13815eebd2f50ff5e91f666ccb5065dffd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "21425e30905c39d953ad95a074a26a13815eebd2f50ff5e91f666ccb5065dffd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/33672/Heilwood__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "33672",
+  "timestamp": "2026-05-25T00:07:24.614370Z",
+  "version": 1
+}

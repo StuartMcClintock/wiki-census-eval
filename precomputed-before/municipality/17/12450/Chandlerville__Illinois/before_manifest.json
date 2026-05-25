@@ -1,0 +1,16 @@
+{
+  "article": "Chandlerville,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/12450/Chandlerville__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ac619bdd52240183433ef4e081b887819f4df3917e8fef3c01da6b5f2b9696d3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ac619bdd52240183433ef4e081b887819f4df3917e8fef3c01da6b5f2b9696d3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/12450/Chandlerville__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "12450",
+  "timestamp": "2026-05-24T23:37:55.970067Z",
+  "version": 1
+}

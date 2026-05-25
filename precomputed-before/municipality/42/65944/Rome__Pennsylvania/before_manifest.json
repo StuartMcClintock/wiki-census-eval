@@ -1,0 +1,16 @@
+{
+  "article": "Rome,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/65944/Rome__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1e598358a6cb0259a6c5f3b47cfb5794962e8eecf53a73ba7502940829a1016c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1e598358a6cb0259a6c5f3b47cfb5794962e8eecf53a73ba7502940829a1016c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/65944/Rome__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "65944",
+  "timestamp": "2026-05-25T00:08:51.521794Z",
+  "version": 1
+}

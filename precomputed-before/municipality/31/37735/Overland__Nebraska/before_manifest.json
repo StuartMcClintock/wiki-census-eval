@@ -1,0 +1,16 @@
+{
+  "article": "Overland,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/37735/Overland__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "86e7fcba1cf4888639680c241dfead65af372ada3ed223df9bb5f09b2c8137fb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "86e7fcba1cf4888639680c241dfead65af372ada3ed223df9bb5f09b2c8137fb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/37735/Overland__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "37735",
+  "timestamp": "2026-05-24T23:56:01.372247Z",
+  "version": 1
+}

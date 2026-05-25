@@ -1,0 +1,16 @@
+{
+  "article": "Grano,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/32580/Grano__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7ded6e208fd2840dc75b1176efa322472d7ed9056d4c458317616684af6a1fbb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7ded6e208fd2840dc75b1176efa322472d7ed9056d4c458317616684af6a1fbb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/32580/Grano__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "32580",
+  "timestamp": "2026-05-25T00:03:01.599484Z",
+  "version": 1
+}

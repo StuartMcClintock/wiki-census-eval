@@ -1,0 +1,16 @@
+{
+  "article": "Shellman,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/70120/Shellman__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5960a21f93131e831be2dd4c5d08533c89ad37aafe958c72c746c83b0dab219b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5960a21f93131e831be2dd4c5d08533c89ad37aafe958c72c746c83b0dab219b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/70120/Shellman__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "70120",
+  "timestamp": "2026-05-24T23:37:07.450934Z",
+  "version": 1
+}

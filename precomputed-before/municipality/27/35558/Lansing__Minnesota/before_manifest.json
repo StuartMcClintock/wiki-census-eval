@@ -1,0 +1,16 @@
+{
+  "article": "Lansing,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/35558/Lansing__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": false,
+  "current_hash": null,
+  "location_kind": "municipality",
+  "manifest_had_section": false,
+  "manifest_hash": null,
+  "reason": "no demographics section then or now",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/35558/Lansing__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "35558",
+  "timestamp": "2026-05-24T23:49:15.160394Z",
+  "version": 1
+}

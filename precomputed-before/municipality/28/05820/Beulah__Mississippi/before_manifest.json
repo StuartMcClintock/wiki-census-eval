@@ -1,0 +1,16 @@
+{
+  "article": "Beulah,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/05820/Beulah__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ac9279685b02c2be2678be8905fa0d63b91f06362884e4c1cd3afd6ef2886cb9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ac9279685b02c2be2678be8905fa0d63b91f06362884e4c1cd3afd6ef2886cb9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/05820/Beulah__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "05820",
+  "timestamp": "2026-05-24T23:50:02.884068Z",
+  "version": 1
+}

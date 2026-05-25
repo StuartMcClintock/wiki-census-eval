@@ -1,0 +1,16 @@
+{
+  "article": "Ninilchik,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/54480/Ninilchik__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e342ac0dde13ada8a1436a41fb42b0e24aa0077748df1b44c7cf5aaf8e99df67",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e342ac0dde13ada8a1436a41fb42b0e24aa0077748df1b44c7cf5aaf8e99df67",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/54480/Ninilchik__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "54480",
+  "timestamp": "2026-05-24T23:32:29.569844Z",
+  "version": 1
+}

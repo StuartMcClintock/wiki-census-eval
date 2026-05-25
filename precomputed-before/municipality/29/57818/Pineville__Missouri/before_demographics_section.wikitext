@@ -1,0 +1,131 @@
+==Demographics==
+{{US Census population
+|align=right
+|1880= 147
+|1890= 192
+|1920= 359
+|1930= 422
+|1940= 524
+|1950= 464
+|1960= 454
+|1970= 444
+|1980= 504
+|1990= 580
+|2000= 768
+|2010= 791
+|2020= 802
+|estyear=2023
+|estimate=826
+|estref=<ref name="USCensusEst2023">{{cite web|title=City and Town Population Totals: 2020-2023 |url=https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html |publisher=United States Census Bureau |access-date=May 3, 2025}}</ref>
+|align-fn=center
+|footnote=U.S. Decennial Census<ref>{{cite web|title=Decennial Census of Population and Housing |url=https://www.census.gov/programs-surveys/decennial-census.html |publisher=United States Census Bureau |website=www.census.gov |access-date=June 4, 2015}}</ref><br>2020 Census<ref name="2020 Census (City)"/>
+}}
+
+As of the 2023 [[American Community Survey]], there are 387 estimated households in Pineville with an average of 2.32 persons per household. The city has a median household income of $34,688. Approximately 18.5% of the city's population lives at or below the [[Poverty in the United States|poverty line]]. Pineville has an estimated 52.8% employment rate, with 14.9% of the population holding a bachelor's degree or higher and 82.9% holding a high school diploma.<ref name="QF">{{Cite web|title=U.S. Census Bureau QuickFacts: Pineville, Missouri |url=https://censusreporter.org/profiles/16000US2957818-pineville-mo/ |access-date=May 3, 2025 |website=censusreporter.org |language=en}}</ref>
+
+The top five reported ancestries (people were allowed to report up to two ancestries, thus the figures will generally add to more than 100%) were English (95.1%), Spanish (3.1%), Indo-European (0.0%), Asian and Pacific Islander (1.7%), and Other (0.0%).
+
+The median age in the city was 40.2 years.
+
+{| class="wikitable"
+|+'''Pineville, Missouri – racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+! Race / ethnicity <small>(''NH = non-Hispanic'')</small>
+! Pop. 2000<ref name=2000CensusP004>{{Cite web|title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Pineville city, Missouri|url=https://data.census.gov/table/DECENNIALSF12000.P004?g=160XX00US2957818|publisher=[[United States Census Bureau]]|access-date=May 3, 2025}}</ref>
+! Pop. 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Pineville city, Missouri|url=https://data.census.gov/table?q=p2&g=160XX00US2957818&tid=DECENNIALPL2010.P2|publisher=[[United States Census Bureau]]|access-date=May 3, 2025}}</ref>
+! {{partial|Pop. 2020}}<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Pineville city, Missouri|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US2957818&tid=DECENNIALPL2020.P2|publisher=[[United States Census Bureau]]|access-date=May 3, 2025}}</ref>
+! % 2000
+! % 2010
+! {{partial|% 2020}}
+|-
+| [[Non-Hispanic or Latino whites|White]] alone (NH)
+| 731
+| 718
+| style='background: #ffffe6; |690
+| 95.18%
+| 90.77%
+| style='background: #ffffe6; |86.03%
+|-
+| [[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+| 0
+| 1
+| style='background: #ffffe6; |8
+| 0.00%
+| 0.13%
+| style='background: #ffffe6; |1.00%
+|-
+| [[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+| 19
+| 36
+| style='background: #ffffe6; |22
+| 2.47%
+| 4.55%
+| style='background: #ffffe6; |2.74%
+|-
+| [[Asian Americans|Asian]] alone (NH)
+| 0
+| 0
+| style='background: #ffffe6; |0
+| 0.00%
+| 0.00%
+| style='background: #ffffe6; |0.00%
+|-
+| [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+| 0
+| 0
+| style='background: #ffffe6; |2
+| 0.00%
+| 0.00%
+| style='background: #ffffe6; |0.25%
+|-
+| [[Race and ethnicity in the United States census|Other race]] alone (NH)
+| 0
+| 0
+| style='background: #ffffe6; |6
+| 0.00%
+| 0.00%
+| style='background: #ffffe6; |0.75%
+|-
+| [[Multiracial Americans|Mixed race or multiracial]] (NH)
+| 10
+| 11
+| style='background: #ffffe6; |54
+| 1.30%
+| 1.39%
+| style='background: #ffffe6; |6.73%
+|-
+| [[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+| 8
+| 25
+| style='background: #ffffe6; |20
+| 1.04%
+| 3.16%
+| style='background: #ffffe6; |2.49%
+|-
+|'''Total'''
+|'''768'''
+|'''791'''
+|style='background: #ffffe6; |'''802'''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+===2020 census===
+As of the [[2020 United States census|2020 census]], there were 802 people, 311 households, and 202 families residing in the city.<ref>{{Cite web|title=US Census Bureau, Table P16: Household Type |url=https://data.census.gov/table?q=Pineville%20city,%20Missouri%20p16&y=2020 |access-date=May 3, 2025 |publisher=United States Census Bureau}}</ref> The [[population density]] was {{convert|243.62|PD/sqmi|PD/km2|1}}. There were 361 housing units at an average density of {{convert|109.66|/sqmi|/km2|1}}. The racial makeup of the city was 86.28% [[White (U.S. Census)|White]], 1.37% [[African American (U.S. Census)|African American]], 2.87% [[Native American (U.S. Census)|Native American]], 0.00% [[Asian (U.S. Census)|Asian]], 0.25% [[Race (U.S. Census)|Pacific Islander]], 1.50% from some other races and 7.73% from two or more races. [[Hispanic and Latino Americans|Hispanic or Latino]] people of any race were 2.49% of the population.<ref>{{Cite web|title=How many people live in Pineville, Missouri |url=https://data.usatoday.com/census/total-population/total-population-change/pineville-city-missouri/160-2957818/ |access-date=May 3, 2025 |publisher=USA Today}}</ref>
+
+===2010 census===
+As of the [[2010 United States census|2010 census]], there were 791 people, 287 households, and 185 families residing in the city. The population density was {{convert|254.3|PD/sqmi|PD/km2|1}}. There were 357 housing units at an average density of {{convert|114.8|/sqmi|/km2|1}}. The racial makeup of the city was 92.04% [[White (U.S. Census)|White]], 0.13% [[African American (U.S. Census)|African American]], 4.68% [[Native American (U.S. Census)|Native American]], 0.00% [[Asian (U.S. Census)|Asian]], 0.00% [[Race (U.S. Census)|Pacific Islander]], 1.52% from some other races and 1.64% from two or more races. [[Hispanic and Latino Americans|Hispanic or Latino]] people of any race were 3.16% of the population.
+
+There were 287 households, of which 36.2% had children under the age of 18 living with them, 44.3% were [[Marriage|married couples]] living together, 17.8% had a female householder with no husband present, 2.4% had a male householder with no wife present, and 35.5% were non-families. 31.4% of all households were made up of individuals, and 12.2% had someone living alone who was 65 years of age or older. The average household size was 2.63 and the average family size was 3.31.
+
+The median age in the city was 33.8 years. 29.7% of residents were under the age of 18; 10.3% were between the ages of 18 and 24; 24.3% were from 25 to 44; 22.5% were from 45 to 64; and 13.1% were 65 years of age or older. The gender makeup of the city was 45.6% male and 54.4% female.
+
+===2000 census===
+As of the [[2000 United States census|2000 census]], there were 768 people, 309 households, and 207 families residing in the city. The population density was {{convert|1094.0|PD/sqmi|PD/km2|1}}. There were 350 housing units at an average density of {{convert|498.6|/sqmi|/km2|1}}. The racial makeup of the city was 95.70% [[White (U.S. Census)|White]], 0.00% [[African American (U.S. Census)|African American]], 2.60% [[Native American (U.S. Census)|Native American]], % [[Asian (U.S. Census)|Asian]], 0.00% [[Race (U.S. Census)|Pacific Islander]], 0.39% from some other races and 1.30% from two or more races. [[Hispanic and Latino Americans|Hispanic or Latino]] people of any race were 1.04% of the population.
+
+There were 309 households, out of which 33.7% had children under the age of 18 living with them, 48.9% were [[Marriage|married couples]] living together, 14.9% had a female householder with no husband present, and 33.0% were non-families. 29.1% of all households were made up of individuals, and 13.9% had someone living alone who was 65 years of age or older. The average household size was 2.41 and the average family size was 2.98.
+
+In the city the population was spread out, with 27.3% under the age of 18, 9.4% from 18 to 24, 28.8% from 25 to 44, 19.4% from 45 to 64, and 15.1% who were 65 years of age or older. The median age was 34 years. For every 100 females, there were 86.9 males. For every 100 females age 18 and over, there were 83.6 males.
+
+The median income for a household in the city was $24,886, and the median income for a family was $34,583. Males had a median income of $23,182 versus $20,515 for females. The [[per capita income]] for the city was $13,414. About 19.3% of families and 23.2% of the population were below the [[Poverty threshold|poverty line]], including 30.8% of those under age 18 and 20.4% of those age 65 or over.
+

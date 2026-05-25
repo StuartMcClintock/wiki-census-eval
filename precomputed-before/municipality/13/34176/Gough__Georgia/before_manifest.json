@@ -1,0 +1,16 @@
+{
+  "article": "Gough,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/34176/Gough__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "95b9315b2a659f594b54b1ebe170ad5fe4869e358b6d7343fd3d05d15312597b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "95b9315b2a659f594b54b1ebe170ad5fe4869e358b6d7343fd3d05d15312597b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/34176/Gough__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "34176",
+  "timestamp": "2026-05-24T23:36:49.285690Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Darlington,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/16840/Darlington__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7b6c65ceb80683e16a64fd3d798299c1c56a73f23737d39d911983675b180383",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7b6c65ceb80683e16a64fd3d798299c1c56a73f23737d39d911983675b180383",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/16840/Darlington__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "16840",
+  "timestamp": "2026-05-24T23:39:32.314307Z",
+  "version": 1
+}

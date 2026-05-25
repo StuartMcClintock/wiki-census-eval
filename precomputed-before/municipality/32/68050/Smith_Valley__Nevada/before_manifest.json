@@ -1,0 +1,16 @@
+{
+  "article": "Smith_Valley,_Nevada",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/32/68050/Smith_Valley__Nevada/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "876c5d4bb8a42b8ac398bd5e1dbab90fa7fe60097d47d17845445b9f5cb23a78",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "876c5d4bb8a42b8ac398bd5e1dbab90fa7fe60097d47d17845445b9f5cb23a78",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/32/68050/Smith_Valley__Nevada/manifest.json",
+  "state_fips": "32",
+  "status": "match",
+  "target_fips": "68050",
+  "timestamp": "2026-05-24T23:57:33.939700Z",
+  "version": 1
+}

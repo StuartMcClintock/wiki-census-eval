@@ -1,0 +1,16 @@
+{
+  "article": "Walkerville,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/77650/Walkerville__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ebd9eca9ffe56ddd2f805688a955afcf051f69d663dbfc8de6a6c999d883c94e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ebd9eca9ffe56ddd2f805688a955afcf051f69d663dbfc8de6a6c999d883c94e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/77650/Walkerville__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "77650",
+  "timestamp": "2026-05-24T23:55:02.591665Z",
+  "version": 1
+}

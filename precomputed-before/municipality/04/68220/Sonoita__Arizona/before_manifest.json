@@ -1,0 +1,16 @@
+{
+  "article": "Sonoita,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/68220/Sonoita__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c2094a27d4dc280c5d0970497154b5693f5ef0c3c6eca4d86ca3c260701143c6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c2094a27d4dc280c5d0970497154b5693f5ef0c3c6eca4d86ca3c260701143c6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/68220/Sonoita__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "68220",
+  "timestamp": "2026-05-24T23:33:10.168344Z",
+  "version": 1
+}

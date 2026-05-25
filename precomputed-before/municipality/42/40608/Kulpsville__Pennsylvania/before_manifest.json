@@ -1,0 +1,16 @@
+{
+  "article": "Kulpsville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/40608/Kulpsville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "313d2d71697ba249410f45f31339c5c27ca65f73b41dcd6beb81a2b604e5d7d4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "313d2d71697ba249410f45f31339c5c27ca65f73b41dcd6beb81a2b604e5d7d4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/40608/Kulpsville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "40608",
+  "timestamp": "2026-05-25T00:07:46.270437Z",
+  "version": 1
+}

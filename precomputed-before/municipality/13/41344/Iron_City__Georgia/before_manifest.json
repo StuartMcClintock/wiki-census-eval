@@ -1,0 +1,16 @@
+{
+  "article": "Iron_City,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/41344/Iron_City__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4cf3f1c6b7bde326c87c0a9d7e7ec122d42bdfec250bd1809929863ce6f5020c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4cf3f1c6b7bde326c87c0a9d7e7ec122d42bdfec250bd1809929863ce6f5020c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/41344/Iron_City__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "41344",
+  "timestamp": "2026-05-24T23:36:51.195471Z",
+  "version": 1
+}

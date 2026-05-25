@@ -1,0 +1,16 @@
+{
+  "article": "Leonardville,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/39500/Leonardville__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bef0cfefd7b210bc3b8637906a00a20837ef5c0416410f81578f52ac377d5920",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bef0cfefd7b210bc3b8637906a00a20837ef5c0416410f81578f52ac377d5920",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/39500/Leonardville__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "39500",
+  "timestamp": "2026-05-24T23:43:02.303946Z",
+  "version": 1
+}

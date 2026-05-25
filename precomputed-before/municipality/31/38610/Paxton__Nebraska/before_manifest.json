@@ -1,0 +1,16 @@
+{
+  "article": "Paxton,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/38610/Paxton__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "52659df195572674b5125adf74a8cb953de41f9117f76657b54b881e78b4b2d4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "52659df195572674b5125adf74a8cb953de41f9117f76657b54b881e78b4b2d4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/38610/Paxton__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "38610",
+  "timestamp": "2026-05-24T23:56:02.413634Z",
+  "version": 1
+}

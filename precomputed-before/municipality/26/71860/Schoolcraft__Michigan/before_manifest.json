@@ -1,0 +1,16 @@
+{
+  "article": "Schoolcraft,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/71860/Schoolcraft__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d57fa97eaea6b3504a794e485b40bbe9b7e6303cff42c6b54738b58c0a0fbd1f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d57fa97eaea6b3504a794e485b40bbe9b7e6303cff42c6b54738b58c0a0fbd1f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/71860/Schoolcraft__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "71860",
+  "timestamp": "2026-05-24T23:48:27.434909Z",
+  "version": 1
+}

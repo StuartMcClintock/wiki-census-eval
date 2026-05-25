@@ -1,0 +1,16 @@
+{
+  "article": "Phelps,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/60600/Phelps__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1704f9f244c092350d0cb1a812ee25f6fdb3e888ab8f05b92edd2496e575d925",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1704f9f244c092350d0cb1a812ee25f6fdb3e888ab8f05b92edd2496e575d925",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/60600/Phelps__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "60600",
+  "timestamp": "2026-05-24T23:44:15.849209Z",
+  "version": 1
+}

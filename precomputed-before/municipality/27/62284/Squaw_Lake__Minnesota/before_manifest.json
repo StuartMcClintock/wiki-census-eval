@@ -1,0 +1,16 @@
+{
+  "article": "Squaw_Lake,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/62284/Squaw_Lake__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a8579640b6940479309993d553f8ef555572b31891d5c38783af46e5ad47c3fa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a8579640b6940479309993d553f8ef555572b31891d5c38783af46e5ad47c3fa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/62284/Squaw_Lake__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "62284",
+  "timestamp": "2026-05-24T23:49:46.615425Z",
+  "version": 1
+}

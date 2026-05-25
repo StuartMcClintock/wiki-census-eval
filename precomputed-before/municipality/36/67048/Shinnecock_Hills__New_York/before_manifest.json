@@ -1,0 +1,16 @@
+{
+  "article": "Shinnecock_Hills,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/67048/Shinnecock_Hills__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "16da4c7099e90d47a5d849b70d6737a1fa016fb4a68fa2b21d0cc19010452ea0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "16da4c7099e90d47a5d849b70d6737a1fa016fb4a68fa2b21d0cc19010452ea0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/67048/Shinnecock_Hills__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "67048",
+  "timestamp": "2026-05-25T00:01:13.630504Z",
+  "version": 1
+}

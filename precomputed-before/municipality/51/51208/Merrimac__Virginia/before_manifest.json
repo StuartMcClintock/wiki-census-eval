@@ -1,0 +1,16 @@
+{
+  "article": "Merrimac,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/51208/Merrimac__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c446549a03b329baa2ed40e47c4dce08a142e0dce55fccf77c8ebd2fc8a7d3d4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c446549a03b329baa2ed40e47c4dce08a142e0dce55fccf77c8ebd2fc8a7d3d4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/51208/Merrimac__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "51208",
+  "timestamp": "2026-05-25T00:19:25.917538Z",
+  "version": 1
+}

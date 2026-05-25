@@ -1,0 +1,16 @@
+{
+  "article": "East_Liberty,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/23702/East_Liberty__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9dda39a487671b3eb9824428dbf85285953740d216d0b08b4ad93fc8bc8bb381",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9dda39a487671b3eb9824428dbf85285953740d216d0b08b4ad93fc8bc8bb381",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/23702/East_Liberty__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "23702",
+  "timestamp": "2026-05-25T00:04:06.218156Z",
+  "version": 1
+}

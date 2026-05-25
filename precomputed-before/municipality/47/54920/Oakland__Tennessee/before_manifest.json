@@ -1,0 +1,16 @@
+{
+  "article": "Oakland,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/54920/Oakland__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a79bd62a1a0e6124fb74912d5a115b21e512a71e241d11f742daef1d46c7f5d0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a79bd62a1a0e6124fb74912d5a115b21e512a71e241d11f742daef1d46c7f5d0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/54920/Oakland__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "54920",
+  "timestamp": "2026-05-25T00:14:49.265396Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Nixburg,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/54696/Nixburg__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8fd419892d0bfd6c59cdd406cf5f11f73e732c28f5644829553a1ac0c0e14853",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8fd419892d0bfd6c59cdd406cf5f11f73e732c28f5644829553a1ac0c0e14853",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/54696/Nixburg__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "54696",
+  "timestamp": "2026-05-24T23:32:06.759752Z",
+  "version": 1
+}

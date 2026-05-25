@@ -1,0 +1,16 @@
+{
+  "article": "St._Charles,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/71110/St._Charles__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "442463b47278ffef4f8af961c90d7e88b6ff43fac683b09065b60e7f330d8b23",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "442463b47278ffef4f8af961c90d7e88b6ff43fac683b09065b60e7f330d8b23",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/71110/St._Charles__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "71110",
+  "timestamp": "2026-05-24T23:37:28.603617Z",
+  "version": 1
+}

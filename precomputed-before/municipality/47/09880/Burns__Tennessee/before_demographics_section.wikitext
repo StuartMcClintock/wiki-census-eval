@@ -1,0 +1,58 @@
+==Demographics==
+{{US Census population
+|1960= 386
+|1970= 456
+|1980= 777
+|1990= 1127
+|2000= 1366
+|2010= 1468
+|2020= 1573
+|footnote=Sources:<ref name="GR9">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|publisher=[[United States Census Bureau]]|accessdate=March 4, 2012|title=Census of Population and Housing: Decennial Censuses}}</ref><ref name=CensusPopEst>{{cite web|title=Incorporated Places and Minor Civil Divisions Datasets: Subcounty Resident Population Estimates: April 1, 2010 to July 1, 2012|url=https://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|work=Population Estimates|publisher=U.S. Census Bureau|accessdate=December 11, 2013|url-status=dead|archiveurl=https://web.archive.org/web/20130611010502/http://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|archivedate=June 11, 2013}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A47|title=Census Population API|publisher=United States Census Bureau|accessdate=October 15, 2022}}</ref>
+}}
+
+===2020 census===
+{| class="wikitable" style="text-align:right"
+|+Burns racial composition<ref>{{Cite web|title=Explore Census Data|url=https://data.census.gov/cedsci/table?g=1600000US4709880&tid=DECENNIALPL2020.P2|access-date=December 27, 2021|website=data.census.gov}}</ref>
+!scope="col"| Race
+!scope="col"| Number
+!scope="col"| Percentage
+|-
+!scope="row"| [[White (U.S. Census)|White]] (non-Hispanic)
+| 1,397
+| 88.81%
+|-
+!scope="row"| [[African American (U.S. Census)|Black or African American]] (non-Hispanic)
+| 29
+| 1.84%
+|-
+!scope="row"| [[Native American (U.S. Census)|Native American]]
+| 5
+| 0.32%
+|-
+!scope="row"| [[Asian (U.S. Census)|Asian]]
+| 8
+| 0.51%
+|-
+!scope="row"| [[Pacific Islander (U.S. Census)|Pacific Islander]]
+| 2
+| 0.13%
+|-
+!scope="row"| [[Race (United States Census)|Other/Mixed]]
+| 64
+| 4.07%
+|-
+!scope="row"| [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]]
+| 68
+| 4.32%
+|}
+As of the [[2020 United States census]], there were 1,573 people, 627 households, and 460 families residing in the town.
+
+===2000 census===
+As of the [[census]]<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |accessdate=January 31, 2008 |title=U.S. Census website }}</ref> of 2000, there were 1,366 people, 549 households, and 396 families residing in the town. The population density was {{convert|525.2|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 582 housing units at an average density of {{convert|223.8|/sqmi|/km2|sp=us|adj=off}}. The racial makeup of the town was 96.19% [[White (U.S. Census)|White]], 1.76% [[African American (U.S. Census)|African American]], 0.95% [[Native American (U.S. Census)|Native American]], 0.37% from [[Race (United States Census)|other races]], and 0.73% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 0.51% of the population.
+
+There were 549 households, out of which 32.2% had children under the age of 18 living with them, 54.5% were [[Marriage|married couples]] living together, 12.8% had a female householder with no husband present, and 27.7% were non-families. 21.7% of all households were made up of individuals, and 7.8% had someone living alone who was 65 years of age or older. The average household size was 2.48 and the average family size was 2.84.
+
+In the town, the population was spread out, with 23.1% under the age of 18, 8.6% from 18 to 24, 33.2% from 25 to 44, 23.1% from 45 to 64, and 12.0% who were 65 years of age or older. The median age was 36 years. For every 100 females, there were 98.3 males. For every 100 females age 18 and over, there were 94.8 males.
+
+The median income for a household in the town was $38,641, and the median income for a family was $43,370. Males had a median income of $31,827 versus $22,171 for females. The [[per capita income]] for the town was $18,368. About 3.3% of families and 4.6% of the population were below the [[poverty line]], including 6.4% of those under age 18 and 11.0% of those age 65 or over.
+

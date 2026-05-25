@@ -1,0 +1,16 @@
+{
+  "article": "Emerald_Lakes,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/23540/Emerald_Lakes__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "34be6cbc88f591b096dbc329d9f6f9c9bfedd7b74807c44bd6b6280ae265764d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "34be6cbc88f591b096dbc329d9f6f9c9bfedd7b74807c44bd6b6280ae265764d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/23540/Emerald_Lakes__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "23540",
+  "timestamp": "2026-05-25T00:07:04.251592Z",
+  "version": 1
+}

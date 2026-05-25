@@ -1,0 +1,16 @@
+{
+  "article": "El_Indio,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/23080/El_Indio__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8c5c8c464a2d643c50adc6a9fc177ed4bf58994f94c9c639c03a07159c717aed",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8c5c8c464a2d643c50adc6a9fc177ed4bf58994f94c9c639c03a07159c717aed",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/23080/El_Indio__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "23080",
+  "timestamp": "2026-05-25T00:15:32.216076Z",
+  "version": 1
+}

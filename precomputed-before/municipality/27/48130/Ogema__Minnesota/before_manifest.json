@@ -1,0 +1,16 @@
+{
+  "article": "Ogema,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/48130/Ogema__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f34ba7e93d97ea5e0a310109dd295ec2fa1843a06cc66b18084d56aa5152e84c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f34ba7e93d97ea5e0a310109dd295ec2fa1843a06cc66b18084d56aa5152e84c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/48130/Ogema__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "48130",
+  "timestamp": "2026-05-24T23:49:25.428875Z",
+  "version": 1
+}

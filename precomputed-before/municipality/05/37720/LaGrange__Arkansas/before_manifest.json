@@ -1,0 +1,16 @@
+{
+  "article": "LaGrange,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/37720/LaGrange__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f853f68a9a79fb3a08a9145a58e7d37a0daa11323da5899535889beaa00ee326",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f853f68a9a79fb3a08a9145a58e7d37a0daa11323da5899535889beaa00ee326",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/37720/LaGrange__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "37720",
+  "timestamp": "2026-05-24T23:33:49.696709Z",
+  "version": 1
+}

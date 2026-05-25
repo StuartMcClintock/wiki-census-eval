@@ -1,0 +1,16 @@
+{
+  "article": "Otis,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/56365/Otis__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "70cc1222cada3eb1e1a977d9496002e28ad536f8bd640517afe9dced1e4fc116",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "70cc1222cada3eb1e1a977d9496002e28ad536f8bd640517afe9dced1e4fc116",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/56365/Otis__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "56365",
+  "timestamp": "2026-05-24T23:35:35.832502Z",
+  "version": 1
+}

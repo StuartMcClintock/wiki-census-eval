@@ -1,0 +1,16 @@
+{
+  "article": "Morristown,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/44296/Morristown__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "380b62dafe9cd6b62786a097cbd038bf43b019b262a11bc861b0b5193bd631df",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "380b62dafe9cd6b62786a097cbd038bf43b019b262a11bc861b0b5193bd631df",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/44296/Morristown__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "44296",
+  "timestamp": "2026-05-24T23:49:22.231033Z",
+  "version": 1
+}

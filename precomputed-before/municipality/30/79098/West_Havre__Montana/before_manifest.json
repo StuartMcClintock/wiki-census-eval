@@ -1,0 +1,16 @@
+{
+  "article": "West_Havre,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/79098/West_Havre__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "475cad7767ec1c86d2fe6d359cb5fa86c584ceeb589f6729544477e3270e7e75",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "475cad7767ec1c86d2fe6d359cb5fa86c584ceeb589f6729544477e3270e7e75",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/79098/West_Havre__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "79098",
+  "timestamp": "2026-05-24T23:55:03.197825Z",
+  "version": 1
+}

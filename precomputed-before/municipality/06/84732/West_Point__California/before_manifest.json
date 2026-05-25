@@ -1,0 +1,16 @@
+{
+  "article": "West_Point,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/84732/West_Point__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "991cc94628570228e5a2728a4ead3aba6e93ec75083ff09bb274123e854364aa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "991cc94628570228e5a2728a4ead3aba6e93ec75083ff09bb274123e854364aa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/84732/West_Point__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "84732",
+  "timestamp": "2026-05-24T23:35:14.800470Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Hopland,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/34652/Hopland__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c038f92feafa57d83fe0aaef6ddd685b19b4d61ed0dc999429b2d6b27ac98977",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c038f92feafa57d83fe0aaef6ddd685b19b4d61ed0dc999429b2d6b27ac98977",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/34652/Hopland__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "34652",
+  "timestamp": "2026-05-24T23:34:28.638804Z",
+  "version": 1
+}

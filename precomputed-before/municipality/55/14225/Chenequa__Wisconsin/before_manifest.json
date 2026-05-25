@@ -1,0 +1,16 @@
+{
+  "article": "Chenequa,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/14225/Chenequa__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "066ebbbd77a7fc814720311d304b59c82b29b77c644e979f0191991355fcda9d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "066ebbbd77a7fc814720311d304b59c82b29b77c644e979f0191991355fcda9d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/14225/Chenequa__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "14225",
+  "timestamp": "2026-05-25T00:21:42.594517Z",
+  "version": 1
+}

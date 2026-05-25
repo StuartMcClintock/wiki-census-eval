@@ -1,0 +1,16 @@
+{
+  "article": "Blackburn,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/05950/Blackburn__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "910b5d13136d8ddd3ae755a65ed10a4c130cba4b2c141cb6afcf951c61c49bfa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "910b5d13136d8ddd3ae755a65ed10a4c130cba4b2c141cb6afcf951c61c49bfa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/05950/Blackburn__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "05950",
+  "timestamp": "2026-05-24T23:50:47.848244Z",
+  "version": 1
+}

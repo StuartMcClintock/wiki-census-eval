@@ -1,0 +1,16 @@
+{
+  "article": "Assaria,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/02850/Assaria__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "62f4ce10510b85a9f8099ab9116406b76509e34c1af3da7da803b29d613087d5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "62f4ce10510b85a9f8099ab9116406b76509e34c1af3da7da803b29d613087d5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/02850/Assaria__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "02850",
+  "timestamp": "2026-05-24T23:42:17.837332Z",
+  "version": 1
+}

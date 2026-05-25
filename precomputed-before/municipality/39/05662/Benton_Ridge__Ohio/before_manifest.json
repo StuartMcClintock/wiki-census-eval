@@ -1,0 +1,16 @@
+{
+  "article": "Benton_Ridge,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/05662/Benton_Ridge__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5ddf784e81f281d5f668477d92285cdcf84492748e21a689dbe1939d42da40c1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5ddf784e81f281d5f668477d92285cdcf84492748e21a689dbe1939d42da40c1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/05662/Benton_Ridge__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "05662",
+  "timestamp": "2026-05-25T00:03:34.209456Z",
+  "version": 1
+}

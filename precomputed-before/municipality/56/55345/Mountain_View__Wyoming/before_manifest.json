@@ -1,0 +1,16 @@
+{
+  "article": "Mountain_View,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/55345/Mountain_View__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dd3168838c1b10210c50ce87dfa6e6902e303bc1e5b01e41686672f8f1c97b88",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dd3168838c1b10210c50ce87dfa6e6902e303bc1e5b01e41686672f8f1c97b88",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/55345/Mountain_View__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "55345",
+  "timestamp": "2026-05-25T00:23:19.819371Z",
+  "version": 1
+}

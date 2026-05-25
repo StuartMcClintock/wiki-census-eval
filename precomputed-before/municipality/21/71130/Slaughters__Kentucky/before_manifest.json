@@ -1,0 +1,16 @@
+{
+  "article": "Slaughters,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/71130/Slaughters__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "406d6369997494ef8ff6c95eb8f813dd55a8828c7ef6aae9d09808cf4394f8ce",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "406d6369997494ef8ff6c95eb8f813dd55a8828c7ef6aae9d09808cf4394f8ce",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/71130/Slaughters__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "71130",
+  "timestamp": "2026-05-24T23:44:20.733769Z",
+  "version": 1
+}

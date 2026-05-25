@@ -1,0 +1,16 @@
+{
+  "article": "Cana,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/12600/Cana__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a7e4522abe77135dad09f454dc021e4f5961538a7d5d3ba16a2543ec340ba112",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a7e4522abe77135dad09f454dc021e4f5961538a7d5d3ba16a2543ec340ba112",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/12600/Cana__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "12600",
+  "timestamp": "2026-05-25T00:19:04.287258Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Tschetter_Colony,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/64260/Tschetter_Colony__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "069fb25eff89700d12d99b6603ff3f7c28436f1337b378d86167e424e3ac092b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "069fb25eff89700d12d99b6603ff3f7c28436f1337b378d86167e424e3ac092b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/64260/Tschetter_Colony__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "64260",
+  "timestamp": "2026-05-25T00:14:25.907687Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Waresboro,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/80368/Waresboro__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aef46c533bb1ea0895d92ee799c271327e301278036044ceb05320f9184b8416",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aef46c533bb1ea0895d92ee799c271327e301278036044ceb05320f9184b8416",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/80368/Waresboro__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "80368",
+  "timestamp": "2026-05-24T23:37:11.202365Z",
+  "version": 1
+}

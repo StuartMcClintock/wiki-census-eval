@@ -1,0 +1,16 @@
+{
+  "article": "Plainview,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/55970/Plainview__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5ee2a1326d3e3eab1b860a44c5e9e795db01576c9690206568e5aa257b7ee6de",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5ee2a1326d3e3eab1b860a44c5e9e795db01576c9690206568e5aa257b7ee6de",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/55970/Plainview__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "55970",
+  "timestamp": "2026-05-24T23:34:03.917182Z",
+  "version": 1
+}

@@ -1,0 +1,76 @@
+==Demographics==
+{{US Census population
+|align = left
+|2010 = 193
+|2020 = 172
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|access-date=June 4, 2016}}</ref>
+}}
+
+Putnam was listed as a [[census designated place]] in the [[2010 U.S. census]].<ref>{{Cite web|first= |last= |authorlink=   |title= 2010 Census of Population - Population and Housing Unit Counts - Alabama |publisher=[[United States Census Bureau]]|date= 2010|url=https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-2.pdf |accessdate=|archive-url=https://web.archive.org/web/20220121211347/https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-2.pdf| archive-date=January 21, 2022}}</ref>
+
+{| class="wikitable sortable" style="text-align:center;"
+|+'''Putnam CDP, Alabama – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Putnam CDP, Alabama|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US0162952&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!style="background-color: #ffffb3;" |Pop 2020<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Putnam CDP, Alabama|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US0162952&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!% 2010
+!style="background-color: #ffffb3;" |% 2020
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|45
+|style='background: #ffffe6; |42
+|23.32%
+|style='background: #ffffe6; |24.42%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|140
+|style='background: #ffffe6; |114
+|72.54%
+|style='background: #ffffe6; |66.28%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|5
+|style='background: #ffffe6; |0
+|2.59%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Native Hawaiian]] or [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|0
+|style='background: #ffffe6; |8
+|0.00%
+|style='background: #ffffe6; |4.65%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|3
+|style='background: #ffffe6; |7
+|1.55%
+|style='background: #ffffe6; |4.07%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|0
+|style='background: #ffffe6; |1
+|0.00%
+|style='background: #ffffe6; |0.58%
+|-
+|'''Total'''
+|'''193'''
+|style='background: #ffffe6; |'''172 '''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+As of the [[2010 United States census]], there were 193 people living in the CDP. The racial makeup of the CDP was 72.5% Black, 23.3% White, 2.6% Native American and 1.6% from two or more races.
+{{clear left}}
+

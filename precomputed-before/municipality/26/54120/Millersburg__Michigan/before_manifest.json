@@ -1,0 +1,16 @@
+{
+  "article": "Millersburg,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/54120/Millersburg__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cabdccc6c4336d8f099297567bfaf63802c0d22255310651d779b6e1dfe552fc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cabdccc6c4336d8f099297567bfaf63802c0d22255310651d779b6e1dfe552fc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/54120/Millersburg__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "54120",
+  "timestamp": "2026-05-24T23:48:07.069290Z",
+  "version": 1
+}

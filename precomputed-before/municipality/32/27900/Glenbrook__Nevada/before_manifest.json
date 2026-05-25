@@ -1,0 +1,16 @@
+{
+  "article": "Glenbrook,_Nevada",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/32/27900/Glenbrook__Nevada/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b3ad663c20eeb6adb2db3830af6b82a008bfc5a786f1a90fbb70e64d582ff819",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b3ad663c20eeb6adb2db3830af6b82a008bfc5a786f1a90fbb70e64d582ff819",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/32/27900/Glenbrook__Nevada/manifest.json",
+  "state_fips": "32",
+  "status": "match",
+  "target_fips": "27900",
+  "timestamp": "2026-05-24T23:57:29.548088Z",
+  "version": 1
+}

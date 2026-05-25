@@ -1,0 +1,16 @@
+{
+  "article": "Owyhee,_Nevada",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/32/53600/Owyhee__Nevada/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e81b5f7f438fd3e1dd1b47f7d656119f28f3ea8af16f467be61e4fb9250aee37",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e81b5f7f438fd3e1dd1b47f7d656119f28f3ea8af16f467be61e4fb9250aee37",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/32/53600/Owyhee__Nevada/manifest.json",
+  "state_fips": "32",
+  "status": "match",
+  "target_fips": "53600",
+  "timestamp": "2026-05-24T23:57:32.683733Z",
+  "version": 1
+}

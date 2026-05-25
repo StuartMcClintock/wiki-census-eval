@@ -1,0 +1,16 @@
+{
+  "article": "South_Prairie,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/66045/South_Prairie__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "031f3a32a513df0cab936a23dc136137a344d2a4d42df0caea56c9a3589ee5a4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "031f3a32a513df0cab936a23dc136137a344d2a4d42df0caea56c9a3589ee5a4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/66045/South_Prairie__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "66045",
+  "timestamp": "2026-05-25T00:20:33.052646Z",
+  "version": 1
+}

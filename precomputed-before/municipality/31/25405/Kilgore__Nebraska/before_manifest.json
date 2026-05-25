@@ -1,0 +1,16 @@
+{
+  "article": "Kilgore,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/25405/Kilgore__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8cdbffb6fd678280f1f1906d5e7094fa7a9aa13f6a0fcae78a483672f7279045",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8cdbffb6fd678280f1f1906d5e7094fa7a9aa13f6a0fcae78a483672f7279045",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/25405/Kilgore__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "25405",
+  "timestamp": "2026-05-24T23:55:35.773263Z",
+  "version": 1
+}

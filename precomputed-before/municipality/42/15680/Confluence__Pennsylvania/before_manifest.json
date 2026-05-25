@@ -1,0 +1,16 @@
+{
+  "article": "Confluence,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/15680/Confluence__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "807d2c2c46d66161b68db3e58eef225b579613cc9f0c61a2eb2b2b3a814355dc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "807d2c2c46d66161b68db3e58eef225b579613cc9f0c61a2eb2b2b3a814355dc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/15680/Confluence__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "15680",
+  "timestamp": "2026-05-25T00:06:45.383915Z",
+  "version": 1
+}

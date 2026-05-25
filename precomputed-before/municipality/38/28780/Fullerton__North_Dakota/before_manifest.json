@@ -1,0 +1,16 @@
+{
+  "article": "Fullerton,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/28780/Fullerton__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "06c438421bf4b34e969e8c129df8d34de87cde9e6708b69c61dfdc37b07f7ffb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "06c438421bf4b34e969e8c129df8d34de87cde9e6708b69c61dfdc37b07f7ffb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/28780/Fullerton__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "28780",
+  "timestamp": "2026-05-25T00:02:56.775253Z",
+  "version": 1
+}

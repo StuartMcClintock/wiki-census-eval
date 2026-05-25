@@ -1,0 +1,16 @@
+{
+  "article": "Merryville,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/50010/Merryville__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d06c0fa4617197c600419b5510ab4f0c2eb4b2fce12c11e0a9000b6c73c4f6d6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d06c0fa4617197c600419b5510ab4f0c2eb4b2fce12c11e0a9000b6c73c4f6d6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/50010/Merryville__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "50010",
+  "timestamp": "2026-05-24T23:45:01.357754Z",
+  "version": 1
+}

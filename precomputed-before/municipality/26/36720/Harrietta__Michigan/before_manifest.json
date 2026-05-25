@@ -1,0 +1,16 @@
+{
+  "article": "Harrietta,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/36720/Harrietta__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "df153455bc3317dfdc9a428d68ead7ed71116ede025f864f6e5de52083906372",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "df153455bc3317dfdc9a428d68ead7ed71116ede025f864f6e5de52083906372",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/36720/Harrietta__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "36720",
+  "timestamp": "2026-05-24T23:47:58.011642Z",
+  "version": 1
+}

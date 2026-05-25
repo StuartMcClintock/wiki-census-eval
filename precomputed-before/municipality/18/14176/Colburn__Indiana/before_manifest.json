@@ -1,0 +1,16 @@
+{
+  "article": "Colburn,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/14176/Colburn__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5de8b2d2bca87ec4041c9b15abbbaddedc40e824502acab1f1b0a6a70532ecb0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5de8b2d2bca87ec4041c9b15abbbaddedc40e824502acab1f1b0a6a70532ecb0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/14176/Colburn__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "14176",
+  "timestamp": "2026-05-24T23:39:30.947812Z",
+  "version": 1
+}

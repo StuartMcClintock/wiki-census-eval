@@ -1,0 +1,16 @@
+{
+  "article": "Bear_Dance,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/04410/Bear_Dance__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6f2af0c6e1701f6256aa8b2eab8fc062b86269d9a7d672771b555720a21e05f3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6f2af0c6e1701f6256aa8b2eab8fc062b86269d9a7d672771b555720a21e05f3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/04410/Bear_Dance__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "04410",
+  "timestamp": "2026-05-24T23:54:14.196299Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Krotz_Springs,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/40280/Krotz_Springs__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "92482b4691cb676a9de9c5a80e94b7a47e8d15029e0c819e3f6ef4e6e1b71e9f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "92482b4691cb676a9de9c5a80e94b7a47e8d15029e0c819e3f6ef4e6e1b71e9f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/40280/Krotz_Springs__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "40280",
+  "timestamp": "2026-05-24T23:44:53.063395Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Klukwan,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/40510/Klukwan__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5653475c34c8efb736e8b5e5de11cba45097d27f92093fa7e6752aac6c43d1d3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5653475c34c8efb736e8b5e5de11cba45097d27f92093fa7e6752aac6c43d1d3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/40510/Klukwan__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "40510",
+  "timestamp": "2026-05-24T23:32:24.906718Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Eastview,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/22920/Eastview__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c144fadb939eb2ed92767e8a7ac8a85dfd508641e3cea3450a6c7f0bdc65dfda",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c144fadb939eb2ed92767e8a7ac8a85dfd508641e3cea3450a6c7f0bdc65dfda",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/22920/Eastview__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "22920",
+  "timestamp": "2026-05-25T00:14:37.310368Z",
+  "version": 1
+}

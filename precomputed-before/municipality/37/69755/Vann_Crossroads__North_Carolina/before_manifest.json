@@ -1,0 +1,16 @@
+{
+  "article": "Vann_Crossroads,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/69755/Vann_Crossroads__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f68e86fcb83eac1babfa2179db9c1240a6a0cbc70e9c3a5ad01db3ba6fa6893e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f68e86fcb83eac1babfa2179db9c1240a6a0cbc70e9c3a5ad01db3ba6fa6893e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/69755/Vann_Crossroads__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "69755",
+  "timestamp": "2026-05-25T00:02:27.344685Z",
+  "version": 1
+}

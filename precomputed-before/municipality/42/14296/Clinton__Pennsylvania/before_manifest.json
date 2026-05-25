@@ -1,0 +1,16 @@
+{
+  "article": "Clinton,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/14296/Clinton__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f2a8145093ca985097bc780cc09f507338cea43beacd29255ae9d8a364976698",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f2a8145093ca985097bc780cc09f507338cea43beacd29255ae9d8a364976698",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/14296/Clinton__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "14296",
+  "timestamp": "2026-05-25T00:06:43.040432Z",
+  "version": 1
+}

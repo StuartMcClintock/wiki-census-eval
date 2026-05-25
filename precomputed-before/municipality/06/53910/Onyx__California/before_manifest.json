@@ -1,0 +1,16 @@
+{
+  "article": "Onyx,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/53910/Onyx__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7e55ffb06c4351dd2d1aa9f2f03bbefb380f47026af1c616053394d272af619e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7e55ffb06c4351dd2d1aa9f2f03bbefb380f47026af1c616053394d272af619e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/53910/Onyx__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "53910",
+  "timestamp": "2026-05-24T23:34:44.681990Z",
+  "version": 1
+}

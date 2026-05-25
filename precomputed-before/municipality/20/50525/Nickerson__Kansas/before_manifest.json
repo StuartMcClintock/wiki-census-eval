@@ -1,0 +1,16 @@
+{
+  "article": "Nickerson,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/50525/Nickerson__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d8bcf1388882c88075e831b5933d04420f2450969db4f0b95c74d4fafb24d165",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d8bcf1388882c88075e831b5933d04420f2450969db4f0b95c74d4fafb24d165",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/50525/Nickerson__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "50525",
+  "timestamp": "2026-05-24T23:43:14.585119Z",
+  "version": 1
+}

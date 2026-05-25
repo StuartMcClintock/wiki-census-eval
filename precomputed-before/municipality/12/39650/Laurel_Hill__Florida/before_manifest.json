@@ -1,0 +1,16 @@
+{
+  "article": "Laurel_Hill,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/39650/Laurel_Hill__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "738064d40a4215180c1edadded8685887e275442c5954409731949567a396b39",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "738064d40a4215180c1edadded8685887e275442c5954409731949567a396b39",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/39650/Laurel_Hill__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "39650",
+  "timestamp": "2026-05-24T23:36:16.625817Z",
+  "version": 1
+}

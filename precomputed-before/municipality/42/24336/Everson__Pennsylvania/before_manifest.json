@@ -1,0 +1,16 @@
+{
+  "article": "Everson,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/24336/Everson__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "78f6e9c6865f8e99a1b6b7aff1edab5c11be72d88a3836f10bb8fa09957cd9d3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "78f6e9c6865f8e99a1b6b7aff1edab5c11be72d88a3836f10bb8fa09957cd9d3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/24336/Everson__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "24336",
+  "timestamp": "2026-05-25T00:07:05.911210Z",
+  "version": 1
+}

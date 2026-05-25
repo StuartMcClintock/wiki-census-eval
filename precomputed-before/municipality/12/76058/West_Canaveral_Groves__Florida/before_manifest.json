@@ -1,0 +1,16 @@
+{
+  "article": "West_Canaveral_Groves,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/76058/West_Canaveral_Groves__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d8d40be2a9af8b5a4f63da45a1aaddf3367e021c1485c392898f1229129b640a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d8d40be2a9af8b5a4f63da45a1aaddf3367e021c1485c392898f1229129b640a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/76058/West_Canaveral_Groves__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "76058",
+  "timestamp": "2026-05-24T23:36:24.814002Z",
+  "version": 1
+}

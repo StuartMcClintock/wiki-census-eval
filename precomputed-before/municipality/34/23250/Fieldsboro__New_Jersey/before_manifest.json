@@ -1,0 +1,16 @@
+{
+  "article": "Fieldsboro,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/23250/Fieldsboro__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "04d46f05f7fdc8a00c2581c4cabb1581d329bcef93b614ca87fa1cbbdcaafa08",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "04d46f05f7fdc8a00c2581c4cabb1581d329bcef93b614ca87fa1cbbdcaafa08",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/23250/Fieldsboro__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "23250",
+  "timestamp": "2026-05-24T23:57:47.659788Z",
+  "version": 1
+}

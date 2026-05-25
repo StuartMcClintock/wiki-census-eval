@@ -1,0 +1,16 @@
+{
+  "article": "Sherwood,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/73525/Sherwood__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e1dde9e66c66cb676dabef7f860ad29baed2d43e2f90840eee4bb9c8c599f232",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e1dde9e66c66cb676dabef7f860ad29baed2d43e2f90840eee4bb9c8c599f232",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/73525/Sherwood__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "73525",
+  "timestamp": "2026-05-25T00:22:42.333014Z",
+  "version": 1
+}

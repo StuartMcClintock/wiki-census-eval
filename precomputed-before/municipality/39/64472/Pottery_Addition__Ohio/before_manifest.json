@@ -1,0 +1,16 @@
+{
+  "article": "Pottery_Addition,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/64472/Pottery_Addition__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a39f1a8c8bd4cd1a6904cce90c5f49eadcf804e2067ad69f7d83db8dfdad46d7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a39f1a8c8bd4cd1a6904cce90c5f49eadcf804e2067ad69f7d83db8dfdad46d7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/64472/Pottery_Addition__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "64472",
+  "timestamp": "2026-05-25T00:05:08.313653Z",
+  "version": 1
+}

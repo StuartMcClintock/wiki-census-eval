@@ -1,0 +1,16 @@
+{
+  "article": "Springfield,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/46520/Springfield__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4a35dfd684710770cd9344ed8cc30809e6e3d426845ad79aac2c754691290bc8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4a35dfd684710770cd9344ed8cc30809e6e3d426845ad79aac2c754691290bc8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/46520/Springfield__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "46520",
+  "timestamp": "2026-05-24T23:57:17.185160Z",
+  "version": 1
+}

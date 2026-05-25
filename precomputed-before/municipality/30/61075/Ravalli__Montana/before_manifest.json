@@ -1,0 +1,16 @@
+{
+  "article": "Ravalli,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/61075/Ravalli__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "06c362283999e8d4589431797013aadb9480d40bf3dec89f1300593d68b0829c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "06c362283999e8d4589431797013aadb9480d40bf3dec89f1300593d68b0829c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/61075/Ravalli__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "61075",
+  "timestamp": "2026-05-24T23:54:45.134057Z",
+  "version": 1
+}

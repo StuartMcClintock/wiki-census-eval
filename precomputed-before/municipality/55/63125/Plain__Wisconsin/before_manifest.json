@@ -1,0 +1,16 @@
+{
+  "article": "Plain,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/63125/Plain__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b2741a2a7ba290427550515a5bec675657525b4e8d8c8fb254af8a4c727e5a83",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b2741a2a7ba290427550515a5bec675657525b4e8d8c8fb254af8a4c727e5a83",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/63125/Plain__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "63125",
+  "timestamp": "2026-05-25T00:22:34.267122Z",
+  "version": 1
+}

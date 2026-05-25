@@ -1,0 +1,16 @@
+{
+  "article": "Hoopers_Creek,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/32580/Hoopers_Creek__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "487431d8d9385dfbdd730528999a63ae12ca2d7fce7a9b2fcf16f3f2ad6a501b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "487431d8d9385dfbdd730528999a63ae12ca2d7fce7a9b2fcf16f3f2ad6a501b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/32580/Hoopers_Creek__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "32580",
+  "timestamp": "2026-05-25T00:02:04.364820Z",
+  "version": 1
+}

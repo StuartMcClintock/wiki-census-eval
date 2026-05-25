@@ -1,0 +1,52 @@
+==Demographics==
+{{US Census population
+|2020= 283
+|align-fn=center
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census/decade.html|title=Decennial Census of Population and Housing by Decades|publisher=[[US Census Bureau]]|access-date=}}</ref><br> 2020<ref name=2020CensusP2/>
+}}
+
+===2020 census===
+{| class="wikitable"
+|+'''Linville CDP, North Carolina – Demographic Profile'''<br> (''NH = Non-Hispanic'')
+!Race / Ethnicity
+!Pop 2020<ref name=2020CensusP2>{{Cite web|title=P2 HISPANIC OR LATINO, AND NOT HISPANIC OR LATINO BY RACE – 2020: DEC Redistricting Data (PL 94-171) – Linville CDP, North Carolina|url=https://data.census.gov/cedsci/table?g=1600000US3738420&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]]}}</ref>
+!% 2020
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|260
+|97.87%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|0
+|0.00%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|1
+|0.35%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|2
+|0.71%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|0.00%
+|-
+|[[Race and ethnicity in the United States census|Some Other Race]] alone (NH)
+|0
+|0.00%
+|-
+|[[Multiracial Americans|Mixed Race/Multi-Racial]] (NH)
+|8
+|2.83%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|12
+|4.24%
+|-
+|'''Total'''
+|'''283'''
+|'''100.00%'''
+|}
+''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos can be of any race.''
+

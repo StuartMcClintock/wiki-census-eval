@@ -1,0 +1,16 @@
+{
+  "article": "Randolph,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/66150/Randolph__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "998337055b51d5752065375ee0b4fa64d167515f41c82a2803cea6e6848a4ef6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "998337055b51d5752065375ee0b4fa64d167515f41c82a2803cea6e6848a4ef6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/66150/Randolph__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "66150",
+  "timestamp": "2026-05-25T00:22:37.084016Z",
+  "version": 1
+}

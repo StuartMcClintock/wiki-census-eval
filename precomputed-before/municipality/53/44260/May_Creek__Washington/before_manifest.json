@@ -1,0 +1,16 @@
+{
+  "article": "May_Creek,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/44260/May_Creek__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2fc536887c689b71662ad2baa6f7050e385fb209cf50a5d79d183a44076b491e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2fc536887c689b71662ad2baa6f7050e385fb209cf50a5d79d183a44076b491e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/44260/May_Creek__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "44260",
+  "timestamp": "2026-05-25T00:20:22.878062Z",
+  "version": 1
+}

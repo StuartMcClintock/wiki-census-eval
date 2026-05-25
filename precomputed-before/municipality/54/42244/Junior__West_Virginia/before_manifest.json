@@ -1,0 +1,16 @@
+{
+  "article": "Junior,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/42244/Junior__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "74c316a03378b8e49eeff57cc4883eb2c02e5a047b6f573b074c49357ffee796",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "74c316a03378b8e49eeff57cc4883eb2c02e5a047b6f573b074c49357ffee796",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/42244/Junior__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "42244",
+  "timestamp": "2026-05-25T00:21:13.504605Z",
+  "version": 1
+}

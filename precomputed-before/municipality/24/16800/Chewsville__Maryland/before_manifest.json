@@ -1,0 +1,16 @@
+{
+  "article": "Chewsville,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/16800/Chewsville__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "447079781b0845c7089d78b9d2a1b052ffe56f3eb30e2bfe3b0b0110377fe738",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "447079781b0845c7089d78b9d2a1b052ffe56f3eb30e2bfe3b0b0110377fe738",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/16800/Chewsville__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "16800",
+  "timestamp": "2026-05-24T23:47:17.682511Z",
+  "version": 1
+}

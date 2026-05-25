@@ -1,0 +1,16 @@
+{
+  "article": "Bier,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/07285/Bier__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "14621c159f935b6ac28584712014112bf539dd73c65414f208125cf020544a3c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "14621c159f935b6ac28584712014112bf539dd73c65414f208125cf020544a3c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/07285/Bier__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "07285",
+  "timestamp": "2026-05-24T23:45:15.270351Z",
+  "version": 1
+}

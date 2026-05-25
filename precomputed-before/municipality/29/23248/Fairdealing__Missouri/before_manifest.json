@@ -1,0 +1,16 @@
+{
+  "article": "Fairdealing,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/23248/Fairdealing__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "24c66c990c2131080b13a432c16737b963aca91f6f75a8ef3aac57e401cfa0c5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "24c66c990c2131080b13a432c16737b963aca91f6f75a8ef3aac57e401cfa0c5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/23248/Fairdealing__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "23248",
+  "timestamp": "2026-05-24T23:51:07.890940Z",
+  "version": 1
+}

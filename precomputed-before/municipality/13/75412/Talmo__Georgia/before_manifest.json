@@ -1,0 +1,16 @@
+{
+  "article": "Talmo,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/75412/Talmo__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "28065226e5dba6e0c7fd445a1997ceca46b34cab6b1dde0fff8316f292b38283",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "28065226e5dba6e0c7fd445a1997ceca46b34cab6b1dde0fff8316f292b38283",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/75412/Talmo__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "75412",
+  "timestamp": "2026-05-24T23:37:09.401669Z",
+  "version": 1
+}

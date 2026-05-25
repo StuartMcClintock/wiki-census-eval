@@ -1,0 +1,16 @@
+{
+  "article": "Aulander,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/02580/Aulander__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c1846a871638e63311230020eb37b2c7e7201601e4408ea80048ebcc0f5c15d2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c1846a871638e63311230020eb37b2c7e7201601e4408ea80048ebcc0f5c15d2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/02580/Aulander__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "02580",
+  "timestamp": "2026-05-25T00:01:41.762657Z",
+  "version": 1
+}

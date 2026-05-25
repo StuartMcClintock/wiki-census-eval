@@ -1,0 +1,16 @@
+{
+  "article": "Leighton,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/42160/Leighton__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8bb037388fc41402be83c43b6b68f7f5031ee7f20e152e3917f2dcd1b2488a46",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8bb037388fc41402be83c43b6b68f7f5031ee7f20e152e3917f2dcd1b2488a46",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/42160/Leighton__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "42160",
+  "timestamp": "2026-05-24T23:32:01.826062Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Old_Brookville,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/54562/Old_Brookville__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "beada28c9dd88cf1f8b67cf37318d1c010b5679ec52aa67658eb82f92de0bd03",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "beada28c9dd88cf1f8b67cf37318d1c010b5679ec52aa67658eb82f92de0bd03",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/54562/Old_Brookville__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "54562",
+  "timestamp": "2026-05-25T00:01:00.146599Z",
+  "version": 1
+}

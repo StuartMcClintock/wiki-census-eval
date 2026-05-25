@@ -1,0 +1,16 @@
+{
+  "article": "Maybee,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/52440/Maybee__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "938a615eb2eb57ec3587974875111c5f6bad8926899840ec0fe6102b266223ac",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "938a615eb2eb57ec3587974875111c5f6bad8926899840ec0fe6102b266223ac",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/52440/Maybee__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "52440",
+  "timestamp": "2026-05-24T23:48:05.520165Z",
+  "version": 1
+}

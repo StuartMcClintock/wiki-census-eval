@@ -1,0 +1,112 @@
+==Demographics==
+{{US Census population
+|1980= 1083
+|1990= 1177
+|2000= 1180
+|2010= 1178
+|2020= 1120
+|footnote=Population sources:<br> 1950<ref name=CensusNJ1950CDP>{{Cite web|title= 1950 Census of Population - Number of Inhabitants - New Jersey |url=https://www2.census.gov/library/publications/decennial/1950/population-volume-2/23024255v2p30ch1.pdf|website=[[United States Census Bureau]]|archive-url=https://web.archive.org/web/20250323234824/https://www2.census.gov/library/publications/decennial/1950/population-volume-2/23024255v2p30ch1.pdf| archive-date=March 23, 2025}}</ref> 1960<ref name=CensusNJ1960CDP>{{Cite web|title= 1960 Census of Population - Number of Inhabitants - New Jersey |url=https://www2.census.gov/library/publications/decennial/1960/population-volume-1/21260894v1p32ch2.pdf|website=[[United States Census Bureau]]|archive-url= https://web.archive.org/web/20250322203807/https://www2.census.gov/library/publications/decennial/1960/population-volume-1/21260894v1p32ch2.pdf| archive-date=March 22, 2025}}</ref> 1970<ref name=CensusNJ1970CDP>{{Cite web|title= 1970 Census of Population - Charecteristics of the Population - New Jersey |url=https://www2.census.gov/prod2/decennial/documents/1970a_nj1-01.pdf|website=[[United States Census Bureau]]|archive-url= https://web.archive.org/web/20250413231101/https://www2.census.gov/prod2/decennial/documents/1970a_nj1-01.pdf| archive-date=April 13, 2025}}</ref><br> 1980<ref name=CensusNJ1980CDP>{{Cite web|title= 1980 Census of Population - Volume 1 - Characteristics of the Population - Number of Inhabitants - New Jersey|url=https://www2.census.gov/prod2/decennial/documents/1980a_njAB-01.pdf|website=[[United States Census Bureau]]|archive-url= https://web.archive.org/web/20250208034839/https://www2.census.gov/prod2/decennial/documents/1980a_njAB-01.pdf| archive-date=February 8, 2025}}</ref><ref>Staff. [https://books.google.com/books?id=1AVxMztHPuoC&pg=PA50 ''1980 Census of Population: Number of Inhabitants United States Summary''], p. 1-141. [[United States Census Bureau]], June 1983. Accessed June 28, 2015.</ref> 1990<ref name=CensusNJ1990CDP>{{Cite web|title= 1990 Census of Population - Population and Housing Unit Counts - New Jersey|url=https://www2.census.gov/library/publications/decennial/1990/cph-2/cph-2-32.pdf|website=[[United States Census Bureau]]|archive-url= https://web.archive.org/web/20250323205725/https://www2.census.gov/library/publications/decennial/1990/cph-2/cph-2-32.pdf| archive-date=March 23, 2025}}</ref> 2000<ref name=CensusNJ2000CDP>{{Cite web|title=2000 Census of Population and Housing - Population and Housing Unit Counts - New Jersey |url=https://www2.census.gov/library/publications/2003/dec/phc-3-6.pdf|website=[[United States Census Bureau]]|archive-url=https://web.archive.org/web/20250326080925/https://www2.census.gov/library/publications/2003/dec/phc-3-32.pdf| archive-date=March 26, 2025}}</ref><br> 2010<ref name=CensusNJ2010CDP>{{Cite web|title= 2010 Census of Population - Population and Housing Unit Counts - New Jersey |url=https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-32.pdf|website=[[United States Census Bureau]]|archive-url=https://web.archive.org/web/20251111220031/https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-32.pdf| archive-date=November 11, 2025}}</ref> 2020<ref name=Census2020/>
+}}
+
+Crandon lakes first appeared as a [[census designated place]] in the [[1980 U.S. census]].<ref name=CensusNJ1980CDP/>
+
+===2020 census===
+{| class="wikitable sortable" style="text-align:center;"
+|+'''Crandon Lakes CDP, New Jersey – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Crandon Lakes CDP, New Jersey|url=https://data.census.gov/table?g=160XX00US3415610&tid=DECENNIALSF12000.P004|website=[[United States Census Bureau]] |access-date= }}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Crandon Lakes CDP, New Jersey|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US3415610&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!style="background-color: #ffffb3;" |Pop 2020<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Crandon Lakes CDP, New Jersey|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US3415610&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!% 2000
+!% 2010
+!style="background-color: #ffffb3;" |% 2020
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|1,139
+|1,114
+|style='background: #ffffe6; |1,029
+|96.53%
+|94.57%
+|style='background: #ffffe6; |91.88%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|4
+|7
+|style='background: #ffffe6; |3
+|0.34%
+|0.59%
+|style='background: #ffffe6; |0.27%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|4
+|0
+|style='background: #ffffe6; |1
+|0.34%
+|0.00%
+|style='background: #ffffe6; |0.09%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|6
+|13
+|style='background: #ffffe6; |9
+|0.51%
+|1.10%
+|style='background: #ffffe6; |0.80%
+|-
+|[[Native Hawaiian]] or [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|1
+|0
+|style='background: #ffffe6; |3
+|0.08%
+|0.00%
+|style='background: #ffffe6; |0.27%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|12
+|8
+|style='background: #ffffe6; |42
+|1.02%
+|0.68%
+|style='background: #ffffe6; |3.75%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|14
+|36
+|style='background: #ffffe6; |33
+|1.19%
+|3.06%
+|style='background: #ffffe6; |2.95%
+|-
+|'''Total'''
+|'''1,180'''
+|'''1,178'''
+|style='background: #ffffe6; |'''1,120 '''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+===2010 census===
+The [[2010 United States census]] counted 1,178 people, 441 households, and 334 families in the CDP. The [[population density]] was {{convert|461.5|/mi2|/km2|disp=preunit|people&nbsp;|people|}}. There were 514 housing units at an average density of {{convert|201.4|/mi2|/km2|disp=preunit|units&nbsp;|units|}}. The racial makeup was 97.37% (1,147) [[White (U.S. census)|White]], 0.59% (7) [[Black (U.S. census)|Black or African American]], 0.00% (0) [[Native American (U.S. census)|Native American]], 1.10% (13) [[Asian (U.S. census)|Asian]], 0.00% (0) [[Pacific Islander (U.S. census)|Pacific Islander]], 0.00% (0) from [[Race and ethnicity in the United States census|other races]], and 0.93% (11) from two or more races. [[Hispanic (U.S. census)|Hispanic or Latino]] of any race were 3.06% (36) of the population.<ref name=Census2010>[http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/1600000US3415610 DP-1 - Profile of General Population and Housing Characteristics: 2010 Demographic Profile Data for Crandon Lakes CDP, New Jersey] {{Webarchive|url=https://archive.today/20200212133236/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/1600000US3415610 |date=2020-02-12 }}, [[United States Census Bureau]]. Accessed February 27, 2013.</ref>
+
+Of the 441 households, 32.7% had children under the age of 18; 63.5% were married couples living together; 6.6% had a female householder with no husband present and 24.3% were non-families. Of all households, 19.5% were made up of individuals and 6.6% had someone living alone who was 65 years of age or older. The average household size was 2.67 and the average family size was 3.05.<ref name=Census2010/>
+
+23.2% of the population were under the age of 18, 7.6% from 18 to 24, 24.2% from 25 to 44, 32.9% from 45 to 64, and 12.1% who were 65 years of age or older. The median age was 41.2 years. For every 100 females, the population had 97.7 males. For every 100 females ages 18 and older there were 98.9 males.<ref name=Census2010/>
+
+===2000 census===
+As of the [[2000 United States census]]<ref name="GR2" /> there were 1,180 people, 405 households, and 326 families living in the CDP. The [[population density]] was {{convert|180.1|/km2|/mi2|disp=preunit|people|people|abbr=on}}. There were 492 housing units at an average density of {{convert|75.1|/km2|/mi2|disp=preunit|units|units|abbr=on}}. The racial makeup of the CDP was 97.71% [[White (U.S. Census)|White]], 0.34% [[African American (U.S. Census)|African American]], 0.34% [[Native American (U.S. Census)|Native American]], 0.51% [[Asian (U.S. Census)|Asian]], 0.08% from [[Race (United States Census)|other races]], and 1.02% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 1.19% of the population.<ref name=Census2000>[http://factfinder.census.gov/bkmk/table/1.0/en/DEC/00_SF1/DP1/1600000US3415610 DP-1 - Profile of General Demographic Characteristics: 2000 from the Census 2000 Summary File 1 (SF 1) 100-Percent Data for Crandon Lakes CDP, New Jersey] {{Webarchive|url=https://archive.today/20200212102601/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/00_SF1/DP1/1600000US3415610 |date=2020-02-12 }}, [[United States Census Bureau]]. Accessed February 27, 2013.</ref>
+
+There were 405 households, out of which 45.9% had children under the age of 18 living with them, 66.2% were [[Marriage|married couples]] living together, 10.4% had a female householder with no husband present, and 19.5% were non-families. 15.1% of all households were made up of individuals, and 6.7% had someone living alone who was 65 years of age or older. The average household size was 2.91 and the average family size was 3.26.<ref name=Census2000/>
+
+In the CDP the population was spread out, with 29.5% under the age of 18, 6.5% from 18 to 24, 33.1% from 25 to 44, 23.1% from 45 to 64, and 7.8% who were 65 years of age or older. The median age was 36 years. For every 100 females, there were 96.0 males. For every 100 females age 18 and over, there were 93.0 males.<ref name=Census2000/>
+
+The median income for a household in the CDP was $56,188, and the median income for a family was $60,114. Males had a median income of $50,281 versus $36,429 for females. The [[per capita income]] for the CDP was $22,642. About 0.9% of families and 1.5% of the population were below the [[poverty line]], including 1.2% of those under age 18 and none of those age 65 or over.<ref name=Census2000/>
+

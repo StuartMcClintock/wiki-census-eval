@@ -1,0 +1,16 @@
+{
+  "article": "Fountain_City,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/25090/Fountain_City__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0bfca30bf33e16204484a26f31c1dce1a186f11eb5c28a5484a41c8c0177dd73",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0bfca30bf33e16204484a26f31c1dce1a186f11eb5c28a5484a41c8c0177dd73",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/25090/Fountain_City__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "25090",
+  "timestamp": "2026-05-24T23:39:35.547914Z",
+  "version": 1
+}

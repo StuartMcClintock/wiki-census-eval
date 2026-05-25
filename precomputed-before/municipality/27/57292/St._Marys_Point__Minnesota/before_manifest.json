@@ -1,0 +1,16 @@
+{
+  "article": "St._Marys_Point,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/57292/St._Marys_Point__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "425ea53101835e2ad84aeabe3be18d4c551e65b0a727981ca8830b2c9e69f262",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "425ea53101835e2ad84aeabe3be18d4c551e65b0a727981ca8830b2c9e69f262",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/57292/St._Marys_Point__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "57292",
+  "timestamp": "2026-05-24T23:49:43.886492Z",
+  "version": 1
+}

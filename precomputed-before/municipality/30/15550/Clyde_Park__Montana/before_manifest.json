@@ -1,0 +1,16 @@
+{
+  "article": "Clyde_Park,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/15550/Clyde_Park__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d92f56f7e761697295f55dd21da6c661bbaf6816886cd9b965a33925428cc9da",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d92f56f7e761697295f55dd21da6c661bbaf6816886cd9b965a33925428cc9da",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/15550/Clyde_Park__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "15550",
+  "timestamp": "2026-05-24T23:54:19.197902Z",
+  "version": 1
+}

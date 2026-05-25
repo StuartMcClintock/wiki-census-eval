@@ -1,0 +1,16 @@
+{
+  "article": "Bearcreek,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/04300/Bearcreek__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c7b5f9579c4ca54c126bee0295aee406812382348a5532cbda9d1650746bf03a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c7b5f9579c4ca54c126bee0295aee406812382348a5532cbda9d1650746bf03a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/04300/Bearcreek__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "04300",
+  "timestamp": "2026-05-24T23:54:14.098381Z",
+  "version": 1
+}

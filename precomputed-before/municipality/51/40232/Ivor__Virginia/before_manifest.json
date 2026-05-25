@@ -1,0 +1,16 @@
+{
+  "article": "Ivor,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/40232/Ivor__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9424f3e3d6e95e44b9bb990f73c89f86cc8b121423317e461209121a3a429b5d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9424f3e3d6e95e44b9bb990f73c89f86cc8b121423317e461209121a3a429b5d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/40232/Ivor__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "40232",
+  "timestamp": "2026-05-25T00:19:19.339044Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Lake_Michigan_Beach,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/44820/Lake_Michigan_Beach__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6e10ccba4a42a59d5eb5b29210defb21d6cb7163e9ec3af73ad1f93cece2c986",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6e10ccba4a42a59d5eb5b29210defb21d6cb7163e9ec3af73ad1f93cece2c986",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/44820/Lake_Michigan_Beach__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "44820",
+  "timestamp": "2026-05-24T23:48:01.676798Z",
+  "version": 1
+}

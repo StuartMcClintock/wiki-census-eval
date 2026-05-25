@@ -1,0 +1,16 @@
+{
+  "article": "Dudley,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/20152/Dudley__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e1f70316d99e9a61dc8fb3962c46dff20e6a1b1908e920a47a96923c129cb84e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e1f70316d99e9a61dc8fb3962c46dff20e6a1b1908e920a47a96923c129cb84e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/20152/Dudley__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "20152",
+  "timestamp": "2026-05-25T00:06:53.580272Z",
+  "version": 1
+}

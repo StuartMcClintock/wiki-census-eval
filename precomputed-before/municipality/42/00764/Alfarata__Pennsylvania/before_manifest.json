@@ -1,0 +1,16 @@
+{
+  "article": "Alfarata,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/00764/Alfarata__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "baabe5715b475864cf873dd610dbf4264a9dc3b1bf44b36d5911ccdce9d32c69",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "baabe5715b475864cf873dd610dbf4264a9dc3b1bf44b36d5911ccdce9d32c69",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/00764/Alfarata__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "00764",
+  "timestamp": "2026-05-25T00:06:07.192437Z",
+  "version": 1
+}

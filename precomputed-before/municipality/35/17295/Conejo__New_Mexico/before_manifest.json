@@ -1,0 +1,16 @@
+{
+  "article": "Conejo,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/17295/Conejo__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dcf2b183a17f290d18d5b88c0276ff99758945d73cd46efb39281c1332a2c804",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dcf2b183a17f290d18d5b88c0276ff99758945d73cd46efb39281c1332a2c804",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/17295/Conejo__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "17295",
+  "timestamp": "2026-05-24T23:58:26.400729Z",
+  "version": 1
+}

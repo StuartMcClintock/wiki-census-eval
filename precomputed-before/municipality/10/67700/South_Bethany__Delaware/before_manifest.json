@@ -1,0 +1,16 @@
+{
+  "article": "South_Bethany,_Delaware",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/10/67700/South_Bethany__Delaware/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "822e7569a3630b49badbcf4c77ca237765d963991fd598aca387790dfca59634",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "822e7569a3630b49badbcf4c77ca237765d963991fd598aca387790dfca59634",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/10/67700/South_Bethany__Delaware/manifest.json",
+  "state_fips": "10",
+  "status": "match",
+  "target_fips": "67700",
+  "timestamp": "2026-05-24T23:36:05.923275Z",
+  "version": 1
+}

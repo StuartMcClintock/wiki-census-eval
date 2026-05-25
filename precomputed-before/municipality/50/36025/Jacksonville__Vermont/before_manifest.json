@@ -1,0 +1,16 @@
+{
+  "article": "Jacksonville,_Vermont",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/50/36025/Jacksonville__Vermont/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "02315a2ef08595fed6001c4ed83d39b8e2a77c43931c31517370a92b6ec3289b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "02315a2ef08595fed6001c4ed83d39b8e2a77c43931c31517370a92b6ec3289b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/50/36025/Jacksonville__Vermont/manifest.json",
+  "state_fips": "50",
+  "status": "match",
+  "target_fips": "36025",
+  "timestamp": "2026-05-25T00:17:15.721760Z",
+  "version": 1
+}

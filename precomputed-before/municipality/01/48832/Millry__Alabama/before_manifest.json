@@ -1,0 +1,16 @@
+{
+  "article": "Millry,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/48832/Millry__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d3b9097401e170734ab81abe374522af41b8d5cfe64dc8fd63c52cc7661f016e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d3b9097401e170734ab81abe374522af41b8d5cfe64dc8fd63c52cc7661f016e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/48832/Millry__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "48832",
+  "timestamp": "2026-05-24T23:32:04.694337Z",
+  "version": 1
+}

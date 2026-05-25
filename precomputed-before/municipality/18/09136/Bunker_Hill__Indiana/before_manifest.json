@@ -1,0 +1,16 @@
+{
+  "article": "Bunker_Hill,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/09136/Bunker_Hill__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "333ec148d2876b4d123aed6a85f8dc8113ef62f2e4c93e5b0375c739bb0261eb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "333ec148d2876b4d123aed6a85f8dc8113ef62f2e4c93e5b0375c739bb0261eb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/09136/Bunker_Hill__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "09136",
+  "timestamp": "2026-05-24T23:39:27.746062Z",
+  "version": 1
+}

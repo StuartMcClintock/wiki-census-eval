@@ -1,0 +1,16 @@
+{
+  "article": "Frederick,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/22860/Frederick__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1ff65a5edc43f5964798a78d9319b0abc077a13220a4d0345e1eee5a22ee68d9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1ff65a5edc43f5964798a78d9319b0abc077a13220a4d0345e1eee5a22ee68d9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/22860/Frederick__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "22860",
+  "timestamp": "2026-05-25T00:10:38.806802Z",
+  "version": 1
+}

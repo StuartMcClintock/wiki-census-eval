@@ -1,0 +1,16 @@
+{
+  "article": "Bonneau_Beach,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/07535/Bonneau_Beach__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "577eee5ef1915f44e05bcbfa439f09b475dacde29cc2d01b9d34b8263da400b8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "577eee5ef1915f44e05bcbfa439f09b475dacde29cc2d01b9d34b8263da400b8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/07535/Bonneau_Beach__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "07535",
+  "timestamp": "2026-05-25T00:09:40.460772Z",
+  "version": 1
+}

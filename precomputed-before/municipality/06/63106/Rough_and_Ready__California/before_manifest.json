@@ -1,0 +1,16 @@
+{
+  "article": "Rough_and_Ready,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/63106/Rough_and_Ready__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1b216443b490b03af38c43dda6cd2138e82ab2e28cf92cb2cdb8617fe9ea0f90",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1b216443b490b03af38c43dda6cd2138e82ab2e28cf92cb2cdb8617fe9ea0f90",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/63106/Rough_and_Ready__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "63106",
+  "timestamp": "2026-05-24T23:35:02.362690Z",
+  "version": 1
+}

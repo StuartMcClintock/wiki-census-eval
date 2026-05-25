@@ -1,0 +1,16 @@
+{
+  "article": "Wakeman,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/80458/Wakeman__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "50e89d1a6ec5c635d5ad44ec27f8d013eeaa64cca202424cb55e7f93f9e0a459",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "50e89d1a6ec5c635d5ad44ec27f8d013eeaa64cca202424cb55e7f93f9e0a459",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/80458/Wakeman__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "80458",
+  "timestamp": "2026-05-25T00:05:35.647863Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Imperial,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/35828/Imperial__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "665f7b91052963fd70c3922375c1377dada57c491959e80bd53b7a07c40d85bb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "665f7b91052963fd70c3922375c1377dada57c491959e80bd53b7a07c40d85bb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/35828/Imperial__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "35828",
+  "timestamp": "2026-05-25T00:15:44.869226Z",
+  "version": 1
+}

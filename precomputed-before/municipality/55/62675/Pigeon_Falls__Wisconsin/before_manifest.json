@@ -1,0 +1,16 @@
+{
+  "article": "Pigeon_Falls,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/62675/Pigeon_Falls__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f39035423187a472647e2041486cf2173d8445f31ffba638993888fe9d306db4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f39035423187a472647e2041486cf2173d8445f31ffba638993888fe9d306db4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/62675/Pigeon_Falls__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "62675",
+  "timestamp": "2026-05-25T00:22:34.003634Z",
+  "version": 1
+}

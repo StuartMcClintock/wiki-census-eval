@@ -1,0 +1,16 @@
+{
+  "article": "Sherwood_Shores,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/67554/Sherwood_Shores__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1b2a4ec0ef53e1ff8101ae5de8f61e1016304cb97971e9ae2ff1e825a84371fc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1b2a4ec0ef53e1ff8101ae5de8f61e1016304cb97971e9ae2ff1e825a84371fc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/67554/Sherwood_Shores__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "67554",
+  "timestamp": "2026-05-25T00:16:37.880165Z",
+  "version": 1
+}

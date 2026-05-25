@@ -1,0 +1,16 @@
+{
+  "article": "Regan,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/65980/Regan__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4a5188956bbc2001f3fc526a5d649aae17540f6edfbea35346b16a351966cbb4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4a5188956bbc2001f3fc526a5d649aae17540f6edfbea35346b16a351966cbb4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/65980/Regan__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "65980",
+  "timestamp": "2026-05-25T00:03:18.734593Z",
+  "version": 1
+}

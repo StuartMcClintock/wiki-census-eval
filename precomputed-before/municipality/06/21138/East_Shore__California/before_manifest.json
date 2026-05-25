@@ -1,0 +1,16 @@
+{
+  "article": "East_Shore,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/21138/East_Shore__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5173c637b3597d3f014955a8e7e4acc65241d3dd145ae8bbff609867777c960f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5173c637b3597d3f014955a8e7e4acc65241d3dd145ae8bbff609867777c960f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/21138/East_Shore__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "21138",
+  "timestamp": "2026-05-24T23:34:20.140091Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Doylestown,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/19784/Doylestown__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1c690a85c77a4809853be077c73e131424c41ace2918fdfc42fbf16b3187ce51",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1c690a85c77a4809853be077c73e131424c41ace2918fdfc42fbf16b3187ce51",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/19784/Doylestown__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "19784",
+  "timestamp": "2026-05-25T00:06:52.802230Z",
+  "version": 1
+}

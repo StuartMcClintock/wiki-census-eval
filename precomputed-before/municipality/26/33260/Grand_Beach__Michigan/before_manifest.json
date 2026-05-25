@@ -1,0 +1,16 @@
+{
+  "article": "Grand_Beach,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/33260/Grand_Beach__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4112f2314f9d11e88b18ba1923595dc025824ac7f6f9acdb9e38f82a29920db6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4112f2314f9d11e88b18ba1923595dc025824ac7f6f9acdb9e38f82a29920db6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/33260/Grand_Beach__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "33260",
+  "timestamp": "2026-05-24T23:47:56.787550Z",
+  "version": 1
+}

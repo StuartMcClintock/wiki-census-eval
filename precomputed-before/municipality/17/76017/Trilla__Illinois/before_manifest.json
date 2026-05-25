@@ -1,0 +1,16 @@
+{
+  "article": "Trilla,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/76017/Trilla__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8f341ffbed89b127c2a6084c98b09ba21a53c207f984d22eaa24a235b28f0180",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8f341ffbed89b127c2a6084c98b09ba21a53c207f984d22eaa24a235b28f0180",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/76017/Trilla__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "76017",
+  "timestamp": "2026-05-24T23:39:17.459162Z",
+  "version": 1
+}

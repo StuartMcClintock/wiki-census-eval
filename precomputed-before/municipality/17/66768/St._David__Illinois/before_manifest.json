@@ -1,0 +1,16 @@
+{
+  "article": "St._David,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/66768/St._David__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a65af191d91e8e1abf9931f9e413a94ab52262a4dcae4f5434032ffc50969fc0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a65af191d91e8e1abf9931f9e413a94ab52262a4dcae4f5434032ffc50969fc0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/66768/St._David__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "66768",
+  "timestamp": "2026-05-24T23:39:08.597230Z",
+  "version": 1
+}

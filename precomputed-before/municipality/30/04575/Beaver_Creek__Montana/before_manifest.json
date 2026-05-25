@@ -1,0 +1,16 @@
+{
+  "article": "Beaver_Creek,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/04575/Beaver_Creek__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4ae4111a229d884fe4e394b534a64e4ad6e5d00a5dc495af5b1dbab9d7e163cd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4ae4111a229d884fe4e394b534a64e4ad6e5d00a5dc495af5b1dbab9d7e163cd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/04575/Beaver_Creek__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "04575",
+  "timestamp": "2026-05-24T23:54:14.292358Z",
+  "version": 1
+}

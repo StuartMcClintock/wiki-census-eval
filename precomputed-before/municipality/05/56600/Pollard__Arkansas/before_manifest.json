@@ -1,0 +1,16 @@
+{
+  "article": "Pollard,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/56600/Pollard__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4cb00170a396848bcb11ca00d90e29d1f02851450f53792cb46d413912a5c8d4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4cb00170a396848bcb11ca00d90e29d1f02851450f53792cb46d413912a5c8d4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/56600/Pollard__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "56600",
+  "timestamp": "2026-05-24T23:34:04.224148Z",
+  "version": 1
+}

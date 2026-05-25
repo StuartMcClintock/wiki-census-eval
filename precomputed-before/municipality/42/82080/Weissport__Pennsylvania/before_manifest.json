@@ -1,0 +1,16 @@
+{
+  "article": "Weissport,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/82080/Weissport__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "14552dc38d8d7f016395fb8ff2474e59661b3f5fc592864f8e456fba0f3eeef6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "14552dc38d8d7f016395fb8ff2474e59661b3f5fc592864f8e456fba0f3eeef6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/82080/Weissport__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "82080",
+  "timestamp": "2026-05-25T00:09:25.727624Z",
+  "version": 1
+}

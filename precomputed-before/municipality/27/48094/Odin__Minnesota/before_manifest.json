@@ -1,0 +1,16 @@
+{
+  "article": "Odin,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/48094/Odin__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a1fb6d66d3e9d4065a3c6e15727e7ff3f1769db2493ccd21480b85d7b7c74d4e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a1fb6d66d3e9d4065a3c6e15727e7ff3f1769db2493ccd21480b85d7b7c74d4e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/48094/Odin__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "48094",
+  "timestamp": "2026-05-24T23:49:25.314393Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Plessis,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/58739/Plessis__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "93e23fa97a392b5125dd6626fea9347ea6188aae0baffb0a089710e9b8bc1ef0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "93e23fa97a392b5125dd6626fea9347ea6188aae0baffb0a089710e9b8bc1ef0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/58739/Plessis__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "58739",
+  "timestamp": "2026-05-25T00:01:04.790303Z",
+  "version": 1
+}

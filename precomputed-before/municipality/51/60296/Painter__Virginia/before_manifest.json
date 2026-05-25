@@ -1,0 +1,16 @@
+{
+  "article": "Painter,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/60296/Painter__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8011994b55f3a3d5fc2deb484fc53ccc77fc8a2facc7551e93ce81961dc9dad6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8011994b55f3a3d5fc2deb484fc53ccc77fc8a2facc7551e93ce81961dc9dad6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/60296/Painter__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "60296",
+  "timestamp": "2026-05-25T00:19:30.560728Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Lynnwood-Pricedale,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/45732/Lynnwood-Pricedale__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2cdeba3b97f60cc6121308c2fd8180de0452bf09231fe5e7935658cc8054ebb7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2cdeba3b97f60cc6121308c2fd8180de0452bf09231fe5e7935658cc8054ebb7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/45732/Lynnwood-Pricedale__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "45732",
+  "timestamp": "2026-05-25T00:07:54.832081Z",
+  "version": 1
+}

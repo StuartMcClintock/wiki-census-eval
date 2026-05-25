@@ -1,0 +1,16 @@
+{
+  "article": "Timken,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/70625/Timken__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "024347fee2551a8b2449e3d5d2af7b13ac6b50843804e624babe7e52c73a6c3b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "024347fee2551a8b2449e3d5d2af7b13ac6b50843804e624babe7e52c73a6c3b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/70625/Timken__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "70625",
+  "timestamp": "2026-05-24T23:43:32.600383Z",
+  "version": 1
+}

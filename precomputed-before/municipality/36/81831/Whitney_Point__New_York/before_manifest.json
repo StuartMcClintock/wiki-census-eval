@@ -1,0 +1,16 @@
+{
+  "article": "Whitney_Point,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/81831/Whitney_Point__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "375044ce9858db3ee014d3f88fb2e7b761fb15769055264f946422d2473c3a25",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "375044ce9858db3ee014d3f88fb2e7b761fb15769055264f946422d2473c3a25",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/81831/Whitney_Point__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "81831",
+  "timestamp": "2026-05-25T00:01:27.067821Z",
+  "version": 1
+}

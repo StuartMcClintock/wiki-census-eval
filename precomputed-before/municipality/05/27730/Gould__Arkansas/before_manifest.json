@@ -1,0 +1,16 @@
+{
+  "article": "Gould,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/27730/Gould__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3d46787af932af72fe7c809b6bc12b1b15cbf849546c60f970fa290f83abcbbe",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3d46787af932af72fe7c809b6bc12b1b15cbf849546c60f970fa290f83abcbbe",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/27730/Gould__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "27730",
+  "timestamp": "2026-05-24T23:33:43.620047Z",
+  "version": 1
+}

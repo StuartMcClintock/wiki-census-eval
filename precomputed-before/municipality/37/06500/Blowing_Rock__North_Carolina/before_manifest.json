@@ -1,0 +1,16 @@
+{
+  "article": "Blowing_Rock,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/06500/Blowing_Rock__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3b68458875d280724fa6c2bcbfd3b412f5a83e53d45aaadc31d4daab278345cf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3b68458875d280724fa6c2bcbfd3b412f5a83e53d45aaadc31d4daab278345cf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/06500/Blowing_Rock__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "06500",
+  "timestamp": "2026-05-25T00:01:45.239362Z",
+  "version": 1
+}

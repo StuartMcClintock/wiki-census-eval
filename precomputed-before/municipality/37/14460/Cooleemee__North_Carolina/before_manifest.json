@@ -1,0 +1,16 @@
+{
+  "article": "Cooleemee,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/14460/Cooleemee__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e641cad3559f5cb1671627a112afa42660379a4dff70fc4b32b9a3c835731b90",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e641cad3559f5cb1671627a112afa42660379a4dff70fc4b32b9a3c835731b90",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/14460/Cooleemee__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "14460",
+  "timestamp": "2026-05-25T00:01:51.247262Z",
+  "version": 1
+}

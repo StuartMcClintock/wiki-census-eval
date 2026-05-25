@@ -1,0 +1,16 @@
+{
+  "article": "Lithium,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/43346/Lithium__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1eac806060d6d3cfbc98e70023f8df533a5a5124cbf467394ab19453e0fe9455",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1eac806060d6d3cfbc98e70023f8df533a5a5124cbf467394ab19453e0fe9455",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/43346/Lithium__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "43346",
+  "timestamp": "2026-05-24T23:53:28.437204Z",
+  "version": 1
+}

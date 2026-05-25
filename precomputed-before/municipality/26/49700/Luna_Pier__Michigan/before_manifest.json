@@ -1,0 +1,16 @@
+{
+  "article": "Luna_Pier,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/49700/Luna_Pier__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "261b4e69b8e6c06844f6a0729c05ddb857c34b85f4497ef06d39eabadef5fd3a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "261b4e69b8e6c06844f6a0729c05ddb857c34b85f4497ef06d39eabadef5fd3a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/49700/Luna_Pier__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "49700",
+  "timestamp": "2026-05-24T23:48:03.500850Z",
+  "version": 1
+}

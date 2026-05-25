@@ -1,0 +1,16 @@
+{
+  "article": "Movico,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/52680/Movico__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "552a12a3751e5d44f615f91e0177b6be6b1927f835796f4daacde4437758c30f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "552a12a3751e5d44f615f91e0177b6be6b1927f835796f4daacde4437758c30f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/52680/Movico__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "52680",
+  "timestamp": "2026-05-24T23:32:05.111777Z",
+  "version": 1
+}

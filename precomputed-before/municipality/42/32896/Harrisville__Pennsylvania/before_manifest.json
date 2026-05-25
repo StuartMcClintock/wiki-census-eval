@@ -1,0 +1,16 @@
+{
+  "article": "Harrisville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/32896/Harrisville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "04815beb1f7354c19d0b6d66f5001f397bf11a726f8a866ff240d49d3defaf57",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "04815beb1f7354c19d0b6d66f5001f397bf11a726f8a866ff240d49d3defaf57",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/32896/Harrisville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "32896",
+  "timestamp": "2026-05-25T00:07:22.413759Z",
+  "version": 1
+}

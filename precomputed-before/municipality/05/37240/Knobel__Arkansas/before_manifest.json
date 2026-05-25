@@ -1,0 +1,16 @@
+{
+  "article": "Knobel,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/37240/Knobel__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f4ae0fe5881a6a4a41c5aa2969cb0e9313591c87cf538db1e34547b1543bdd54",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f4ae0fe5881a6a4a41c5aa2969cb0e9313591c87cf538db1e34547b1543bdd54",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/37240/Knobel__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "37240",
+  "timestamp": "2026-05-24T23:33:49.391219Z",
+  "version": 1
+}

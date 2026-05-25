@@ -1,0 +1,16 @@
+{
+  "article": "Chokoloskee,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/12150/Chokoloskee__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a880aec2e7999928686f906c602dbc63d3f635c06a7a32a817cf183c47b3cc8a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a880aec2e7999928686f906c602dbc63d3f635c06a7a32a817cf183c47b3cc8a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/12150/Chokoloskee__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "12150",
+  "timestamp": "2026-05-24T23:36:09.735805Z",
+  "version": 1
+}

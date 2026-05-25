@@ -1,0 +1,16 @@
+{
+  "article": "Syracuse,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/48235/Syracuse__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f6c55f0cf4c1d377b50627374c2c3a83ef89251be8bd07385b7625eb2b631194",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f6c55f0cf4c1d377b50627374c2c3a83ef89251be8bd07385b7625eb2b631194",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/48235/Syracuse__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "48235",
+  "timestamp": "2026-05-24T23:57:19.766794Z",
+  "version": 1
+}

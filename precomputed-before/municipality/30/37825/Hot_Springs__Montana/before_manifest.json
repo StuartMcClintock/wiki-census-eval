@@ -1,0 +1,16 @@
+{
+  "article": "Hot_Springs,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/37825/Hot_Springs__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0e1b6d23cb6039fc0a7a7250f737b8e82bac56a95416451020905f09033bed4a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0e1b6d23cb6039fc0a7a7250f737b8e82bac56a95416451020905f09033bed4a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/37825/Hot_Springs__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "37825",
+  "timestamp": "2026-05-24T23:54:31.073551Z",
+  "version": 1
+}

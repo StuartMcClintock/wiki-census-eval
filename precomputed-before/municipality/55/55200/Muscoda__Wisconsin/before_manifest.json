@@ -1,0 +1,16 @@
+{
+  "article": "Muscoda,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/55200/Muscoda__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b000a038cde07450d45eed0a2f0d8583565eeed0cd287845336f31b04adb741c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b000a038cde07450d45eed0a2f0d8583565eeed0cd287845336f31b04adb741c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/55200/Muscoda__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "55200",
+  "timestamp": "2026-05-25T00:22:27.441814Z",
+  "version": 1
+}

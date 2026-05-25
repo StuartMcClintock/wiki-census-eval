@@ -1,0 +1,16 @@
+{
+  "article": "Waverly,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/76720/Waverly__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "89168630321c6e02669d1b99941e587cb8103f01e1c64a1e93b010c7cfe65136",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "89168630321c6e02669d1b99941e587cb8103f01e1c64a1e93b010c7cfe65136",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/76720/Waverly__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "76720",
+  "timestamp": "2026-05-25T00:20:38.370571Z",
+  "version": 1
+}

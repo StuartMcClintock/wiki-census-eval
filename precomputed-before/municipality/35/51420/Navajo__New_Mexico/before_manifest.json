@@ -1,0 +1,16 @@
+{
+  "article": "Navajo,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/51420/Navajo__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6b36ba614ea56d882db34f3afac4051bf895ad0bc3ed75992d5ccbfa2a312abf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6b36ba614ea56d882db34f3afac4051bf895ad0bc3ed75992d5ccbfa2a312abf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/51420/Navajo__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "51420",
+  "timestamp": "2026-05-24T23:58:43.913104Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Hyde_Park,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/36592/Hyde_Park__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "924fdbfcb56b99abb94440a24ca7071e0ebbf5e0669c48e769e5154ac4ef91e2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "924fdbfcb56b99abb94440a24ca7071e0ebbf5e0669c48e769e5154ac4ef91e2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/36592/Hyde_Park__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "36592",
+  "timestamp": "2026-05-25T00:07:29.493704Z",
+  "version": 1
+}

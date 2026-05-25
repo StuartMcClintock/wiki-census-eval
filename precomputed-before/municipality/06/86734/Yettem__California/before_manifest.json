@@ -1,0 +1,16 @@
+{
+  "article": "Yettem,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/86734/Yettem__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c1b4065e50b28ae822951ae76b87216f88b6aa935570dedcccfb368fb69fbc5a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c1b4065e50b28ae822951ae76b87216f88b6aa935570dedcccfb368fb69fbc5a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/86734/Yettem__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "86734",
+  "timestamp": "2026-05-24T23:35:16.330867Z",
+  "version": 1
+}

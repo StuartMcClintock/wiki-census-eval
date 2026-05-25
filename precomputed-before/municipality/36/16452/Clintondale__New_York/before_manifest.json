@@ -1,0 +1,16 @@
+{
+  "article": "Clintondale,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/16452/Clintondale__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "59fb8651d4cc58c2fcbcccf46852bb0e5b52d61fb15e3e7e3476bdd281e707c2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "59fb8651d4cc58c2fcbcccf46852bb0e5b52d61fb15e3e7e3476bdd281e707c2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/16452/Clintondale__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "16452",
+  "timestamp": "2026-05-25T00:00:36.512877Z",
+  "version": 1
+}

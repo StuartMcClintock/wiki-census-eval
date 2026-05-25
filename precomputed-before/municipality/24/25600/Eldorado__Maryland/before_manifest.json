@@ -1,0 +1,16 @@
+{
+  "article": "Eldorado,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/25600/Eldorado__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7cf10808ac99337aca11d425b5526871b98fa76ba9f5d5ea603abd34b907b387",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7cf10808ac99337aca11d425b5526871b98fa76ba9f5d5ea603abd34b907b387",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/25600/Eldorado__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "25600",
+  "timestamp": "2026-05-24T23:47:20.505787Z",
+  "version": 1
+}

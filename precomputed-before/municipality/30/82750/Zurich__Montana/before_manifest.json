@@ -1,0 +1,16 @@
+{
+  "article": "Zurich,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/82750/Zurich__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6b4a74e5178921fdf2d2bb35742a031cf573da0decc388995f87d3e404e40684",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6b4a74e5178921fdf2d2bb35742a031cf573da0decc388995f87d3e404e40684",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/82750/Zurich__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "82750",
+  "timestamp": "2026-05-24T23:55:06.414842Z",
+  "version": 1
+}

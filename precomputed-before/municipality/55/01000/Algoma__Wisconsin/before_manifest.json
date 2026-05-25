@@ -1,0 +1,16 @@
+{
+  "article": "Algoma,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/01000/Algoma__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2d791459400c10805e28eb4c1dc0a0694b7a569b3af846198c893845554c3983",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2d791459400c10805e28eb4c1dc0a0694b7a569b3af846198c893845554c3983",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/01000/Algoma__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "01000",
+  "timestamp": "2026-05-25T00:21:30.956567Z",
+  "version": 1
+}

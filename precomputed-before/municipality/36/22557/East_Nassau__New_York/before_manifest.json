@@ -1,0 +1,16 @@
+{
+  "article": "East_Nassau,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/22557/East_Nassau__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "12ce08e61a766a6bd10980eaae449f968daa35e90e002de03c08d5a2310864ad",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "12ce08e61a766a6bd10980eaae449f968daa35e90e002de03c08d5a2310864ad",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/22557/East_Nassau__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "22557",
+  "timestamp": "2026-05-25T00:00:41.479853Z",
+  "version": 1
+}

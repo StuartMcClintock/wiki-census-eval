@@ -1,0 +1,16 @@
+{
+  "article": "West_Baraboo,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/85325/West_Baraboo__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "38b11eb7608df95f384b4bf1fd7436b8d7a98cf710fae0f7c1344df6adbb556e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "38b11eb7608df95f384b4bf1fd7436b8d7a98cf710fae0f7c1344df6adbb556e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/85325/West_Baraboo__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "85325",
+  "timestamp": "2026-05-25T00:23:02.650026Z",
+  "version": 1
+}

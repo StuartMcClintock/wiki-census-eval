@@ -1,0 +1,16 @@
+{
+  "article": "Leaf,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/39800/Leaf__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ad21ce77109a19deac8076c9c96a48c957ca096bf23ed510698c7ed6d50a2c4e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ad21ce77109a19deac8076c9c96a48c957ca096bf23ed510698c7ed6d50a2c4e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/39800/Leaf__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "39800",
+  "timestamp": "2026-05-24T23:50:14.392921Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "New_Salem,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/56700/New_Salem__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d5375604faef99dccfb0035f3289b8adb181d1e0dcb086864db0df6585228ee8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d5375604faef99dccfb0035f3289b8adb181d1e0dcb086864db0df6585228ee8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/56700/New_Salem__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "56700",
+  "timestamp": "2026-05-25T00:03:14.644250Z",
+  "version": 1
+}

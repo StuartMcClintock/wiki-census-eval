@@ -1,0 +1,16 @@
+{
+  "article": "Williamson,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/83084/Williamson__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f5c59450fb3249f1b0c088de9a6dca0e21f65a86a9dd242e320fefac5f5ab48f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f5c59450fb3249f1b0c088de9a6dca0e21f65a86a9dd242e320fefac5f5ab48f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/83084/Williamson__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "83084",
+  "timestamp": "2026-05-24T23:37:12.563159Z",
+  "version": 1
+}

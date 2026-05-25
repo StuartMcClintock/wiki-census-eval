@@ -1,0 +1,16 @@
+{
+  "article": "Forestburg,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/22100/Forestburg__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "497d74d2502e20d7e0d616084162332f7fdecc152cbb9ceea427811f869f177d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "497d74d2502e20d7e0d616084162332f7fdecc152cbb9ceea427811f869f177d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/22100/Forestburg__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "22100",
+  "timestamp": "2026-05-25T00:10:38.462327Z",
+  "version": 1
+}

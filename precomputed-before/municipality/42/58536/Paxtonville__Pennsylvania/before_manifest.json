@@ -1,0 +1,16 @@
+{
+  "article": "Paxtonville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/58536/Paxtonville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "316012d0e9eb93aa83ff8dbcdfedc6405f83c118b2b710408417cb94af0ee3ef",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "316012d0e9eb93aa83ff8dbcdfedc6405f83c118b2b710408417cb94af0ee3ef",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/58536/Paxtonville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "58536",
+  "timestamp": "2026-05-25T00:08:27.018229Z",
+  "version": 1
+}

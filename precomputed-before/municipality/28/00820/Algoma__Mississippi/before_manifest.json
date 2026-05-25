@@ -1,0 +1,16 @@
+{
+  "article": "Algoma,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/00820/Algoma__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "910e22a8ba7768b0a09fb94c3c54af630c2039e842fa07e26e832c8e2968fb6e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "910e22a8ba7768b0a09fb94c3c54af630c2039e842fa07e26e832c8e2968fb6e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/00820/Algoma__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "00820",
+  "timestamp": "2026-05-24T23:50:00.891574Z",
+  "version": 1
+}

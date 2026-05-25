@@ -1,0 +1,16 @@
+{
+  "article": "Bolton_Landing,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/07245/Bolton_Landing__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ccb20f6561c67e5c289dc6f2b80c149e983a47621abb5199223cfcf3c53ae960",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ccb20f6561c67e5c289dc6f2b80c149e983a47621abb5199223cfcf3c53ae960",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/07245/Bolton_Landing__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "07245",
+  "timestamp": "2026-05-25T00:00:32.792887Z",
+  "version": 1
+}

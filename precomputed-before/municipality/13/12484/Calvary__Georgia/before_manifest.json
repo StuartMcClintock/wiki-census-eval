@@ -1,0 +1,16 @@
+{
+  "article": "Calvary,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/12484/Calvary__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4df69692bcfb05627bd8971a5ccc81e012783a289a8bf04a0aec85e699f36f2e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4df69692bcfb05627bd8971a5ccc81e012783a289a8bf04a0aec85e699f36f2e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/12484/Calvary__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "12484",
+  "timestamp": "2026-05-24T23:36:30.687868Z",
+  "version": 1
+}

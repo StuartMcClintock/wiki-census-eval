@@ -1,0 +1,16 @@
+{
+  "article": "Lindsey,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/43904/Lindsey__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "befa5ae40c5ebb723d6b5fd4d897671cf617e731607fe4e1e51f0e6b40a0009e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "befa5ae40c5ebb723d6b5fd4d897671cf617e731607fe4e1e51f0e6b40a0009e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/43904/Lindsey__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "43904",
+  "timestamp": "2026-05-25T00:04:38.404320Z",
+  "version": 1
+}

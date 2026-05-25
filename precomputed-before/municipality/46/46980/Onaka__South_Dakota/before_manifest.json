@@ -1,0 +1,16 @@
+{
+  "article": "Onaka,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/46980/Onaka__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "41c1b142d3f9a8957fc88680dfac70d126a65db871fd4b34b65a22bb8607f198",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "41c1b142d3f9a8957fc88680dfac70d126a65db871fd4b34b65a22bb8607f198",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/46980/Onaka__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "46980",
+  "timestamp": "2026-05-25T00:11:07.092750Z",
+  "version": 1
+}

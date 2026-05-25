@@ -1,0 +1,16 @@
+{
+  "article": "Burns,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/11265/Burns__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b890d5e2e337925dfc4135e6444e982ed1740607ba42e198918e3dbe6a79f59f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b890d5e2e337925dfc4135e6444e982ed1740607ba42e198918e3dbe6a79f59f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/11265/Burns__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "11265",
+  "timestamp": "2026-05-25T00:23:09.742432Z",
+  "version": 1
+}

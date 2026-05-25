@@ -1,0 +1,16 @@
+{
+  "article": "Point_Baker,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/61190/Point_Baker__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b069f03513e79af1de6db312dce346e15287093e2b141b77442b7caaafd82c29",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b069f03513e79af1de6db312dce346e15287093e2b141b77442b7caaafd82c29",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/61190/Point_Baker__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "61190",
+  "timestamp": "2026-05-24T23:32:30.739096Z",
+  "version": 1
+}

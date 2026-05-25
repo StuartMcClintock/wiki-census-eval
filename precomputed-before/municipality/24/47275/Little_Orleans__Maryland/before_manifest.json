@@ -1,0 +1,16 @@
+{
+  "article": "Little_Orleans,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/47275/Little_Orleans__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "080827cbaa6e3030f6b12e027524431a8470f5e9d670a8c51a1c7edf6494fe4a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "080827cbaa6e3030f6b12e027524431a8470f5e9d670a8c51a1c7edf6494fe4a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/47275/Little_Orleans__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "47275",
+  "timestamp": "2026-05-24T23:47:26.192952Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Garberville,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/28154/Garberville__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4f8abcea6e97da0eb228b3b99e71d2fba17b35504c330003de091565306ed32a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4f8abcea6e97da0eb228b3b99e71d2fba17b35504c330003de091565306ed32a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/28154/Garberville__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "28154",
+  "timestamp": "2026-05-24T23:34:24.791820Z",
+  "version": 1
+}

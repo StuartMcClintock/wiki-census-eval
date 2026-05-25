@@ -1,0 +1,16 @@
+{
+  "article": "Capon_Bridge,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/13108/Capon_Bridge__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c7ea3742061cf5f8a9857422010321eafdc90cc64a8ef42a6a31b6b4f887fc04",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c7ea3742061cf5f8a9857422010321eafdc90cc64a8ef42a6a31b6b4f887fc04",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/13108/Capon_Bridge__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "13108",
+  "timestamp": "2026-05-25T00:20:46.594838Z",
+  "version": 1
+}

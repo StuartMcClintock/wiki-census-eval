@@ -1,0 +1,16 @@
+{
+  "article": "Ragan,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/40570/Ragan__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "25d69e09bfca3f8ce1ef556bf6b4351f263ee7ada940b4dc6fef592b83fe3ea4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "25d69e09bfca3f8ce1ef556bf6b4351f263ee7ada940b4dc6fef592b83fe3ea4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/40570/Ragan__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "40570",
+  "timestamp": "2026-05-24T23:56:05.123030Z",
+  "version": 1
+}

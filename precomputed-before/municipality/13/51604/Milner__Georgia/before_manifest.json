@@ -1,0 +1,16 @@
+{
+  "article": "Milner,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/51604/Milner__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "416025a07190b2d07b2061918894f3147b5fa25d16cb3421f4ab4a81df1d21cd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "416025a07190b2d07b2061918894f3147b5fa25d16cb3421f4ab4a81df1d21cd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/51604/Milner__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "51604",
+  "timestamp": "2026-05-24T23:36:55.754434Z",
+  "version": 1
+}

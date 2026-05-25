@@ -1,0 +1,16 @@
+{
+  "article": "White_Plains,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/82722/White_Plains__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "349532918377deb453774c8a4df0af89cea1916d87699b0ada3223baa01afb46",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "349532918377deb453774c8a4df0af89cea1916d87699b0ada3223baa01afb46",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/82722/White_Plains__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "82722",
+  "timestamp": "2026-05-24T23:44:25.870260Z",
+  "version": 1
+}

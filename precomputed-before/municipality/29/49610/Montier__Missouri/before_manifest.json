@@ -1,0 +1,16 @@
+{
+  "article": "Montier,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/49610/Montier__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ddd9d32f07b82d512a1140eba4ee32b27101a88c4c49efadce34d0e881c1c5e3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ddd9d32f07b82d512a1140eba4ee32b27101a88c4c49efadce34d0e881c1c5e3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/49610/Montier__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "49610",
+  "timestamp": "2026-05-24T23:53:33.621086Z",
+  "version": 1
+}

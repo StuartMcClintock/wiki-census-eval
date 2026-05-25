@@ -1,0 +1,16 @@
+{
+  "article": "South_Williamsport,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/72648/South_Williamsport__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "54b64af77d5c4f343c0873bdc437544a7966f4fd7bf0b87d303c8c6475f8af4f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "54b64af77d5c4f343c0873bdc437544a7966f4fd7bf0b87d303c8c6475f8af4f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/72648/South_Williamsport__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "72648",
+  "timestamp": "2026-05-25T00:09:09.254241Z",
+  "version": 1
+}

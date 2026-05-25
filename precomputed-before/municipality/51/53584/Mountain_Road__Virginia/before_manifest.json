@@ -1,0 +1,16 @@
+{
+  "article": "Mountain_Road,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/53584/Mountain_Road__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e40e1ec038c9382a2f6e38a6d6bdd76ce650f1581c7eafe09530039a4ebf8fa5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e40e1ec038c9382a2f6e38a6d6bdd76ce650f1581c7eafe09530039a4ebf8fa5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/53584/Mountain_Road__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "53584",
+  "timestamp": "2026-05-25T00:19:27.586362Z",
+  "version": 1
+}

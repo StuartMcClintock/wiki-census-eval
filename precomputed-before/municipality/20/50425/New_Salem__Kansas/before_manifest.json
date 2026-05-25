@@ -1,0 +1,16 @@
+{
+  "article": "New_Salem,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/50425/New_Salem__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "db912fef346558a15a3cf60c2352c28618c0a3f4937a3ed9332502417d96a7f2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "db912fef346558a15a3cf60c2352c28618c0a3f4937a3ed9332502417d96a7f2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/50425/New_Salem__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "50425",
+  "timestamp": "2026-05-24T23:43:14.313155Z",
+  "version": 1
+}

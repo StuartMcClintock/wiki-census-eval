@@ -1,0 +1,16 @@
+{
+  "article": "Gary,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/23246/Gary__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2a46ce2ae2e409777d0587fcd3d70ec9c2e17c63bd752927f0a6b1300a51ed02",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2a46ce2ae2e409777d0587fcd3d70ec9c2e17c63bd752927f0a6b1300a51ed02",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/23246/Gary__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "23246",
+  "timestamp": "2026-05-24T23:49:01.841856Z",
+  "version": 1
+}

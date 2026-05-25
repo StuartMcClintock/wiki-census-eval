@@ -1,0 +1,16 @@
+{
+  "article": "No_Name,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/53875/No_Name__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ae93d2a35d01bed96a3b4c419a6bccdc1768464630090d200b23b15c8d2056c0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ae93d2a35d01bed96a3b4c419a6bccdc1768464630090d200b23b15c8d2056c0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/53875/No_Name__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "53875",
+  "timestamp": "2026-05-24T23:35:34.236244Z",
+  "version": 1
+}

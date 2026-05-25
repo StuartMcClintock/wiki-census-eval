@@ -1,0 +1,16 @@
+{
+  "article": "Fenwick,_Connecticut",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/09/27810/Fenwick__Connecticut/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8b6d3f381ac631dc8b80ac641f674618a191226a0417820cda4bb17647f0765f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8b6d3f381ac631dc8b80ac641f674618a191226a0417820cda4bb17647f0765f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/09/27810/Fenwick__Connecticut/manifest.json",
+  "state_fips": "09",
+  "status": "match",
+  "target_fips": "27810",
+  "timestamp": "2026-05-24T23:36:00.351445Z",
+  "version": 1
+}

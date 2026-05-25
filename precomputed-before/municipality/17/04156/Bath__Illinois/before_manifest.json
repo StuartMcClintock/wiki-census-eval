@@ -1,0 +1,16 @@
+{
+  "article": "Bath,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/04156/Bath__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1d3894bf92d4c300eff629d7f86f0fb34a228549469271fdd46b52373b1db65f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1d3894bf92d4c300eff629d7f86f0fb34a228549469271fdd46b52373b1db65f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/04156/Bath__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "04156",
+  "timestamp": "2026-05-24T23:37:36.330918Z",
+  "version": 1
+}

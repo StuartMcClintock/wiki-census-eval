@@ -1,0 +1,16 @@
+{
+  "article": "Poplar,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/63975/Poplar__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0789b39149580a8bac48e17a2807962424adadb14ed420cc0c42d26ac0caa90c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0789b39149580a8bac48e17a2807962424adadb14ed420cc0c42d26ac0caa90c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/63975/Poplar__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "63975",
+  "timestamp": "2026-05-25T00:22:34.781597Z",
+  "version": 1
+}

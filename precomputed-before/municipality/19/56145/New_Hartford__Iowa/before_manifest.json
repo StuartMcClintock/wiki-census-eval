@@ -1,0 +1,16 @@
+{
+  "article": "New_Hartford,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/56145/New_Hartford__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a36f0f255b73563e467a0cbb1f2f6a419714a4942573e95ca7ce67a2e2ea1ea0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a36f0f255b73563e467a0cbb1f2f6a419714a4942573e95ca7ce67a2e2ea1ea0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/56145/New_Hartford__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "56145",
+  "timestamp": "2026-05-24T23:41:32.039307Z",
+  "version": 1
+}

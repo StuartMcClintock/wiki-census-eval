@@ -1,0 +1,16 @@
+{
+  "article": "Pocahontas,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/60872/Pocahontas__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f7e44e61bc7f6894dbf2fd80444a5373b43298692ec0b2c5dcdb88d9aef622cb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f7e44e61bc7f6894dbf2fd80444a5373b43298692ec0b2c5dcdb88d9aef622cb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/60872/Pocahontas__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "60872",
+  "timestamp": "2026-05-24T23:39:03.128476Z",
+  "version": 1
+}

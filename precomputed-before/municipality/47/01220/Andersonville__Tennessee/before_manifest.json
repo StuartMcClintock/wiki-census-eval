@@ -1,0 +1,16 @@
+{
+  "article": "Andersonville,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/01220/Andersonville__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5d45bf7244a927b4eac337f3b9e74ca32a0bd370fd26eb352fad6a46e752ad37",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5d45bf7244a927b4eac337f3b9e74ca32a0bd370fd26eb352fad6a46e752ad37",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/01220/Andersonville__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "01220",
+  "timestamp": "2026-05-25T00:14:30.154399Z",
+  "version": 1
+}

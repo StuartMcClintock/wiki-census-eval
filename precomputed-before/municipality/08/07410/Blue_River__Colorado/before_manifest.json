@@ -1,0 +1,16 @@
+{
+  "article": "Blue_River,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/07410/Blue_River__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7a39e5e182efd81622ce6c1f7926b64039adff2a275592c961ec96587a139ee4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7a39e5e182efd81622ce6c1f7926b64039adff2a275592c961ec96587a139ee4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/07410/Blue_River__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "07410",
+  "timestamp": "2026-05-24T23:35:19.066856Z",
+  "version": 1
+}

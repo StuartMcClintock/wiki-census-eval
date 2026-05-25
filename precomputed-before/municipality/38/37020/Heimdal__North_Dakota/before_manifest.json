@@ -1,0 +1,16 @@
+{
+  "article": "Heimdal,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/37020/Heimdal__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5a7dfeee0dee20d5dd4bec5f0d166b7020321b6bfd4a4878d2833b643e98ee8f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5a7dfeee0dee20d5dd4bec5f0d166b7020321b6bfd4a4878d2833b643e98ee8f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/37020/Heimdal__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "37020",
+  "timestamp": "2026-05-25T00:03:04.527506Z",
+  "version": 1
+}

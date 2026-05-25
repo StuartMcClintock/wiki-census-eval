@@ -1,0 +1,16 @@
+{
+  "article": "Stony_Creek,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/75840/Stony_Creek__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aa93c1a4f407f52ddfd15f85f95b3ce352bbc6560a97f1853b57698dde8312a0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aa93c1a4f407f52ddfd15f85f95b3ce352bbc6560a97f1853b57698dde8312a0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/75840/Stony_Creek__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "75840",
+  "timestamp": "2026-05-25T00:19:40.276857Z",
+  "version": 1
+}

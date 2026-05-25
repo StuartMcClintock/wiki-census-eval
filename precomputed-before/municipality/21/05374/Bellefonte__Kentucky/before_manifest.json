@@ -1,0 +1,16 @@
+{
+  "article": "Bellefonte,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/05374/Bellefonte__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "95058c74fe57e0d02f98ac051a42145e894a62d4c4630ab5c560582bc164b216",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "95058c74fe57e0d02f98ac051a42145e894a62d4c4630ab5c560582bc164b216",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/05374/Bellefonte__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "05374",
+  "timestamp": "2026-05-24T23:43:42.592854Z",
+  "version": 1
+}

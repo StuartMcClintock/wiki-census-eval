@@ -1,0 +1,16 @@
+{
+  "article": "Navajo_Dam,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/51490/Navajo_Dam__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4d826cb6a52cc6c186b2a97cf1c28c92804a0d4cd468be7c765552735065bf12",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4d826cb6a52cc6c186b2a97cf1c28c92804a0d4cd468be7c765552735065bf12",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/51490/Navajo_Dam__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "51490",
+  "timestamp": "2026-05-24T23:58:44.019908Z",
+  "version": 1
+}

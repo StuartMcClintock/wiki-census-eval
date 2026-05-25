@@ -1,0 +1,16 @@
+{
+  "article": "Lakewood_Shores,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/41716/Lakewood_Shores__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7738f57f95f707fd6fef9fa5a085760506d7e5a63b22684898db101434b3344a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7738f57f95f707fd6fef9fa5a085760506d7e5a63b22684898db101434b3344a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/41716/Lakewood_Shores__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "41716",
+  "timestamp": "2026-05-24T23:38:27.344798Z",
+  "version": 1
+}

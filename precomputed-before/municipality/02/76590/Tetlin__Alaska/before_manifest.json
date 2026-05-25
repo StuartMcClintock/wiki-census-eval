@@ -1,0 +1,16 @@
+{
+  "article": "Tetlin,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/76590/Tetlin__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c39a0025470877b39ac5bf2bb5016bfbb497dea213d1e928e634be1c10ecc7d9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c39a0025470877b39ac5bf2bb5016bfbb497dea213d1e928e634be1c10ecc7d9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/76590/Tetlin__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "76590",
+  "timestamp": "2026-05-24T23:32:44.900781Z",
+  "version": 1
+}

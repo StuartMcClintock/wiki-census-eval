@@ -1,0 +1,16 @@
+{
+  "article": "Peak_Place,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/55595/Peak_Place__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "20649f3571e3238e000eee5ee6ac91bae1c0dcb2cc3a779b92fe8130f71c089c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "20649f3571e3238e000eee5ee6ac91bae1c0dcb2cc3a779b92fe8130f71c089c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/55595/Peak_Place__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "55595",
+  "timestamp": "2026-05-24T23:58:46.451054Z",
+  "version": 1
+}

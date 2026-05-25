@@ -1,0 +1,16 @@
+{
+  "article": "Rohrsburg,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/65872/Rohrsburg__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f0bab163150f7a6d5d1fefcb64ca3b2bafabc369961a0e7d618fd02e4a8581f3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f0bab163150f7a6d5d1fefcb64ca3b2bafabc369961a0e7d618fd02e4a8581f3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/65872/Rohrsburg__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "65872",
+  "timestamp": "2026-05-25T00:08:51.426183Z",
+  "version": 1
+}

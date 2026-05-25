@@ -1,0 +1,16 @@
+{
+  "article": "McConnellstown,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/46016/McConnellstown__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8d7ad60ff81071a8c4b6b5176b9939a0c2f762bf61a96bba0295dcc52600dec9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8d7ad60ff81071a8c4b6b5176b9939a0c2f762bf61a96bba0295dcc52600dec9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/46016/McConnellstown__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "46016",
+  "timestamp": "2026-05-25T00:07:55.526820Z",
+  "version": 1
+}

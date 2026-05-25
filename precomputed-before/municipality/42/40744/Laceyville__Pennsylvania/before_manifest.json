@@ -1,0 +1,16 @@
+{
+  "article": "Laceyville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/40744/Laceyville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1f29101ed8d18f7d379b21339da730d4d63f965d9e013c56a28c7a61a9220ebc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1f29101ed8d18f7d379b21339da730d4d63f965d9e013c56a28c7a61a9220ebc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/40744/Laceyville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "40744",
+  "timestamp": "2026-05-25T00:07:46.490228Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Stansbury_Park,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/72720/Stansbury_Park__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e5c3f9df44fee16f0c8536688f525e96232f05041de64695da84478712bf419a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e5c3f9df44fee16f0c8536688f525e96232f05041de64695da84478712bf419a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/72720/Stansbury_Park__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "72720",
+  "timestamp": "2026-05-25T00:17:10.119851Z",
+  "version": 1
+}

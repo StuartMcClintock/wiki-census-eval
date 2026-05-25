@@ -1,0 +1,16 @@
+{
+  "article": "State_Line_City,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/72764/State_Line_City__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2cefd926a0bbf5f043d36c998a0e3d63050070efb478b5f6a43fb090ed5c45dd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2cefd926a0bbf5f043d36c998a0e3d63050070efb478b5f6a43fb090ed5c45dd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/72764/State_Line_City__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "72764",
+  "timestamp": "2026-05-24T23:40:14.497588Z",
+  "version": 1
+}

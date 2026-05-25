@@ -1,0 +1,16 @@
+{
+  "article": "Lamberton,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/35288/Lamberton__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b80169d02b2abe395b2d0528d1419bdf37bee5e8ce174c5842201f5d64221f88",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b80169d02b2abe395b2d0528d1419bdf37bee5e8ce174c5842201f5d64221f88",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/35288/Lamberton__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "35288",
+  "timestamp": "2026-05-24T23:49:14.692236Z",
+  "version": 1
+}

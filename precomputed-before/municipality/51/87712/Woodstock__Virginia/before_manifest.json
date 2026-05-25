@@ -1,0 +1,16 @@
+{
+  "article": "Woodstock,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/87712/Woodstock__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7cbceb2aecca6bb7acb3cf53ebcf93929af143e2ee9a943406516058471f6a3f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7cbceb2aecca6bb7acb3cf53ebcf93929af143e2ee9a943406516058471f6a3f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/87712/Woodstock__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "87712",
+  "timestamp": "2026-05-25T00:19:45.679066Z",
+  "version": 1
+}

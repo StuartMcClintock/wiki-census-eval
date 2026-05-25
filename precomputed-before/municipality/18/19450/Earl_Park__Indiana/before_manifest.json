@@ -1,0 +1,16 @@
+{
+  "article": "Earl_Park,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/19450/Earl_Park__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b39749b3489c55a5dfbc25fa6b939a6d91767e303169ce263275d6c778108a64",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b39749b3489c55a5dfbc25fa6b939a6d91767e303169ce263275d6c778108a64",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/19450/Earl_Park__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "19450",
+  "timestamp": "2026-05-24T23:39:33.482779Z",
+  "version": 1
+}

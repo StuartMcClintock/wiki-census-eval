@@ -1,0 +1,16 @@
+{
+  "article": "Cedar_Creek,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/08185/Cedar_Creek__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "764587f4c3ab2da7e8289cf6ea386f85fa1cc698fe3543f7cb4a8d58066cae90",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "764587f4c3ab2da7e8289cf6ea386f85fa1cc698fe3543f7cb4a8d58066cae90",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/08185/Cedar_Creek__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "08185",
+  "timestamp": "2026-05-24T23:55:16.887691Z",
+  "version": 1
+}

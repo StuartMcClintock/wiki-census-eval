@@ -1,0 +1,16 @@
+{
+  "article": "Rutland,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/66443/Rutland__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7e763da5d09410b5a0e74ef6c758f04a466e000851f7c013682edf2e48a3f942",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7e763da5d09410b5a0e74ef6c758f04a466e000851f7c013682edf2e48a3f942",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/66443/Rutland__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "66443",
+  "timestamp": "2026-05-24T23:39:08.179253Z",
+  "version": 1
+}

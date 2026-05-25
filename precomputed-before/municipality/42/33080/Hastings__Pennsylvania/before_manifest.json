@@ -1,0 +1,16 @@
+{
+  "article": "Hastings,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/33080/Hastings__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "439be621bf0b415a3e80d08d01bbe07febbe4c5ab6561ce3c2d9e50b0dcfad67",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "439be621bf0b415a3e80d08d01bbe07febbe4c5ab6561ce3c2d9e50b0dcfad67",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/33080/Hastings__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "33080",
+  "timestamp": "2026-05-25T00:07:23.091694Z",
+  "version": 1
+}

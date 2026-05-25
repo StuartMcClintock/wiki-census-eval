@@ -1,0 +1,16 @@
+{
+  "article": "Acomita_Lake,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/00765/Acomita_Lake__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2fb4ef0cff70d833c636b611a324c287d7dbb860885d91decfa7714d07294fd0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2fb4ef0cff70d833c636b611a324c287d7dbb860885d91decfa7714d07294fd0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/00765/Acomita_Lake__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "00765",
+  "timestamp": "2026-05-24T23:58:07.177180Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Formoso,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/23825/Formoso__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "972e7f2978f276300e50eb84ae1dfa5fec4d5f09f56f82eeb19def0ee5a1e34f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "972e7f2978f276300e50eb84ae1dfa5fec4d5f09f56f82eeb19def0ee5a1e34f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/23825/Formoso__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "23825",
+  "timestamp": "2026-05-24T23:42:38.458881Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Tucker,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/70070/Tucker__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "68b8df73738a315c1dc0e27b345ae42799eba8965d30240d86dc51218ff1b26c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "68b8df73738a315c1dc0e27b345ae42799eba8965d30240d86dc51218ff1b26c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/70070/Tucker__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "70070",
+  "timestamp": "2026-05-24T23:34:11.206081Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Calverton_Park,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/10612/Calverton_Park__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d89a9212adfb256659f0db24fa2b6843e5b92fcd18ad3339a75c3e0341cdb4cc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d89a9212adfb256659f0db24fa2b6843e5b92fcd18ad3339a75c3e0341cdb4cc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/10612/Calverton_Park__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "10612",
+  "timestamp": "2026-05-24T23:50:52.332557Z",
+  "version": 1
+}

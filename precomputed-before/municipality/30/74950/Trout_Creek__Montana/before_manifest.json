@@ -1,0 +1,16 @@
+{
+  "article": "Trout_Creek,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/74950/Trout_Creek__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b9b0d22eeb1ca9eb2ff3c688c7ec5e7ad985fa3199176f034cec8f5f80d46619",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b9b0d22eeb1ca9eb2ff3c688c7ec5e7ad985fa3199176f034cec8f5f80d46619",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/74950/Trout_Creek__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "74950",
+  "timestamp": "2026-05-24T23:54:54.552421Z",
+  "version": 1
+}

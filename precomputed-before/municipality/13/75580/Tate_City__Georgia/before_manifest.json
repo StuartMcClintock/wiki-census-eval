@@ -1,0 +1,16 @@
+{
+  "article": "Tate_City,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/75580/Tate_City__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b47365765c7d1f22d96cd2f2659a5e590d87d6b278a1aa1c82676c9f60fe8b6b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b47365765c7d1f22d96cd2f2659a5e590d87d6b278a1aa1c82676c9f60fe8b6b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/75580/Tate_City__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "75580",
+  "timestamp": "2026-05-24T23:37:09.608152Z",
+  "version": 1
+}

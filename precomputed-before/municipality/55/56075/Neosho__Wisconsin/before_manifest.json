@@ -1,0 +1,16 @@
+{
+  "article": "Neosho,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/56075/Neosho__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e6c7a1b04d73d562f12f2489d47a0fdf6590c2e34f4e515f81cf203f02128645",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e6c7a1b04d73d562f12f2489d47a0fdf6590c2e34f4e515f81cf203f02128645",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/56075/Neosho__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "56075",
+  "timestamp": "2026-05-25T00:22:28.428638Z",
+  "version": 1
+}

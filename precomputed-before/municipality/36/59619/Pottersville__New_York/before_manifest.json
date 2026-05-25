@@ -1,0 +1,16 @@
+{
+  "article": "Pottersville,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/59619/Pottersville__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5a19bd349a4658d8cd07da778aa2dc089686557eba026e090ec24a91b04734c4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5a19bd349a4658d8cd07da778aa2dc089686557eba026e090ec24a91b04734c4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/59619/Pottersville__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "59619",
+  "timestamp": "2026-05-25T00:01:06.123179Z",
+  "version": 1
+}

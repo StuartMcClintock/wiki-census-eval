@@ -1,0 +1,16 @@
+{
+  "article": "Napoleon,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/51140/Napoleon__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5d08192eb6631cb7b1c1c80e50d83afdfb520ccc9090daa769b09bd2b5d8b4d6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5d08192eb6631cb7b1c1c80e50d83afdfb520ccc9090daa769b09bd2b5d8b4d6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/51140/Napoleon__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "51140",
+  "timestamp": "2026-05-24T23:53:34.591793Z",
+  "version": 1
+}

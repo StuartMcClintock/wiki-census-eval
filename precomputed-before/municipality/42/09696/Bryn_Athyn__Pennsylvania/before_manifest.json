@@ -1,0 +1,16 @@
+{
+  "article": "Bryn_Athyn,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/09696/Bryn_Athyn__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f45a0e936e546817ef4de41af3003db0f0f7be149be7e6ef938df50bb46b10a2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f45a0e936e546817ef4de41af3003db0f0f7be149be7e6ef938df50bb46b10a2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/09696/Bryn_Athyn__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "09696",
+  "timestamp": "2026-05-25T00:06:22.818396Z",
+  "version": 1
+}

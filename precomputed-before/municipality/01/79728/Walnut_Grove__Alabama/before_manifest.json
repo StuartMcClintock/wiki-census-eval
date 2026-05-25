@@ -1,0 +1,16 @@
+{
+  "article": "Walnut_Grove,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/79728/Walnut_Grove__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bd18d6ba4d7ce36d974b41c2a572731d420bc317a664d74c4c6b9fd5aa5cdbc3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bd18d6ba4d7ce36d974b41c2a572731d420bc317a664d74c4c6b9fd5aa5cdbc3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/79728/Walnut_Grove__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "79728",
+  "timestamp": "2026-05-24T23:32:15.690326Z",
+  "version": 1
+}

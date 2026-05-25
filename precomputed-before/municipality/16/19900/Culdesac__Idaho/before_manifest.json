@@ -1,0 +1,16 @@
+{
+  "article": "Culdesac,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/19900/Culdesac__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0b15add87f8ab0a2447fc5043730d48588a5129dc5c1795a7f5e388cad765560",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0b15add87f8ab0a2447fc5043730d48588a5129dc5c1795a7f5e388cad765560",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/19900/Culdesac__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "19900",
+  "timestamp": "2026-05-24T23:37:18.682319Z",
+  "version": 1
+}

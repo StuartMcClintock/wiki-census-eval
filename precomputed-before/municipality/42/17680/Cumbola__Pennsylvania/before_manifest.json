@@ -1,0 +1,16 @@
+{
+  "article": "Cumbola,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/17680/Cumbola__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "003687135cef7d45188a65ae6466f3e84e30b74aae85147193b5480bb6081b1a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "003687135cef7d45188a65ae6466f3e84e30b74aae85147193b5480bb6081b1a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/17680/Cumbola__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "17680",
+  "timestamp": "2026-05-25T00:06:48.679173Z",
+  "version": 1
+}

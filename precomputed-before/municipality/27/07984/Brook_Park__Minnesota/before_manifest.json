@@ -1,0 +1,16 @@
+{
+  "article": "Brook_Park,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/07984/Brook_Park__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5900bd3981a4e589c4a8b1859ccc0aa538a9dcb6940abfecdc7545a523693d94",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5900bd3981a4e589c4a8b1859ccc0aa538a9dcb6940abfecdc7545a523693d94",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/07984/Brook_Park__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "07984",
+  "timestamp": "2026-05-24T23:48:41.580294Z",
+  "version": 1
+}

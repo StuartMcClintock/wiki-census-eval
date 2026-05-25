@@ -1,0 +1,16 @@
+{
+  "article": "Neche,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/55620/Neche__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bc731e2ed71c5878deab063c098396d1a6129a75b9663e82d06020d602284aaf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bc731e2ed71c5878deab063c098396d1a6129a75b9663e82d06020d602284aaf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/55620/Neche__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "55620",
+  "timestamp": "2026-05-25T00:03:13.926328Z",
+  "version": 1
+}

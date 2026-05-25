@@ -1,0 +1,16 @@
+{
+  "article": "Niobrara,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/34370/Niobrara__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "75382295dbbe57622a69e7db56c03ad49c8c46935a39a9211670e1bc31ba14bf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "75382295dbbe57622a69e7db56c03ad49c8c46935a39a9211670e1bc31ba14bf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/34370/Niobrara__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "34370",
+  "timestamp": "2026-05-24T23:55:55.915262Z",
+  "version": 1
+}

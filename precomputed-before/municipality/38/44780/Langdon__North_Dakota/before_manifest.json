@@ -1,0 +1,16 @@
+{
+  "article": "Langdon,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/44780/Langdon__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0b22fd64b7124cc0cbd8f849d4b34cfa9503b21f091576555145082f5572f687",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0b22fd64b7124cc0cbd8f849d4b34cfa9503b21f091576555145082f5572f687",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/44780/Langdon__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "44780",
+  "timestamp": "2026-05-25T00:03:07.266300Z",
+  "version": 1
+}

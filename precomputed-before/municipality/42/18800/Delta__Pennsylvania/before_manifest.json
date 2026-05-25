@@ -1,0 +1,16 @@
+{
+  "article": "Delta,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/18800/Delta__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bfa6bb16939584b5d95bc24b547588faf94a8f76c710c98ffb5bfeb4f5958703",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bfa6bb16939584b5d95bc24b547588faf94a8f76c710c98ffb5bfeb4f5958703",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/18800/Delta__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "18800",
+  "timestamp": "2026-05-25T00:06:50.999601Z",
+  "version": 1
+}

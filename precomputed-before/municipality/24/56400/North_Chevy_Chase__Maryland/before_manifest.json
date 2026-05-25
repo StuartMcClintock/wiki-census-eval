@@ -1,0 +1,16 @@
+{
+  "article": "North_Chevy_Chase,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/56400/North_Chevy_Chase__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "05cbaeeca42486d46e0e0719db8cb7d22bc092a5bafb8fc88956210e8d882158",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "05cbaeeca42486d46e0e0719db8cb7d22bc092a5bafb8fc88956210e8d882158",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/56400/North_Chevy_Chase__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "56400",
+  "timestamp": "2026-05-24T23:47:29.675890Z",
+  "version": 1
+}

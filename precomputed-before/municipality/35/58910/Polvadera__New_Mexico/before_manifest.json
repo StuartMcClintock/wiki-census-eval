@@ -1,0 +1,16 @@
+{
+  "article": "Polvadera,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/58910/Polvadera__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "faec8011737fd4d5fc1c4f44f7e53222aeb7f1eb928335395ee15ded39bd9e3e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "faec8011737fd4d5fc1c4f44f7e53222aeb7f1eb928335395ee15ded39bd9e3e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/58910/Polvadera__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "58910",
+  "timestamp": "2026-05-24T23:58:48.053920Z",
+  "version": 1
+}

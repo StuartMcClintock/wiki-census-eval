@@ -1,0 +1,16 @@
+{
+  "article": "Draper,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/23408/Draper__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1eda201e03b156c2acf953545185f3adb7659556d13da9dc43feb196aba7769b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1eda201e03b156c2acf953545185f3adb7659556d13da9dc43feb196aba7769b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/23408/Draper__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "23408",
+  "timestamp": "2026-05-25T00:19:09.776926Z",
+  "version": 1
+}

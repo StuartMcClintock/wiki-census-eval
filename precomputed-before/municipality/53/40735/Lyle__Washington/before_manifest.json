@@ -1,0 +1,16 @@
+{
+  "article": "Lyle,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/40735/Lyle__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "931e0e652c0a07d5754c20577ee27d566f1590c5067b013da292a685f8298b8c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "931e0e652c0a07d5754c20577ee27d566f1590c5067b013da292a685f8298b8c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/40735/Lyle__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "40735",
+  "timestamp": "2026-05-25T00:20:20.821487Z",
+  "version": 1
+}

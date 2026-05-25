@@ -1,0 +1,16 @@
+{
+  "article": "New_Vienna,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/56550/New_Vienna__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4629a24c521a42cf162cade25e728e12245bcbb082dabef43e9006c400f3ab57",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4629a24c521a42cf162cade25e728e12245bcbb082dabef43e9006c400f3ab57",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/56550/New_Vienna__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "56550",
+  "timestamp": "2026-05-24T23:41:32.630844Z",
+  "version": 1
+}

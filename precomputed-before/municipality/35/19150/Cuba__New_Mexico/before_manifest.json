@@ -1,0 +1,16 @@
+{
+  "article": "Cuba,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/19150/Cuba__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3e29ded244cd3a38c72dccc354a5aa862039c4fea7817eaeb956b4d41b194e30",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3e29ded244cd3a38c72dccc354a5aa862039c4fea7817eaeb956b4d41b194e30",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/19150/Cuba__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "19150",
+  "timestamp": "2026-05-24T23:58:27.452223Z",
+  "version": 1
+}

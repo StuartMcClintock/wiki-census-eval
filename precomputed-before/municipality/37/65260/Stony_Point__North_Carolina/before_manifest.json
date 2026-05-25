@@ -1,0 +1,16 @@
+{
+  "article": "Stony_Point,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/65260/Stony_Point__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d38d369dcc08516480d323d7e440530c857c448e7fbfe48a951d2757d7c10cc8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d38d369dcc08516480d323d7e440530c857c448e7fbfe48a951d2757d7c10cc8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/65260/Stony_Point__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "65260",
+  "timestamp": "2026-05-25T00:02:25.491061Z",
+  "version": 1
+}

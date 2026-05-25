@@ -1,0 +1,16 @@
+{
+  "article": "Tensed,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/80200/Tensed__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c2ef38a115d76ae2c9d13d1d28e12d2cec3c03efda07f9addd151856927d2174",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c2ef38a115d76ae2c9d13d1d28e12d2cec3c03efda07f9addd151856927d2174",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/80200/Tensed__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "80200",
+  "timestamp": "2026-05-24T23:37:29.453869Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Mountain_Meadows,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/52210/Mountain_Meadows__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ba81333af0ca029b551b5bd40e92da7d110b26c92d2015e4916f92f24a4c7000",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ba81333af0ca029b551b5bd40e92da7d110b26c92d2015e4916f92f24a4c7000",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/52210/Mountain_Meadows__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "52210",
+  "timestamp": "2026-05-24T23:35:33.555713Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Ames,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/01220/Ames__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0d5e2bc7a40a274449e01729299857207c65691a05446332c1ce009e5de23308",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0d5e2bc7a40a274449e01729299857207c65691a05446332c1ce009e5de23308",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/01220/Ames__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "01220",
+  "timestamp": "2026-05-24T23:55:07.707366Z",
+  "version": 1
+}

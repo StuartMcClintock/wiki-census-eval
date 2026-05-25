@@ -1,0 +1,16 @@
+{
+  "article": "Youngwood,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/87232/Youngwood__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9f4c1b1128f2e50a8cb1295dd85ce7391e8fc430f28557f3b666009f0d0bf2dd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9f4c1b1128f2e50a8cb1295dd85ce7391e8fc430f28557f3b666009f0d0bf2dd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/87232/Youngwood__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "87232",
+  "timestamp": "2026-05-25T00:09:35.559274Z",
+  "version": 1
+}

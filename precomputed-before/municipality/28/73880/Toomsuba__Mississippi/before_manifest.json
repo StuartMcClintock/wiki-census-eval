@@ -1,0 +1,16 @@
+{
+  "article": "Toomsuba,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/73880/Toomsuba__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6a9a025bb250a1f794d0b738c146d20137d7c3e3fe404d58344a7d7b02772f16",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6a9a025bb250a1f794d0b738c146d20137d7c3e3fe404d58344a7d7b02772f16",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/73880/Toomsuba__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "73880",
+  "timestamp": "2026-05-24T23:50:27.403496Z",
+  "version": 1
+}

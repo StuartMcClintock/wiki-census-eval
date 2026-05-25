@@ -1,0 +1,16 @@
+{
+  "article": "Corn_Creek,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/13840/Corn_Creek__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cb49182a8665a080a9fc596885f9770c730019ac8f097b8dd67b22d9a504f87a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cb49182a8665a080a9fc596885f9770c730019ac8f097b8dd67b22d9a504f87a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/13840/Corn_Creek__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "13840",
+  "timestamp": "2026-05-25T00:10:35.466979Z",
+  "version": 1
+}

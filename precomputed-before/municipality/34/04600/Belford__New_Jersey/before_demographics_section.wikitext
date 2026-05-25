@@ -1,0 +1,111 @@
+==Demographics==
+{{US Census population
+|1950= 1832
+|2000= 1340
+|2010= 1768
+|2020= 1648
+|footnote=Population sources:<br>1950<ref name=CensusNJ1950CDP>{{Cite web|title= 1950 Census of Population - Number of Inhabitants - New Jersey |url=https://www2.census.gov/library/publications/decennial/1950/population-volume-2/23024255v2p30ch1.pdf|website=[[United States Census Bureau]]|archive-url=https://web.archive.org/web/20250323234824/https://www2.census.gov/library/publications/decennial/1950/population-volume-2/23024255v2p30ch1.pdf| archive-date=March 23, 2025}}</ref> 1960<ref name=CensusNJ1960CDP>{{Cite web|title= 1960 Census of Population - Number of Inhabitants - New Jersey |url=https://www2.census.gov/library/publications/decennial/1960/population-volume-1/21260894v1p32ch2.pdf|website=[[United States Census Bureau]]|archive-url= https://web.archive.org/web/20250322203807/https://www2.census.gov/library/publications/decennial/1960/population-volume-1/21260894v1p32ch2.pdf| archive-date=March 22, 2025}}</ref> 1970<ref name=CensusNJ1970CDP>{{Cite web|title= 1970 Census of Population - Charecteristics of the Population - New Jersey |url=https://www2.census.gov/prod2/decennial/documents/1970a_nj1-01.pdf|website=[[United States Census Bureau]]|archive-url= https://web.archive.org/web/20250413231101/https://www2.census.gov/prod2/decennial/documents/1970a_nj1-01.pdf| archive-date=April 13, 2025}}</ref><br> 1980<ref name=CensusNJ1980CDP>{{Cite web|title= 1980 Census of Population - Volume 1 - Characteristics of the Population - Number of Inhabitants - New Jersey|url=https://www2.census.gov/prod2/decennial/documents/1980a_njAB-01.pdf|website=[[United States Census Bureau]]|archive-url= https://web.archive.org/web/20250208034839/https://www2.census.gov/prod2/decennial/documents/1980a_njAB-01.pdf| archive-date=February 8, 2025}}</ref> 1990<ref name=CensusNJ1990CDP>{{Cite web|title= 1990 Census of Population - Population and Housing Unit Counts - New Jersey|url=https://www2.census.gov/library/publications/decennial/1990/cph-2/cph-2-32.pdf|website=[[United States Census Bureau]]|archive-url= https://web.archive.org/web/20250323205725/https://www2.census.gov/library/publications/decennial/1990/cph-2/cph-2-32.pdf| archive-date=March 23, 2025}}</ref> 2000<ref name=CensusNJ2000CDP>{{Cite web|title=2000 Census of Population and Housing - Population and Housing Unit Counts - New Jersey |url=https://www2.census.gov/library/publications/2003/dec/phc-3-6.pdf|website=[[United States Census Bureau]]|archive-url=https://web.archive.org/web/20250326080925/https://www2.census.gov/library/publications/2003/dec/phc-3-32.pdf| archive-date=March 26, 2025}}</ref><br> 2010<ref name=CensusNJ2010CDP>{{Cite web|title= 2010 Census of Population - Population and Housing Unit Counts - New Jersey |url=https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-32.pdf|website=[[United States Census Bureau]]|archive-url=https://web.archive.org/web/20251111220031/https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-32.pdf| archive-date=November 11, 2025}}</ref> 2020<ref name=Census2020/>
+}}
+
+Belford was listed as an unincorporated community in the [[1950 U.S. census]].<ref name=CensusNJ1950CDP/> The community was not listed in subsequent censuses until the [[2000 U.S. census]] when it appeared as a [[census designated place]].<ref name=CensusNJ2000CDP/>
+
+===2020 census===
+{| class="wikitable sortable" style="text-align:center;"
+|+'''Belford CDP, New Jersey – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Belford CDP, New Jersey|url=https://data.census.gov/table?g=160XX00US3404400&tid=DECENNIALSF12000.P004|website=[[United States Census Bureau]] |access-date= }}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Belford CDP, New Jersey|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US3404400&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!style="background-color: #ffffb3;" |Pop 2020<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Belford CDP, New Jersey|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US3404400&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!% 2000
+!% 2010
+!style="background-color: #ffffb3;" |% 2020
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|1,255
+|1,536
+|style='background: #ffffe6; |1,343
+|93.66%
+|86.88%
+|style='background: #ffffe6; |81.49%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|3
+|27
+|style='background: #ffffe6; |23
+|0.22%
+|1.53%
+|style='background: #ffffe6; |1.40%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|1
+|0
+|style='background: #ffffe6; |0
+|0.07%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|8
+|36
+|style='background: #ffffe6; |47
+|0.60%
+|2.04%
+|style='background: #ffffe6; |2.85%
+|-
+|[[Native Hawaiian]] or [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |7
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.42%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|10
+|26
+|style='background: #ffffe6; |54
+|0.75%
+|1.47%
+|style='background: #ffffe6; |3.28%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|63
+|143
+|style='background: #ffffe6; |174
+|4.70%
+|8.09%
+|style='background: #ffffe6; |10.56%
+|-
+|'''Total'''
+|'''1,340'''
+|'''1,768'''
+|style='background: #ffffe6; |'''1,648 '''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+===2010 census===
+The [[2010 United States census]] counted 1,768 people, 584 households, and 459 families in the CDP. The [[population density]] was {{convert|1382.2|/sqmi}}. There were 616 housing units at an average density of {{convert|481.6|/sqmi}}. The racial makeup was 94.17% (1,665) [[White (U.S. census)|White]], 1.53% (27) [[Black (U.S. census)|Black or African American]], 0.00% (0) [[Native American (U.S. census)|Native American]], 2.04% (36) [[Asian (U.S. census)|Asian]], 0.00% (0) [[Pacific Islander (U.S. census)|Pacific Islander]], 0.57% (10) from [[Race and ethnicity in the United States census|other races]], and 1.70% (30) from two or more races. [[Hispanic (U.S. census)|Hispanic or Latino]] of any race were 8.09% (143) of the population.<ref name=Census2010>[http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/1600000US3404600 DP-1 - Profile of General Population and Housing Characteristics: 2010 Demographic Profile Data for Belford CDP, New Jersey] {{Webarchive|url=https://archive.today/20200212134450/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/1600000US3404600 |date=2020-02-12 }}, [[United States Census Bureau]]. Accessed August 7, 2012.</ref>
+
+Of the 584 households, 38.7% had children under the age of 18; 63.9% were married couples living together; 10.3% had a female householder with no husband present and 21.4% were non-families. Of all households, 15.8% were made up of individuals and 3.9% had someone living alone who was 65 years of age or older. The average household size was 2.93 and the average family size was 3.32.<ref name=Census2010/>
+
+26.1% of the population were under the age of 18, 7.9% from 18 to 24, 27.6% from 25 to 44, 30.9% from 45 to 64, and 7.4% who were 65 years of age or older. The median age was 38.6 years. For every 100 females, the population had 100.0 males. For every 100 females ages 18 and older there were 100.3 males.<ref name=Census2010/>
+
+===2000 census===
+As of the [[2000 United States census]]<ref name="GR2" /> there were 1,340 people, 436 households, and 374 families living in the CDP. The population density was {{convert|1,058.9|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 458 housing units at an average density of {{convert|361.9|/sqmi|/km2|sp=us|adj=off}}. The racial makeup of the CDP was 97.16% [[White (U.S. Census)|White]], 0.22% [[African American (U.S. Census)|African American]], 0.07% [[Native American (U.S. Census)|Native American]], 0.67% [[Asian (U.S. Census)|Asian]], 1.12% from [[Race (United States Census)|other races]], and 0.75% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 4.70% of the population.<ref name=Census2000>[http://factfinder.census.gov/bkmk/table/1.0/en/DEC/00_SF1/DP1/1600000US3404600 DP-1 - Profile of General Demographic Characteristics: 2000 from the Census 2000 Summary File 1 (SF 1) 100-Percent Data for Belford CDP, New Jersey] {{Webarchive|url=https://archive.today/20200212095336/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/00_SF1/DP1/1600000US3404600 |date=2020-02-12 }}, [[United States Census Bureau]]. Accessed December 16, 2012.</ref>
+
+There were 436 households, out of which 42.0% had children under the age of 18 living with them, 69.5% were [[Marriage|married couples]] living together, 11.7% had a female householder with no husband present, and 14.2% were non-families. 10.1% of all households were made up of individuals, and 3.7% had someone living alone who was 65 years of age or older. The average household size was 3.06 and the average family size was 3.29.<ref name=Census2000/>
+
+In the CDP the population was spread out, with 27.2% under the age of 18, 6.8% from 18 to 24, 34.4% from 25 to 44, 22.8% from 45 to 64, and 8.9% who were 65 years of age or older. The median age was 36 years. For every 100 females, there were 98.2 males. For every 100 females age 18 and over, there were 95.6 males.<ref name=Census2000/>
+
+The median income for a household in the CDP was $66,964, and the median income for a family was $70,583. Males had a median income of $51,830 versus $35,052 for females. The [[per capita income]] for the CDP was $25,412. About 1.3% of families and 3.2% of the population were below the [[poverty line]], including 1.9% of those under age 18 and 6.1% of those age 65 or over.<ref name=Census2000/>
+

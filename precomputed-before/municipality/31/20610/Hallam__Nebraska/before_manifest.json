@@ -1,0 +1,16 @@
+{
+  "article": "Hallam,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/20610/Hallam__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b46a707f7f2b9e7f0e7349ce628e3ea34438541a600fc11372f0b10da7936d0c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b46a707f7f2b9e7f0e7349ce628e3ea34438541a600fc11372f0b10da7936d0c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/20610/Hallam__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "20610",
+  "timestamp": "2026-05-24T23:55:30.233817Z",
+  "version": 1
+}

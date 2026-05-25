@@ -1,0 +1,16 @@
+{
+  "article": "Fawn_Lake_Forest,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/25420/Fawn_Lake_Forest__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f0288ee9d04b5bf5a0a6a3e2186e3fc738e155bfead82618070711358e4a969c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f0288ee9d04b5bf5a0a6a3e2186e3fc738e155bfead82618070711358e4a969c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/25420/Fawn_Lake_Forest__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "25420",
+  "timestamp": "2026-05-25T00:07:08.050575Z",
+  "version": 1
+}

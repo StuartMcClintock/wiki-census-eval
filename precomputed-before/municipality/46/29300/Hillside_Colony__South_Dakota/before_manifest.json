@@ -1,0 +1,16 @@
+{
+  "article": "Hillside_Colony,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/29300/Hillside_Colony__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e2850d039d937408393715a300338cd0a4524ed16ca4e1de5a5a7120bc404c7c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e2850d039d937408393715a300338cd0a4524ed16ca4e1de5a5a7120bc404c7c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/29300/Hillside_Colony__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "29300",
+  "timestamp": "2026-05-25T00:10:41.941985Z",
+  "version": 1
+}

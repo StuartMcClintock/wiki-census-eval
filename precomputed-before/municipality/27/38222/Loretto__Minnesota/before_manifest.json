@@ -1,0 +1,16 @@
+{
+  "article": "Loretto,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/38222/Loretto__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1b37c9da0b1a84a30b0b4e96ae99964f69d38f64ef857623cf5cf02dbb3a1706",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1b37c9da0b1a84a30b0b4e96ae99964f69d38f64ef857623cf5cf02dbb3a1706",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/38222/Loretto__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "38222",
+  "timestamp": "2026-05-24T23:49:16.838032Z",
+  "version": 1
+}

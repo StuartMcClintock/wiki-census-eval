@@ -1,0 +1,16 @@
+{
+  "article": "Hampton,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/29460/Hampton__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "65aca32036c5871a3a8218814aa7f520c92fb7f6bad50142bf1dd6d597c7c8fd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "65aca32036c5871a3a8218814aa7f520c92fb7f6bad50142bf1dd6d597c7c8fd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/29460/Hampton__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "29460",
+  "timestamp": "2026-05-24T23:57:49.913394Z",
+  "version": 1
+}

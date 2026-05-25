@@ -1,0 +1,16 @@
+{
+  "article": "Muhlenberg_Park,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/52216/Muhlenberg_Park__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "56f879568254ad37a58eec73ce44da06d3d8a45f69218b3e95a46665ccc163d1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "56f879568254ad37a58eec73ce44da06d3d8a45f69218b3e95a46665ccc163d1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/52216/Muhlenberg_Park__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "52216",
+  "timestamp": "2026-05-25T00:08:12.331198Z",
+  "version": 1
+}

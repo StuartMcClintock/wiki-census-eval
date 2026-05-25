@@ -1,0 +1,16 @@
+{
+  "article": "Oakland,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/35490/Oakland__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4c309e21458aaedf914269a510f1b08d1651a045c454d0157cf5dcbf81e8905e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4c309e21458aaedf914269a510f1b08d1651a045c454d0157cf5dcbf81e8905e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/35490/Oakland__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "35490",
+  "timestamp": "2026-05-24T23:55:56.772007Z",
+  "version": 1
+}

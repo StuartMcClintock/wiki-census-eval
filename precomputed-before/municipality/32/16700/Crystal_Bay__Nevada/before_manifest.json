@@ -1,0 +1,16 @@
+{
+  "article": "Crystal_Bay,_Nevada",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/32/16700/Crystal_Bay__Nevada/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6985dcbaad4ae7565df6f9844d51711f81a0f4e4f04203ba48585e7ef401863b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6985dcbaad4ae7565df6f9844d51711f81a0f4e4f04203ba48585e7ef401863b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/32/16700/Crystal_Bay__Nevada/manifest.json",
+  "state_fips": "32",
+  "status": "match",
+  "target_fips": "16700",
+  "timestamp": "2026-05-24T23:57:28.093192Z",
+  "version": 1
+}

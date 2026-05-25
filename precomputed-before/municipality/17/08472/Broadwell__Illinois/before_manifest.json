@@ -1,0 +1,16 @@
+{
+  "article": "Broadwell,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/08472/Broadwell__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "77c42e6109ff5e645d0ab82b8939aeb978df903e8002e79f4738047b36972d7a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "77c42e6109ff5e645d0ab82b8939aeb978df903e8002e79f4738047b36972d7a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/08472/Broadwell__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "08472",
+  "timestamp": "2026-05-24T23:37:51.348421Z",
+  "version": 1
+}

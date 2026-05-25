@@ -1,0 +1,16 @@
+{
+  "article": "Elberfeld,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/20638/Elberfeld__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dff551a4a51d61d38070f77bf8425dbf8b8278d2640352d1e53258024e296fd6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dff551a4a51d61d38070f77bf8425dbf8b8278d2640352d1e53258024e296fd6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/20638/Elberfeld__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "20638",
+  "timestamp": "2026-05-24T23:39:33.990166Z",
+  "version": 1
+}

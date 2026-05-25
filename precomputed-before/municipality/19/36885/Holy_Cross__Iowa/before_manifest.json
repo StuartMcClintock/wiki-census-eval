@@ -1,0 +1,16 @@
+{
+  "article": "Holy_Cross,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/36885/Holy_Cross__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5f78cb9a3d929f477811c2457e90de4dd3b1e2b5e30b094f4754e3096724065d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5f78cb9a3d929f477811c2457e90de4dd3b1e2b5e30b094f4754e3096724065d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/36885/Holy_Cross__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "36885",
+  "timestamp": "2026-05-24T23:41:11.818631Z",
+  "version": 1
+}

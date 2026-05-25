@@ -1,0 +1,16 @@
+{
+  "article": "Greenleaf,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/28625/Greenleaf__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "71ee2f125e8524703bb53598fe0e2ae97a4a06637d80ad2b3195d0f84163e960",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "71ee2f125e8524703bb53598fe0e2ae97a4a06637d80ad2b3195d0f84163e960",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/28625/Greenleaf__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "28625",
+  "timestamp": "2026-05-24T23:42:42.720189Z",
+  "version": 1
+}

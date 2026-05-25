@@ -1,0 +1,16 @@
+{
+  "article": "Climax,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/16440/Climax__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "18e5d678d26d69bd5ca30fb6568b36c622e008ca873f90cc7135c767bcc444dd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "18e5d678d26d69bd5ca30fb6568b36c622e008ca873f90cc7135c767bcc444dd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/16440/Climax__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "16440",
+  "timestamp": "2026-05-24T23:47:49.228433Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Sugar_Bush_Knolls,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/75196/Sugar_Bush_Knolls__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ef5ab15df1cf27e965a204e8ab3b671af95fe7c0309dc308cc54718b02ae4d53",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ef5ab15df1cf27e965a204e8ab3b671af95fe7c0309dc308cc54718b02ae4d53",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/75196/Sugar_Bush_Knolls__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "75196",
+  "timestamp": "2026-05-25T00:05:30.632873Z",
+  "version": 1
+}

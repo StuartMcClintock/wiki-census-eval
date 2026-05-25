@@ -1,0 +1,16 @@
+{
+  "article": "Arenas_Valley,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/04660/Arenas_Valley__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e8fab6d8d6c68465e409cc0eec15cd287124e558c5c5afa5cc6a3f972c05966c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e8fab6d8d6c68465e409cc0eec15cd287124e558c5c5afa5cc6a3f972c05966c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/04660/Arenas_Valley__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "04660",
+  "timestamp": "2026-05-24T23:58:08.744185Z",
+  "version": 1
+}

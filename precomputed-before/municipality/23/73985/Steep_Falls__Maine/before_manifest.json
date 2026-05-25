@@ -1,0 +1,16 @@
+{
+  "article": "Steep_Falls,_Maine",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/23/73985/Steep_Falls__Maine/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e4020423d31f7f16cc9f9d9fda0799e1bda2fae513f4da9e96a8872a34a2820b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e4020423d31f7f16cc9f9d9fda0799e1bda2fae513f4da9e96a8872a34a2820b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/23/73985/Steep_Falls__Maine/manifest.json",
+  "state_fips": "23",
+  "status": "match",
+  "target_fips": "73985",
+  "timestamp": "2026-05-24T23:45:13.428853Z",
+  "version": 1
+}

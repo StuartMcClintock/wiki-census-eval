@@ -1,0 +1,16 @@
+{
+  "article": "Fish_Springs,_Nevada",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/32/25000/Fish_Springs__Nevada/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b6012929f21b7f883eb9877a21503085b3437cb7768442c8ecee7bf0fd4e7d3e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b6012929f21b7f883eb9877a21503085b3437cb7768442c8ecee7bf0fd4e7d3e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/32/25000/Fish_Springs__Nevada/manifest.json",
+  "state_fips": "32",
+  "status": "match",
+  "target_fips": "25000",
+  "timestamp": "2026-05-24T23:57:29.176643Z",
+  "version": 1
+}

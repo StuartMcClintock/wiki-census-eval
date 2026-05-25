@@ -1,0 +1,16 @@
+{
+  "article": "Turrell,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/70430/Turrell__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "382e7952407f8c50f09d8f85748f7c6f858ad5c3a20806b478bd1c24254e740d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "382e7952407f8c50f09d8f85748f7c6f858ad5c3a20806b478bd1c24254e740d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/70430/Turrell__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "70430",
+  "timestamp": "2026-05-24T23:34:11.621135Z",
+  "version": 1
+}

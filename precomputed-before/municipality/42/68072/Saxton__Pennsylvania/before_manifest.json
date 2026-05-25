@@ -1,0 +1,16 @@
+{
+  "article": "Saxton,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/68072/Saxton__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e961c4d40369f74f25f4ea875150b1986f1c5826c6ab1acc9347e0e81042125b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e961c4d40369f74f25f4ea875150b1986f1c5826c6ab1acc9347e0e81042125b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/68072/Saxton__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "68072",
+  "timestamp": "2026-05-25T00:08:57.367719Z",
+  "version": 1
+}

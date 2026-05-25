@@ -1,0 +1,16 @@
+{
+  "article": "Garfield,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/25750/Garfield__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2385c96c9c3541e0fc2a54fc81cc22307d0c8fe53461fb47be17725fb7fe7ad6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2385c96c9c3541e0fc2a54fc81cc22307d0c8fe53461fb47be17725fb7fe7ad6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/25750/Garfield__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "25750",
+  "timestamp": "2026-05-24T23:33:42.411220Z",
+  "version": 1
+}

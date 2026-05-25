@@ -1,0 +1,16 @@
+{
+  "article": "Stuart,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/47500/Stuart__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e9026565e8e39565d6a7c52b4951553cde082f64ed0ee567199da780149130c6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e9026565e8e39565d6a7c52b4951553cde082f64ed0ee567199da780149130c6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/47500/Stuart__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "47500",
+  "timestamp": "2026-05-24T23:57:18.775032Z",
+  "version": 1
+}

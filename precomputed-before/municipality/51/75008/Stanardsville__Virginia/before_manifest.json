@@ -1,0 +1,16 @@
+{
+  "article": "Stanardsville,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/75008/Stanardsville__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6a521ef9c730961e77ac638b215ba6c7c284c14e06d26af5d9ce12c0caf1c2db",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6a521ef9c730961e77ac638b215ba6c7c284c14e06d26af5d9ce12c0caf1c2db",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/75008/Stanardsville__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "75008",
+  "timestamp": "2026-05-25T00:19:39.435098Z",
+  "version": 1
+}

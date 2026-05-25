@@ -1,0 +1,16 @@
+{
+  "article": "Fairfield,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/24560/Fairfield__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4ee6da635eb526b4f16495f08581045d4ede9bb5767ff88008c9a3368e016ced",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4ee6da635eb526b4f16495f08581045d4ede9bb5767ff88008c9a3368e016ced",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/24560/Fairfield__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "24560",
+  "timestamp": "2026-05-25T00:07:06.876723Z",
+  "version": 1
+}

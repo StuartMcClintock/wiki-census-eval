@@ -1,0 +1,16 @@
+{
+  "article": "Cooperstown,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/16080/Cooperstown__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a1fd14a0e77936d3fa448cb70b51f285d50337160f06b83fd37a07e010b7cc94",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a1fd14a0e77936d3fa448cb70b51f285d50337160f06b83fd37a07e010b7cc94",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/16080/Cooperstown__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "16080",
+  "timestamp": "2026-05-25T00:06:46.415208Z",
+  "version": 1
+}

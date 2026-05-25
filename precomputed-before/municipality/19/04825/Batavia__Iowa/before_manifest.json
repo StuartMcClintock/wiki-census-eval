@@ -1,0 +1,16 @@
+{
+  "article": "Batavia,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/04825/Batavia__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f8691f00dba53cd94ed512758197c0a6734648151dc167573bcf7de8bfc54ab9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f8691f00dba53cd94ed512758197c0a6734648151dc167573bcf7de8bfc54ab9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/04825/Batavia__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "04825",
+  "timestamp": "2026-05-24T23:40:26.210783Z",
+  "version": 1
+}

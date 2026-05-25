@@ -1,0 +1,16 @@
+{
+  "article": "Columbus_Grove,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/18014/Columbus_Grove__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a84e51d8fb8466d7c452b3be100b72bc69c0a4a88c170f86d2400111f99acbdf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a84e51d8fb8466d7c452b3be100b72bc69c0a4a88c170f86d2400111f99acbdf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/18014/Columbus_Grove__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "18014",
+  "timestamp": "2026-05-25T00:03:56.435125Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Asbury,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/02098/Asbury__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8ebfbb6f1b11d948af22d91da5907c241656ddf08d4c29dab37f00279d19b485",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8ebfbb6f1b11d948af22d91da5907c241656ddf08d4c29dab37f00279d19b485",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/02098/Asbury__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "02098",
+  "timestamp": "2026-05-24T23:50:43.671769Z",
+  "version": 1
+}

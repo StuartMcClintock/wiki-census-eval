@@ -1,0 +1,16 @@
+{
+  "article": "Fort_Plain,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/26924/Fort_Plain__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "99bff8801049cb89cdf4fa44e9bd411462cabbc6880547a8e708410994261be8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "99bff8801049cb89cdf4fa44e9bd411462cabbc6880547a8e708410994261be8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/26924/Fort_Plain__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "26924",
+  "timestamp": "2026-05-25T00:00:43.574696Z",
+  "version": 1
+}

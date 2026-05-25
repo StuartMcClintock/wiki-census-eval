@@ -1,0 +1,16 @@
+{
+  "article": "Stonington,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/72949/Stonington__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bf39f56afa92f4f80f6b176f17edc6f9ffa5b7978a567945452f8974dc1eb4d3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bf39f56afa92f4f80f6b176f17edc6f9ffa5b7978a567945452f8974dc1eb4d3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/72949/Stonington__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "72949",
+  "timestamp": "2026-05-24T23:39:13.983933Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Sheep_Springs,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/72600/Sheep_Springs__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4888fb5f93b1f914d342fc29ed17c7a105a49ae3ce145df196342034f22b811f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4888fb5f93b1f914d342fc29ed17c7a105a49ae3ce145df196342034f22b811f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/72600/Sheep_Springs__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "72600",
+  "timestamp": "2026-05-24T23:59:05.936663Z",
+  "version": 1
+}

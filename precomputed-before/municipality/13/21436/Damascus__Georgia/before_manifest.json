@@ -1,0 +1,16 @@
+{
+  "article": "Damascus,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/21436/Damascus__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b74f6fb6074c7363116c584c827eb85e5c29af51c5affa7fc0bd084f2f4d302c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b74f6fb6074c7363116c584c827eb85e5c29af51c5affa7fc0bd084f2f4d302c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/21436/Damascus__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "21436",
+  "timestamp": "2026-05-24T23:36:33.744285Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Weldon,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/79683/Weldon__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "25a82f9525bde977f4b35e46f1b067768d15e2b9058198f7a4f7309152d9830d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "25a82f9525bde977f4b35e46f1b067768d15e2b9058198f7a4f7309152d9830d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/79683/Weldon__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "79683",
+  "timestamp": "2026-05-24T23:39:21.223564Z",
+  "version": 1
+}

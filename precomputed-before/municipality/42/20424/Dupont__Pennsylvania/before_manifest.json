@@ -1,0 +1,16 @@
+{
+  "article": "Dupont,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/20424/Dupont__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "16808e9469bfc7af7ba0673aa2af0eed4f1ce99f5dc44ef091b80c3ddd32e2dc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "16808e9469bfc7af7ba0673aa2af0eed4f1ce99f5dc44ef091b80c3ddd32e2dc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/20424/Dupont__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "20424",
+  "timestamp": "2026-05-25T00:06:54.414830Z",
+  "version": 1
+}

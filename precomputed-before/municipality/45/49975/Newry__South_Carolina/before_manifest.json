@@ -1,0 +1,16 @@
+{
+  "article": "Newry,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/49975/Newry__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "18e45901382407a62faa54053a53edabb011c27090dd2a54a25a29261430b9f0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "18e45901382407a62faa54053a53edabb011c27090dd2a54a25a29261430b9f0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/49975/Newry__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "49975",
+  "timestamp": "2026-05-25T00:10:14.415231Z",
+  "version": 1
+}

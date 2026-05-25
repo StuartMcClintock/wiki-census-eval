@@ -1,0 +1,16 @@
+{
+  "article": "Keuka_Park,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/39463/Keuka_Park__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "210da0cdf95e00a89bc5345ddcda108a812e08f77bdcf9deaa4369c5d81d49bc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "210da0cdf95e00a89bc5345ddcda108a812e08f77bdcf9deaa4369c5d81d49bc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/39463/Keuka_Park__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "39463",
+  "timestamp": "2026-05-25T00:00:50.504581Z",
+  "version": 1
+}

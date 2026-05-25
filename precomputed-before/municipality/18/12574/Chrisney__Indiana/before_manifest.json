@@ -1,0 +1,16 @@
+{
+  "article": "Chrisney,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/12574/Chrisney__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "66a403f3175160dd7524d8e52e13247b53b13e86c493e68dd048e1494510178a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "66a403f3175160dd7524d8e52e13247b53b13e86c493e68dd048e1494510178a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/12574/Chrisney__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "12574",
+  "timestamp": "2026-05-24T23:39:29.892896Z",
+  "version": 1
+}

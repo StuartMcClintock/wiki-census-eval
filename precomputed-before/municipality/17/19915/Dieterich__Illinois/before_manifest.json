@@ -1,0 +1,16 @@
+{
+  "article": "Dieterich,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/19915/Dieterich__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "77fc069ed894c4842a8c29e7aaab582a885488380495b423a698255ab40021bd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "77fc069ed894c4842a8c29e7aaab582a885488380495b423a698255ab40021bd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/19915/Dieterich__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "19915",
+  "timestamp": "2026-05-24T23:38:06.650767Z",
+  "version": 1
+}

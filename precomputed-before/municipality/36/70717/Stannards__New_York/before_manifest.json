@@ -1,0 +1,16 @@
+{
+  "article": "Stannards,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/70717/Stannards__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "226288c2cabdfb2c3d7dbd6b39465fb794e13e58665d04348113860fdd121357",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "226288c2cabdfb2c3d7dbd6b39465fb794e13e58665d04348113860fdd121357",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/70717/Stannards__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "70717",
+  "timestamp": "2026-05-25T00:01:17.919632Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Amada_Acres,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/02286/Amada_Acres__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d81624fee8756b2524c2e0e0101daebb65fcb426933cd35c3e33379ea8e91106",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d81624fee8756b2524c2e0e0101daebb65fcb426933cd35c3e33379ea8e91106",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/02286/Amada_Acres__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "02286",
+  "timestamp": "2026-05-25T00:15:01.474280Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Arendtsville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/02928/Arendtsville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4e9a6e2bae97b683b259a2e62b353b755384c9301ec3b63be6586ac91c24860a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4e9a6e2bae97b683b259a2e62b353b755384c9301ec3b63be6586ac91c24860a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/02928/Arendtsville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "02928",
+  "timestamp": "2026-05-25T00:06:09.037964Z",
+  "version": 1
+}

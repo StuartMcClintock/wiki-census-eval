@@ -1,0 +1,16 @@
+{
+  "article": "Elfin_Forest,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/21916/Elfin_Forest__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e085921347573501adbb24e1e07b368f0929ffb00ee752ce64cfe45d88b60714",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e085921347573501adbb24e1e07b368f0929ffb00ee752ce64cfe45d88b60714",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/21916/Elfin_Forest__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "21916",
+  "timestamp": "2026-05-24T23:34:21.250697Z",
+  "version": 1
+}

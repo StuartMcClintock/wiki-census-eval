@@ -1,0 +1,16 @@
+{
+  "article": "Parkman,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/59934/Parkman__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0698ff58ad2b234a1599abb58ca01706242ec51f1612f1dd632c053bb3c52e32",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0698ff58ad2b234a1599abb58ca01706242ec51f1612f1dd632c053bb3c52e32",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/59934/Parkman__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "59934",
+  "timestamp": "2026-05-25T00:05:04.112040Z",
+  "version": 1
+}

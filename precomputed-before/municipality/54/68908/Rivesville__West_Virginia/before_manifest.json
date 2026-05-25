@@ -1,0 +1,16 @@
+{
+  "article": "Rivesville,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/68908/Rivesville__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6bcd53916f60eabe2c1197d8100b0f688eb733e557f08ec5857eedeee4122a5b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6bcd53916f60eabe2c1197d8100b0f688eb733e557f08ec5857eedeee4122a5b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/68908/Rivesville__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "68908",
+  "timestamp": "2026-05-25T00:21:23.664372Z",
+  "version": 1
+}

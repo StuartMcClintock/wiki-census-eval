@@ -1,0 +1,16 @@
+{
+  "article": "Gila_Crossing,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/27260/Gila_Crossing__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "40b1a096b8c7b61df746ab12f6ea4a5498f6588af1368238086b77a29592fbf2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "40b1a096b8c7b61df746ab12f6ea4a5498f6588af1368238086b77a29592fbf2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/27260/Gila_Crossing__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "27260",
+  "timestamp": "2026-05-24T23:32:55.165393Z",
+  "version": 1
+}

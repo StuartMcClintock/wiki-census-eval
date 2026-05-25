@@ -1,0 +1,16 @@
+{
+  "article": "Kanauga,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/39564/Kanauga__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1682310f88fa727c8b6412a1e1bac42fcd970cf59ab5afdfe47109dca5340b90",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1682310f88fa727c8b6412a1e1bac42fcd970cf59ab5afdfe47109dca5340b90",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/39564/Kanauga__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "39564",
+  "timestamp": "2026-05-25T00:04:21.978785Z",
+  "version": 1
+}

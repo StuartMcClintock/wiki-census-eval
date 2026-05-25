@@ -1,0 +1,16 @@
+{
+  "article": "Harrison,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/27300/Harrison__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f18a7199b84956b97884f34e21a8d77e72a0b4dec0a558842891eebf511e942c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f18a7199b84956b97884f34e21a8d77e72a0b4dec0a558842891eebf511e942c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/27300/Harrison__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "27300",
+  "timestamp": "2026-05-25T00:10:40.894877Z",
+  "version": 1
+}

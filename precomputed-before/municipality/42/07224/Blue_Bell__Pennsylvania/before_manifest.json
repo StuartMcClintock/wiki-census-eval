@@ -1,0 +1,16 @@
+{
+  "article": "Blue_Bell,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/07224/Blue_Bell__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e41b58f6713262937bf2692ee784cbf72ec29dda37e952373f69371b3471ed59",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e41b58f6713262937bf2692ee784cbf72ec29dda37e952373f69371b3471ed59",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/07224/Blue_Bell__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "07224",
+  "timestamp": "2026-05-25T00:06:18.772357Z",
+  "version": 1
+}

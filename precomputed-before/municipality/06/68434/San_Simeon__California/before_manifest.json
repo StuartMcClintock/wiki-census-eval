@@ -1,0 +1,16 @@
+{
+  "article": "San_Simeon,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/68434/San_Simeon__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6e1f51f967cd90fc48581b575ff5f3b25790aa763b4a0a605260969b97c5b3be",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6e1f51f967cd90fc48581b575ff5f3b25790aa763b4a0a605260969b97c5b3be",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/68434/San_Simeon__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "68434",
+  "timestamp": "2026-05-24T23:35:04.166893Z",
+  "version": 1
+}

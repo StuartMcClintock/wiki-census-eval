@@ -1,0 +1,16 @@
+{
+  "article": "University_Park,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/79815/University_Park__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bf897ba6e8145cd208d4ebdd0fc54f5b1b851158e61f2a55d338a70350259bad",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bf897ba6e8145cd208d4ebdd0fc54f5b1b851158e61f2a55d338a70350259bad",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/79815/University_Park__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "79815",
+  "timestamp": "2026-05-24T23:42:07.349320Z",
+  "version": 1
+}

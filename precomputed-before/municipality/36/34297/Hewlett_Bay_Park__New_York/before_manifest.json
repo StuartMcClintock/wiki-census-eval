@@ -1,0 +1,16 @@
+{
+  "article": "Hewlett_Bay_Park,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/34297/Hewlett_Bay_Park__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1d4b79b40f2ec902c5b617a5f21dcc138ddc1b09ddc8869f8c08fa24ac037d59",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1d4b79b40f2ec902c5b617a5f21dcc138ddc1b09ddc8869f8c08fa24ac037d59",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/34297/Hewlett_Bay_Park__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "34297",
+  "timestamp": "2026-05-25T00:00:47.508198Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Rye,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/66895/Rye__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "283292d9338629331891140f2090634bbbace75d421098225ae845dd8b5e4958",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "283292d9338629331891140f2090634bbbace75d421098225ae845dd8b5e4958",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/66895/Rye__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "66895",
+  "timestamp": "2026-05-24T23:35:39.028328Z",
+  "version": 1
+}

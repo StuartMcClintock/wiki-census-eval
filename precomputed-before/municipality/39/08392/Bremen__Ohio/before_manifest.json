@@ -1,0 +1,16 @@
+{
+  "article": "Bremen,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/08392/Bremen__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4a7e5fa1c3e23657c2fb4f1b4af7667d8dce53c7245de03f2e92012ffb099122",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4a7e5fa1c3e23657c2fb4f1b4af7667d8dce53c7245de03f2e92012ffb099122",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/08392/Bremen__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "08392",
+  "timestamp": "2026-05-25T00:03:37.967064Z",
+  "version": 1
+}

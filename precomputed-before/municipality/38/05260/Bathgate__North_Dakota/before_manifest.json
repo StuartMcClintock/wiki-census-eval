@@ -1,0 +1,16 @@
+{
+  "article": "Bathgate,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/05260/Bathgate__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8cee667b33498a4364537c538d42d314f68dc52cf18b58962f68c55c8845743b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8cee667b33498a4364537c538d42d314f68dc52cf18b58962f68c55c8845743b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/05260/Bathgate__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "05260",
+  "timestamp": "2026-05-25T00:02:34.000025Z",
+  "version": 1
+}

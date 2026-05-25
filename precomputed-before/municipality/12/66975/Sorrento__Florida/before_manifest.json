@@ -1,0 +1,16 @@
+{
+  "article": "Sorrento,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/66975/Sorrento__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bf5438c0bb37200677c5fc111997f5398625999eb7c2be37daa428af0b6c1115",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bf5438c0bb37200677c5fc111997f5398625999eb7c2be37daa428af0b6c1115",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/66975/Sorrento__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "66975",
+  "timestamp": "2026-05-24T23:36:23.118270Z",
+  "version": 1
+}

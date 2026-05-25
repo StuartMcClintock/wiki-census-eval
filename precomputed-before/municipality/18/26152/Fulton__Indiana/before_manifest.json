@@ -1,0 +1,16 @@
+{
+  "article": "Fulton,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/26152/Fulton__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "19da9adb3192a53c982eafa5c095cc9647f1f3cada017faf1c65be45b29bd10d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "19da9adb3192a53c982eafa5c095cc9647f1f3cada017faf1c65be45b29bd10d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/26152/Fulton__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "26152",
+  "timestamp": "2026-05-24T23:39:36.400146Z",
+  "version": 1
+}

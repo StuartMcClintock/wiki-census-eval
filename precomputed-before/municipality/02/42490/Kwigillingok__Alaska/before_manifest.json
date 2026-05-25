@@ -1,0 +1,16 @@
+{
+  "article": "Kwigillingok,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/42490/Kwigillingok__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1a269c958c76a29ba2eabdeecc1947553a7b5ff550c2e64c21f0bd764144cfa7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1a269c958c76a29ba2eabdeecc1947553a7b5ff550c2e64c21f0bd764144cfa7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/42490/Kwigillingok__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "42490",
+  "timestamp": "2026-05-24T23:32:25.429845Z",
+  "version": 1
+}

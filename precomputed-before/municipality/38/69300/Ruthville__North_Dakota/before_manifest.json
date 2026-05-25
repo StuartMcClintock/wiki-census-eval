@@ -1,0 +1,16 @@
+{
+  "article": "Ruthville,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/69300/Ruthville__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "60f69fd4b7691a291fb2a62118539e0b91858bad9bfa9120f96043d11e7689b1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "60f69fd4b7691a291fb2a62118539e0b91858bad9bfa9120f96043d11e7689b1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/69300/Ruthville__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "69300",
+  "timestamp": "2026-05-25T00:03:20.430464Z",
+  "version": 1
+}

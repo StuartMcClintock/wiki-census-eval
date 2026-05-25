@@ -1,0 +1,16 @@
+{
+  "article": "Cliftondale_Park,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/17424/Cliftondale_Park__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c6e0304ddd6c5463cf1f2c0f8f49d84c08f0ef79605d9286451e2a74c9f27f66",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c6e0304ddd6c5463cf1f2c0f8f49d84c08f0ef79605d9286451e2a74c9f27f66",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/17424/Cliftondale_Park__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "17424",
+  "timestamp": "2026-05-25T00:19:06.845954Z",
+  "version": 1
+}

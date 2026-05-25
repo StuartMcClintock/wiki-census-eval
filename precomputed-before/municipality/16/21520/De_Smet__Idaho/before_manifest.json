@@ -1,0 +1,16 @@
+{
+  "article": "De_Smet,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/21520/De_Smet__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "68c92e43f17560688f7b4fa8c29fd4f1198ce77a3317ad9230d8c8eb08c28d50",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "68c92e43f17560688f7b4fa8c29fd4f1198ce77a3317ad9230d8c8eb08c28d50",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/21520/De_Smet__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "21520",
+  "timestamp": "2026-05-24T23:37:19.094738Z",
+  "version": 1
+}

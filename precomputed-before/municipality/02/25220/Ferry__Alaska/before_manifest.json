@@ -1,0 +1,16 @@
+{
+  "article": "Ferry,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/25220/Ferry__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1322d89445443d756e54b156351cbdfa34ac210c344f2792434205fbc2db80aa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1322d89445443d756e54b156351cbdfa34ac210c344f2792434205fbc2db80aa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/25220/Ferry__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "25220",
+  "timestamp": "2026-05-24T23:32:21.621588Z",
+  "version": 1
+}

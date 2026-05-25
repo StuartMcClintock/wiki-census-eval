@@ -1,0 +1,16 @@
+{
+  "article": "Galena,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/26254/Galena__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fff5de082bbcefdea8deebd315fba3ee86513a79197e0adb0ca10d7aeed2f20e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fff5de082bbcefdea8deebd315fba3ee86513a79197e0adb0ca10d7aeed2f20e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/26254/Galena__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "26254",
+  "timestamp": "2026-05-24T23:51:11.599756Z",
+  "version": 1
+}

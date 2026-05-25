@@ -1,0 +1,16 @@
+{
+  "article": "Rutledge,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/67176/Rutledge__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "258cb2c61ef3ed1076821f65f53f37012e192d96275bb607e5d43993c29ec179",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "258cb2c61ef3ed1076821f65f53f37012e192d96275bb607e5d43993c29ec179",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/67176/Rutledge__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "67176",
+  "timestamp": "2026-05-24T23:32:11.402867Z",
+  "version": 1
+}

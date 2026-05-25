@@ -1,0 +1,16 @@
+{
+  "article": "Mount_Calvary,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/54650/Mount_Calvary__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c67fd0d114914c4e548bb214a96c4b028bf0e79ee1a970ecf368c2d7c18360c2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c67fd0d114914c4e548bb214a96c4b028bf0e79ee1a970ecf368c2d7c18360c2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/54650/Mount_Calvary__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "54650",
+  "timestamp": "2026-05-25T00:22:26.892721Z",
+  "version": 1
+}

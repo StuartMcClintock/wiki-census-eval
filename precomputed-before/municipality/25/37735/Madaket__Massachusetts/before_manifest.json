@@ -1,0 +1,16 @@
+{
+  "article": "Madaket,_Massachusetts",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/25/37735/Madaket__Massachusetts/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "68e2360c2afed9da81248c2cf1be5c03fbc0f062798c3b6759694b50005ae3dc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "68e2360c2afed9da81248c2cf1be5c03fbc0f062798c3b6759694b50005ae3dc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/25/37735/Madaket__Massachusetts/manifest.json",
+  "state_fips": "25",
+  "status": "match",
+  "target_fips": "37735",
+  "timestamp": "2026-05-24T23:47:38.096850Z",
+  "version": 1
+}

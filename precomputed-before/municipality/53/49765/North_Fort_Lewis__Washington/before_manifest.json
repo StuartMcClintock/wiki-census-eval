@@ -1,0 +1,16 @@
+{
+  "article": "North_Fort_Lewis,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/49765/North_Fort_Lewis__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d9e1ff17f545109f67988bf659a9b0c07da475d6a2bc7b0b7dd9fe5862ce3908",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d9e1ff17f545109f67988bf659a9b0c07da475d6a2bc7b0b7dd9fe5862ce3908",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/49765/North_Fort_Lewis__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "49765",
+  "timestamp": "2026-05-25T00:20:25.311306Z",
+  "version": 1
+}

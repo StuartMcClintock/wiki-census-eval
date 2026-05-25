@@ -1,0 +1,16 @@
+{
+  "article": "Waynesfield,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/82390/Waynesfield__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ec9a9479166f829081a1186527ab48b9cca4bb63135bbbe82ef1e8d8218637af",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ec9a9479166f829081a1186527ab48b9cca4bb63135bbbe82ef1e8d8218637af",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/82390/Waynesfield__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "82390",
+  "timestamp": "2026-05-25T00:05:36.639929Z",
+  "version": 1
+}

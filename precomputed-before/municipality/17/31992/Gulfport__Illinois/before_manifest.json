@@ -1,0 +1,16 @@
+{
+  "article": "Gulfport,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/31992/Gulfport__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ea6e241566850826dd4e7b5beae8bc1de512bc3640f90abf51c7ac90480dbaff",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ea6e241566850826dd4e7b5beae8bc1de512bc3640f90abf51c7ac90480dbaff",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/31992/Gulfport__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "31992",
+  "timestamp": "2026-05-24T23:38:17.992172Z",
+  "version": 1
+}

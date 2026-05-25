@@ -1,0 +1,16 @@
+{
+  "article": "Savage,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/66550/Savage__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d6bf61f8fbc9ec3a955e6bd81721053ca31cd3c95e208c27926a24a0e91aec80",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d6bf61f8fbc9ec3a955e6bd81721053ca31cd3c95e208c27926a24a0e91aec80",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/66550/Savage__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "66550",
+  "timestamp": "2026-05-24T23:54:50.023373Z",
+  "version": 1
+}

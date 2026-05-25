@@ -1,0 +1,16 @@
+{
+  "article": "Clark,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/13832/Clark__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6658b296d1c525054e4d4d5f46d9b48ff86fd9a5bf0e2256e6e55c6bc9829ebe",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6658b296d1c525054e4d4d5f46d9b48ff86fd9a5bf0e2256e6e55c6bc9829ebe",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/13832/Clark__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "13832",
+  "timestamp": "2026-05-25T00:06:41.897134Z",
+  "version": 1
+}

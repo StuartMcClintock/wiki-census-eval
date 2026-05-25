@@ -1,0 +1,16 @@
+{
+  "article": "Germanton,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/25880/Germanton__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "78133636a42c461ea629fedc26363e06f9b6faf3de7c02d1847440d405d84729",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "78133636a42c461ea629fedc26363e06f9b6faf3de7c02d1847440d405d84729",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/25880/Germanton__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "25880",
+  "timestamp": "2026-05-25T00:01:57.496089Z",
+  "version": 1
+}

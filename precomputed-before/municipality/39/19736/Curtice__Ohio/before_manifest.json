@@ -1,0 +1,16 @@
+{
+  "article": "Curtice,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/19736/Curtice__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "84af86900c74573287007265dd2bf89a6d2be35a09e82adb2e7f51666d9c00cc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "84af86900c74573287007265dd2bf89a6d2be35a09e82adb2e7f51666d9c00cc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/19736/Curtice__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "19736",
+  "timestamp": "2026-05-25T00:04:02.544722Z",
+  "version": 1
+}

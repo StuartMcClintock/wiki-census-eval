@@ -1,0 +1,16 @@
+{
+  "article": "East_Hodge,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/22465/East_Hodge__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "14b9101b4e6fabdea7f7bc6e86e6b406e74732c42df17c437617124bd7ff9c6c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "14b9101b4e6fabdea7f7bc6e86e6b406e74732c42df17c437617124bd7ff9c6c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/22465/East_Hodge__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "22465",
+  "timestamp": "2026-05-24T23:44:46.181744Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Salem,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/70230/Salem__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "034a8c7587ece18e0adf8c6097071229f490d0bc4a26f417760d447b740ab5bc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "034a8c7587ece18e0adf8c6097071229f490d0bc4a26f417760d447b740ab5bc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/70230/Salem__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "70230",
+  "timestamp": "2026-05-24T23:41:46.820978Z",
+  "version": 1
+}

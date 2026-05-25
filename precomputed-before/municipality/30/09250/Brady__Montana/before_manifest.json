@@ -1,0 +1,16 @@
+{
+  "article": "Brady,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/09250/Brady__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e3fd7e094c5039eee3e8b0373570c0cac347c89065124b41ae54acce5b6103dd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e3fd7e094c5039eee3e8b0373570c0cac347c89065124b41ae54acce5b6103dd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/09250/Brady__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "09250",
+  "timestamp": "2026-05-24T23:54:16.033554Z",
+  "version": 1
+}

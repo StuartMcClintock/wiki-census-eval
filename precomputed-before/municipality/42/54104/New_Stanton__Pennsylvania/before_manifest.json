@@ -1,0 +1,16 @@
+{
+  "article": "New_Stanton,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/54104/New_Stanton__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f144a0682f87abe06f7fe811a3b32b88f5d29964db323a7f50179fadd18e412b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f144a0682f87abe06f7fe811a3b32b88f5d29964db323a7f50179fadd18e412b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/54104/New_Stanton__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "54104",
+  "timestamp": "2026-05-25T00:08:18.170885Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Humboldt,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/36542/Humboldt__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b8a148f462015a6621c5a885b2f2d74163a9b58ee5c25c13856087fb1c20124e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b8a148f462015a6621c5a885b2f2d74163a9b58ee5c25c13856087fb1c20124e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/36542/Humboldt__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "36542",
+  "timestamp": "2026-05-24T23:38:21.652461Z",
+  "version": 1
+}

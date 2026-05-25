@@ -1,0 +1,16 @@
+{
+  "article": "Saddle_Butte,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/65065/Saddle_Butte__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "653017a83d6a369649d4ed11e49f994c42922b45e59dcf2823ac2b3d047bde2f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "653017a83d6a369649d4ed11e49f994c42922b45e59dcf2823ac2b3d047bde2f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/65065/Saddle_Butte__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "65065",
+  "timestamp": "2026-05-24T23:54:48.472464Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Tolna,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/79180/Tolna__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e06501a27d617898a4a34fa30be6484a3f5c92e90674583c3b2691f14f146aca",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e06501a27d617898a4a34fa30be6484a3f5c92e90674583c3b2691f14f146aca",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/79180/Tolna__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "79180",
+  "timestamp": "2026-05-25T00:03:24.486339Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Greendale,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/29152/Greendale__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "064478e7e5cb7404b45e2ddd55ca3fa8c29cd4d35b7b57c1722f4db515f534ba",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "064478e7e5cb7404b45e2ddd55ca3fa8c29cd4d35b7b57c1722f4db515f534ba",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/29152/Greendale__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "29152",
+  "timestamp": "2026-05-24T23:53:15.137520Z",
+  "version": 1
+}

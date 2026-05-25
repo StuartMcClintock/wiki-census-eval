@@ -1,0 +1,16 @@
+{
+  "article": "Holliday,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/32626/Holliday__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b86e777c7a1e65214825437eb46d83ee90a16a9f191fa2ef574dc9a58118b254",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b86e777c7a1e65214825437eb46d83ee90a16a9f191fa2ef574dc9a58118b254",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/32626/Holliday__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "32626",
+  "timestamp": "2026-05-24T23:53:18.280728Z",
+  "version": 1
+}

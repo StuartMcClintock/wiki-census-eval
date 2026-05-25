@@ -1,0 +1,16 @@
+{
+  "article": "Grier_City,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/31536/Grier_City__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ddd6b957a65ce810f7299e62a3b789a460e02b741d6c1ba2e71bba7fa0512d12",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ddd6b957a65ce810f7299e62a3b789a460e02b741d6c1ba2e71bba7fa0512d12",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/31536/Grier_City__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "31536",
+  "timestamp": "2026-05-25T00:07:20.309677Z",
+  "version": 1
+}

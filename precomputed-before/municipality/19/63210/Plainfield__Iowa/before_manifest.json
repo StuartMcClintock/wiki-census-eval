@@ -1,0 +1,16 @@
+{
+  "article": "Plainfield,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/63210/Plainfield__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e607ec226c1220539e7149fc94166c194333d7ad1ebb09a073634eaca63dd04d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e607ec226c1220539e7149fc94166c194333d7ad1ebb09a073634eaca63dd04d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/63210/Plainfield__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "63210",
+  "timestamp": "2026-05-24T23:41:38.206248Z",
+  "version": 1
+}

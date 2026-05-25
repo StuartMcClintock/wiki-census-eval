@@ -1,0 +1,113 @@
+==Demographics==
+{{US Census population
+|align=left
+|1940= 91
+|1950= 147
+|1960= 167
+|1970= 188
+|1980= 231
+|1990= 176
+|2000= 151
+|2010= 62
+|2020= 45
+|estyear=
+|estimate=
+|estref=
+|align-fn=center
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census/decade.html|title=Decennial Census of Population and Housing by Decade|publisher=[[United States Census Bureau]]|access-date=}}</ref><br> 1850-1870<ref name=1870CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1870 Census of Population - Georgia - Population of Civil Divisions less than Counties |publisher=[[United States Census Bureau]]|date= 1870|url=https://www2.census.gov/library/publications/decennial/1870/population/1870a-13.pdf |accessdate=|archive-url=| archive-date=|page=}}</ref> 1870-1880<ref name=1880CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1880 Census of Population - Georgia - Population of Civil Divisions less than Counties |publisher=[[United States Census Bureau]]|date= 1880|url=https://www2.census.gov/library/publications/decennial/1880/vol-01-population/1880_v1-09.pdf |accessdate=|archive-url=| archive-date=|page=}}</ref><br> 1890-1910<ref name=1910CensusGA>{{Cite web  |first=   |last=   |authorlink=   |title= 1910 Census of Population - Georgia  |publisher= [[United States Census Bureau]]  |date= 1910  |url= https://www2.census.gov/library/publications/decennial/1910/abstract/supplement-ga.pdf  |accessdate=   |archive-url= https://web.archive.org/web/20240116032336/https://www2.census.gov/library/publications/decennial/1910/abstract/supplement-ga.pdf  |archive-date= January 16, 2024  |page=   |url-status= dead  }}</ref> 1920-1930<ref name=1930CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1930 Census of Population - Georgia  |publisher=[[United States Census Bureau]]|date= 1930|url=https://www2.census.gov/prod2/decennial/documents/03815512v1ch04.pdf |accessdate=|archive-url=| archive-date=|pages=251–256}}</ref><br> 1940<ref name=1940CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1940 Census of Population - Georgia  |publisher=[[United States Census Bureau]]|date= 1940|url=https://www2.census.gov/library/publications/decennial/1940/population-volume-1/33973538v1ch04.pdf |accessdate=|archive-url=| archive-date=}}</ref> 1950<ref name=1950CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1950 Census of Population - Georgia |publisher=[[United States Census Bureau]]|date= 1950|url=https://www2.census.gov/library/publications/decennial/1950/population-volume-2/37779083v2p11ch2.pdf |accessdate=|archive-url=| archive-date=}}</ref> 1960<ref name=1960CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1960 Census of Population - Population of County Subdivisions - Georgia  |publisher=[[United States Census Bureau]]|date= 1960|url=https://www2.census.gov/library/publications/decennial/1960/population-volume-1/vol-01-12-c.pdf|accessdate=|archive-url=| archive-date=}}</ref><br> 1970<ref name=1970CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1970 Census of Population - Population of County Subdivisions - Georgia  |publisher=[[United States Census Bureau]]|date= 1970|url=https://www2.census.gov/prod2/decennial/documents/1970a_ga-01.pdf|accessdate=|archive-url=| archive-date=}}</ref> 1980<ref name=1980CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1980 Census of Population - Number of Inhabitants - Georgia  |publisher=[[United States Census Bureau]]|date= 1980|url=https://www2.census.gov/prod2/decennial/documents/1980a_gaABC-01.pdf|accessdate=|archive-url=| archive-date=}}</ref> 1990<ref name=1990CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1990 Census of Population - Summary Social, Economic, and Housing Characteristics - Georgia |publisher=[[United States Census Bureau]]|date= 1990|url=https://www2.census.gov/library/publications/decennial/1990/cph-5/cph-5-12.pdf|accessdate=|archive-url=| archive-date=}}</ref><br> 2000<ref name=2000CensusGA>{{Cite web|first= |last= |authorlink=   |title= 2000 Census of Population - General Population Characteristics - Georgia  |publisher=[[United States Census Bureau]]|date= 2000|url=https://www2.census.gov/library/publications/2003/dec/phc-3-12.pdf |accessdate=|archive-url=| archive-date=}}</ref> 2010<ref name=2010CensusGA>{{Cite web|first= |last= |authorlink=   |title= 2010 Census of Population - General Population Characteristics - Georgia  |publisher=[[United States Census Bureau]]|date= 2010|url=https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-12.pdf|accessdate=|archive-url=| archive-date=}}</ref> 2020<ref name=2020CensusP2/>
+}}
+
+{| class="wikitable" style="text-align:center;"
+|+'''Rest Haven town, Georgia – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Rest Haven town, Georgia |url=https://data.census.gov/table?g=160XX00US1364792&tid=DECENNIALSF12000.P004|website=[[United States Census Bureau]] |access-date= }}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Rest Haven town, Georgia |url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US1364792&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Rest Haven town, Georgia |url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US1364792&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!% 2000
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|136
+|54
+|style='background: #ffffe6; |29
+|90.07%
+|87.10%
+|style='background: #ffffe6; |64.44%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|4
+|1
+|style='background: #ffffe6; |5
+|2.65%
+|1.61%
+|style='background: #ffffe6; |11.11%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|1
+|0
+|style='background: #ffffe6; |3
+|0.66%
+|0.00%
+|style='background: #ffffe6; |6.67%
+|-
+|[[Native Hawaiian]] or [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|4
+|1
+|style='background: #ffffe6; |2
+|2.65%
+|1.61%
+|style='background: #ffffe6; |4.44%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|6
+|6
+|style='background: #ffffe6; |6
+|3.97%
+|9.68%
+|style='background: #ffffe6; |13.33%
+|-
+|'''Total'''
+|'''151'''
+|'''62'''
+|style='background: #ffffe6; |'''45'''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+===2020 census===
+
+===2000 census===
+As of the census<ref name="GR2" /> of 2000, there were 151 people, 57 households, and 42 families residing in the town. The population density was 145.8/km{{sup|2}} (373.5/mi.²). There were 67 housing units at an average density of 64.7/km{{sup|2}} (165.7/mi.²). The racial makeup of the town was 90.07% [[White (U.S. Census)|White]], 2.65% [[African American (U.S. Census)|African American]], 0.66% [[Asian (U.S. Census)|Asian]], 3.97% from [[Race (United States Census)|other races]], and 2.65% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 3.97% of the population.
+
+There were 57 households, out of which 28.1% had children under the age of 18 living with them, 63.2% were married couples living together, 8.8% had a female householder with no husband present, and 24.6% were non-families. 22.8% of all households were made up of individuals, and 14.0% had someone living alone who was 65 years of age or older. The average household size was 2.65 and the average family size was 3.07.
+
+In the town, the population was spread out, with 25.2% under the age of 18, 11.3% from 18 to 24, 24.5% from 25 to 44, 24.5% from 45 to 64, and 14.6% who were 65 years of age or older. The median age was 35 years. For every 100 females, there were 101.3 males. For every 100 females age 18 and over, there were 85.2 males.
+
+The median income for a household in the town was $50,156, and the median income for a family was $51,250. Males had a median income of $31,875 versus $25,781 for females. The per capita income for the town was $15,275. There were 11.8% of families and 12.9% of the population living below the poverty line, including 13.5% of under eighteens and 14.3% of those over 64.
+

@@ -1,0 +1,16 @@
+{
+  "article": "Port_Washington,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/64346/Port_Washington__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b76948d05548ba02fba01036dcb6de5c44c7c6f1a57ba1cff639db683f79806c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b76948d05548ba02fba01036dcb6de5c44c7c6f1a57ba1cff639db683f79806c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/64346/Port_Washington__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "64346",
+  "timestamp": "2026-05-25T00:05:08.021197Z",
+  "version": 1
+}

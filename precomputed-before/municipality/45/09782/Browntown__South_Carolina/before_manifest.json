@@ -1,0 +1,16 @@
+{
+  "article": "Browntown,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/09782/Browntown__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bf419e8915aef79eae87a2e8096019bf9f6f1766d22b5e884863af0b4bf39d5e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bf419e8915aef79eae87a2e8096019bf9f6f1766d22b5e884863af0b4bf39d5e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/09782/Browntown__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "09782",
+  "timestamp": "2026-05-25T00:09:41.150445Z",
+  "version": 1
+}

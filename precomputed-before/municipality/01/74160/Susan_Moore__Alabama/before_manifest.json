@@ -1,0 +1,16 @@
+{
+  "article": "Susan_Moore,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/74160/Susan_Moore__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c499a2d8b472c32c8b32eda0fb205a34f5ac92fc6c202b6c66291ee564e2e7b4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c499a2d8b472c32c8b32eda0fb205a34f5ac92fc6c202b6c66291ee564e2e7b4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/74160/Susan_Moore__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "74160",
+  "timestamp": "2026-05-24T23:32:13.703103Z",
+  "version": 1
+}

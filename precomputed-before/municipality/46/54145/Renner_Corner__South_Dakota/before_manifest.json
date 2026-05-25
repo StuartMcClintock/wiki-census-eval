@@ -1,0 +1,16 @@
+{
+  "article": "Renner_Corner,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/54145/Renner_Corner__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1c27a6de9a8c20249e1748a27125524f25ad04050f2dbe3b1aafd2d6743168cf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1c27a6de9a8c20249e1748a27125524f25ad04050f2dbe3b1aafd2d6743168cf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/54145/Renner_Corner__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "54145",
+  "timestamp": "2026-05-25T00:12:44.956136Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Port_Elizabeth,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/60240/Port_Elizabeth__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5cdb7ab71337e1fdfb2bc326525e8e61855237134334b07afbfd361121c0e618",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5cdb7ab71337e1fdfb2bc326525e8e61855237134334b07afbfd361121c0e618",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/60240/Port_Elizabeth__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "60240",
+  "timestamp": "2026-05-24T23:57:58.681396Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Powhatan,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/62245/Powhatan__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "16506df9a84f15cabec5c9295683c779a81a327ae567f6df2323f9583ac8d62c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "16506df9a84f15cabec5c9295683c779a81a327ae567f6df2323f9583ac8d62c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/62245/Powhatan__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "62245",
+  "timestamp": "2026-05-24T23:45:05.818963Z",
+  "version": 1
+}

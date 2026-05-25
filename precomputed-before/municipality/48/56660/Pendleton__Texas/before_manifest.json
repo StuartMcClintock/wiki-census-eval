@@ -1,0 +1,16 @@
+{
+  "article": "Pendleton,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/56660/Pendleton__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ed0f2dbed7800a3364f6b9a66c220bd3fd14502a7f44383fa82cf1c67d9207f2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ed0f2dbed7800a3364f6b9a66c220bd3fd14502a7f44383fa82cf1c67d9207f2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/56660/Pendleton__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "56660",
+  "timestamp": "2026-05-25T00:16:10.836525Z",
+  "version": 1
+}

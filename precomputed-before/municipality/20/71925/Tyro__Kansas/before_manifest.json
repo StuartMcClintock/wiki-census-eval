@@ -1,0 +1,16 @@
+{
+  "article": "Tyro,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/71925/Tyro__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1478c4997961d01434a6c2b761cd31ffd883235b0027c118ca88a665d5d84e78",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1478c4997961d01434a6c2b761cd31ffd883235b0027c118ca88a665d5d84e78",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/71925/Tyro__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "71925",
+  "timestamp": "2026-05-24T23:43:33.454440Z",
+  "version": 1
+}

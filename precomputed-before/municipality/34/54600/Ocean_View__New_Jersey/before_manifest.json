@@ -1,0 +1,16 @@
+{
+  "article": "Ocean_View,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/54600/Ocean_View__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fa0b4c5a9b0ae626a537ecaac24c58ac8f7a8063c2f1a549304afae56fe43d63",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fa0b4c5a9b0ae626a537ecaac24c58ac8f7a8063c2f1a549304afae56fe43d63",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/54600/Ocean_View__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "54600",
+  "timestamp": "2026-05-24T23:57:57.247369Z",
+  "version": 1
+}

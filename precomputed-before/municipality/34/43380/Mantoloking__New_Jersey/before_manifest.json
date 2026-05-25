@@ -1,0 +1,16 @@
+{
+  "article": "Mantoloking,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/43380/Mantoloking__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4c28518e2b304bb9cb051814aeb1cda015f48f3875f28a8efff440207203e5ed",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4c28518e2b304bb9cb051814aeb1cda015f48f3875f28a8efff440207203e5ed",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/43380/Mantoloking__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "43380",
+  "timestamp": "2026-05-24T23:57:54.575605Z",
+  "version": 1
+}

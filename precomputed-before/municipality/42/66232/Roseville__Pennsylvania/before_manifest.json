@@ -1,0 +1,16 @@
+{
+  "article": "Roseville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/66232/Roseville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d0a9f2d869c140ea8da30030e4374f1f54c973cd5cc5d24c58f6463435dea0b8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d0a9f2d869c140ea8da30030e4374f1f54c973cd5cc5d24c58f6463435dea0b8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/66232/Roseville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "66232",
+  "timestamp": "2026-05-25T00:08:52.940900Z",
+  "version": 1
+}

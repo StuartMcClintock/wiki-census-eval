@@ -1,0 +1,16 @@
+{
+  "article": "Little_Round_Lake,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/45220/Little_Round_Lake__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "15f4dd4362f941d0d9c98ae06a9263d5dc40d0b1575cbc98380f9c756e2cc46b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "15f4dd4362f941d0d9c98ae06a9263d5dc40d0b1575cbc98380f9c756e2cc46b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/45220/Little_Round_Lake__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "45220",
+  "timestamp": "2026-05-25T00:22:20.548488Z",
+  "version": 1
+}

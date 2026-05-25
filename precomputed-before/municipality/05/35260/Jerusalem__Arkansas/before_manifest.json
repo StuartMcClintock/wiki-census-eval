@@ -1,0 +1,16 @@
+{
+  "article": "Jerusalem,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/35260/Jerusalem__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7043c547f973e009c3a9ad2d2b5ddf2b0a10d2a911a261b4c2e3a28fcdb1f07e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7043c547f973e009c3a9ad2d2b5ddf2b0a10d2a911a261b4c2e3a28fcdb1f07e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/35260/Jerusalem__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "35260",
+  "timestamp": "2026-05-24T23:33:48.502184Z",
+  "version": 1
+}

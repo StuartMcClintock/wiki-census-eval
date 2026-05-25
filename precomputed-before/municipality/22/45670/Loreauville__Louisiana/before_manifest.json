@@ -1,0 +1,16 @@
+{
+  "article": "Loreauville,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/45670/Loreauville__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "37175fe872fd8e9dd21cd2e5ec86f4bdbfed4e0ff685c1824c652fc6b4d9e91f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "37175fe872fd8e9dd21cd2e5ec86f4bdbfed4e0ff685c1824c652fc6b4d9e91f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/45670/Loreauville__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "45670",
+  "timestamp": "2026-05-24T23:44:54.832279Z",
+  "version": 1
+}

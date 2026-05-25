@@ -1,0 +1,16 @@
+{
+  "article": "Ewen,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/26820/Ewen__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5207fc9126b6e320e2aee5012a6c5259b5d7a73285646fd8992be99b7cc10165",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5207fc9126b6e320e2aee5012a6c5259b5d7a73285646fd8992be99b7cc10165",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/26820/Ewen__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "26820",
+  "timestamp": "2026-05-24T23:47:54.401155Z",
+  "version": 1
+}

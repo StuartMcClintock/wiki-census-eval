@@ -1,0 +1,16 @@
+{
+  "article": "Casco,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/12850/Casco__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c65c371a9857372287a5f18aaac1da1b6dc59756b4f41c8e22b559ca64da137c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c65c371a9857372287a5f18aaac1da1b6dc59756b4f41c8e22b559ca64da137c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/12850/Casco__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "12850",
+  "timestamp": "2026-05-25T00:21:41.106700Z",
+  "version": 1
+}

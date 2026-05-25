@@ -1,0 +1,16 @@
+{
+  "article": "Rauchtown,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/63496/Rauchtown__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0d5bd8815df44488cf50c915b8c2770197bdeaf9615800ae4d051331081e63cc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0d5bd8815df44488cf50c915b8c2770197bdeaf9615800ae4d051331081e63cc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/63496/Rauchtown__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "63496",
+  "timestamp": "2026-05-25T00:08:35.770944Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Roseland,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/68490/Roseland__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e66c671e9c18c2b530c70ab09b57dc131b6248318a401a018e7a8bf8a3da1da6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e66c671e9c18c2b530c70ab09b57dc131b6248318a401a018e7a8bf8a3da1da6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/68490/Roseland__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "68490",
+  "timestamp": "2026-05-25T00:05:12.678767Z",
+  "version": 1
+}

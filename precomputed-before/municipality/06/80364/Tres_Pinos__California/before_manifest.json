@@ -1,0 +1,16 @@
+{
+  "article": "Tres_Pinos,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/80364/Tres_Pinos__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f9e0e37c4ddf0a10033dcbd2f864c19d90a5feb4aa8757ca896ee40da3ca0401",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f9e0e37c4ddf0a10033dcbd2f864c19d90a5feb4aa8757ca896ee40da3ca0401",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/80364/Tres_Pinos__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "80364",
+  "timestamp": "2026-05-24T23:35:10.532791Z",
+  "version": 1
+}

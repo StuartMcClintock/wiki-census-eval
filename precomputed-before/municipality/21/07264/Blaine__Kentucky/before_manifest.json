@@ -1,0 +1,16 @@
+{
+  "article": "Blaine,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/07264/Blaine__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6eb3f3079e128351b146451c4bb9ab0a5ee6471326d9fcb5c6bed4863df2c7f1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6eb3f3079e128351b146451c4bb9ab0a5ee6471326d9fcb5c6bed4863df2c7f1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/07264/Blaine__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "07264",
+  "timestamp": "2026-05-24T23:43:43.583284Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Bridgeport,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/07570/Bridgeport__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6aafcc1b7ae3cedc67b67ecef001a86557edf9c9c558897aa8beb208499b953a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6aafcc1b7ae3cedc67b67ecef001a86557edf9c9c558897aa8beb208499b953a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/07570/Bridgeport__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "07570",
+  "timestamp": "2026-05-24T23:57:41.432587Z",
+  "version": 1
+}

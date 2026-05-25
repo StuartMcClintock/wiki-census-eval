@@ -1,0 +1,16 @@
+{
+  "article": "Port_Byron,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/59212/Port_Byron__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b7f8dc19384a4b579fd32b42076ff91ead5e0f20beae85e7c6b84d5ace29a6df",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b7f8dc19384a4b579fd32b42076ff91ead5e0f20beae85e7c6b84d5ace29a6df",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/59212/Port_Byron__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "59212",
+  "timestamp": "2026-05-25T00:01:05.108108Z",
+  "version": 1
+}

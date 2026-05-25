@@ -1,0 +1,16 @@
+{
+  "article": "Waverly_Hall,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/80844/Waverly_Hall__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a5483e3179f7a1adba2d4aa50a57976a0ddfddad9092e9938a87806f0de273e0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a5483e3179f7a1adba2d4aa50a57976a0ddfddad9092e9938a87806f0de273e0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/80844/Waverly_Hall__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "80844",
+  "timestamp": "2026-05-24T23:37:11.726626Z",
+  "version": 1
+}

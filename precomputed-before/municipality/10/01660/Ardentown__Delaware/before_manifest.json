@@ -1,0 +1,16 @@
+{
+  "article": "Ardentown,_Delaware",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/10/01660/Ardentown__Delaware/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ad900c1068998404da0926424627cf6d118ad4658bfcc73095d03bd15773f993",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ad900c1068998404da0926424627cf6d118ad4658bfcc73095d03bd15773f993",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/10/01660/Ardentown__Delaware/manifest.json",
+  "state_fips": "10",
+  "status": "match",
+  "target_fips": "01660",
+  "timestamp": "2026-05-24T23:36:03.267177Z",
+  "version": 1
+}

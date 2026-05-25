@@ -1,0 +1,16 @@
+{
+  "article": "Rantoul,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/58525/Rantoul__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "19e71a534163b42efeefa116376203ff6dfa3b50f33a93400730bed26a0e5a93",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "19e71a534163b42efeefa116376203ff6dfa3b50f33a93400730bed26a0e5a93",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/58525/Rantoul__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "58525",
+  "timestamp": "2026-05-24T23:43:23.594967Z",
+  "version": 1
+}

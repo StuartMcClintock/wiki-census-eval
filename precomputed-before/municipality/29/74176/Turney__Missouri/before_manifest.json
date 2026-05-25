@@ -1,0 +1,16 @@
+{
+  "article": "Turney,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/74176/Turney__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ca71041233ae9f6ca105a0b10925adbbc6d388ddcfe601b8f244e72475cdff91",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ca71041233ae9f6ca105a0b10925adbbc6d388ddcfe601b8f244e72475cdff91",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/74176/Turney__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "74176",
+  "timestamp": "2026-05-24T23:53:54.525966Z",
+  "version": 1
+}

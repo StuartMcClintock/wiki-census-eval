@@ -1,0 +1,16 @@
+{
+  "article": "Long_Grove,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/46425/Long_Grove__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e0b24fbf3f9ac2fec05ffd760e2c9b050d3c6a0e017eb5873bc477b0eb0503b6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e0b24fbf3f9ac2fec05ffd760e2c9b050d3c6a0e017eb5873bc477b0eb0503b6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/46425/Long_Grove__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "46425",
+  "timestamp": "2026-05-24T23:41:21.599478Z",
+  "version": 1
+}

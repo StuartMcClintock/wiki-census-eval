@@ -1,0 +1,16 @@
+{
+  "article": "Mauricetown,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/44670/Mauricetown__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ad28bf7e20715356c99adb0aa9ea9845cb234cc25371cde6b59cc776d5a5f9ba",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ad28bf7e20715356c99adb0aa9ea9845cb234cc25371cde6b59cc776d5a5f9ba",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/44670/Mauricetown__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "44670",
+  "timestamp": "2026-05-24T23:57:54.943893Z",
+  "version": 1
+}

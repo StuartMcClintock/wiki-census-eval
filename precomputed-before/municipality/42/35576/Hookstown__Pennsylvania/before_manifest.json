@@ -1,0 +1,16 @@
+{
+  "article": "Hookstown,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/35576/Hookstown__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e43b7b7f78a8724ee808c91f56a85fb119d5b3264153ceb4cc9f80d5817b2ed0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e43b7b7f78a8724ee808c91f56a85fb119d5b3264153ceb4cc9f80d5817b2ed0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/35576/Hookstown__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "35576",
+  "timestamp": "2026-05-25T00:07:27.189153Z",
+  "version": 1
+}

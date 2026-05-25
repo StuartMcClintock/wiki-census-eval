@@ -1,0 +1,16 @@
+{
+  "article": "Pomona_Park,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/58025/Pomona_Park__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "43806e4dd0e1aa2bb59092a3a7a1e9173ef15dfeb5bb39e4fcd60cac51ef37f2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "43806e4dd0e1aa2bb59092a3a7a1e9173ef15dfeb5bb39e4fcd60cac51ef37f2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/58025/Pomona_Park__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "58025",
+  "timestamp": "2026-05-24T23:36:21.380735Z",
+  "version": 1
+}

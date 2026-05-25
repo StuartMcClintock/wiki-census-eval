@@ -1,0 +1,16 @@
+{
+  "article": "Fincastle,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/27824/Fincastle__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a5fbe1674e4aa97dfbe68c0d6d391d07275e70e13afdeebfa7f8071f48610355",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a5fbe1674e4aa97dfbe68c0d6d391d07275e70e13afdeebfa7f8071f48610355",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/27824/Fincastle__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "27824",
+  "timestamp": "2026-05-25T00:19:13.217042Z",
+  "version": 1
+}

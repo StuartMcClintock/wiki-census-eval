@@ -1,0 +1,103 @@
+==Demographics==
+{{US Census population
+| 1910 = 383
+| 1920 = 530
+| 1930 = 491
+| 1940 = 512
+| 1950 = 474
+| 1960 = 476
+| 1970 = 449
+| 1980 = 471
+| 1990 = 536
+| 2000 = 634
+| 2010 = 565
+| 2020 = 506
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census/decade.html|title=Decennial Census of Population and Housing by Decade|publisher=[[US Census Bureau]]|access-date=}}</ref><br> 1850-1870<ref name=1870CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1870 Census of Population - Georgia - Population of Civil Divisions less than Counties |website=[[US Census Bureau]]|date= 1870|url=https://www2.census.gov/library/publications/decennial/1870/population/1870a-13.pdf |accessdate=|page=}}</ref> 1870-1880<ref name=1880CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1880 Census of Population - Georgia - Population of Civil Divisions less than Counties |website=[[US Census Bureau]]|date= 1880|url=https://www2.census.gov/library/publications/decennial/1880/vol-01-population/1880_v1-09.pdf |accessdate=|page=}}</ref><br> 1890-1910<ref name=1910CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1910 Census of Population - Georgia  |website=[[US Census Bureau]]|date= 1930|url=https://www2.census.gov/library/publications/decennial/1910/abstract/supplement-ga.pdf |accessdate=|page=}}</ref> 1920-1930<ref name=1930CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1930 Census of Population - Georgia  |website=[[US Census Bureau]]|date= 1930|url=https://www2.census.gov/prod2/decennial/documents/03815512v1ch04.pdf |accessdate=|pages=251–256}}</ref><br> 1940<ref name=1940CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1940 Census of Population - Georgia  |website=[[US Census Bureau]]|date= 1940|url=https://www2.census.gov/library/publications/decennial/1940/population-volume-1/33973538v1ch04.pdf |accessdate=}}</ref> 1950<ref name=1950CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1950 Census of Population - Georgia |website=[[US Census Bureau]]|date= 1980|url=https://www2.census.gov/library/publications/decennial/1950/population-volume-2/37779083v2p11ch2.pdf |accessdate=}}</ref> 1960<ref name=1960CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1960 Census of Population - Population of County Subdivisions - Georgia  |website=[[US Census Bureau]]|date= 1960|url=https://www2.census.gov/library/publications/decennial/1960/population-volume-1/vol-01-12-c.pdf|accessdate=}}</ref><br> 1970<ref name=1970CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1970 Census of Population - Population of County Subdivisions - Georgia  |website=[[US Census Bureau]]|date= 1970|url=https://www2.census.gov/prod2/decennial/documents/1970a_ga-01.pdf|accessdate=}}</ref> 1980<ref name=1980CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1980 Census of Population - Number of Inhabitants - Georgia  |website=[[US Census Bureau]]|date= 1980|url=https://www2.census.gov/prod2/decennial/documents/1980a_gaABC-01.pdf|accessdate=}}</ref> 1990<ref name=1990CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1990 Census of Population - Summary Social, Economic, and Housing Characteristics - Georgia |website=[[US Census Bureau]]|date= 1990|url=https://www2.census.gov/library/publications/decennial/1990/cph-5/cph-5-12.pdf|accessdate=}}</ref><br> 2000<ref name=2000CensusGA>{{Cite web|first= |last= |authorlink=   |title= 2000 Census of Population - General Population Characteristics - Georgia  |website=[[US Census Bureau]]|date= 2000|url=https://www2.census.gov/library/publications/2003/dec/phc-3-12.pdf |accessdate=}}</ref> 2010<ref name=2010CensusP2/> 2020<ref name=2020CensusP2/>
+}}
+
+===2020 census===
+{| class="wikitable" style="text-align:center;"
+|+'''Morven, Georgia – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004 Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Morven city, Georgia|url=https://data.census.gov/table/DECENNIALSF12000.P004?g=160XX00US1353032|website=[[United States Census Bureau]]}}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2 Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Morven city, Georgia|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US1353032&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]]}}</ref>
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web|title=P2 Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Morven city, Georgia|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US1353032&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]]}}</ref>
+!% 2000
+!% 2010
+!{{partial|2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|256
+|189
+|style='background: #ffffe6; |192
+|40.38%
+|33.45%
+|style='background: #ffffe6; |37.94%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|330
+|321
+|style='background: #ffffe6; |249
+|52.05%
+|56.81%
+|style='background: #ffffe6; |49.21%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|1
+|1
+|style='background: #ffffe6; |0
+|0.16%
+|0.18%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |2
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.40%
+|-
+|[[Native Hawaiian]] or [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|1
+|style='background: #ffffe6; |0
+|0.00%
+|0.18%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|0
+|5
+|style='background: #ffffe6; |16
+|0.00%
+|0.88%
+|style='background: #ffffe6; |3.16%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|47
+|48
+|style='background: #ffffe6; |47
+|7.41%
+|8.50%
+|style='background: #ffffe6; |9.29%
+|-
+|'''Total'''
+|'''634'''
+|'''565'''
+|style='background: #ffffe6; |'''506'''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+In 2000, there were 634 people, 225 households, and 152 families residing in the city.<ref name="GR2" /> By 2020, its population declined to 506.
+

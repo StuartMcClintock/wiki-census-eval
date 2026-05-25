@@ -1,0 +1,16 @@
+{
+  "article": "North_Topsail_Beach,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/47845/North_Topsail_Beach__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0ff60ae0abec728f9107eb1389408373deabe37b0db47f680e05dc6c736c6871",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0ff60ae0abec728f9107eb1389408373deabe37b0db47f680e05dc6c736c6871",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/47845/North_Topsail_Beach__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "47845",
+  "timestamp": "2026-05-25T00:02:13.881370Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Qulin,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/60428/Qulin__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c38a2771fb02e18d730df18b897207f1a6d564392cf8a2ad685d565039ca22be",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c38a2771fb02e18d730df18b897207f1a6d564392cf8a2ad685d565039ca22be",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/60428/Qulin__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "60428",
+  "timestamp": "2026-05-24T23:53:44.702999Z",
+  "version": 1
+}

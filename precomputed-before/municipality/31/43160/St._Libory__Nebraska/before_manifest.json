@@ -1,0 +1,16 @@
+{
+  "article": "St._Libory,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/43160/St._Libory__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f89f1c6b728ff2285f94abeb28fea6ea559cc358fa5d4484f2d3bc9ec102f8db",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f89f1c6b728ff2285f94abeb28fea6ea559cc358fa5d4484f2d3bc9ec102f8db",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/43160/St._Libory__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "43160",
+  "timestamp": "2026-05-24T23:57:14.828376Z",
+  "version": 1
+}

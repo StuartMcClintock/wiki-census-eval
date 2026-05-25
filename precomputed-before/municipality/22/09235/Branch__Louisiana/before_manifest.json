@@ -1,0 +1,16 @@
+{
+  "article": "Branch,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/09235/Branch__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fb0675a64ef1b16a1fa0f91501a55609f480769aadd485c7041c32ea14daeab2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fb0675a64ef1b16a1fa0f91501a55609f480769aadd485c7041c32ea14daeab2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/09235/Branch__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "09235",
+  "timestamp": "2026-05-24T23:44:29.969236Z",
+  "version": 1
+}

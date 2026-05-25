@@ -1,0 +1,16 @@
+{
+  "article": "Wilkinson_Heights,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/77672/Wilkinson_Heights__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "927e97b8fc287f846384968a180b9fcd71840e3f2ac87540754523ce35b58c0d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "927e97b8fc287f846384968a180b9fcd71840e3f2ac87540754523ce35b58c0d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/77672/Wilkinson_Heights__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "77672",
+  "timestamp": "2026-05-25T00:10:27.706944Z",
+  "version": 1
+}

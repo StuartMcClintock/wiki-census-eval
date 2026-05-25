@@ -1,0 +1,16 @@
+{
+  "article": "Braxton,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/08460/Braxton__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2d3727a1277282ca1d8ccd61786f6486fa3c03169623aed8ce8b5f7c3f497e1c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2d3727a1277282ca1d8ccd61786f6486fa3c03169623aed8ce8b5f7c3f497e1c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/08460/Braxton__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "08460",
+  "timestamp": "2026-05-24T23:50:04.036285Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Palo_Alto,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/57752/Palo_Alto__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "099e3a23278607630fadf4241b33010c797583f7ac3befe2f6cb72f407ec1476",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "099e3a23278607630fadf4241b33010c797583f7ac3befe2f6cb72f407ec1476",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/57752/Palo_Alto__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "57752",
+  "timestamp": "2026-05-25T00:08:25.468297Z",
+  "version": 1
+}

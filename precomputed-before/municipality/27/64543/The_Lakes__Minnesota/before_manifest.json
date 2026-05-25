@@ -1,0 +1,16 @@
+{
+  "article": "The_Lakes,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/64543/The_Lakes__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2511c1557b3e9c2736342d89556cf8aabf7e275da2a5f07bfab582d00d6d131b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2511c1557b3e9c2736342d89556cf8aabf7e275da2a5f07bfab582d00d6d131b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/64543/The_Lakes__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "64543",
+  "timestamp": "2026-05-24T23:49:48.651278Z",
+  "version": 1
+}

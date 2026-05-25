@@ -1,0 +1,16 @@
+{
+  "article": "New_Hampton,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/51860/New_Hampton__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c63e81eee3cbf5c59999cdc70a6748ca07f139787e5106821b26e0c5f9a1b630",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c63e81eee3cbf5c59999cdc70a6748ca07f139787e5106821b26e0c5f9a1b630",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/51860/New_Hampton__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "51860",
+  "timestamp": "2026-05-24T23:53:36.009494Z",
+  "version": 1
+}

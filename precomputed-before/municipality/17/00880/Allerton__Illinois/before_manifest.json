@@ -1,0 +1,16 @@
+{
+  "article": "Allerton,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/00880/Allerton__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "be43630b66ba252226d9758cdfe861504449e8de2f5ef80c5068789e1d77db25",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "be43630b66ba252226d9758cdfe861504449e8de2f5ef80c5068789e1d77db25",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/00880/Allerton__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "00880",
+  "timestamp": "2026-05-24T23:37:32.176536Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Bruce,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/10500/Bruce__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "96e17e607f7c5dc1f6ae92adf2d54359f1234b5dd7275ae6706b2259e36385c1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "96e17e607f7c5dc1f6ae92adf2d54359f1234b5dd7275ae6706b2259e36385c1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/10500/Bruce__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "10500",
+  "timestamp": "2026-05-25T00:21:39.637346Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Gilman,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/23804/Gilman__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b0485fe854abb4e3a349103426d53cf69125a877d9089f6309b56b27b833b56a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b0485fe854abb4e3a349103426d53cf69125a877d9089f6309b56b27b833b56a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/23804/Gilman__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "23804",
+  "timestamp": "2026-05-24T23:49:02.594803Z",
+  "version": 1
+}

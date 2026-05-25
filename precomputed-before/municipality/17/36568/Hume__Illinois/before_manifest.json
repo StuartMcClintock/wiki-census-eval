@@ -1,0 +1,16 @@
+{
+  "article": "Hume,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/36568/Hume__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9a11139d2355213e01e8a2bdbf543e70eb9f0689693f4ed3b8a52d7cae2387d6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9a11139d2355213e01e8a2bdbf543e70eb9f0689693f4ed3b8a52d7cae2387d6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/36568/Hume__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "36568",
+  "timestamp": "2026-05-24T23:38:21.763472Z",
+  "version": 1
+}

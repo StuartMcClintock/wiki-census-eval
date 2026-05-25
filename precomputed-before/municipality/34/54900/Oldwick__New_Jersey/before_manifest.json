@@ -1,0 +1,16 @@
+{
+  "article": "Oldwick,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/54900/Oldwick__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7209ab6ff7dd04e4306098c996995513f387b40b9a46236f2a2d3803cf36abef",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7209ab6ff7dd04e4306098c996995513f387b40b9a46236f2a2d3803cf36abef",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/54900/Oldwick__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "54900",
+  "timestamp": "2026-05-24T23:57:57.526231Z",
+  "version": 1
+}

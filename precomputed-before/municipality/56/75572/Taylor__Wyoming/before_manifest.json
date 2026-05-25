@@ -1,0 +1,16 @@
+{
+  "article": "Taylor,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/75572/Taylor__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b16ed6582d602fc05e41fb9f99e2b1108da13db888d662a7b83956ef037ae012",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b16ed6582d602fc05e41fb9f99e2b1108da13db888d662a7b83956ef037ae012",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/75572/Taylor__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "75572",
+  "timestamp": "2026-05-25T00:23:24.372669Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Swarthmore,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/75648/Swarthmore__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ebb0a073040494fa74b3b46eba80100e535962814662d8204eb2ee19012d75e9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ebb0a073040494fa74b3b46eba80100e535962814662d8204eb2ee19012d75e9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/75648/Swarthmore__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "75648",
+  "timestamp": "2026-05-25T00:09:14.246508Z",
+  "version": 1
+}

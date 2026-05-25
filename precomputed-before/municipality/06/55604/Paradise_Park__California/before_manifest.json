@@ -1,0 +1,16 @@
+{
+  "article": "Paradise_Park,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/55604/Paradise_Park__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a5e177370e3d10f8c739c65ea4280856c67d41eb4975900173e4b6d5dddc4a37",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a5e177370e3d10f8c739c65ea4280856c67d41eb4975900173e4b6d5dddc4a37",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/55604/Paradise_Park__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "55604",
+  "timestamp": "2026-05-24T23:34:45.144277Z",
+  "version": 1
+}

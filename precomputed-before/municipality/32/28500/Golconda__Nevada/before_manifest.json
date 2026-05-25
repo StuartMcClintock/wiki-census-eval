@@ -1,0 +1,16 @@
+{
+  "article": "Golconda,_Nevada",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/32/28500/Golconda__Nevada/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "07a8da78a203ddc6ef540f84f2c844dbc57a03cfd45ccd23899c8a832449360c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "07a8da78a203ddc6ef540f84f2c844dbc57a03cfd45ccd23899c8a832449360c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/32/28500/Golconda__Nevada/manifest.json",
+  "state_fips": "32",
+  "status": "match",
+  "target_fips": "28500",
+  "timestamp": "2026-05-24T23:57:29.658353Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Gasport,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/28431/Gasport__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6b2e5f199f9b079b019622d4c93cb42d4ee9555a9b50471123c5e0fb48e2b202",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6b2e5f199f9b079b019622d4c93cb42d4ee9555a9b50471123c5e0fb48e2b202",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/28431/Gasport__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "28431",
+  "timestamp": "2026-05-25T00:00:44.376118Z",
+  "version": 1
+}

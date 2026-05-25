@@ -1,0 +1,16 @@
+{
+  "article": "Ellsworth,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/23525/Ellsworth__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4b8cd655ba987cb658bde4fb7b285dd141214b736b05c183595009ca686753c1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4b8cd655ba987cb658bde4fb7b285dd141214b736b05c183595009ca686753c1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/23525/Ellsworth__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "23525",
+  "timestamp": "2026-05-25T00:22:04.322239Z",
+  "version": 1
+}

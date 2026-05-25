@@ -1,0 +1,16 @@
+{
+  "article": "Wheatland,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/84945/Wheatland__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e8fbb7494f05479bbc8549fd1d7758a2577971777290aed8387b96917b34db01",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e8fbb7494f05479bbc8549fd1d7758a2577971777290aed8387b96917b34db01",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/84945/Wheatland__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "84945",
+  "timestamp": "2026-05-24T23:42:12.371382Z",
+  "version": 1
+}

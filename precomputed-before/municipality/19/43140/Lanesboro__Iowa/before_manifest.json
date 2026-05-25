@@ -1,0 +1,16 @@
+{
+  "article": "Lanesboro,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/43140/Lanesboro__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6e80c46c57c0013eece76c77858cbd2b58165585fd66fef45ac4a09c95f67a9c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6e80c46c57c0013eece76c77858cbd2b58165585fd66fef45ac4a09c95f67a9c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/43140/Lanesboro__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "43140",
+  "timestamp": "2026-05-24T23:41:17.757380Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Floriston,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/24526/Floriston__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "33424d7212b1db933e69d6d3d5c4c3c6ee7695f46370287ec212c97fff016f15",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "33424d7212b1db933e69d6d3d5c4c3c6ee7695f46370287ec212c97fff016f15",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/24526/Floriston__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "24526",
+  "timestamp": "2026-05-24T23:34:23.167064Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Farmingdale,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/22950/Farmingdale__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ea9ce40f3d7433b9718e8fc6cd5b6e17666c3efff1e65e599eaddc6e26b20317",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ea9ce40f3d7433b9718e8fc6cd5b6e17666c3efff1e65e599eaddc6e26b20317",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/22950/Farmingdale__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "22950",
+  "timestamp": "2026-05-24T23:57:47.488039Z",
+  "version": 1
+}

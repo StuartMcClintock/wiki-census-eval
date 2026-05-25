@@ -1,0 +1,16 @@
+{
+  "article": "Ogden,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/55275/Ogden__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4d02052b241623b3ace2358cbf3f3878e36aab76f47d654b983a5d44e75b9180",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4d02052b241623b3ace2358cbf3f3878e36aab76f47d654b983a5d44e75b9180",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/55275/Ogden__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "55275",
+  "timestamp": "2026-05-24T23:38:42.597071Z",
+  "version": 1
+}

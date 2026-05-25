@@ -1,0 +1,16 @@
+{
+  "article": "Sylvania,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/75944/Sylvania__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "32b6e911e621de6ccaf1ad3c19ccd9a65e28c77b3029ab62fda60fbae3d99469",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "32b6e911e621de6ccaf1ad3c19ccd9a65e28c77b3029ab62fda60fbae3d99469",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/75944/Sylvania__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "75944",
+  "timestamp": "2026-05-25T00:09:15.123222Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Ophiem,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/56211/Ophiem__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aaefa6ead5e835d9a44ada00503fa2e2ad173aa9db41498fc68b72e63e8840a4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aaefa6ead5e835d9a44ada00503fa2e2ad173aa9db41498fc68b72e63e8840a4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/56211/Ophiem__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "56211",
+  "timestamp": "2026-05-24T23:38:54.943628Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Asherville,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/02600/Asherville__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "69f95f7127ab84e4e05b525aa6b1df8baa1e14c56e15034b389cfc6f5cbe6a6e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "69f95f7127ab84e4e05b525aa6b1df8baa1e14c56e15034b389cfc6f5cbe6a6e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/02600/Asherville__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "02600",
+  "timestamp": "2026-05-24T23:42:17.541775Z",
+  "version": 1
+}

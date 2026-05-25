@@ -1,0 +1,16 @@
+{
+  "article": "Blockton,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/06985/Blockton__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4dd185274919fd1210501523a9c54234d22d846fcb4de6b6e99ddc358deead19",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4dd185274919fd1210501523a9c54234d22d846fcb4de6b6e99ddc358deead19",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/06985/Blockton__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "06985",
+  "timestamp": "2026-05-24T23:40:28.848905Z",
+  "version": 1
+}

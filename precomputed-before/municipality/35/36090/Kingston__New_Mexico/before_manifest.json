@@ -1,0 +1,16 @@
+{
+  "article": "Kingston,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/36090/Kingston__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d461c298841ce858e8b0f53838d6a76652d91581f222c56e22caaa69a3f5d3b5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d461c298841ce858e8b0f53838d6a76652d91581f222c56e22caaa69a3f5d3b5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/36090/Kingston__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "36090",
+  "timestamp": "2026-05-24T23:58:35.314686Z",
+  "version": 1
+}

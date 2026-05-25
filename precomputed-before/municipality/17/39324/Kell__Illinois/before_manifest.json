@@ -1,0 +1,16 @@
+{
+  "article": "Kell,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/39324/Kell__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "66235a8479d7cbb02f91c1501ca3cc6fb977d85722780257bd5aa19dfe4003e7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "66235a8479d7cbb02f91c1501ca3cc6fb977d85722780257bd5aa19dfe4003e7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/39324/Kell__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "39324",
+  "timestamp": "2026-05-24T23:38:25.762388Z",
+  "version": 1
+}

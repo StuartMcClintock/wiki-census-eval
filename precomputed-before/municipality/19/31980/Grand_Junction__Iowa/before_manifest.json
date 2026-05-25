@@ -1,0 +1,16 @@
+{
+  "article": "Grand_Junction,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/31980/Grand_Junction__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "adf3f073c3ec603eeee7a27dded9eb3fe6f70bdfb4e5a259d267681d48827391",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "adf3f073c3ec603eeee7a27dded9eb3fe6f70bdfb4e5a259d267681d48827391",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/31980/Grand_Junction__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "31980",
+  "timestamp": "2026-05-24T23:41:06.371283Z",
+  "version": 1
+}

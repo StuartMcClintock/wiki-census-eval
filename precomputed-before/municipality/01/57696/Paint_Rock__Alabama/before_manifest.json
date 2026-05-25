@@ -1,0 +1,16 @@
+{
+  "article": "Paint_Rock,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/57696/Paint_Rock__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b5cae02573b04df12dd60ed607fd7878dc0a1025064cc28f970541da9ad98fc9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b5cae02573b04df12dd60ed607fd7878dc0a1025064cc28f970541da9ad98fc9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/57696/Paint_Rock__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "57696",
+  "timestamp": "2026-05-24T23:32:07.782499Z",
+  "version": 1
+}

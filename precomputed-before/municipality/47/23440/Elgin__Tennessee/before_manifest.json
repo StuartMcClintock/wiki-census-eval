@@ -1,0 +1,16 @@
+{
+  "article": "Elgin,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/23440/Elgin__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "48c093b492594673343d5ac89d8a4db2e3a73c2d73f31ed4b41dfafea77883e5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "48c093b492594673343d5ac89d8a4db2e3a73c2d73f31ed4b41dfafea77883e5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/23440/Elgin__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "23440",
+  "timestamp": "2026-05-25T00:14:37.421302Z",
+  "version": 1
+}

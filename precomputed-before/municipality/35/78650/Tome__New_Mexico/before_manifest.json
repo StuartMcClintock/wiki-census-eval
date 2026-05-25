@@ -1,0 +1,16 @@
+{
+  "article": "Tome,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/78650/Tome__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "64707d35cdeb6fdfae4cff56cf263a7758f3c791b1b1d216b4b76fab7d9910ce",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "64707d35cdeb6fdfae4cff56cf263a7758f3c791b1b1d216b4b76fab7d9910ce",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/78650/Tome__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "78650",
+  "timestamp": "2026-05-24T23:59:09.302163Z",
+  "version": 1
+}

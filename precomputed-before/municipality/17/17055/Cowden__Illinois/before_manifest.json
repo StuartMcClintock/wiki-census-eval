@@ -1,0 +1,16 @@
+{
+  "article": "Cowden,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/17055/Cowden__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fba205996e35112e1f888c451e60b2803739a7fb69e47ad24887be3be386303d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fba205996e35112e1f888c451e60b2803739a7fb69e47ad24887be3be386303d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/17055/Cowden__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "17055",
+  "timestamp": "2026-05-24T23:38:03.421281Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Donalds,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/19870/Donalds__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3302191c7a1302e10a9825133819472f37b842361f78b056c637a6558d1f3e9c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3302191c7a1302e10a9825133819472f37b842361f78b056c637a6558d1f3e9c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/19870/Donalds__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "19870",
+  "timestamp": "2026-05-25T00:10:00.403389Z",
+  "version": 1
+}

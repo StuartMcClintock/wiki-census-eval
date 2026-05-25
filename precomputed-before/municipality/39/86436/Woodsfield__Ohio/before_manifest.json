@@ -1,0 +1,16 @@
+{
+  "article": "Woodsfield,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/86436/Woodsfield__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c99d627baa5c2aac8504a7548b5e35ad7183669dd52b3832021f3d5fa49635da",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c99d627baa5c2aac8504a7548b5e35ad7183669dd52b3832021f3d5fa49635da",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/86436/Woodsfield__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "86436",
+  "timestamp": "2026-05-25T00:05:40.927272Z",
+  "version": 1
+}

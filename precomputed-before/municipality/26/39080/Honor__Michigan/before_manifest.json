@@ -1,0 +1,16 @@
+{
+  "article": "Honor,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/39080/Honor__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6451cb69663fae32b9fc7185c28e326dc66ccb896391d5e5bc68d578ed82cddc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6451cb69663fae32b9fc7185c28e326dc66ccb896391d5e5bc68d578ed82cddc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/39080/Honor__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "39080",
+  "timestamp": "2026-05-24T23:47:59.102230Z",
+  "version": 1
+}

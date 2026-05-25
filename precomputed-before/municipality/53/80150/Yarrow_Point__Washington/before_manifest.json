@@ -1,0 +1,16 @@
+{
+  "article": "Yarrow_Point,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/80150/Yarrow_Point__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "720176feeec89b54018d265dbe748313b64f90edf6718da9beab54bcea47ec3a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "720176feeec89b54018d265dbe748313b64f90edf6718da9beab54bcea47ec3a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/80150/Yarrow_Point__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "80150",
+  "timestamp": "2026-05-25T00:20:39.906244Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Wise,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/87072/Wise__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b510bcc6d565917323b1d6f0e71c8fe408af86538aa9f220f62687246a737665",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b510bcc6d565917323b1d6f0e71c8fe408af86538aa9f220f62687246a737665",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/87072/Wise__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "87072",
+  "timestamp": "2026-05-25T00:19:45.362686Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Shell_Knob,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/67232/Shell_Knob__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ea0d3d90cab8d121fc4950f4aeff937db16273162e6df9904596506ba4b8da2b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ea0d3d90cab8d121fc4950f4aeff937db16273162e6df9904596506ba4b8da2b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/67232/Shell_Knob__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "67232",
+  "timestamp": "2026-05-24T23:53:49.427970Z",
+  "version": 1
+}

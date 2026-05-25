@@ -1,0 +1,16 @@
+{
+  "article": "Mason_Neck,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/49998/Mason_Neck__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "180015bf989358234a76c117f4d55508f93c17a41d1fe396ecc7564d8ada9608",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "180015bf989358234a76c117f4d55508f93c17a41d1fe396ecc7564d8ada9608",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/49998/Mason_Neck__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "49998",
+  "timestamp": "2026-05-25T00:19:24.576616Z",
+  "version": 1
+}

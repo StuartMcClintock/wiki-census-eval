@@ -1,0 +1,16 @@
+{
+  "article": "Bernice,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/07030/Bernice__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4a182ef12f5512a35880c2824f64a397b618d00bf4bb5b680038d621b9243cc7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4a182ef12f5512a35880c2824f64a397b618d00bf4bb5b680038d621b9243cc7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/07030/Bernice__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "07030",
+  "timestamp": "2026-05-24T23:44:29.254962Z",
+  "version": 1
+}

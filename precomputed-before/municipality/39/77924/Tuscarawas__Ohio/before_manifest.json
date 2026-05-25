@@ -1,0 +1,16 @@
+{
+  "article": "Tuscarawas,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/77924/Tuscarawas__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "79117831a1fecec4958eafb2edd7a45f20510d13e15fa2ebe0b129e8def7709c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "79117831a1fecec4958eafb2edd7a45f20510d13e15fa2ebe0b129e8def7709c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/77924/Tuscarawas__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "77924",
+  "timestamp": "2026-05-25T00:05:33.167204Z",
+  "version": 1
+}

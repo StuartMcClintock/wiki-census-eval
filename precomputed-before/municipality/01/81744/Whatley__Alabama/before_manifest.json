@@ -1,0 +1,16 @@
+{
+  "article": "Whatley,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/81744/Whatley__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0845da9d14ec58e0962d67f9f925fbb1143f576c3c166e35d3958b09f6774020",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0845da9d14ec58e0962d67f9f925fbb1143f576c3c166e35d3958b09f6774020",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/81744/Whatley__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "81744",
+  "timestamp": "2026-05-24T23:32:16.517613Z",
+  "version": 1
+}

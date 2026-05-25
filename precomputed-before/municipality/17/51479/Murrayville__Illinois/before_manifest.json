@@ -1,0 +1,16 @@
+{
+  "article": "Murrayville,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/51479/Murrayville__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bb1a241bd89ee685089f5c6cdd9e2a995bbc2fabdc4d757dee5278ceb651bb77",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bb1a241bd89ee685089f5c6cdd9e2a995bbc2fabdc4d757dee5278ceb651bb77",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/51479/Murrayville__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "51479",
+  "timestamp": "2026-05-24T23:38:38.146567Z",
+  "version": 1
+}

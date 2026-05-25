@@ -1,0 +1,16 @@
+{
+  "article": "Leon,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/46300/Leon__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e337074f8f294fcc7d85fa91a47f8142415bba8f4263a64fabf4571a93d5c27f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e337074f8f294fcc7d85fa91a47f8142415bba8f4263a64fabf4571a93d5c27f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/46300/Leon__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "46300",
+  "timestamp": "2026-05-25T00:21:14.720722Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Minneiska,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/43036/Minneiska__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fa21f541fe3b89338484d3d181577c0fba57075dd5cf1dc2ed708e1797279e2c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fa21f541fe3b89338484d3d181577c0fba57075dd5cf1dc2ed708e1797279e2c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/43036/Minneiska__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "43036",
+  "timestamp": "2026-05-24T23:49:21.513778Z",
+  "version": 1
+}

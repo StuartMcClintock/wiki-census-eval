@@ -1,0 +1,16 @@
+{
+  "article": "Hillcrest_Heights,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/30700/Hillcrest_Heights__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "987c7052cb9c9436bf1df262fb4516706c3dd633f2f069af2f7209c79c38f37f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "987c7052cb9c9436bf1df262fb4516706c3dd633f2f069af2f7209c79c38f37f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/30700/Hillcrest_Heights__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "30700",
+  "timestamp": "2026-05-24T23:36:14.044526Z",
+  "version": 1
+}

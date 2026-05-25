@@ -1,0 +1,16 @@
+{
+  "article": "Grand_Ronde,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/30300/Grand_Ronde__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4b7d40222b10b85b583456ac4a2945f8212a90f62b7908cc3b1daf542fc7b7b1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4b7d40222b10b85b583456ac4a2945f8212a90f62b7908cc3b1daf542fc7b7b1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/30300/Grand_Ronde__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "30300",
+  "timestamp": "2026-05-25T00:05:48.427509Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Martin's_Additions,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/50965/Martin_s_Additions__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1e3ff636665ac5ea58d4198774d734f055357f368c4144ec232e2d0c0984a925",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1e3ff636665ac5ea58d4198774d734f055357f368c4144ec232e2d0c0984a925",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/50965/Martin_s_Additions__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "50965",
+  "timestamp": "2026-05-24T23:47:27.131584Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Woodland,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/83102/Woodland__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ff4df84779c03baa553e1661bcc0fcbda264a311be32a9c31ad7fdf319c52f4a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ff4df84779c03baa553e1661bcc0fcbda264a311be32a9c31ad7fdf319c52f4a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/83102/Woodland__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "83102",
+  "timestamp": "2026-05-24T23:39:23.973855Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Las_Tusas,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/39792/Las_Tusas__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d41650c3af391cb2da2dc0b31fa4bad25bdc564e348d982c01e8ebe3998c4622",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d41650c3af391cb2da2dc0b31fa4bad25bdc564e348d982c01e8ebe3998c4622",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/39792/Las_Tusas__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "39792",
+  "timestamp": "2026-05-24T23:58:37.766843Z",
+  "version": 1
+}

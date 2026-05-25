@@ -1,0 +1,16 @@
+{
+  "article": "East_Point,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/22504/East_Point__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2f69e156c0f221a3f60bc526e7641db32e2029498f44e0e1fc383a65b60cee37",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2f69e156c0f221a3f60bc526e7641db32e2029498f44e0e1fc383a65b60cee37",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/22504/East_Point__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "22504",
+  "timestamp": "2026-05-24T23:31:54.027549Z",
+  "version": 1
+}

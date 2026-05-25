@@ -1,0 +1,16 @@
+{
+  "article": "Hollow_Rock,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/35280/Hollow_Rock__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cbe218ea2c6c925e0d1852abe59acc94c2357ce9e4a997e45ace3ab3e4e1c8c7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cbe218ea2c6c925e0d1852abe59acc94c2357ce9e4a997e45ace3ab3e4e1c8c7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/35280/Hollow_Rock__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "35280",
+  "timestamp": "2026-05-25T00:14:42.710870Z",
+  "version": 1
+}

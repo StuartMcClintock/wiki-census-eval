@@ -1,0 +1,16 @@
+{
+  "article": "Deep_Run,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/16720/Deep_Run__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "78e92cac2034b992b94e3cd4852723410da78d8b6931440150c6df54ed29e1c0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "78e92cac2034b992b94e3cd4852723410da78d8b6931440150c6df54ed29e1c0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/16720/Deep_Run__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "16720",
+  "timestamp": "2026-05-25T00:01:52.165172Z",
+  "version": 1
+}

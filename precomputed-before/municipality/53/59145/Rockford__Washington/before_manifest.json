@@ -1,0 +1,16 @@
+{
+  "article": "Rockford,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/59145/Rockford__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "13222c683e3ba0ce4daf689ec446dd2a1d55b8c152fa001a9e6d26c4e744eddf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "13222c683e3ba0ce4daf689ec446dd2a1d55b8c152fa001a9e6d26c4e744eddf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/59145/Rockford__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "59145",
+  "timestamp": "2026-05-25T00:20:30.284557Z",
+  "version": 1
+}

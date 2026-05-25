@@ -1,0 +1,16 @@
+{
+  "article": "Airport_Road_Addition,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/01514/Airport_Road_Addition__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f4bc2bcdf88c2ef59c670e983bee32c49219f68afa9c2df7ffa5885d46d4fd68",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f4bc2bcdf88c2ef59c670e983bee32c49219f68afa9c2df7ffa5885d46d4fd68",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/01514/Airport_Road_Addition__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "01514",
+  "timestamp": "2026-05-25T00:15:00.383045Z",
+  "version": 1
+}

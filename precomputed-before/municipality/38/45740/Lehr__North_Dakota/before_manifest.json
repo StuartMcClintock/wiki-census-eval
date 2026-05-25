@@ -1,0 +1,16 @@
+{
+  "article": "Lehr,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/45740/Lehr__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "df88b2db7a6e565d7cb58960ed5db720ad184378613e05217bb9402845d9fdb1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "df88b2db7a6e565d7cb58960ed5db720ad184378613e05217bb9402845d9fdb1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/45740/Lehr__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "45740",
+  "timestamp": "2026-05-25T00:03:08.411589Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Brecon,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/08378/Brecon__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "eb4e3256087f806325c55821126cc6511236e3ec90591235787fbaad36945d14",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "eb4e3256087f806325c55821126cc6511236e3ec90591235787fbaad36945d14",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/08378/Brecon__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "08378",
+  "timestamp": "2026-05-25T00:03:37.870511Z",
+  "version": 1
+}

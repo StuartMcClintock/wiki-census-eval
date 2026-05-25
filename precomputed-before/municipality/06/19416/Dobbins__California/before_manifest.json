@@ -1,0 +1,16 @@
+{
+  "article": "Dobbins,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/19416/Dobbins__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f8e1df6b5f83f77957c55f29eaea33de249b1d0bd79466755f19c6c0ec690fec",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f8e1df6b5f83f77957c55f29eaea33de249b1d0bd79466755f19c6c0ec690fec",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/19416/Dobbins__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "19416",
+  "timestamp": "2026-05-24T23:34:18.589024Z",
+  "version": 1
+}

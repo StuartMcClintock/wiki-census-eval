@@ -1,0 +1,16 @@
+{
+  "article": "Hoffman,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/35398/Hoffman__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f6465c2bf7b7cdd2bd577ae2a45df1ebe8d5c8f4f2f226ba01a6331441c6b34e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f6465c2bf7b7cdd2bd577ae2a45df1ebe8d5c8f4f2f226ba01a6331441c6b34e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/35398/Hoffman__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "35398",
+  "timestamp": "2026-05-24T23:38:20.452237Z",
+  "version": 1
+}

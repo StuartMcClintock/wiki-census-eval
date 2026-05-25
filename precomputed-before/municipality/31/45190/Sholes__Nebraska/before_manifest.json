@@ -1,0 +1,16 @@
+{
+  "article": "Sholes,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/45190/Sholes__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cd5efcfa18a9f7eb9cd7717970fe8238e4ed9c95cb544ddb1b95442cf944c295",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cd5efcfa18a9f7eb9cd7717970fe8238e4ed9c95cb544ddb1b95442cf944c295",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/45190/Sholes__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "45190",
+  "timestamp": "2026-05-24T23:57:16.176065Z",
+  "version": 1
+}

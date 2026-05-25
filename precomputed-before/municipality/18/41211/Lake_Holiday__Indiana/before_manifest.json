@@ -1,0 +1,16 @@
+{
+  "article": "Lake_Holiday,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/41211/Lake_Holiday__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d9d4bf0e264f4093f82ca023c99cf5013d1f9f2b065e8dc097e3df0c1e8b4934",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d9d4bf0e264f4093f82ca023c99cf5013d1f9f2b065e8dc097e3df0c1e8b4934",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/41211/Lake_Holiday__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "41211",
+  "timestamp": "2026-05-24T23:39:52.955627Z",
+  "version": 1
+}

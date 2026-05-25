@@ -1,0 +1,16 @@
+{
+  "article": "Bendon,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/07220/Bendon__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "88da90f834d9aba0a13dca4626e487564507b0ad5a1bcaac1a9e049748165e3d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "88da90f834d9aba0a13dca4626e487564507b0ad5a1bcaac1a9e049748165e3d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/07220/Bendon__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "07220",
+  "timestamp": "2026-05-24T23:47:43.468501Z",
+  "version": 1
+}

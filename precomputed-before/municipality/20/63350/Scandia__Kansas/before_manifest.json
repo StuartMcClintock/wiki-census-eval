@@ -1,0 +1,16 @@
+{
+  "article": "Scandia,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/63350/Scandia__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5f7dbbc5e1c6621d661cbc90c5f6f37e663c3e4925cbd5dc5f502a4e010a42a3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5f7dbbc5e1c6621d661cbc90c5f6f37e663c3e4925cbd5dc5f502a4e010a42a3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/63350/Scandia__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "63350",
+  "timestamp": "2026-05-24T23:43:27.492319Z",
+  "version": 1
+}

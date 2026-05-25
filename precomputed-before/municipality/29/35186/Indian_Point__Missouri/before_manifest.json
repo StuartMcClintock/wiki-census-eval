@@ -1,0 +1,16 @@
+{
+  "article": "Indian_Point,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/35186/Indian_Point__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f4134f10712781941cd42c11359189ee3cd104e5beb8f3db8fb4a4697f195797",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f4134f10712781941cd42c11359189ee3cd104e5beb8f3db8fb4a4697f195797",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/35186/Indian_Point__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "35186",
+  "timestamp": "2026-05-24T23:53:21.249759Z",
+  "version": 1
+}

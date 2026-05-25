@@ -1,0 +1,16 @@
+{
+  "article": "Pachuta,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/54960/Pachuta__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c7ee64ab076ec53e43b98803c8f100ed93e52033a822a4485e504c017d3ad728",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c7ee64ab076ec53e43b98803c8f100ed93e52033a822a4485e504c017d3ad728",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/54960/Pachuta__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "54960",
+  "timestamp": "2026-05-24T23:50:19.263620Z",
+  "version": 1
+}

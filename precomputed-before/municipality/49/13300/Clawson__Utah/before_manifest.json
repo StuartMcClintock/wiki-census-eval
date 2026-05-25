@@ -1,0 +1,16 @@
+{
+  "article": "Clawson,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/13300/Clawson__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0ef1c36dbb52bf602e24bac225b008c6151e1afada1fbb60dfb0e098494c4e9b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0ef1c36dbb52bf602e24bac225b008c6151e1afada1fbb60dfb0e098494c4e9b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/13300/Clawson__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "13300",
+  "timestamp": "2026-05-25T00:16:55.876118Z",
+  "version": 1
+}

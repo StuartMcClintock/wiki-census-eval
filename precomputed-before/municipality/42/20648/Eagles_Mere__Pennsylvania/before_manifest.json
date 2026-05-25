@@ -1,0 +1,16 @@
+{
+  "article": "Eagles_Mere,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/20648/Eagles_Mere__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fc36349cc5f5192f6c5f53c4f214ad26394da60fdd1b5ba62961adf44d03edea",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fc36349cc5f5192f6c5f53c4f214ad26394da60fdd1b5ba62961adf44d03edea",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/20648/Eagles_Mere__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "20648",
+  "timestamp": "2026-05-25T00:06:55.114310Z",
+  "version": 1
+}

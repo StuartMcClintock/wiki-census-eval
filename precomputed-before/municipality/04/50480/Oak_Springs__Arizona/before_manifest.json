@@ -1,0 +1,16 @@
+{
+  "article": "Oak_Springs,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/50480/Oak_Springs__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1e131cc9fa5282f8454c88a1eb1bfdfa1217f7ca07124836c38cda2e723691e6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1e131cc9fa5282f8454c88a1eb1bfdfa1217f7ca07124836c38cda2e723691e6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/50480/Oak_Springs__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "50480",
+  "timestamp": "2026-05-24T23:33:05.097597Z",
+  "version": 1
+}

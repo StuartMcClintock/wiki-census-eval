@@ -1,0 +1,16 @@
+{
+  "article": "Laketon,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/41562/Laketon__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b50d9f9271934070bf2eada69c8f0589415754a4960c9d1d7d9791e5607d9d6a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b50d9f9271934070bf2eada69c8f0589415754a4960c9d1d7d9791e5607d9d6a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/41562/Laketon__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "41562",
+  "timestamp": "2026-05-24T23:39:53.160979Z",
+  "version": 1
+}

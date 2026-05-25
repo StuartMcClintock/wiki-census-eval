@@ -1,0 +1,16 @@
+{
+  "article": "Colony,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/16684/Colony__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6bdb4c1f565932b8d33a66ffb3ffcbb59849af7b774a38223ff79248750b53a6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6bdb4c1f565932b8d33a66ffb3ffcbb59849af7b774a38223ff79248750b53a6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/16684/Colony__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "16684",
+  "timestamp": "2026-05-24T23:31:52.187097Z",
+  "version": 1
+}

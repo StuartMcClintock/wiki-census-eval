@@ -1,0 +1,16 @@
+{
+  "article": "Ney,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/55874/Ney__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7334edeac79181eea30d53903f8a0a5e82a1a0fbe2ce18e4760a7ac989f67ff8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7334edeac79181eea30d53903f8a0a5e82a1a0fbe2ce18e4760a7ac989f67ff8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/55874/Ney__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "55874",
+  "timestamp": "2026-05-25T00:04:54.294760Z",
+  "version": 1
+}

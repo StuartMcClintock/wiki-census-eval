@@ -1,0 +1,16 @@
+{
+  "article": "Midwest,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/52445/Midwest__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bf8e49d06f3baf0e8f4f6ec1ecaa952a1231128f265cc1a7a3a18b1ed0e1f96b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bf8e49d06f3baf0e8f4f6ec1ecaa952a1231128f265cc1a7a3a18b1ed0e1f96b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/52445/Midwest__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "52445",
+  "timestamp": "2026-05-25T00:23:19.406574Z",
+  "version": 1
+}

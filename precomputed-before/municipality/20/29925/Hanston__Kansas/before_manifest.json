@@ -1,0 +1,16 @@
+{
+  "article": "Hanston,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/29925/Hanston__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "388b5b3307da17e1d16f698d3f634eabdc7238591174f056a0cd6f9e299bd9d8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "388b5b3307da17e1d16f698d3f634eabdc7238591174f056a0cd6f9e299bd9d8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/29925/Hanston__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "29925",
+  "timestamp": "2026-05-24T23:42:44.208461Z",
+  "version": 1
+}

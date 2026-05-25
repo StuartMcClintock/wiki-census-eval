@@ -1,0 +1,16 @@
+{
+  "article": "Lohrville,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/45425/Lohrville__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1b0350a0f2c62223abf2e6e2803ea28d107014b00babca031112aa592b0693f2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1b0350a0f2c62223abf2e6e2803ea28d107014b00babca031112aa592b0693f2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/45425/Lohrville__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "45425",
+  "timestamp": "2026-05-25T00:22:21.202821Z",
+  "version": 1
+}

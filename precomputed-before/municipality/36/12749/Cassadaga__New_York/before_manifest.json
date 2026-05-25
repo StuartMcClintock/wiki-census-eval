@@ -1,0 +1,16 @@
+{
+  "article": "Cassadaga,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/12749/Cassadaga__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b166f139ef5d96d0363fc7e43c6ed220223a65103c265a42850a45a07a35b108",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b166f139ef5d96d0363fc7e43c6ed220223a65103c265a42850a45a07a35b108",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/12749/Cassadaga__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "12749",
+  "timestamp": "2026-05-25T00:00:34.662225Z",
+  "version": 1
+}

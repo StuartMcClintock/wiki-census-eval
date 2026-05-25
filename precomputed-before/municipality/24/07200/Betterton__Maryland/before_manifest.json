@@ -1,0 +1,16 @@
+{
+  "article": "Betterton,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/07200/Betterton__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4a0afbbada6dde1c6a44337566fd0db3e84035e70715e438d9bae4e6af745c67",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4a0afbbada6dde1c6a44337566fd0db3e84035e70715e438d9bae4e6af745c67",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/07200/Betterton__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "07200",
+  "timestamp": "2026-05-24T23:45:15.158035Z",
+  "version": 1
+}

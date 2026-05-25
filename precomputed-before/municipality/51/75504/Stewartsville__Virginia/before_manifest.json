@@ -1,0 +1,16 @@
+{
+  "article": "Stewartsville,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/75504/Stewartsville__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e7f73833306fec389c9d5ab5a55f08fc6cac5c0aeb42bb4e809381a814c74fbc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e7f73833306fec389c9d5ab5a55f08fc6cac5c0aeb42bb4e809381a814c74fbc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/75504/Stewartsville__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "75504",
+  "timestamp": "2026-05-25T00:19:39.923891Z",
+  "version": 1
+}

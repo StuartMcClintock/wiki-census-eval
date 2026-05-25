@@ -1,0 +1,16 @@
+{
+  "article": "Sallis,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/64800/Sallis__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "29f15b55e706d83e4e52dd9c0464283bf93245f60b3a0368db5968332e2cc0a4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "29f15b55e706d83e4e52dd9c0464283bf93245f60b3a0368db5968332e2cc0a4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/64800/Sallis__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "64800",
+  "timestamp": "2026-05-24T23:50:22.743973Z",
+  "version": 1
+}

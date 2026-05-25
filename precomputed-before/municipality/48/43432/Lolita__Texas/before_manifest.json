@@ -1,0 +1,16 @@
+{
+  "article": "Lolita,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/43432/Lolita__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "316794ba5c4dee2b0623f9adfdf7ddaa1de27653815158148e7922e75995c36a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "316794ba5c4dee2b0623f9adfdf7ddaa1de27653815158148e7922e75995c36a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/43432/Lolita__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "43432",
+  "timestamp": "2026-05-25T00:15:55.540322Z",
+  "version": 1
+}

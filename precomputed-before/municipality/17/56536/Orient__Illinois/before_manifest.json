@@ -1,0 +1,16 @@
+{
+  "article": "Orient,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/56536/Orient__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "383424f99f7b51f21f135f6b6df3b44b48d9e3d0ef4ab2ddff3c3ba788f6db32",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "383424f99f7b51f21f135f6b6df3b44b48d9e3d0ef4ab2ddff3c3ba788f6db32",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/56536/Orient__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "56536",
+  "timestamp": "2026-05-24T23:38:55.266789Z",
+  "version": 1
+}

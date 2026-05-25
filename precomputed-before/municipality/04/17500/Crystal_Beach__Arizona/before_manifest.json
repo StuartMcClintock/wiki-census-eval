@@ -1,0 +1,16 @@
+{
+  "article": "Crystal_Beach,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/17500/Crystal_Beach__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "32fbb4806f5ccf053dd60bc1df074a2c28ba930b931c25399077095113cc95da",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "32fbb4806f5ccf053dd60bc1df074a2c28ba930b931c25399077095113cc95da",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/17500/Crystal_Beach__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "17500",
+  "timestamp": "2026-05-24T23:32:51.839234Z",
+  "version": 1
+}

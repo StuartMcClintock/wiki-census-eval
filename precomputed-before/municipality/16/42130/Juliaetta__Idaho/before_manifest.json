@@ -1,0 +1,16 @@
+{
+  "article": "Juliaetta,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/42130/Juliaetta__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8ca63cf03857b63215fb6a41666db7bbaf6ee4ad6c90a5ded8a604d35ac62a3c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8ca63cf03857b63215fb6a41666db7bbaf6ee4ad6c90a5ded8a604d35ac62a3c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/42130/Juliaetta__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "42130",
+  "timestamp": "2026-05-24T23:37:23.022891Z",
+  "version": 1
+}

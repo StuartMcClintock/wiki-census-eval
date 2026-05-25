@@ -1,0 +1,16 @@
+{
+  "article": "Tatum,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/71305/Tatum__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dc5e15737a68da3b35cac40da49e745305a54171d009a94112e7cc640da83d21",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dc5e15737a68da3b35cac40da49e745305a54171d009a94112e7cc640da83d21",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/71305/Tatum__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "71305",
+  "timestamp": "2026-05-25T00:10:24.537266Z",
+  "version": 1
+}

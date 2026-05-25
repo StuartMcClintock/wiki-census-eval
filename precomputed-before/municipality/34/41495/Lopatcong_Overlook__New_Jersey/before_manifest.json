@@ -1,0 +1,16 @@
+{
+  "article": "Lopatcong_Overlook,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/41495/Lopatcong_Overlook__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3a7cefa894b90011cf34f035a696e109e7e6b46b04bc14880d030152a6f720cc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3a7cefa894b90011cf34f035a696e109e7e6b46b04bc14880d030152a6f720cc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/41495/Lopatcong_Overlook__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "41495",
+  "timestamp": "2026-05-24T23:57:54.214854Z",
+  "version": 1
+}

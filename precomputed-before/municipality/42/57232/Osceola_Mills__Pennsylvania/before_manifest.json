@@ -1,0 +1,16 @@
+{
+  "article": "Osceola_Mills,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/57232/Osceola_Mills__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7efb3b4b4ee87ba48d8c3b508de1b95418adc9b2c6e4946cf8afb43446c6655f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7efb3b4b4ee87ba48d8c3b508de1b95418adc9b2c6e4946cf8afb43446c6655f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/57232/Osceola_Mills__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "57232",
+  "timestamp": "2026-05-25T00:08:24.525952Z",
+  "version": 1
+}

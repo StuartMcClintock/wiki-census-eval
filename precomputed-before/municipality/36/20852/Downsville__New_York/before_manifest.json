@@ -1,0 +1,16 @@
+{
+  "article": "Downsville,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/20852/Downsville__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "180de9145131e27103a27846be7e135c87d9bbb39003ec5e4b73b068680f7484",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "180de9145131e27103a27846be7e135c87d9bbb39003ec5e4b73b068680f7484",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/20852/Downsville__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "20852",
+  "timestamp": "2026-05-25T00:00:40.163730Z",
+  "version": 1
+}

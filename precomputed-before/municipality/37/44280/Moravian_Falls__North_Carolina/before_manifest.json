@@ -1,0 +1,16 @@
+{
+  "article": "Moravian_Falls,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/44280/Moravian_Falls__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "365f478812d3b996ec0c07820e91d103bdb9d6ed4a7a93d4d98ccd56ba18081c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "365f478812d3b996ec0c07820e91d103bdb9d6ed4a7a93d4d98ccd56ba18081c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/44280/Moravian_Falls__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "44280",
+  "timestamp": "2026-05-25T00:02:12.229709Z",
+  "version": 1
+}

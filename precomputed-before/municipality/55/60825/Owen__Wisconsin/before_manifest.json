@@ -1,0 +1,16 @@
+{
+  "article": "Owen,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/60825/Owen__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b5eb0565e444e7ae2950b77347c6debc794b5bffbfb773f85750bd7c6dcfc16a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b5eb0565e444e7ae2950b77347c6debc794b5bffbfb773f85750bd7c6dcfc16a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/60825/Owen__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "60825",
+  "timestamp": "2026-05-25T00:22:32.598088Z",
+  "version": 1
+}

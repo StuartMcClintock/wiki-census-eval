@@ -1,0 +1,16 @@
+{
+  "article": "Ashley,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/03740/Ashley__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0463fef159af30d8170b2eb1dcdb462ba24523921cf9f3e0306daa86ee4b55e2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0463fef159af30d8170b2eb1dcdb462ba24523921cf9f3e0306daa86ee4b55e2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/03740/Ashley__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "03740",
+  "timestamp": "2026-05-24T23:47:41.066959Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Ridgeway,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/67035/Ridgeway__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5b26f033dddf746ae6b33fafc681020d7e69bd3104d0e77856b07ab109b75c49",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5b26f033dddf746ae6b33fafc681020d7e69bd3104d0e77856b07ab109b75c49",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/67035/Ridgeway__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "67035",
+  "timestamp": "2026-05-24T23:41:42.771904Z",
+  "version": 1
+}

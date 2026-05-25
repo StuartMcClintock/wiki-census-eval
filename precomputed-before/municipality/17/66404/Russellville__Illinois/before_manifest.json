@@ -1,0 +1,16 @@
+{
+  "article": "Russellville,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/66404/Russellville__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b11986d86d36e0a148ee82f188c14db0a14eb3d0178332ceb87acf25b2702426",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b11986d86d36e0a148ee82f188c14db0a14eb3d0178332ceb87acf25b2702426",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/66404/Russellville__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "66404",
+  "timestamp": "2026-05-24T23:39:08.060159Z",
+  "version": 1
+}

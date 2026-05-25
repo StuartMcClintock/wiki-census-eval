@@ -1,0 +1,16 @@
+{
+  "article": "Indian_Springs,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/41700/Indian_Springs__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a9d5a7e1413586ef150baeff07ea23fd93e5e1c4d4e483a7f1ec152c0b5b8845",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a9d5a7e1413586ef150baeff07ea23fd93e5e1c4d4e483a7f1ec152c0b5b8845",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/41700/Indian_Springs__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "41700",
+  "timestamp": "2026-05-24T23:47:24.633669Z",
+  "version": 1
+}

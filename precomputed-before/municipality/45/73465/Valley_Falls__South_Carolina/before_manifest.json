@@ -1,0 +1,16 @@
+{
+  "article": "Valley_Falls,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/73465/Valley_Falls__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "24bdd307c7aed9e9949fbd1d57ff2345405dd3c29797978c82e81632e0a14d1f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "24bdd307c7aed9e9949fbd1d57ff2345405dd3c29797978c82e81632e0a14d1f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/73465/Valley_Falls__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "73465",
+  "timestamp": "2026-05-25T00:10:25.778377Z",
+  "version": 1
+}

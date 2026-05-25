@@ -1,0 +1,16 @@
+{
+  "article": "Crystal_Lakes,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/19596/Crystal_Lakes__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "10565e2645d84ec4572a0466caf2a2226fbb1f56bea8ea068b7a5b3465544adb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "10565e2645d84ec4572a0466caf2a2226fbb1f56bea8ea068b7a5b3465544adb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/19596/Crystal_Lakes__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "19596",
+  "timestamp": "2026-05-25T00:04:02.232974Z",
+  "version": 1
+}

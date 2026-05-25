@@ -1,0 +1,16 @@
+{
+  "article": "Essig,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/19754/Essig__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ddd9d32f07b82d512a1140eba4ee32b27101a88c4c49efadce34d0e881c1c5e3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ddd9d32f07b82d512a1140eba4ee32b27101a88c4c49efadce34d0e881c1c5e3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/19754/Essig__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "19754",
+  "timestamp": "2026-05-24T23:48:53.563147Z",
+  "version": 1
+}

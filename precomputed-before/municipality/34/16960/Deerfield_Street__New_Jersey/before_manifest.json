@@ -1,0 +1,16 @@
+{
+  "article": "Deerfield_Street,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/16960/Deerfield_Street__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2c800c5572c8b773c3d48a70cbda596e26751675813d8a38eb7f04952a64b765",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2c800c5572c8b773c3d48a70cbda596e26751675813d8a38eb7f04952a64b765",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/16960/Deerfield_Street__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "16960",
+  "timestamp": "2026-05-24T23:57:45.045016Z",
+  "version": 1
+}

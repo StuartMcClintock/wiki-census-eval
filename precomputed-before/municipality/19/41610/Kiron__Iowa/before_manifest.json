@@ -1,0 +1,16 @@
+{
+  "article": "Kiron,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/41610/Kiron__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9e2de57de352153b958c4a3d76db00b18fdc75ba50d04bf76d4c57b9d8b30e5f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9e2de57de352153b958c4a3d76db00b18fdc75ba50d04bf76d4c57b9d8b30e5f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/41610/Kiron__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "41610",
+  "timestamp": "2026-05-24T23:41:16.592778Z",
+  "version": 1
+}

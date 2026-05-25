@@ -1,0 +1,16 @@
+{
+  "article": "Mulkeytown,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/51310/Mulkeytown__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7831755195fac09b65aeea8bb0bb1b3fd97f485551ac3716bebc3a74f4864ced",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7831755195fac09b65aeea8bb0bb1b3fd97f485551ac3716bebc3a74f4864ced",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/51310/Mulkeytown__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "51310",
+  "timestamp": "2026-05-24T23:38:37.936113Z",
+  "version": 1
+}

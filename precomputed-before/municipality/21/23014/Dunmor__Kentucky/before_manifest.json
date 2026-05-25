@@ -1,0 +1,16 @@
+{
+  "article": "Dunmor,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/23014/Dunmor__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "32651356e4d9eb4da9580c0a48cb76c768cf456f4ab4719ab65c6eed41867dee",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "32651356e4d9eb4da9580c0a48cb76c768cf456f4ab4719ab65c6eed41867dee",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/23014/Dunmor__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "23014",
+  "timestamp": "2026-05-24T23:44:00.831508Z",
+  "version": 1
+}

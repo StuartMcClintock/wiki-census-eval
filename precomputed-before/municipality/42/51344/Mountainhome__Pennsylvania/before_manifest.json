@@ -1,0 +1,16 @@
+{
+  "article": "Mountainhome,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/51344/Mountainhome__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "52b85b83b3542c80b3fd1f061d32e261fbecf1de7c923a61669520304bc7c637",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "52b85b83b3542c80b3fd1f061d32e261fbecf1de7c923a61669520304bc7c637",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/51344/Mountainhome__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "51344",
+  "timestamp": "2026-05-25T00:08:10.525798Z",
+  "version": 1
+}

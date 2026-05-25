@@ -1,0 +1,16 @@
+{
+  "article": "Brewster,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/07660/Brewster__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ea9dfe8ba7b8aac863ee341c090e8a24b080df2b32901701bd68fdb5609fdb21",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ea9dfe8ba7b8aac863ee341c090e8a24b080df2b32901701bd68fdb5609fdb21",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/07660/Brewster__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "07660",
+  "timestamp": "2026-05-24T23:48:41.369303Z",
+  "version": 1
+}

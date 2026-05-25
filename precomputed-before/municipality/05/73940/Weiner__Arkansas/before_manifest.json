@@ -1,0 +1,16 @@
+{
+  "article": "Weiner,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/73940/Weiner__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bcc66e6e006846e7513981a8b66c9111bea70e7d9802441e14dfed3db3e8ab86",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bcc66e6e006846e7513981a8b66c9111bea70e7d9802441e14dfed3db3e8ab86",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/73940/Weiner__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "73940",
+  "timestamp": "2026-05-24T23:34:13.764733Z",
+  "version": 1
+}

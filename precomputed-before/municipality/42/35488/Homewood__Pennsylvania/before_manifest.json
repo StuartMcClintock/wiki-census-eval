@@ -1,0 +1,16 @@
+{
+  "article": "Homewood,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/35488/Homewood__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "71f937ab363821b0ea7100e477c94bc8012fa6d3915e1d4cc51820b637d38a69",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "71f937ab363821b0ea7100e477c94bc8012fa6d3915e1d4cc51820b637d38a69",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/35488/Homewood__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "35488",
+  "timestamp": "2026-05-25T00:07:26.855941Z",
+  "version": 1
+}

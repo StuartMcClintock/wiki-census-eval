@@ -1,0 +1,16 @@
+{
+  "article": "Picture_Rocks,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/60136/Picture_Rocks__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d5b6b024474eb201b037eb763460ea53a57d3222eae956b41c5318174f203d0e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d5b6b024474eb201b037eb763460ea53a57d3222eae956b41c5318174f203d0e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/60136/Picture_Rocks__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "60136",
+  "timestamp": "2026-05-25T00:08:29.109402Z",
+  "version": 1
+}

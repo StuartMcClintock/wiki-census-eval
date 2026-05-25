@@ -1,0 +1,16 @@
+{
+  "article": "Bethpage,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/05500/Bethpage__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "830f405f305f08971e33d84d682c4d8178d4dc7ea65e71b709f1564487abc69e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "830f405f305f08971e33d84d682c4d8178d4dc7ea65e71b709f1564487abc69e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/05500/Bethpage__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "05500",
+  "timestamp": "2026-05-25T00:14:31.513910Z",
+  "version": 1
+}

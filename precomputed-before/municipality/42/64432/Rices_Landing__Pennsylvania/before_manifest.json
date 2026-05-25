@@ -1,0 +1,16 @@
+{
+  "article": "Rices_Landing,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/64432/Rices_Landing__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3070fd2734b6446bf64891033cdb8be5458f92ce5156d0aae4a99a5e766eff9a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3070fd2734b6446bf64891033cdb8be5458f92ce5156d0aae4a99a5e766eff9a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/64432/Rices_Landing__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "64432",
+  "timestamp": "2026-05-25T00:08:49.322924Z",
+  "version": 1
+}

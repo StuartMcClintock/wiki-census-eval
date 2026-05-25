@@ -1,0 +1,16 @@
+{
+  "article": "Pinconning,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/64160/Pinconning__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "90f479366ad5194c6d36f58a7ec1ae61afda28e72df9da06daabef74f0a6dc75",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "90f479366ad5194c6d36f58a7ec1ae61afda28e72df9da06daabef74f0a6dc75",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/64160/Pinconning__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "64160",
+  "timestamp": "2026-05-24T23:48:23.907892Z",
+  "version": 1
+}

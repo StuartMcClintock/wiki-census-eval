@@ -1,0 +1,16 @@
+{
+  "article": "Three_Springs,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/76632/Three_Springs__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7581db874ea9c33711c5c93b9ac6f8553ae5621bafe9a91a4e84370b280fc546",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7581db874ea9c33711c5c93b9ac6f8553ae5621bafe9a91a4e84370b280fc546",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/76632/Three_Springs__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "76632",
+  "timestamp": "2026-05-25T00:09:16.527252Z",
+  "version": 1
+}

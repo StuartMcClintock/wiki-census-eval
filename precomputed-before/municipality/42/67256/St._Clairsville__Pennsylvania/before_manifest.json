@@ -1,0 +1,16 @@
+{
+  "article": "St._Clairsville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/67256/St._Clairsville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8f4ab6d05b381a7888a3043c5b1012d4c7b6b31998480df3ebf86ae15377e099",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8f4ab6d05b381a7888a3043c5b1012d4c7b6b31998480df3ebf86ae15377e099",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/67256/St._Clairsville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "67256",
+  "timestamp": "2026-05-25T00:08:55.340490Z",
+  "version": 1
+}

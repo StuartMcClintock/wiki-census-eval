@@ -1,0 +1,16 @@
+{
+  "article": "Red_Cliff,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/63265/Red_Cliff__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "40b5f143806cf1dfbadef3a7247d5d871bdb3a5f39d76cd8038cde3257a0afd5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "40b5f143806cf1dfbadef3a7247d5d871bdb3a5f39d76cd8038cde3257a0afd5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/63265/Red_Cliff__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "63265",
+  "timestamp": "2026-05-24T23:35:37.835729Z",
+  "version": 1
+}

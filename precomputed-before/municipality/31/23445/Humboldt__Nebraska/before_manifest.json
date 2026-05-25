@@ -1,0 +1,16 @@
+{
+  "article": "Humboldt,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/23445/Humboldt__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8a5977a4894f5c320e606b4e1a52c7106ac21555de1a7e885f206347465d4810",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8a5977a4894f5c320e606b4e1a52c7106ac21555de1a7e885f206347465d4810",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/23445/Humboldt__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "23445",
+  "timestamp": "2026-05-24T23:55:33.852416Z",
+  "version": 1
+}

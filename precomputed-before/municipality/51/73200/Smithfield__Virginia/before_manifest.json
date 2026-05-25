@@ -1,0 +1,16 @@
+{
+  "article": "Smithfield,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/73200/Smithfield__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bb063190231b6cec642ef274f37373a87b7231ca65f92d431470cdab25feaf8c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bb063190231b6cec642ef274f37373a87b7231ca65f92d431470cdab25feaf8c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/73200/Smithfield__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "73200",
+  "timestamp": "2026-05-25T00:19:38.431773Z",
+  "version": 1
+}

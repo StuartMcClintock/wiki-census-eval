@@ -1,0 +1,16 @@
+{
+  "article": "Four_Mile_Road,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/26835/Four_Mile_Road__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2a66f963ec908d5bccd8f4e49087a922ea1595e8d470d96b48958b981059e504",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2a66f963ec908d5bccd8f4e49087a922ea1595e8d470d96b48958b981059e504",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/26835/Four_Mile_Road__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "26835",
+  "timestamp": "2026-05-24T23:32:21.834169Z",
+  "version": 1
+}

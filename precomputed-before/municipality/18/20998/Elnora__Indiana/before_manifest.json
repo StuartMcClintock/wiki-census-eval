@@ -1,0 +1,16 @@
+{
+  "article": "Elnora,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/20998/Elnora__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "af0a1a1840d95a494e603bb59b2c0d433c8458b51c389365bcd34454ea99407b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "af0a1a1840d95a494e603bb59b2c0d433c8458b51c389365bcd34454ea99407b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/20998/Elnora__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "20998",
+  "timestamp": "2026-05-24T23:39:34.515358Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Oak_Hills,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/55969/Oak_Hills__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1b7c97db8ddd374179ca4d245ec8a302f1dd43f2475c454033da18053f16a5cf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1b7c97db8ddd374179ca4d245ec8a302f1dd43f2475c454033da18053f16a5cf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/55969/Oak_Hills__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "55969",
+  "timestamp": "2026-05-25T00:08:21.911814Z",
+  "version": 1
+}

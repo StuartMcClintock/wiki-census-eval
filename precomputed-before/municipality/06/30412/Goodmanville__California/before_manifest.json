@@ -1,0 +1,16 @@
+{
+  "article": "Goodmanville,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/30412/Goodmanville__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a64425e4cd1f9633d35015a6c38a5786977b39b4383361170ee8677f2f1e6217",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a64425e4cd1f9633d35015a6c38a5786977b39b4383361170ee8677f2f1e6217",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/30412/Goodmanville__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "30412",
+  "timestamp": "2026-05-24T23:34:25.835334Z",
+  "version": 1
+}

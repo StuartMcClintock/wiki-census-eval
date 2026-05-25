@@ -1,0 +1,16 @@
+{
+  "article": "Bostic,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/07220/Bostic__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2d6ff3dc95cf255816dd3e5f09e112dee2aa79f22f3cfbbb1c8cf6156a15d99d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2d6ff3dc95cf255816dd3e5f09e112dee2aa79f22f3cfbbb1c8cf6156a15d99d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/07220/Bostic__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "07220",
+  "timestamp": "2026-05-25T00:01:46.296958Z",
+  "version": 1
+}

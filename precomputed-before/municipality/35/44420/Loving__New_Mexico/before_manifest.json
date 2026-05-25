@@ -1,0 +1,16 @@
+{
+  "article": "Loving,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/44420/Loving__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "55105e8d7b158c8758a082b545b482690bf561c106d16ffe5f3a90ccdd2e460e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "55105e8d7b158c8758a082b545b482690bf561c106d16ffe5f3a90ccdd2e460e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/44420/Loving__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "44420",
+  "timestamp": "2026-05-24T23:58:39.351278Z",
+  "version": 1
+}

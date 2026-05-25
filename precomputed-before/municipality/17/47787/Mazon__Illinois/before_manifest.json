@@ -1,0 +1,16 @@
+{
+  "article": "Mazon,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/47787/Mazon__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ca7947a6ee0a4f766f3f9f2e6516b6bf96d497571283df500106da1dd5381bf1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ca7947a6ee0a4f766f3f9f2e6516b6bf96d497571283df500106da1dd5381bf1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/47787/Mazon__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "47787",
+  "timestamp": "2026-05-24T23:38:34.200315Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Danville,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/20212/Danville__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b7e387f4827c0c99d11ebd8488bce9903679548cdd7868c2b30a7a9d4a42eab0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b7e387f4827c0c99d11ebd8488bce9903679548cdd7868c2b30a7a9d4a42eab0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/20212/Danville__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "20212",
+  "timestamp": "2026-05-25T00:21:03.426580Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Reidville,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/59425/Reidville__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5adbc9ffada377e2d23ce086a0f1cd580b0d7d9933113758f50efdd3cfe0d582",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5adbc9ffada377e2d23ce086a0f1cd580b0d7d9933113758f50efdd3cfe0d582",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/59425/Reidville__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "59425",
+  "timestamp": "2026-05-25T00:10:18.838984Z",
+  "version": 1
+}

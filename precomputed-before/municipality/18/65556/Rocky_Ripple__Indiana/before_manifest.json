@@ -1,0 +1,16 @@
+{
+  "article": "Rocky_Ripple,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/65556/Rocky_Ripple__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7e80e90ca5a62bc3ce97eb8db0ed68723065c54eb21a767317d9ac1a73c9b86e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7e80e90ca5a62bc3ce97eb8db0ed68723065c54eb21a767317d9ac1a73c9b86e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/65556/Rocky_Ripple__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "65556",
+  "timestamp": "2026-05-24T23:40:10.431852Z",
+  "version": 1
+}

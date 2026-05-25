@@ -1,0 +1,16 @@
+{
+  "article": "Lost_Lake_Woods,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/49450/Lost_Lake_Woods__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f480d9dda4029a7122a4fb3cb88bc8aa605f7faa6edb9c394f4ef37ec639dc6b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f480d9dda4029a7122a4fb3cb88bc8aa605f7faa6edb9c394f4ef37ec639dc6b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/49450/Lost_Lake_Woods__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "49450",
+  "timestamp": "2026-05-24T23:48:03.376151Z",
+  "version": 1
+}

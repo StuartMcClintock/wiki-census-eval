@@ -1,0 +1,16 @@
+{
+  "article": "Walcott,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/82780/Walcott__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0ff99ab7b8c3227794897e08aec5edd70206ec01d63f0c49b9d20e6454ba3381",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0ff99ab7b8c3227794897e08aec5edd70206ec01d63f0c49b9d20e6454ba3381",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/82780/Walcott__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "82780",
+  "timestamp": "2026-05-25T00:03:25.875862Z",
+  "version": 1
+}

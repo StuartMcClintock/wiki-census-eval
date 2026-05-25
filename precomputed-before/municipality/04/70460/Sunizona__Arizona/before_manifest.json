@@ -1,0 +1,16 @@
+{
+  "article": "Sunizona,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/70460/Sunizona__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ff15f9b7bd463320db0512eb506f8475e88cb583857b87dab95425ad11173129",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ff15f9b7bd463320db0512eb506f8475e88cb583857b87dab95425ad11173129",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/70460/Sunizona__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "70460",
+  "timestamp": "2026-05-24T23:33:10.940919Z",
+  "version": 1
+}

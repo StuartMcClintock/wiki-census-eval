@@ -1,0 +1,16 @@
+{
+  "article": "Istachatta,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/34275/Istachatta__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6464650db5b84defc745ddaa3b380577ba658f621b4b6746df61b791f93ebce1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6464650db5b84defc745ddaa3b380577ba658f621b4b6746df61b791f93ebce1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/34275/Istachatta__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "34275",
+  "timestamp": "2026-05-24T23:36:14.907338Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Cameron_Colony,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/09204/Cameron_Colony__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "30bd63ef1bcc2cfb12d6761490460a5ebf3cd985403352c5e6764c0d9461c407",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "30bd63ef1bcc2cfb12d6761490460a5ebf3cd985403352c5e6764c0d9461c407",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/09204/Cameron_Colony__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "09204",
+  "timestamp": "2026-05-25T00:10:33.431380Z",
+  "version": 1
+}

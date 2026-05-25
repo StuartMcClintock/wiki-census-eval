@@ -1,0 +1,16 @@
+{
+  "article": "Cairo,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/07625/Cairo__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4329e32ce431ec67c1583ea570418f2411aaa3f2be68dc27322622885514874b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4329e32ce431ec67c1583ea570418f2411aaa3f2be68dc27322622885514874b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/07625/Cairo__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "07625",
+  "timestamp": "2026-05-24T23:55:15.933371Z",
+  "version": 1
+}

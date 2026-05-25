@@ -1,0 +1,16 @@
+{
+  "article": "Souris,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/74020/Souris__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fa0e648ef2fe7a01c8d0fdbed16fd67f2fafc1692983daced222428a60fa2654",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fa0e648ef2fe7a01c8d0fdbed16fd67f2fafc1692983daced222428a60fa2654",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/74020/Souris__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "74020",
+  "timestamp": "2026-05-25T00:03:22.603541Z",
+  "version": 1
+}

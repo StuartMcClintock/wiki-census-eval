@@ -1,0 +1,16 @@
+{
+  "article": "Mohall,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/53780/Mohall__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "952dfc39f070c24030b17808b4af2a1b3f6fdd40353d435307e29db329c11a4b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "952dfc39f070c24030b17808b4af2a1b3f6fdd40353d435307e29db329c11a4b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/53780/Mohall__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "53780",
+  "timestamp": "2026-05-25T00:03:12.901525Z",
+  "version": 1
+}

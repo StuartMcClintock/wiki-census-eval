@@ -1,0 +1,16 @@
+{
+  "article": "Mount_Pleasant,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/52976/Mount_Pleasant__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "969a550a5ca3a629a086cd5fdbdf1019faa6e07ced0f2521c3a3f14c0851dccf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "969a550a5ca3a629a086cd5fdbdf1019faa6e07ced0f2521c3a3f14c0851dccf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/52976/Mount_Pleasant__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "52976",
+  "timestamp": "2026-05-25T00:04:49.366704Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Camden-on-Gauley,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/12436/Camden-on-Gauley__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4db80beecc2bffd7f212afe1710663da212e19642b9901e138df8ffc7408bdf3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4db80beecc2bffd7f212afe1710663da212e19642b9901e138df8ffc7408bdf3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/12436/Camden-on-Gauley__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "12436",
+  "timestamp": "2026-05-25T00:20:46.476582Z",
+  "version": 1
+}

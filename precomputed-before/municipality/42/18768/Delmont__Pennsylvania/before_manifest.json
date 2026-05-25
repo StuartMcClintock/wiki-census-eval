@@ -1,0 +1,16 @@
+{
+  "article": "Delmont,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/18768/Delmont__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ed2c9211fd43cf2242a28213f23b27042c3bd593a976b95e8bda6ec7eef2a68d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ed2c9211fd43cf2242a28213f23b27042c3bd593a976b95e8bda6ec7eef2a68d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/18768/Delmont__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "18768",
+  "timestamp": "2026-05-25T00:06:50.886974Z",
+  "version": 1
+}

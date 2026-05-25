@@ -1,0 +1,16 @@
+{
+  "article": "Clover_Creek,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/13215/Clover_Creek__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2a628d26714707a89c041f8c80bb3663b315c0ee4e5ff8322a4053872e258f54",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2a628d26714707a89c041f8c80bb3663b315c0ee4e5ff8322a4053872e258f54",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/13215/Clover_Creek__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "13215",
+  "timestamp": "2026-05-25T00:20:06.685274Z",
+  "version": 1
+}

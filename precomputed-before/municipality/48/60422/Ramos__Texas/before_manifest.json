@@ -1,0 +1,16 @@
+{
+  "article": "Ramos,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/60422/Ramos__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f33a3ebd559886b0b0a6919fca0ed691392513518759cb22536e9e4e089fd7db",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f33a3ebd559886b0b0a6919fca0ed691392513518759cb22536e9e4e089fd7db",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/60422/Ramos__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "60422",
+  "timestamp": "2026-05-25T00:16:26.997546Z",
+  "version": 1
+}

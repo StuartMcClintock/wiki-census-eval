@@ -1,0 +1,16 @@
+{
+  "article": "Eckley,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/23025/Eckley__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fe23453f65a5d42251645f03438df2a3b8b8bc6eaee7c9f8d25376e545d1f882",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fe23453f65a5d42251645f03438df2a3b8b8bc6eaee7c9f8d25376e545d1f882",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/23025/Eckley__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "23025",
+  "timestamp": "2026-05-24T23:35:24.345222Z",
+  "version": 1
+}

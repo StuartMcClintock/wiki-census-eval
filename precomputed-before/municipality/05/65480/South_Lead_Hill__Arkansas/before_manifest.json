@@ -1,0 +1,16 @@
+{
+  "article": "South_Lead_Hill,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/65480/South_Lead_Hill__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d3182a498707c502897cc1500a76562d84286705f9854c6567145f4162a1c7a8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d3182a498707c502897cc1500a76562d84286705f9854c6567145f4162a1c7a8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/65480/South_Lead_Hill__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "65480",
+  "timestamp": "2026-05-24T23:34:08.990955Z",
+  "version": 1
+}

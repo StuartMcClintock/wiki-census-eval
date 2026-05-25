@@ -1,0 +1,16 @@
+{
+  "article": "Brownsville,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/09596/Brownsville__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f841dc5c9e7bee677306541ddfe18a2e8b75ab143c2ae155a08d2e686b379900",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f841dc5c9e7bee677306541ddfe18a2e8b75ab143c2ae155a08d2e686b379900",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/09596/Brownsville__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "09596",
+  "timestamp": "2026-05-25T00:03:38.992489Z",
+  "version": 1
+}

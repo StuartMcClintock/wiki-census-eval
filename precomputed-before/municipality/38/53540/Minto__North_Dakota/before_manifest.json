@@ -1,0 +1,16 @@
+{
+  "article": "Minto,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/53540/Minto__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0601e321c0f5f96d93b4036d3e1131800e569a3d96c22ff148280e664297409b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0601e321c0f5f96d93b4036d3e1131800e569a3d96c22ff148280e664297409b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/53540/Minto__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "53540",
+  "timestamp": "2026-05-25T00:03:12.769580Z",
+  "version": 1
+}

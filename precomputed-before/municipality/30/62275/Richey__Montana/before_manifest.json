@@ -1,0 +1,16 @@
+{
+  "article": "Richey,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/62275/Richey__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "64c00c3b41b1b68f8df0ed7888219529537796f071ba1938ae78b8d1b29f6520",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "64c00c3b41b1b68f8df0ed7888219529537796f071ba1938ae78b8d1b29f6520",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/62275/Richey__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "62275",
+  "timestamp": "2026-05-24T23:54:46.284271Z",
+  "version": 1
+}

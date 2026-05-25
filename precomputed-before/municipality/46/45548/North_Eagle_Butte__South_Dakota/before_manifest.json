@@ -1,0 +1,16 @@
+{
+  "article": "North_Eagle_Butte,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/45548/North_Eagle_Butte__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7981d98e950956cc428223457b5655bf78aa1e87a13ca66770c0961e3f05a412",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7981d98e950956cc428223457b5655bf78aa1e87a13ca66770c0961e3f05a412",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/45548/North_Eagle_Butte__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "45548",
+  "timestamp": "2026-05-25T00:11:05.578426Z",
+  "version": 1
+}

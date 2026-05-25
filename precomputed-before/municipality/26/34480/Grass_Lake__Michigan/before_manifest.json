@@ -1,0 +1,16 @@
+{
+  "article": "Grass_Lake,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/34480/Grass_Lake__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e88d5efbc5a2a09889501d506d66c69f84587392c7f7bc8e9c179c44e60c31c4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e88d5efbc5a2a09889501d506d66c69f84587392c7f7bc8e9c179c44e60c31c4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/34480/Grass_Lake__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "34480",
+  "timestamp": "2026-05-24T23:47:57.212621Z",
+  "version": 1
+}

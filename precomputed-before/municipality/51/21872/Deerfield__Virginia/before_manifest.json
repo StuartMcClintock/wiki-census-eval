@@ -1,0 +1,16 @@
+{
+  "article": "Deerfield,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/21872/Deerfield__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cfbedac3d38079e3ec50fc042df4c92286ecb29b65a78f65dc34686c58d2edf6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cfbedac3d38079e3ec50fc042df4c92286ecb29b65a78f65dc34686c58d2edf6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/21872/Deerfield__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "21872",
+  "timestamp": "2026-05-25T00:19:08.796734Z",
+  "version": 1
+}

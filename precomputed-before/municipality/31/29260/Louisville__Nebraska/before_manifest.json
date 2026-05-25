@@ -1,0 +1,16 @@
+{
+  "article": "Louisville,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/29260/Louisville__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "18d7ee7fc6a6e0aeb99e0e72788a8dd5128f5887d6a8900dcd87127aef2072bf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "18d7ee7fc6a6e0aeb99e0e72788a8dd5128f5887d6a8900dcd87127aef2072bf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/29260/Louisville__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "29260",
+  "timestamp": "2026-05-24T23:55:49.828974Z",
+  "version": 1
+}

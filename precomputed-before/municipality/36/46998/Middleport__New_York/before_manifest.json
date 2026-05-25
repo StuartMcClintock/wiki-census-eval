@@ -1,0 +1,16 @@
+{
+  "article": "Middleport,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/46998/Middleport__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3aeb075c02114554e5f4f4de52a7aa8ed2aee91922f7f948c0cbe3f822cb19a4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3aeb075c02114554e5f4f4de52a7aa8ed2aee91922f7f948c0cbe3f822cb19a4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/46998/Middleport__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "46998",
+  "timestamp": "2026-05-25T00:00:54.243263Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Homeacre-Lyndora,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/35364/Homeacre-Lyndora__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a23376f0fa84f3aadd52d25d0092c4db8485c0324f29e82c91a23301890da499",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a23376f0fa84f3aadd52d25d0092c4db8485c0324f29e82c91a23301890da499",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/35364/Homeacre-Lyndora__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "35364",
+  "timestamp": "2026-05-25T00:07:26.370675Z",
+  "version": 1
+}

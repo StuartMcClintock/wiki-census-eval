@@ -1,0 +1,152 @@
+from __future__ import annotations
+
+import argparse
+import json
+import os
+from pathlib import Path
+from typing import List, Optional
+
+from .clients import AnthropicCliJudgeClient, CodexJudgeClient, OpenAIJudgeClient
+from .pipeline import EvaluationConfig, run_evaluation
+from .states import parse_state_filters
+
+
+def main(argv: Optional[List[str]] = None) -> None:
+    parser = argparse.ArgumentParser(
+        prog="wiki-census-eval",
+        description="Evaluate proposed Wikipedia census demographics edits.",
+    )
+    subparsers = parser.add_subparsers(dest="command", required=True)
+
+    evaluate = subparsers.add_parser("evaluate", help="Run the evaluation pipeline.")
+    evaluate.add_argument("--before-root", type=Path, default=Path("precomputed-before"))
+    evaluate.add_argument("--results-dir", type=Path, default=Path("results"))
+    evaluate.add_argument(
+        "--db-path",
+        type=Path,
+        help="SQLite database path. Defaults to <results-dir>/evaluations.sqlite.",
+    )
+    evaluate.add_argument(
+        "--provider",
+        choices=("openai", "codex", "anthropic-cli"),
+        default="openai",
+        help="Model runner to use for judging.",
+    )
+    evaluate.add_argument("--model")
+    evaluate.add_argument("--codex-bin", default="codex")
+    evaluate.add_argument("--claude-bin", default="claude")
+    evaluate.add_argument("--limit", type=int)
+    evaluate.add_argument("--case-id")
+    evaluate.add_argument(
+        "--states",
+        action="append",
+        help=(
+            "Restrict evaluation to one or more states. Accepts postal "
+            "abbreviations or FIPS codes, comma-separated or repeated "
+            "(e.g. --states AL,GA or --states 01 --states 13)."
+        ),
+    )
+    evaluate.add_argument(
+        "--skip-existing",
+        action="store_true",
+        help="Skip any case id already present in SQLite, regardless of result.",
+    )
+    evaluate.add_argument(
+        "--skip-passed",
+        action="store_true",
+        help=(
+            "Skip cases whose current after-hash already has a pass from an "
+            "equal-or-stronger model in SQLite."
+        ),
+    )
+    evaluate.add_argument(
+        "--min-model-strength",
+        type=int,
+        help=(
+            "Override the required model strength for --skip-passed. "
+            "Higher means stricter; defaults to the selected model's strength."
+        ),
+    )
+    evaluate.add_argument("--dry-run", action="store_true")
+    evaluate.add_argument("--save-prompts", action="store_true")
+    evaluate.add_argument("--max-input-chars", type=int, default=60_000)
+    evaluate.add_argument("--max-output-tokens", type=int, default=1200)
+    evaluate.add_argument("--timeout", type=float)
+    evaluate.add_argument(
+        "--codex-limit-retries",
+        type=int,
+        default=1,
+        help=(
+            "Number of one-case retries when the Codex CLI reports a usage "
+            "or rate limit. Use 0 to disable."
+        ),
+    )
+    evaluate.add_argument(
+        "--codex-limit-retry-delay",
+        type=float,
+        default=3600.0,
+        help="Seconds to wait before retrying a Codex usage/rate-limit failure.",
+    )
+
+    args = parser.parse_args(argv)
+    if args.command == "evaluate":
+        model = args.model or _default_model_for_provider(args.provider)
+        try:
+            state_fips_filter = parse_state_filters(args.states)
+        except ValueError as exc:
+            parser.error(str(exc))
+        config = EvaluationConfig(
+            before_root=args.before_root,
+            results_dir=args.results_dir,
+            db_path=args.db_path,
+            state_fips_filter=state_fips_filter or None,
+            limit=args.limit,
+            case_id=args.case_id,
+            skip_existing=args.skip_existing,
+            skip_passed=args.skip_passed,
+            requested_model=model,
+            min_model_strength=args.min_model_strength,
+            dry_run=args.dry_run,
+            save_prompts=args.save_prompts,
+            max_input_chars=args.max_input_chars,
+        )
+        client = None
+        if not args.dry_run:
+            if args.provider == "anthropic-cli":
+                client = AnthropicCliJudgeClient(
+                    model=model,
+                    claude_bin=args.claude_bin,
+                    timeout=args.timeout,
+                    cwd=Path.cwd(),
+                )
+            elif args.provider == "codex":
+                client = CodexJudgeClient(
+                    model=model,
+                    codex_bin=args.codex_bin,
+                    timeout=args.timeout,
+                    cwd=Path.cwd(),
+                    limit_retry_attempts=args.codex_limit_retries,
+                    limit_retry_delay_seconds=args.codex_limit_retry_delay,
+                )
+            else:
+                client = OpenAIJudgeClient(
+                    model=model,
+                    max_output_tokens=args.max_output_tokens,
+                    timeout=args.timeout,
+                )
+        summary = run_evaluation(config, client=client)
+        print(json.dumps(summary, indent=2, sort_keys=True))
+
+
+def _default_model_for_provider(provider: str) -> str:
+    if provider == "anthropic-cli":
+        return (
+            os.getenv("ANTHROPIC_EVAL_MODEL")
+            or os.getenv("CLAUDE_EVAL_MODEL")
+            or "sonnet"
+        )
+    return os.getenv("OPENAI_EVAL_MODEL", "gpt-4.1-mini")
+
+
+if __name__ == "__main__":
+    main()

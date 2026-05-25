@@ -1,0 +1,16 @@
+{
+  "article": "Mechanicsburg,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/48021/Mechanicsburg__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f5106098c8003156d04d7e7cea8443f9ed057cf897988c040251c52c25c15d1c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f5106098c8003156d04d7e7cea8443f9ed057cf897988c040251c52c25c15d1c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/48021/Mechanicsburg__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "48021",
+  "timestamp": "2026-05-24T23:38:34.310694Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Lake_of_the_Woods,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/43430/Lake_of_the_Woods__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "77d339bab23dec8077a33ad899524c72f5ad3c7ab2c6970de6b5de859f8cf238",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "77d339bab23dec8077a33ad899524c72f5ad3c7ab2c6970de6b5de859f8cf238",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/43430/Lake_of_the_Woods__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "43430",
+  "timestamp": "2026-05-25T00:19:21.612813Z",
+  "version": 1
+}

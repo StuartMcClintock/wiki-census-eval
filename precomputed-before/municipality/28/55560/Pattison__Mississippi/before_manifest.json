@@ -1,0 +1,16 @@
+{
+  "article": "Pattison,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/55560/Pattison__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f21ae3e65a7d3961af78ebe9e3442bd9da3c8cd06950c01ff4d73d299a8c3a44",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f21ae3e65a7d3961af78ebe9e3442bd9da3c8cd06950c01ff4d73d299a8c3a44",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/55560/Pattison__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "55560",
+  "timestamp": "2026-05-24T23:50:19.658883Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "La_Tierra,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/40074/La_Tierra__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7d40b5913a44368c32cb5a91079e96950084fae5d25312f4c05a013753ebc734",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7d40b5913a44368c32cb5a91079e96950084fae5d25312f4c05a013753ebc734",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/40074/La_Tierra__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "40074",
+  "timestamp": "2026-05-24T23:58:37.867046Z",
+  "version": 1
+}

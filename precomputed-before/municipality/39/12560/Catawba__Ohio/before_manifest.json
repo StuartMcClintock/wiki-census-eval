@@ -1,0 +1,16 @@
+{
+  "article": "Catawba,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/12560/Catawba__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "671bac5bd56e62ae68adbb252849ecaaabe1916f15480902601cf5f987879d9b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "671bac5bd56e62ae68adbb252849ecaaabe1916f15480902601cf5f987879d9b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/12560/Catawba__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "12560",
+  "timestamp": "2026-05-25T00:03:52.904734Z",
+  "version": 1
+}

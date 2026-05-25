@@ -1,0 +1,16 @@
+{
+  "article": "Grenora,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/33500/Grenora__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8148f0851ecff26cee1f2ede0368a8b9b792c285ddf226862c82890c85798424",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8148f0851ecff26cee1f2ede0368a8b9b792c285ddf226862c82890c85798424",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/33500/Grenora__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "33500",
+  "timestamp": "2026-05-25T00:03:02.030386Z",
+  "version": 1
+}

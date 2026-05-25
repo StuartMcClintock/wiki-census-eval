@@ -1,0 +1,16 @@
+{
+  "article": "Hublersburg,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/36064/Hublersburg__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a4028b2faa5b78aeda515c59cd972c1cf4d98887b662428c329a34728ce78475",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a4028b2faa5b78aeda515c59cd972c1cf4d98887b662428c329a34728ce78475",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/36064/Hublersburg__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "36064",
+  "timestamp": "2026-05-25T00:07:28.394438Z",
+  "version": 1
+}

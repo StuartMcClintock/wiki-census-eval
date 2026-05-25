@@ -1,0 +1,16 @@
+{
+  "article": "Duncombe,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/22755/Duncombe__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4715917d2ffcd82aca8fdc6a7aaa9024f25042277534ebf48529a465028f5e9f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4715917d2ffcd82aca8fdc6a7aaa9024f25042277534ebf48529a465028f5e9f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/22755/Duncombe__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "22755",
+  "timestamp": "2026-05-24T23:40:42.977331Z",
+  "version": 1
+}

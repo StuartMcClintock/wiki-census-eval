@@ -1,0 +1,16 @@
+{
+  "article": "Lake_Cavanaugh,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/37105/Lake_Cavanaugh__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2be22aa70e60f609e9f6c9e3675c96e3853d17c98d3fa53971eecd19e70d9782",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2be22aa70e60f609e9f6c9e3675c96e3853d17c98d3fa53971eecd19e70d9782",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/37105/Lake_Cavanaugh__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "37105",
+  "timestamp": "2026-05-25T00:20:18.259818Z",
+  "version": 1
+}

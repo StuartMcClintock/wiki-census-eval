@@ -1,0 +1,16 @@
+{
+  "article": "Goodman,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/27874/Goodman__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bebd9d64fdda53e8001496f93fd906e16c7ecdcac189ab21bd15d211dbe71e65",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bebd9d64fdda53e8001496f93fd906e16c7ecdcac189ab21bd15d211dbe71e65",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/27874/Goodman__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "27874",
+  "timestamp": "2026-05-24T23:53:14.003328Z",
+  "version": 1
+}

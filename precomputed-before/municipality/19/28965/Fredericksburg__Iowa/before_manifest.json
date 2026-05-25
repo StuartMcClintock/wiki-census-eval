@@ -1,0 +1,16 @@
+{
+  "article": "Fredericksburg,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/28965/Fredericksburg__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cb890d0e49d3f787a69cec21377774064a585c54af0a7e03636be7fbd2091296",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cb890d0e49d3f787a69cec21377774064a585c54af0a7e03636be7fbd2091296",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/28965/Fredericksburg__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "28965",
+  "timestamp": "2026-05-24T23:41:03.117268Z",
+  "version": 1
+}

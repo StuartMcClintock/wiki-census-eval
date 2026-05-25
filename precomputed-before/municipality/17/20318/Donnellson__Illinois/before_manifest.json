@@ -1,0 +1,16 @@
+{
+  "article": "Donnellson,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/20318/Donnellson__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ebfd17f3bcd677bd58ee56ebce8c076bfd151c1d32a60460d67facf79e73791b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ebfd17f3bcd677bd58ee56ebce8c076bfd151c1d32a60460d67facf79e73791b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/20318/Donnellson__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "20318",
+  "timestamp": "2026-05-24T23:38:06.959685Z",
+  "version": 1
+}

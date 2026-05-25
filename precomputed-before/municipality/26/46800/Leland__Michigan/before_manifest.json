@@ -1,0 +1,16 @@
+{
+  "article": "Leland,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/46800/Leland__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "270e00e0c30ede2ce481f8c0614beb12092a2a5c43c3bdfe33eed40586f1d740",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "270e00e0c30ede2ce481f8c0614beb12092a2a5c43c3bdfe33eed40586f1d740",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/46800/Leland__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "46800",
+  "timestamp": "2026-05-24T23:48:02.395829Z",
+  "version": 1
+}

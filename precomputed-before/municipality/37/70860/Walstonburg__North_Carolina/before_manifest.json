@@ -1,0 +1,16 @@
+{
+  "article": "Walstonburg,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/70860/Walstonburg__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cc696440d5c51b94d5999504c702fd47aaab6e6fb816898b82fb098b53bc674c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cc696440d5c51b94d5999504c702fd47aaab6e6fb816898b82fb098b53bc674c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/70860/Walstonburg__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "70860",
+  "timestamp": "2026-05-25T00:02:28.271444Z",
+  "version": 1
+}

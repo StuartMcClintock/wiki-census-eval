@@ -1,0 +1,16 @@
+{
+  "article": "Rossville,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/65240/Rossville__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1a5bce46cb086593677ea219905b424a20ac089bece3e6b721cf10ec24e81eef",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1a5bce46cb086593677ea219905b424a20ac089bece3e6b721cf10ec24e81eef",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/65240/Rossville__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "65240",
+  "timestamp": "2026-05-25T00:14:52.553209Z",
+  "version": 1
+}

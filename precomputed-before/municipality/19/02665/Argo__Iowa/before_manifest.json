@@ -1,0 +1,16 @@
+{
+  "article": "Argo,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/02665/Argo__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "715efcf3c0c625b35ee3e787f40fca7f1e0e92c8530f18a5fd4ede686beafcf4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "715efcf3c0c625b35ee3e787f40fca7f1e0e92c8530f18a5fd4ede686beafcf4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/02665/Argo__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "02665",
+  "timestamp": "2026-05-24T23:40:23.465182Z",
+  "version": 1
+}

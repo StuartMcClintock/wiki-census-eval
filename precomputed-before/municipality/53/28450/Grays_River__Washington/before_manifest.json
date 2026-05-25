@@ -1,0 +1,16 @@
+{
+  "article": "Grays_River,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/28450/Grays_River__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a20bf6d0eea19e8d1cb9d31cee3bf8b5b8e05b876606684d6957cb3b54a31eba",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a20bf6d0eea19e8d1cb9d31cee3bf8b5b8e05b876606684d6957cb3b54a31eba",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/28450/Grays_River__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "28450",
+  "timestamp": "2026-05-25T00:20:14.210639Z",
+  "version": 1
+}

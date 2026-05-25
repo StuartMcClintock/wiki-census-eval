@@ -1,0 +1,110 @@
+==Demographics==
+{{US Census population
+|1880= 148
+|1890= 228
+|1900= 275
+|1910= 616
+|1920= 1199
+|1930= 1181
+|1940= 1407
+|1950= 1414
+|1960= 1684
+|1970= 1910
+|1980= 1981
+|1990= 1940
+|2000= 1731
+|2010= 1488
+|2020= 1269
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=http://www.census.gov/prod/www/decennial.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2016}}</ref>
+}}
+
+===2020 census===
+As of the [[2020 United States census]], there were 1,269 people, 668 households, and 452 families residing in the town. The [[population density]] was {{convert|1,398.5|/mi2|/km2|disp=preunit|people&nbsp;|people}}. There were 742 housing units at an average density of {{convert|637.0|/mi2|/km2}}. Out of 666 households, 23.1% had children under the age of 18 living with them, 38.8% were [[Marriage|married couples]] living together, 22.1% had a female householder with no husband present, and 35.1% were non-families. 33.5% of all households were made up of individuals, and 20.8% had someone living alone who was 65 years of age or older. The average household size was 2.40 and the average family size was 3.07.
+
+23.7% of the population was under the age of 18, 6.7% were from 18 to 24, 23.4% were from 25 to 44, 24.1% were from 45 to 64, and 22.1% were 65 or older. The median age was 42. For every 100 females, there were 75.0 males. For every 100 females age 18 and over, there were 69.6 males.
+
+The median income for a household in the town was $43,384, and the median income for a family was $68,565. Males had a median income of $41,250 versus $29,375 for females. The [[per capita income]] for the town was $34,431. About 6.2% of families and 12.9% of the population were below the [[poverty line]], including 4.2% of those under age 18 and 14.4% of those age 65 or over.
+
+{| class="wikitable" style="text-align:center;"
+|+'''Robersonville town, North Carolina – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Robersonville town, North Carolina |url=https://data.census.gov/table?g=160XX00US3757100&tid=DECENNIALSF12000.P004|publisher=[[United States Census Bureau]] |access-date= }}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2 Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Robersonville town, North Carolina|url=https://data.census.gov/table?q=p2&g=160XX00US3757100&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]]}}</ref>
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web|title=P2 Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) - Robersonville town, North Carolina|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US3757100&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]]}}</ref>
+!% 2000
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|1,064
+|986
+|style='background: #ffffe6; |945
+|61.47%
+|66.26%
+|style='background: #ffffe6; |59.89%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|618
+|439
+|style='background: #ffffe6; |35.70%
+|35.70%
+|29.50%
+|style='background: #ffffe6; |29.50%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|0
+|3
+|style='background: #ffffe6; |1
+|0.00%
+|0.20%
+|style='background: #ffffe6; |0.08%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|8
+|9
+|style='background: #ffffe6; |6
+|0.46%
+|0.60%
+|style='background: #ffffe6; |0.47%
+|-
+|[[Native Hawaiian]] or [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Race and ethnicity in the United States census|Other Race]] alone (NH)
+|1
+|0
+|style='background: #ffffe6; |6
+|0.06%
+|0.00%
+|style='background: #ffffe6; |0.47%
+|-
+|[[Multiracial Americans|Mixed Race or Multiracial]] (NH)
+|11
+|10
+|style='background: #ffffe6; |36
+|0.64%
+|0.67%
+|style='background: #ffffe6; |2.84%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|29
+|41
+|style='background: #ffffe6; |63
+|1.68%
+|2.76%
+|style='background: #ffffe6; |4.96%
+|-
+|'''Total'''
+|'''1,731'''
+|'''1,488'''
+|style='background: #ffffe6; |'''1,269'''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+

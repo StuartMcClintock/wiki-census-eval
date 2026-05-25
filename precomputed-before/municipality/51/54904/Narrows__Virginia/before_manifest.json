@@ -1,0 +1,16 @@
+{
+  "article": "Narrows,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/54904/Narrows__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8a5b3a4be4debd036b58899c57c875a1f99e58b3ceb4d41a1bdae4aff792a9f8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8a5b3a4be4debd036b58899c57c875a1f99e58b3ceb4d41a1bdae4aff792a9f8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/54904/Narrows__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "54904",
+  "timestamp": "2026-05-25T00:19:28.052725Z",
+  "version": 1
+}

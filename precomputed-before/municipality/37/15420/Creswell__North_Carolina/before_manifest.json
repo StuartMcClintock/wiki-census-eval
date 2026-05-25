@@ -1,0 +1,16 @@
+{
+  "article": "Creswell,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/15420/Creswell__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ee444dae68efc4987ce2f3dc52f6ee91e544b551087f990cc68d88faf1240690",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ee444dae68efc4987ce2f3dc52f6ee91e544b551087f990cc68d88faf1240690",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/15420/Creswell__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "15420",
+  "timestamp": "2026-05-25T00:01:51.562587Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Forest_Lakes,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/24100/Forest_Lakes__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "de632890f2f79f7b5f4ae61a4e76cd87c164a08d41a0ac1f7b5aeb61d4d1401e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "de632890f2f79f7b5f4ae61a4e76cd87c164a08d41a0ac1f7b5aeb61d4d1401e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/24100/Forest_Lakes__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "24100",
+  "timestamp": "2026-05-24T23:32:54.279783Z",
+  "version": 1
+}

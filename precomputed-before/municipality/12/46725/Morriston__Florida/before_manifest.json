@@ -1,0 +1,16 @@
+{
+  "article": "Morriston,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/46725/Morriston__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1107ffc580b868c68a25fc8108fcfccdaf2b2ee54fe9684c92bbdd88315fb80e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1107ffc580b868c68a25fc8108fcfccdaf2b2ee54fe9684c92bbdd88315fb80e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/46725/Morriston__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "46725",
+  "timestamp": "2026-05-24T23:36:19.009167Z",
+  "version": 1
+}

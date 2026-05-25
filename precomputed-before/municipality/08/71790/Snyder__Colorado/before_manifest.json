@@ -1,0 +1,16 @@
+{
+  "article": "Snyder,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/71790/Snyder__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1b0bd33c1e6456466eb6100f71bfb8a43e05e6480b18ef634b6b12927b83b1d8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1b0bd33c1e6456466eb6100f71bfb8a43e05e6480b18ef634b6b12927b83b1d8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/71790/Snyder__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "71790",
+  "timestamp": "2026-05-24T23:35:41.352569Z",
+  "version": 1
+}

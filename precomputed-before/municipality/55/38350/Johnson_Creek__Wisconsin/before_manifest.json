@@ -1,0 +1,16 @@
+{
+  "article": "Johnson_Creek,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/38350/Johnson_Creek__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "51211b99f5ff01bf0f1718fe108727406635cf5bf88a12c03e37b34c8fb9e983",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "51211b99f5ff01bf0f1718fe108727406635cf5bf88a12c03e37b34c8fb9e983",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/38350/Johnson_Creek__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "38350",
+  "timestamp": "2026-05-25T00:22:14.803923Z",
+  "version": 1
+}

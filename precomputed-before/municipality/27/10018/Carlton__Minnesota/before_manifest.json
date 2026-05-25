@@ -1,0 +1,16 @@
+{
+  "article": "Carlton,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/10018/Carlton__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "563e1a4fc348f458b2b0deefa4436f31ce0f0f16628b2daf2af29b73face7cd9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "563e1a4fc348f458b2b0deefa4436f31ce0f0f16628b2daf2af29b73face7cd9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/10018/Carlton__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "10018",
+  "timestamp": "2026-05-24T23:48:43.908402Z",
+  "version": 1
+}

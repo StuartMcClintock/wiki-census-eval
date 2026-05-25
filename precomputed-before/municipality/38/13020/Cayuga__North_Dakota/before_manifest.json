@@ -1,0 +1,16 @@
+{
+  "article": "Cayuga,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/13020/Cayuga__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e2d4fa6617dc9911b5fe0e06f4d5f5250c9765414e5ef9758ace6fb9a9277e3f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e2d4fa6617dc9911b5fe0e06f4d5f5250c9765414e5ef9758ace6fb9a9277e3f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/13020/Cayuga__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "13020",
+  "timestamp": "2026-05-25T00:02:37.883173Z",
+  "version": 1
+}

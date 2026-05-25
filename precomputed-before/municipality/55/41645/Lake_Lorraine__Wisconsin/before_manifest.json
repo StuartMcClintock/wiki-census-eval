@@ -1,0 +1,16 @@
+{
+  "article": "Lake_Lorraine,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/41645/Lake_Lorraine__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7dff5f7795d3a821ffea0fd0286f10f5e68d88e9ce2603b7544a66316b1bbe47",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7dff5f7795d3a821ffea0fd0286f10f5e68d88e9ce2603b7544a66316b1bbe47",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/41645/Lake_Lorraine__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "41645",
+  "timestamp": "2026-05-25T00:22:18.369358Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Cheraw,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/13460/Cheraw__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "368b29f80655d42eab9ed9e6c7cbd50faf0016d9e05482f59f1c6f561b221daa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "368b29f80655d42eab9ed9e6c7cbd50faf0016d9e05482f59f1c6f561b221daa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/13460/Cheraw__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "13460",
+  "timestamp": "2026-05-24T23:35:21.407657Z",
+  "version": 1
+}

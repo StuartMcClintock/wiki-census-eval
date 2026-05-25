@@ -1,0 +1,16 @@
+{
+  "article": "Ensign,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/21400/Ensign__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "06c66f6d545625b94bd9f585bdd6e6a8a89d038a4369018f819c1ca6713ee199",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "06c66f6d545625b94bd9f585bdd6e6a8a89d038a4369018f819c1ca6713ee199",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/21400/Ensign__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "21400",
+  "timestamp": "2026-05-24T23:42:36.542610Z",
+  "version": 1
+}

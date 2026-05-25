@@ -1,0 +1,16 @@
+{
+  "article": "Michigan_City,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/52740/Michigan_City__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c3116cca1da9b15f64e8e3f37f067b94cdf0036815a8a0a9cf71122f4135494b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c3116cca1da9b15f64e8e3f37f067b94cdf0036815a8a0a9cf71122f4135494b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/52740/Michigan_City__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "52740",
+  "timestamp": "2026-05-25T00:03:12.346085Z",
+  "version": 1
+}

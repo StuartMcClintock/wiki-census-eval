@@ -1,0 +1,16 @@
+{
+  "article": "Emelle,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/23872/Emelle__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "47c0895dc7a620801da5baa10b0b9e834a6b16f26066a0fce25cbbd656401dc5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "47c0895dc7a620801da5baa10b0b9e834a6b16f26066a0fce25cbbd656401dc5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/23872/Emelle__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "23872",
+  "timestamp": "2026-05-24T23:31:54.585090Z",
+  "version": 1
+}

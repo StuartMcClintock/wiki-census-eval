@@ -1,0 +1,67 @@
+==Demographics==
+{{US Census population
+|1880= 279
+|1890= 629
+|1900= 576
+|1910= 957
+|1920= 1386
+|1930= 1639
+|1940= 1906
+|1950= 1938
+|1960= 1833
+|1970= 1806
+|1980= 2134
+|1990= 2077
+|2000= 2092
+|2010= 2084
+|2020= 1843
+|align-fn=center
+|footnote=[https://www.census.gov/programs-surveys/decennial-census.html U.S. Decennial Census]<ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A45|title=Census Population API|publisher=United States Census Bureau|accessdate=October 15, 2022}}</ref>
+}}
+
+===2020 census===
+{| class="wikitable"
+|+St. George racial composition<ref>{{Cite web|title=Explore Census Data|url=https://data.census.gov/cedsci/table?g=1600000US4562530&tid=DECENNIALPL2020.P2|access-date=December 15, 2021|website=data.census.gov}}</ref>
+!Race
+!{{Abbr|Num.|Number}}
+!{{Abbr|Perc.|Percentage}}
+|-
+|[[White (U.S. Census)|White]] (non-Hispanic)
+|938
+|50.9%
+|-
+|[[African American (U.S. Census)|Black or African American]] (non-Hispanic)
+|755
+|40.97%
+|-
+|[[Native American (U.S. Census)|Native American]]
+|8
+|0.43%
+|-
+|[[Asian (U.S. Census)|Asian]]
+|20
+|1.09%
+|-
+|[[Pacific Islander (U.S. Census)|Pacific Islander]]
+|3
+|0.16%
+|-
+|[[Race (United States Census)|Other/Mixed]]
+|87
+|4.72%
+|-
+|[[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]]
+|32
+|1.74%
+|}
+As of the [[2020 United States census]], there were 1,843 people, 744 households, and 453 families residing in the town.
+
+===2000 census===
+As of the [[census]]<ref name="GR2" /> of 2000, there were 2,092 people and 804 households residing in the town. The population density was {{convert|779.7|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 928 housing units at an average density of {{convert|345.9|/sqmi|/km2|sp=us|adj=off}}. The racial makeup of the town was 51.19% [[White (U.S. Census)|White]], 47.22% [[African American (U.S. Census)|African American]], 0.19% [[Native American (U.S. Census)|Native American]], 0.72% [[Asian (U.S. Census)|Asian]], 0.33% from [[Race (United States Census)|other races]], and 0.33% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 0.91% of the population.
+
+There were 804 households, out of which 30.2% had children under the age of 18 living with them, 42.4% were [[Marriage|married couples]] living together, 19.5% had a female householder with no husband present, and 34.6% were non-families. 32.7% of all households were made up of individuals, and 15.2% had someone living alone who was 65 years of age or older. The average household size was 2.36 and the average family size was 3.00.
+
+In the town, the population was spread out, with 23.9% under the age of 18, 7.6% from 18 to 24, 26.6% from 25 to 44, 22.7% from 45 to 64, and 19.2% who were 65 years of age or older. The median age was 39 years. For every 100 females, there were 91.8 males. For every 100 women age 18 and over, there were 87.4 men.
+
+The median income for a household in the town was $24,651, and the median income for a family was $40,000. Men had a median income of $27,639 versus $19,957 for women. The [[per capita income]] for the town was $13,389. About 14.2% of families and 18.7% of the population were below the [[poverty line]], including 22.2% of those under age 18 and 25.2% of those age 65 or over.
+

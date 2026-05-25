@@ -1,0 +1,16 @@
+{
+  "article": "Silverton,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/70580/Silverton__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e28ac8a7a65376133b8da53d9c5445604ff86da191107ad3cbf62dee43d83b20",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e28ac8a7a65376133b8da53d9c5445604ff86da191107ad3cbf62dee43d83b20",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/70580/Silverton__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "70580",
+  "timestamp": "2026-05-24T23:35:41.006650Z",
+  "version": 1
+}

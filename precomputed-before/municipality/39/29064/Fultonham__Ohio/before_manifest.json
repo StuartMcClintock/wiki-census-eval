@@ -1,0 +1,16 @@
+{
+  "article": "Fultonham,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/29064/Fultonham__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1eedf214709e2266c6a2938b0c2a3a09f39e6aace4aed3f638fb1aeb84c9f183",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1eedf214709e2266c6a2938b0c2a3a09f39e6aace4aed3f638fb1aeb84c9f183",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/29064/Fultonham__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "29064",
+  "timestamp": "2026-05-25T00:04:10.611900Z",
+  "version": 1
+}

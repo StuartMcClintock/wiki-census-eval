@@ -1,0 +1,16 @@
+{
+  "article": "East_Kingston,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/22370/East_Kingston__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "26d038fa730e530f3c5de469c57aeb3ed835e7a72023acf69278c34f3fb2cf1e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "26d038fa730e530f3c5de469c57aeb3ed835e7a72023acf69278c34f3fb2cf1e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/22370/East_Kingston__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "22370",
+  "timestamp": "2026-05-25T00:00:41.244952Z",
+  "version": 1
+}

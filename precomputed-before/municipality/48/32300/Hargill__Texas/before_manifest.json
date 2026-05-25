@@ -1,0 +1,16 @@
+{
+  "article": "Hargill,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/32300/Hargill__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "55540b29945d791baf3d622a3e139b103f3da16c417950d93ac59a1e8a7bb725",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "55540b29945d791baf3d622a3e139b103f3da16c417950d93ac59a1e8a7bb725",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/32300/Hargill__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "32300",
+  "timestamp": "2026-05-25T00:15:41.330440Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Fort_Montgomery,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/26902/Fort_Montgomery__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2279f79d7e46ca028a83ffcd33b3b5a3f868e3195ce424a0f9b7d84ef00b40dd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2279f79d7e46ca028a83ffcd33b3b5a3f868e3195ce424a0f9b7d84ef00b40dd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/26902/Fort_Montgomery__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "26902",
+  "timestamp": "2026-05-25T00:00:43.453137Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Poinsett_Colony,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/51220/Poinsett_Colony__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "97832aabb00a0dec303c648fa3e02baaba9bc91e43625cfc941614ec608b9575",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "97832aabb00a0dec303c648fa3e02baaba9bc91e43625cfc941614ec608b9575",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/51220/Poinsett_Colony__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "51220",
+  "timestamp": "2026-05-25T00:11:08.826293Z",
+  "version": 1
+}

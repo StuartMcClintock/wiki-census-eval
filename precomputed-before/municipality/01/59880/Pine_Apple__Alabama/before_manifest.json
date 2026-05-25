@@ -1,0 +1,16 @@
+{
+  "article": "Pine_Apple,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/59880/Pine_Apple__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ce908301b5654515aa495ba908731da861dfdc4872bbfc324fb57c8e59f56d68",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ce908301b5654515aa495ba908731da861dfdc4872bbfc324fb57c8e59f56d68",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/59880/Pine_Apple__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "59880",
+  "timestamp": "2026-05-24T23:32:08.907539Z",
+  "version": 1
+}

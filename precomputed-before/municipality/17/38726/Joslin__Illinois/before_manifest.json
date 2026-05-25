@@ -1,0 +1,16 @@
+{
+  "article": "Joslin,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/38726/Joslin__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "031d69f4679a7212a9cf2d8110edb7a7a301710a88fae750ca3c25e07a8ae6a3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "031d69f4679a7212a9cf2d8110edb7a7a301710a88fae750ca3c25e07a8ae6a3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/38726/Joslin__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "38726",
+  "timestamp": "2026-05-24T23:38:24.130271Z",
+  "version": 1
+}

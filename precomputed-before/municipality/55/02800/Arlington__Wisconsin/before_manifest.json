@@ -1,0 +1,16 @@
+{
+  "article": "Arlington,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/02800/Arlington__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e1f116ffd6ad384601625496c022293dca473ad6ca2fd931b0943a72f93ce2de",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e1f116ffd6ad384601625496c022293dca473ad6ca2fd931b0943a72f93ce2de",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/02800/Arlington__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "02800",
+  "timestamp": "2026-05-25T00:21:32.915132Z",
+  "version": 1
+}

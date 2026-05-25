@@ -1,0 +1,16 @@
+{
+  "article": "Coldstream,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/16521/Coldstream__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a792c7b43324999425c3fd4443e343d6991f6a0af7ca76687c527c021b6b38ae",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a792c7b43324999425c3fd4443e343d6991f6a0af7ca76687c527c021b6b38ae",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/16521/Coldstream__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "16521",
+  "timestamp": "2026-05-25T00:03:56.053413Z",
+  "version": 1
+}

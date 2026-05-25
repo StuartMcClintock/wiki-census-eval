@@ -1,0 +1,16 @@
+{
+  "article": "La_Fayette,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/40676/La_Fayette__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "725908a78c51e7e5cd872e00ee6291201a620e70d055ef3c16dadab8adac8e8d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "725908a78c51e7e5cd872e00ee6291201a620e70d055ef3c16dadab8adac8e8d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/40676/La_Fayette__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "40676",
+  "timestamp": "2026-05-24T23:38:26.930051Z",
+  "version": 1
+}

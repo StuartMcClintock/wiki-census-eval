@@ -1,0 +1,16 @@
+{
+  "article": "Honcut,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/34428/Honcut__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a32fb87109477093a425fb8276ab79dc7623630c7ed33244800da9555c5fac67",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a32fb87109477093a425fb8276ab79dc7623630c7ed33244800da9555c5fac67",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/34428/Honcut__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "34428",
+  "timestamp": "2026-05-24T23:34:28.383173Z",
+  "version": 1
+}

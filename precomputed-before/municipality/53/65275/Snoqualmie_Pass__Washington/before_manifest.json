@@ -1,0 +1,16 @@
+{
+  "article": "Snoqualmie_Pass,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/65275/Snoqualmie_Pass__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4749a722e13935a78890a37247dddeca68816440d84bc6cd5ba08da041466d5c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4749a722e13935a78890a37247dddeca68816440d84bc6cd5ba08da041466d5c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/65275/Snoqualmie_Pass__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "65275",
+  "timestamp": "2026-05-25T00:20:32.722749Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Klein,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/41050/Klein__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8f807cac512cff4db1b3fc2838540d7057132042c2c86d32b049aeff31fbacf0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8f807cac512cff4db1b3fc2838540d7057132042c2c86d32b049aeff31fbacf0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/41050/Klein__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "41050",
+  "timestamp": "2026-05-24T23:54:34.077129Z",
+  "version": 1
+}

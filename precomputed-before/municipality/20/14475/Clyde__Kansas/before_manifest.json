@@ -1,0 +1,16 @@
+{
+  "article": "Clyde,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/14475/Clyde__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fc13b47ce12094ea8b03767e00332f18cfcf99ca933381d0c5ade5f5d3bd1f71",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fc13b47ce12094ea8b03767e00332f18cfcf99ca933381d0c5ade5f5d3bd1f71",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/14475/Clyde__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "14475",
+  "timestamp": "2026-05-24T23:42:28.773536Z",
+  "version": 1
+}

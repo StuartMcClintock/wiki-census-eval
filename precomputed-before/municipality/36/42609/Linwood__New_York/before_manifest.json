@@ -1,0 +1,16 @@
+{
+  "article": "Linwood,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/42609/Linwood__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ac039e15f0db38d462cbf1136aeed4a7f4471eb55f8f5196eab4157d956c7e6a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ac039e15f0db38d462cbf1136aeed4a7f4471eb55f8f5196eab4157d956c7e6a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/42609/Linwood__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "42609",
+  "timestamp": "2026-05-25T00:00:52.124334Z",
+  "version": 1
+}

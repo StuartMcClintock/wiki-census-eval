@@ -1,0 +1,16 @@
+{
+  "article": "Mohrsville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/50280/Mohrsville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e656ef05118e289fc39ecc71c575d8fdd24905e55ea53e7c47be0b7e06d64daa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e656ef05118e289fc39ecc71c575d8fdd24905e55ea53e7c47be0b7e06d64daa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/50280/Mohrsville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "50280",
+  "timestamp": "2026-05-25T00:08:08.143669Z",
+  "version": 1
+}

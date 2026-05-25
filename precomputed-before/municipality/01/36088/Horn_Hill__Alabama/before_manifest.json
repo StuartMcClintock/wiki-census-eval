@@ -1,0 +1,16 @@
+{
+  "article": "Horn_Hill,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/36088/Horn_Hill__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5e2ad89ee81c1ad1f2246afb91a8e31687fba5965ab8c8b148ee02e5dbed2a3b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5e2ad89ee81c1ad1f2246afb91a8e31687fba5965ab8c8b148ee02e5dbed2a3b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/36088/Horn_Hill__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "36088",
+  "timestamp": "2026-05-24T23:32:00.452845Z",
+  "version": 1
+}

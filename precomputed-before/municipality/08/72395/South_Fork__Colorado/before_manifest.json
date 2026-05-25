@@ -1,0 +1,16 @@
+{
+  "article": "South_Fork,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/72395/South_Fork__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d6ff5f0110307a1b868edeac8eb7f881c4480c8043e2577aed69a0cd02644130",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d6ff5f0110307a1b868edeac8eb7f881c4480c8043e2577aed69a0cd02644130",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/72395/South_Fork__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "72395",
+  "timestamp": "2026-05-24T23:35:41.660492Z",
+  "version": 1
+}

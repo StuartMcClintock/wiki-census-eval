@@ -1,0 +1,16 @@
+{
+  "article": "Lyons,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/39740/Lyons__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8f13e6512e7598ccce8198a395a54805f7f4a1d753f14385219c7777ea8de2c6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8f13e6512e7598ccce8198a395a54805f7f4a1d753f14385219c7777ea8de2c6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/39740/Lyons__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "39740",
+  "timestamp": "2026-05-25T00:11:02.104219Z",
+  "version": 1
+}

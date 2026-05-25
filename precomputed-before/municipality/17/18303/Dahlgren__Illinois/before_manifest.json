@@ -1,0 +1,16 @@
+{
+  "article": "Dahlgren,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/18303/Dahlgren__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fd8e48a2caf8d003289ad84b5cf9e78aa1d475a72e432ebe2f8887c9b5e3e39c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fd8e48a2caf8d003289ad84b5cf9e78aa1d475a72e432ebe2f8887c9b5e3e39c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/18303/Dahlgren__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "18303",
+  "timestamp": "2026-05-24T23:38:04.904807Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Woods_Landing-Jelm,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/84852/Woods_Landing-Jelm__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "763daffb63bff87e21fa00d9d8ec2ff6ce252223195fff35dc4bc27fbeeaf85f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "763daffb63bff87e21fa00d9d8ec2ff6ce252223195fff35dc4bc27fbeeaf85f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/84852/Woods_Landing-Jelm__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "84852",
+  "timestamp": "2026-05-25T00:23:26.061609Z",
+  "version": 1
+}

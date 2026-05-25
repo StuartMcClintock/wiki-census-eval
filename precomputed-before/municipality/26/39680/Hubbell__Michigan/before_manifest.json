@@ -1,0 +1,16 @@
+{
+  "article": "Hubbell,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/39680/Hubbell__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1b1a3c7a3f20f5bda395267bb84f22db20a98652e37a00ab02dbdc2cc761863d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1b1a3c7a3f20f5bda395267bb84f22db20a98652e37a00ab02dbdc2cc761863d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/39680/Hubbell__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "39680",
+  "timestamp": "2026-05-24T23:47:59.539340Z",
+  "version": 1
+}

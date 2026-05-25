@@ -1,0 +1,16 @@
+{
+  "article": "Middleburg,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/48960/Middleburg__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "70d27e4aa8e67bd1b026dbe32d0a34729cb9ddd66fbec03b9b45e7a4130d5449",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "70d27e4aa8e67bd1b026dbe32d0a34729cb9ddd66fbec03b9b45e7a4130d5449",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/48960/Middleburg__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "48960",
+  "timestamp": "2026-05-25T00:08:04.747649Z",
+  "version": 1
+}

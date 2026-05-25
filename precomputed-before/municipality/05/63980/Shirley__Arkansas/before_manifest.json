@@ -1,0 +1,16 @@
+{
+  "article": "Shirley,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/63980/Shirley__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b884f4ab9382c156e279597ba12643ee6f94d3aa2906c77e034b137a6cd81d65",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b884f4ab9382c156e279597ba12643ee6f94d3aa2906c77e034b137a6cd81d65",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/63980/Shirley__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "63980",
+  "timestamp": "2026-05-24T23:34:08.639645Z",
+  "version": 1
+}

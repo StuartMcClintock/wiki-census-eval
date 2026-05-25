@@ -1,0 +1,16 @@
+{
+  "article": "Box_Canyon,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/09656/Box_Canyon__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5508064deb0706041a9de27c375a631cfff1ddf105ae572e729118c48f463cb5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5508064deb0706041a9de27c375a631cfff1ddf105ae572e729118c48f463cb5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/09656/Box_Canyon__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "09656",
+  "timestamp": "2026-05-25T00:15:07.915448Z",
+  "version": 1
+}

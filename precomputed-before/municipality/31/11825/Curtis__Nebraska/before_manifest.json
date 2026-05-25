@@ -1,0 +1,16 @@
+{
+  "article": "Curtis,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/11825/Curtis__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2f1637e79c34f7e2fb402b49aeaa54ef0e43a05276ac63347517656a74981409",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2f1637e79c34f7e2fb402b49aeaa54ef0e43a05276ac63347517656a74981409",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/11825/Curtis__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "11825",
+  "timestamp": "2026-05-24T23:55:20.993508Z",
+  "version": 1
+}

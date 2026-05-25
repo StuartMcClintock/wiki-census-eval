@@ -1,0 +1,16 @@
+{
+  "article": "Emerald_Bay,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/24158/Emerald_Bay__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "af25c52b9af37e8499e53c6182c02d0d7777f56681df5fc9551ee9fbdf4464c4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "af25c52b9af37e8499e53c6182c02d0d7777f56681df5fc9551ee9fbdf4464c4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/24158/Emerald_Bay__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "24158",
+  "timestamp": "2026-05-25T00:15:33.181274Z",
+  "version": 1
+}

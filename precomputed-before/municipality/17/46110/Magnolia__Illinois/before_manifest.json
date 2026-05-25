@@ -1,0 +1,16 @@
+{
+  "article": "Magnolia,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/46110/Magnolia__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "23647d698a4ffa78cf594703d6450594c6f157f75794eda0749d1fed5c965e11",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "23647d698a4ffa78cf594703d6450594c6f157f75794eda0749d1fed5c965e11",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/46110/Magnolia__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "46110",
+  "timestamp": "2026-05-24T23:38:32.313060Z",
+  "version": 1
+}

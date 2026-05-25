@@ -1,0 +1,16 @@
+{
+  "article": "Coon_Valley,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/16900/Coon_Valley__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3974a3b7b1818b17c81a71f0173218a1471f750d3ff4299cb48015d160ea9886",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3974a3b7b1818b17c81a71f0173218a1471f750d3ff4299cb48015d160ea9886",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/16900/Coon_Valley__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "16900",
+  "timestamp": "2026-05-25T00:21:44.959348Z",
+  "version": 1
+}

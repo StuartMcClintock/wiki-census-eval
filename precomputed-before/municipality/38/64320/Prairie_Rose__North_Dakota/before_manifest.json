@@ -1,0 +1,16 @@
+{
+  "article": "Prairie_Rose,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/64320/Prairie_Rose__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fb99369a28e72878c1546052d33dcbf08445fd83186ca9eb9a6913cbd07ff0cd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fb99369a28e72878c1546052d33dcbf08445fd83186ca9eb9a6913cbd07ff0cd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/64320/Prairie_Rose__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "64320",
+  "timestamp": "2026-05-25T00:03:18.044665Z",
+  "version": 1
+}

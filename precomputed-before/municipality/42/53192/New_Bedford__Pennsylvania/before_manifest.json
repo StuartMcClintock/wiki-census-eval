@@ -1,0 +1,16 @@
+{
+  "article": "New_Bedford,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/53192/New_Bedford__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f0cd878daf82ecb74b1e4086df436e04db81567d56fd24aa80280cbfdeeaf5c7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f0cd878daf82ecb74b1e4086df436e04db81567d56fd24aa80280cbfdeeaf5c7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/53192/New_Bedford__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "53192",
+  "timestamp": "2026-05-25T00:08:14.092907Z",
+  "version": 1
+}

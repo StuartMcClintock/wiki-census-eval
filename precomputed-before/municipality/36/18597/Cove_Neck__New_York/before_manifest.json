@@ -1,0 +1,16 @@
+{
+  "article": "Cove_Neck,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/18597/Cove_Neck__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dd740d51ac08f0185b58b923985373a79f2405b64d49c65b5c0a7fd0a3fa8f7f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dd740d51ac08f0185b58b923985373a79f2405b64d49c65b5c0a7fd0a3fa8f7f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/18597/Cove_Neck__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "18597",
+  "timestamp": "2026-05-25T00:00:38.038626Z",
+  "version": 1
+}

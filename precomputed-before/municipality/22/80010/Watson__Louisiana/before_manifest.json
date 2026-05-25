@@ -1,0 +1,16 @@
+{
+  "article": "Watson,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/80010/Watson__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "224369b32b1aba44094dd721c16d541d341d59aaabdac279af6aeb0af7a53a5b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "224369b32b1aba44094dd721c16d541d341d59aaabdac279af6aeb0af7a53a5b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/80010/Watson__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "80010",
+  "timestamp": "2026-05-24T23:45:12.283673Z",
+  "version": 1
+}

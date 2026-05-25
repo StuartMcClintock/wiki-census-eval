@@ -1,0 +1,16 @@
+{
+  "article": "Coulee_Dam,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/15115/Coulee_Dam__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8056d9d2829428fef6b8fe8c5637cf1f34a48113a5a60149a2f4db969800b38b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8056d9d2829428fef6b8fe8c5637cf1f34a48113a5a60149a2f4db969800b38b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/15115/Coulee_Dam__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "15115",
+  "timestamp": "2026-05-25T00:20:08.078203Z",
+  "version": 1
+}

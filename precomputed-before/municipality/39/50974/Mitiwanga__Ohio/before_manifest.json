@@ -1,0 +1,16 @@
+{
+  "article": "Mitiwanga,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/50974/Mitiwanga__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0a06b6e405d140777dee73b2cd858cb375fd0931e22a5215d446911c21388d24",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0a06b6e405d140777dee73b2cd858cb375fd0931e22a5215d446911c21388d24",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/50974/Mitiwanga__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "50974",
+  "timestamp": "2026-05-25T00:04:47.734927Z",
+  "version": 1
+}

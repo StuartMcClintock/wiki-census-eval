@@ -1,0 +1,16 @@
+{
+  "article": "Bay_Port,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/06120/Bay_Port__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bf008b7da38cab21b0957f0a1439aaa23e7bd980e7299e987e1465bbc0ac9292",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bf008b7da38cab21b0957f0a1439aaa23e7bd980e7299e987e1465bbc0ac9292",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/06120/Bay_Port__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "06120",
+  "timestamp": "2026-05-24T23:47:42.637581Z",
+  "version": 1
+}

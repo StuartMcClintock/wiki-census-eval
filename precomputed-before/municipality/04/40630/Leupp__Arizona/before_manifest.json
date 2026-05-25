@@ -1,0 +1,16 @@
+{
+  "article": "Leupp,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/40630/Leupp__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "72cd4db75ebcd0a36f894660c83919add732c8072127e3f15630060ca3aebf55",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "72cd4db75ebcd0a36f894660c83919add732c8072127e3f15630060ca3aebf55",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/40630/Leupp__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "40630",
+  "timestamp": "2026-05-24T23:33:02.821952Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Wildwood,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/83208/Wildwood__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "31aa6fa89cc63c877e89a81f6a2d0b77a41f1ed7b3063396d6452c204bee0866",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "31aa6fa89cc63c877e89a81f6a2d0b77a41f1ed7b3063396d6452c204bee0866",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/83208/Wildwood__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "83208",
+  "timestamp": "2026-05-24T23:44:26.288876Z",
+  "version": 1
+}

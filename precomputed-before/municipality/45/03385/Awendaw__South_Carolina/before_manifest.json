@@ -1,0 +1,16 @@
+{
+  "article": "Awendaw,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/03385/Awendaw__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9dad37fc6176223e865b60aa471c12c82166b9f948ff4d098ea72574c49aa235",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9dad37fc6176223e865b60aa471c12c82166b9f948ff4d098ea72574c49aa235",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/03385/Awendaw__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "03385",
+  "timestamp": "2026-05-25T00:09:39.214109Z",
+  "version": 1
+}

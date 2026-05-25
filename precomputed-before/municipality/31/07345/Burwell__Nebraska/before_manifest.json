@@ -1,0 +1,16 @@
+{
+  "article": "Burwell,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/07345/Burwell__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fedfabf4acac774f5cda7bd3c81e7edea0b3d33c02e25b545a5549fd9f8049e7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fedfabf4acac774f5cda7bd3c81e7edea0b3d33c02e25b545a5549fd9f8049e7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/07345/Burwell__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "07345",
+  "timestamp": "2026-05-24T23:55:15.443593Z",
+  "version": 1
+}

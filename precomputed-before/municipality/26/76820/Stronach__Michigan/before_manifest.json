@@ -1,0 +1,16 @@
+{
+  "article": "Stronach,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/76820/Stronach__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "99bffb615abb7873b9bdcf66731c2127d81ed3728997da51dd24cd23be39143d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "99bffb615abb7873b9bdcf66731c2127d81ed3728997da51dd24cd23be39143d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/76820/Stronach__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "76820",
+  "timestamp": "2026-05-24T23:48:29.648488Z",
+  "version": 1
+}

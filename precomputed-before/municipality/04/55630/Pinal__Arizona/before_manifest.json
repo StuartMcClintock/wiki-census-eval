@@ -1,0 +1,16 @@
+{
+  "article": "Pinal,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/55630/Pinal__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "100ae2d437d246993bc270d424e24d881c2f1eccf948d98ce708287ef4b698af",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "100ae2d437d246993bc270d424e24d881c2f1eccf948d98ce708287ef4b698af",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/55630/Pinal__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "55630",
+  "timestamp": "2026-05-24T23:33:06.239543Z",
+  "version": 1
+}

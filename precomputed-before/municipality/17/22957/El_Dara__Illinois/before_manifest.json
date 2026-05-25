@@ -1,0 +1,16 @@
+{
+  "article": "El_Dara,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/22957/El_Dara__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7e4981052a9e78310bc9c18ae3b9ca887b8e9cc0437d9f8d21e064e0b4cfb7d4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7e4981052a9e78310bc9c18ae3b9ca887b8e9cc0437d9f8d21e064e0b4cfb7d4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/22957/El_Dara__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "22957",
+  "timestamp": "2026-05-24T23:38:09.141250Z",
+  "version": 1
+}

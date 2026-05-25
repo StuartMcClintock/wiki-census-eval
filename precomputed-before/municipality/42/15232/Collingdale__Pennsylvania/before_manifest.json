@@ -1,0 +1,16 @@
+{
+  "article": "Collingdale,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/15232/Collingdale__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5feffd09aa8c4b08c529d4b637a4be865674eb45cd2ff43d129c098d9b1c961c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5feffd09aa8c4b08c529d4b637a4be865674eb45cd2ff43d129c098d9b1c961c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/15232/Collingdale__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "15232",
+  "timestamp": "2026-05-25T00:06:44.358427Z",
+  "version": 1
+}

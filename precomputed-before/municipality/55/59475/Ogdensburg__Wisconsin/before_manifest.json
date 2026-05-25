@@ -1,0 +1,16 @@
+{
+  "article": "Ogdensburg,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/59475/Ogdensburg__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3c532552531b15179f29e3680b194a37da8ebf4cdd16c920ee0264a10d4dae87",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3c532552531b15179f29e3680b194a37da8ebf4cdd16c920ee0264a10d4dae87",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/59475/Ogdensburg__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "59475",
+  "timestamp": "2026-05-25T00:22:31.480398Z",
+  "version": 1
+}

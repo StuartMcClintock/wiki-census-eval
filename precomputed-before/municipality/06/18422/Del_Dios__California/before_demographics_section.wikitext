@@ -1,0 +1,53 @@
+==Demographics==
+{{US Census population
+|2020= 396
+|align-fn=center
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census/decade.html|title=Decennial Census of Population and Housing by Decades|publisher=[[US Census Bureau]]|access-date=}}</ref><br> 2020<ref name=2020CensusP2/>
+}}
+
+Del Dios first appeared as a [[census-designated place]] in the [[2020 United States census|2020 census]].<ref>{{Cite web|title=2020 Geography Changes|url=https://www.census.gov/programs-surveys/acs/technical-documentation/table-and-geography-changes/2020/geography-changes.html|publisher=[[United States Census Bureau]] |access-date=}}</ref><ref name=2020CensusP2/>
+
+===2020 Census===
+{| class="wikitable" style="text-align:center;"
+|+'''Del Dios, California – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2020<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Del Dios CDP, California|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US0618422|publisher=United States Census Bureau |access-date=January 26, 2024}}</ref>
+!% 2020
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|324
+|81.82%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|7
+|1.77%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|2
+|0.51%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|7
+|1.77%
+|-
+|[[Native Hawaiian]] or [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|0.00%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|6
+|1.52%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|8
+|2.02%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|42
+|10.61%
+|-
+|'''Total'''
+|'''396'''
+|'''100.00%'''
+|}
+

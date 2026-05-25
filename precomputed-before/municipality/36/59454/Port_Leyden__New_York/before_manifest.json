@@ -1,0 +1,16 @@
+{
+  "article": "Port_Leyden,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/59454/Port_Leyden__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "19bd5e3b81e8bb35edad76fbbf5a165e766245f031ccc630f4d8b7c86239740a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "19bd5e3b81e8bb35edad76fbbf5a165e766245f031ccc630f4d8b7c86239740a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/59454/Port_Leyden__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "59454",
+  "timestamp": "2026-05-25T00:01:06.017417Z",
+  "version": 1
+}

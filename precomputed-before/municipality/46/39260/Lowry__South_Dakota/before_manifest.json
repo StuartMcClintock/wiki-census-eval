@@ -1,0 +1,16 @@
+{
+  "article": "Lowry,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/39260/Lowry__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b23147aba82d27aba3e7bf646d62e9bba221ad1e17e7c4475d8cdab14ba99b59",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b23147aba82d27aba3e7bf646d62e9bba221ad1e17e7c4475d8cdab14ba99b59",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/39260/Lowry__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "39260",
+  "timestamp": "2026-05-25T00:11:01.994597Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Shoshoni,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/70570/Shoshoni__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "932f553fc40d6c95961d95bf2235a38b6affd8a11daecf2fcba9ebed3feb5e74",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "932f553fc40d6c95961d95bf2235a38b6affd8a11daecf2fcba9ebed3feb5e74",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/70570/Shoshoni__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "70570",
+  "timestamp": "2026-05-25T00:23:23.188397Z",
+  "version": 1
+}

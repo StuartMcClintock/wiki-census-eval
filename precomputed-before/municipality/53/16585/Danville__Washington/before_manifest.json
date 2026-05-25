@@ -1,0 +1,16 @@
+{
+  "article": "Danville,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/16585/Danville__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "21e72bc691b41a69e3eda97bd73f75b2a0fefcdbd08160b5ab4c7ab455ed6b8f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "21e72bc691b41a69e3eda97bd73f75b2a0fefcdbd08160b5ab4c7ab455ed6b8f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/16585/Danville__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "16585",
+  "timestamp": "2026-05-25T00:20:09.378591Z",
+  "version": 1
+}

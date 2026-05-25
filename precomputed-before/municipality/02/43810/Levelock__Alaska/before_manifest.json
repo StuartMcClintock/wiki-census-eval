@@ -1,0 +1,16 @@
+{
+  "article": "Levelock,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/43810/Levelock__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3fa15cb29ea569c491b335a9d20028c13ea457c01b8bd3c34a93d077f7749cef",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3fa15cb29ea569c491b335a9d20028c13ea457c01b8bd3c34a93d077f7749cef",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/43810/Levelock__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "43810",
+  "timestamp": "2026-05-24T23:32:25.718594Z",
+  "version": 1
+}

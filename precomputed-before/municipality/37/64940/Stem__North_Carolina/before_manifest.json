@@ -1,0 +1,16 @@
+{
+  "article": "Stem,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/64940/Stem__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7d466fee8182f1800000f9fa5be57b66411ef75f854392fdbd0c17b5998dfd9a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7d466fee8182f1800000f9fa5be57b66411ef75f854392fdbd0c17b5998dfd9a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/64940/Stem__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "64940",
+  "timestamp": "2026-05-25T00:02:25.101244Z",
+  "version": 1
+}

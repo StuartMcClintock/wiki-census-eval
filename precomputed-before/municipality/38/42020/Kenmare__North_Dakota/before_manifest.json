@@ -1,0 +1,16 @@
+{
+  "article": "Kenmare,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/42020/Kenmare__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ceacd19b757b07c8d86b0e617993b8b8ae678b8a409547d988741726856624a5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ceacd19b757b07c8d86b0e617993b8b8ae678b8a409547d988741726856624a5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/42020/Kenmare__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "42020",
+  "timestamp": "2026-05-25T00:03:05.894813Z",
+  "version": 1
+}

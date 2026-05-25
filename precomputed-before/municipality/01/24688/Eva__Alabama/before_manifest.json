@@ -1,0 +1,16 @@
+{
+  "article": "Eva,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/24688/Eva__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "df53bfc4608b1ab653f81b2bad9220ab160338887d27c4c81cba25e8f528c794",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "df53bfc4608b1ab653f81b2bad9220ab160338887d27c4c81cba25e8f528c794",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/24688/Eva__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "24688",
+  "timestamp": "2026-05-24T23:31:55.199633Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Piedmont,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/55750/Piedmont__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "89208070ff06522fe75629c11ebb99e347b49f3a1037f3e8770a776323be9154",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "89208070ff06522fe75629c11ebb99e347b49f3a1037f3e8770a776323be9154",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/55750/Piedmont__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "55750",
+  "timestamp": "2026-05-24T23:43:20.233374Z",
+  "version": 1
+}

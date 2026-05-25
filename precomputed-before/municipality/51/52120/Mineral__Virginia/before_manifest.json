@@ -1,0 +1,16 @@
+{
+  "article": "Mineral,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/52120/Mineral__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "142c0f5846669459f5e801f3243a698f030680bdc2d9ca550c01d0bdf0828b13",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "142c0f5846669459f5e801f3243a698f030680bdc2d9ca550c01d0bdf0828b13",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/52120/Mineral__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "52120",
+  "timestamp": "2026-05-25T00:19:26.699902Z",
+  "version": 1
+}

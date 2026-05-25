@@ -1,0 +1,16 @@
+{
+  "article": "Minto,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/49530/Minto__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a332c9b4e04cc2e634d4becb179a94e0fea3d0d4f9570482fdf95f11116b904b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a332c9b4e04cc2e634d4becb179a94e0fea3d0d4f9570482fdf95f11116b904b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/49530/Minto__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "49530",
+  "timestamp": "2026-05-24T23:32:27.290019Z",
+  "version": 1
+}

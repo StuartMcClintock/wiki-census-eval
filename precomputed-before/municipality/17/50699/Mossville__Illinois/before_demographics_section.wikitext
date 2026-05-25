@@ -1,0 +1,52 @@
+==Demographics==
+{{US Census population
+|align = left
+|2020= 268
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=http://www.census.gov/prod/www/decennial.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2016}}</ref>
+}}
+
+Mossville first appeared as a [[census designated place]] in the [[2020 U.S. census]].<ref>{{Cite web|title=2020 Geography Changes|url=https://www.census.gov/programs-surveys/acs/technical-documentation/table-and-geography-changes/2020/geography-changes.html|publisher=[[United States Census Bureau]] |access-date=}}</ref>
+
+{| class="wikitable sortable" style="text-align:center;"
+|+'''Mossville CDP, Illinois – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2020<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Mossville CDP, Illinois|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US1750699&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!2020
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+| 222
+| 82.84%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+| 5
+| 1.87%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|2
+|0.75%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+| 8
+|2.99%
+|-
+|[[Native Hawaiian]] or [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|0.00%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|2
+| 0.75%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+| 16
+| 5.97%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|13
+| 4.85%
+|-
+|'''Total'''
+|'''268 '''
+| '''100.00%'''
+|}
+

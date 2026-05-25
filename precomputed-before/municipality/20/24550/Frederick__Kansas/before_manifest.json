@@ -1,0 +1,16 @@
+{
+  "article": "Frederick,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/24550/Frederick__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c99821f4ef15113dd977830a098de4de3ab4e0babd112f34b80a657908aa335e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c99821f4ef15113dd977830a098de4de3ab4e0babd112f34b80a657908aa335e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/24550/Frederick__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "24550",
+  "timestamp": "2026-05-24T23:42:39.351987Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Indian_Creek,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/33425/Indian_Creek__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4765681b99d64a547c735403a3decfe15dc77aeee5f13d8a2d587c022c4d2e3b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4765681b99d64a547c735403a3decfe15dc77aeee5f13d8a2d587c022c4d2e3b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/33425/Indian_Creek__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "33425",
+  "timestamp": "2026-05-24T23:36:14.691308Z",
+  "version": 1
+}

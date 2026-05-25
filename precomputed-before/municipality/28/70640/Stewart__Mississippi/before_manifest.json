@@ -1,0 +1,16 @@
+{
+  "article": "Stewart,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/70640/Stewart__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5b3d156d5e2264f7347dceb47e1a1a86f3d7c5a5d7e7fd1f82fcf1880d68956f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5b3d156d5e2264f7347dceb47e1a1a86f3d7c5a5d7e7fd1f82fcf1880d68956f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/70640/Stewart__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "70640",
+  "timestamp": "2026-05-24T23:50:25.697272Z",
+  "version": 1
+}

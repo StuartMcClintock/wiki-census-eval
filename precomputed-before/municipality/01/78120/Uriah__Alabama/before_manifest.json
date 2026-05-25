@@ -1,0 +1,16 @@
+{
+  "article": "Uriah,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/78120/Uriah__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "14568638df1ce1b5ae68bf2aa1028c7cdbc0930c9551d4e476abaa422c12adc3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "14568638df1ce1b5ae68bf2aa1028c7cdbc0930c9551d4e476abaa422c12adc3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/78120/Uriah__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "78120",
+  "timestamp": "2026-05-24T23:32:14.879541Z",
+  "version": 1
+}

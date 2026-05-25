@@ -1,0 +1,16 @@
+{
+  "article": "Lyman,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/46410/Lyman__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0c913df4a6e3f7188f27a8314013e56fe76fc11dcd6e7355b0ca18087b1f7dd6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0c913df4a6e3f7188f27a8314013e56fe76fc11dcd6e7355b0ca18087b1f7dd6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/46410/Lyman__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "46410",
+  "timestamp": "2026-05-25T00:17:04.833705Z",
+  "version": 1
+}

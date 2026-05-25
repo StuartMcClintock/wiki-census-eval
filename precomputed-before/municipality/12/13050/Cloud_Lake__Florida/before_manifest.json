@@ -1,0 +1,16 @@
+{
+  "article": "Cloud_Lake,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/13050/Cloud_Lake__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bdb2a27ffbd0df746c10d724cf697b48b4aa095639a22cedcb794f398eb9b25f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bdb2a27ffbd0df746c10d724cf697b48b4aa095639a22cedcb794f398eb9b25f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/13050/Cloud_Lake__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "13050",
+  "timestamp": "2026-05-24T23:36:10.001194Z",
+  "version": 1
+}

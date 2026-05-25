@@ -1,0 +1,16 @@
+{
+  "article": "Chippewa_Park,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/14280/Chippewa_Park__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a935d6a772a115b20c7de109bb1e2795c3abe6b9d9bd04af593c15186ee2b31d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a935d6a772a115b20c7de109bb1e2795c3abe6b9d9bd04af593c15186ee2b31d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/14280/Chippewa_Park__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "14280",
+  "timestamp": "2026-05-25T00:03:54.493769Z",
+  "version": 1
+}

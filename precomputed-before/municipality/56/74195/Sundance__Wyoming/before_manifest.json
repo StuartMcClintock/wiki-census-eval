@@ -1,0 +1,16 @@
+{
+  "article": "Sundance,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/74195/Sundance__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1341cd4f6db31b1f6265b7ea318b85fa161744cd5959b1db9b9fc3738473c988",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1341cd4f6db31b1f6265b7ea318b85fa161744cd5959b1db9b9fc3738473c988",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/74195/Sundance__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "74195",
+  "timestamp": "2026-05-25T00:23:24.174597Z",
+  "version": 1
+}

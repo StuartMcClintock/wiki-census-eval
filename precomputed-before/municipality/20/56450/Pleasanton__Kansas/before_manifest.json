@@ -1,0 +1,16 @@
+{
+  "article": "Pleasanton,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/56450/Pleasanton__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dd269b055727b7b3304addceb404f1fecaf232ec81e3aa8ab77a1840be2ff108",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dd269b055727b7b3304addceb404f1fecaf232ec81e3aa8ab77a1840be2ff108",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/56450/Pleasanton__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "56450",
+  "timestamp": "2026-05-24T23:43:20.822982Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Louisburg,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/44156/Louisburg__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4485ca700ef549c4e3941e1556450a78c620e81ce86d592dba22ce42892a8b65",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4485ca700ef549c4e3941e1556450a78c620e81ce86d592dba22ce42892a8b65",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/44156/Louisburg__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "44156",
+  "timestamp": "2026-05-24T23:53:29.345790Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Evergreen,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/24775/Evergreen__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "167daa3c06871136a0556c6192df6647d304f89b0955d1a64041767094a19db2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "167daa3c06871136a0556c6192df6647d304f89b0955d1a64041767094a19db2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/24775/Evergreen__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "24775",
+  "timestamp": "2026-05-24T23:44:47.337363Z",
+  "version": 1
+}

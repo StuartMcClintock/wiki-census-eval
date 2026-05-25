@@ -1,0 +1,16 @@
+{
+  "article": "Zihlman,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/87275/Zihlman__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d599f4df2d71ca8cf8b99982bb0dafb4c82a8863ab4a8b5caf2fff237c2fcb69",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d599f4df2d71ca8cf8b99982bb0dafb4c82a8863ab4a8b5caf2fff237c2fcb69",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/87275/Zihlman__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "87275",
+  "timestamp": "2026-05-24T23:47:37.774028Z",
+  "version": 1
+}

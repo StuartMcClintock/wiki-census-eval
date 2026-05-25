@@ -1,0 +1,51 @@
+==Demographics==
+{{US Census population
+|align=left
+|1880= 1162
+|1890= 1819
+|1900= 2648
+|1910= 3330
+|1920= 4855
+|1930= 6099
+|1940= 6404
+|1950= 7274
+|1960= 7674
+|1970= 7894
+|1980= 8039
+|1990= 8781
+|2000= 9888
+|2010= 11922
+|2020= 9669
+|estyear=2021
+|estimate=9913
+|estref=<ref name="USCensusEst2020-2021"/> {{increase}}
+|footnote=Sources:<ref name="USDecennialCensus">{{cite web|title=Census of Population and Housing|url=https://www.census.gov/programs-surveys/decennial-census.html|publisher=U.S. Census Bureau|access-date=11 December 2013}}</ref><ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A42|title=Census Population API|publisher=United States Census Bureau|accessdate=Oct 12, 2022}}</ref>
+}}
+According to the [[American Community Survey]] conducted in 2009, the racial composition of East Stroudsburg was:
+
+White: 64.35%
+Black or African American: 21.26%
+Two or more races: 6.57%
+Other race: 4.15%
+Asian: 3.46%
+Native American: 0.13%
+Native Hawaiian or Pacific Islander: 0.09%
+As of the [[census]]<ref name="census">{{cite web | url=http://factfinder.census.gov/servlet/SAFFFacts?_event=Search&geo_id=86000US18301&_geoContext=01000US%7c86000US18301&_street=&_county=East+Stroudsburg&_cityTown=East+Stroudsburg&_state=04000US42&_zip=&_lang=en&_sse=on&ActiveGeoDiv=geoSelect&_useEV=&pctxt=fph&pgsl=860&_submenuId=factsheet_1&ds_name=DEC_2000_SAFF&_ci_nbr=null&qr_name=null&reg=null:null&_keyword=&_industry= | title=East Stroudsburg borough, Pennsylvania | publisher=US Census Bureau | access-date=2009-07-08 }}{{dead link|date=May 2020|bot=medic}}{{cbignore|bot=medic}}</ref> of 2010, there were 11,922 people, 3,145 households, and 1,855 families residing in the borough. The [[population density]] was {{convert|3,445.6|/sqmi|/km2|disp=preunit|people&nbsp;|people|abbr=out}}. There were 3,331 housing units at an average density of {{convert|1,160.7|/sqmi|/km2|abbr=out}}.
+
+There were 3,331 households, out of which 27.8% had children under the age of 18 living with them, 41.9% were [[Marriage|married couples]] living together, 12.5% had a female householder with no husband present, and 41.0% were non-families. 31.1% of all households were made up of individuals, and 13.5% had someone living alone who was 65 years of age or older. The average household size was 2.42 and the average family size was 3.04.
+
+In the borough the population was spread out, with 18.0% under the age of 18, 30.3% from 18 to 24, 22.0% from 25 to 44, 16.1% from 45 to 64, and 13.5% who were 65 years of age or older. The median age was 26 years. For every 100 females there were 86.0 males. For every 100 females age 18 and over, there were 81.7 males.
+
+The median income for a household in the borough was $36,601, and the median income for a family was $44,044. Males had a median income of $34,764 versus $21,742 for females. The [[per capita income]] for the borough was $14,909. About 9.1% of families and 15.2% of the population were below the [[poverty line]], including 17.7% of those under age 18 and 11.0% of those age 65 or over.
+
+{{PresHead|place=East Stroudsburg, Pennsylvania|whig=no|source1=<ref>{{cite web|url=https://agencies2.monroecountypa.gov/elections/|title=Monroe County Election Results|website=monroecountypa.gov|access-date=October 23, 2024}}</ref>}}
+<!-- PresRow should be {{PresRow|Year|Winning party|GOP/Whig vote #|Dem vote #|3rd party vote #|State}} -->
+{{PresRow|2024|Democratic|1,533|2,227|39|Pennsylvania}}
+{{PresRow|2020|Democratic|1,247|2,196|56|Pennsylvania}}
+{{PresRow|2016|Democratic|1,271|2,115|139|Pennsylvania}}
+{{PresRow|2012|Democratic|1,059|2,070|51|Pennsylvania}}
+{{PresRow|2008|Democratic|1,407|2,748|30|Pennsylvania}}
+{{PresRow|2004|Democratic|1,345|1,781|19|Pennsylvania}}
+{{PresRow|2000|Democratic|1,116|1,327|85|Pennsylvania}}
+|}
+

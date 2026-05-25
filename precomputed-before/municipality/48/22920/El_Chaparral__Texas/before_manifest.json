@@ -1,0 +1,16 @@
+{
+  "article": "El_Chaparral,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/22920/El_Chaparral__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "63bb6cb2bf136d764d764ab4fc50ed4e7cacd4ca85005a69812db0de54ee79be",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "63bb6cb2bf136d764d764ab4fc50ed4e7cacd4ca85005a69812db0de54ee79be",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/22920/El_Chaparral__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "22920",
+  "timestamp": "2026-05-25T00:15:32.015127Z",
+  "version": 1
+}

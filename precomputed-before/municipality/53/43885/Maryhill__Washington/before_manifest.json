@@ -1,0 +1,16 @@
+{
+  "article": "Maryhill,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/43885/Maryhill__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8de9051b1ea263849cca3aa26a59e0fbdf8a74ae378c014e5e02d418bf236a25",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8de9051b1ea263849cca3aa26a59e0fbdf8a74ae378c014e5e02d418bf236a25",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/43885/Maryhill__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "43885",
+  "timestamp": "2026-05-25T00:20:22.778178Z",
+  "version": 1
+}

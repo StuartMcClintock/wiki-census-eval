@@ -1,0 +1,16 @@
+{
+  "article": "Oliver,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/58100/Oliver__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "19399b837802fe135e5a4fb793bbf682d4606432c2b2e0b8fa0497bf06794cd4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "19399b837802fe135e5a4fb793bbf682d4606432c2b2e0b8fa0497bf06794cd4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/58100/Oliver__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "58100",
+  "timestamp": "2026-05-24T23:37:02.675215Z",
+  "version": 1
+}

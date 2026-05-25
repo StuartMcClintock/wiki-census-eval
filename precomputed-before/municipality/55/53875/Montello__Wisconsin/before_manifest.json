@@ -1,0 +1,16 @@
+{
+  "article": "Montello,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/53875/Montello__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f327526793544c8af90ddd3d176d0b2b2422ee73eda5f52fb3130680bc2bf9a9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f327526793544c8af90ddd3d176d0b2b2422ee73eda5f52fb3130680bc2bf9a9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/53875/Montello__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "53875",
+  "timestamp": "2026-05-25T00:22:26.403886Z",
+  "version": 1
+}

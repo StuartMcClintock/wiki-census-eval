@@ -1,0 +1,16 @@
+{
+  "article": "Holly_Lake_Ranch,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/34586/Holly_Lake_Ranch__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7b5ef9c8bec40c9bf5020c497728691c122b52cdc05a732420ea8ddd250d113c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7b5ef9c8bec40c9bf5020c497728691c122b52cdc05a732420ea8ddd250d113c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/34586/Holly_Lake_Ranch__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "34586",
+  "timestamp": "2026-05-25T00:15:43.608564Z",
+  "version": 1
+}

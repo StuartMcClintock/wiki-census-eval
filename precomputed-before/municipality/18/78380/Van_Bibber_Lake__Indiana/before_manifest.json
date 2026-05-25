@@ -1,0 +1,16 @@
+{
+  "article": "Van_Bibber_Lake,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/78380/Van_Bibber_Lake__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f7412d6e88d31935c2c8b0b5122ef1b2ed307b6a22d1e5adf72d747ce3c6e484",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f7412d6e88d31935c2c8b0b5122ef1b2ed307b6a22d1e5adf72d747ce3c6e484",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/78380/Van_Bibber_Lake__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "78380",
+  "timestamp": "2026-05-24T23:40:17.123076Z",
+  "version": 1
+}

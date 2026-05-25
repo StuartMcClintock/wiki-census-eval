@@ -1,0 +1,16 @@
+{
+  "article": "Cassville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/11632/Cassville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5a6c0b9010ce116207adff2186757d7acdd9469e55f1ac422ecc623b73ab24b3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5a6c0b9010ce116207adff2186757d7acdd9469e55f1ac422ecc623b73ab24b3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/11632/Cassville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "11632",
+  "timestamp": "2026-05-25T00:06:37.666988Z",
+  "version": 1
+}

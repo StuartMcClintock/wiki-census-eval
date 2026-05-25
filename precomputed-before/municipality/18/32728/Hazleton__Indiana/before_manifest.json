@@ -1,0 +1,16 @@
+{
+  "article": "Hazleton,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/32728/Hazleton__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1b9aa881e89c7f4651797179d5899821a2069336981a220dd8b1aa488738df54",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1b9aa881e89c7f4651797179d5899821a2069336981a220dd8b1aa488738df54",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/32728/Hazleton__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "32728",
+  "timestamp": "2026-05-24T23:39:38.542600Z",
+  "version": 1
+}

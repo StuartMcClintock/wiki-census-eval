@@ -1,0 +1,72 @@
+==Demographics==
+{{US Census population
+|2010= 612
+|2020= 514
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=http://www.census.gov/prod/www/decennial.html|title=Census of Population and Housing|publisher=Census.gov|access-date=June 4, 2016}}</ref>
+}}
+
+Bayou Goula was first listed as a [[census designated place]] in the [[2010 U.S. census]].<ref name=2010CensusLA>{{Cite web|title= 2010 Census of Population - Population and Housing Unit Counts - Louisiana |url=https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-20.pdf|website=[[United States Census Bureau]]|archive-url=https://web.archive.org/web/20240402175429/https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-20.pdf| archive-date=April 2, 2024}}</ref> In 2020, it had a population of 514.<ref>{{Cite web |title=Explore Census Data |url=https://data.census.gov/profile/Bayou_Goula_CDP,_Louisiana?g=160XX00US2205350 |access-date=2023-08-10 |website=data.census.gov}}</ref>
+
+{| class="wikitable" style="text-align:center;"
+|+'''Bayou Goula CDP, Louisiana – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2 Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Bayou Goula CDP, Louisiana|url=https://data.census.gov/table?q=p2&g=160XX00US2205350&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]]}}</ref>
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web|title=P2 Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Bayou Goula CDP, Louisiana|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US2205350&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]]}}</ref>
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|40
+|style='background: #ffffe6; |35
+|6.54%
+|style='background: #ffffe6; |6.81%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|572
+|style='background: #ffffe6; |465
+|93.46%
+|style='background: #ffffe6; |90.47%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Native Hawaiian]] or [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|style='background: #ffffe6; |1
+|0.00%
+|style='background: #ffffe6; |0.19%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|0
+|style='background: #ffffe6; |4
+|0.00%
+|style='background: #ffffe6; |0.78%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|0
+|style='background: #ffffe6; |9
+|0.00%
+|style='background: #ffffe6; |1.75%
+|-
+|'''Total'''
+|'''612'''
+|style='background: #ffffe6; |'''514'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+

@@ -1,0 +1,16 @@
+{
+  "article": "Upper_Brookville,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/76331/Upper_Brookville__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c12e3f74b39ca7b4594b1bf2d06a2df6aa0e6849f09ca319d60c0a83de16333e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c12e3f74b39ca7b4594b1bf2d06a2df6aa0e6849f09ca319d60c0a83de16333e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/76331/Upper_Brookville__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "76331",
+  "timestamp": "2026-05-25T00:01:21.238561Z",
+  "version": 1
+}

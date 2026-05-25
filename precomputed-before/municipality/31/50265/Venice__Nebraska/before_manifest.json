@@ -1,0 +1,16 @@
+{
+  "article": "Venice,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/50265/Venice__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3a5cddd90bc84e814a89c3e00d0b12fbb325986566bb6d0dfa1c5bcfefa03fc0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3a5cddd90bc84e814a89c3e00d0b12fbb325986566bb6d0dfa1c5bcfefa03fc0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/50265/Venice__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "50265",
+  "timestamp": "2026-05-24T23:57:22.525036Z",
+  "version": 1
+}

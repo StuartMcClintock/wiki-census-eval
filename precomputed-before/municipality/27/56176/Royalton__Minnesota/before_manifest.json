@@ -1,0 +1,16 @@
+{
+  "article": "Royalton,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/56176/Royalton__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c4c1330504515fdeb97fc798cc41605e7943b333054fa49dd05d88a59456fc52",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c4c1330504515fdeb97fc798cc41605e7943b333054fa49dd05d88a59456fc52",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/56176/Royalton__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "56176",
+  "timestamp": "2026-05-24T23:49:42.526563Z",
+  "version": 1
+}

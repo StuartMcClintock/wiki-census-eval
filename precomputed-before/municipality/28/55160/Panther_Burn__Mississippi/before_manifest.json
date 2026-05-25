@@ -1,0 +1,16 @@
+{
+  "article": "Panther_Burn,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/55160/Panther_Burn__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "74057b9452412c0feec3c49e487312053ecc78fa613d4acc7d6b09bf3ebd3cc5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "74057b9452412c0feec3c49e487312053ecc78fa613d4acc7d6b09bf3ebd3cc5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/55160/Panther_Burn__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "55160",
+  "timestamp": "2026-05-24T23:50:19.468993Z",
+  "version": 1
+}

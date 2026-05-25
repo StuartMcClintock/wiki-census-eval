@@ -1,0 +1,16 @@
+{
+  "article": "Millville,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/50540/Millville__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e9e75c41fd2dccddd8ddebb59b348a5c543932b5ba043bcb399ed37923e3d68a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e9e75c41fd2dccddd8ddebb59b348a5c543932b5ba043bcb399ed37923e3d68a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/50540/Millville__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "50540",
+  "timestamp": "2026-05-25T00:04:47.111773Z",
+  "version": 1
+}

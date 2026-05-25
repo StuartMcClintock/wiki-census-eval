@@ -1,0 +1,16 @@
+{
+  "article": "Jacksontown,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/38276/Jacksontown__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9e74f66715a45f78811c221b86a2422bdc5219be4632c3c0112cf1a731a7b6bb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9e74f66715a45f78811c221b86a2422bdc5219be4632c3c0112cf1a731a7b6bb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/38276/Jacksontown__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "38276",
+  "timestamp": "2026-05-25T00:04:20.799850Z",
+  "version": 1
+}

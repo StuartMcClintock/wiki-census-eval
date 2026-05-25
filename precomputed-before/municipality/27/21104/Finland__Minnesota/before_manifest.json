@@ -1,0 +1,16 @@
+{
+  "article": "Finland,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/21104/Finland__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": false,
+  "current_hash": null,
+  "location_kind": "municipality",
+  "manifest_had_section": false,
+  "manifest_hash": null,
+  "reason": "no demographics section then or now",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/21104/Finland__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "21104",
+  "timestamp": "2026-05-24T23:48:54.873029Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Clacks_Canyon,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/13850/Clacks_Canyon__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "de1f856c0cd0633dc3f3e46813c0274660280067aff598bee85c9118d99de512",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "de1f856c0cd0633dc3f3e46813c0274660280067aff598bee85c9118d99de512",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/13850/Clacks_Canyon__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "13850",
+  "timestamp": "2026-05-24T23:32:51.049286Z",
+  "version": 1
+}

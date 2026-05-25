@@ -1,0 +1,113 @@
+==Demographics==
+{{US Census population
+|1880= 592
+|1890= 7911
+|1900= 12554
+|1910= 18713
+|1920= 20452
+|1930= 20141
+|1940= 19041
+|1950= 10046
+|1960= 7502
+|1970= 6309
+|1980= 5092
+|1990= 4179
+|2000= 3569
+|2010= 3165
+|2020= 2884
+|footnote=Sources:<ref>{{cite web|title=1990 Population and Housing Counts|url=https://www.census.gov/population/www/censusdata/hiscendata.html|publisher=US Census Bureau|access-date=November 22, 2013}}</ref><ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref><ref>{{cite web|title=Number of Inhabitants: Pennsylvania|url=http://www2.census.gov/prod2/decennial/documents/17216604v1p40ch02.pdf|work=18th Census of the United States|publisher=U.S. Census Bureau|access-date=November 22, 2013}}</ref><ref>{{cite web|title=Annual Estimates of the Resident Population|url=https://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012-3.html|publisher=U.S. Census Bureau|access-date=November 22, 2013|url-status=dead|archive-url=https://web.archive.org/web/20131019235623/http://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012-3.html|archive-date=October 19, 2013}}</ref><ref>{{cite web|title=Number of Inhabitants-Pennsylvania|url=http://www2.census.gov/prod2/decennial/documents/23760756v2p38ch1.pdf|work=Seventeenth Census of the United States|publisher=U.S. Census Bureau|access-date=November 22, 2013}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A42|title=Census Population API|publisher=United States Census Bureau|access-date=October 12, 2022}}</ref>
+}}
+
+===2020 census===
+{| class="wikitable" style="text-align:center;"
+|+'''Homestead borough, Pennsylvania – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Homestead borough, Pennsylvania |url=https://data.census.gov/table?g=060XX00US4200335424&tid=DECENNIALSF12000.P004|website=[[United States Census Bureau]] |access-date= }}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Homestead borough, Pennsylvania |url=https://data.census.gov/cedsci/table?q=p2&g=060XX00US4200335424&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Homestead borough, Pennsylvania |url=https://data.census.gov/cedsci/table?q=p2&g=060XX00US4200335424&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!% 2000
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|1,512
+|1,015
+|style='background: #ffffe6; |804
+|42.36%
+|32.07%
+|style='background: #ffffe6; |27.88%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|1,827
+|1,849
+|style='background: #ffffe6; |1,742
+|51.19%
+|58.42%
+|style='background: #ffffe6; |60.40%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|8
+|6
+|style='background: #ffffe6; |2
+|0.22%
+|0.19%
+|style='background: #ffffe6; |0.07%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|99
+|96
+|style='background: #ffffe6; |54
+|2.77%
+|3.03%
+|style='background: #ffffe6; |1.87%
+|-
+|[[Native Hawaiian]] or [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|1
+|0
+|style='background: #ffffe6; |0
+|0.03%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|4
+|17
+|style='background: #ffffe6; |26
+|0.11%
+|0.54%
+|style='background: #ffffe6; |0.90%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|96
+|124
+|style='background: #ffffe6; |162
+|2.69%
+|3.92%
+|style='background: #ffffe6; |5.62%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|22
+|58
+|style='background: #ffffe6; |94
+|0.62%
+|1.83%
+|style='background: #ffffe6; |3.26%
+|-
+|'''Total'''
+|'''3,569'''
+|'''3,165'''
+|style='background: #ffffe6; |'''2,884'''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+===2000 census===
+As of the [[2000 United States census|2000 census]],<ref name="GR2" /> there were 3,569 people, 1,607 households, and 843 families residing in the borough. The population density was {{convert|6,281.6|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 2,071 housing units at an average density of {{convert|3,645.0|/sqmi|/km2|sp=us|adj=off}}. The [[Race and ethnicity in the United States census|racial makeup]] of the borough was 42.64% White, 51.30% African American, 0.25% Native American, 2.83% Asian, 0.03% Pacific Islander, 0.22% from other races, and 2.72% from two or more races. Hispanic or Latino of any race were 0.62% of the population.
+
+There were 1,607 households, out of which 24.4% had children under the age of 18 living with them, 23.3% were married couples living together, 24.4% had a female householder with no husband present, and 47.5% were non-families. 42.5% of all households were made up of individuals, and 19.4% had someone living alone who was 65 years of age or older. The average household size was 2.16 and the average family size was 2.99.
+
+In the borough, the population was spread out, with 24.2% under the age of 18, 8.0% from 18 to 24, 25.1% from 25 to 44, 23.8% from 45 to 64, and 18.9% who were 65 years of age or older. The median age was 40 years. For every 100 females, there were 80.1 males. For every 100 females age 18 and over, there were 75.1 males.
+
+The median income for a household in the borough was $16,603, and the median income for a family was $28,314. Males had a median income of $25,500 versus $21,559 for females. The [[per capita income]] for the borough was $12,690. About 23.0% of families and 26.6% of the population were below the [[poverty line]], including 31.0% of those under age 18 and 16.8% of those age 65 or over.
+

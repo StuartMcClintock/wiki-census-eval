@@ -1,0 +1,16 @@
+{
+  "article": "Thompsonville,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/79600/Thompsonville__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "803bea5e788d5ad6f97f44fd8f7df6b19eb3485219b4b784ee970fb0cb4c1a03",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "803bea5e788d5ad6f97f44fd8f7df6b19eb3485219b4b784ee970fb0cb4c1a03",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/79600/Thompsonville__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "79600",
+  "timestamp": "2026-05-24T23:48:30.104994Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Portage_Des_Sioux,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/59150/Portage_Des_Sioux__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d8f74ebc591fa303efcee41c5dd549f75494319d58217f4912165e7eedaf1a63",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d8f74ebc591fa303efcee41c5dd549f75494319d58217f4912165e7eedaf1a63",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/59150/Portage_Des_Sioux__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "59150",
+  "timestamp": "2026-05-24T23:53:43.241116Z",
+  "version": 1
+}

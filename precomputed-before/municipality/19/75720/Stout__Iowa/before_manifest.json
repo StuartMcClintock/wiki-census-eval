@@ -1,0 +1,16 @@
+{
+  "article": "Stout,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/75720/Stout__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ea4f96aedc8663f696849e5a1814cdc7b1490eaa2fd2197a900082477fce01b7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ea4f96aedc8663f696849e5a1814cdc7b1490eaa2fd2197a900082477fce01b7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/75720/Stout__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "75720",
+  "timestamp": "2026-05-24T23:42:03.622410Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Jackson_Lake,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/39160/Jackson_Lake__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4a55255b7bbca47dd93b0bac1dd2e6a2957676c6f6ad3a4d4cb62a0264b4084f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4a55255b7bbca47dd93b0bac1dd2e6a2957676c6f6ad3a4d4cb62a0264b4084f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/39160/Jackson_Lake__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "39160",
+  "timestamp": "2026-05-24T23:35:29.545779Z",
+  "version": 1
+}

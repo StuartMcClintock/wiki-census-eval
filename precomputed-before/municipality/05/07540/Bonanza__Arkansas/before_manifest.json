@@ -1,0 +1,16 @@
+{
+  "article": "Bonanza,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/07540/Bonanza__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e768b4409695f8e9d3f9c559afeaeb4e0ccb0846c6fe0750927fd13bc1a79ad1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e768b4409695f8e9d3f9c559afeaeb4e0ccb0846c6fe0750927fd13bc1a79ad1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/07540/Bonanza__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "07540",
+  "timestamp": "2026-05-24T23:33:22.301771Z",
+  "version": 1
+}

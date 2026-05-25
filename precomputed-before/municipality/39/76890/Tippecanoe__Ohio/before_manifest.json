@@ -1,0 +1,16 @@
+{
+  "article": "Tippecanoe,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/76890/Tippecanoe__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1026ecc6d74505b7a1a6e1a57c2a61e96aec998d4d4b42d0b51418cc32ad06a5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1026ecc6d74505b7a1a6e1a57c2a61e96aec998d4d4b42d0b51418cc32ad06a5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/76890/Tippecanoe__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "76890",
+  "timestamp": "2026-05-25T00:05:32.355258Z",
+  "version": 1
+}

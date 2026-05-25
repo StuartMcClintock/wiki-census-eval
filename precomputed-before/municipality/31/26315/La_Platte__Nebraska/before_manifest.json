@@ -1,0 +1,16 @@
+{
+  "article": "La_Platte,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/26315/La_Platte__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "28187bda987074113341b2e787d8cb63447419ef957e2a035f0f40de2f1bc37b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "28187bda987074113341b2e787d8cb63447419ef957e2a035f0f40de2f1bc37b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/26315/La_Platte__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "26315",
+  "timestamp": "2026-05-24T23:55:36.314077Z",
+  "version": 1
+}

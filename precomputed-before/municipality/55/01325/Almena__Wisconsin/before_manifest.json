@@ -1,0 +1,16 @@
+{
+  "article": "Almena,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/01325/Almena__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "71f0d963feccfb34ac7a7a49fa0d000a0da6032aacf143d8eb3c7bf45b8c9d5c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "71f0d963feccfb34ac7a7a49fa0d000a0da6032aacf143d8eb3c7bf45b8c9d5c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/01325/Almena__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "01325",
+  "timestamp": "2026-05-25T00:21:31.410689Z",
+  "version": 1
+}

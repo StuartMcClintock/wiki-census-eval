@@ -1,0 +1,16 @@
+{
+  "article": "Thayer,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/74860/Thayer__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "95849922eb0cd1d6e6a82d6d954a55a7e7a92028e930d6f2fa821316c11f11f5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "95849922eb0cd1d6e6a82d6d954a55a7e7a92028e930d6f2fa821316c11f11f5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/74860/Thayer__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "74860",
+  "timestamp": "2026-05-24T23:39:16.112464Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Pacific_City,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/56150/Pacific_City__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "069b3a51ee64f62cfbeb2c5e3b647833c3b795548f92628bef48949800a595f3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "069b3a51ee64f62cfbeb2c5e3b647833c3b795548f92628bef48949800a595f3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/56150/Pacific_City__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "56150",
+  "timestamp": "2026-05-25T00:05:53.576090Z",
+  "version": 1
+}

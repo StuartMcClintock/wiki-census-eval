@@ -1,0 +1,16 @@
+{
+  "article": "Stonebridge,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/70987/Stonebridge__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fc14c4c9a1bd3095e7ab609cea8a9eec7cef9ba1e43c3a0c1291d5e2545f97e7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fc14c4c9a1bd3095e7ab609cea8a9eec7cef9ba1e43c3a0c1291d5e2545f97e7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/70987/Stonebridge__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "70987",
+  "timestamp": "2026-05-24T23:58:02.853339Z",
+  "version": 1
+}

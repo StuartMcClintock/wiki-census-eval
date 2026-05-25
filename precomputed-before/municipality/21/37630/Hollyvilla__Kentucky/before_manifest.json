@@ -1,0 +1,16 @@
+{
+  "article": "Hollyvilla,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/37630/Hollyvilla__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d97b46c7b716d77ccbcd4287d308c0bf0161c36123ebaecf6df3f0aa567248f2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d97b46c7b716d77ccbcd4287d308c0bf0161c36123ebaecf6df3f0aa567248f2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/37630/Hollyvilla__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "37630",
+  "timestamp": "2026-05-24T23:44:07.284078Z",
+  "version": 1
+}

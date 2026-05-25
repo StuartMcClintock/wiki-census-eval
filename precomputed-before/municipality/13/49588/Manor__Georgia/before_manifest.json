@@ -1,0 +1,16 @@
+{
+  "article": "Manor,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/49588/Manor__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dca15bd5ff8fc2874a7372f501554afe5b2f3f710e718dacae387aff7270afcd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dca15bd5ff8fc2874a7372f501554afe5b2f3f710e718dacae387aff7270afcd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/49588/Manor__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "49588",
+  "timestamp": "2026-05-24T23:36:54.312226Z",
+  "version": 1
+}

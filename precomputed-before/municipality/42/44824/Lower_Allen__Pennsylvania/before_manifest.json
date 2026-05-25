@@ -1,0 +1,16 @@
+{
+  "article": "Lower_Allen,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/44824/Lower_Allen__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "091f65f2cbbc4361fcbfd6105d1d127433878dc5107f062cf1fc3b809e873196",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "091f65f2cbbc4361fcbfd6105d1d127433878dc5107f062cf1fc3b809e873196",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/44824/Lower_Allen__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "44824",
+  "timestamp": "2026-05-25T00:07:54.382490Z",
+  "version": 1
+}

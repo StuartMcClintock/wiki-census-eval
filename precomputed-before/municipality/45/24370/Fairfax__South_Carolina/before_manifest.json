@@ -1,0 +1,16 @@
+{
+  "article": "Fairfax,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/24370/Fairfax__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d858ab67e050049b5cce2db3c7b3718517b83d79192ba2620c7b4b2aa4b33485",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d858ab67e050049b5cce2db3c7b3718517b83d79192ba2620c7b4b2aa4b33485",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/24370/Fairfax__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "24370",
+  "timestamp": "2026-05-25T00:10:02.499024Z",
+  "version": 1
+}

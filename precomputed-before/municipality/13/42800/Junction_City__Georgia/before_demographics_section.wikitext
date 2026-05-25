@@ -1,0 +1,100 @@
+==Demographics==
+{{US Census population
+|1910= 225
+|1920= 323
+|1930= 341
+|1940= 326
+|1950= 259
+|1960= 226
+|1970= 269
+|1980= 254
+|1990= 182
+|2000= 179
+|2010= 177
+|2020= 138
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census/decade.html|title=Decennial Census of Population and Housing by Decades|publisher=[[US Census Bureau]]|access-date=}}</ref><br> 1850-1870<ref name=1870CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1870 Census of Population - Georgia  |website=[[US Census Bureau]]|date= 1870|url=https://www2.census.gov/library/publications/decennial/1870/population/1870a-13.pdf |accessdate=|archive-url=| archive-date=|page=}}</ref> 1880<ref name=1880CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1880 Census of Population - Georgia  |website=[[US Census Bureau]]|date= 1880|url=https://www2.census.gov/library/publications/decennial/1880/vol-01-population/1880_v1-09.pdf |accessdate=|archive-url=| archive-date=|page=}}</ref><br> 1890-1910<ref name=1910CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1910 Census of Population - Georgia  |website=[[US Census Bureau]]|date= 1930|url=https://www2.census.gov/library/publications/decennial/1910/abstract/supplement-ga.pdf |accessdate=|archive-url=| archive-date=|page=}}</ref> 1920-1930<ref name=1930CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1930 Census of Population - Georgia  |website=[[US Census Bureau]]|date= 1930|url=https://www2.census.gov/prod2/decennial/documents/03815512v1ch04.pdf |accessdate=|archive-url=| archive-date=|page=253}}</ref><br> 1930-1940<ref name=1940CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1940 Census of Population - Georgia  |website=[[US Census Bureau]]|date= 1940|url=https://www2.census.gov/library/publications/decennial/1940/population-volume-1/33973538v1ch04.pdf |accessdate=|archive-url=| archive-date=}}</ref> 1940-1950<ref name=1950CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1950 Census of Population - Georgia  |website=[[US Census Bureau]]|date= 1980|url=https://www2.census.gov/library/publications/decennial/1950/population-volume-2/37779083v2p11ch2.pdf |accessdate=|archive-url=| archive-date=}}</ref><br> 1960-1980<ref name=1980CensusGA>{{Cite web|first= |last= |authorlink=   |title= 1980 Census of Population - Number of Inhabitants - Georgia  |website=[[US Census Bureau]]|date= 1980|url=https://www2.census.gov/prod2/decennial/documents/1980a_gaABC-01.pdf|accessdate=|archive-url=| archive-date=}}</ref> 1980-2000<ref name=2000CensusGA>{{Cite web|first= |last= |authorlink=   |title= 2000 Census of Population - General Population Characteristics - Georgia  |website=[[US Census Bureau]]|date= 2000|url=https://www2.census.gov/library/publications/2003/dec/phc-3-12.pdf |accessdate=|archive-url=| archive-date=}}</ref>
+}}
+
+{| class="wikitable" style="text-align:center;"
+|+'''Junction City, Georgia – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004 Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Junction City, Georgia|url=https://data.census.gov/table/DECENNIALSF12000.P004?g=160XX00US1342800|website=[[United States Census Bureau]]}}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2 Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) - Junction City, Georgia|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US1342800&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]]}}</ref>
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web|title=P2 Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) - Junction City, Georgia |url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US1342800&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]]}}</ref>
+!% 2000
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|68
+|35
+|style='background: #ffffe6; |38
+|37.99%
+|19.77%
+|style='background: #ffffe6; |27.54%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|108
+|135
+|style='background: #ffffe6; |98
+|60.34%
+|76.27%
+|style='background: #ffffe6; |71.01%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|2
+|0
+|style='background: #ffffe6; |0
+|1.12%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|Some Other Race alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Multiracial Americans|Mixed Race or Multi-Racial]] (NH)
+|0
+|1
+|style='background: #ffffe6; |2
+|0.00%
+|0.56%
+|style='background: #ffffe6; |1.45%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|1
+|6
+|style='background: #ffffe6; |0
+|0.56%
+|3.39%
+|style='background: #ffffe6; |0.00%
+|-
+|'''Total'''
+|'''179'''
+|'''177'''
+|style='background: #ffffe6; |'''138'''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}Junction City first appeared in the [[1910 U.S. Census|1910 U.S. census]], with a population of 225.<ref name="1910CensusGA" /> As of the [[2020 United States census|2020 census]], its population was 138.
+

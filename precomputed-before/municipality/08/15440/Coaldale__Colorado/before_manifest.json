@@ -1,0 +1,16 @@
+{
+  "article": "Coaldale,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/15440/Coaldale__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0058fc899221b113082fb847c7b3c03522621a76bd3f09d4c1e558ea26017dfe",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0058fc899221b113082fb847c7b3c03522621a76bd3f09d4c1e558ea26017dfe",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/15440/Coaldale__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "15440",
+  "timestamp": "2026-05-24T23:35:21.744181Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Pleasant_Plain,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/63615/Pleasant_Plain__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7df8c19784af87d1b009caaebba4ae5ac946d278c5c4cd722814ed6f855fdd73",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7df8c19784af87d1b009caaebba4ae5ac946d278c5c4cd722814ed6f855fdd73",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/63615/Pleasant_Plain__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "63615",
+  "timestamp": "2026-05-24T23:41:38.621057Z",
+  "version": 1
+}

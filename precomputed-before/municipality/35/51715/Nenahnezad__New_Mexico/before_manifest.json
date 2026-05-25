@@ -1,0 +1,16 @@
+{
+  "article": "Nenahnezad,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/51715/Nenahnezad__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fcadd7751dea18efce0f038cfbe299701f34ce4440a954d8c177d20fe8b93eed",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fcadd7751dea18efce0f038cfbe299701f34ce4440a954d8c177d20fe8b93eed",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/51715/Nenahnezad__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "51715",
+  "timestamp": "2026-05-24T23:58:44.137354Z",
+  "version": 1
+}

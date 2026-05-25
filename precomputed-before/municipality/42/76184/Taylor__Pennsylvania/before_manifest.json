@@ -1,0 +1,16 @@
+{
+  "article": "Taylor,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/76184/Taylor__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ec0444edea8f556abfbd4bd6a849f8cb52e7bfd4e2042b36138c9ad3c0c7dcef",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ec0444edea8f556abfbd4bd6a849f8cb52e7bfd4e2042b36138c9ad3c0c7dcef",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/76184/Taylor__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "76184",
+  "timestamp": "2026-05-25T00:09:15.540819Z",
+  "version": 1
+}

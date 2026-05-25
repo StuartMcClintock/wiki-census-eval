@@ -1,0 +1,16 @@
+{
+  "article": "Geneva-on-the-Lake,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/29652/Geneva-on-the-Lake__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "acaf60c4386facc0e9744157f35f2eac71070c3ddb95e8023e90b9d210479023",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "acaf60c4386facc0e9744157f35f2eac71070c3ddb95e8023e90b9d210479023",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/29652/Geneva-on-the-Lake__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "29652",
+  "timestamp": "2026-05-25T00:04:11.218131Z",
+  "version": 1
+}

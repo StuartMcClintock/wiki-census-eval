@@ -1,0 +1,16 @@
+{
+  "article": "Preston,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/40325/Preston__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b1b04e5984e473b53b51a06fa938f2c81203beb3cd1d1d8924f9f2372f6e2333",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b1b04e5984e473b53b51a06fa938f2c81203beb3cd1d1d8924f9f2372f6e2333",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/40325/Preston__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "40325",
+  "timestamp": "2026-05-24T23:56:04.586006Z",
+  "version": 1
+}

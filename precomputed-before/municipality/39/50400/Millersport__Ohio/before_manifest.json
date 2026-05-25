@@ -1,0 +1,16 @@
+{
+  "article": "Millersport,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/50400/Millersport__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "25511266224e44060ae4fef89aab2c8330f9db21f323380de0e94943045babb0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "25511266224e44060ae4fef89aab2c8330f9db21f323380de0e94943045babb0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/50400/Millersport__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "50400",
+  "timestamp": "2026-05-25T00:04:46.917848Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Havana,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/36140/Havana__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "74b703eb9dc361e0f6fcce0e0363bb5d330b64c90bc1dd482deb018def7a76db",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "74b703eb9dc361e0f6fcce0e0363bb5d330b64c90bc1dd482deb018def7a76db",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/36140/Havana__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "36140",
+  "timestamp": "2026-05-25T00:03:03.937984Z",
+  "version": 1
+}

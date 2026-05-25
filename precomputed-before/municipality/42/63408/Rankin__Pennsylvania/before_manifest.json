@@ -1,0 +1,16 @@
+{
+  "article": "Rankin,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/63408/Rankin__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9d8b4bff3c654f888b89bcc98e5d92bd57edf8a447764521e9611353017b9bc2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9d8b4bff3c654f888b89bcc98e5d92bd57edf8a447764521e9611353017b9bc2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/63408/Rankin__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "63408",
+  "timestamp": "2026-05-25T00:08:35.398649Z",
+  "version": 1
+}

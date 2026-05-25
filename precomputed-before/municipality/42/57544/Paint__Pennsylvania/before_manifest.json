@@ -1,0 +1,16 @@
+{
+  "article": "Paint,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/57544/Paint__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bf1e1279ad99205c054e9b010a64fe0305fe0364f8d8904553f08f26a3e04a21",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bf1e1279ad99205c054e9b010a64fe0305fe0364f8d8904553f08f26a3e04a21",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/57544/Paint__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "57544",
+  "timestamp": "2026-05-25T00:08:25.008174Z",
+  "version": 1
+}

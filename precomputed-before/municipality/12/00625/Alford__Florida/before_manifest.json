@@ -1,0 +1,16 @@
+{
+  "article": "Alford,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/00625/Alford__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6e5762b7cf271b49c294e6e5411a79cc5d80bf1b2b8db829025bbf1db7d77cf9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6e5762b7cf271b49c294e6e5411a79cc5d80bf1b2b8db829025bbf1db7d77cf9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/00625/Alford__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "00625",
+  "timestamp": "2026-05-24T23:36:06.328672Z",
+  "version": 1
+}

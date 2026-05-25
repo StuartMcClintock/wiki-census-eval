@@ -1,0 +1,16 @@
+{
+  "article": "Encinal,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/24540/Encinal__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b5db7a853c953e8652c103c84ccfd985c0d632270e5c4e814f8d7a4facdb69d5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b5db7a853c953e8652c103c84ccfd985c0d632270e5c4e814f8d7a4facdb69d5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/24540/Encinal__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "24540",
+  "timestamp": "2026-05-24T23:58:29.771014Z",
+  "version": 1
+}

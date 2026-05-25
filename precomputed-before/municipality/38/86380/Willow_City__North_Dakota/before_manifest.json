@@ -1,0 +1,16 @@
+{
+  "article": "Willow_City,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/86380/Willow_City__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7ab93347aef7c7a6feb9f3bb876576dfcbd5814ded8166ec1de811feb1b749fc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7ab93347aef7c7a6feb9f3bb876576dfcbd5814ded8166ec1de811feb1b749fc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/86380/Willow_City__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "86380",
+  "timestamp": "2026-05-25T00:03:27.077499Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Felton,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/25584/Felton__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "39df9b2ecb43b109c079c682614ed4e08962898ab1fbcf7b608adbdaac43594d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "39df9b2ecb43b109c079c682614ed4e08962898ab1fbcf7b608adbdaac43594d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/25584/Felton__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "25584",
+  "timestamp": "2026-05-25T00:07:08.531998Z",
+  "version": 1
+}

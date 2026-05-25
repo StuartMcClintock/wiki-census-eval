@@ -1,0 +1,16 @@
+{
+  "article": "Marksboro,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/43980/Marksboro__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ee3f6c911e1d3682bbbfab679bc86c3b3b8f6af8d0dac17e3d487e4330eb31d5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ee3f6c911e1d3682bbbfab679bc86c3b3b8f6af8d0dac17e3d487e4330eb31d5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/43980/Marksboro__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "43980",
+  "timestamp": "2026-05-24T23:57:54.708631Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Seligman,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/66530/Seligman__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "22483ecfbf29a3c46ea690c537d6349a8509ca025d29e0e3bac8645fcd8bfc49",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "22483ecfbf29a3c46ea690c537d6349a8509ca025d29e0e3bac8645fcd8bfc49",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/66530/Seligman__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "66530",
+  "timestamp": "2026-05-24T23:53:48.920087Z",
+  "version": 1
+}

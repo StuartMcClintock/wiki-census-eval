@@ -1,0 +1,16 @@
+{
+  "article": "Valentine,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/78820/Valentine__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "eed43c4b3b651322e709684d0cfa4a887625ebf68950988e413e61918f31ec1d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "eed43c4b3b651322e709684d0cfa4a887625ebf68950988e413e61918f31ec1d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/78820/Valentine__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "78820",
+  "timestamp": "2026-05-24T23:33:13.361151Z",
+  "version": 1
+}

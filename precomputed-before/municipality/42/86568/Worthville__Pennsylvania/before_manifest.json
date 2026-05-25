@@ -1,0 +1,16 @@
+{
+  "article": "Worthville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/86568/Worthville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4b68903fca61439ec7b5763249dc5084fdd445ae0ed24750d23b7021dc30699d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4b68903fca61439ec7b5763249dc5084fdd445ae0ed24750d23b7021dc30699d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/86568/Worthville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "86568",
+  "timestamp": "2026-05-25T00:09:33.525375Z",
+  "version": 1
+}

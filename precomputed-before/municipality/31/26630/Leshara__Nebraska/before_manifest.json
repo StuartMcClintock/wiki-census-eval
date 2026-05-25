@@ -1,0 +1,16 @@
+{
+  "article": "Leshara,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/26630/Leshara__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5ede7898319ec31e3496e1ccb7c868924ffc6b3e0404c4bf99953fa68da8fc87",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5ede7898319ec31e3496e1ccb7c868924ffc6b3e0404c4bf99953fa68da8fc87",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/26630/Leshara__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "26630",
+  "timestamp": "2026-05-24T23:55:48.008815Z",
+  "version": 1
+}

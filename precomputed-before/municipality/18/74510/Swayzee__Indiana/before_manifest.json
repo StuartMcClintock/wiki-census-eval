@@ -1,0 +1,16 @@
+{
+  "article": "Swayzee,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/74510/Swayzee__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "be2ee22c96cdc94bf170e252dbea15dc09b9d1dc072f3459fa55134d166c1720",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "be2ee22c96cdc94bf170e252dbea15dc09b9d1dc072f3459fa55134d166c1720",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/74510/Swayzee__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "74510",
+  "timestamp": "2026-05-24T23:40:15.463618Z",
+  "version": 1
+}

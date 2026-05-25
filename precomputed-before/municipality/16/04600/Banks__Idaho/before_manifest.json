@@ -1,0 +1,16 @@
+{
+  "article": "Banks,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/04600/Banks__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0ef114f75cf57798a372291268dc236b5af2c1b53c9b1d602342e93d63f4f230",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0ef114f75cf57798a372291268dc236b5af2c1b53c9b1d602342e93d63f4f230",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/04600/Banks__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "04600",
+  "timestamp": "2026-05-24T23:37:16.117812Z",
+  "version": 1
+}

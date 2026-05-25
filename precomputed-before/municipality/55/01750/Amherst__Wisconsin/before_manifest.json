@@ -1,0 +1,16 @@
+{
+  "article": "Amherst,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/01750/Amherst__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "95b42c000d7ddd21b1b277692924d6c65e222441dd1cbe95a4a131adf42b5270",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "95b42c000d7ddd21b1b277692924d6c65e222441dd1cbe95a4a131adf42b5270",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/01750/Amherst__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "01750",
+  "timestamp": "2026-05-25T00:21:31.928413Z",
+  "version": 1
+}

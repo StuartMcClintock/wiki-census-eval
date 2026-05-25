@@ -1,0 +1,16 @@
+{
+  "article": "Likely,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/41390/Likely__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c680641068a813e869d82ffa6f6ecea69acd7d30e38bc4d57c6a2168e56af7d4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c680641068a813e869d82ffa6f6ecea69acd7d30e38bc4d57c6a2168e56af7d4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/41390/Likely__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "41390",
+  "timestamp": "2026-05-24T23:34:34.287048Z",
+  "version": 1
+}

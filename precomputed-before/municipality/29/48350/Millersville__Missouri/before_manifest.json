@@ -1,0 +1,16 @@
+{
+  "article": "Millersville,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/48350/Millersville__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "95c851264a899fd952f703be5720050284b5971d0ef895b68d2a31eaabd25452",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "95c851264a899fd952f703be5720050284b5971d0ef895b68d2a31eaabd25452",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/48350/Millersville__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "48350",
+  "timestamp": "2026-05-24T23:53:32.429391Z",
+  "version": 1
+}

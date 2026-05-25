@@ -1,0 +1,16 @@
+{
+  "article": "Arlington,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/04020/Arlington__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c37f3203bd7ac377f275c5d53e8c045c5cdb3dbb9b1a28febb8ee146ca3138eb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c37f3203bd7ac377f275c5d53e8c045c5cdb3dbb9b1a28febb8ee146ca3138eb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/04020/Arlington__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "04020",
+  "timestamp": "2026-05-24T23:32:47.902222Z",
+  "version": 1
+}

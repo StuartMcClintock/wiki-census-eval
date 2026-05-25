@@ -1,0 +1,16 @@
+{
+  "article": "Greenwood,_Delaware",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/10/31560/Greenwood__Delaware/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e900a48c424c3879a4b251e696c39b391be296aab84afb777eaa6c82c0cf5186",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e900a48c424c3879a4b251e696c39b391be296aab84afb777eaa6c82c0cf5186",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/10/31560/Greenwood__Delaware/manifest.json",
+  "state_fips": "10",
+  "status": "match",
+  "target_fips": "31560",
+  "timestamp": "2026-05-24T23:36:04.483082Z",
+  "version": 1
+}

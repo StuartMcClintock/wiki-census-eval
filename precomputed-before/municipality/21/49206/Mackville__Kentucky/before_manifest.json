@@ -1,0 +1,16 @@
+{
+  "article": "Mackville,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/49206/Mackville__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7deb443d977896f0acca0904ec42bc07f7508062fe736a0cd81a42858fd14ee7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7deb443d977896f0acca0904ec42bc07f7508062fe736a0cd81a42858fd14ee7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/49206/Mackville__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "49206",
+  "timestamp": "2026-05-24T23:44:11.150476Z",
+  "version": 1
+}

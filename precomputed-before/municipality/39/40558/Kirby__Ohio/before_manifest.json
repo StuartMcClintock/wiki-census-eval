@@ -1,0 +1,16 @@
+{
+  "article": "Kirby,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/40558/Kirby__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "38e910dd34181d681f9a224ca21b9a847f7b89c8414f9f2a7ee5ae468084531c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "38e910dd34181d681f9a224ca21b9a847f7b89c8414f9f2a7ee5ae468084531c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/40558/Kirby__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "40558",
+  "timestamp": "2026-05-25T00:04:23.395897Z",
+  "version": 1
+}

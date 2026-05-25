@@ -1,0 +1,16 @@
+{
+  "article": "Guinda,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/31540/Guinda__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "eea886a8177a026dfdfe2297c324353ebdfbb56ef333b8af9d55822f3831edd1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "eea886a8177a026dfdfe2297c324353ebdfbb56ef333b8af9d55822f3831edd1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/31540/Guinda__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "31540",
+  "timestamp": "2026-05-24T23:34:27.135008Z",
+  "version": 1
+}

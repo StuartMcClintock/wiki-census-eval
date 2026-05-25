@@ -1,0 +1,16 @@
+{
+  "article": "Milroy,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/49806/Milroy__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "310e30d21b12df4df6baa64e9438b561a8eaf88777715d66856d9a4d91c62974",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "310e30d21b12df4df6baa64e9438b561a8eaf88777715d66856d9a4d91c62974",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/49806/Milroy__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "49806",
+  "timestamp": "2026-05-24T23:40:02.729672Z",
+  "version": 1
+}

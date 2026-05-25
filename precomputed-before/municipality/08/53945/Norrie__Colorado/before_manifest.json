@@ -1,0 +1,16 @@
+{
+  "article": "Norrie,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/53945/Norrie__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9d7821e1b26d1f7410de3a5dc106fa43a221978eee32fa4b7c3269edbd291231",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9d7821e1b26d1f7410de3a5dc106fa43a221978eee32fa4b7c3269edbd291231",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/53945/Norrie__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "53945",
+  "timestamp": "2026-05-24T23:35:34.343046Z",
+  "version": 1
+}

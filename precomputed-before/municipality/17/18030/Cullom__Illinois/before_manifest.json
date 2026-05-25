@@ -1,0 +1,16 @@
+{
+  "article": "Cullom,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/18030/Cullom__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "abc19b41b15495540fb2d68c54b4f3478bf98ee56b8f70022489cb8356681a56",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "abc19b41b15495540fb2d68c54b4f3478bf98ee56b8f70022489cb8356681a56",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/18030/Cullom__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "18030",
+  "timestamp": "2026-05-24T23:38:04.308735Z",
+  "version": 1
+}

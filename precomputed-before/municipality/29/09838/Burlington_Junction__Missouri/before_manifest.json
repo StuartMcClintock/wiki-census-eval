@@ -1,0 +1,16 @@
+{
+  "article": "Burlington_Junction,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/09838/Burlington_Junction__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aa68b61ff3b1f6d58b8b1a5c1dc49b7a6aedb0122b4bb43871405d484676026f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aa68b61ff3b1f6d58b8b1a5c1dc49b7a6aedb0122b4bb43871405d484676026f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/09838/Burlington_Junction__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "09838",
+  "timestamp": "2026-05-24T23:50:51.552741Z",
+  "version": 1
+}

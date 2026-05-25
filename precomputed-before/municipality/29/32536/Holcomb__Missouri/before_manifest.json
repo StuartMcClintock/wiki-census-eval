@@ -1,0 +1,16 @@
+{
+  "article": "Holcomb,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/32536/Holcomb__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "907d364f8d8687da5f59ad6068ecce27a867dbac0a2b4c2ece996d3ceb71401b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "907d364f8d8687da5f59ad6068ecce27a867dbac0a2b4c2ece996d3ceb71401b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/32536/Holcomb__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "32536",
+  "timestamp": "2026-05-24T23:53:18.048367Z",
+  "version": 1
+}

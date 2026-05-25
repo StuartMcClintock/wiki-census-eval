@@ -1,0 +1,16 @@
+{
+  "article": "Greenbush,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/25604/Greenbush__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d074b8f6b62a241754c09165213ed7b242be4ac6e212abc8e8d74f96905d525c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d074b8f6b62a241754c09165213ed7b242be4ac6e212abc8e8d74f96905d525c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/25604/Greenbush__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "25604",
+  "timestamp": "2026-05-24T23:49:04.052946Z",
+  "version": 1
+}

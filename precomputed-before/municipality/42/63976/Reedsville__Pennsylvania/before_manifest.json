@@ -1,0 +1,16 @@
+{
+  "article": "Reedsville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/63976/Reedsville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bd5bb112b6dd01d4f28cef512747f11d2855250138bf6ae4c4437b255b4df4df",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bd5bb112b6dd01d4f28cef512747f11d2855250138bf6ae4c4437b255b4df4df",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/63976/Reedsville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "63976",
+  "timestamp": "2026-05-25T00:08:36.379319Z",
+  "version": 1
+}

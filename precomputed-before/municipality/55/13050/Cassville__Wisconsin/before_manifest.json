@@ -1,0 +1,16 @@
+{
+  "article": "Cassville,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/13050/Cassville__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3ab586b2d22bb8974ec31a1c563badac50463780fed529a1b028e0de0a5019ec",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3ab586b2d22bb8974ec31a1c563badac50463780fed529a1b028e0de0a5019ec",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/13050/Cassville__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "13050",
+  "timestamp": "2026-05-25T00:21:41.409713Z",
+  "version": 1
+}

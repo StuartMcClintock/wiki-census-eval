@@ -1,0 +1,16 @@
+{
+  "article": "Thorp,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/71225/Thorp__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9dedff776d72bfe576d5baf5bfc7ccac9ef111c68851675c7061b44fd5370f7d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9dedff776d72bfe576d5baf5bfc7ccac9ef111c68851675c7061b44fd5370f7d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/71225/Thorp__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "71225",
+  "timestamp": "2026-05-25T00:20:35.606588Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Bear_River,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/05625/Bear_River__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d9b9cbb16da89c0e73bf711c69c7e8d8356e579ce74d5967337911e94c2a7c92",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d9b9cbb16da89c0e73bf711c69c7e8d8356e579ce74d5967337911e94c2a7c92",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/05625/Bear_River__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "05625",
+  "timestamp": "2026-05-25T00:23:08.528504Z",
+  "version": 1
+}

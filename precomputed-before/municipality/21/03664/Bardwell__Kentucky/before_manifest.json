@@ -1,0 +1,16 @@
+{
+  "article": "Bardwell,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/03664/Bardwell__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d6549e264adb841641818ee861b1b5d5218fb3acf2ed02368162940dc212da42",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d6549e264adb841641818ee861b1b5d5218fb3acf2ed02368162940dc212da42",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/03664/Bardwell__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "03664",
+  "timestamp": "2026-05-24T23:43:42.020255Z",
+  "version": 1
+}

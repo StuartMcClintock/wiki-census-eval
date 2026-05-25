@@ -1,0 +1,16 @@
+{
+  "article": "Starbuck,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/67490/Starbuck__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0ec5c068c7069fa1652c2e139684b58354f4ac49baa1a86da42c8c641f0c9eb4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0ec5c068c7069fa1652c2e139684b58354f4ac49baa1a86da42c8c641f0c9eb4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/67490/Starbuck__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "67490",
+  "timestamp": "2026-05-25T00:20:33.549602Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Trumansburg,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/75506/Trumansburg__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2cf663bba1c9c0cccc53c16e5167246f04b4eb1404e8d2e2ac70c35c1701b903",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2cf663bba1c9c0cccc53c16e5167246f04b4eb1404e8d2e2ac70c35c1701b903",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/75506/Trumansburg__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "75506",
+  "timestamp": "2026-05-25T00:01:20.789867Z",
+  "version": 1
+}

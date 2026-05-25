@@ -1,0 +1,16 @@
+{
+  "article": "Kaylor,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/33380/Kaylor__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0189cf2e79e3affe5d4aef3d9f69b491a48e1a9e1030982ce73238a00fadbecf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0189cf2e79e3affe5d4aef3d9f69b491a48e1a9e1030982ce73238a00fadbecf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/33380/Kaylor__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "33380",
+  "timestamp": "2026-05-25T00:10:43.441419Z",
+  "version": 1
+}

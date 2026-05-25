@@ -1,0 +1,16 @@
+{
+  "article": "Housatonic,_Massachusetts",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/25/31295/Housatonic__Massachusetts/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ad62c7f76721e3ec03fef78d8f4bcc896e0911432493ee957388102ca153bdde",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ad62c7f76721e3ec03fef78d8f4bcc896e0911432493ee957388102ca153bdde",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/25/31295/Housatonic__Massachusetts/manifest.json",
+  "state_fips": "25",
+  "status": "match",
+  "target_fips": "31295",
+  "timestamp": "2026-05-24T23:47:37.986098Z",
+  "version": 1
+}

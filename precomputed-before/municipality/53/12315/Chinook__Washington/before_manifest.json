@@ -1,0 +1,16 @@
+{
+  "article": "Chinook,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/12315/Chinook__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "755eba6df30b33e5edb3c1fb96962300504f95fdf36d49d2deea8d3279930cfe",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "755eba6df30b33e5edb3c1fb96962300504f95fdf36d49d2deea8d3279930cfe",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/12315/Chinook__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "12315",
+  "timestamp": "2026-05-25T00:20:05.953787Z",
+  "version": 1
+}

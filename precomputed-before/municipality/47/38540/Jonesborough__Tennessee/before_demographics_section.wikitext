@@ -1,0 +1,71 @@
+==Demographics==
+{{US Census population
+|1880= 895
+|1890= 937
+|1900= 854
+|1910= 806
+|1920= 815
+|1930= 931
+|1940= 976
+|1950= 1126
+|1960= 1148
+|1970= 1510
+|1980= 2829
+|1990= 3091
+|2000= 4168
+|2010= 5051
+|2020= 5860
+| estyear = 2024
+| estimate = 6746
+|estref={{increase}}
+|footnote=Sources:<ref name="GR9">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|publisher=[[United States Census Bureau]]|access-date=March 4, 2012|title=Census of Population and Housing: Decennial Censuses }}</ref><ref name=CensusPopEst>{{cite web|title=Incorporated Places and Minor Civil Divisions Datasets: Subcounty Resident Population Estimates: April 1, 2010 to July 1, 2012|url=https://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|work=Population Estimates|publisher=U.S. Census Bureau|access-date=December 11, 2013|url-status=dead|archive-url=https://web.archive.org/web/20130611010502/http://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|archive-date=June 11, 2013}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A47|title=Census Population API|publisher=United States Census Bureau|accessdate=October 15, 2022}}</ref>
+}}
+
+===2020 census===
+{| class="wikitable" style="text-align:right"
+|+Jonesborough racial composition<ref>{{Cite web|title=Explore Census Data|url=https://data.census.gov/cedsci/table?g=1600000US4738540&tid=DECENNIALPL2020.P2|access-date=December 26, 2021|website=data.census.gov}}</ref>
+!scope="col"| Race
+!scope="col"| Number
+!scope="col"| Percentage
+|-
+!scope="row"| [[White (U.S. Census)|White]] (non-Hispanic)
+| 5,151
+| 87.9%
+|-
+!scope="row"| [[African American (U.S. Census)|Black or African American]] (non-Hispanic)
+| 259
+| 4.42%
+|-
+!scope="row"| [[Native American (U.S. Census)|Native American]]
+| 10
+| 0.17%
+|-
+!scope="row"| [[Asian (U.S. Census)|Asian]]
+| 57
+| 0.97%
+|-
+!scope="row"| [[Pacific Islander (U.S. Census)|Pacific Islander]]
+| 3
+| 0.05%
+|-
+!scope="row"| [[Race (United States Census)|Other/Mixed]]
+| 216
+| 3.69%
+|-
+!scope="row"| [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]]
+| 164
+| 2.8%
+|}
+As of the [[2020 United States census]], there were 5,860 people, 2,064 households, and 1,397 families residing in the town.
+
+===2000 census===
+As of the [[census]]<ref name="GR2" /> of 2000, 4,168 people, 1,660 households, and 1,107 families were residing in the town. The [[population density]] was 963.2 people/sq mi (371.7/km<sup>2</sup>). The 1,771 housing units averaged 409.3/sq mi (157.9/km<sup>2</sup>). The [[Race (United States Census)|racial makeup]] of the town was 93.43% White, 5.54% African American, 0.10% Native American, 0.17% Asian, 0.19% from other races, and 0.58% from two or more races. Hispanics or Latinos of any race were 0.82% of the population.
+
+[[Image:Jonesborough-central-church1.jpg|left|210px|thumb|Central Christian Church]]
+
+Of the 1,660 households, 27.1% had children under 18 living with them, 52.3% were married couples living together, 11.3% had a female householder with no husband present, and 33.3% were not families. About 30.1% of all households were made up of individuals, and 13.3% had someone living alone who was 65 years of age or older. The average household size was 2.26, and the average family size was 2.80.
+
+In the town, the age distribution was 19.5% under 18, 8.7% from 18 to 24, 29.9% from 25 to 44, 25.6% from 45 to 64, and 16.4% who were 65  or older. The median age was 39 years. For every 100 females, there were 101.5 males. For every 100 females age 18 and over, there were 98.6 males.
+
+The median income for a household in the town was $32,132, and for a family was $44,167. Males had a median income of $28,906 versus $26,192 for females. The [[per capita income]] for the town was $18,768. About 11.0% of families and 16.0% of the population were below the [[poverty line]], including 25.7% of those under age 18 and 22.5% of those age 65 or over.
+

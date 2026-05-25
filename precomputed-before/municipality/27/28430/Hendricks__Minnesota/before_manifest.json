@@ -1,0 +1,16 @@
+{
+  "article": "Hendricks,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/28430/Hendricks__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d13baff240f0714a5f6acf8a377055a32e79d04aa1513d219e21e517758ea44f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d13baff240f0714a5f6acf8a377055a32e79d04aa1513d219e21e517758ea44f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/28430/Hendricks__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "28430",
+  "timestamp": "2026-05-24T23:49:07.478714Z",
+  "version": 1
+}

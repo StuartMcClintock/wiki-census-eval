@@ -1,0 +1,16 @@
+{
+  "article": "McCarthy,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/45790/McCarthy__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0a6012cb64460b0bd6344833d32470be410f577a85d6e32c7d38b32e87931bba",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0a6012cb64460b0bd6344833d32470be410f577a85d6e32c7d38b32e87931bba",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/45790/McCarthy__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "45790",
+  "timestamp": "2026-05-24T23:32:26.398111Z",
+  "version": 1
+}

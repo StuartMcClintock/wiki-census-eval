@@ -1,0 +1,16 @@
+{
+  "article": "New_Boston,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/54166/New_Boston__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3138da527ade3f501a2a38f53c62513dd3ffc5423abb1078d08ff784e23fc7ad",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3138da527ade3f501a2a38f53c62513dd3ffc5423abb1078d08ff784e23fc7ad",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/54166/New_Boston__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "54166",
+  "timestamp": "2026-05-25T00:04:51.584081Z",
+  "version": 1
+}

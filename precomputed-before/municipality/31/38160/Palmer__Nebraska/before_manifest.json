@@ -1,0 +1,16 @@
+{
+  "article": "Palmer,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/38160/Palmer__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8df9d0514433fa31d6b66bae229113d8125b021de198ea869ab649e717ece6d1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8df9d0514433fa31d6b66bae229113d8125b021de198ea869ab649e717ece6d1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/38160/Palmer__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "38160",
+  "timestamp": "2026-05-24T23:56:01.910429Z",
+  "version": 1
+}

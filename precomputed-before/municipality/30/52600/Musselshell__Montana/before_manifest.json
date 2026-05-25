@@ -1,0 +1,16 @@
+{
+  "article": "Musselshell,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/52600/Musselshell__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "22b4aa8292a10eb7f109e4896705fe86150570dfcc9768f6c970ff61d12ed3ff",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "22b4aa8292a10eb7f109e4896705fe86150570dfcc9768f6c970ff61d12ed3ff",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/52600/Musselshell__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "52600",
+  "timestamp": "2026-05-24T23:54:39.350802Z",
+  "version": 1
+}

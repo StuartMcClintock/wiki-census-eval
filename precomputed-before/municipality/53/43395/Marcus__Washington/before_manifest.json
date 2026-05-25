@@ -1,0 +1,16 @@
+{
+  "article": "Marcus,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/43395/Marcus__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c75dd4251fe645f4a4da7b7e5193b5d126dee7fc5110b85841645059a32dd74c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c75dd4251fe645f4a4da7b7e5193b5d126dee7fc5110b85841645059a32dd74c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/43395/Marcus__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "43395",
+  "timestamp": "2026-05-25T00:20:22.231281Z",
+  "version": 1
+}

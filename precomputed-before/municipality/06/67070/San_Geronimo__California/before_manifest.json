@@ -1,0 +1,16 @@
+{
+  "article": "San_Geronimo,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/67070/San_Geronimo__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c320459fe8e5b6fc2a428d1880585ac613e904a5736d65f33c578fcf5f08eea3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c320459fe8e5b6fc2a428d1880585ac613e904a5736d65f33c578fcf5f08eea3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/67070/San_Geronimo__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "67070",
+  "timestamp": "2026-05-24T23:35:03.903860Z",
+  "version": 1
+}

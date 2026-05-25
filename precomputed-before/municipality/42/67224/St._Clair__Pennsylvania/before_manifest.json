@@ -1,0 +1,16 @@
+{
+  "article": "St._Clair,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/67224/St._Clair__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c404ee16549c221e27f9fc98c28605fb3ff185e8d6df66c15f9d216ab2dac627",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c404ee16549c221e27f9fc98c28605fb3ff185e8d6df66c15f9d216ab2dac627",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/67224/St._Clair__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "67224",
+  "timestamp": "2026-05-25T00:08:55.213756Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "New_Houlka,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/51420/New_Houlka__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "289b2bdc196ff4c7391120a183d87539e61b0a80e6a558def52e8e28224279db",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "289b2bdc196ff4c7391120a183d87539e61b0a80e6a558def52e8e28224279db",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/51420/New_Houlka__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "51420",
+  "timestamp": "2026-05-24T23:50:18.260785Z",
+  "version": 1
+}

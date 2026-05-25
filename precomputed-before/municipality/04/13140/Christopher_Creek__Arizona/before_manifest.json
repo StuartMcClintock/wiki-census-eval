@@ -1,0 +1,16 @@
+{
+  "article": "Christopher_Creek,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/13140/Christopher_Creek__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3d7e614a4e4edd1878f8b5395f0fd60715ca550c68e45fbcdff83781373e25b8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3d7e614a4e4edd1878f8b5395f0fd60715ca550c68e45fbcdff83781373e25b8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/13140/Christopher_Creek__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "13140",
+  "timestamp": "2026-05-24T23:32:50.647888Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Elizabethtown,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/23191/Elizabethtown__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7d78e3200056544191e61e64b6efac1aa4283485636a6c9aef81de9d496da8f4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7d78e3200056544191e61e64b6efac1aa4283485636a6c9aef81de9d496da8f4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/23191/Elizabethtown__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "23191",
+  "timestamp": "2026-05-24T23:38:09.639565Z",
+  "version": 1
+}

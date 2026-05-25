@@ -1,0 +1,16 @@
+{
+  "article": "Nathrop,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/53010/Nathrop__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6cb281bcf261cd20c6218677f987aa2de4874f587386a899ac5a8cef44af7077",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6cb281bcf261cd20c6218677f987aa2de4874f587386a899ac5a8cef44af7077",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/53010/Nathrop__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "53010",
+  "timestamp": "2026-05-24T23:35:34.031137Z",
+  "version": 1
+}

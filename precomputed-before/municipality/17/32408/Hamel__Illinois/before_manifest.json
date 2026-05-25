@@ -1,0 +1,16 @@
+{
+  "article": "Hamel,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/32408/Hamel__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3b1c2261a23f36716dab0dc848bf5ff2ce5303d92510329d4eca36cd7c2043c9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3b1c2261a23f36716dab0dc848bf5ff2ce5303d92510329d4eca36cd7c2043c9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/32408/Hamel__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "32408",
+  "timestamp": "2026-05-24T23:38:18.197629Z",
+  "version": 1
+}

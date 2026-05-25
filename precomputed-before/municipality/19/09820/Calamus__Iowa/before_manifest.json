@@ -1,0 +1,16 @@
+{
+  "article": "Calamus,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/09820/Calamus__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e02e906b90e023579a54280c04d686b9c282031b97e7cd00bc409846ab1c7e5f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e02e906b90e023579a54280c04d686b9c282031b97e7cd00bc409846ab1c7e5f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/09820/Calamus__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "09820",
+  "timestamp": "2026-05-24T23:40:31.655336Z",
+  "version": 1
+}

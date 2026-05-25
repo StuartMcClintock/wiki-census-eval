@@ -1,0 +1,16 @@
+{
+  "article": "Gray,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/32565/Gray__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ea881e5f30dcb3dbd87ca0bc3102c99b3310a795f9f93eebdd175a01bfa769c6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ea881e5f30dcb3dbd87ca0bc3102c99b3310a795f9f93eebdd175a01bfa769c6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/32565/Gray__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "32565",
+  "timestamp": "2026-05-24T23:41:07.213735Z",
+  "version": 1
+}

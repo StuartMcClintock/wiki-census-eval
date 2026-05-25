@@ -1,0 +1,16 @@
+{
+  "article": "Cedar_Hills,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/12050/Cedar_Hills__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "403e809ba623cfa3f07d5e8d9cc4dd5d9aa474ca50417f0bc2aade7a73a40fa7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "403e809ba623cfa3f07d5e8d9cc4dd5d9aa474ca50417f0bc2aade7a73a40fa7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/12050/Cedar_Hills__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "12050",
+  "timestamp": "2026-05-25T00:05:45.031640Z",
+  "version": 1
+}

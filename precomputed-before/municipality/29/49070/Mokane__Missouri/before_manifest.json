@@ -1,0 +1,16 @@
+{
+  "article": "Mokane,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/49070/Mokane__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "eb5122904443ac151dd26c83d35c5b97a427e886f8f767980c3ddde15f978792",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "eb5122904443ac151dd26c83d35c5b97a427e886f8f767980c3ddde15f978792",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/49070/Mokane__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "49070",
+  "timestamp": "2026-05-24T23:53:33.359564Z",
+  "version": 1
+}

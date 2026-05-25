@@ -1,0 +1,16 @@
+{
+  "article": "Eagle_Lake,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/21475/Eagle_Lake__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fc213a48fd6bfd99fa003e107f6004a90f19ef92dd1917271891f1f75b9ef2ce",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fc213a48fd6bfd99fa003e107f6004a90f19ef92dd1917271891f1f75b9ef2ce",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/21475/Eagle_Lake__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "21475",
+  "timestamp": "2026-05-24T23:38:07.985152Z",
+  "version": 1
+}

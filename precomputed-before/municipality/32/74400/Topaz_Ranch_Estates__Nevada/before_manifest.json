@@ -1,0 +1,16 @@
+{
+  "article": "Topaz_Ranch_Estates,_Nevada",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/32/74400/Topaz_Ranch_Estates__Nevada/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9bfa4f47ca3463e43e87652177c646836545827356f0f44a062e13d05b66ad6c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9bfa4f47ca3463e43e87652177c646836545827356f0f44a062e13d05b66ad6c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/32/74400/Topaz_Ranch_Estates__Nevada/manifest.json",
+  "state_fips": "32",
+  "status": "match",
+  "target_fips": "74400",
+  "timestamp": "2026-05-24T23:57:34.402882Z",
+  "version": 1
+}

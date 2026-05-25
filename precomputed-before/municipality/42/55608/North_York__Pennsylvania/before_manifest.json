@@ -1,0 +1,16 @@
+{
+  "article": "North_York,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/55608/North_York__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dabbc3c6be75cc4deff74841b23a69ddb84a5b64ffbf4ba1a39af6635b85d6ca",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dabbc3c6be75cc4deff74841b23a69ddb84a5b64ffbf4ba1a39af6635b85d6ca",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/55608/North_York__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "55608",
+  "timestamp": "2026-05-25T00:08:20.632291Z",
+  "version": 1
+}

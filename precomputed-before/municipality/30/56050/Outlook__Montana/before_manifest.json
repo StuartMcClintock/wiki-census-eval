@@ -1,0 +1,16 @@
+{
+  "article": "Outlook,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/56050/Outlook__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f5e0859283b41152b0b615ce3da09e46623c56681e455e204720325ac6bf4048",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f5e0859283b41152b0b615ce3da09e46623c56681e455e204720325ac6bf4048",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/56050/Outlook__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "56050",
+  "timestamp": "2026-05-24T23:54:41.074742Z",
+  "version": 1
+}

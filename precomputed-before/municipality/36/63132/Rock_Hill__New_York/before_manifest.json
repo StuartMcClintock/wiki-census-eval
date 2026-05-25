@@ -1,0 +1,16 @@
+{
+  "article": "Rock_Hill,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/63132/Rock_Hill__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fcbbdbbca39c653974489ef16b88ca9000b101146b82056225130282379f3a5b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fcbbdbbca39c653974489ef16b88ca9000b101146b82056225130282379f3a5b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/63132/Rock_Hill__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "63132",
+  "timestamp": "2026-05-25T00:01:08.461314Z",
+  "version": 1
+}

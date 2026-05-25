@@ -1,0 +1,80 @@
+==Demographics==
+{{US Census population
+|2010= 700
+|2020= 739
+|footnote=Population sources:<br>2010<ref name=Census2010>[http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/1600000US3417260 DP-1 - Profile of General Population and Housing Characteristics: 2010 Demographic Profile Data for Delaware Park CDP, New Jersey] {{Webarchive|url=https://archive.today/20200212133156/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/1600000US3417260 |date=2020-02-12 }}, [[United States Census Bureau]]. Accessed September 20, 2012.</ref> 2020<ref name=Census2020/>
+}}
+
+Delaware Park first appeared as a [[census designated place]] in the [[2010 U.S. census]].<ref>{{Cite web|title= 2010 Census of Population - Population and Housing Unit Counts - New Jersey |url=https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-32.pdf|website=[[United States Census Bureau]]|archive-url=https://web.archive.org/web/20251111220031/https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-32.pdf| archive-date=November 11, 2025}}</ref>
+
+===2020 census===
+{| class="wikitable sortable" style="text-align:center;"
+|+'''Delaware Park CDP, New Jersey – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Delaware Park CDP, New Jersey|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US3417260&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!style="background-color: #ffffb3;" |Pop 2020<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Delaware Park CDP, New Jersey|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US3417260&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!% 2010
+!style="background-color: #ffffb3;" |% 2020
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|641
+|style='background: #ffffe6; |597
+|91.57%
+|style='background: #ffffe6; |80.78%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|4
+|style='background: #ffffe6; |18
+|0.57%
+|style='background: #ffffe6; |2.44%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|0
+|style='background: #ffffe6; |2
+|0.00%
+|style='background: #ffffe6; |0.27%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|8
+|style='background: #ffffe6; |12
+|1.14%
+|style='background: #ffffe6; |1.62%
+|-
+|[[Native Hawaiian]] or [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|0
+|style='background: #ffffe6; |9
+|0.00%
+|style='background: #ffffe6; |1.22%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|7
+|style='background: #ffffe6; |27
+|1.00%
+|style='background: #ffffe6; |3.65%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|40
+|style='background: #ffffe6; |74
+|5.71%
+|style='background: #ffffe6; |10.01%
+|-
+|'''Total'''
+|'''700'''
+|style='background: #ffffe6; |'''739 '''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+===2010 census===
+The [[2010 United States census]] counted 700 people, 265 households, and 195 families in the CDP. The [[population density]] was {{convert|2848.2|/sqmi}}. There were 278 housing units at an average density of {{convert|1131.1|/sqmi}}. The racial makeup was 96.43% (675) [[White (U.S. census)|White]], 0.57% (4) [[Black (U.S. census)|Black or African American]], 0.00% (0) [[Native American (U.S. census)|Native American]], 1.14% (8) [[Asian (U.S. census)|Asian]], 0.00% (0) [[Pacific Islander (U.S. census)|Pacific Islander]], 0.29% (2) from [[Race and ethnicity in the United States census|other races]], and 1.57% (11) from two or more races. [[Hispanic (U.S. census)|Hispanic or Latino]] of any race were 5.71% (40) of the population.<ref name=Census2010/>
+
+Of the 265 households, 34.0% had children under the age of 18; 57.7% were married couples living together; 12.5% had a female householder with no husband present and 26.4% were non-families. Of all households, 22.3% were made up of individuals and 8.3% had someone living alone who was 65 years of age or older. The average household size was 2.64 and the average family size was 3.11.<ref name=Census2010/>
+
+25.6% of the population were under the age of 18, 5.9% from 18 to 24, 23.3% from 25 to 44, 31.3% from 45 to 64, and 14.0% who were 65 years of age or older. The median age was 41.4 years. For every 100 females, the population had 96.6 males. For every 100 females ages 18 and older there were 92.3 males.<ref name=Census2010/>
+

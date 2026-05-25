@@ -1,0 +1,16 @@
+{
+  "article": "Spring_Bay,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/71604/Spring_Bay__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "00f447d86ff2f563377941b3c7467a9a780573ad0dff6b0cc6a5a0a21a27bbaf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "00f447d86ff2f563377941b3c7467a9a780573ad0dff6b0cc6a5a0a21a27bbaf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/71604/Spring_Bay__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "71604",
+  "timestamp": "2026-05-24T23:39:13.122813Z",
+  "version": 1
+}

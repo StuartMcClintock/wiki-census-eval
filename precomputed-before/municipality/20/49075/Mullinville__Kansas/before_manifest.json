@@ -1,0 +1,16 @@
+{
+  "article": "Mullinville,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/49075/Mullinville__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c3ebbd6715816c3f7b233e9208ff13d208df532a57594f0cc1e468b3230d5098",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c3ebbd6715816c3f7b233e9208ff13d208df532a57594f0cc1e468b3230d5098",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/49075/Mullinville__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "49075",
+  "timestamp": "2026-05-24T23:43:11.788824Z",
+  "version": 1
+}

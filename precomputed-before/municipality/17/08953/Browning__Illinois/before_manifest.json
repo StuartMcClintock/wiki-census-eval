@@ -1,0 +1,16 @@
+{
+  "article": "Browning,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/08953/Browning__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "95c9b4a618af80d274f4dbb0550d3061d029ca1bc19a2834e8bc1b260a2aee19",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "95c9b4a618af80d274f4dbb0550d3061d029ca1bc19a2834e8bc1b260a2aee19",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/08953/Browning__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "08953",
+  "timestamp": "2026-05-24T23:37:51.905576Z",
+  "version": 1
+}

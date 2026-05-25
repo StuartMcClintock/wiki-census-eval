@@ -1,0 +1,16 @@
+{
+  "article": "Robinson,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/67180/Robinson__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "970c29150bf728dcba8324115d56f5a0c18b415e2e235d119180f3348d237e2f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "970c29150bf728dcba8324115d56f5a0c18b415e2e235d119180f3348d237e2f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/67180/Robinson__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "67180",
+  "timestamp": "2026-05-25T00:03:19.659084Z",
+  "version": 1
+}

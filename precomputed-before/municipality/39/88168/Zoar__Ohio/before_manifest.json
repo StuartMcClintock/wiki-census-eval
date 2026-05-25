@@ -1,0 +1,16 @@
+{
+  "article": "Zoar,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/88168/Zoar__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5f17135fe2ce21d74f93b96052621b20fc80e0b398f9a1718d579f4738374d66",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5f17135fe2ce21d74f93b96052621b20fc80e0b398f9a1718d579f4738374d66",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/88168/Zoar__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "88168",
+  "timestamp": "2026-05-25T00:05:42.010666Z",
+  "version": 1
+}

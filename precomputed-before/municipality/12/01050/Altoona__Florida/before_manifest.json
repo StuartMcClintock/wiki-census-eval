@@ -1,0 +1,16 @@
+{
+  "article": "Altoona,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/01050/Altoona__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "45490efe2d552cbeabfe64db18b2716d926e4ce49e700d23e80084633b646c5b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "45490efe2d552cbeabfe64db18b2716d926e4ce49e700d23e80084633b646c5b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/01050/Altoona__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "01050",
+  "timestamp": "2026-05-24T23:36:06.538050Z",
+  "version": 1
+}

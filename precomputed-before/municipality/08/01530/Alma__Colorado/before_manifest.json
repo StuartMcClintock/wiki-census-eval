@@ -1,0 +1,16 @@
+{
+  "article": "Alma,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/01530/Alma__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "24eba778237496ee5de85a143f944143baea433a911e6eff9fdc4b01c256648e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "24eba778237496ee5de85a143f944143baea433a911e6eff9fdc4b01c256648e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/01530/Alma__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "01530",
+  "timestamp": "2026-05-24T23:35:17.333161Z",
+  "version": 1
+}

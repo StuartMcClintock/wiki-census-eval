@@ -1,0 +1,16 @@
+{
+  "article": "Mimbres,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/48830/Mimbres__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f1df5510a011d3c539c60f4f717436ebde76624dd3dd46cfc9da07b0b8cf4b19",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f1df5510a011d3c539c60f4f717436ebde76624dd3dd46cfc9da07b0b8cf4b19",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/48830/Mimbres__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "48830",
+  "timestamp": "2026-05-24T23:58:42.224292Z",
+  "version": 1
+}

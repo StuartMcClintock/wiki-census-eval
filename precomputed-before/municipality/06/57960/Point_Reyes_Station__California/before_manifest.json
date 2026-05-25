@@ -1,0 +1,16 @@
+{
+  "article": "Point_Reyes_Station,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/57960/Point_Reyes_Station__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d8bc3581391ba8cc91bf50eb1842698600eac2f9bf72178aa7a6520ae28a9a0a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d8bc3581391ba8cc91bf50eb1842698600eac2f9bf72178aa7a6520ae28a9a0a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/57960/Point_Reyes_Station__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "57960",
+  "timestamp": "2026-05-24T23:34:47.236468Z",
+  "version": 1
+}

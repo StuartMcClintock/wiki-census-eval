@@ -1,0 +1,16 @@
+{
+  "article": "Chesterhill,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/14086/Chesterhill__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0c3dddf42999818dcdabb6f2e12b0b822b39a01c73fa184531c825983512162d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0c3dddf42999818dcdabb6f2e12b0b822b39a01c73fa184531c825983512162d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/14086/Chesterhill__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "14086",
+  "timestamp": "2026-05-25T00:03:53.895286Z",
+  "version": 1
+}

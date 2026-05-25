@@ -1,0 +1,16 @@
+{
+  "article": "Lower_Berkshire_Valley,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/41700/Lower_Berkshire_Valley__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7b711156587e2746f6d33f3f6df41ff726a1dae6d45c8d4d7fc1cbef75c90d6a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7b711156587e2746f6d33f3f6df41ff726a1dae6d45c8d4d7fc1cbef75c90d6a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/41700/Lower_Berkshire_Valley__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "41700",
+  "timestamp": "2026-05-24T23:57:54.312093Z",
+  "version": 1
+}

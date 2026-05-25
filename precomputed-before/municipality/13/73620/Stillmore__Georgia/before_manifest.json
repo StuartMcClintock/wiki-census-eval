@@ -1,0 +1,16 @@
+{
+  "article": "Stillmore,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/73620/Stillmore__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fb991bca5f5d97904252b67731392c7cceaf1e4c68c65442a7a72b069ed84142",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fb991bca5f5d97904252b67731392c7cceaf1e4c68c65442a7a72b069ed84142",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/73620/Stillmore__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "73620",
+  "timestamp": "2026-05-24T23:37:08.336245Z",
+  "version": 1
+}

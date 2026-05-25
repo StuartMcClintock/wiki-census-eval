@@ -1,0 +1,16 @@
+{
+  "article": "Gun_Club_Estates,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/28305/Gun_Club_Estates__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ef471db074611f9c18e85d7469b0d51b2613279e3d701a2d94881cc78dfd0dd6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ef471db074611f9c18e85d7469b0d51b2613279e3d701a2d94881cc78dfd0dd6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/28305/Gun_Club_Estates__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "28305",
+  "timestamp": "2026-05-24T23:36:13.547569Z",
+  "version": 1
+}

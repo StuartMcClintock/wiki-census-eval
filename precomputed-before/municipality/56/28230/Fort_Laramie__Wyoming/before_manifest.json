@@ -1,0 +1,16 @@
+{
+  "article": "Fort_Laramie,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/28230/Fort_Laramie__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "25ed3fa9bdbfbc10c554e5ba46112c98b5e7094732fc0f309c83954dcce6b96b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "25ed3fa9bdbfbc10c554e5ba46112c98b5e7094732fc0f309c83954dcce6b96b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/28230/Fort_Laramie__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "28230",
+  "timestamp": "2026-05-25T00:23:13.643849Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Marrowstone,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/43762/Marrowstone__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "96bce8a17c78e166a6f5d8b6d784bc7f4b3e13a6ef9985d096fd02469691c255",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "96bce8a17c78e166a6f5d8b6d784bc7f4b3e13a6ef9985d096fd02469691c255",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/43762/Marrowstone__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "43762",
+  "timestamp": "2026-05-25T00:20:22.638027Z",
+  "version": 1
+}

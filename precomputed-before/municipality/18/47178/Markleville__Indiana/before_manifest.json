@@ -1,0 +1,16 @@
+{
+  "article": "Markleville,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/47178/Markleville__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "feca5254384a91ce548958151827d1efcc4cfc92add54d1613e89fd48a36fcd9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "feca5254384a91ce548958151827d1efcc4cfc92add54d1613e89fd48a36fcd9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/47178/Markleville__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "47178",
+  "timestamp": "2026-05-24T23:40:00.685792Z",
+  "version": 1
+}

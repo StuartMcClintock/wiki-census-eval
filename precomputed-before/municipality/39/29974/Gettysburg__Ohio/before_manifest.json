@@ -1,0 +1,16 @@
+{
+  "article": "Gettysburg,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/29974/Gettysburg__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6a5db419755fdc9328a5a93b8977f033d125fca3d407b2a7d059be458eaeb3d8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6a5db419755fdc9328a5a93b8977f033d125fca3d407b2a7d059be458eaeb3d8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/29974/Gettysburg__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "29974",
+  "timestamp": "2026-05-25T00:04:11.422591Z",
+  "version": 1
+}

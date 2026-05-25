@@ -1,0 +1,16 @@
+{
+  "article": "Siren,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/74175/Siren__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fa2221b7e1578b7945b204b9756838478a2e13dcb444c3189c710bac1c0c6a3e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fa2221b7e1578b7945b204b9756838478a2e13dcb444c3189c710bac1c0c6a3e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/74175/Siren__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "74175",
+  "timestamp": "2026-05-25T00:22:42.969245Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Ceresco,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/08570/Ceresco__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cffd96ed077033258bc5f3ec67db319c39700136ab9975c39ddf244cc72221fc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cffd96ed077033258bc5f3ec67db319c39700136ab9975c39ddf244cc72221fc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/08570/Ceresco__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "08570",
+  "timestamp": "2026-05-24T23:55:17.224907Z",
+  "version": 1
+}

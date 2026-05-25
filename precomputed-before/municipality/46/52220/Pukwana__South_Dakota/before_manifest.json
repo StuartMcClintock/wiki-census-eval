@@ -1,0 +1,16 @@
+{
+  "article": "Pukwana,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/52220/Pukwana__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a2ca82cf816612b094f0176f285d200227dde9c715eefe3ab6cc5f46bb2e3e24",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a2ca82cf816612b094f0176f285d200227dde9c715eefe3ab6cc5f46bb2e3e24",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/52220/Pukwana__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "52220",
+  "timestamp": "2026-05-25T00:11:09.731526Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Bricelyn,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/07678/Bricelyn__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aad5637f54b3a9e05894121441ed4dfc2e9f7ed4e831cb216e9696c8d7e2f852",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aad5637f54b3a9e05894121441ed4dfc2e9f7ed4e831cb216e9696c8d7e2f852",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/07678/Bricelyn__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "07678",
+  "timestamp": "2026-05-24T23:48:41.472979Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Ahtanum,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/00800/Ahtanum__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "795e0e33b0caf2b7ecbd2b2129ff6a6f9a7f1e482153eb5777b24f0cc74a5e46",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "795e0e33b0caf2b7ecbd2b2129ff6a6f9a7f1e482153eb5777b24f0cc74a5e46",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/00800/Ahtanum__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "00800",
+  "timestamp": "2026-05-25T00:19:46.491042Z",
+  "version": 1
+}

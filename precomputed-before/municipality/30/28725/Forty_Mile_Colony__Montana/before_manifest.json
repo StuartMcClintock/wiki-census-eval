@@ -1,0 +1,16 @@
+{
+  "article": "Forty_Mile_Colony,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/28725/Forty_Mile_Colony__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "65968707e114ef0212de77d666bf4a1e319cdddb243e9fe005a87d2ea2c66941",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "65968707e114ef0212de77d666bf4a1e319cdddb243e9fe005a87d2ea2c66941",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/28725/Forty_Mile_Colony__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "28725",
+  "timestamp": "2026-05-24T23:54:25.500441Z",
+  "version": 1
+}

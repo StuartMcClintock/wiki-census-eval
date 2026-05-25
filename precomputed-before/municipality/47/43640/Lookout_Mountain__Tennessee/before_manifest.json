@@ -1,0 +1,16 @@
+{
+  "article": "Lookout_Mountain,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/43640/Lookout_Mountain__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d837aaf8502f94f5511acd0ef5f6354477e35561e770f3aeb60f7ebeab6dd837",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d837aaf8502f94f5511acd0ef5f6354477e35561e770f3aeb60f7ebeab6dd837",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/43640/Lookout_Mountain__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "43640",
+  "timestamp": "2026-05-25T00:14:45.611565Z",
+  "version": 1
+}

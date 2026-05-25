@@ -1,0 +1,16 @@
+{
+  "article": "Fredonia,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/28120/Fredonia__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "37a322536a41e0667115247dba7d88036fbd38c8d61539814a23bdf1f5b2dad9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "37a322536a41e0667115247dba7d88036fbd38c8d61539814a23bdf1f5b2dad9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/28120/Fredonia__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "28120",
+  "timestamp": "2026-05-24T23:31:56.176647Z",
+  "version": 1
+}

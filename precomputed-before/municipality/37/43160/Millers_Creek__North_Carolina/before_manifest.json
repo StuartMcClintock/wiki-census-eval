@@ -1,0 +1,16 @@
+{
+  "article": "Millers_Creek,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/43160/Millers_Creek__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cc62f953ae1efa583311d9c3a495ae3b1d3c43f31e08ce298cdf5cc879795a56",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cc62f953ae1efa583311d9c3a495ae3b1d3c43f31e08ce298cdf5cc879795a56",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/43160/Millers_Creek__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "43160",
+  "timestamp": "2026-05-25T00:02:11.145692Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Amherst,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/01915/Amherst__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "528ad721349f75908e7f9e931609b53845158cb3d3f051c91ed8a2b665e4092d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "528ad721349f75908e7f9e931609b53845158cb3d3f051c91ed8a2b665e4092d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/01915/Amherst__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "01915",
+  "timestamp": "2026-05-24T23:35:17.587605Z",
+  "version": 1
+}

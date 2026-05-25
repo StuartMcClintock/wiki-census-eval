@@ -1,0 +1,16 @@
+{
+  "article": "Glenview_Hills,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/31402/Glenview_Hills__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "710afc448e036ec1be3a544e78cb239943984dd5dbfbfb86a777253debd960c3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "710afc448e036ec1be3a544e78cb239943984dd5dbfbfb86a777253debd960c3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/31402/Glenview_Hills__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "31402",
+  "timestamp": "2026-05-24T23:44:04.487237Z",
+  "version": 1
+}

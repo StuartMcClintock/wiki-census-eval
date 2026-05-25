@@ -1,0 +1,16 @@
+{
+  "article": "Camptown,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/12590/Camptown__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "298cb7a18b5a630d15b9d26829bef97403404a2d46ffaf81ae5f8c89144d5125",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "298cb7a18b5a630d15b9d26829bef97403404a2d46ffaf81ae5f8c89144d5125",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/12590/Camptown__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "12590",
+  "timestamp": "2026-05-25T00:19:04.183794Z",
+  "version": 1
+}

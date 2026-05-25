@@ -1,0 +1,16 @@
+{
+  "article": "Arlington,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/02116/Arlington__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f3f0dab87bdba8b902c0ebc7ad5b39caf29ef28167f060103193e30df326e75f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f3f0dab87bdba8b902c0ebc7ad5b39caf29ef28167f060103193e30df326e75f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/02116/Arlington__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "02116",
+  "timestamp": "2026-05-24T23:39:25.646842Z",
+  "version": 1
+}

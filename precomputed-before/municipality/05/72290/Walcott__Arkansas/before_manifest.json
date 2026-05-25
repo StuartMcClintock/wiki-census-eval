@@ -1,0 +1,16 @@
+{
+  "article": "Walcott,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/72290/Walcott__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e49e35897fae1866e23c8b896f288c0d05299cd0fb14bf5f53c2aa56bf2e58cf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e49e35897fae1866e23c8b896f288c0d05299cd0fb14bf5f53c2aa56bf2e58cf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/72290/Walcott__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "72290",
+  "timestamp": "2026-05-24T23:34:13.029742Z",
+  "version": 1
+}

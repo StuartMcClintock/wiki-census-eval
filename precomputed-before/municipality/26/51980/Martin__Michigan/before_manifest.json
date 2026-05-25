@@ -1,0 +1,16 @@
+{
+  "article": "Martin,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/51980/Martin__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "16a0af12a2916e146d4bca42a1a30468152e518069a960bf7b352c751342c0ca",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "16a0af12a2916e146d4bca42a1a30468152e518069a960bf7b352c751342c0ca",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/51980/Martin__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "51980",
+  "timestamp": "2026-05-24T23:48:05.271730Z",
+  "version": 1
+}

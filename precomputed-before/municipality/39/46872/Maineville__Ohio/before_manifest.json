@@ -1,0 +1,16 @@
+{
+  "article": "Maineville,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/46872/Maineville__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f40e2d5da78a16c02e6a1761b95d8c42ae3dde9fdb6c39a5684ef85552d08e26",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f40e2d5da78a16c02e6a1761b95d8c42ae3dde9fdb6c39a5684ef85552d08e26",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/46872/Maineville__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "46872",
+  "timestamp": "2026-05-25T00:04:42.108744Z",
+  "version": 1
+}

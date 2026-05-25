@@ -1,0 +1,16 @@
+{
+  "article": "Hoople,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/38780/Hoople__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "57b0afc618f46f1240e05d96a85c3fc95d24b94cdba7564ee107b358eb25a0eb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "57b0afc618f46f1240e05d96a85c3fc95d24b94cdba7564ee107b358eb25a0eb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/38780/Hoople__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "38780",
+  "timestamp": "2026-05-25T00:03:04.903719Z",
+  "version": 1
+}

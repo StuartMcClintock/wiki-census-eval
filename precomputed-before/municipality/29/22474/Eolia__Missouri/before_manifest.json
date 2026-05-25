@@ -1,0 +1,16 @@
+{
+  "article": "Eolia,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/22474/Eolia__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9dc0b207f930fb9be23e92bd874897a7bc455406416839c74cb0eb5b0d5aa4de",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9dc0b207f930fb9be23e92bd874897a7bc455406416839c74cb0eb5b0d5aa4de",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/22474/Eolia__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "22474",
+  "timestamp": "2026-05-24T23:51:06.829509Z",
+  "version": 1
+}

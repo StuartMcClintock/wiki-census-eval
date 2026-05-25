@@ -1,0 +1,16 @@
+{
+  "article": "Calion,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/10600/Calion__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a7b434d816d8374b3e309995322e97647c6f246dbb3af26a3b8c7b97a354ab5f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a7b434d816d8374b3e309995322e97647c6f246dbb3af26a3b8c7b97a354ab5f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/10600/Calion__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "10600",
+  "timestamp": "2026-05-24T23:33:23.743968Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "East_Tulare_Villa,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/21210/East_Tulare_Villa__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9c05130d41b1be75666dcdd6f1eeb74f8045568358c00ace61b1560a7b53ff7e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9c05130d41b1be75666dcdd6f1eeb74f8045568358c00ace61b1560a7b53ff7e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/21210/East_Tulare_Villa__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "21210",
+  "timestamp": "2026-05-24T23:34:20.235128Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Swift_Bird,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/62716/Swift_Bird__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "601e506a47daa2dc2089acd1858cf6a04f4bcefc52951119cb71a38e9c5472b4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2572dc01b55814fc3b0641c513ce512bd0743d4e7e91a4786ea3cff7e219c524",
+  "reason": "the demographics section text changed since precomputation",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/62716/Swift_Bird__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "mismatch",
+  "target_fips": "62716",
+  "timestamp": "2026-05-25T00:12:49.276562Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Midway,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/48424/Midway__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "faac248f427f89a771daf61b531d22e39edf1b45d4122e2bd7e6bd8d84c7b717",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "faac248f427f89a771daf61b531d22e39edf1b45d4122e2bd7e6bd8d84c7b717",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/48424/Midway__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "48424",
+  "timestamp": "2026-05-24T23:32:04.476572Z",
+  "version": 1
+}

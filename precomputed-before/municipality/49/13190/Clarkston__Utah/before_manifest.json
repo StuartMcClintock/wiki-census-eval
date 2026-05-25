@@ -1,0 +1,16 @@
+{
+  "article": "Clarkston,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/13190/Clarkston__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "706de8e1373eb557e861454fdad0c5515569e1dbd6b2a14cb814ae4d39619a04",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "706de8e1373eb557e861454fdad0c5515569e1dbd6b2a14cb814ae4d39619a04",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/13190/Clarkston__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "13190",
+  "timestamp": "2026-05-25T00:16:55.758821Z",
+  "version": 1
+}

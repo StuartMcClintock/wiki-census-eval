@@ -1,0 +1,16 @@
+{
+  "article": "Thornburg,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/77835/Thornburg__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c0b46530f309d7c2831e683bf469616f6e4a66292dcbb2629ce5e29ba14952d7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c0b46530f309d7c2831e683bf469616f6e4a66292dcbb2629ce5e29ba14952d7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/77835/Thornburg__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "77835",
+  "timestamp": "2026-05-24T23:42:05.590700Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Naturita,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/53120/Naturita__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c76ad0d84fc80e74651556404a16be2ba14815357978f04300809a64b6feb9c0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c76ad0d84fc80e74651556404a16be2ba14815357978f04300809a64b6feb9c0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/53120/Naturita__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "53120",
+  "timestamp": "2026-05-24T23:35:34.139067Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Momeyer,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/43860/Momeyer__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1c27aed3e6a690d1801bc8aa7a8a27a06de6a3ad31f655730967566399ceb59f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1c27aed3e6a690d1801bc8aa7a8a27a06de6a3ad31f655730967566399ceb59f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/43860/Momeyer__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "43860",
+  "timestamp": "2026-05-25T00:02:11.760747Z",
+  "version": 1
+}

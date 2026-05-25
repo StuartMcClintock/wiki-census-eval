@@ -1,0 +1,16 @@
+{
+  "article": "Farmersville,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/25440/Farmersville__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d12b2738b5637a3a04b03dd69eea0b59f9597d8d28eb98d2d2df81e6d226bd00",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d12b2738b5637a3a04b03dd69eea0b59f9597d8d28eb98d2d2df81e6d226bd00",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/25440/Farmersville__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "25440",
+  "timestamp": "2026-05-24T23:38:12.213043Z",
+  "version": 1
+}

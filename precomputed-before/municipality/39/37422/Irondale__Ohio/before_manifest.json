@@ -1,0 +1,16 @@
+{
+  "article": "Irondale,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/37422/Irondale__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dc0eefd5541e6c6f532ab704513eaaf237f6a558ebd4f5e0ca8749d00c3d283a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dc0eefd5541e6c6f532ab704513eaaf237f6a558ebd4f5e0ca8749d00c3d283a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/37422/Irondale__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "37422",
+  "timestamp": "2026-05-25T00:04:20.391709Z",
+  "version": 1
+}

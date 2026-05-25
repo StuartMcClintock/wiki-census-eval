@@ -1,0 +1,16 @@
+{
+  "article": "Ophir,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/56750/Ophir__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6fc1dc662d071aef21a36003467648be00e618b4cba4fc3a13c4fbd4ea0dffa5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6fc1dc662d071aef21a36003467648be00e618b4cba4fc3a13c4fbd4ea0dffa5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/56750/Ophir__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "56750",
+  "timestamp": "2026-05-25T00:17:07.217764Z",
+  "version": 1
+}

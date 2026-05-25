@@ -1,0 +1,16 @@
+{
+  "article": "Lakeville,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/41036/Lakeville__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bad879a11e6a199e45ccad440c51e76e42ad919521c6bedb02fcef78cbfa84d2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bad879a11e6a199e45ccad440c51e76e42ad919521c6bedb02fcef78cbfa84d2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/41036/Lakeville__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "41036",
+  "timestamp": "2026-05-25T00:00:51.176475Z",
+  "version": 1
+}

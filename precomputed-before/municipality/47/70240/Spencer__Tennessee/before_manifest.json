@@ -1,0 +1,16 @@
+{
+  "article": "Spencer,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/70240/Spencer__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3c70fcfd58625fb250907f12b1ad993989cf95fa6a4e664d27774e248bcb1adc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3c70fcfd58625fb250907f12b1ad993989cf95fa6a4e664d27774e248bcb1adc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/70240/Spencer__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "70240",
+  "timestamp": "2026-05-25T00:14:54.648490Z",
+  "version": 1
+}

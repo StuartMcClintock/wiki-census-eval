@@ -1,0 +1,16 @@
+{
+  "article": "Portage,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/61590/Portage__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "87398bf13b567577fbe5c857b221d1de3f2895556cc8aec3058c493a9a1c4ea7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "87398bf13b567577fbe5c857b221d1de3f2895556cc8aec3058c493a9a1c4ea7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/61590/Portage__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "61590",
+  "timestamp": "2026-05-25T00:17:08.093099Z",
+  "version": 1
+}

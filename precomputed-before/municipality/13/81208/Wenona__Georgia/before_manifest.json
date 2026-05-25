@@ -1,0 +1,16 @@
+{
+  "article": "Wenona,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/81208/Wenona__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "83f6b8aa3d883cf24279780b923121301a212df6b80a0e41b316acb3f9170f91",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "83f6b8aa3d883cf24279780b923121301a212df6b80a0e41b316acb3f9170f91",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/81208/Wenona__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "81208",
+  "timestamp": "2026-05-24T23:37:11.941318Z",
+  "version": 1
+}

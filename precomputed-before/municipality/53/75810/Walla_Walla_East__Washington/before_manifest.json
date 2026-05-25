@@ -1,0 +1,16 @@
+{
+  "article": "Walla_Walla_East,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/75810/Walla_Walla_East__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f2dff3340d645a485ff2ac6abca31b5db3163f4833912863b3b55f7e8e5e9b93",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f2dff3340d645a485ff2ac6abca31b5db3163f4833912863b3b55f7e8e5e9b93",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/75810/Walla_Walla_East__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "75810",
+  "timestamp": "2026-05-25T00:20:37.654899Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Axson,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/04700/Axson__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e308714073b28eaa7568ea2ae2795c44ed14fdfe59e14bdd4d6e83bcecbd74b9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e308714073b28eaa7568ea2ae2795c44ed14fdfe59e14bdd4d6e83bcecbd74b9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/04700/Axson__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "04700",
+  "timestamp": "2026-05-24T23:36:27.804300Z",
+  "version": 1
+}

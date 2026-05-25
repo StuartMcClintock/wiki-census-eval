@@ -1,0 +1,16 @@
+{
+  "article": "Tower_City,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/79340/Tower_City__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2ab7223c711d71a357dff82bc3f52b6367feaeef5558b53cfc17298d2c1be4a2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2ab7223c711d71a357dff82bc3f52b6367feaeef5558b53cfc17298d2c1be4a2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/79340/Tower_City__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "79340",
+  "timestamp": "2026-05-25T00:03:24.589004Z",
+  "version": 1
+}

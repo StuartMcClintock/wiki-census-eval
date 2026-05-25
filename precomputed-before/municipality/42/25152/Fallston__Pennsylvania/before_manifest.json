@@ -1,0 +1,16 @@
+{
+  "article": "Fallston,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/25152/Fallston__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6c9ab75e084785b1c7bc924171ce0c698dbfa33b098298404acbb706005e276a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6c9ab75e084785b1c7bc924171ce0c698dbfa33b098298404acbb706005e276a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/25152/Fallston__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "25152",
+  "timestamp": "2026-05-25T00:07:07.408887Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "New_Vernon,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/52020/New_Vernon__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a9e4fc5e8fff08a89a1155444e9d2f6b757572c3b38bd61655741efd3758759a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a9e4fc5e8fff08a89a1155444e9d2f6b757572c3b38bd61655741efd3758759a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/52020/New_Vernon__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "52020",
+  "timestamp": "2026-05-24T23:57:56.827453Z",
+  "version": 1
+}

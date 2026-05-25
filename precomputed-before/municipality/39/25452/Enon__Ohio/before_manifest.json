@@ -1,0 +1,16 @@
+{
+  "article": "Enon,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/25452/Enon__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "de57adee02a9a6aaca880e32565c7b079ff4ed165215e9c1949c159eb9d3967b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "de57adee02a9a6aaca880e32565c7b079ff4ed165215e9c1949c159eb9d3967b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/25452/Enon__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "25452",
+  "timestamp": "2026-05-25T00:04:07.735269Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Stafford,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/74300/Stafford__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d2628b59786739254d59bdee2fbef190478e612e245549d5b6f67fe0f482a7cf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d2628b59786739254d59bdee2fbef190478e612e245549d5b6f67fe0f482a7cf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/74300/Stafford__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "74300",
+  "timestamp": "2026-05-25T00:05:29.447818Z",
+  "version": 1
+}

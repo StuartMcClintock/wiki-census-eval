@@ -1,0 +1,16 @@
+{
+  "article": "West_Leipsic,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/83706/West_Leipsic__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d4053f8de64ffe8da93f235e17d420eca22dca763cddd107c71fbc049dba6119",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d4053f8de64ffe8da93f235e17d420eca22dca763cddd107c71fbc049dba6119",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/83706/West_Leipsic__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "83706",
+  "timestamp": "2026-05-25T00:05:37.492784Z",
+  "version": 1
+}

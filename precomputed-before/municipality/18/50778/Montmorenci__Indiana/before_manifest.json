@@ -1,0 +1,16 @@
+{
+  "article": "Montmorenci,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/50778/Montmorenci__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "075e48860e1200ca4b0a9cf5489b6ef653eea50777a2f2d712f5cd1f812eece2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "075e48860e1200ca4b0a9cf5489b6ef653eea50777a2f2d712f5cd1f812eece2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/50778/Montmorenci__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "50778",
+  "timestamp": "2026-05-24T23:40:03.424262Z",
+  "version": 1
+}

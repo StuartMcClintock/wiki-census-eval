@@ -1,0 +1,16 @@
+{
+  "article": "Anthoston,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/01720/Anthoston__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "de6c8ead7da9f42aee3f04c64608b52e6d90aac5658d493b4a86dfa0e6b789fe",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "de6c8ead7da9f42aee3f04c64608b52e6d90aac5658d493b4a86dfa0e6b789fe",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/01720/Anthoston__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "01720",
+  "timestamp": "2026-05-24T23:43:41.035404Z",
+  "version": 1
+}

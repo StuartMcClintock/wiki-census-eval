@@ -1,0 +1,16 @@
+{
+  "article": "Central_Pacolet,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/13060/Central_Pacolet__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1a885b7667016c9174ce3a60e9df0bede3c3a4a3416c545eb6c48518a0e7def0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1a885b7667016c9174ce3a60e9df0bede3c3a4a3416c545eb6c48518a0e7def0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/13060/Central_Pacolet__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "13060",
+  "timestamp": "2026-05-25T00:09:54.219755Z",
+  "version": 1
+}

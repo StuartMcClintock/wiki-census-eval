@@ -1,0 +1,16 @@
+{
+  "article": "Athens,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/03550/Athens__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6f6c3f6d41344b9910134fb8fda21ac00c8ae6447919564f6b9d3bd11632848e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6f6c3f6d41344b9910134fb8fda21ac00c8ae6447919564f6b9d3bd11632848e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/03550/Athens__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "03550",
+  "timestamp": "2026-05-25T00:21:33.355056Z",
+  "version": 1
+}

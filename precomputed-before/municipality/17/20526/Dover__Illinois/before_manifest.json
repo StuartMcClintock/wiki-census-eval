@@ -1,0 +1,16 @@
+{
+  "article": "Dover,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/20526/Dover__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "87e3da04aa0840c92c8f696428e674d4d7ebf5abc461c35c4c037cd237697898",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "87e3da04aa0840c92c8f696428e674d4d7ebf5abc461c35c4c037cd237697898",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/20526/Dover__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "20526",
+  "timestamp": "2026-05-24T23:38:07.298318Z",
+  "version": 1
+}

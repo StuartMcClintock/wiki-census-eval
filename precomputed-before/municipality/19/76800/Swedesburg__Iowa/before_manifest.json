@@ -1,0 +1,16 @@
+{
+  "article": "Swedesburg,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/76800/Swedesburg__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "60dadba985d1968b676fb4c972813d12b6f946e489d503fafb0ac27e56d3b2f8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "60dadba985d1968b676fb4c972813d12b6f946e489d503fafb0ac27e56d3b2f8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/76800/Swedesburg__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "76800",
+  "timestamp": "2026-05-24T23:42:04.673576Z",
+  "version": 1
+}

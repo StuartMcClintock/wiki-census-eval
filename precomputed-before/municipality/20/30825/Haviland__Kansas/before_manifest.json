@@ -1,0 +1,16 @@
+{
+  "article": "Haviland,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/30825/Haviland__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "05e65d4c0d317fbcfbe1e9caaae57902855fb857cb033f5c6d36cc8df1918971",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "05e65d4c0d317fbcfbe1e9caaae57902855fb857cb033f5c6d36cc8df1918971",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/30825/Haviland__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "30825",
+  "timestamp": "2026-05-24T23:42:45.508157Z",
+  "version": 1
+}

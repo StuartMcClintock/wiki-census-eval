@@ -1,0 +1,16 @@
+{
+  "article": "Yaphank,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/83426/Yaphank__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0c378dbd502e1b829965b11cb619f0ccc8d0c51919f10f5f16d998d051690a21",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0c378dbd502e1b829965b11cb619f0ccc8d0c51919f10f5f16d998d051690a21",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/83426/Yaphank__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "83426",
+  "timestamp": "2026-05-25T00:01:39.770771Z",
+  "version": 1
+}

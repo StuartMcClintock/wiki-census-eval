@@ -1,0 +1,16 @@
+{
+  "article": "Tesuque_Pueblo,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/77100/Tesuque_Pueblo__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2eda6721a7dd15bac5a7ef308060f74e709bcca84bf9953dd91020709a6db9bb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2eda6721a7dd15bac5a7ef308060f74e709bcca84bf9953dd91020709a6db9bb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/77100/Tesuque_Pueblo__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "77100",
+  "timestamp": "2026-05-24T23:59:08.168970Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Cottonwood,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/18640/Cottonwood__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2166bf8ffa309923d9f8deaf42f0b192936c804d8c45c30f9f63058a4e8fdd8f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2166bf8ffa309923d9f8deaf42f0b192936c804d8c45c30f9f63058a4e8fdd8f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/18640/Cottonwood__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "18640",
+  "timestamp": "2026-05-24T23:37:18.160844Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Dorchester,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/20450/Dorchester__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a8946019a71e4b34797993e38c93718345db34b5b0d227501e05424a84f07c62",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a8946019a71e4b34797993e38c93718345db34b5b0d227501e05424a84f07c62",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/20450/Dorchester__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "20450",
+  "timestamp": "2026-05-25T00:22:01.502245Z",
+  "version": 1
+}

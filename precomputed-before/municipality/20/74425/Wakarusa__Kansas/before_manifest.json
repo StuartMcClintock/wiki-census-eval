@@ -1,0 +1,16 @@
+{
+  "article": "Wakarusa,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/74425/Wakarusa__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bed91a6bd6b3294c6cba3308724242a8f25affd795b7ebe4b5d372354a01789a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bed91a6bd6b3294c6cba3308724242a8f25affd795b7ebe4b5d372354a01789a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/74425/Wakarusa__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "74425",
+  "timestamp": "2026-05-24T23:43:35.042261Z",
+  "version": 1
+}

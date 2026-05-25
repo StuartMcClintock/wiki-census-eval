@@ -1,0 +1,16 @@
+{
+  "article": "New_Boston,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/52220/New_Boston__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3cde453d02c0e263b8a0196636249759886bf23ada8010ac6157adefac835572",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3cde453d02c0e263b8a0196636249759886bf23ada8010ac6157adefac835572",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/52220/New_Boston__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "52220",
+  "timestamp": "2026-05-24T23:38:39.833136Z",
+  "version": 1
+}

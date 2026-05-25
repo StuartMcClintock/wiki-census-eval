@@ -1,0 +1,16 @@
+{
+  "article": "Midland,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/49896/Midland__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fed318cfdf332cd3465f862828d3e4061f19e94df9045c76129949f5ba65ec31",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fed318cfdf332cd3465f862828d3e4061f19e94df9045c76129949f5ba65ec31",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/49896/Midland__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "49896",
+  "timestamp": "2026-05-25T00:04:45.797128Z",
+  "version": 1
+}

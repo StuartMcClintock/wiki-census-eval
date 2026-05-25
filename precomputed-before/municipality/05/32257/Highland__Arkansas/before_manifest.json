@@ -1,0 +1,16 @@
+{
+  "article": "Highland,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/32257/Highland__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e88c9579782c5b0326c51704da424ae1b25ed92a446c6b28fb4bad06e1136263",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e88c9579782c5b0326c51704da424ae1b25ed92a446c6b28fb4bad06e1136263",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/32257/Highland__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "32257",
+  "timestamp": "2026-05-24T23:33:46.549396Z",
+  "version": 1
+}

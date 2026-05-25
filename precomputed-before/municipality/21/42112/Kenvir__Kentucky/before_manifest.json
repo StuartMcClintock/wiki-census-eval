@@ -1,0 +1,16 @@
+{
+  "article": "Kenvir,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/42112/Kenvir__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "83304e4213e519158693f17583a1241d335aec127cce45c750f3a36f10236519",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "83304e4213e519158693f17583a1241d335aec127cce45c750f3a36f10236519",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/42112/Kenvir__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "42112",
+  "timestamp": "2026-05-24T23:44:08.638493Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Marble_Hill,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/45848/Marble_Hill__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1a45cebb3d6ff8c79e0c842f677ac70816c0cdf06fa88605b56fdb446a97c688",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1a45cebb3d6ff8c79e0c842f677ac70816c0cdf06fa88605b56fdb446a97c688",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/45848/Marble_Hill__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "45848",
+  "timestamp": "2026-05-24T23:53:30.584702Z",
+  "version": 1
+}

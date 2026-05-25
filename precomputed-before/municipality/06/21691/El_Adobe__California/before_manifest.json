@@ -1,0 +1,16 @@
+{
+  "article": "El_Adobe,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/21691/El_Adobe__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fd12e05d4ea96e4d6a0a0906b3726069f124cb0c6bf69a667029ab00cff533e5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fd12e05d4ea96e4d6a0a0906b3726069f124cb0c6bf69a667029ab00cff533e5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/21691/El_Adobe__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "21691",
+  "timestamp": "2026-05-24T23:34:21.156238Z",
+  "version": 1
+}

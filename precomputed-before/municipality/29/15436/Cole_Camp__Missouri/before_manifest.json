@@ -1,0 +1,16 @@
+{
+  "article": "Cole_Camp,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/15436/Cole_Camp__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ddd91f0f673bee5174bddd5412860e861adefe4692d8de657e74759184bb735a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ddd91f0f673bee5174bddd5412860e861adefe4692d8de657e74759184bb735a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/15436/Cole_Camp__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "15436",
+  "timestamp": "2026-05-24T23:50:55.918850Z",
+  "version": 1
+}

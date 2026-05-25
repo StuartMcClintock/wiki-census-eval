@@ -1,0 +1,16 @@
+{
+  "article": "Bainville,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/03400/Bainville__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0a76c46820634a3ceb30a790dee84a83f3a3245da0187be56045ec790045d926",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0a76c46820634a3ceb30a790dee84a83f3a3245da0187be56045ec790045d926",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/03400/Bainville__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "03400",
+  "timestamp": "2026-05-24T23:54:13.574451Z",
+  "version": 1
+}

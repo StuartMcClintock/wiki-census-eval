@@ -1,0 +1,16 @@
+{
+  "article": "Orbisonia,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/56928/Orbisonia__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "718a1ce7bf7c1b1c79d41dd0563598b8e44b104c4f02eae598f6371d49fe228b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "718a1ce7bf7c1b1c79d41dd0563598b8e44b104c4f02eae598f6371d49fe228b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/56928/Orbisonia__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "56928",
+  "timestamp": "2026-05-25T00:08:23.528936Z",
+  "version": 1
+}

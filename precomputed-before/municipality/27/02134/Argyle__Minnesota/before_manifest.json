@@ -1,0 +1,16 @@
+{
+  "article": "Argyle,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/02134/Argyle__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "23c3624a54c198818877893f3dc4534c0b1d840482bd863463c0ca83306de07d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "23c3624a54c198818877893f3dc4534c0b1d840482bd863463c0ca83306de07d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/02134/Argyle__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "02134",
+  "timestamp": "2026-05-24T23:48:35.484533Z",
+  "version": 1
+}

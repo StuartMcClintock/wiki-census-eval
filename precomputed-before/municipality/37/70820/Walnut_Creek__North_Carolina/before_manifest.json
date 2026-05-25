@@ -1,0 +1,16 @@
+{
+  "article": "Walnut_Creek,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/70820/Walnut_Creek__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "977dcc5cc7856a25e9d4edf5e387e432e64c9a2fc3c286d10dfd7af4fd405ded",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "977dcc5cc7856a25e9d4edf5e387e432e64c9a2fc3c286d10dfd7af4fd405ded",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/70820/Walnut_Creek__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "70820",
+  "timestamp": "2026-05-25T00:02:28.150812Z",
+  "version": 1
+}

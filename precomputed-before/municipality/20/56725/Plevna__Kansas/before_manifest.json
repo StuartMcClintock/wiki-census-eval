@@ -1,0 +1,16 @@
+{
+  "article": "Plevna,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/56725/Plevna__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "faa72b9a4b9bb596eafeb63f3ef1fe844c477b6b222492354f3440c9c0f67389",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "faa72b9a4b9bb596eafeb63f3ef1fe844c477b6b222492354f3440c9c0f67389",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/56725/Plevna__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "56725",
+  "timestamp": "2026-05-24T23:43:20.976786Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Lost_Springs,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/47805/Lost_Springs__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f1047715ae8075c3607bf85b46529bdc4bc09b1762eadaabb20e823ecbe0f1ef",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f1047715ae8075c3607bf85b46529bdc4bc09b1762eadaabb20e823ecbe0f1ef",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/47805/Lost_Springs__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "47805",
+  "timestamp": "2026-05-25T00:23:17.958927Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Oakesdale,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/50325/Oakesdale__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4d733e1014bc62becbd5a7717288a0696eb878f55b80fc50540096f2dc41a853",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4d733e1014bc62becbd5a7717288a0696eb878f55b80fc50540096f2dc41a853",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/50325/Oakesdale__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "50325",
+  "timestamp": "2026-05-25T00:20:26.004727Z",
+  "version": 1
+}

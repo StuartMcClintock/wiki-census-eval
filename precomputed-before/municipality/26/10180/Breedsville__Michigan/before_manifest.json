@@ -1,0 +1,16 @@
+{
+  "article": "Breedsville,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/10180/Breedsville__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c232821b227ec1269d9a1f8ffc270bda99f250683a2acdfe358de3d519c7d95e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c232821b227ec1269d9a1f8ffc270bda99f250683a2acdfe358de3d519c7d95e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/10180/Breedsville__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "10180",
+  "timestamp": "2026-05-24T23:47:44.697020Z",
+  "version": 1
+}

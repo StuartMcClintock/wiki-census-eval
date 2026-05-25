@@ -1,0 +1,16 @@
+{
+  "article": "DeBordieu_Colony,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/18810/DeBordieu_Colony__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1960fbb22fd66f4328b605a50070520a437533677f806f8bf388ad870bf1c721",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1960fbb22fd66f4328b605a50070520a437533677f806f8bf388ad870bf1c721",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/18810/DeBordieu_Colony__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "18810",
+  "timestamp": "2026-05-25T00:10:00.288035Z",
+  "version": 1
+}

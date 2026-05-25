@@ -1,0 +1,16 @@
+{
+  "article": "Birch_Tree,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/05734/Birch_Tree__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9e1b06add4f0a94a2883cbc912849ab152949bc10e4696d79d4a37b6e870b77b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9e1b06add4f0a94a2883cbc912849ab152949bc10e4696d79d4a37b6e870b77b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/05734/Birch_Tree__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "05734",
+  "timestamp": "2026-05-24T23:50:47.562390Z",
+  "version": 1
+}

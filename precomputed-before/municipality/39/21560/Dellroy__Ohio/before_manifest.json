@@ -1,0 +1,16 @@
+{
+  "article": "Dellroy,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/21560/Dellroy__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "824fb048801ea7691fc7ad0210d82bfcc037ef2bf7cb9a16e8031aca24acd524",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "824fb048801ea7691fc7ad0210d82bfcc037ef2bf7cb9a16e8031aca24acd524",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/21560/Dellroy__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "21560",
+  "timestamp": "2026-05-25T00:04:04.085344Z",
+  "version": 1
+}

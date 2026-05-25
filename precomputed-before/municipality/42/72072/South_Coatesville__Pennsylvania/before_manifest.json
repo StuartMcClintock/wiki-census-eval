@@ -1,0 +1,16 @@
+{
+  "article": "South_Coatesville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/72072/South_Coatesville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c417f1acf07b944107016e9e5dea8dc61f10dde89434df3bf5914c0f399280e1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c417f1acf07b944107016e9e5dea8dc61f10dde89434df3bf5914c0f399280e1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/72072/South_Coatesville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "72072",
+  "timestamp": "2026-05-25T00:09:07.575776Z",
+  "version": 1
+}

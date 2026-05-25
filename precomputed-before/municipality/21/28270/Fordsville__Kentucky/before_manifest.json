@@ -1,0 +1,16 @@
+{
+  "article": "Fordsville,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/28270/Fordsville__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "32a3776d241bf0270800198c4a964fb87d3074bfda170c30924b6fab4930c1d8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "32a3776d241bf0270800198c4a964fb87d3074bfda170c30924b6fab4930c1d8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/28270/Fordsville__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "28270",
+  "timestamp": "2026-05-24T23:44:03.028318Z",
+  "version": 1
+}

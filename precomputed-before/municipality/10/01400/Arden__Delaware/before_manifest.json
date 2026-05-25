@@ -1,0 +1,16 @@
+{
+  "article": "Arden,_Delaware",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/10/01400/Arden__Delaware/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "25b558c57f6f8fe31a7a5484e23c0de1e951af1cf1e03f79110d24af694ca090",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "25b558c57f6f8fe31a7a5484e23c0de1e951af1cf1e03f79110d24af694ca090",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/10/01400/Arden__Delaware/manifest.json",
+  "state_fips": "10",
+  "status": "match",
+  "target_fips": "01400",
+  "timestamp": "2026-05-24T23:36:03.004796Z",
+  "version": 1
+}

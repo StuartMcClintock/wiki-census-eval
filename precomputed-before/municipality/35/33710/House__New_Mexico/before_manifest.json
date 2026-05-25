@@ -1,0 +1,16 @@
+{
+  "article": "House,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/33710/House__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c526340db348b49bed6c2a1f018749fbb7f18ca015423cd50ea463adfb253907",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c526340db348b49bed6c2a1f018749fbb7f18ca015423cd50ea463adfb253907",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/33710/House__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "33710",
+  "timestamp": "2026-05-24T23:58:34.164536Z",
+  "version": 1
+}

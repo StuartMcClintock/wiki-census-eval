@@ -1,0 +1,16 @@
+{
+  "article": "Trumbauersville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/77704/Trumbauersville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4d8204a4a7a975fb5585f88923a1927c1be221b456d3d1045df8d8733fe004f3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4d8204a4a7a975fb5585f88923a1927c1be221b456d3d1045df8d8733fe004f3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/77704/Trumbauersville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "77704",
+  "timestamp": "2026-05-25T00:09:19.270909Z",
+  "version": 1
+}

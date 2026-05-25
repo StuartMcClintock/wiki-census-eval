@@ -1,0 +1,16 @@
+{
+  "article": "Phil_Campbell,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/59496/Phil_Campbell__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fdef6bba52ff14243fc44a4fa7eb3e69535e3170b261faa89cd44e14af8a5b64",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fdef6bba52ff14243fc44a4fa7eb3e69535e3170b261faa89cd44e14af8a5b64",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/59496/Phil_Campbell__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "59496",
+  "timestamp": "2026-05-24T23:32:08.584086Z",
+  "version": 1
+}

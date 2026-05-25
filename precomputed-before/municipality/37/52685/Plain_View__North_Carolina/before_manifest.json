@@ -1,0 +1,16 @@
+{
+  "article": "Plain_View,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/52685/Plain_View__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c419c8823aa6dc1629b59da409628d48899a8a27acab806df643e0775277f19d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c419c8823aa6dc1629b59da409628d48899a8a27acab806df643e0775277f19d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/52685/Plain_View__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "52685",
+  "timestamp": "2026-05-25T00:02:16.594815Z",
+  "version": 1
+}

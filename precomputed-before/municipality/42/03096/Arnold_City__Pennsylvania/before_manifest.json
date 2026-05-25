@@ -1,0 +1,16 @@
+{
+  "article": "Arnold_City,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/03096/Arnold_City__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5d03573962ade7640f3b7ccdf5e07bb77c651f334dedbcea3be4ed83d630c549",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5d03573962ade7640f3b7ccdf5e07bb77c651f334dedbcea3be4ed83d630c549",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/03096/Arnold_City__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "03096",
+  "timestamp": "2026-05-25T00:06:09.424722Z",
+  "version": 1
+}

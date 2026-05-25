@@ -1,0 +1,16 @@
+{
+  "article": "Eutawville,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/24100/Eutawville__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "63d3902d7cfb5178ab183b317c9dbd46eae1af50d75545f3bbe16fb94a412b83",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "63d3902d7cfb5178ab183b317c9dbd46eae1af50d75545f3bbe16fb94a412b83",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/24100/Eutawville__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "24100",
+  "timestamp": "2026-05-25T00:10:02.381932Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Center,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/13180/Center__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "82f133ba8434277b4e7d1247d9af5eb28027a5b0da9ca3777f207ad903086b3d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "82f133ba8434277b4e7d1247d9af5eb28027a5b0da9ca3777f207ad903086b3d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/13180/Center__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "13180",
+  "timestamp": "2026-05-25T00:02:38.029912Z",
+  "version": 1
+}

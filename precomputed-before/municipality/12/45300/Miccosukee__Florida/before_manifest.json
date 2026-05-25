@@ -1,0 +1,16 @@
+{
+  "article": "Miccosukee,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/45300/Miccosukee__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5a8c36802ba00149c6572cfdd4e317b8daf9a3146b23e9adcab72cac3e22860c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5a8c36802ba00149c6572cfdd4e317b8daf9a3146b23e9adcab72cac3e22860c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/45300/Miccosukee__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "45300",
+  "timestamp": "2026-05-24T23:36:18.914287Z",
+  "version": 1
+}

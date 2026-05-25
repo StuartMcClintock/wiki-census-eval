@@ -1,0 +1,16 @@
+{
+  "article": "Miracle_Valley,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/46840/Miracle_Valley__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "37bdf02e21325b682b3712958cee39a53dc449c1a5861ed9bdbd96d8b11e2e56",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "37bdf02e21325b682b3712958cee39a53dc449c1a5861ed9bdbd96d8b11e2e56",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/46840/Miracle_Valley__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "46840",
+  "timestamp": "2026-05-24T23:33:04.215942Z",
+  "version": 1
+}

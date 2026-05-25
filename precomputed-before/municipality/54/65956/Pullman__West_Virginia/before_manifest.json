@@ -1,0 +1,16 @@
+{
+  "article": "Pullman,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/65956/Pullman__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cba40d52b9313313e878e6f8c990a808fa1cdd1e9623177ad4846f152a25b41d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cba40d52b9313313e878e6f8c990a808fa1cdd1e9623177ad4846f152a25b41d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/65956/Pullman__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "65956",
+  "timestamp": "2026-05-25T00:21:22.097770Z",
+  "version": 1
+}

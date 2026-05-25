@@ -1,0 +1,16 @@
+{
+  "article": "Dargan,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/21750/Dargan__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "29e3304456a048e34147aa38975f6f52ed72a4997d5026133ee9736c2c162415",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "29e3304456a048e34147aa38975f6f52ed72a4997d5026133ee9736c2c162415",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/21750/Dargan__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "21750",
+  "timestamp": "2026-05-24T23:47:19.026061Z",
+  "version": 1
+}

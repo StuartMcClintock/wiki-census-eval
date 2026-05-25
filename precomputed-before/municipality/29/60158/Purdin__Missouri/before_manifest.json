@@ -1,0 +1,16 @@
+{
+  "article": "Purdin,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/60158/Purdin__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f90c471adc7a0a47c86d98ce30498246ec0767eacac3275cfb4a733183369798",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f90c471adc7a0a47c86d98ce30498246ec0767eacac3275cfb4a733183369798",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/60158/Purdin__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "60158",
+  "timestamp": "2026-05-24T23:53:44.207539Z",
+  "version": 1
+}

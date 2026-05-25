@@ -1,0 +1,16 @@
+{
+  "article": "Lawtell,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/42520/Lawtell__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4bc3c1f543179da7bbd12e4ba96947ab1eb5929a2e8c5c342991e04c8cb3eba8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4bc3c1f543179da7bbd12e4ba96947ab1eb5929a2e8c5c342991e04c8cb3eba8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/42520/Lawtell__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "42520",
+  "timestamp": "2026-05-24T23:44:53.516805Z",
+  "version": 1
+}

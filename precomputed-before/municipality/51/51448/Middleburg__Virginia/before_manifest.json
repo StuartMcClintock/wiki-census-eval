@@ -1,0 +1,16 @@
+{
+  "article": "Middleburg,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/51448/Middleburg__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e3f638aa7391da0e5ff774d65a3ad7100148d0477c91b0e2dcb57bd6d07a5445",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e3f638aa7391da0e5ff774d65a3ad7100148d0477c91b0e2dcb57bd6d07a5445",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/51448/Middleburg__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "51448",
+  "timestamp": "2026-05-25T00:19:26.278876Z",
+  "version": 1
+}

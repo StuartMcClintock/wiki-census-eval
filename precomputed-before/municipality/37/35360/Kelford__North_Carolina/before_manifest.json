@@ -1,0 +1,16 @@
+{
+  "article": "Kelford,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/35360/Kelford__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "47d3ce302b51556b013e31075e00acc07dd62f71661d3273495458b866237ff2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "47d3ce302b51556b013e31075e00acc07dd62f71661d3273495458b866237ff2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/35360/Kelford__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "35360",
+  "timestamp": "2026-05-25T00:02:05.821479Z",
+  "version": 1
+}

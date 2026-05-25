@@ -1,0 +1,16 @@
+{
+  "article": "Yarmouth,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/87330/Yarmouth__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d9af1101e1efa76bc9c586a931f214cc46cf6b01282be9f1ae57e6eebbee2acc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d9af1101e1efa76bc9c586a931f214cc46cf6b01282be9f1ae57e6eebbee2acc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/87330/Yarmouth__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "87330",
+  "timestamp": "2026-05-24T23:42:13.985628Z",
+  "version": 1
+}

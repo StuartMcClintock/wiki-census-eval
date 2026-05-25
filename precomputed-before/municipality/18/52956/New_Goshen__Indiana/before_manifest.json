@@ -1,0 +1,16 @@
+{
+  "article": "New_Goshen,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/52956/New_Goshen__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "75a1ac7208c958dedfe0fe0317a7bd3e699e89b566a12a58f3e5664cca1fa36d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "75a1ac7208c958dedfe0fe0317a7bd3e699e89b566a12a58f3e5664cca1fa36d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/52956/New_Goshen__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "52956",
+  "timestamp": "2026-05-24T23:40:04.673897Z",
+  "version": 1
+}

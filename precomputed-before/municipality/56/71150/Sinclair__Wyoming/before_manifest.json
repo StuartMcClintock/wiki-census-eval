@@ -1,0 +1,16 @@
+{
+  "article": "Sinclair,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/71150/Sinclair__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0e9c54909bb61171b274cebab0fbaafb1f6edbfe1f7ce08d025d34cd55620f7b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0e9c54909bb61171b274cebab0fbaafb1f6edbfe1f7ce08d025d34cd55620f7b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/71150/Sinclair__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "71150",
+  "timestamp": "2026-05-25T00:23:23.334000Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Pierpoint,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/57011/Pierpoint__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "402e1e1561eeb71664a63e96d1d7a437aafcca94cb86a304f0d9f0b91a96766b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "402e1e1561eeb71664a63e96d1d7a437aafcca94cb86a304f0d9f0b91a96766b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/57011/Pierpoint__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "57011",
+  "timestamp": "2026-05-24T23:34:46.350662Z",
+  "version": 1
+}

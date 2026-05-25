@@ -1,0 +1,16 @@
+{
+  "article": "Gridley,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/28850/Gridley__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2f04eff5a1915d4b1cf80c9560e8d8e07d3b72e1121164497ebbf0da436e9d7e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2f04eff5a1915d4b1cf80c9560e8d8e07d3b72e1121164497ebbf0da436e9d7e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/28850/Gridley__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "28850",
+  "timestamp": "2026-05-24T23:42:43.181965Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Renova,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/61890/Renova__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ad2484d6fe56828b273c9321c60b625a11ee3cb24fcdb827bf681d3bc9bdf7b8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ad2484d6fe56828b273c9321c60b625a11ee3cb24fcdb827bf681d3bc9bdf7b8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/61890/Renova__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "61890",
+  "timestamp": "2026-05-24T23:50:22.057822Z",
+  "version": 1
+}

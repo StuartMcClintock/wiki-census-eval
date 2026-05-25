@@ -1,0 +1,16 @@
+{
+  "article": "Los_Minerales,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/44145/Los_Minerales__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "216242b01270cd24aed91dde2a5dc57da3a570fcd7cc687b1a1b28908851b5dc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "216242b01270cd24aed91dde2a5dc57da3a570fcd7cc687b1a1b28908851b5dc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/44145/Los_Minerales__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "44145",
+  "timestamp": "2026-05-25T00:15:57.971351Z",
+  "version": 1
+}

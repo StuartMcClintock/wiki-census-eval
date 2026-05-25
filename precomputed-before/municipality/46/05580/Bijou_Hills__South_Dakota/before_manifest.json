@@ -1,0 +1,16 @@
+{
+  "article": "Bijou_Hills,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/05580/Bijou_Hills__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c9f2b698568f0a7280704a425a2a3039e2d4db92df5c7852e31dc28f192e12f7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c9f2b698568f0a7280704a425a2a3039e2d4db92df5c7852e31dc28f192e12f7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/05580/Bijou_Hills__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "05580",
+  "timestamp": "2026-05-25T00:10:31.472571Z",
+  "version": 1
+}

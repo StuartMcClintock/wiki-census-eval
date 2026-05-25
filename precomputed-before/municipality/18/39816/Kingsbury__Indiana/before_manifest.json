@@ -1,0 +1,16 @@
+{
+  "article": "Kingsbury,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/39816/Kingsbury__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3a3dfe61cce1294023e757aa259b7fd4910886d5c78802556d518d41fabef2e5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3a3dfe61cce1294023e757aa259b7fd4910886d5c78802556d518d41fabef2e5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/39816/Kingsbury__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "39816",
+  "timestamp": "2026-05-24T23:39:41.105492Z",
+  "version": 1
+}

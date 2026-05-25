@@ -1,0 +1,16 @@
+{
+  "article": "Holcomb,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/32820/Holcomb__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "561a885824b3039211ed6f27dc7396d65ed3db259e551bf941ebd5d6ebcf4ffa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "561a885824b3039211ed6f27dc7396d65ed3db259e551bf941ebd5d6ebcf4ffa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/32820/Holcomb__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "32820",
+  "timestamp": "2026-05-24T23:50:12.787609Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Parkwood,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/53440/Parkwood__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1b4ee4975e704027f82fc670f453cfe8ff92073a64c4e3aea5ca9e5024178577",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1b4ee4975e704027f82fc670f453cfe8ff92073a64c4e3aea5ca9e5024178577",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/53440/Parkwood__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "53440",
+  "timestamp": "2026-05-25T00:20:27.560964Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Oxford,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/37910/Oxford__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9ce057c277575cfc91de2b86b0e0c14ed9e5b78b940a49c3135bf2ddb0c1cb27",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9ce057c277575cfc91de2b86b0e0c14ed9e5b78b940a49c3135bf2ddb0c1cb27",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/37910/Oxford__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "37910",
+  "timestamp": "2026-05-24T23:56:01.578877Z",
+  "version": 1
+}

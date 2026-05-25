@@ -1,0 +1,16 @@
+{
+  "article": "Dyess,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/20230/Dyess__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "75b76c7399e3645f111f9a810b7f7f48eefefa647b4e2df74c80981c8a6072f5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "75b76c7399e3645f111f9a810b7f7f48eefefa647b4e2df74c80981c8a6072f5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/20230/Dyess__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "20230",
+  "timestamp": "2026-05-24T23:33:28.107218Z",
+  "version": 1
+}

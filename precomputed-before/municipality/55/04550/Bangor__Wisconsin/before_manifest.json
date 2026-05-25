@@ -1,0 +1,16 @@
+{
+  "article": "Bangor,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/04550/Bangor__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1d8f3add3864ce59fda4a5dcaf76e25d498b951cc0b8af9f0d609c83975c8404",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1d8f3add3864ce59fda4a5dcaf76e25d498b951cc0b8af9f0d609c83975c8404",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/04550/Bangor__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "04550",
+  "timestamp": "2026-05-25T00:21:34.253896Z",
+  "version": 1
+}

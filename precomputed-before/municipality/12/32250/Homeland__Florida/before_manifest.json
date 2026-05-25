@@ -1,0 +1,16 @@
+{
+  "article": "Homeland,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/32250/Homeland__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "649536320491910f12108270f6023c91080a0a433f448315a296430246674c16",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "649536320491910f12108270f6023c91080a0a433f448315a296430246674c16",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/32250/Homeland__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "32250",
+  "timestamp": "2026-05-24T23:36:14.254832Z",
+  "version": 1
+}

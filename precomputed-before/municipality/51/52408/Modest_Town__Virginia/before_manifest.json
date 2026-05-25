@@ -1,0 +1,16 @@
+{
+  "article": "Modest_Town,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/52408/Modest_Town__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9e252ec6947d2a983099a36f3f5859b4a021951a8fd7894c9e55980e23b49fb7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9e252ec6947d2a983099a36f3f5859b4a021951a8fd7894c9e55980e23b49fb7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/52408/Modest_Town__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "52408",
+  "timestamp": "2026-05-25T00:19:26.794924Z",
+  "version": 1
+}

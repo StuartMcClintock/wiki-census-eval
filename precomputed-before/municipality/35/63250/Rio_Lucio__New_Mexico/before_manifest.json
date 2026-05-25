@@ -1,0 +1,16 @@
+{
+  "article": "Rio_Lucio,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/63250/Rio_Lucio__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fb79a5657091bc917404ee947d24c551466d742386e2b9431e05670ea13ab827",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fb79a5657091bc917404ee947d24c551466d742386e2b9431e05670ea13ab827",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/63250/Rio_Lucio__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "63250",
+  "timestamp": "2026-05-24T23:58:51.003468Z",
+  "version": 1
+}

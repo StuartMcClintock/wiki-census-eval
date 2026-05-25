@@ -1,0 +1,16 @@
+{
+  "article": "Peaceful_Village,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/56620/Peaceful_Village__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b330e57195b1311d74eb0d4f3567bcb2f62090d95d64be1b215d95e85209dbaf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b330e57195b1311d74eb0d4f3567bcb2f62090d95d64be1b215d95e85209dbaf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/56620/Peaceful_Village__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "56620",
+  "timestamp": "2026-05-24T23:53:40.785076Z",
+  "version": 1
+}

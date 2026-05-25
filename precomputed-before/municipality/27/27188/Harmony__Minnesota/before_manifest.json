@@ -1,0 +1,16 @@
+{
+  "article": "Harmony,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/27188/Harmony__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "297077ea6165faf3c7a4c23e0ce7cf52a7c5c0d09bdbcf2876c1ae219ef21137",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "297077ea6165faf3c7a4c23e0ce7cf52a7c5c0d09bdbcf2876c1ae219ef21137",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/27188/Harmony__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "27188",
+  "timestamp": "2026-05-24T23:49:06.442284Z",
+  "version": 1
+}

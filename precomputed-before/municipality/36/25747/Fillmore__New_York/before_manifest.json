@@ -1,0 +1,16 @@
+{
+  "article": "Fillmore,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/25747/Fillmore__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "28eb082ed511d1580adcf5b74502862ca59508e1e432dabd0ecdb8f21181d195",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "28eb082ed511d1580adcf5b74502862ca59508e1e432dabd0ecdb8f21181d195",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/25747/Fillmore__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "25747",
+  "timestamp": "2026-05-25T00:00:42.417255Z",
+  "version": 1
+}

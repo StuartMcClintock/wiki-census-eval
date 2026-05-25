@@ -1,0 +1,16 @@
+{
+  "article": "Hunter,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/33910/Hunter__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ca51336af4d73c1bf0f6d3d9c268f6c4e61b90f6c6ee943780cbfc9a39d007a3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ca51336af4d73c1bf0f6d3d9c268f6c4e61b90f6c6ee943780cbfc9a39d007a3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/33910/Hunter__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "33910",
+  "timestamp": "2026-05-24T23:33:47.459921Z",
+  "version": 1
+}

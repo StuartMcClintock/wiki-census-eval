@@ -1,0 +1,16 @@
+{
+  "article": "Tuluksak,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/78790/Tuluksak__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e273a7f5090145c74b5e5c70cffdac559caae9bf1814ad2fafc868d9ff6b2ebb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e273a7f5090145c74b5e5c70cffdac559caae9bf1814ad2fafc868d9ff6b2ebb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/78790/Tuluksak__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "78790",
+  "timestamp": "2026-05-24T23:32:45.326911Z",
+  "version": 1
+}

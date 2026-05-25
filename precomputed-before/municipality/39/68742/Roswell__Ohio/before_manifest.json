@@ -1,0 +1,16 @@
+{
+  "article": "Roswell,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/68742/Roswell__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e280ca9eba5a39f24b320c61bdfe5d2c5b522277846f9d047a315b679fc23525",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e280ca9eba5a39f24b320c61bdfe5d2c5b522277846f9d047a315b679fc23525",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/68742/Roswell__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "68742",
+  "timestamp": "2026-05-25T00:05:13.291103Z",
+  "version": 1
+}

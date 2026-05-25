@@ -1,0 +1,16 @@
+{
+  "article": "Massanutten,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/50030/Massanutten__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "505af7a88ce787106b2605329b80d415fb75a2406e52eb5813666232133c689b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "505af7a88ce787106b2605329b80d415fb75a2406e52eb5813666232133c689b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/50030/Massanutten__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "50030",
+  "timestamp": "2026-05-25T00:19:24.840127Z",
+  "version": 1
+}

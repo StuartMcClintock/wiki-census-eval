@@ -1,0 +1,16 @@
+{
+  "article": "Oconee,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/57456/Oconee__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f1045caaeb2b8d3d0ba1335c8c06a08c543e92ffa345d926fa5e326ffaf0b88d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f1045caaeb2b8d3d0ba1335c8c06a08c543e92ffa345d926fa5e326ffaf0b88d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/57456/Oconee__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "57456",
+  "timestamp": "2026-05-24T23:37:02.129045Z",
+  "version": 1
+}

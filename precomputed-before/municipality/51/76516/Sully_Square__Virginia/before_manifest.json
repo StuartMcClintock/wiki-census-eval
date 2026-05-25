@@ -1,0 +1,16 @@
+{
+  "article": "Sully_Square,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/76516/Sully_Square__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6a0e00b9ed48c03df79e86984be8e9a315ec206931a9e156f2589017ad031b4d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6a0e00b9ed48c03df79e86984be8e9a315ec206931a9e156f2589017ad031b4d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/76516/Sully_Square__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "76516",
+  "timestamp": "2026-05-25T00:19:40.746353Z",
+  "version": 1
+}

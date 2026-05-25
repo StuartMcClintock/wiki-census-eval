@@ -1,0 +1,16 @@
+{
+  "article": "Hildreth,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/22430/Hildreth__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ef99ad5830fd08f6bf2dda9159a226fdb322615c11b6fd82f3eee135056bb072",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ef99ad5830fd08f6bf2dda9159a226fdb322615c11b6fd82f3eee135056bb072",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/22430/Hildreth__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "22430",
+  "timestamp": "2026-05-24T23:55:32.631915Z",
+  "version": 1
+}

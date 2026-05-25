@@ -1,0 +1,16 @@
+{
+  "article": "Highland_Hills,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/35255/Highland_Hills__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f65c3615e51aa1d373e3309526f595e414cd2c63cefa4e2c7cdf28c616ddcf33",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f65c3615e51aa1d373e3309526f595e414cd2c63cefa4e2c7cdf28c616ddcf33",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/35255/Highland_Hills__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "35255",
+  "timestamp": "2026-05-25T00:04:17.874022Z",
+  "version": 1
+}

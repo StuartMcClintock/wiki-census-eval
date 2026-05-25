@@ -1,0 +1,16 @@
+{
+  "article": "Northboro,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/57045/Northboro__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ce81e80aa4628d0d1ba6df862a71869ca6225c398a25ef6e7f221ee739f87351",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ce81e80aa4628d0d1ba6df862a71869ca6225c398a25ef6e7f221ee739f87351",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/57045/Northboro__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "57045",
+  "timestamp": "2026-05-24T23:41:33.093322Z",
+  "version": 1
+}

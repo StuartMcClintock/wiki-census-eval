@@ -1,0 +1,16 @@
+{
+  "article": "Dorchester,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/20370/Dorchester__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c9e770479f4a4d44a4da6f2cd90280115b9eda6d36073e202a24c4223d705428",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c9e770479f4a4d44a4da6f2cd90280115b9eda6d36073e202a24c4223d705428",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/20370/Dorchester__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "20370",
+  "timestamp": "2026-05-24T23:38:07.172668Z",
+  "version": 1
+}

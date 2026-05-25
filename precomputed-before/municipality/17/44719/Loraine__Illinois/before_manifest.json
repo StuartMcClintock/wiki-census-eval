@@ -1,0 +1,16 @@
+{
+  "article": "Loraine,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/44719/Loraine__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "02929d1e3fa244a115ee154711d6d9e48e81e2df1e9804a3c977fba360daeeae",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "02929d1e3fa244a115ee154711d6d9e48e81e2df1e9804a3c977fba360daeeae",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/44719/Loraine__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "44719",
+  "timestamp": "2026-05-24T23:38:30.612946Z",
+  "version": 1
+}

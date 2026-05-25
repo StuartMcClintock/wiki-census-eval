@@ -1,0 +1,16 @@
+{
+  "article": "Jasper,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/31760/Jasper__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9777309b9dacc24247e7b29e5a29d6a60dc1ed946347665c7a8ba0ae680cc131",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9777309b9dacc24247e7b29e5a29d6a60dc1ed946347665c7a8ba0ae680cc131",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/31760/Jasper__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "31760",
+  "timestamp": "2026-05-24T23:49:10.832192Z",
+  "version": 1
+}

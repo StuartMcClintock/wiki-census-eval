@@ -1,0 +1,16 @@
+{
+  "article": "Conway,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/14520/Conway__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cf16a9a3f3caf840cac0f77b6301c6a1e541af6ff3511184c40258d478a27078",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cf16a9a3f3caf840cac0f77b6301c6a1e541af6ff3511184c40258d478a27078",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/14520/Conway__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "14520",
+  "timestamp": "2026-05-25T00:20:07.597133Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Altamont,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/00760/Altamont__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3b3fc190bb14d622f31e17c16f3d9c3040f55996abb297db1f09d4bb80856ba1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3b3fc190bb14d622f31e17c16f3d9c3040f55996abb297db1f09d4bb80856ba1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/00760/Altamont__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "00760",
+  "timestamp": "2026-05-25T00:16:52.716803Z",
+  "version": 1
+}

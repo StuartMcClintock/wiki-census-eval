@@ -1,0 +1,16 @@
+{
+  "article": "Mountain_Mesa,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/49600/Mountain_Mesa__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "502c40c1425d547392f8c6f7239bfa4698aaf72c70850be9b25436509830f8b2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "502c40c1425d547392f8c6f7239bfa4698aaf72c70850be9b25436509830f8b2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/49600/Mountain_Mesa__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "49600",
+  "timestamp": "2026-05-24T23:34:41.338451Z",
+  "version": 1
+}

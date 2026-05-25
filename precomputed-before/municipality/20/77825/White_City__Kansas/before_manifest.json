@@ -1,0 +1,16 @@
+{
+  "article": "White_City,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/77825/White_City__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bd251c1684e36e665ffb57288b9d1b5ee2078af6783ed050afba81a05e15dd4d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bd251c1684e36e665ffb57288b9d1b5ee2078af6783ed050afba81a05e15dd4d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/77825/White_City__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "77825",
+  "timestamp": "2026-05-24T23:43:37.680785Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Hiram,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/35658/Hiram__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e52bd90100ede030d7dc5460d260e14cd95b042cefc656925c56804b94372b95",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e52bd90100ede030d7dc5460d260e14cd95b042cefc656925c56804b94372b95",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/35658/Hiram__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "35658",
+  "timestamp": "2026-05-25T00:04:18.430798Z",
+  "version": 1
+}

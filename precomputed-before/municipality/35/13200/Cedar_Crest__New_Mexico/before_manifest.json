@@ -1,0 +1,16 @@
+{
+  "article": "Cedar_Crest,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/13200/Cedar_Crest__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "851dd2746744820f8d46df3b3baf3f3cfdf120280ee3a631c4901fda460ee1b2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "851dd2746744820f8d46df3b3baf3f3cfdf120280ee3a631c4901fda460ee1b2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/13200/Cedar_Crest__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "13200",
+  "timestamp": "2026-05-24T23:58:23.766519Z",
+  "version": 1
+}

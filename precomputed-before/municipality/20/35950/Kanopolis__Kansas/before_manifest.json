@@ -1,0 +1,16 @@
+{
+  "article": "Kanopolis,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/35950/Kanopolis__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0de1a9abd6f37a7830b431a5a64589f434034c6ffd8c27e1e9acb63745317664",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0de1a9abd6f37a7830b431a5a64589f434034c6ffd8c27e1e9acb63745317664",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/35950/Kanopolis__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "35950",
+  "timestamp": "2026-05-24T23:42:49.759870Z",
+  "version": 1
+}

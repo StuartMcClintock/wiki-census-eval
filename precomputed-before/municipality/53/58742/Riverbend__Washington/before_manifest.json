@@ -1,0 +1,16 @@
+{
+  "article": "Riverbend,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/58742/Riverbend__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cd02e8bc8d2f0c105605f3b4ca1fb8f80d4a75c887568a2ab2e4d51f223eea90",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cd02e8bc8d2f0c105605f3b4ca1fb8f80d4a75c887568a2ab2e4d51f223eea90",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/58742/Riverbend__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "58742",
+  "timestamp": "2026-05-25T00:20:29.765122Z",
+  "version": 1
+}

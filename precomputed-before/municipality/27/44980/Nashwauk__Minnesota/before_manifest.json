@@ -1,0 +1,16 @@
+{
+  "article": "Nashwauk,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/44980/Nashwauk__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "af717085b30f8fb39268225b305b05da22a13bf6d228f54b5fd5db4fd6a04fd3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "af717085b30f8fb39268225b305b05da22a13bf6d228f54b5fd5db4fd6a04fd3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/44980/Nashwauk__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "44980",
+  "timestamp": "2026-05-24T23:49:22.839226Z",
+  "version": 1
+}

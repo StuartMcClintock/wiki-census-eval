@@ -1,0 +1,16 @@
+{
+  "article": "Success,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/67550/Success__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "99b826aa5fb7e19b0f76cf028d8d9b650f5d8995d05f52510d4dd8dd51734fae",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "99b826aa5fb7e19b0f76cf028d8d9b650f5d8995d05f52510d4dd8dd51734fae",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/67550/Success__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "67550",
+  "timestamp": "2026-05-24T23:34:10.002201Z",
+  "version": 1
+}

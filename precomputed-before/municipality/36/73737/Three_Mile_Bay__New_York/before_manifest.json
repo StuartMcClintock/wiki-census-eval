@@ -1,0 +1,16 @@
+{
+  "article": "Three_Mile_Bay,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/73737/Three_Mile_Bay__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b0a18ddf8d4c68067bb569548cd84d1d33069e730b38b17606cdc85b15a8869c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b0a18ddf8d4c68067bb569548cd84d1d33069e730b38b17606cdc85b15a8869c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/73737/Three_Mile_Bay__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "73737",
+  "timestamp": "2026-05-25T00:01:19.958604Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Bliss,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/06904/Bliss__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "93f61dbf59a4afa4c35458a66db30f4f8cce1049df078671607a102bdcd218af",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "93f61dbf59a4afa4c35458a66db30f4f8cce1049df078671607a102bdcd218af",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/06904/Bliss__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "06904",
+  "timestamp": "2026-05-25T00:00:32.258011Z",
+  "version": 1
+}

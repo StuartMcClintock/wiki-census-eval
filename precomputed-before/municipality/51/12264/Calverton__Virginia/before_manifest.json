@@ -1,0 +1,16 @@
+{
+  "article": "Calverton,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/12264/Calverton__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1f39224aa796f65380ff0b5432dc2f7270e5befda55fd37946db1fa2420bad05",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1f39224aa796f65380ff0b5432dc2f7270e5befda55fd37946db1fa2420bad05",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/12264/Calverton__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "12264",
+  "timestamp": "2026-05-25T00:19:04.071770Z",
+  "version": 1
+}

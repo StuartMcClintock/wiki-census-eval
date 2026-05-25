@@ -1,0 +1,16 @@
+{
+  "article": "Riverview_Estates,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/62210/Riverview_Estates__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8ab8ce1d36d6ec7d7d978141b95ec2fd4d27e66a7381ae8f98450d344e2bb6f6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8ab8ce1d36d6ec7d7d978141b95ec2fd4d27e66a7381ae8f98450d344e2bb6f6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/62210/Riverview_Estates__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "62210",
+  "timestamp": "2026-05-24T23:53:46.019415Z",
+  "version": 1
+}

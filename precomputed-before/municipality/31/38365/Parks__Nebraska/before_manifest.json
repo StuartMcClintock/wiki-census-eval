@@ -1,0 +1,16 @@
+{
+  "article": "Parks,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/38365/Parks__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3a19c8fb1513ee78b9b3ca162033fb056271fa78b8ecdadf97c71e5c307e86de",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3a19c8fb1513ee78b9b3ca162033fb056271fa78b8ecdadf97c71e5c307e86de",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/38365/Parks__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "38365",
+  "timestamp": "2026-05-24T23:56:02.208534Z",
+  "version": 1
+}

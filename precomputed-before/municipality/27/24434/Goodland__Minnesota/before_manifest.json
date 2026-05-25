@@ -1,0 +1,16 @@
+{
+  "article": "Goodland,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/24434/Goodland__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "638a6e4dfb62d067cd6b69ce6ffd2329962bc4bd0d059a716dbf1edbf628bfaa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "638a6e4dfb62d067cd6b69ce6ffd2329962bc4bd0d059a716dbf1edbf628bfaa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/24434/Goodland__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "24434",
+  "timestamp": "2026-05-24T23:49:03.123233Z",
+  "version": 1
+}

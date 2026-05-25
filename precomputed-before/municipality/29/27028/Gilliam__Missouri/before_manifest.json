@@ -1,0 +1,16 @@
+{
+  "article": "Gilliam,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/27028/Gilliam__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f6d364431a8b238d8b36fdaa7077c569a27a699fe13142b724c3bd89349961b3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f6d364431a8b238d8b36fdaa7077c569a27a699fe13142b724c3bd89349961b3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/27028/Gilliam__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "27028",
+  "timestamp": "2026-05-24T23:51:12.534192Z",
+  "version": 1
+}

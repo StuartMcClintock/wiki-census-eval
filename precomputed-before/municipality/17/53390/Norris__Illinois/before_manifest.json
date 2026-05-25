@@ -1,0 +1,16 @@
+{
+  "article": "Norris,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/53390/Norris__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a234370f4afe6e393b4105fd43f9bf4b82771df267f27466c0092ed955206934",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a234370f4afe6e393b4105fd43f9bf4b82771df267f27466c0092ed955206934",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/53390/Norris__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "53390",
+  "timestamp": "2026-05-24T23:38:41.418974Z",
+  "version": 1
+}

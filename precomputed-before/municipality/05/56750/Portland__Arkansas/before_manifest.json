@@ -1,0 +1,16 @@
+{
+  "article": "Portland,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/56750/Portland__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "efab91131fb8671d18f7d21d7cb2b6f740f033206e0be99baba1ff8cdaea29be",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "efab91131fb8671d18f7d21d7cb2b6f740f033206e0be99baba1ff8cdaea29be",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/56750/Portland__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "56750",
+  "timestamp": "2026-05-24T23:34:04.673137Z",
+  "version": 1
+}

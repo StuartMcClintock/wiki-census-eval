@@ -1,0 +1,16 @@
+{
+  "article": "Pittsboro,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/58360/Pittsboro__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e960dd59de41d1f549ec98a722946ccc557cb43f8e49dcbe690c60757d53a965",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e960dd59de41d1f549ec98a722946ccc557cb43f8e49dcbe690c60757d53a965",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/58360/Pittsboro__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "58360",
+  "timestamp": "2026-05-24T23:50:20.255089Z",
+  "version": 1
+}

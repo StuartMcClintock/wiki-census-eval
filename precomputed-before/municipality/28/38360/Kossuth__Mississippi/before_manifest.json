@@ -1,0 +1,16 @@
+{
+  "article": "Kossuth,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/38360/Kossuth__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "eea58f7e1f85843f80db8c1a549895379eac6d4d174a838603947e7b3dc96a3b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "eea58f7e1f85843f80db8c1a549895379eac6d4d174a838603947e7b3dc96a3b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/38360/Kossuth__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "38360",
+  "timestamp": "2026-05-24T23:50:13.845018Z",
+  "version": 1
+}

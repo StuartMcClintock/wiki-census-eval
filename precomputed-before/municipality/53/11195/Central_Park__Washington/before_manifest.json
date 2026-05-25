@@ -1,0 +1,16 @@
+{
+  "article": "Central_Park,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/11195/Central_Park__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "452d1e663af3439660ae8e56e6e791ed8c5d3bb52be9e71087bc466de2051425",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "452d1e663af3439660ae8e56e6e791ed8c5d3bb52be9e71087bc466de2051425",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/11195/Central_Park__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "11195",
+  "timestamp": "2026-05-25T00:20:05.425263Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Comstock,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/12862/Comstock__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0652bcdfbeef7a1b11f1d3b118e88c63079c461d7bb59e1e4cdfba8de3855f7a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0652bcdfbeef7a1b11f1d3b118e88c63079c461d7bb59e1e4cdfba8de3855f7a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/12862/Comstock__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "12862",
+  "timestamp": "2026-05-24T23:48:46.623443Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Kellogg,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/40440/Kellogg__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "36b849cb9fe7d70ca1ee5acb1873a12f668c6a33bc890b870d782b7648b1aa16",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "36b849cb9fe7d70ca1ee5acb1873a12f668c6a33bc890b870d782b7648b1aa16",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/40440/Kellogg__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "40440",
+  "timestamp": "2026-05-24T23:41:14.557774Z",
+  "version": 1
+}

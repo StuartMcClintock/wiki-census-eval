@@ -1,0 +1,16 @@
+{
+  "article": "Learned,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/39880/Learned__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bf0a096dabe39c21ac0e1ae4f1822b9c0e419bb2f3727287b900d791ac920471",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bf0a096dabe39c21ac0e1ae4f1822b9c0e419bb2f3727287b900d791ac920471",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/39880/Learned__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "39880",
+  "timestamp": "2026-05-24T23:50:14.494224Z",
+  "version": 1
+}

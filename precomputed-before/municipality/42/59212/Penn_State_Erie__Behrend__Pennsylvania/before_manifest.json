@@ -1,0 +1,16 @@
+{
+  "article": "Penn_State_Erie_(Behrend),_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/59212/Penn_State_Erie__Behrend__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5f1917591f879fe9fd437e4f1d6ea6542e66174ef19eac55b7c427b521e1cbc3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5f1917591f879fe9fd437e4f1d6ea6542e66174ef19eac55b7c427b521e1cbc3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/59212/Penn_State_Erie__Behrend__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "59212",
+  "timestamp": "2026-05-25T00:08:27.933298Z",
+  "version": 1
+}

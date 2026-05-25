@@ -1,0 +1,16 @@
+{
+  "article": "Rocky_Gap,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/68480/Rocky_Gap__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "691dfd59e3f31402c5939c5cbf274d209edf1059e9f53bf558b281c38c99ef8d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "691dfd59e3f31402c5939c5cbf274d209edf1059e9f53bf558b281c38c99ef8d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/68480/Rocky_Gap__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "68480",
+  "timestamp": "2026-05-25T00:19:34.891097Z",
+  "version": 1
+}

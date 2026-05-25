@@ -1,0 +1,16 @@
+{
+  "article": "Meriden,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/45950/Meriden__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d31c42cc695d4bab188452d0546e652c56fbcc3b738cd760ddc05cee93e65bcf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d31c42cc695d4bab188452d0546e652c56fbcc3b738cd760ddc05cee93e65bcf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/45950/Meriden__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "45950",
+  "timestamp": "2026-05-24T23:43:08.973940Z",
+  "version": 1
+}

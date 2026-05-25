@@ -1,0 +1,16 @@
+{
+  "article": "Tuckers_Crossroads,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/75300/Tuckers_Crossroads__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c41966f7e9299b36f1aa29811bcc7ada0f630bc2a504090e964255fc2339f934",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c41966f7e9299b36f1aa29811bcc7ada0f630bc2a504090e964255fc2339f934",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/75300/Tuckers_Crossroads__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "75300",
+  "timestamp": "2026-05-25T00:14:57.199789Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "South_Toledo_Bend,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/69326/South_Toledo_Bend__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dc620a3760a793ba37bf50ae75dd2ba20513c52d9fafce08b88ec88b1294cd00",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dc620a3760a793ba37bf50ae75dd2ba20513c52d9fafce08b88ec88b1294cd00",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/69326/South_Toledo_Bend__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "69326",
+  "timestamp": "2026-05-25T00:16:39.537188Z",
+  "version": 1
+}

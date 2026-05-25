@@ -1,0 +1,16 @@
+{
+  "article": "Brookfield,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/08140/Brookfield__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b97c9b5a98e83426199fdc1cfa547d961289c6088969ace3b84236a3da6f2517",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b97c9b5a98e83426199fdc1cfa547d961289c6088969ace3b84236a3da6f2517",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/08140/Brookfield__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "08140",
+  "timestamp": "2026-05-24T23:57:41.800955Z",
+  "version": 1
+}

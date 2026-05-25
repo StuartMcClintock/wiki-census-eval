@@ -1,0 +1,16 @@
+{
+  "article": "Napi_Headquarters,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/51035/Napi_Headquarters__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e29e49d3b8c6787bf33c1db8b8a5ef29577ed9d3bfaacea693555ef11beb7dd6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e29e49d3b8c6787bf33c1db8b8a5ef29577ed9d3bfaacea693555ef11beb7dd6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/51035/Napi_Headquarters__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "51035",
+  "timestamp": "2026-05-24T23:58:43.608336Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Lilbourn,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/42536/Lilbourn__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "455db9e3661d069290f49cae30c8b4d9ac2d6c9e45bb9f6f4589e0125f06ef54",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "455db9e3661d069290f49cae30c8b4d9ac2d6c9e45bb9f6f4589e0125f06ef54",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/42536/Lilbourn__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "42536",
+  "timestamp": "2026-05-24T23:53:27.900638Z",
+  "version": 1
+}

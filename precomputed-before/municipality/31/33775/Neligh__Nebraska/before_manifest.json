@@ -1,0 +1,16 @@
+{
+  "article": "Neligh,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/33775/Neligh__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "27f817bd3009c9d79cb4235fd4fc730a1de86312b9577580475ffb7e16e2752c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "27f817bd3009c9d79cb4235fd4fc730a1de86312b9577580475ffb7e16e2752c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/33775/Neligh__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "33775",
+  "timestamp": "2026-05-24T23:55:55.060443Z",
+  "version": 1
+}

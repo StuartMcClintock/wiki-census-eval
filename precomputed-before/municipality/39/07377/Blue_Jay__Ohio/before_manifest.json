@@ -1,0 +1,16 @@
+{
+  "article": "Blue_Jay,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/07377/Blue_Jay__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8bc2724abeba89c1ee201ad1455562012289d67660a4a5ea9ce935dbbcdb80be",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8bc2724abeba89c1ee201ad1455562012289d67660a4a5ea9ce935dbbcdb80be",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/07377/Blue_Jay__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "07377",
+  "timestamp": "2026-05-25T00:03:36.313251Z",
+  "version": 1
+}

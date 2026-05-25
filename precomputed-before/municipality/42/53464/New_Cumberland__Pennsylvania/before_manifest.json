@@ -1,0 +1,16 @@
+{
+  "article": "New_Cumberland,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/53464/New_Cumberland__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d4fe3a16bcf0b6d29bc9c41e6996e00f15c32d6baa0fcef26e2202e1205c496e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d4fe3a16bcf0b6d29bc9c41e6996e00f15c32d6baa0fcef26e2202e1205c496e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/53464/New_Cumberland__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "53464",
+  "timestamp": "2026-05-25T00:08:15.514379Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Decaturville,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/19900/Decaturville__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f545db5124860d746eeb41d43841e9fa92c782117c8930b985f7606fba34a38a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f545db5124860d746eeb41d43841e9fa92c782117c8930b985f7606fba34a38a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/19900/Decaturville__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "19900",
+  "timestamp": "2026-05-25T00:14:36.470750Z",
+  "version": 1
+}

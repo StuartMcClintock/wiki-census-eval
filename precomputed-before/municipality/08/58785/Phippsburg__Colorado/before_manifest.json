@@ -1,0 +1,16 @@
+{
+  "article": "Phippsburg,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/58785/Phippsburg__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d07c1b49330d2ed0fa500275c6ed6e9d6d0b8035d65a0a94f5770c3388eeda52",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d07c1b49330d2ed0fa500275c6ed6e9d6d0b8035d65a0a94f5770c3388eeda52",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/58785/Phippsburg__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "58785",
+  "timestamp": "2026-05-24T23:35:36.750054Z",
+  "version": 1
+}

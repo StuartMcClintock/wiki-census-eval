@@ -1,0 +1,16 @@
+{
+  "article": "Woody_Creek,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/86200/Woody_Creek__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "efb187e469cc1de4da6e9b44606883cf2388bab02b8ce0cfd4523b5247ad9cf0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "efb187e469cc1de4da6e9b44606883cf2388bab02b8ce0cfd4523b5247ad9cf0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/86200/Woody_Creek__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "86200",
+  "timestamp": "2026-05-24T23:35:56.272544Z",
+  "version": 1
+}

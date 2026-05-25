@@ -1,0 +1,16 @@
+{
+  "article": "Ovando,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/56125/Ovando__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "712ae5fac8f52befc04f12ee01a702b3428b5edf949194cce5c3774b444e972b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "712ae5fac8f52befc04f12ee01a702b3428b5edf949194cce5c3774b444e972b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/56125/Ovando__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "56125",
+  "timestamp": "2026-05-24T23:54:41.200342Z",
+  "version": 1
+}

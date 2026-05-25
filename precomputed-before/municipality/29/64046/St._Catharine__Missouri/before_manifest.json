@@ -1,0 +1,16 @@
+{
+  "article": "St._Catharine,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/64046/St._Catharine__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7205d726ed7296f15c1ea1c206352c35a290d021255c99115f7f13bfbc262943",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7205d726ed7296f15c1ea1c206352c35a290d021255c99115f7f13bfbc262943",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/64046/St._Catharine__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "64046",
+  "timestamp": "2026-05-24T23:53:47.684820Z",
+  "version": 1
+}

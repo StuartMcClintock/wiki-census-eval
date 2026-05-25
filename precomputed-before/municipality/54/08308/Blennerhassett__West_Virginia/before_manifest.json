@@ -1,0 +1,16 @@
+{
+  "article": "Blennerhassett,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/08308/Blennerhassett__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d213f0bf6240917c24eeec25acb7b6e7dc8e4af54b95a00c9f9d94c4c86651b5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d213f0bf6240917c24eeec25acb7b6e7dc8e4af54b95a00c9f9d94c4c86651b5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/08308/Blennerhassett__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "08308",
+  "timestamp": "2026-05-25T00:20:44.161823Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Farmer,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/21060/Farmer__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e66fb2b8502cdd4d99f25de0b99a3b0894abc189f27a4ab56a23399b9cb7af44",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e66fb2b8502cdd4d99f25de0b99a3b0894abc189f27a4ab56a23399b9cb7af44",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/21060/Farmer__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "21060",
+  "timestamp": "2026-05-25T00:10:38.044386Z",
+  "version": 1
+}

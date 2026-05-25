@@ -1,0 +1,40 @@
+==Demographics==
+{{US Census population
+|1880= 358
+|1970= 59
+|1980= 519
+|1990= 404
+|2000= 424
+|2010= 386
+|2020= 483
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|access-date=June 4, 2015}}</ref>
+}}
+
+{| class="wikitable" style="text-align:right"
+|+Vienna racial composition as of 2020<ref>{{Cite web|title=Explore Census Data|url=https://data.census.gov/cedsci/table?g=1600000US2278540&tid=DECENNIALPL2020.P2|access-date=December 29, 2021|website=data.census.gov}}</ref>
+!scope="col"| Race
+!scope="col"| Number
+!scope="col"| Percentage
+|-
+!scope="row"| [[White (U.S. Census)|White]] (non-Hispanic)
+| 406
+| 84.06%
+|-
+!scope="row"| [[African American (U.S. Census)|Black or African American]] (non-Hispanic)
+| 21
+| 4.35%
+|-
+!scope="row"| [[Asian (U.S. Census)|Asian]]
+| 3
+| 0.62%
+|-
+!scope="row"| [[Race (United States Census)|Other/Mixed]]
+| 24
+| 4.97%
+|-
+!scope="row"| [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]]
+| 29
+| 6.0%
+|}
+As of the [[2020 United States census]], there were 483 people, 201 households, and 153 families residing in the town.
+

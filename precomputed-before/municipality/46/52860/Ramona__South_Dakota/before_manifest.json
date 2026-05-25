@@ -1,0 +1,16 @@
+{
+  "article": "Ramona,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/52860/Ramona__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "96872a3d05631add6d3e2052208efd668fa12ecfc87a0658033abc2dfeb9cf54",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "96872a3d05631add6d3e2052208efd668fa12ecfc87a0658033abc2dfeb9cf54",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/52860/Ramona__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "52860",
+  "timestamp": "2026-05-25T00:11:09.984730Z",
+  "version": 1
+}

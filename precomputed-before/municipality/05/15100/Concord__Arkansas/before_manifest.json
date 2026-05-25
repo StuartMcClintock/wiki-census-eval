@@ -1,0 +1,16 @@
+{
+  "article": "Concord,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/15100/Concord__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a7a89c0a3a0edee333aa6457a8daa5194aaf1767b058cf1bd9fea2eb0ee756b9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a7a89c0a3a0edee333aa6457a8daa5194aaf1767b058cf1bd9fea2eb0ee756b9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/15100/Concord__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "15100",
+  "timestamp": "2026-05-24T23:33:25.646646Z",
+  "version": 1
+}

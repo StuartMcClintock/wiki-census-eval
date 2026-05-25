@@ -1,0 +1,16 @@
+{
+  "article": "Claremont,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/12100/Claremont__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6751138f23a11de967dcfc946a3234902ed3dc6ba67364ef9904255297aff60f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6751138f23a11de967dcfc946a3234902ed3dc6ba67364ef9904255297aff60f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/12100/Claremont__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "12100",
+  "timestamp": "2026-05-25T00:10:34.694955Z",
+  "version": 1
+}

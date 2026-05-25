@@ -1,0 +1,16 @@
+{
+  "article": "Pavillion,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/60130/Pavillion__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6c69688bdc6c0194b5416b588c6df3379eb3774d01fb011969c80eb69fc32cb0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6c69688bdc6c0194b5416b588c6df3379eb3774d01fb011969c80eb69fc32cb0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/60130/Pavillion__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "60130",
+  "timestamp": "2026-05-25T00:23:20.859954Z",
+  "version": 1
+}

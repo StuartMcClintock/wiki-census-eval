@@ -1,0 +1,16 @@
+{
+  "article": "Felton,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/20834/Felton__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5044580d67b50d3869501e32234469506ef6a32dca42fffa0bb6b2f629c52860",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5044580d67b50d3869501e32234469506ef6a32dca42fffa0bb6b2f629c52860",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/20834/Felton__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "20834",
+  "timestamp": "2026-05-24T23:48:54.300365Z",
+  "version": 1
+}

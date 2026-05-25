@@ -1,0 +1,16 @@
+{
+  "article": "Ragsdale,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/62730/Ragsdale__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dde12308ece413e236d085949e36b6a2f052f4f9d204351ad3b66f473eb1ef30",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dde12308ece413e236d085949e36b6a2f052f4f9d204351ad3b66f473eb1ef30",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/62730/Ragsdale__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "62730",
+  "timestamp": "2026-05-24T23:40:09.406120Z",
+  "version": 1
+}

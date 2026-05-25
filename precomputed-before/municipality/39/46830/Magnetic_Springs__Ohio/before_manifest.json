@@ -1,0 +1,16 @@
+{
+  "article": "Magnetic_Springs,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/46830/Magnetic_Springs__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "77d98f3f0f7b78d9d2bf43ed72e9bcf998629fb3504d656d86436ec039ff8919",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "77d98f3f0f7b78d9d2bf43ed72e9bcf998629fb3504d656d86436ec039ff8919",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/46830/Magnetic_Springs__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "46830",
+  "timestamp": "2026-05-25T00:04:41.918127Z",
+  "version": 1
+}

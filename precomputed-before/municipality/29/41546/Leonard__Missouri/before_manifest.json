@@ -1,0 +1,16 @@
+{
+  "article": "Leonard,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/41546/Leonard__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "14d3c863e708516ddb1fb6daa2632615c3422c2be434f0ed83da23b7f3272996",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "14d3c863e708516ddb1fb6daa2632615c3422c2be434f0ed83da23b7f3272996",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/41546/Leonard__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "41546",
+  "timestamp": "2026-05-24T23:53:27.426665Z",
+  "version": 1
+}

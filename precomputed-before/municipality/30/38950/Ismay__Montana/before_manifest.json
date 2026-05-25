@@ -1,0 +1,16 @@
+{
+  "article": "Ismay,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/38950/Ismay__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4573c951b2c87bdcfc414db08830661c81f32dc897055e9259cd2ae1831d6453",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4573c951b2c87bdcfc414db08830661c81f32dc897055e9259cd2ae1831d6453",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/38950/Ismay__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "38950",
+  "timestamp": "2026-05-24T23:54:31.950435Z",
+  "version": 1
+}

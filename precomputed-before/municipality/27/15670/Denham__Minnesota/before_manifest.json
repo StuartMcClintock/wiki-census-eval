@@ -1,0 +1,16 @@
+{
+  "article": "Denham,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/15670/Denham__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e6c9f72981e082d9b42e7c7eaa039c65767b8b1c72fd355ce40efaaf5d64403b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e6c9f72981e082d9b42e7c7eaa039c65767b8b1c72fd355ce40efaaf5d64403b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/15670/Denham__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "15670",
+  "timestamp": "2026-05-24T23:48:49.450971Z",
+  "version": 1
+}

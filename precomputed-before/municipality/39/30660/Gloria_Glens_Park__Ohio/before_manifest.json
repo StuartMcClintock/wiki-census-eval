@@ -1,0 +1,16 @@
+{
+  "article": "Gloria_Glens_Park,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/30660/Gloria_Glens_Park__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d27e4367b8a4f254c6f8023982429b718cf5f7cd2be50a045aff3bce22c6e6cc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d27e4367b8a4f254c6f8023982429b718cf5f7cd2be50a045aff3bce22c6e6cc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/30660/Gloria_Glens_Park__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "30660",
+  "timestamp": "2026-05-25T00:04:12.706097Z",
+  "version": 1
+}

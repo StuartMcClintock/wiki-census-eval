@@ -1,0 +1,16 @@
+{
+  "article": "Central_Square,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/13585/Central_Square__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e2bf4f863e50915d50306850bf5550c3023f0541a6210f392508a6b0e4dd7296",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e2bf4f863e50915d50306850bf5550c3023f0541a6210f392508a6b0e4dd7296",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/13585/Central_Square__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "13585",
+  "timestamp": "2026-05-25T00:00:35.497584Z",
+  "version": 1
+}

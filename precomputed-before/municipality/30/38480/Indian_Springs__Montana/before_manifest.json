@@ -1,0 +1,16 @@
+{
+  "article": "Indian_Springs,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/38480/Indian_Springs__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a507fda6693aef204fbd25cf1ee8aad1e0f7e463e5de82d6fd718e5154f46d4e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a507fda6693aef204fbd25cf1ee8aad1e0f7e463e5de82d6fd718e5154f46d4e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/38480/Indian_Springs__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "38480",
+  "timestamp": "2026-05-24T23:54:31.719027Z",
+  "version": 1
+}

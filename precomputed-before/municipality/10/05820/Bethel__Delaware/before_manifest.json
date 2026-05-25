@@ -1,0 +1,16 @@
+{
+  "article": "Bethel,_Delaware",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/10/05820/Bethel__Delaware/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dc902cbc6de80100feac57788818ff2c5b80d60ef4ee15b7087a6958f08500c8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dc902cbc6de80100feac57788818ff2c5b80d60ef4ee15b7087a6958f08500c8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/10/05820/Bethel__Delaware/manifest.json",
+  "state_fips": "10",
+  "status": "match",
+  "target_fips": "05820",
+  "timestamp": "2026-05-24T23:36:03.516274Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "New_Munster,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/57000/New_Munster__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7b59840aa03380a2d3f941fa3b1070e5b214c34088df953314be3dabd0191e1d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7b59840aa03380a2d3f941fa3b1070e5b214c34088df953314be3dabd0191e1d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/57000/New_Munster__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "57000",
+  "timestamp": "2026-05-25T00:22:29.468987Z",
+  "version": 1
+}

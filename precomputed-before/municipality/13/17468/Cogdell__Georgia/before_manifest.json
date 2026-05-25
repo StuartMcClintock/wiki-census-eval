@@ -1,0 +1,16 @@
+{
+  "article": "Cogdell,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/17468/Cogdell__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "69e5208382e9c34f2e92921327c5f206ad87c6f315144e1b5a9cd4b049349cf8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "69e5208382e9c34f2e92921327c5f206ad87c6f315144e1b5a9cd4b049349cf8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/17468/Cogdell__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "17468",
+  "timestamp": "2026-05-24T23:36:32.342388Z",
+  "version": 1
+}

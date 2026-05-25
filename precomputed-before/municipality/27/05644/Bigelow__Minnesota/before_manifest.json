@@ -1,0 +1,16 @@
+{
+  "article": "Bigelow,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/05644/Bigelow__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d060beb44b74d171d6bd1cf992da46658241a2434ea75d94da9b97672ffc04c3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d060beb44b74d171d6bd1cf992da46658241a2434ea75d94da9b97672ffc04c3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/05644/Bigelow__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "05644",
+  "timestamp": "2026-05-24T23:48:39.266679Z",
+  "version": 1
+}

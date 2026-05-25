@@ -1,0 +1,16 @@
+{
+  "article": "Silver_Cliff,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/70250/Silver_Cliff__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "18c3e72078ca157aeb208038890c4fba3afd14f6b783aedceb4ddc14d989e72f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "18c3e72078ca157aeb208038890c4fba3afd14f6b783aedceb4ddc14d989e72f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/70250/Silver_Cliff__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "70250",
+  "timestamp": "2026-05-24T23:35:40.694568Z",
+  "version": 1
+}

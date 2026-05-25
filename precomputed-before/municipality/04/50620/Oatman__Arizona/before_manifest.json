@@ -1,0 +1,16 @@
+{
+  "article": "Oatman,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/50620/Oatman__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a2188e9adc29108ad623604f33c48861067b9b1b4a8d989df0a5ba9e32f702f3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a2188e9adc29108ad623604f33c48861067b9b1b4a8d989df0a5ba9e32f702f3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/50620/Oatman__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "50620",
+  "timestamp": "2026-05-24T23:33:05.190488Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Sobieski,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/61006/Sobieski__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6eb60f98f8bf32b52cca24d214d3a46408e034ee0f934612c51b2c0f7f741b2d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6eb60f98f8bf32b52cca24d214d3a46408e034ee0f934612c51b2c0f7f741b2d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/61006/Sobieski__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "61006",
+  "timestamp": "2026-05-24T23:49:45.741433Z",
+  "version": 1
+}

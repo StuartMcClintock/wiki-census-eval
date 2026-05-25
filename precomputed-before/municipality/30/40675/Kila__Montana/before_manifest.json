@@ -1,0 +1,16 @@
+{
+  "article": "Kila,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/40675/Kila__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "61a9c720d62ea230d521c75fddcd004837f417e11bf5d8f53ef4a69efe8e95b8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "61a9c720d62ea230d521c75fddcd004837f417e11bf5d8f53ef4a69efe8e95b8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/40675/Kila__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "40675",
+  "timestamp": "2026-05-24T23:54:33.615714Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Heartwell,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/21835/Heartwell__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dc8b5c1fb20fadbee08dd0a2d9e5cb54195a33fe9c55318b049aaedbf4b76bb8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dc8b5c1fb20fadbee08dd0a2d9e5cb54195a33fe9c55318b049aaedbf4b76bb8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/21835/Heartwell__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "21835",
+  "timestamp": "2026-05-24T23:55:31.655752Z",
+  "version": 1
+}

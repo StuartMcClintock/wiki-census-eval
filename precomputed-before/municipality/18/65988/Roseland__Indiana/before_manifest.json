@@ -1,0 +1,16 @@
+{
+  "article": "Roseland,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/65988/Roseland__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cca2b6483aa96afa0be7f0711fe748df5166f497f4609b4c1a3ed706ee6d7a0d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cca2b6483aa96afa0be7f0711fe748df5166f497f4609b4c1a3ed706ee6d7a0d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/65988/Roseland__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "65988",
+  "timestamp": "2026-05-24T23:40:10.881665Z",
+  "version": 1
+}

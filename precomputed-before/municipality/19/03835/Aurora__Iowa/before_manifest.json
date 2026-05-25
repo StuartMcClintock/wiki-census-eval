@@ -1,0 +1,16 @@
+{
+  "article": "Aurora,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/03835/Aurora__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f0bcaa8bee9885d71c15b7e165e05b0dee99451281dbf4bd446ed182b4889aeb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f0bcaa8bee9885d71c15b7e165e05b0dee99451281dbf4bd446ed182b4889aeb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/03835/Aurora__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "03835",
+  "timestamp": "2026-05-24T23:40:24.953996Z",
+  "version": 1
+}

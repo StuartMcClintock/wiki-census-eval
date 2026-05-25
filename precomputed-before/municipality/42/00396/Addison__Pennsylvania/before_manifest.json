@@ -1,0 +1,16 @@
+{
+  "article": "Addison,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/00396/Addison__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "499aa605bf97cdca380dc7aeb20e75c4dcbffe1a2b5563192a5b634ebfe28406",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "499aa605bf97cdca380dc7aeb20e75c4dcbffe1a2b5563192a5b634ebfe28406",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/00396/Addison__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "00396",
+  "timestamp": "2026-05-25T00:06:06.273329Z",
+  "version": 1
+}

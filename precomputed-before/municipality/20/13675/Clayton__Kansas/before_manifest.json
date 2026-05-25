@@ -1,0 +1,16 @@
+{
+  "article": "Clayton,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/13675/Clayton__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e628a8b58d4fe8bb7415d8ad97240641b4364bb0e4b4cefbc90cc3649dc0394e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e628a8b58d4fe8bb7415d8ad97240641b4364bb0e4b4cefbc90cc3649dc0394e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/13675/Clayton__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "13675",
+  "timestamp": "2026-05-24T23:42:28.401147Z",
+  "version": 1
+}

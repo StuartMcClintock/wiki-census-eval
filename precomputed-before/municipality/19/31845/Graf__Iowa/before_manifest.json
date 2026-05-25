@@ -1,0 +1,16 @@
+{
+  "article": "Graf,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/31845/Graf__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bdf063317331fb628cf1dbf89d24d439aa9403765f68a674ae98bd1aa45cb9b3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bdf063317331fb628cf1dbf89d24d439aa9403765f68a674ae98bd1aa45cb9b3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/31845/Graf__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "31845",
+  "timestamp": "2026-05-24T23:41:06.148000Z",
+  "version": 1
+}

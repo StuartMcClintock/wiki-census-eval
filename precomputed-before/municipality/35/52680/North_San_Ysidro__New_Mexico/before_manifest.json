@@ -1,0 +1,16 @@
+{
+  "article": "North_San_Ysidro,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/52680/North_San_Ysidro__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a77c057dd79d5f59a62456db826398d014e17c150c5c83dc8e9000f37a8b3bc0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a77c057dd79d5f59a62456db826398d014e17c150c5c83dc8e9000f37a8b3bc0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/52680/North_San_Ysidro__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "52680",
+  "timestamp": "2026-05-24T23:58:44.865524Z",
+  "version": 1
+}

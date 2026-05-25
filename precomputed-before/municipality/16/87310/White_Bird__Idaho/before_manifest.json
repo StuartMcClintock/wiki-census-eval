@@ -1,0 +1,16 @@
+{
+  "article": "White_Bird,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/87310/White_Bird__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fa7b572db5da95c1a2bf10c70c64cc9b917868f3ffc77f41263d05a19a949cf6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fa7b572db5da95c1a2bf10c70c64cc9b917868f3ffc77f41263d05a19a949cf6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/87310/White_Bird__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "87310",
+  "timestamp": "2026-05-24T23:37:30.608263Z",
+  "version": 1
+}

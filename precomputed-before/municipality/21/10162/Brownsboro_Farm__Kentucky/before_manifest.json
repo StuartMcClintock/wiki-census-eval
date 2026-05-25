@@ -1,0 +1,16 @@
+{
+  "article": "Brownsboro_Farm,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/10162/Brownsboro_Farm__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "220fb1f8e3bba82712ab53b34232cefe3fe4066610c9b09bae49db850a600796",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "220fb1f8e3bba82712ab53b34232cefe3fe4066610c9b09bae49db850a600796",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/10162/Brownsboro_Farm__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "10162",
+  "timestamp": "2026-05-24T23:43:45.066368Z",
+  "version": 1
+}

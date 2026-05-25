@@ -1,0 +1,16 @@
+{
+  "article": "Hobgood,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/31860/Hobgood__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9837de9be46fe241310700e71046883d4629034ad824eee592e78573a7b9d210",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9837de9be46fe241310700e71046883d4629034ad824eee592e78573a7b9d210",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/31860/Hobgood__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "31860",
+  "timestamp": "2026-05-25T00:02:03.552030Z",
+  "version": 1
+}

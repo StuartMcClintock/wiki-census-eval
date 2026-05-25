@@ -1,0 +1,16 @@
+{
+  "article": "Tontogany,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/77070/Tontogany__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a3746462832be7dc8286f283b4972a0e5d250ef8be8112770b56b84e782fd850",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a3746462832be7dc8286f283b4972a0e5d250ef8be8112770b56b84e782fd850",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/77070/Tontogany__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "77070",
+  "timestamp": "2026-05-25T00:05:32.573463Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Matamoras,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/48048/Matamoras__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "735cf34656b2baee85f942d006cb0422950e75e92d67e40e06a28518283427a0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "735cf34656b2baee85f942d006cb0422950e75e92d67e40e06a28518283427a0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/48048/Matamoras__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "48048",
+  "timestamp": "2026-05-25T00:08:02.848949Z",
+  "version": 1
+}

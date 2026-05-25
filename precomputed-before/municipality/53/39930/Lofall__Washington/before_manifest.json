@@ -1,0 +1,16 @@
+{
+  "article": "Lofall,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/39930/Lofall__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b000123998497614a300861488d31397dfaca36fe13a749f4234c0bf91e3be70",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b000123998497614a300861488d31397dfaca36fe13a749f4234c0bf91e3be70",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/39930/Lofall__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "39930",
+  "timestamp": "2026-05-25T00:20:20.145264Z",
+  "version": 1
+}

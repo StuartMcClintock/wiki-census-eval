@@ -1,0 +1,16 @@
+{
+  "article": "Bruno,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/08290/Bruno__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "635f786a484cbfd93d74e3153e5efd0ef4781d9e92d953bf17d24fce2ba2a0e0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "635f786a484cbfd93d74e3153e5efd0ef4781d9e92d953bf17d24fce2ba2a0e0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/08290/Bruno__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "08290",
+  "timestamp": "2026-05-24T23:48:42.601928Z",
+  "version": 1
+}

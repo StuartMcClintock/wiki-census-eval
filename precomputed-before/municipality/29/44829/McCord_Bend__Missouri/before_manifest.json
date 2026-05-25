@@ -1,0 +1,16 @@
+{
+  "article": "McCord_Bend,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/44829/McCord_Bend__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ce02f6179a84b0e2062ef09bc025a1eeab7df6d1b284797763f03489cafd76d3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ce02f6179a84b0e2062ef09bc025a1eeab7df6d1b284797763f03489cafd76d3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/44829/McCord_Bend__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "44829",
+  "timestamp": "2026-05-24T23:53:29.784180Z",
+  "version": 1
+}

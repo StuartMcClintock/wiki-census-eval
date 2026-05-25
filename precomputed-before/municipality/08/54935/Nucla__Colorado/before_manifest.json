@@ -1,0 +1,16 @@
+{
+  "article": "Nucla,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/54935/Nucla__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "56ee506ba496f40def7df9bb1d5171d6a8a53ad5a2f2e271ae416a2fad942aeb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "56ee506ba496f40def7df9bb1d5171d6a8a53ad5a2f2e271ae416a2fad942aeb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/54935/Nucla__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "54935",
+  "timestamp": "2026-05-24T23:35:35.201115Z",
+  "version": 1
+}

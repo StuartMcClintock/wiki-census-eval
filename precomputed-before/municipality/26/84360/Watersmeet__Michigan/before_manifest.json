@@ -1,0 +1,16 @@
+{
+  "article": "Watersmeet,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/84360/Watersmeet__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "61b8d2a550227546644761f1cd445feda08a4000c219d717273ecb5d19990ba9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "61b8d2a550227546644761f1cd445feda08a4000c219d717273ecb5d19990ba9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/84360/Watersmeet__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "84360",
+  "timestamp": "2026-05-24T23:48:32.355030Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Hydetown,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/36616/Hydetown__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "00bcc8f3bb79100e5b7c498c57ffdcb220a00a414600f686c9fae8ad82cf926a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "00bcc8f3bb79100e5b7c498c57ffdcb220a00a414600f686c9fae8ad82cf926a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/36616/Hydetown__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "36616",
+  "timestamp": "2026-05-25T00:07:29.606433Z",
+  "version": 1
+}

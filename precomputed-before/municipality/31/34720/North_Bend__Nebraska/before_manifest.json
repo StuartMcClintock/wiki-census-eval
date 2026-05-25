@@ -1,0 +1,16 @@
+{
+  "article": "North_Bend,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/34720/North_Bend__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ba6e8685bd83fa0357f4ea75ac304fa6ab2ffe580da2f1ab2af084facfe7c38f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ba6e8685bd83fa0357f4ea75ac304fa6ab2ffe580da2f1ab2af084facfe7c38f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/34720/North_Bend__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "34720",
+  "timestamp": "2026-05-24T23:55:56.263972Z",
+  "version": 1
+}

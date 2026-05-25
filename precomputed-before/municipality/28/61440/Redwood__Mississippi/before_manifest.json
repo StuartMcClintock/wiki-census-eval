@@ -1,0 +1,16 @@
+{
+  "article": "Redwood,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/61440/Redwood__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e17fe5387241b35716777031dc5381977230bd51f6e14a14bfcf9a4c3ac885b4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e17fe5387241b35716777031dc5381977230bd51f6e14a14bfcf9a4c3ac885b4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/61440/Redwood__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "61440",
+  "timestamp": "2026-05-24T23:50:21.831320Z",
+  "version": 1
+}

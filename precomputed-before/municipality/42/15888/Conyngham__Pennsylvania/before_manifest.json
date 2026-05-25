@@ -1,0 +1,16 @@
+{
+  "article": "Conyngham,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/15888/Conyngham__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cb356122282d71b7a360fb0b6ebd031164b3f58a3c62d628d388587ae3d92d82",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cb356122282d71b7a360fb0b6ebd031164b3f58a3c62d628d388587ae3d92d82",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/15888/Conyngham__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "15888",
+  "timestamp": "2026-05-25T00:06:46.168281Z",
+  "version": 1
+}

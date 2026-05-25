@@ -1,0 +1,16 @@
+{
+  "article": "Tolchester,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/78120/Tolchester__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "48c093b492594673343d5ac89d8a4db2e3a73c2d73f31ed4b41dfafea77883e5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "48c093b492594673343d5ac89d8a4db2e3a73c2d73f31ed4b41dfafea77883e5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/78120/Tolchester__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "78120",
+  "timestamp": "2026-05-24T23:47:35.314326Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Palatine_Bridge,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/56110/Palatine_Bridge__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d8836b49836b0f69aff37b7bbd8f131382cd7cf34fa6612f83fcc97f2010a314",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d8836b49836b0f69aff37b7bbd8f131382cd7cf34fa6612f83fcc97f2010a314",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/56110/Palatine_Bridge__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "56110",
+  "timestamp": "2026-05-25T00:01:01.642524Z",
+  "version": 1
+}

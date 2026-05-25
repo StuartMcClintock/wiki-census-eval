@@ -1,0 +1,16 @@
+{
+  "article": "Goodfield,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/30445/Goodfield__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1804ad521cac57f9636c2da198b3bc006b4bca9cdaa07deb1929c26715f0e933",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1804ad521cac57f9636c2da198b3bc006b4bca9cdaa07deb1929c26715f0e933",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/30445/Goodfield__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "30445",
+  "timestamp": "2026-05-24T23:38:16.670682Z",
+  "version": 1
+}

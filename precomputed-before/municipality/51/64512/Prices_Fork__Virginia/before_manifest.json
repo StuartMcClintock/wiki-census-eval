@@ -1,0 +1,16 @@
+{
+  "article": "Prices_Fork,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/64512/Prices_Fork__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6f93bb8e27cc7a8de89f9583613575b57eb44bf41bc81fd6514d887cb9c7b9c3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6f93bb8e27cc7a8de89f9583613575b57eb44bf41bc81fd6514d887cb9c7b9c3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/64512/Prices_Fork__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "64512",
+  "timestamp": "2026-05-25T00:19:32.887089Z",
+  "version": 1
+}

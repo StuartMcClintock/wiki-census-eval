@@ -1,0 +1,16 @@
+{
+  "article": "Bent,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/06760/Bent__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8e1979f769e6a4660a6a4b7c853e2292e99f12873d5a05f3b3d9b6bb64c34e0b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8e1979f769e6a4660a6a4b7c853e2292e99f12873d5a05f3b3d9b6bb64c34e0b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/06760/Bent__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "06760",
+  "timestamp": "2026-05-24T23:58:20.679214Z",
+  "version": 1
+}

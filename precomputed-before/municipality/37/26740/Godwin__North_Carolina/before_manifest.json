@@ -1,0 +1,16 @@
+{
+  "article": "Godwin,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/26740/Godwin__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b95e0521a58a0b54e7b2cda2b3b1cef041ad353c7bfea5b0eb715347ef95abe2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b95e0521a58a0b54e7b2cda2b3b1cef041ad353c7bfea5b0eb715347ef95abe2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/26740/Godwin__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "26740",
+  "timestamp": "2026-05-25T00:01:58.193511Z",
+  "version": 1
+}

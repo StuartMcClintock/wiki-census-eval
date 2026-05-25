@@ -1,0 +1,16 @@
+{
+  "article": "Clarkrange,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/15120/Clarkrange__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "babc7cbab5f1ba3beb838127816297db40012369eb5e22432be7a6a5335f3b2e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "babc7cbab5f1ba3beb838127816297db40012369eb5e22432be7a6a5335f3b2e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/15120/Clarkrange__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "15120",
+  "timestamp": "2026-05-25T00:14:34.967087Z",
+  "version": 1
+}

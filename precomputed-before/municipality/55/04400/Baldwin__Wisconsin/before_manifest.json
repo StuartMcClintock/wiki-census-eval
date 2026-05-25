@@ -1,0 +1,16 @@
+{
+  "article": "Baldwin,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/04400/Baldwin__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "21e5e2463e69c9daa465f048d9b4031fc44e1e14e724c00512b69784a1d8d25f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "21e5e2463e69c9daa465f048d9b4031fc44e1e14e724c00512b69784a1d8d25f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/04400/Baldwin__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "04400",
+  "timestamp": "2026-05-25T00:21:33.957086Z",
+  "version": 1
+}

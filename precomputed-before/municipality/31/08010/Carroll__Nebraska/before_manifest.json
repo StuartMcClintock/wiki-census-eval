@@ -1,0 +1,16 @@
+{
+  "article": "Carroll,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/08010/Carroll__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b1a4ef3dcb939b5b1e0bfc1033a51f9f73d98580781a33e1ea219d65c7f26fe1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b1a4ef3dcb939b5b1e0bfc1033a51f9f73d98580781a33e1ea219d65c7f26fe1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/08010/Carroll__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "08010",
+  "timestamp": "2026-05-24T23:55:16.546729Z",
+  "version": 1
+}

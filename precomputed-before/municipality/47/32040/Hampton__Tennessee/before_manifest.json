@@ -1,0 +1,16 @@
+{
+  "article": "Hampton,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/32040/Hampton__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3326a4935532de6f0785e7315fcbb0932a83b9d951f953a4f0f4a2a4911f1e9c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3326a4935532de6f0785e7315fcbb0932a83b9d951f953a4f0f4a2a4911f1e9c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/32040/Hampton__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "32040",
+  "timestamp": "2026-05-25T00:14:41.611570Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Chevy_Chase_Heights,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/13400/Chevy_Chase_Heights__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ac4d8f8a60016c73c27ebf5a1f55879ff5e91dbaff3459a8b812cb1e0a5356f0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ac4d8f8a60016c73c27ebf5a1f55879ff5e91dbaff3459a8b812cb1e0a5356f0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/13400/Chevy_Chase_Heights__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "13400",
+  "timestamp": "2026-05-25T00:06:40.720352Z",
+  "version": 1
+}

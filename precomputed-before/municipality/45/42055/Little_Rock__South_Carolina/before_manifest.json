@@ -1,0 +1,16 @@
+{
+  "article": "Little_Rock,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/42055/Little_Rock__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ac508cb24c8d09ea292cbf6a3796fee413d9e123a972361c28c82f8e04f4bf0c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ac508cb24c8d09ea292cbf6a3796fee413d9e123a972361c28c82f8e04f4bf0c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/42055/Little_Rock__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "42055",
+  "timestamp": "2026-05-25T00:10:10.646554Z",
+  "version": 1
+}

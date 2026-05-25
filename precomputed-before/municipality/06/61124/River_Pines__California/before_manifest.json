@@ -1,0 +1,16 @@
+{
+  "article": "River_Pines,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/61124/River_Pines__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c0fd8c4417bc0372fda5c3dd4b5be3ee5f279c81d7540ffc6157711b1a12f1b6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c0fd8c4417bc0372fda5c3dd4b5be3ee5f279c81d7540ffc6157711b1a12f1b6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/61124/River_Pines__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "61124",
+  "timestamp": "2026-05-24T23:35:01.907146Z",
+  "version": 1
+}

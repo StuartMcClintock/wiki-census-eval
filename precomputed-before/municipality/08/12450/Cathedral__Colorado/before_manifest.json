@@ -1,0 +1,16 @@
+{
+  "article": "Cathedral,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/12450/Cathedral__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ecf746a4f3aec54f22baea5c2c582ae81ac8f8bfcd6f39bdd07c3e678d5cca8b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ecf746a4f3aec54f22baea5c2c582ae81ac8f8bfcd6f39bdd07c3e678d5cca8b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/12450/Cathedral__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "12450",
+  "timestamp": "2026-05-24T23:35:20.843870Z",
+  "version": 1
+}

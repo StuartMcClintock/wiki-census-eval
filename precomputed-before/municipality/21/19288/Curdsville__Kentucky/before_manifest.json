@@ -1,0 +1,16 @@
+{
+  "article": "Curdsville,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/19288/Curdsville__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e2be7d55450c3a7af543a1555e4ddebb0e1cf79ffeb9b57af1002a68f337302f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e2be7d55450c3a7af543a1555e4ddebb0e1cf79ffeb9b57af1002a68f337302f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/19288/Curdsville__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "19288",
+  "timestamp": "2026-05-24T23:43:50.081727Z",
+  "version": 1
+}

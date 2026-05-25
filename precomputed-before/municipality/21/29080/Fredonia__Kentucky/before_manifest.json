@@ -1,0 +1,16 @@
+{
+  "article": "Fredonia,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/29080/Fredonia__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f55f084826be2ed9f6fe104cd1b4c3521303229e81e32e2dba060876b93ab00e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f55f084826be2ed9f6fe104cd1b4c3521303229e81e32e2dba060876b93ab00e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/29080/Fredonia__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "29080",
+  "timestamp": "2026-05-24T23:44:03.499700Z",
+  "version": 1
+}

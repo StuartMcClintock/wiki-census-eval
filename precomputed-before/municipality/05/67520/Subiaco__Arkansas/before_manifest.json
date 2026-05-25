@@ -1,0 +1,16 @@
+{
+  "article": "Subiaco,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/67520/Subiaco__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4e634de43b9597742b3c0c233c6a375636106571c4a964764354bd07dbdc0a22",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4e634de43b9597742b3c0c233c6a375636106571c4a964764354bd07dbdc0a22",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/67520/Subiaco__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "67520",
+  "timestamp": "2026-05-24T23:34:09.891845Z",
+  "version": 1
+}

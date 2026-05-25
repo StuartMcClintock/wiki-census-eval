@@ -1,0 +1,16 @@
+{
+  "article": "Norwood,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/55664/Norwood__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "81b39ac9a0c6039a265906a7920425be9a16350b7b2b43d697010f8c6f64deaa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "81b39ac9a0c6039a265906a7920425be9a16350b7b2b43d697010f8c6f64deaa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/55664/Norwood__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "55664",
+  "timestamp": "2026-05-25T00:08:20.920063Z",
+  "version": 1
+}

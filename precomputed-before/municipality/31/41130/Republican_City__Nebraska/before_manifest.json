@@ -1,0 +1,16 @@
+{
+  "article": "Republican_City,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/41130/Republican_City__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "37221d54ef549f3497f3ce2d6e04d10c2c369e4ec43a3c68d8eaae5911d809f5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "37221d54ef549f3497f3ce2d6e04d10c2c369e4ec43a3c68d8eaae5911d809f5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/41130/Republican_City__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "41130",
+  "timestamp": "2026-05-24T23:56:05.707354Z",
+  "version": 1
+}

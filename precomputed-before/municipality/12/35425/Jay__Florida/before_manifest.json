@@ -1,0 +1,16 @@
+{
+  "article": "Jay,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/35425/Jay__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4816677c4e44b383a32431f86adb5defd78b713069956f855f6e39b7b819b46b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4816677c4e44b383a32431f86adb5defd78b713069956f855f6e39b7b819b46b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/35425/Jay__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "35425",
+  "timestamp": "2026-05-24T23:36:15.178157Z",
+  "version": 1
+}

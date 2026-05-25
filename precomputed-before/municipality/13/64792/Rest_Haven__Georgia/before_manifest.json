@@ -1,0 +1,16 @@
+{
+  "article": "Rest_Haven,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/64792/Rest_Haven__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "078a882bf772985f2b29796504a4a25f5c8073abcddc75b9dfed9dcdb7ceb710",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "078a882bf772985f2b29796504a4a25f5c8073abcddc75b9dfed9dcdb7ceb710",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/64792/Rest_Haven__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "64792",
+  "timestamp": "2026-05-24T23:37:05.025228Z",
+  "version": 1
+}

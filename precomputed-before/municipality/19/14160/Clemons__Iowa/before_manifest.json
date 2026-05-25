@@ -1,0 +1,16 @@
+{
+  "article": "Clemons,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/14160/Clemons__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "277884bb93b244ccfdba388cc5dffd394ae0683a8d47401c0fa1630dbe60d54f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "277884bb93b244ccfdba388cc5dffd394ae0683a8d47401c0fa1630dbe60d54f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/14160/Clemons__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "14160",
+  "timestamp": "2026-05-24T23:40:34.944186Z",
+  "version": 1
+}

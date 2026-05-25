@@ -1,0 +1,16 @@
+{
+  "article": "Baggs,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/04740/Baggs__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e2271f6e16b9d86197e573db7573fcc0e9cfd61ca93872ef9ac3e6e0abe070db",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e2271f6e16b9d86197e573db7573fcc0e9cfd61ca93872ef9ac3e6e0abe070db",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/04740/Baggs__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "04740",
+  "timestamp": "2026-05-25T00:23:08.108923Z",
+  "version": 1
+}

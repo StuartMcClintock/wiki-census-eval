@@ -1,0 +1,16 @@
+{
+  "article": "Soldier,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/73785/Soldier__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ffb0601477962bceb3859cb1fcbb8ab3aa5bc8f5ffa45f42ca4abcedca285b24",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ffb0601477962bceb3859cb1fcbb8ab3aa5bc8f5ffa45f42ca4abcedca285b24",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/73785/Soldier__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "73785",
+  "timestamp": "2026-05-24T23:42:01.517026Z",
+  "version": 1
+}

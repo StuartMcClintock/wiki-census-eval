@@ -1,0 +1,16 @@
+{
+  "article": "Bergman,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/05440/Bergman__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "50c0d563b550bb7c20cd18d38156b8f68fb0b167a3183f39721c5a520bec80e2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "50c0d563b550bb7c20cd18d38156b8f68fb0b167a3183f39721c5a520bec80e2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/05440/Bergman__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "05440",
+  "timestamp": "2026-05-24T23:33:20.506094Z",
+  "version": 1
+}

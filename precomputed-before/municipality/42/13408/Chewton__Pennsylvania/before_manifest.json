@@ -1,0 +1,16 @@
+{
+  "article": "Chewton,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/13408/Chewton__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "44e8c7e65e284bb7d12ad10f1ef994b99181acc445e64f6f85752c0ba4806a63",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "44e8c7e65e284bb7d12ad10f1ef994b99181acc445e64f6f85752c0ba4806a63",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/13408/Chewton__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "13408",
+  "timestamp": "2026-05-25T00:06:40.817404Z",
+  "version": 1
+}

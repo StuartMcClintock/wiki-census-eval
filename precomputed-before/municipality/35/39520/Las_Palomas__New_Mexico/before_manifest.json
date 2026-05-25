@@ -1,0 +1,16 @@
+{
+  "article": "Las_Palomas,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/39520/Las_Palomas__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cb5c80fd577e49163c3096c6a20e3b3b3c4df7f43aad54b93cc17ddf141d4a92",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cb5c80fd577e49163c3096c6a20e3b3b3c4df7f43aad54b93cc17ddf141d4a92",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/39520/Las_Palomas__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "39520",
+  "timestamp": "2026-05-24T23:58:37.671005Z",
+  "version": 1
+}

@@ -1,0 +1,106 @@
+==Demographics==
+{{US Census population
+|1890= 230
+|1900= 345
+|1910= 475
+|1920= 409
+|1930= 332
+|1940= 307
+|1950= 298
+|1960= 283
+|1970= 269
+|1980= 387
+|1990= 404
+|2000= 520
+|2010= 696
+|2020= 676
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|access-date=June 4, 2015}}</ref>
+}}
+
+===Racial and ethnic composition===
+{| class="wikitable sortable" style="text-align:center;"
+|+'''Newborn town, Georgia – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Newborn town, Georgia|url=https://data.census.gov/table?g=160XX00US1354656&tid=DECENNIALSF12000.P004|website=[[United States Census Bureau]] |access-date= }}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Newborn town, Georgia|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US1354656&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!style="background-color: #ffffb3;" |Pop 2020<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Newborn town, Georgia|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US1354656&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!% 2000
+!% 2010
+!style="background-color: #ffffb3;" |% 2020
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|364
+|534
+|style='background: #ffffe6; |503
+|70.00%
+|76.72%
+|style='background: #ffffe6; |74.41%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|133
+|112
+|style='background: #ffffe6; |121
+|25.58%
+|16.09%
+|style='background: #ffffe6; |17.90%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|4
+|9
+|style='background: #ffffe6; |1
+|0.77%
+|1.29%
+|style='background: #ffffe6; |0.15%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|0
+|4
+|style='background: #ffffe6; |4
+|0.00%
+|0.57%
+|style='background: #ffffe6; |0.59%
+|-
+|[[Native Hawaiian]] or [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |1
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.15%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|4
+|6
+|style='background: #ffffe6; |25
+|0.77%
+|0.86%
+|style='background: #ffffe6; |3.70%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|15
+|31
+|style='background: #ffffe6; |21
+|2.88%
+|4.45%
+|style='background: #ffffe6; |3.11%
+|-
+|'''Total'''
+|'''520'''
+|'''696'''
+|style='background: #ffffe6; |'''676 '''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+===2000 census===
+As of the [[census]]<ref name="GR2" /> of 2000, there were 520 people, 181 households, and 148 families living in the town. By 2020, its population was 676.
+

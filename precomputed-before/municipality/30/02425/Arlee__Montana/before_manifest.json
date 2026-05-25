@@ -1,0 +1,16 @@
+{
+  "article": "Arlee,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/02425/Arlee__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bd3ef3726f805bc7177f9dd739605632a42f66410a6da643a3a55b1706267a02",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bd3ef3726f805bc7177f9dd739605632a42f66410a6da643a3a55b1706267a02",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/02425/Arlee__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "02425",
+  "timestamp": "2026-05-24T23:54:12.781274Z",
+  "version": 1
+}

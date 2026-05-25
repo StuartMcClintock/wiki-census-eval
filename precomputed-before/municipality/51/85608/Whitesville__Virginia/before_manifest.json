@@ -1,0 +1,16 @@
+{
+  "article": "Whitesville,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/85608/Whitesville__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "14e89e44efa248eb0fedc43a7b09b2809fed8275451bb7e2b7445b775be73ddb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "14e89e44efa248eb0fedc43a7b09b2809fed8275451bb7e2b7445b775be73ddb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/85608/Whitesville__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "85608",
+  "timestamp": "2026-05-25T00:19:44.952729Z",
+  "version": 1
+}

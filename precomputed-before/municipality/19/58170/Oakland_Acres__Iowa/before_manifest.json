@@ -1,0 +1,16 @@
+{
+  "article": "Oakland_Acres,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/58170/Oakland_Acres__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a197c3f834ef77a6916d66cc7016186c3172248bc2c810e1c96612fafbc8ec7d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a197c3f834ef77a6916d66cc7016186c3172248bc2c810e1c96612fafbc8ec7d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/58170/Oakland_Acres__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "58170",
+  "timestamp": "2026-05-24T23:41:34.015695Z",
+  "version": 1
+}

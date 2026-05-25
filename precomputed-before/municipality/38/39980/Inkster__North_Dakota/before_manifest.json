@@ -1,0 +1,16 @@
+{
+  "article": "Inkster,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/39980/Inkster__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3dcef312b310f5ce8f587f34ec2ad41b350648ce4e4c41dd7d15e4f408616d78",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3dcef312b310f5ce8f587f34ec2ad41b350648ce4e4c41dd7d15e4f408616d78",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/39980/Inkster__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "39980",
+  "timestamp": "2026-05-25T00:03:05.318955Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Trent,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/63940/Trent__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d2ce90524bdbe153f85c8e57bb49aecf5d00ce4daac976b5c6daede557a9553c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d2ce90524bdbe153f85c8e57bb49aecf5d00ce4daac976b5c6daede557a9553c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/63940/Trent__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "63940",
+  "timestamp": "2026-05-25T00:14:25.784932Z",
+  "version": 1
+}

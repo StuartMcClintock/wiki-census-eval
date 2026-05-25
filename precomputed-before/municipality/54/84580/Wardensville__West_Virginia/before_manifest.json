@@ -1,0 +1,16 @@
+{
+  "article": "Wardensville,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/84580/Wardensville__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aedc2ca3df9d1c7c6fbdd49389c4e9d1207debc7cd1fd8ba3b056df66c20d63b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aedc2ca3df9d1c7c6fbdd49389c4e9d1207debc7cd1fd8ba3b056df66c20d63b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/84580/Wardensville__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "84580",
+  "timestamp": "2026-05-25T00:21:28.515968Z",
+  "version": 1
+}

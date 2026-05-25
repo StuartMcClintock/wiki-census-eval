@@ -1,0 +1,16 @@
+{
+  "article": "Odanah,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/59450/Odanah__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e6b8f2c774cb45dd92e338ae7ff9d61b37cbfe4edbfdbcd6e53ab9d30f4e1d9d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e6b8f2c774cb45dd92e338ae7ff9d61b37cbfe4edbfdbcd6e53ab9d30f4e1d9d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/59450/Odanah__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "59450",
+  "timestamp": "2026-05-25T00:22:31.367658Z",
+  "version": 1
+}

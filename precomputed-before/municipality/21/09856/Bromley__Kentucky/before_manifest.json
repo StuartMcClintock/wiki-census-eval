@@ -1,0 +1,16 @@
+{
+  "article": "Bromley,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/09856/Bromley__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "17e3fb6262603563d2c61412b97661bc0d0295a8820195f771801f3d456984ed",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "17e3fb6262603563d2c61412b97661bc0d0295a8820195f771801f3d456984ed",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/09856/Bromley__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "09856",
+  "timestamp": "2026-05-24T23:43:44.844299Z",
+  "version": 1
+}

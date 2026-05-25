@@ -1,0 +1,16 @@
+{
+  "article": "Jackson_Springs,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/34160/Jackson_Springs__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d15adef4df0fc3b5ddff9222a0a47bc6a8f28f41389aa667306a36821dc8fb82",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d15adef4df0fc3b5ddff9222a0a47bc6a8f28f41389aa667306a36821dc8fb82",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/34160/Jackson_Springs__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "34160",
+  "timestamp": "2026-05-25T00:02:05.358669Z",
+  "version": 1
+}

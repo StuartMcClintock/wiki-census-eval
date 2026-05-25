@@ -1,0 +1,16 @@
+{
+  "article": "Bay_View_Gardens,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/04273/Bay_View_Gardens__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ee31d46864ff6354e6ef1c43e4531567f16740ffedac0e0b536e5832edb348c9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ee31d46864ff6354e6ef1c43e4531567f16740ffedac0e0b536e5832edb348c9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/04273/Bay_View_Gardens__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "04273",
+  "timestamp": "2026-05-24T23:37:36.706230Z",
+  "version": 1
+}

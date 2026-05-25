@@ -1,0 +1,16 @@
+{
+  "article": "Pitkas_Point,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/60860/Pitkas_Point__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "00baa1c30fc52b5019a24cc739c1cfd4686904640c016e0a4e2600cb29ddee13",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "00baa1c30fc52b5019a24cc739c1cfd4686904640c016e0a4e2600cb29ddee13",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/60860/Pitkas_Point__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "60860",
+  "timestamp": "2026-05-24T23:32:30.468266Z",
+  "version": 1
+}

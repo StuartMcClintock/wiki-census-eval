@@ -1,0 +1,16 @@
+{
+  "article": "Connorville,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/18420/Connorville__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2960e4b9ebb19c136072614a56800a0155ef8ec9c1e5670238600c3052096613",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2960e4b9ebb19c136072614a56800a0155ef8ec9c1e5670238600c3052096613",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/18420/Connorville__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "18420",
+  "timestamp": "2026-05-25T00:04:00.913663Z",
+  "version": 1
+}

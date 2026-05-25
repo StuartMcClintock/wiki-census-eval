@@ -1,0 +1,16 @@
+{
+  "article": "Melvin,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/52920/Melvin__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6661c39c4cfb6d53e4f764f78dca4f0778d26cdd146905c9e5b6f4d59b3f6a64",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6661c39c4cfb6d53e4f764f78dca4f0778d26cdd146905c9e5b6f4d59b3f6a64",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/52920/Melvin__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "52920",
+  "timestamp": "2026-05-24T23:48:05.938663Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Elmore,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/25144/Elmore__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f14b59afa8494c9773eb79159bd7f6374147161cedebe1a28a045bcbfc66e68a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f14b59afa8494c9773eb79159bd7f6374147161cedebe1a28a045bcbfc66e68a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/25144/Elmore__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "25144",
+  "timestamp": "2026-05-25T00:04:07.442267Z",
+  "version": 1
+}

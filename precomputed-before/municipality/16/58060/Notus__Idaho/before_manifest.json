@@ -1,0 +1,16 @@
+{
+  "article": "Notus,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/58060/Notus__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a96c6497a2bb7c09af6d6ae7a514aaea28f0455535a0f53ef68bb79e49c977aa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a96c6497a2bb7c09af6d6ae7a514aaea28f0455535a0f53ef68bb79e49c977aa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/58060/Notus__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "58060",
+  "timestamp": "2026-05-24T23:37:26.146828Z",
+  "version": 1
+}

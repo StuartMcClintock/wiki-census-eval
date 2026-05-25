@@ -1,0 +1,16 @@
+{
+  "article": "Smartsville,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/72282/Smartsville__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1ecfd98d3ff883fb0e0a4df945fe3bf4f1b6ae2e10c17c84f8a848d8b0ebce81",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1ecfd98d3ff883fb0e0a4df945fe3bf4f1b6ae2e10c17c84f8a848d8b0ebce81",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/72282/Smartsville__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "72282",
+  "timestamp": "2026-05-24T23:35:06.137491Z",
+  "version": 1
+}

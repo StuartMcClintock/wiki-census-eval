@@ -1,0 +1,16 @@
+{
+  "article": "Berrysburg,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/05856/Berrysburg__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5157c64c8181a983440d00c109694f68ccdad41909e33cddd293320d63c01b10",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5157c64c8181a983440d00c109694f68ccdad41909e33cddd293320d63c01b10",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/05856/Berrysburg__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "05856",
+  "timestamp": "2026-05-25T00:06:16.627078Z",
+  "version": 1
+}

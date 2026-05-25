@@ -1,0 +1,16 @@
+{
+  "article": "Saratoga,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/68058/Saratoga__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "eca6a62ed47936070cdf34a5bc38ee8d63858de2a8d79da14e9e3f954a544907",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "eca6a62ed47936070cdf34a5bc38ee8d63858de2a8d79da14e9e3f954a544907",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/68058/Saratoga__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "68058",
+  "timestamp": "2026-05-24T23:40:11.836600Z",
+  "version": 1
+}

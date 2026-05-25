@@ -1,0 +1,16 @@
+{
+  "article": "Eagle_Bend,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/17342/Eagle_Bend__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "057f59f7d7aad1a9e7cd7a67c85c62242a282af16df872edcb234076b063450a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "057f59f7d7aad1a9e7cd7a67c85c62242a282af16df872edcb234076b063450a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/17342/Eagle_Bend__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "17342",
+  "timestamp": "2026-05-24T23:48:50.938475Z",
+  "version": 1
+}

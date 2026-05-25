@@ -1,0 +1,16 @@
+{
+  "article": "Dumont,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/17090/Dumont__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "93a672863e0398051ea922fc6c1b2967d597f1139bc6131e23b6b396f0707b46",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "93a672863e0398051ea922fc6c1b2967d597f1139bc6131e23b6b396f0707b46",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/17090/Dumont__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "17090",
+  "timestamp": "2026-05-24T23:48:50.582680Z",
+  "version": 1
+}

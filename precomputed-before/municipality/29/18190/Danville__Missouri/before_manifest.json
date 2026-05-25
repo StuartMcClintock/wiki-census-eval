@@ -1,0 +1,16 @@
+{
+  "article": "Danville,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/18190/Danville__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e8fdd70a8a62cb730c67b89b299839fadb0515b1bde7b3e0331dea69c4485262",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e8fdd70a8a62cb730c67b89b299839fadb0515b1bde7b3e0331dea69c4485262",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/18190/Danville__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "18190",
+  "timestamp": "2026-05-24T23:51:02.374025Z",
+  "version": 1
+}

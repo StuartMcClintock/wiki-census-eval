@@ -1,0 +1,16 @@
+{
+  "article": "Big_Beaver,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/06240/Big_Beaver__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a328256f4bf2dff0d094c0798963a4a0419f0f1f76806635ecd84ce848d77129",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a328256f4bf2dff0d094c0798963a4a0419f0f1f76806635ecd84ce848d77129",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/06240/Big_Beaver__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "06240",
+  "timestamp": "2026-05-25T00:06:17.019958Z",
+  "version": 1
+}

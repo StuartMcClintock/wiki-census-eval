@@ -1,0 +1,16 @@
+{
+  "article": "Taylortown,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/66980/Taylortown__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "be7c0107e58d020cf9ef6436a77f78d0c944ddb1f698d305f31633144940a9c3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "be7c0107e58d020cf9ef6436a77f78d0c944ddb1f698d305f31633144940a9c3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/66980/Taylortown__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "66980",
+  "timestamp": "2026-05-25T00:02:26.153240Z",
+  "version": 1
+}

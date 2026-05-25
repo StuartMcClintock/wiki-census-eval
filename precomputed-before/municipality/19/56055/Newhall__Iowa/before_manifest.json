@@ -1,0 +1,16 @@
+{
+  "article": "Newhall,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/56055/Newhall__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a9f55a3850b03ca16200aa10879f6326dacccc5f83cee4ca1090f9bcc4e42f87",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a9f55a3850b03ca16200aa10879f6326dacccc5f83cee4ca1090f9bcc4e42f87",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/56055/Newhall__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "56055",
+  "timestamp": "2026-05-24T23:41:31.889987Z",
+  "version": 1
+}

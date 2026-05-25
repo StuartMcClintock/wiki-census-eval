@@ -1,0 +1,16 @@
+{
+  "article": "Highland_Park,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/30325/Highland_Park__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c0d081b4c9e380282840b700df89b384fabecb3bcdad1c5e855427f894f986a0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c0d081b4c9e380282840b700df89b384fabecb3bcdad1c5e855427f894f986a0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/30325/Highland_Park__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "30325",
+  "timestamp": "2026-05-24T23:36:13.890171Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Hawley,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/33200/Hawley__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "967d02e811528d85e507b64048ec2113746a9299ed485fd1f4b200bf4e53c815",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "967d02e811528d85e507b64048ec2113746a9299ed485fd1f4b200bf4e53c815",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/33200/Hawley__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "33200",
+  "timestamp": "2026-05-25T00:07:23.568707Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Grafton,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/31150/Grafton__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ce04056ab9c28bab6d356a0d810ded3fdb55574d5653692d0f6ec41aff56b444",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ce04056ab9c28bab6d356a0d810ded3fdb55574d5653692d0f6ec41aff56b444",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/31150/Grafton__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "31150",
+  "timestamp": "2026-05-25T00:04:13.420271Z",
+  "version": 1
+}

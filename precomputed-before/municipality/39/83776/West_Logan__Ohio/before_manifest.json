@@ -1,0 +1,16 @@
+{
+  "article": "West_Logan,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/83776/West_Logan__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "94b53c0ac4fedf25b1116b4c4c528dd9f06afa039ee2282c9ae9745cc4f64154",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "94b53c0ac4fedf25b1116b4c4c528dd9f06afa039ee2282c9ae9745cc4f64154",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/83776/West_Logan__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "83776",
+  "timestamp": "2026-05-25T00:05:37.701275Z",
+  "version": 1
+}

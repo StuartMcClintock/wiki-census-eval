@@ -1,0 +1,16 @@
+{
+  "article": "Iron_Station,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/33820/Iron_Station__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5e26448dc00040a41a322e01ecf2767c30ae5a9f4a5b156a19a713a17dc9ded8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5e26448dc00040a41a322e01ecf2767c30ae5a9f4a5b156a19a713a17dc9ded8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/33820/Iron_Station__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "33820",
+  "timestamp": "2026-05-25T00:02:04.799053Z",
+  "version": 1
+}

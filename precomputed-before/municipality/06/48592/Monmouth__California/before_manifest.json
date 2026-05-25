@@ -1,0 +1,16 @@
+{
+  "article": "Monmouth,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/48592/Monmouth__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ed21df333ba2b085732c2718c5293f0f450a25aa431fa7c37a37ba9b06e22314",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ed21df333ba2b085732c2718c5293f0f450a25aa431fa7c37a37ba9b06e22314",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/48592/Monmouth__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "48592",
+  "timestamp": "2026-05-24T23:34:40.160547Z",
+  "version": 1
+}

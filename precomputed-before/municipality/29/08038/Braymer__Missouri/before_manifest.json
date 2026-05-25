@@ -1,0 +1,16 @@
+{
+  "article": "Braymer,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/08038/Braymer__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0bf69a603847d4a524552e027fa21580d0c8e46e5e75f660f5399b5dfd69ccf7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0bf69a603847d4a524552e027fa21580d0c8e46e5e75f660f5399b5dfd69ccf7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/08038/Braymer__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "08038",
+  "timestamp": "2026-05-24T23:50:49.598547Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Lund,_Nevada",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/32/43400/Lund__Nevada/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c3de133e606eaf4dceb73bb45586c6e6949151849a0a22a605c63f3bd7eae719",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c3de133e606eaf4dceb73bb45586c6e6949151849a0a22a605c63f3bd7eae719",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/32/43400/Lund__Nevada/manifest.json",
+  "state_fips": "32",
+  "status": "match",
+  "target_fips": "43400",
+  "timestamp": "2026-05-24T23:57:31.306547Z",
+  "version": 1
+}

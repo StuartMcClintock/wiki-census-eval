@@ -1,0 +1,16 @@
+{
+  "article": "Greenwood_Colony,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/26150/Greenwood_Colony__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a8c5df3a069b4412239b205b4b1f9f5d69e74ed80995627343ba904cf3292281",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a8c5df3a069b4412239b205b4b1f9f5d69e74ed80995627343ba904cf3292281",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/26150/Greenwood_Colony__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "26150",
+  "timestamp": "2026-05-25T00:10:40.588520Z",
+  "version": 1
+}

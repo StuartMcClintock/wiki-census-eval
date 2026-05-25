@@ -1,0 +1,16 @@
+{
+  "article": "Drakes_Branch,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/23376/Drakes_Branch__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4dd9c275f093ca15f5e037913bda607cc8d3328d512d81f41d36f61c79736e6f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4dd9c275f093ca15f5e037913bda607cc8d3328d512d81f41d36f61c79736e6f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/23376/Drakes_Branch__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "23376",
+  "timestamp": "2026-05-25T00:19:09.675618Z",
+  "version": 1
+}

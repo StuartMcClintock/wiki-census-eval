@@ -1,0 +1,16 @@
+{
+  "article": "Katonah,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/38946/Katonah__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7ce302752c5f37c1c8e209d57ace48fd3f98fdd738d1a8d7e78ed3d3625abcf3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7ce302752c5f37c1c8e209d57ace48fd3f98fdd738d1a8d7e78ed3d3625abcf3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/38946/Katonah__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "38946",
+  "timestamp": "2026-05-25T00:00:50.028333Z",
+  "version": 1
+}

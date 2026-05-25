@@ -1,0 +1,16 @@
+{
+  "article": "Copper_Mountain,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/17150/Copper_Mountain__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "72847cff7de6a7ba718422ed99f0439b5ddf78e677d21c7c1d3b911f1213608e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "72847cff7de6a7ba718422ed99f0439b5ddf78e677d21c7c1d3b911f1213608e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/17150/Copper_Mountain__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "17150",
+  "timestamp": "2026-05-24T23:35:22.527740Z",
+  "version": 1
+}

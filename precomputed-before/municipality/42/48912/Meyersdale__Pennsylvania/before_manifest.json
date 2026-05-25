@@ -1,0 +1,16 @@
+{
+  "article": "Meyersdale,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/48912/Meyersdale__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "58a2aefa3c608502764f4dcd48b9953a0c38e7cdba2c78f9ef69146cf7b1524a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "58a2aefa3c608502764f4dcd48b9953a0c38e7cdba2c78f9ef69146cf7b1524a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/48912/Meyersdale__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "48912",
+  "timestamp": "2026-05-25T00:08:04.599151Z",
+  "version": 1
+}

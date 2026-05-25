@@ -1,0 +1,16 @@
+{
+  "article": "Saltillo,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/67626/Saltillo__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "926f3d1332ba42457c3aee1e5b42a2fc40bbb5fa2d9a3ef2a6446120666fd186",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "926f3d1332ba42457c3aee1e5b42a2fc40bbb5fa2d9a3ef2a6446120666fd186",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/67626/Saltillo__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "67626",
+  "timestamp": "2026-05-24T23:40:11.481546Z",
+  "version": 1
+}

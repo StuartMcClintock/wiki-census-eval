@@ -1,0 +1,16 @@
+{
+  "article": "Delta,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/19072/Delta__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ad854d125ced18c4c27e305ec866c475387234fead137e5dabf0cfe33044ac45",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ad854d125ced18c4c27e305ec866c475387234fead137e5dabf0cfe33044ac45",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/19072/Delta__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "19072",
+  "timestamp": "2026-05-24T23:51:03.150537Z",
+  "version": 1
+}

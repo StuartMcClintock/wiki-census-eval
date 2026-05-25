@@ -1,0 +1,16 @@
+{
+  "article": "South_Philipsburg,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/72416/South_Philipsburg__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "eca94923adf681235f69d58d220a602c1e1e2caa6cd48c532ca4463e6a4d4b2b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "eca94923adf681235f69d58d220a602c1e1e2caa6cd48c532ca4463e6a4d4b2b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/72416/South_Philipsburg__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "72416",
+  "timestamp": "2026-05-25T00:09:08.320948Z",
+  "version": 1
+}

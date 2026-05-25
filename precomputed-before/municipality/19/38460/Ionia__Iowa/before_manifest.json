@@ -1,0 +1,16 @@
+{
+  "article": "Ionia,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/38460/Ionia__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cd703b5c6bd2c74b865a03d630e7257befdcb0f1a86142804807270e4cd321ac",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cd703b5c6bd2c74b865a03d630e7257befdcb0f1a86142804807270e4cd321ac",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/38460/Ionia__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "38460",
+  "timestamp": "2026-05-24T23:41:13.040262Z",
+  "version": 1
+}

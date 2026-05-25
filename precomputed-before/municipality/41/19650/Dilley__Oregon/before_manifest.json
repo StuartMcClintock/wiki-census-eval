@@ -1,0 +1,16 @@
+{
+  "article": "Dilley,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/19650/Dilley__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "81e7e51e68ac741e6d957c78ecc2f5444b30a23a29e3f04d6287d1e03d2e7f2f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "81e7e51e68ac741e6d957c78ecc2f5444b30a23a29e3f04d6287d1e03d2e7f2f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/19650/Dilley__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "19650",
+  "timestamp": "2026-05-25T00:05:46.804905Z",
+  "version": 1
+}

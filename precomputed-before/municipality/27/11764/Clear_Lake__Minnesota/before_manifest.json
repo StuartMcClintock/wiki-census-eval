@@ -1,0 +1,16 @@
+{
+  "article": "Clear_Lake,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/11764/Clear_Lake__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9315b8cab3b002d29274be59e19cd218d08e1fbf3ca9ece900ef7e1928870376",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9315b8cab3b002d29274be59e19cd218d08e1fbf3ca9ece900ef7e1928870376",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/11764/Clear_Lake__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "11764",
+  "timestamp": "2026-05-24T23:48:45.462238Z",
+  "version": 1
+}

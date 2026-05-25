@@ -1,0 +1,16 @@
+{
+  "article": "Shumway,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/69797/Shumway__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "63b7e880188845b6b5db7d9827e2c90fbf642b490ee0ae337a1b7d88efb203ac",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "63b7e880188845b6b5db7d9827e2c90fbf642b490ee0ae337a1b7d88efb203ac",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/69797/Shumway__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "69797",
+  "timestamp": "2026-05-24T23:39:11.396094Z",
+  "version": 1
+}

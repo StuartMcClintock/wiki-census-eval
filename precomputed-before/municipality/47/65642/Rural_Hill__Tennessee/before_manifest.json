@@ -1,0 +1,16 @@
+{
+  "article": "Rural_Hill,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/65642/Rural_Hill__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b5304df501462777e61d056a75bdd9ad85b7ff93452088abd22e8757755f600f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b5304df501462777e61d056a75bdd9ad85b7ff93452088abd22e8757755f600f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/65642/Rural_Hill__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "65642",
+  "timestamp": "2026-05-25T00:14:52.664924Z",
+  "version": 1
+}

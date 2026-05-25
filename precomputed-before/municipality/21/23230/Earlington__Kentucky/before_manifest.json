@@ -1,0 +1,16 @@
+{
+  "article": "Earlington,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/23230/Earlington__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d5ffd03ba0b3e80e4a02cdf2490f929c5a18300b54882f941a9baf0a6e885e1d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d5ffd03ba0b3e80e4a02cdf2490f929c5a18300b54882f941a9baf0a6e885e1d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/23230/Earlington__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "23230",
+  "timestamp": "2026-05-24T23:44:01.034058Z",
+  "version": 1
+}

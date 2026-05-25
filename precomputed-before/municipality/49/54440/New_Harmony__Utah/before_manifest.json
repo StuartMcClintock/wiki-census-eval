@@ -1,0 +1,16 @@
+{
+  "article": "New_Harmony,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/54440/New_Harmony__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "66c6ae8ba430bb2d15e37fce5ba99432d87aa59d9984d243d893a6deab9e6848",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "66c6ae8ba430bb2d15e37fce5ba99432d87aa59d9984d243d893a6deab9e6848",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/54440/New_Harmony__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "54440",
+  "timestamp": "2026-05-25T00:17:06.585845Z",
+  "version": 1
+}

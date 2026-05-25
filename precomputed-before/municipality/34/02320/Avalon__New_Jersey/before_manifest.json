@@ -1,0 +1,16 @@
+{
+  "article": "Avalon,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/02320/Avalon__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "78b3aca29d47d54179abb46cf7a9bd83cb9e836339975eac86f399b3012f3e6c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "78b3aca29d47d54179abb46cf7a9bd83cb9e836339975eac86f399b3012f3e6c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/02320/Avalon__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "02320",
+  "timestamp": "2026-05-24T23:57:39.558748Z",
+  "version": 1
+}

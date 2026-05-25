@@ -1,0 +1,16 @@
+{
+  "article": "Belspring,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/06424/Belspring__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "60417e341a0b6aacf52b5c1264a4fa5575ba4588f9455ff6f28a1b7ff8320210",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "60417e341a0b6aacf52b5c1264a4fa5575ba4588f9455ff6f28a1b7ff8320210",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/06424/Belspring__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "06424",
+  "timestamp": "2026-05-25T00:17:34.969449Z",
+  "version": 1
+}

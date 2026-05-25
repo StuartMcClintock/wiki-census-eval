@@ -1,0 +1,16 @@
+{
+  "article": "Scranton,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/71500/Scranton__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d1399d55299fdfba951b252957de70580dd100c8a6a185627c113f98f65a2ac0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d1399d55299fdfba951b252957de70580dd100c8a6a185627c113f98f65a2ac0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/71500/Scranton__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "71500",
+  "timestamp": "2026-05-25T00:03:21.261918Z",
+  "version": 1
+}

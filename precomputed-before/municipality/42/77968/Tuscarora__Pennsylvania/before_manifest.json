@@ -1,0 +1,16 @@
+{
+  "article": "Tuscarora,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/77968/Tuscarora__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6564a2a9f47e6c7bf0fcf75cedf7dd9364ae43cfc72407f56a95b9fb89de6784",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6564a2a9f47e6c7bf0fcf75cedf7dd9364ae43cfc72407f56a95b9fb89de6784",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/77968/Tuscarora__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "77968",
+  "timestamp": "2026-05-25T00:09:20.026675Z",
+  "version": 1
+}

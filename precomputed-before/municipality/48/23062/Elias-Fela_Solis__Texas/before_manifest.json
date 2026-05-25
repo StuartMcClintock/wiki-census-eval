@@ -1,0 +1,16 @@
+{
+  "article": "Elias-Fela_Solis,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/23062/Elias-Fela_Solis__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "11f06ad5be3e1f47c56e0d5c5aee3e786ffbfeca585f60525bcf862b3a5ec6d1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "11f06ad5be3e1f47c56e0d5c5aee3e786ffbfeca585f60525bcf862b3a5ec6d1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/23062/Elias-Fela_Solis__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "23062",
+  "timestamp": "2026-05-25T00:15:32.109417Z",
+  "version": 1
+}

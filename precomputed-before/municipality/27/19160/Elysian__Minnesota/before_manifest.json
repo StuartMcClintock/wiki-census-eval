@@ -1,0 +1,16 @@
+{
+  "article": "Elysian,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/19160/Elysian__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "03e7ecfca45975de807838c471c5866cf4db9a2d27ceb363e4d1de09df752895",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "03e7ecfca45975de807838c471c5866cf4db9a2d27ceb363e4d1de09df752895",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/19160/Elysian__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "19160",
+  "timestamp": "2026-05-24T23:48:53.008963Z",
+  "version": 1
+}

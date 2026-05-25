@@ -1,0 +1,16 @@
+{
+  "article": "Lake_Tomahawk,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/41597/Lake_Tomahawk__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c4759fa6f8015a76e5e0cf369fe047feec8260d7c059c233d35e8b505c70328e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c4759fa6f8015a76e5e0cf369fe047feec8260d7c059c233d35e8b505c70328e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/41597/Lake_Tomahawk__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "41597",
+  "timestamp": "2026-05-25T00:04:36.127031Z",
+  "version": 1
+}

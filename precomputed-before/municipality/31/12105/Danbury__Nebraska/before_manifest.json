@@ -1,0 +1,16 @@
+{
+  "article": "Danbury,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/12105/Danbury__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cc4cd0c77f2d8477e5ad7315aa5e9223bc727d6d16aeddf74fc5613fda76ddb4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cc4cd0c77f2d8477e5ad7315aa5e9223bc727d6d16aeddf74fc5613fda76ddb4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/12105/Danbury__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "12105",
+  "timestamp": "2026-05-24T23:55:21.348369Z",
+  "version": 1
+}

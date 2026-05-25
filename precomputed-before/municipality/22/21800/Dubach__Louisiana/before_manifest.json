@@ -1,0 +1,16 @@
+{
+  "article": "Dubach,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/21800/Dubach__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9a5211c0524431a8577be52980e299f5a94464e0767f5a8d40885627d94daa00",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9a5211c0524431a8577be52980e299f5a94464e0767f5a8d40885627d94daa00",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/21800/Dubach__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "21800",
+  "timestamp": "2026-05-24T23:44:45.724534Z",
+  "version": 1
+}

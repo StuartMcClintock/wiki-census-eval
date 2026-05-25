@@ -1,0 +1,16 @@
+{
+  "article": "Burlington,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/10240/Burlington__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ec2ecf543d150362224aa8b5deedc5c3284f77bd2df7a9f59bef106877df7d5c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ec2ecf543d150362224aa8b5deedc5c3284f77bd2df7a9f59bef106877df7d5c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/10240/Burlington__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "10240",
+  "timestamp": "2026-05-25T00:06:23.565034Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Raiford,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/59400/Raiford__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "84d95e0cd0f76e0fa49a6c636839d4a84310d7a7cd4e08b23193bee0e0fedde5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "84d95e0cd0f76e0fa49a6c636839d4a84310d7a7cd4e08b23193bee0e0fedde5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/59400/Raiford__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "59400",
+  "timestamp": "2026-05-24T23:36:21.615548Z",
+  "version": 1
+}

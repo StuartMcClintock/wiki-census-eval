@@ -1,0 +1,16 @@
+{
+  "article": "Jerome,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/35170/Jerome__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "12b009674f1ba9d89c9ec09636186eeb9cc659ffcc4f3dd16e84f2f37f8c3db5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "12b009674f1ba9d89c9ec09636186eeb9cc659ffcc4f3dd16e84f2f37f8c3db5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/35170/Jerome__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "35170",
+  "timestamp": "2026-05-24T23:33:48.396728Z",
+  "version": 1
+}

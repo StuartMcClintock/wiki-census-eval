@@ -1,0 +1,16 @@
+{
+  "article": "Raleigh,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/62588/Raleigh__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a763c9221d94ec93ca3bb22744688a0b1731ae888f9fe407b3136f8ef0153bcf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a763c9221d94ec93ca3bb22744688a0b1731ae888f9fe407b3136f8ef0153bcf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/62588/Raleigh__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "62588",
+  "timestamp": "2026-05-24T23:39:04.118662Z",
+  "version": 1
+}

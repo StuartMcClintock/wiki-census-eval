@@ -1,0 +1,16 @@
+{
+  "article": "Boone,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/07795/Boone__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8a18532b03ba5ac5705399aa3cfa0da469fd045615c241048859b29b4f3d73ee",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8a18532b03ba5ac5705399aa3cfa0da469fd045615c241048859b29b4f3d73ee",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/07795/Boone__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "07795",
+  "timestamp": "2026-05-24T23:35:19.644222Z",
+  "version": 1
+}

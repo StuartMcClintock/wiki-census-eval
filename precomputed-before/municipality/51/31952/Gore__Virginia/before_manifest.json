@@ -1,0 +1,16 @@
+{
+  "article": "Gore,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/31952/Gore__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1cec406b51c6ad0f30037e8a0c94b90ee9d38676a410f14cde1c03a48b14f234",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1cec406b51c6ad0f30037e8a0c94b90ee9d38676a410f14cde1c03a48b14f234",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/31952/Gore__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "31952",
+  "timestamp": "2026-05-25T00:19:15.278069Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Nemaha,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/55515/Nemaha__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e663213cac8bbd52928078c6ee8e2d6311d81c85b0f31e9c9ad60308ac2e4e45",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e663213cac8bbd52928078c6ee8e2d6311d81c85b0f31e9c9ad60308ac2e4e45",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/55515/Nemaha__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "55515",
+  "timestamp": "2026-05-24T23:41:31.412049Z",
+  "version": 1
+}

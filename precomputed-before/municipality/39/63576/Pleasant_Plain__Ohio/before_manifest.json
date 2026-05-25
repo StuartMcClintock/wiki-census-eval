@@ -1,0 +1,16 @@
+{
+  "article": "Pleasant_Plain,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/63576/Pleasant_Plain__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "24a68aa279768c04021b01bb51961ba68217369f12f955d066ebbbdf555dd3b6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "24a68aa279768c04021b01bb51961ba68217369f12f955d066ebbbdf555dd3b6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/63576/Pleasant_Plain__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "63576",
+  "timestamp": "2026-05-25T00:05:06.903770Z",
+  "version": 1
+}

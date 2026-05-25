@@ -1,0 +1,16 @@
+{
+  "article": "Perkinsville,_Vermont",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/50/54850/Perkinsville__Vermont/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "781b44770570abb3e1c1c9954307cc38850bca4a58adab88ac40644e067d56a4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "781b44770570abb3e1c1c9954307cc38850bca4a58adab88ac40644e067d56a4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/50/54850/Perkinsville__Vermont/manifest.json",
+  "state_fips": "50",
+  "status": "match",
+  "target_fips": "54850",
+  "timestamp": "2026-05-25T00:17:17.629980Z",
+  "version": 1
+}

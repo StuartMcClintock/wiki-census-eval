@@ -1,0 +1,16 @@
+{
+  "article": "Lake_Petersburg,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/41404/Lake_Petersburg__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7e7bcce3bd2b092104555aead2d0a99962acdaf9dc335f8a1c9b3f4dd28e7fcc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7e7bcce3bd2b092104555aead2d0a99962acdaf9dc335f8a1c9b3f4dd28e7fcc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/41404/Lake_Petersburg__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "41404",
+  "timestamp": "2026-05-24T23:38:27.250588Z",
+  "version": 1
+}

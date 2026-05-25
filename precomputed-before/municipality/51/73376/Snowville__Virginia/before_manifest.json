@@ -1,0 +1,16 @@
+{
+  "article": "Snowville,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/73376/Snowville__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "139d668f76d82ba7e14d9c0239b0e4c28dfe691c67e6c3d23d98f83e75d872e9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "139d668f76d82ba7e14d9c0239b0e4c28dfe691c67e6c3d23d98f83e75d872e9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/73376/Snowville__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "73376",
+  "timestamp": "2026-05-25T00:19:38.573774Z",
+  "version": 1
+}

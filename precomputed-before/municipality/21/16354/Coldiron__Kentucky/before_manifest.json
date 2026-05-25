@@ -1,0 +1,16 @@
+{
+  "article": "Coldiron,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/16354/Coldiron__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ed30bc3eb2aafa7fff83092fd3a5de6255794e94adb4d3feee5cc59e0233ca52",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ed30bc3eb2aafa7fff83092fd3a5de6255794e94adb4d3feee5cc59e0233ca52",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/16354/Coldiron__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "16354",
+  "timestamp": "2026-05-24T23:43:48.479764Z",
+  "version": 1
+}

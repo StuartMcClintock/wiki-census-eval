@@ -1,0 +1,16 @@
+{
+  "article": "North_Lynbrook,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/53231/North_Lynbrook__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "54e2897c21fa019715c2fe6b93c618f35e46f2b8afcc6e59a8f2d577168f05fc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "54e2897c21fa019715c2fe6b93c618f35e46f2b8afcc6e59a8f2d577168f05fc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/53231/North_Lynbrook__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "53231",
+  "timestamp": "2026-05-25T00:00:58.348047Z",
+  "version": 1
+}

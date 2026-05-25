@@ -1,0 +1,16 @@
+{
+  "article": "Northwest_Ithaca,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/53853/Northwest_Ithaca__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "25cc25406251d60c230e338b0cccc1a6b32822c12062bc6a76d83dc94f9997f1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "25cc25406251d60c230e338b0cccc1a6b32822c12062bc6a76d83dc94f9997f1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/53853/Northwest_Ithaca__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "53853",
+  "timestamp": "2026-05-25T00:00:58.931240Z",
+  "version": 1
+}

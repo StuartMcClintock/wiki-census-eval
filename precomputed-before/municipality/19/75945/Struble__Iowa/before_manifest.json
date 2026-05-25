@@ -1,0 +1,16 @@
+{
+  "article": "Struble,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/75945/Struble__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "31041315fb792c6f9ec6e6f2776d567e2423e54fbf002d881220d1173283821c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "31041315fb792c6f9ec6e6f2776d567e2423e54fbf002d881220d1173283821c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/75945/Struble__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "75945",
+  "timestamp": "2026-05-24T23:42:03.826581Z",
+  "version": 1
+}

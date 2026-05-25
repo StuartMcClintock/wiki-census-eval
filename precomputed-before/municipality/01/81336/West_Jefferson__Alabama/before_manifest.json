@@ -1,0 +1,16 @@
+{
+  "article": "West_Jefferson,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/81336/West_Jefferson__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ec94fbd5f6c3ce916818012d6ebcaba05538b81243bf30685b5ba903df640948",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ec94fbd5f6c3ce916818012d6ebcaba05538b81243bf30685b5ba903df640948",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/81336/West_Jefferson__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "81336",
+  "timestamp": "2026-05-24T23:32:16.283799Z",
+  "version": 1
+}

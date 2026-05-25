@@ -1,0 +1,16 @@
+{
+  "article": "Brooklyn_Heights,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/09274/Brooklyn_Heights__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9d25eac1cd05b98481f565e83ff7b3067755b8696f4558a1c73adebbc45b08c1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9d25eac1cd05b98481f565e83ff7b3067755b8696f4558a1c73adebbc45b08c1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/09274/Brooklyn_Heights__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "09274",
+  "timestamp": "2026-05-25T00:03:38.668573Z",
+  "version": 1
+}

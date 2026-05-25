@@ -1,0 +1,16 @@
+{
+  "article": "Narrowsburg,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/49473/Narrowsburg__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5c015d20480f91bc4b38f731aef8c937ae289b37aaff50ae68a015407122b00d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5c015d20480f91bc4b38f731aef8c937ae289b37aaff50ae68a015407122b00d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/49473/Narrowsburg__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "49473",
+  "timestamp": "2026-05-25T00:00:56.494396Z",
+  "version": 1
+}

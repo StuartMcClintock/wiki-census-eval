@@ -1,0 +1,16 @@
+{
+  "article": "Jane_Lew,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/40828/Jane_Lew__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "13cfbc505e00981fbb59d3e9f2fcd02abf55c348a6cf80756a6cb6d28a0ff26f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "13cfbc505e00981fbb59d3e9f2fcd02abf55c348a6cf80756a6cb6d28a0ff26f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/40828/Jane_Lew__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "40828",
+  "timestamp": "2026-05-25T00:21:13.306400Z",
+  "version": 1
+}

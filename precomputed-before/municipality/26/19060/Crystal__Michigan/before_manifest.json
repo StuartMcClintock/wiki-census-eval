@@ -1,0 +1,16 @@
+{
+  "article": "Crystal,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/19060/Crystal__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "49b5bc357780ae3554b7a4bb3b798e5ddf6fc0e9ae4b7dd79546b9f5519d5fb7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "49b5bc357780ae3554b7a4bb3b798e5ddf6fc0e9ae4b7dd79546b9f5519d5fb7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/19060/Crystal__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "19060",
+  "timestamp": "2026-05-24T23:47:50.629612Z",
+  "version": 1
+}

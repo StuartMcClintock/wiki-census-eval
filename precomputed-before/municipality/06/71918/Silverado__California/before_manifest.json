@@ -1,0 +1,16 @@
+{
+  "article": "Silverado,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/71918/Silverado__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dd18e268e1e3b01b4c59fcf1c07b274c869231c58f0514ff0b3524a51f3ee22e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dd18e268e1e3b01b4c59fcf1c07b274c869231c58f0514ff0b3524a51f3ee22e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/71918/Silverado__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "71918",
+  "timestamp": "2026-05-24T23:35:05.769124Z",
+  "version": 1
+}

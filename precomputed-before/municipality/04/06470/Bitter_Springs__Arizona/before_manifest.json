@@ -1,0 +1,16 @@
+{
+  "article": "Bitter_Springs,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/06470/Bitter_Springs__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b3b8ffcc120cbf4189c7b767d2ed3c36377842a04f2f09ef025330ad7fddc7fa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b3b8ffcc120cbf4189c7b767d2ed3c36377842a04f2f09ef025330ad7fddc7fa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/06470/Bitter_Springs__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "06470",
+  "timestamp": "2026-05-24T23:32:48.558542Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Nicasio,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/51280/Nicasio__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9229451127f4ae71871c0e5c61cfbe1f74eee4cd982722f02cab20e80e09ecf8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9229451127f4ae71871c0e5c61cfbe1f74eee4cd982722f02cab20e80e09ecf8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/51280/Nicasio__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "51280",
+  "timestamp": "2026-05-24T23:34:42.609036Z",
+  "version": 1
+}

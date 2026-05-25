@@ -1,0 +1,16 @@
+{
+  "article": "Boswell,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/07712/Boswell__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d84aa14a0d92e6243a58e1aead96a105ab60f21565bc29f5fb387c8430158816",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d84aa14a0d92e6243a58e1aead96a105ab60f21565bc29f5fb387c8430158816",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/07712/Boswell__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "07712",
+  "timestamp": "2026-05-25T00:06:19.579323Z",
+  "version": 1
+}

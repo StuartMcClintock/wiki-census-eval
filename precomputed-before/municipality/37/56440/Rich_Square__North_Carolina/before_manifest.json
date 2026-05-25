@@ -1,0 +1,16 @@
+{
+  "article": "Rich_Square,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/56440/Rich_Square__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7a10e22c1363f341d6c49a2144f1196149ca3a86a024abf24ba70773af1e9887",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7a10e22c1363f341d6c49a2144f1196149ca3a86a024abf24ba70773af1e9887",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/56440/Rich_Square__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "56440",
+  "timestamp": "2026-05-25T00:02:18.556886Z",
+  "version": 1
+}

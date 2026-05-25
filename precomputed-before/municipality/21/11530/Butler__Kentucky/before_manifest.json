@@ -1,0 +1,16 @@
+{
+  "article": "Butler,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/11530/Butler__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8dde6ce295daf588ccebadee8dfc794f1cf4fb6ab3f86731b349af929c65a8a6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8dde6ce295daf588ccebadee8dfc794f1cf4fb6ab3f86731b349af929c65a8a6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/11530/Butler__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "11530",
+  "timestamp": "2026-05-24T23:43:46.069189Z",
+  "version": 1
+}

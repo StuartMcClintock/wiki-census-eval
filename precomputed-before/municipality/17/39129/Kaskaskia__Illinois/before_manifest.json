@@ -1,0 +1,16 @@
+{
+  "article": "Kaskaskia,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/39129/Kaskaskia__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "253feabf93139a0b1127d83d9dda1a21ff9a58d62fdfbb42fcaca0d4736aaf2c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "253feabf93139a0b1127d83d9dda1a21ff9a58d62fdfbb42fcaca0d4736aaf2c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/39129/Kaskaskia__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "39129",
+  "timestamp": "2026-05-24T23:38:25.335971Z",
+  "version": 1
+}

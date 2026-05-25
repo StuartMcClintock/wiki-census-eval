@@ -1,0 +1,16 @@
+{
+  "article": "Jackson,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/34000/Jackson__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "55ded9e3073a1a967f55a67396e7e193f6dbafce41aaec8e1e3bb983778f0715",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "55ded9e3073a1a967f55a67396e7e193f6dbafce41aaec8e1e3bb983778f0715",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/34000/Jackson__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "34000",
+  "timestamp": "2026-05-25T00:02:05.155018Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Muldraugh,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/54480/Muldraugh__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d26c51279b71873e6175fb5de991229e75c44f12ba054e0bebb3dcd9f1aaa6cd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d26c51279b71873e6175fb5de991229e75c44f12ba054e0bebb3dcd9f1aaa6cd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/54480/Muldraugh__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "54480",
+  "timestamp": "2026-05-24T23:44:13.631415Z",
+  "version": 1
+}

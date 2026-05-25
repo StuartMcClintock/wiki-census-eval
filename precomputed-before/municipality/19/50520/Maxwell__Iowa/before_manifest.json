@@ -1,0 +1,16 @@
+{
+  "article": "Maxwell,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/50520/Maxwell__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3a82358bae137c13b643bff4d4a35d24ebc1e739d793d76520183b8b847d3b42",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3a82358bae137c13b643bff4d4a35d24ebc1e739d793d76520183b8b847d3b42",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/50520/Maxwell__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "50520",
+  "timestamp": "2026-05-24T23:41:26.411325Z",
+  "version": 1
+}

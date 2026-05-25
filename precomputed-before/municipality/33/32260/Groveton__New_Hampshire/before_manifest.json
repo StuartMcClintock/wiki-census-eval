@@ -1,0 +1,16 @@
+{
+  "article": "Groveton,_New_Hampshire",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/33/32260/Groveton__New_Hampshire/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a4acf1b7e1ab7262e0d05318c4ef4eaee7c8a62a66c63c722c24fd4e419c164b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a4acf1b7e1ab7262e0d05318c4ef4eaee7c8a62a66c63c722c24fd4e419c164b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/33/32260/Groveton__New_Hampshire/manifest.json",
+  "state_fips": "33",
+  "status": "match",
+  "target_fips": "32260",
+  "timestamp": "2026-05-24T23:57:36.161846Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Woodland_Hills,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/53575/Woodland_Hills__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2c891a9fd237cd44f85d2eb04f2e59051fb0f8b8411c7ddd77bf95570a03fe11",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2c891a9fd237cd44f85d2eb04f2e59051fb0f8b8411c7ddd77bf95570a03fe11",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/53575/Woodland_Hills__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "53575",
+  "timestamp": "2026-05-24T23:57:26.329862Z",
+  "version": 1
+}

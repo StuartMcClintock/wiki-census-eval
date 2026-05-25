@@ -1,0 +1,72 @@
+==Demographics==
+{{US Census population
+|2010= 122
+|2020= 124
+|footnote=1980-2000<ref name=2000CensusGA>{{Cite web|first= |last= |authorlink=   |title= 2000 Census of Population - General Population Characteristics - Georgia  |website=[[US Census Bureau]]|date= 2000|url=https://www2.census.gov/library/publications/2003/dec/phc-3-12.pdf |accessdate=|archive-url=| archive-date=}}</ref><br> 2010<ref name=2010CensusP2/> 2020<ref name=2020CensusP2/>
+}}
+
+Mendes was first listed as a [[census designated place]] in the [[2010 U.S. census]].<ref name=2010CensusP2/><ref name=2000CensusGA/>
+
+{| class="wikitable" style="text-align:center;"
+|+'''Mendes, Georgia – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2 Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Mendes CDP, Georgia |url=https://data.census.gov/table?q=p2&g=160XX00US1350820&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]]}}</ref>
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web|title=P2 Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Mendes CDP, Georgia|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US1350820&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]]}}</ref>
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|119
+|style='background: #ffffe6; |115
+|97.54%
+|style='background: #ffffe6; |92.74%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|0
+|style='background: #ffffe6; |7
+|0.00%
+|style='background: #ffffe6; |5.65%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|0
+|style='background: #ffffe6; |1
+|0.00%
+|style='background: #ffffe6; |0.81%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Race and ethnicity in the United States census|Some Other Race]] alone (NH)
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Multiracial Americans|Mixed Race or Multi-Racial]] (NH)
+|1
+|style='background: #ffffe6; |1
+|0.82%
+|style='background: #ffffe6; |0.81%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|2
+|style='background: #ffffe6; |0
+|1.64%
+|style='background: #ffffe6; |0.00%
+|-
+|'''Total'''
+|'''122'''
+|style='background: #ffffe6; |'''124'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+

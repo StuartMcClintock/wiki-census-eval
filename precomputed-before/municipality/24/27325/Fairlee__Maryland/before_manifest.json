@@ -1,0 +1,16 @@
+{
+  "article": "Fairlee,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/27325/Fairlee__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1e7328d3926c042ef021be5263cd0c76ee456f588a15c2aeca0a3e8104a6f879",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1e7328d3926c042ef021be5263cd0c76ee456f588a15c2aeca0a3e8104a6f879",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/27325/Fairlee__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "27325",
+  "timestamp": "2026-05-24T23:47:20.919487Z",
+  "version": 1
+}

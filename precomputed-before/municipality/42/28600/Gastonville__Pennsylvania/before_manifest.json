@@ -1,0 +1,16 @@
+{
+  "article": "Gastonville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/28600/Gastonville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8673350c396e73a7a5ff825f92a2b3e810243556756d0631850b7eeb5c8a8742",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8673350c396e73a7a5ff825f92a2b3e810243556756d0631850b7eeb5c8a8742",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/28600/Gastonville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "28600",
+  "timestamp": "2026-05-25T00:07:14.813553Z",
+  "version": 1
+}

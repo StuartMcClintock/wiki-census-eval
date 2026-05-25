@@ -1,0 +1,16 @@
+{
+  "article": "Summit,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/70315/Summit__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c24572d94a5e6e3fb8b2352e98d00f652acb2ea2f40210f952ddcaca8e1226b5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c24572d94a5e6e3fb8b2352e98d00f652acb2ea2f40210f952ddcaca8e1226b5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/70315/Summit__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "70315",
+  "timestamp": "2026-05-25T00:10:24.076639Z",
+  "version": 1
+}

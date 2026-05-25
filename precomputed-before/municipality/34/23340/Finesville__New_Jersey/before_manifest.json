@@ -1,0 +1,16 @@
+{
+  "article": "Finesville,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/23340/Finesville__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6d770b11d1f6ae7290058db3102256568b44b0c7c1339d41511eee4a8092dd38",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6d770b11d1f6ae7290058db3102256568b44b0c7c1339d41511eee4a8092dd38",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/23340/Finesville__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "23340",
+  "timestamp": "2026-05-24T23:57:47.791387Z",
+  "version": 1
+}

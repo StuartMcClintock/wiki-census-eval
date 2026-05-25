@@ -1,0 +1,16 @@
+{
+  "article": "Thornhill,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/76380/Thornhill__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6de9bc8b2eca27d348e41ad71fa793de1f20a5756490051c4a42ed86548f5006",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6de9bc8b2eca27d348e41ad71fa793de1f20a5756490051c4a42ed86548f5006",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/76380/Thornhill__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "76380",
+  "timestamp": "2026-05-24T23:44:23.417401Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Iron_Mountain_Lake,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/35450/Iron_Mountain_Lake__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ace0c4915b5534ba80586b78d57261674c167be708b4d3a54eacb36ed906c7ed",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ace0c4915b5534ba80586b78d57261674c167be708b4d3a54eacb36ed906c7ed",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/35450/Iron_Mountain_Lake__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "35450",
+  "timestamp": "2026-05-24T23:53:21.700171Z",
+  "version": 1
+}

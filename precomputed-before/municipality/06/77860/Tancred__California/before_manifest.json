@@ -1,0 +1,16 @@
+{
+  "article": "Tancred,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/77860/Tancred__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0950c441144d3badc6619da65a592898aecf6188766744314bd4f3cbf216f0be",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0950c441144d3badc6619da65a592898aecf6188766744314bd4f3cbf216f0be",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/77860/Tancred__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "77860",
+  "timestamp": "2026-05-24T23:35:08.722521Z",
+  "version": 1
+}

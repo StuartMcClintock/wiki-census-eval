@@ -1,0 +1,16 @@
+{
+  "article": "Metamora,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/53340/Metamora__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6aca318a66156d7fefc049166cbc706d96ab6aeac80aa37a954c0b0dc6cd7800",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6aca318a66156d7fefc049166cbc706d96ab6aeac80aa37a954c0b0dc6cd7800",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/53340/Metamora__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "53340",
+  "timestamp": "2026-05-24T23:48:06.533329Z",
+  "version": 1
+}

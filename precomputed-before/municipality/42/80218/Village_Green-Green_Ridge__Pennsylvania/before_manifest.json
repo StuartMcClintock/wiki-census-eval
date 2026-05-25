@@ -1,0 +1,16 @@
+{
+  "article": "Village_Green-Green_Ridge,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/80218/Village_Green-Green_Ridge__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "adf6e697096eb91e68d2094e53c48c0e2cd446da6b71f40c32b7a9497a1adfd1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "adf6e697096eb91e68d2094e53c48c0e2cd446da6b71f40c32b7a9497a1adfd1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/80218/Village_Green-Green_Ridge__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "80218",
+  "timestamp": "2026-05-25T00:09:22.552601Z",
+  "version": 1
+}

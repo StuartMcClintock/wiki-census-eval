@@ -1,0 +1,16 @@
+{
+  "article": "Minerva_Park,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/50862/Minerva_Park__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3feb2edf82081b96a06df1eb37c71c0a66c768d06062fbe1591637fe43bbdda0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3feb2edf82081b96a06df1eb37c71c0a66c768d06062fbe1591637fe43bbdda0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/50862/Minerva_Park__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "50862",
+  "timestamp": "2026-05-25T00:04:47.538972Z",
+  "version": 1
+}

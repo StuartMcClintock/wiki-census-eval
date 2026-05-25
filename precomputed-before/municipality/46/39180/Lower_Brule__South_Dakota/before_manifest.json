@@ -1,0 +1,16 @@
+{
+  "article": "Lower_Brule,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/39180/Lower_Brule__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "99d85a8dc655de6d1a9a316780a9bb17dd2701c6e2881f939b06087c49c45c1f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "99d85a8dc655de6d1a9a316780a9bb17dd2701c6e2881f939b06087c49c45c1f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/39180/Lower_Brule__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "39180",
+  "timestamp": "2026-05-25T00:11:01.872153Z",
+  "version": 1
+}

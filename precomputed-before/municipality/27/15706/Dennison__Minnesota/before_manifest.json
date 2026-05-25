@@ -1,0 +1,16 @@
+{
+  "article": "Dennison,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/15706/Dennison__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5e3c7bf397ebcf0b0e66a146a34459cf1b5224c8ee56fe9d7305aa9a69a9b34c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5e3c7bf397ebcf0b0e66a146a34459cf1b5224c8ee56fe9d7305aa9a69a9b34c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/15706/Dennison__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "15706",
+  "timestamp": "2026-05-24T23:48:49.552824Z",
+  "version": 1
+}

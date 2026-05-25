@@ -1,0 +1,16 @@
+{
+  "article": "Edmund,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/23110/Edmund__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "284f357027cc9a3e12d7ae21fc8de2d34415aaf60a72f22c38a7aa2d7270e4dd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "284f357027cc9a3e12d7ae21fc8de2d34415aaf60a72f22c38a7aa2d7270e4dd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/23110/Edmund__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "23110",
+  "timestamp": "2026-05-25T00:10:01.432134Z",
+  "version": 1
+}

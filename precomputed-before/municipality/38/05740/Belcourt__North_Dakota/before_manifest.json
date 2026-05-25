@@ -1,0 +1,16 @@
+{
+  "article": "Belcourt,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/05740/Belcourt__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "91f512458dbc9bb66a5f39c3a432fcf8b9d8593617dd956fbafb4e1bc9c3b92e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "91f512458dbc9bb66a5f39c3a432fcf8b9d8593617dd956fbafb4e1bc9c3b92e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/05740/Belcourt__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "05740",
+  "timestamp": "2026-05-25T00:02:34.242302Z",
+  "version": 1
+}

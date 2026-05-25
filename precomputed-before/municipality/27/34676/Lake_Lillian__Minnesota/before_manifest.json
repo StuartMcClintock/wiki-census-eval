@@ -1,0 +1,16 @@
+{
+  "article": "Lake_Lillian,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/34676/Lake_Lillian__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2e3d4afc225a19099427438605f270421f67fcfb020f80262b1781ca3eecad43",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2e3d4afc225a19099427438605f270421f67fcfb020f80262b1781ca3eecad43",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/34676/Lake_Lillian__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "34676",
+  "timestamp": "2026-05-24T23:49:14.050359Z",
+  "version": 1
+}

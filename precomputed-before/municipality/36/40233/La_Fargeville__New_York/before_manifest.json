@@ -1,0 +1,16 @@
+{
+  "article": "La_Fargeville,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/40233/La_Fargeville__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d0d6b13f0da4cbffffa47b9b7fcfe7fe89f35d7ddf1ea65d2a7d682a90dec29d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d0d6b13f0da4cbffffa47b9b7fcfe7fe89f35d7ddf1ea65d2a7d682a90dec29d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/40233/La_Fargeville__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "40233",
+  "timestamp": "2026-05-25T00:00:50.963424Z",
+  "version": 1
+}

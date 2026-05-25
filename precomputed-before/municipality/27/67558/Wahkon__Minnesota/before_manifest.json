@@ -1,0 +1,16 @@
+{
+  "article": "Wahkon,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/67558/Wahkon__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "866867993e304c8f9a6a4f53abb9980cd1cb29f6aa281aa6660c8490c413c9cf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "866867993e304c8f9a6a4f53abb9980cd1cb29f6aa281aa6660c8490c413c9cf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/67558/Wahkon__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "67558",
+  "timestamp": "2026-05-24T23:49:51.772280Z",
+  "version": 1
+}

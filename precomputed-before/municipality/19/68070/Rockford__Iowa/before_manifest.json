@@ -1,0 +1,16 @@
+{
+  "article": "Rockford,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/68070/Rockford__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dc468c7a44c3c55edfcc02d4567359427941415515cec5404ca36af61dced06b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dc468c7a44c3c55edfcc02d4567359427941415515cec5404ca36af61dced06b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/68070/Rockford__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "68070",
+  "timestamp": "2026-05-24T23:41:43.813059Z",
+  "version": 1
+}

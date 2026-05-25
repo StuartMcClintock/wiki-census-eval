@@ -1,0 +1,16 @@
+{
+  "article": "Chase_City,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/14984/Chase_City__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "00d169325ee5099639082393e314f8d1689144e6f8c71be58b8ed1a43ab51b35",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "00d169325ee5099639082393e314f8d1689144e6f8c71be58b8ed1a43ab51b35",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/14984/Chase_City__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "14984",
+  "timestamp": "2026-05-25T00:19:05.430053Z",
+  "version": 1
+}

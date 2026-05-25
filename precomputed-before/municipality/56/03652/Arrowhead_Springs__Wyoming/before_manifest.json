@@ -1,0 +1,16 @@
+{
+  "article": "Arrowhead_Springs,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/03652/Arrowhead_Springs__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "46fbf518047fb8ab31cecae29fdd894bcff74e0b3991a194e035cc5c1875254f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "46fbf518047fb8ab31cecae29fdd894bcff74e0b3991a194e035cc5c1875254f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/03652/Arrowhead_Springs__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "03652",
+  "timestamp": "2026-05-25T00:23:07.597856Z",
+  "version": 1
+}

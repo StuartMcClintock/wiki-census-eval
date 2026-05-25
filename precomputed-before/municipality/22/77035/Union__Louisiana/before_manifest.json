@@ -1,0 +1,16 @@
+{
+  "article": "Union,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/77035/Union__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ec23d4d62e509f5b274907350fb1508732a05917467d376c1a59d8e64ac7e167",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ec23d4d62e509f5b274907350fb1508732a05917467d376c1a59d8e64ac7e167",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/77035/Union__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "77035",
+  "timestamp": "2026-05-24T23:45:11.165762Z",
+  "version": 1
+}

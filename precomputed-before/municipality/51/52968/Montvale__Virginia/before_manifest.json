@@ -1,0 +1,16 @@
+{
+  "article": "Montvale,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/52968/Montvale__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5aa5deeab9522059dd754b2572e523f98d1e08b9c9c333b29ba97a1db5cc5f68",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5aa5deeab9522059dd754b2572e523f98d1e08b9c9c333b29ba97a1db5cc5f68",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/52968/Montvale__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "52968",
+  "timestamp": "2026-05-25T00:19:27.369927Z",
+  "version": 1
+}

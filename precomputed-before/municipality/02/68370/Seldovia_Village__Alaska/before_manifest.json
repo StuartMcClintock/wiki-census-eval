@@ -1,0 +1,16 @@
+{
+  "article": "Seldovia_Village,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/68370/Seldovia_Village__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "df24ab43f6c0d9f89eb573ef948e70cfcfde056a31c613cfae1c5cc8314a5a5d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "df24ab43f6c0d9f89eb573ef948e70cfcfde056a31c613cfae1c5cc8314a5a5d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/68370/Seldovia_Village__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "68370",
+  "timestamp": "2026-05-24T23:32:43.244775Z",
+  "version": 1
+}

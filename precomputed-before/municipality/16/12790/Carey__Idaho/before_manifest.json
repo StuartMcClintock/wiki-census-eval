@@ -1,0 +1,16 @@
+{
+  "article": "Carey,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/12790/Carey__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ce341fd72d9207688b316e8a5007613bb171a77a2da3659a329e2e200038fc83",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ce341fd72d9207688b316e8a5007613bb171a77a2da3659a329e2e200038fc83",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/12790/Carey__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "12790",
+  "timestamp": "2026-05-24T23:37:17.218477Z",
+  "version": 1
+}

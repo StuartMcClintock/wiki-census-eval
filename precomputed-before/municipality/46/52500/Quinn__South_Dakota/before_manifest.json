@@ -1,0 +1,16 @@
+{
+  "article": "Quinn,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/52500/Quinn__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "26131509a2d11c1b3bbc776c996c98024e5848e5260045a5f7a21e507c14ead3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "26131509a2d11c1b3bbc776c996c98024e5848e5260045a5f7a21e507c14ead3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/52500/Quinn__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "52500",
+  "timestamp": "2026-05-25T00:11:09.878351Z",
+  "version": 1
+}

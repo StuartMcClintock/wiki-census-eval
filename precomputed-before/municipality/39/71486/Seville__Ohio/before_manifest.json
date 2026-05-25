@@ -1,0 +1,16 @@
+{
+  "article": "Seville,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/71486/Seville__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d8239e681102306b150b390371272b6179d4aa211e17436a660a1001db375abd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d8239e681102306b150b390371272b6179d4aa211e17436a660a1001db375abd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/71486/Seville__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "71486",
+  "timestamp": "2026-05-25T00:05:26.946867Z",
+  "version": 1
+}

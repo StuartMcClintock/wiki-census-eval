@@ -1,0 +1,16 @@
+{
+  "article": "Milton,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/49860/Milton__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c576b47715841505bbe935850ed31fa1759826ff9f0cec3b1b880c6118c6a2f8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c576b47715841505bbe935850ed31fa1759826ff9f0cec3b1b880c6118c6a2f8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/49860/Milton__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "49860",
+  "timestamp": "2026-05-24T23:40:02.821981Z",
+  "version": 1
+}

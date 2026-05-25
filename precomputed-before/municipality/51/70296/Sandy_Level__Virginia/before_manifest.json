@@ -1,0 +1,16 @@
+{
+  "article": "Sandy_Level,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/70296/Sandy_Level__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9960c50259ae5a121be4849351b94248b553b70bc8560b41169ba6cd59e31147",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9960c50259ae5a121be4849351b94248b553b70bc8560b41169ba6cd59e31147",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/70296/Sandy_Level__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "70296",
+  "timestamp": "2026-05-25T00:19:35.644243Z",
+  "version": 1
+}

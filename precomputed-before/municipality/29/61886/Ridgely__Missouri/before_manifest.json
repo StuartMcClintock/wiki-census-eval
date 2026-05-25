@@ -1,0 +1,16 @@
+{
+  "article": "Ridgely,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/61886/Ridgely__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "05db281b3ae12a62d56b7812ff2ba4c5ac1687f7883acab2dff051827f02b0a0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "05db281b3ae12a62d56b7812ff2ba4c5ac1687f7883acab2dff051827f02b0a0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/61886/Ridgely__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "61886",
+  "timestamp": "2026-05-24T23:53:45.601005Z",
+  "version": 1
+}

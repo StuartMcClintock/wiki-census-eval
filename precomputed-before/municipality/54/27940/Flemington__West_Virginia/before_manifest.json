@@ -1,0 +1,16 @@
+{
+  "article": "Flemington,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/27940/Flemington__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7079780c9b4cbff493223044bc51d30824d4c0f6807096a33bd7a3085d4fc251",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7079780c9b4cbff493223044bc51d30824d4c0f6807096a33bd7a3085d4fc251",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/27940/Flemington__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "27940",
+  "timestamp": "2026-05-25T00:21:06.598822Z",
+  "version": 1
+}

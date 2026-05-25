@@ -1,0 +1,16 @@
+{
+  "article": "Adelino,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/00940/Adelino__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dc9ab10b5058a408240b875ca03dbadda3ec792e3d140ba97ed182ab3f77be3c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dc9ab10b5058a408240b875ca03dbadda3ec792e3d140ba97ed182ab3f77be3c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/00940/Adelino__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "00940",
+  "timestamp": "2026-05-24T23:58:07.279544Z",
+  "version": 1
+}

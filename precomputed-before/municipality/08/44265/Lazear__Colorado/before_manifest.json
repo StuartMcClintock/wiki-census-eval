@@ -1,0 +1,16 @@
+{
+  "article": "Lazear,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/44265/Lazear__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ce8894ed23fd0dabad8e96983acd1914fcd469ab5f18743842400985725f7af3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ce8894ed23fd0dabad8e96983acd1914fcd469ab5f18743842400985725f7af3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/44265/Lazear__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "44265",
+  "timestamp": "2026-05-24T23:35:31.182222Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Keeler,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/37918/Keeler__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ca1d860da18f27c75bbc1eee0eee5e20b933850e0c077d8942a0d46e1a0eabb8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ca1d860da18f27c75bbc1eee0eee5e20b933850e0c077d8942a0d46e1a0eabb8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/37918/Keeler__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "37918",
+  "timestamp": "2026-05-24T23:34:31.192565Z",
+  "version": 1
+}

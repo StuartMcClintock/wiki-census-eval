@@ -1,0 +1,16 @@
+{
+  "article": "Bristow,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/06400/Bristow__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a0adb2257c0be091151dd4fee68fcb8bfdbc241061bc1717acca6fe689f6d385",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a0adb2257c0be091151dd4fee68fcb8bfdbc241061bc1717acca6fe689f6d385",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/06400/Bristow__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "06400",
+  "timestamp": "2026-05-24T23:55:14.097308Z",
+  "version": 1
+}

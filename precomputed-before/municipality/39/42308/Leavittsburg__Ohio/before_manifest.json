@@ -1,0 +1,16 @@
+{
+  "article": "Leavittsburg,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/42308/Leavittsburg__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b587ef083f95c15620f662da6882edeab8ed43481af24141cb64263cfac9f8bd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b587ef083f95c15620f662da6882edeab8ed43481af24141cb64263cfac9f8bd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/42308/Leavittsburg__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "42308",
+  "timestamp": "2026-05-25T00:04:37.188260Z",
+  "version": 1
+}

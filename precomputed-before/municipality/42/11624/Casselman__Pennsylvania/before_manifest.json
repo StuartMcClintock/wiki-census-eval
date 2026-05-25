@@ -1,0 +1,16 @@
+{
+  "article": "Casselman,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/11624/Casselman__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6a4a9b099732a265a4d0f18eb50077e39b6a5d953f4a33c02b21001105aea191",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6a4a9b099732a265a4d0f18eb50077e39b6a5d953f4a33c02b21001105aea191",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/11624/Casselman__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "11624",
+  "timestamp": "2026-05-25T00:06:37.560713Z",
+  "version": 1
+}

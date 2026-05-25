@@ -1,0 +1,16 @@
+{
+  "article": "Danbury,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/18650/Danbury__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "70aecae313ee984c1daa71de7abccd1ab834a044a183323aef1918d30cc13433",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "70aecae313ee984c1daa71de7abccd1ab834a044a183323aef1918d30cc13433",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/18650/Danbury__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "18650",
+  "timestamp": "2026-05-25T00:21:46.565689Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Mason,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/49900/Mason__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8e348b1ccaf75a4257884792c0cd34434bab89d83a1aa9f688f82420590a5a4b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8e348b1ccaf75a4257884792c0cd34434bab89d83a1aa9f688f82420590a5a4b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/49900/Mason__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "49900",
+  "timestamp": "2026-05-25T00:22:23.657273Z",
+  "version": 1
+}

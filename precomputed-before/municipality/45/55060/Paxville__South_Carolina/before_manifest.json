@@ -1,0 +1,16 @@
+{
+  "article": "Paxville,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/55060/Paxville__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7414b8929c0866aa0f2d81366d57a5361e062320ff8b692ee10607f8c67261d2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7414b8929c0866aa0f2d81366d57a5361e062320ff8b692ee10607f8c67261d2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/55060/Paxville__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "55060",
+  "timestamp": "2026-05-25T00:10:16.695676Z",
+  "version": 1
+}

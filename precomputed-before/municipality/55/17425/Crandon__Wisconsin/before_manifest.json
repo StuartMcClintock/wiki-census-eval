@@ -1,0 +1,16 @@
+{
+  "article": "Crandon,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/17425/Crandon__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "95d0c8b769d2659a55ad9c2807430ee0087cbbdf63f76fe157efea6df5c717af",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "95d0c8b769d2659a55ad9c2807430ee0087cbbdf63f76fe157efea6df5c717af",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/17425/Crandon__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "17425",
+  "timestamp": "2026-05-25T00:21:45.525825Z",
+  "version": 1
+}

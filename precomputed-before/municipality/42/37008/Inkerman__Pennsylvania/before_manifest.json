@@ -1,0 +1,16 @@
+{
+  "article": "Inkerman,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/37008/Inkerman__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d35c0aa1cc6df91c27d2d448428e1e37cfd9c816f6f9665c2bb68fb0726921d9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d35c0aa1cc6df91c27d2d448428e1e37cfd9c816f6f9665c2bb68fb0726921d9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/37008/Inkerman__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "37008",
+  "timestamp": "2026-05-25T00:07:30.226406Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Rancho_Grande,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/61675/Rancho_Grande__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9c57a217fd9863c2167a03d727428805598b55a825fcae3bf3a6af784d41fa5c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9c57a217fd9863c2167a03d727428805598b55a825fcae3bf3a6af784d41fa5c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/61675/Rancho_Grande__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "61675",
+  "timestamp": "2026-05-24T23:58:49.907859Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Tony,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/80225/Tony__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "31a10130b7a2988bc89092240df63c41332b6b1d07fdb9962134cba24522d51f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "31a10130b7a2988bc89092240df63c41332b6b1d07fdb9962134cba24522d51f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/80225/Tony__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "80225",
+  "timestamp": "2026-05-25T00:22:47.791226Z",
+  "version": 1
+}

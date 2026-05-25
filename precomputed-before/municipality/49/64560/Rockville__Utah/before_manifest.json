@@ -1,0 +1,16 @@
+{
+  "article": "Rockville,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/64560/Rockville__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c3fc6686950e1e9c5456938287de878b85020b234a6a74d1b9cf67481e4bd802",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c3fc6686950e1e9c5456938287de878b85020b234a6a74d1b9cf67481e4bd802",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/64560/Rockville__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "64560",
+  "timestamp": "2026-05-25T00:17:08.639024Z",
+  "version": 1
+}

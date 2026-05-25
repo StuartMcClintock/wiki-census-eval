@@ -1,0 +1,16 @@
+{
+  "article": "Ethelsville,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/24472/Ethelsville__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "09b48659ccbae7de039f9671ec46275b320f8269103e87d127a43f5c08cdd22e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "09b48659ccbae7de039f9671ec46275b320f8269103e87d127a43f5c08cdd22e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/24472/Ethelsville__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "24472",
+  "timestamp": "2026-05-24T23:31:54.943751Z",
+  "version": 1
+}

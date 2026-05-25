@@ -1,0 +1,16 @@
+{
+  "article": "Enemy_Swim,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/19556/Enemy_Swim__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cba1211918b1e3366819406387b1c27a9e2d7eb0b08e04570adfc1834d276284",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cba1211918b1e3366819406387b1c27a9e2d7eb0b08e04570adfc1834d276284",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/19556/Enemy_Swim__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "19556",
+  "timestamp": "2026-05-25T00:10:37.221822Z",
+  "version": 1
+}

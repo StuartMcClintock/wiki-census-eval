@@ -1,0 +1,16 @@
+{
+  "article": "Crab_Orchard,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/18508/Crab_Orchard__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3b3f5bb1cf064b96d47cbebf2ff1e84ba8f1ff0d57e8a76e264a8659f9a58c6b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3b3f5bb1cf064b96d47cbebf2ff1e84ba8f1ff0d57e8a76e264a8659f9a58c6b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/18508/Crab_Orchard__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "18508",
+  "timestamp": "2026-05-25T00:21:02.462461Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Houserville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/35888/Houserville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "275cb74f608c4becd65025a96f3598fba08ff19efc6baa5aa2ad3c2bc79d1b9b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "275cb74f608c4becd65025a96f3598fba08ff19efc6baa5aa2ad3c2bc79d1b9b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/35888/Houserville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "35888",
+  "timestamp": "2026-05-25T00:07:27.906461Z",
+  "version": 1
+}

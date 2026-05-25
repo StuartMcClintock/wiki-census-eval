@@ -1,0 +1,16 @@
+{
+  "article": "Chatham,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/15000/Chatham__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8cb162bef5108b12b16f42d2398b28548321dbd822783eed972981518ec7db6b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8cb162bef5108b12b16f42d2398b28548321dbd822783eed972981518ec7db6b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/15000/Chatham__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "15000",
+  "timestamp": "2026-05-25T00:19:05.708378Z",
+  "version": 1
+}

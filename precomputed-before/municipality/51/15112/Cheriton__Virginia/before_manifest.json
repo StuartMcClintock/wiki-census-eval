@@ -1,0 +1,16 @@
+{
+  "article": "Cheriton,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/15112/Cheriton__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6f4b25096792e9320a3577f86c8ed8912035bccdc974ff287fb8f617e4c6a2b9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6f4b25096792e9320a3577f86c8ed8912035bccdc974ff287fb8f617e4c6a2b9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/15112/Cheriton__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "15112",
+  "timestamp": "2026-05-25T00:19:05.805772Z",
+  "version": 1
+}

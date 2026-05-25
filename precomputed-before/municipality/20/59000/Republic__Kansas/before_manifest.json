@@ -1,0 +1,16 @@
+{
+  "article": "Republic,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/59000/Republic__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b524668ea7260ab661fe2f910d86383f78e38d0af32c3f53402b8692c0f3d5c7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b524668ea7260ab661fe2f910d86383f78e38d0af32c3f53402b8692c0f3d5c7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/59000/Republic__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "59000",
+  "timestamp": "2026-05-24T23:43:24.131839Z",
+  "version": 1
+}

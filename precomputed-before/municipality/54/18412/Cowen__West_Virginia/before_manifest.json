@@ -1,0 +1,16 @@
+{
+  "article": "Cowen,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/18412/Cowen__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bee852e6b45902e73f2096d77192258e0e16683fdcb7caf050e074133ec57e15",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bee852e6b45902e73f2096d77192258e0e16683fdcb7caf050e074133ec57e15",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/18412/Cowen__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "18412",
+  "timestamp": "2026-05-25T00:21:02.357093Z",
+  "version": 1
+}

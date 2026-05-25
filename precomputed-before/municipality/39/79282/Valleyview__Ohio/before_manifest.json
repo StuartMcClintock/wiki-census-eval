@@ -1,0 +1,16 @@
+{
+  "article": "Valleyview,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/79282/Valleyview__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "499bc47cc193526a73e52d8f9c081f0f98f7baecc7650963be5aaea7a860e412",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "499bc47cc193526a73e52d8f9c081f0f98f7baecc7650963be5aaea7a860e412",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/79282/Valleyview__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "79282",
+  "timestamp": "2026-05-25T00:05:34.289162Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Carlisle,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/10270/Carlisle__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4e4b74312f99dde58177bc0ef764412c1729838e6a5b156a5e123444811e2f8b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4e4b74312f99dde58177bc0ef764412c1729838e6a5b156a5e123444811e2f8b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/10270/Carlisle__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "10270",
+  "timestamp": "2026-05-24T23:39:29.203393Z",
+  "version": 1
+}

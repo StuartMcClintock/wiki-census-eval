@@ -1,0 +1,112 @@
+==Demographics==
+{{US Census population|align=left
+|1880= 156
+|1900= 322
+|1910= 432
+|1920= 399
+|1930= 367
+|1940= 327
+|1950= 435
+|1960= 480
+|1970= 579
+|1980= 622
+|1990= 542
+|2000= 576
+|2010= 580
+|2020= 551
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|access-date=June 4, 2015}}</ref>
+}}
+
+===2000 census===
+At the [[2000 United States census|2000 census]] there were 576 people, 204 households, and 158 families living in the village. The population density was {{convert|950.4|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 208 housing units at an average density of {{convert|343.2|/sqmi|/km2|sp=us|adj=off}}.  The [[Race and ethnicity in the United States Census#2000 census|racial makeup]] of the village was 98.09% White, 0.35% Native American, 0.87% from other races, and 0.69% from two or more races. Hispanic or Latino of any race were 3.99%.<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=January 31, 2008|title=U.S. Census website}}</ref>
+
+Of the 204 households 37.7% had children under the age of 18 living with them, 63.7% were married couples living together, 9.3% had a female householder with no husband present, and 22.5% were non-families. 15.7% of households were one person and 6.4% were one person aged 65 or older. The average household size was 2.82 and the average family size was 3.15.
+
+The age distribution was 28.0% under the age of 18, 7.5% from 18 to 24, 34.2% from 25 to 44, 19.3% from 45 to 64, and 11.1% 65 or older. The median age was 36 years. For every 100 females, there were 92.6 males. For every 100 females age 18 and over, there were 97.6 males.
+
+The median household income was $56,528 and the median family income  was $57,500. Males had a median income of $38,393 versus $25,536 for females. The per capita income for the village was $21,218. About 5.8% of families and 5.2% of the population were below the [[poverty line]], including 2.9% of those under age 18 and 16.7% of those age 65 or over.
+
+===2020 census===
+{| class="wikitable" style="text-align:center;"
+|+'''Union village, Illinois – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Union village, Illinois |url=https://data.census.gov/table?g=160XX00US1776706&tid=DECENNIALSF12000.P004|website=[[United States Census Bureau]] |access-date=}}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Union village, Illinois |url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US1776706&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]] |access-date=}}</ref>
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Union village, Illinois |url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US1776706&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]] |access-date=}}</ref>
+!% 2000
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|550
+|542
+|style='background: #ffffe6; |481
+|95.49%
+|93.45%
+|style='background: #ffffe6; |87.30%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|0
+|4
+|style='background: #ffffe6; |0
+|0.00%
+|0.69%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|1
+|1
+|style='background: #ffffe6; |0
+|0.17%
+|0.17%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|0
+|6
+|style='background: #ffffe6; |6
+|0.00%
+|1.03%
+|style='background: #ffffe6; |1.09%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|0
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|2
+|4
+|style='background: #ffffe6; |16
+|0.35%
+|0.69%
+|style='background: #ffffe6; |2.90%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|23
+|23
+|style='background: #ffffe6; |48
+|3.99%
+|3.97%
+|style='background: #ffffe6; |8.71%
+|-
+|'''Total'''
+|'''576'''
+|'''580'''
+|style='background: #ffffe6; |'''551'''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+

@@ -1,0 +1,16 @@
+{
+  "article": "Placerville,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/63550/Placerville__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "25da1d790a6b07fb6ade461aa1115884ee7542e1c78a98afe75b3410f3eb87c2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "25da1d790a6b07fb6ade461aa1115884ee7542e1c78a98afe75b3410f3eb87c2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/63550/Placerville__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "63550",
+  "timestamp": "2026-05-24T23:37:27.284036Z",
+  "version": 1
+}

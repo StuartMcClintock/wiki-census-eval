@@ -1,0 +1,16 @@
+{
+  "article": "Walloon_Lake,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/83140/Walloon_Lake__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5d050f0f0307acac476ff9ea8173a9b97ed8055ddcf114d889feb56db24a9a7d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5d050f0f0307acac476ff9ea8173a9b97ed8055ddcf114d889feb56db24a9a7d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/83140/Walloon_Lake__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "83140",
+  "timestamp": "2026-05-24T23:48:32.260572Z",
+  "version": 1
+}

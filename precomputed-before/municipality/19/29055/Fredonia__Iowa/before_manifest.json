@@ -1,0 +1,16 @@
+{
+  "article": "Fredonia,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/29055/Fredonia__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "13b1502bb568a96f48e8e9f579d3a39419c9fc621cd726c689f487d4a6fb250c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "13b1502bb568a96f48e8e9f579d3a39419c9fc621cd726c689f487d4a6fb250c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/29055/Fredonia__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "29055",
+  "timestamp": "2026-05-24T23:41:03.336205Z",
+  "version": 1
+}

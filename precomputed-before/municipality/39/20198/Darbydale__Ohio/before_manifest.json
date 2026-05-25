@@ -1,0 +1,16 @@
+{
+  "article": "Darbydale,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/20198/Darbydale__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3df12a8690f601e771333fab7c3f767255f6398da85cb68ba8e3316a1ff76332",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3df12a8690f601e771333fab7c3f767255f6398da85cb68ba8e3316a1ff76332",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/20198/Darbydale__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "20198",
+  "timestamp": "2026-05-25T00:04:03.350190Z",
+  "version": 1
+}

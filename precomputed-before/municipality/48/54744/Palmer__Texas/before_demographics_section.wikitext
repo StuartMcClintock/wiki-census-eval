@@ -1,0 +1,64 @@
+==Demographics==
+{{US Census population
+| 1880 = 63
+| 1890 = 250
+| 1900 = 480
+| 1910 = 605
+| 1920 = 748
+| 1930 = 758
+| 1940 = 697
+| 1950 = 647
+| 1960 = 613
+| 1970 = 601
+| 1980 = 1187
+| 1990 = 1659
+| 2000 = 1774
+| 2010 = 2000
+| 2020 = 2393
+| footnote = U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2015}}</ref>
+}}
+
+{| class="wikitable"
+|+'''Palmer racial composition as of 2020'''<ref name=":0">{{Cite web |title=Explore Census Data |url=https://data.census.gov/cedsci/table?g=1600000US4854744&tid=DECENNIALPL2020.P2 |access-date=May 22, 2022 |website=data.census.gov}}</ref><br /> (NH = Non-Hispanic){{efn|Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos can be of any race.<ref>https://www.census.gov/ {{nonspecific|date=August 2022}}</ref><ref>{{cite web |title=About the Hispanic Population and its Origin |url=https://www.census.gov/topics/population/hispanic-origin/about.html |website=www.census.gov |access-date=May 18, 2022}}</ref>}}
+!Race
+!Number
+!Percentage
+|-
+|[[Non-Hispanic or Latino whites|White]] (NH)
+|1,347
+|56.29%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] (NH)
+|45
+|1.88%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] (NH)
+|9
+|0.38%
+|-
+|[[Asian Americans|Asian]] (NH)
+|4
+|0.17%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] (NH)
+|1
+|0.04%
+|-
+|Some Other Race (NH)
+|6
+|0.25%
+|-
+|[[Multiracial Americans|Multiracial]] (NH)
+|108
+|4.51%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]]
+|873
+|36.48%
+|-
+|'''Total'''
+|'''2,393'''
+|
+|}
+As of the [[2020 United States census]],  2,393 people, 782 households, and 627 families were residing in the town.
+

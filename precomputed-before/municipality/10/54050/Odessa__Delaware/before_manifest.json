@@ -1,0 +1,16 @@
+{
+  "article": "Odessa,_Delaware",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/10/54050/Odessa__Delaware/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2c473795cef067cc0ffd5f48265218dad018a1515d76a2540c8c6c7ac23644f1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2c473795cef067cc0ffd5f48265218dad018a1515d76a2540c8c6c7ac23644f1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/10/54050/Odessa__Delaware/manifest.json",
+  "state_fips": "10",
+  "status": "match",
+  "target_fips": "54050",
+  "timestamp": "2026-05-24T23:36:05.563643Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Mahaska,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/44150/Mahaska__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f1766c17190a2da534a156d944f049fd7ccfc20005e4e5c43b371ff93b89499d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f1766c17190a2da534a156d944f049fd7ccfc20005e4e5c43b371ff93b89499d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/44150/Mahaska__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "44150",
+  "timestamp": "2026-05-24T23:43:07.194473Z",
+  "version": 1
+}

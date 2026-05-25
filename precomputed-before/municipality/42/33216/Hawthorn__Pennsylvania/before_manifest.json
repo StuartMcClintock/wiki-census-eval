@@ -1,0 +1,16 @@
+{
+  "article": "Hawthorn,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/33216/Hawthorn__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f77f3448ef06493380d4e57e1a99bca2ed042648f5b123f882d61b7652ff3841",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f77f3448ef06493380d4e57e1a99bca2ed042648f5b123f882d61b7652ff3841",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/33216/Hawthorn__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "33216",
+  "timestamp": "2026-05-25T00:07:23.675337Z",
+  "version": 1
+}

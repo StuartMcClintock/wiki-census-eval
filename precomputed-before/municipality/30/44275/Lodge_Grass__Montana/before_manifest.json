@@ -1,0 +1,16 @@
+{
+  "article": "Lodge_Grass,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/44275/Lodge_Grass__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "edb6b2425b69c0a40b5f6797de05fff1ab5d6516c5bdad74a138d3193265e490",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "edb6b2425b69c0a40b5f6797de05fff1ab5d6516c5bdad74a138d3193265e490",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/44275/Lodge_Grass__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "44275",
+  "timestamp": "2026-05-24T23:54:35.670914Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Albany,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/01042/Albany__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4ef5df9f720f75373ce272cce3d0a0b2d3af934b99deca5a06d25126131ce5eb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4ef5df9f720f75373ce272cce3d0a0b2d3af934b99deca5a06d25126131ce5eb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/01042/Albany__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "01042",
+  "timestamp": "2026-05-25T00:03:29.221155Z",
+  "version": 1
+}

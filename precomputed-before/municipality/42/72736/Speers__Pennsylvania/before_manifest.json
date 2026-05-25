@@ -1,0 +1,16 @@
+{
+  "article": "Speers,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/72736/Speers__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0b864c50f1ad87cbf6107683bc99649bc3c3d214dd64ad9b2eddd3a08e402213",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0b864c50f1ad87cbf6107683bc99649bc3c3d214dd64ad9b2eddd3a08e402213",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/72736/Speers__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "72736",
+  "timestamp": "2026-05-25T00:09:09.467497Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Yellow_Pine,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/88660/Yellow_Pine__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8fd82076f032de7a03dcf8f1823e8ede3e1dbacabaf6270735f1e3a334e3ab7e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8fd82076f032de7a03dcf8f1823e8ede3e1dbacabaf6270735f1e3a334e3ab7e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/88660/Yellow_Pine__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "88660",
+  "timestamp": "2026-05-24T23:37:30.949144Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Van_Vleet,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/76240/Van_Vleet__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2cfd84e39ba8f2aa9ab5ac5447bff8e9646b2f3824c00e31ac94d847a805a0fd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2cfd84e39ba8f2aa9ab5ac5447bff8e9646b2f3824c00e31ac94d847a805a0fd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/76240/Van_Vleet__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "76240",
+  "timestamp": "2026-05-24T23:50:28.310700Z",
+  "version": 1
+}

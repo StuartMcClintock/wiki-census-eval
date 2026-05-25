@@ -1,0 +1,16 @@
+{
+  "article": "Kirtland_Hills,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/40670/Kirtland_Hills__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d4aba82aee783cb6f176790360413e5e0ce57e99a898b1e7cb5887b36c0244c9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d4aba82aee783cb6f176790360413e5e0ce57e99a898b1e7cb5887b36c0244c9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/40670/Kirtland_Hills__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "40670",
+  "timestamp": "2026-05-25T00:04:23.590312Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Dennis,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/18700/Dennis__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2901d297870bbe29ae53b61071b1f6ce5f30254a4319573bfe26a61905cf4044",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2901d297870bbe29ae53b61071b1f6ce5f30254a4319573bfe26a61905cf4044",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/18700/Dennis__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "18700",
+  "timestamp": "2026-05-24T23:50:07.128742Z",
+  "version": 1
+}

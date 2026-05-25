@@ -1,0 +1,16 @@
+{
+  "article": "Barstow,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/03987/Barstow__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0681f46361791a3b43b160ebe5bdb454889c27b1f21cdc3817f1bfd0672b5dbe",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0681f46361791a3b43b160ebe5bdb454889c27b1f21cdc3817f1bfd0672b5dbe",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/03987/Barstow__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "03987",
+  "timestamp": "2026-05-24T23:37:35.913534Z",
+  "version": 1
+}

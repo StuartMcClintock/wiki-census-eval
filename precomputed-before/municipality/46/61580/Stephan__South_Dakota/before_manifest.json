@@ -1,0 +1,16 @@
+{
+  "article": "Stephan,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/61580/Stephan__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0fecd8dd244f897544e232d1f4a83fe2d23ef0d79c981ab6348690574db13c73",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0fecd8dd244f897544e232d1f4a83fe2d23ef0d79c981ab6348690574db13c73",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/61580/Stephan__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "61580",
+  "timestamp": "2026-05-25T00:12:48.382824Z",
+  "version": 1
+}

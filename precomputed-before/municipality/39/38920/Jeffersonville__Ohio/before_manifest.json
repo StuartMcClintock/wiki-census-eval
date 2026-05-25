@@ -1,0 +1,16 @@
+{
+  "article": "Jeffersonville,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/38920/Jeffersonville__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "53693d195ddb825762993b2ef57953b8b2831ecec214dfcd847dfe979ac2cc86",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "53693d195ddb825762993b2ef57953b8b2831ecec214dfcd847dfe979ac2cc86",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/38920/Jeffersonville__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "38920",
+  "timestamp": "2026-05-25T00:04:21.071723Z",
+  "version": 1
+}

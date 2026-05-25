@@ -1,0 +1,16 @@
+{
+  "article": "Milnor,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/52940/Milnor__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e2a81dd61016676643315e584b0969fe5d7f3a3a60190784f09cd57ea1c1fe6d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e2a81dd61016676643315e584b0969fe5d7f3a3a60190784f09cd57ea1c1fe6d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/52940/Milnor__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "52940",
+  "timestamp": "2026-05-25T00:03:12.440839Z",
+  "version": 1
+}

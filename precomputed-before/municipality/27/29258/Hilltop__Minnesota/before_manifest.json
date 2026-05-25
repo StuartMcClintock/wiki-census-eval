@@ -1,0 +1,16 @@
+{
+  "article": "Hilltop,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/29258/Hilltop__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2716d6a21fb397d0e948c7e3dfeb24e7085039e5a3fe576f2ec6e5d4d90bc97b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2716d6a21fb397d0e948c7e3dfeb24e7085039e5a3fe576f2ec6e5d4d90bc97b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/29258/Hilltop__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "29258",
+  "timestamp": "2026-05-24T23:49:08.600548Z",
+  "version": 1
+}

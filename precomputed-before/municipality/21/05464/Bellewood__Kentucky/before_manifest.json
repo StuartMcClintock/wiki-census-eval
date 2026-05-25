@@ -1,0 +1,16 @@
+{
+  "article": "Bellewood,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/05464/Bellewood__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d6a070d5d4df2f45e55c85469e952e5d9efc5138ebf4d64243c354682566ec2a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d6a070d5d4df2f45e55c85469e952e5d9efc5138ebf4d64243c354682566ec2a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/05464/Bellewood__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "05464",
+  "timestamp": "2026-05-24T23:43:42.913693Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Goodwin,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/24820/Goodwin__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3e7acd5a39d201698149b2a13bd0fb74d85175fc50613337626a446ecd0c77b5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3e7acd5a39d201698149b2a13bd0fb74d85175fc50613337626a446ecd0c77b5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/24820/Goodwin__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "24820",
+  "timestamp": "2026-05-25T00:10:39.952698Z",
+  "version": 1
+}

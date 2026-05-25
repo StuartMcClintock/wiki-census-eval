@@ -1,0 +1,16 @@
+{
+  "article": "Opolis,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/52925/Opolis__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4a56329ac37736d969568b99839b0ead7e0291d17d62752aa63fd5ed72c65764",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4a56329ac37736d969568b99839b0ead7e0291d17d62752aa63fd5ed72c65764",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/52925/Opolis__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "52925",
+  "timestamp": "2026-05-24T23:43:17.100376Z",
+  "version": 1
+}

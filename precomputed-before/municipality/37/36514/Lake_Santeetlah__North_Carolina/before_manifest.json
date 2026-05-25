@@ -1,0 +1,16 @@
+{
+  "article": "Lake_Santeetlah,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/36514/Lake_Santeetlah__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e4af10186b7cc6efdd8d6a0086dd5e62b1273069e2a9375eaeb36eb21a30be61",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e4af10186b7cc6efdd8d6a0086dd5e62b1273069e2a9375eaeb36eb21a30be61",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/36514/Lake_Santeetlah__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "36514",
+  "timestamp": "2026-05-25T00:02:06.614407Z",
+  "version": 1
+}

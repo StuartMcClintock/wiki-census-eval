@@ -1,0 +1,16 @@
+{
+  "article": "Durand,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/21225/Durand__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "77659b9f2ca6b800ae17525021116c93c11ef113a1154d36a52499496acf9855",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "77659b9f2ca6b800ae17525021116c93c11ef113a1154d36a52499496acf9855",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/21225/Durand__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "21225",
+  "timestamp": "2026-05-25T00:22:02.189874Z",
+  "version": 1
+}

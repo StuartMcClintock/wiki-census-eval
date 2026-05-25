@@ -1,0 +1,16 @@
+{
+  "article": "Hancock,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/32450/Hancock__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "edf0e72b5bd876d5a80e0f9b14457ae569108f7c9766a6e946bb0622a2c90579",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "edf0e72b5bd876d5a80e0f9b14457ae569108f7c9766a6e946bb0622a2c90579",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/32450/Hancock__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "32450",
+  "timestamp": "2026-05-25T00:22:10.803618Z",
+  "version": 1
+}

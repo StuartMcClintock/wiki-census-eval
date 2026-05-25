@@ -1,0 +1,16 @@
+{
+  "article": "Elkton,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/25408/Elkton__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9462ed2c7971d8535ce51d1b517f9419740b0ed89e357ba0c7493d4cc96e8f7b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9462ed2c7971d8535ce51d1b517f9419740b0ed89e357ba0c7493d4cc96e8f7b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/25408/Elkton__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "25408",
+  "timestamp": "2026-05-25T00:19:11.583661Z",
+  "version": 1
+}

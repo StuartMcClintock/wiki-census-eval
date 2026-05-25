@@ -1,0 +1,16 @@
+{
+  "article": "Manilla,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/46422/Manilla__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2f690f0d4355faf25e56b9ff95d66b08e77082f32a6e98ece398752013a11a4e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2f690f0d4355faf25e56b9ff95d66b08e77082f32a6e98ece398752013a11a4e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/46422/Manilla__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "46422",
+  "timestamp": "2026-05-24T23:40:00.467379Z",
+  "version": 1
+}

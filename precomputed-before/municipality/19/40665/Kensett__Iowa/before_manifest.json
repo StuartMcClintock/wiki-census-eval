@@ -1,0 +1,16 @@
+{
+  "article": "Kensett,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/40665/Kensett__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c006dac4cda4f90486e839dc4f60abb77dc62578e392477e78b45518068a0235",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c006dac4cda4f90486e839dc4f60abb77dc62578e392477e78b45518068a0235",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/40665/Kensett__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "40665",
+  "timestamp": "2026-05-24T23:41:14.667550Z",
+  "version": 1
+}

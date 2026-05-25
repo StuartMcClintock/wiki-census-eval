@@ -1,0 +1,16 @@
+{
+  "article": "Maysville,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/46946/Maysville__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "21bd56cc81ecdfa1d4052fc574bcbb1b291172a8acdfe53d924de5cd5be8733c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "21bd56cc81ecdfa1d4052fc574bcbb1b291172a8acdfe53d924de5cd5be8733c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/46946/Maysville__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "46946",
+  "timestamp": "2026-05-24T23:53:31.102932Z",
+  "version": 1
+}

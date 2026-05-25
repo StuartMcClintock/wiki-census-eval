@@ -1,0 +1,16 @@
+{
+  "article": "Seabrook_Island,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/64712/Seabrook_Island__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9985ead82d4ca255d38e8a10ab05943dba246d6f5f8603f11f6aaf478f7db884",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9985ead82d4ca255d38e8a10ab05943dba246d6f5f8603f11f6aaf478f7db884",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/64712/Seabrook_Island__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "64712",
+  "timestamp": "2026-05-25T00:10:21.520930Z",
+  "version": 1
+}

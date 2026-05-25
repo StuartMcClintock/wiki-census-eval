@@ -1,0 +1,16 @@
+{
+  "article": "Sardinia,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/70534/Sardinia__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "246458ff4216ed3cf1a3edb0e68ee9d9c94d4f9b0eac08b81874816dfae9d96f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "246458ff4216ed3cf1a3edb0e68ee9d9c94d4f9b0eac08b81874816dfae9d96f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/70534/Sardinia__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "70534",
+  "timestamp": "2026-05-25T00:05:14.813259Z",
+  "version": 1
+}

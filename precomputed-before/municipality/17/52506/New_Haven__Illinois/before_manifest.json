@@ -1,0 +1,16 @@
+{
+  "article": "New_Haven,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/52506/New_Haven__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6c8fdb11c11419d331989cfbe2693ea74a2e42dd04f16e3f6cd84e7ff2417033",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6c8fdb11c11419d331989cfbe2693ea74a2e42dd04f16e3f6cd84e7ff2417033",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/52506/New_Haven__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "52506",
+  "timestamp": "2026-05-24T23:38:40.363969Z",
+  "version": 1
+}

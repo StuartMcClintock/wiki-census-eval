@@ -1,0 +1,16 @@
+{
+  "article": "Rockdale,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/68725/Rockdale__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5ee1bf3b777df4f3ef0d202a0606c236d84de1014390d35dbea5d359dd66f35c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5ee1bf3b777df4f3ef0d202a0606c236d84de1014390d35dbea5d359dd66f35c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/68725/Rockdale__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "68725",
+  "timestamp": "2026-05-25T00:22:39.616701Z",
+  "version": 1
+}

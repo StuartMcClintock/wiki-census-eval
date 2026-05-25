@@ -1,0 +1,16 @@
+{
+  "article": "Dover_Hill,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/18550/Dover_Hill__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a8d8f243b19dfcae97659191a601c81eb6f036a453a4a288990755d41455a18c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a8d8f243b19dfcae97659191a601c81eb6f036a453a4a288990755d41455a18c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/18550/Dover_Hill__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "18550",
+  "timestamp": "2026-05-24T23:39:32.753942Z",
+  "version": 1
+}

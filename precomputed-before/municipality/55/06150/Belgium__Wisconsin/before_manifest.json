@@ -1,0 +1,16 @@
+{
+  "article": "Belgium,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/06150/Belgium__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7890be6aa222a642e43a31cfdd3c5aa6bcaaa494636c0d459a7c7c033a6bb908",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7890be6aa222a642e43a31cfdd3c5aa6bcaaa494636c0d459a7c7c033a6bb908",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/06150/Belgium__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "06150",
+  "timestamp": "2026-05-25T00:21:35.122046Z",
+  "version": 1
+}

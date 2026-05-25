@@ -1,0 +1,16 @@
+{
+  "article": "Jefferson,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/37900/Jefferson__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7ed5bfd14276a9719648b5252a08137e25e6f19ea922bc7663f1a53248af3ee7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7ed5bfd14276a9719648b5252a08137e25e6f19ea922bc7663f1a53248af3ee7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/37900/Jefferson__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "37900",
+  "timestamp": "2026-05-25T00:22:14.550770Z",
+  "version": 1
+}

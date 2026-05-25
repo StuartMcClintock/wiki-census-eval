@@ -1,0 +1,16 @@
+{
+  "article": "Susquehanna_Trails,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/75574/Susquehanna_Trails__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fb6a7122d5e9b5e93d445db42076b864efc5ffc348de2c380ac619b7e038df75",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fb6a7122d5e9b5e93d445db42076b864efc5ffc348de2c380ac619b7e038df75",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/75574/Susquehanna_Trails__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "75574",
+  "timestamp": "2026-05-25T00:09:13.999594Z",
+  "version": 1
+}

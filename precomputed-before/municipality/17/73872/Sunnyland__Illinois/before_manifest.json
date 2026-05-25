@@ -1,0 +1,16 @@
+{
+  "article": "Sunnyland,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/73872/Sunnyland__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3252aaa811e03595baff9ca76264a334a69712a2712d1ab473560f84d99053a2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3252aaa811e03595baff9ca76264a334a69712a2712d1ab473560f84d99053a2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/73872/Sunnyland__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "73872",
+  "timestamp": "2026-05-24T23:39:14.701195Z",
+  "version": 1
+}

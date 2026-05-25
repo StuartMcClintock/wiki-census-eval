@@ -1,0 +1,16 @@
+{
+  "article": "Bayside,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/05450/Bayside__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b10d33f5b2a6bd7e339d08aa15cea0a03356775438565c8e50ef687082f0fe78",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b10d33f5b2a6bd7e339d08aa15cea0a03356775438565c8e50ef687082f0fe78",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/05450/Bayside__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "05450",
+  "timestamp": "2026-05-25T00:21:34.981809Z",
+  "version": 1
+}

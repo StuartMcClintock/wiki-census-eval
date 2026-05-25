@@ -1,0 +1,16 @@
+{
+  "article": "Stonewall,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/70760/Stonewall__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a4e52e55b56c23371a0929a944c4f36832d46f4336dce8f6a169932fac160cf4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a4e52e55b56c23371a0929a944c4f36832d46f4336dce8f6a169932fac160cf4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/70760/Stonewall__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "70760",
+  "timestamp": "2026-05-24T23:50:25.925019Z",
+  "version": 1
+}

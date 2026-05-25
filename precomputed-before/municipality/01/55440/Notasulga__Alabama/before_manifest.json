@@ -1,0 +1,16 @@
+{
+  "article": "Notasulga,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/55440/Notasulga__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ec4d8a5819d2a00651185a87897d0cd387fda79d651651f8128c1d5013304931",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ec4d8a5819d2a00651185a87897d0cd387fda79d651651f8128c1d5013304931",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/55440/Notasulga__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "55440",
+  "timestamp": "2026-05-24T23:32:07.069530Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Tees_Toh,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/72630/Tees_Toh__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c8954098fda6f1e7abea73155953bd7eaa4f84f1d3db813fa7a028697b4f96b3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c8954098fda6f1e7abea73155953bd7eaa4f84f1d3db813fa7a028697b4f96b3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/72630/Tees_Toh__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "72630",
+  "timestamp": "2026-05-24T23:33:11.703467Z",
+  "version": 1
+}

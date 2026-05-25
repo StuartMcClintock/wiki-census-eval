@@ -1,0 +1,16 @@
+{
+  "article": "Clarks,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/09165/Clarks__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0297b26efb13fced8eefa098bc9e81d25705c68dc38ddb9232374e506c996ce3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0297b26efb13fced8eefa098bc9e81d25705c68dc38ddb9232374e506c996ce3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/09165/Clarks__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "09165",
+  "timestamp": "2026-05-24T23:55:17.933164Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Orrtanna,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/57120/Orrtanna__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a4884b1d565e02daabd3195e838d9bc50158807cb58d6afc4d21c4a23e67e3c2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a4884b1d565e02daabd3195e838d9bc50158807cb58d6afc4d21c4a23e67e3c2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/57120/Orrtanna__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "57120",
+  "timestamp": "2026-05-25T00:08:24.106600Z",
+  "version": 1
+}

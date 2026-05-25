@@ -1,0 +1,16 @@
+{
+  "article": "Hobart,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/31495/Hobart__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "31ddeae53b82f6fa8eb8a4ebdf3370dee36a61d1465fc666ef15f56faea22017",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "31ddeae53b82f6fa8eb8a4ebdf3370dee36a61d1465fc666ef15f56faea22017",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/31495/Hobart__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "31495",
+  "timestamp": "2026-05-25T00:20:15.374999Z",
+  "version": 1
+}

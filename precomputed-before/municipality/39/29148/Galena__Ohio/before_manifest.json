@@ -1,0 +1,16 @@
+{
+  "article": "Galena,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/29148/Galena__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a60884ac8ca604fe8914cc573404e448d72450e9a0a2f67ca4329bb090df29ed",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a60884ac8ca604fe8914cc573404e448d72450e9a0a2f67ca4329bb090df29ed",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/29148/Galena__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "29148",
+  "timestamp": "2026-05-25T00:04:10.714717Z",
+  "version": 1
+}

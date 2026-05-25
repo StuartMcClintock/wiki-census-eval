@@ -1,0 +1,16 @@
+{
+  "article": "Church_Creek,_Maryland",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/24/17050/Church_Creek__Maryland/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "635c81e3ff543957c517f4f13ea9c3245a32d0ade218fd0754e31793edbdf007",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "635c81e3ff543957c517f4f13ea9c3245a32d0ade218fd0754e31793edbdf007",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/24/17050/Church_Creek__Maryland/manifest.json",
+  "state_fips": "24",
+  "status": "match",
+  "target_fips": "17050",
+  "timestamp": "2026-05-24T23:47:17.973214Z",
+  "version": 1
+}

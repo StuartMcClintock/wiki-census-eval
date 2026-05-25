@@ -1,0 +1,16 @@
+{
+  "article": "Platina,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/57666/Platina__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8486b78abf52461d187a6d138b6230b28bc180895838b3a5ab337f728abfe82e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8486b78abf52461d187a6d138b6230b28bc180895838b3a5ab337f728abfe82e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/57666/Platina__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "57666",
+  "timestamp": "2026-05-24T23:34:46.834654Z",
+  "version": 1
+}

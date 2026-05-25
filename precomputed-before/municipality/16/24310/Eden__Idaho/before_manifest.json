@@ -1,0 +1,16 @@
+{
+  "article": "Eden,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/24310/Eden__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e63674e4eaaea31e9d82aa94cee87e090dd998e9229f169d640e0de890c49f2f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e63674e4eaaea31e9d82aa94cee87e090dd998e9229f169d640e0de890c49f2f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/24310/Eden__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "24310",
+  "timestamp": "2026-05-24T23:37:19.955214Z",
+  "version": 1
+}

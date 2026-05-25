@@ -1,0 +1,16 @@
+{
+  "article": "Mayville,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/51500/Mayville__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6bbee44d75f8497e8e6411f8d6173c0a0d9619c02b07fe150c6834464bdf0a7a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6bbee44d75f8497e8e6411f8d6173c0a0d9619c02b07fe150c6834464bdf0a7a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/51500/Mayville__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "51500",
+  "timestamp": "2026-05-25T00:03:11.751474Z",
+  "version": 1
+}

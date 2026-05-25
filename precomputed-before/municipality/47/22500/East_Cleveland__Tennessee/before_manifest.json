@@ -1,0 +1,16 @@
+{
+  "article": "East_Cleveland,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/22500/East_Cleveland__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2d6e9e9989b23d7f0230886602b9d3abb17695a83eec9a1e8bbe630aace8f163",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2d6e9e9989b23d7f0230886602b9d3abb17695a83eec9a1e8bbe630aace8f163",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/22500/East_Cleveland__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "22500",
+  "timestamp": "2026-05-25T00:14:37.206186Z",
+  "version": 1
+}

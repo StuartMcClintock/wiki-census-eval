@@ -1,0 +1,16 @@
+{
+  "article": "Clarksville,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/16992/Clarksville__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1052b21143b3d34c0add989b83f4e04b3c529d381651b8af684482c64f9c62c9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1052b21143b3d34c0add989b83f4e04b3c529d381651b8af684482c64f9c62c9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/16992/Clarksville__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "16992",
+  "timestamp": "2026-05-25T00:19:06.436486Z",
+  "version": 1
+}

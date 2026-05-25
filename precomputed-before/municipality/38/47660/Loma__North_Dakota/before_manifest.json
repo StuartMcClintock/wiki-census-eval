@@ -1,0 +1,16 @@
+{
+  "article": "Loma,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/47660/Loma__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "06f550856bb59f00bd4a4512083f938594ee3f6ab6ff01f48c180f1c84222ab9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "06f550856bb59f00bd4a4512083f938594ee3f6ab6ff01f48c180f1c84222ab9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/47660/Loma__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "47660",
+  "timestamp": "2026-05-25T00:03:09.324503Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Stratford,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/62020/Stratford__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c37c4f1375e269ceca1e96f40897bf46e51699275592abced8d1bd3857bfb5c7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c37c4f1375e269ceca1e96f40897bf46e51699275592abced8d1bd3857bfb5c7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/62020/Stratford__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "62020",
+  "timestamp": "2026-05-25T00:12:48.932372Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "North_Bend,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/54784/North_Bend__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8b9a5b903c4856276eccc6e3fc8f366e6f074252bdd9c2187adda86517ed77d6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8b9a5b903c4856276eccc6e3fc8f366e6f074252bdd9c2187adda86517ed77d6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/54784/North_Bend__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "54784",
+  "timestamp": "2026-05-25T00:08:19.649905Z",
+  "version": 1
+}

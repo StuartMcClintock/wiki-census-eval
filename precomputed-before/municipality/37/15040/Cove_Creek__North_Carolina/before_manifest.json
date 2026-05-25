@@ -1,0 +1,16 @@
+{
+  "article": "Cove_Creek,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/15040/Cove_Creek__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e935106694df345d85219f019636d5e8a7592dad655af01dc2f2d51c0952d9d5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e935106694df345d85219f019636d5e8a7592dad655af01dc2f2d51c0952d9d5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/15040/Cove_Creek__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "15040",
+  "timestamp": "2026-05-25T00:01:51.447281Z",
+  "version": 1
+}

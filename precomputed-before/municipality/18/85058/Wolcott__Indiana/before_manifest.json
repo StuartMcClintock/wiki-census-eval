@@ -1,0 +1,16 @@
+{
+  "article": "Wolcott,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/85058/Wolcott__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3cd2656c1dbb1af4eb92a36c5cd651032bff14eea40355b595caff1280dbefc1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3cd2656c1dbb1af4eb92a36c5cd651032bff14eea40355b595caff1280dbefc1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/85058/Wolcott__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "85058",
+  "timestamp": "2026-05-24T23:40:20.050198Z",
+  "version": 1
+}

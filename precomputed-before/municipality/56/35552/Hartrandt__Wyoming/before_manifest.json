@@ -1,0 +1,16 @@
+{
+  "article": "Hartrandt,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/35552/Hartrandt__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "792a7b2e5ae8ab177f9b4625192f5f7a767440ac77584578bd97166dad984a95",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "792a7b2e5ae8ab177f9b4625192f5f7a767440ac77584578bd97166dad984a95",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/35552/Hartrandt__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "35552",
+  "timestamp": "2026-05-25T00:23:15.143771Z",
+  "version": 1
+}

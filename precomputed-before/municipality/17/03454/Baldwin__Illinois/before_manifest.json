@@ -1,0 +1,16 @@
+{
+  "article": "Baldwin,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/03454/Baldwin__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fb8deb01ae46d6ac24a54d56c2be254f73ac9c07fa42355a1f419e0365f089b0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fb8deb01ae46d6ac24a54d56c2be254f73ac9c07fa42355a1f419e0365f089b0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/03454/Baldwin__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "03454",
+  "timestamp": "2026-05-24T23:37:35.582154Z",
+  "version": 1
+}

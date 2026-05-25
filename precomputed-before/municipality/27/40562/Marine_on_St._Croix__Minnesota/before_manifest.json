@@ -1,0 +1,16 @@
+{
+  "article": "Marine_on_St._Croix,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/40562/Marine_on_St._Croix__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "70a418a3e0fd46b344a1b49cacbcda1624c0fc8194db7f84e7f18bebeeb0c0bc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "70a418a3e0fd46b344a1b49cacbcda1624c0fc8194db7f84e7f18bebeeb0c0bc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/40562/Marine_on_St._Croix__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "40562",
+  "timestamp": "2026-05-24T23:49:19.130302Z",
+  "version": 1
+}

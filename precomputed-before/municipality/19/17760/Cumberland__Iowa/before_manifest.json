@@ -1,0 +1,16 @@
+{
+  "article": "Cumberland,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/17760/Cumberland__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aed8228f0ab0b4333b5bc4af231c0ec7c016db7688df43c0d8ba360bf0957855",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aed8228f0ab0b4333b5bc4af231c0ec7c016db7688df43c0d8ba360bf0957855",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/17760/Cumberland__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "17760",
+  "timestamp": "2026-05-24T23:40:38.127763Z",
+  "version": 1
+}

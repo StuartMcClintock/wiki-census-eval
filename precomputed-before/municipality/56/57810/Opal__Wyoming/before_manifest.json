@@ -1,0 +1,16 @@
+{
+  "article": "Opal,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/57810/Opal__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "03f6022cfd6b1225f423ca3e4e68907e4e11637fca5aa9e793151cf100715570",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "03f6022cfd6b1225f423ca3e4e68907e4e11637fca5aa9e793151cf100715570",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/57810/Opal__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "57810",
+  "timestamp": "2026-05-25T00:23:20.165332Z",
+  "version": 1
+}

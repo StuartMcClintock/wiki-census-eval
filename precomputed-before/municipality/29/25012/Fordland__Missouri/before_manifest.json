@@ -1,0 +1,16 @@
+{
+  "article": "Fordland,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/25012/Fordland__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e7182b91cfb1fb7d07c23ce0abea313ab91117403e48efddc85b946fffa090e9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e7182b91cfb1fb7d07c23ce0abea313ab91117403e48efddc85b946fffa090e9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/25012/Fordland__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "25012",
+  "timestamp": "2026-05-24T23:51:09.695404Z",
+  "version": 1
+}

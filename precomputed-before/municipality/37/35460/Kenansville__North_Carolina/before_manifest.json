@@ -1,0 +1,16 @@
+{
+  "article": "Kenansville,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/35460/Kenansville__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8dcd9ad7c032ef6ae5c8206c1d9765215e380bcaff200876dd9bab921f2160fe",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8dcd9ad7c032ef6ae5c8206c1d9765215e380bcaff200876dd9bab921f2160fe",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/35460/Kenansville__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "35460",
+  "timestamp": "2026-05-25T00:02:06.022596Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Aripeka,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/01875/Aripeka__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "403b21a657e708466e53f1cfe8c5a089cc0c5d84ea1b66e649b56277ecddc906",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "403b21a657e708466e53f1cfe8c5a089cc0c5d84ea1b66e649b56277ecddc906",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/01875/Aripeka__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "01875",
+  "timestamp": "2026-05-24T23:36:06.730319Z",
+  "version": 1
+}

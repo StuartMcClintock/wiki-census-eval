@@ -1,0 +1,16 @@
+{
+  "article": "Jamesville_Colony,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/32388/Jamesville_Colony__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1d1a13075e41bb2610b72e7bcb15b86ec561ea9054b92ab3d233516866952a79",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1d1a13075e41bb2610b72e7bcb15b86ec561ea9054b92ab3d233516866952a79",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/32388/Jamesville_Colony__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "32388",
+  "timestamp": "2026-05-25T00:10:43.125493Z",
+  "version": 1
+}

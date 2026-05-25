@@ -1,0 +1,16 @@
+{
+  "article": "Huey,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/36477/Huey__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c55bb21598e6fd73bcd403abf583b9f80ef0cf999e358b50a9f0d23b4b1036ba",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c55bb21598e6fd73bcd403abf583b9f80ef0cf999e358b50a9f0d23b4b1036ba",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/36477/Huey__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "36477",
+  "timestamp": "2026-05-24T23:38:21.452506Z",
+  "version": 1
+}

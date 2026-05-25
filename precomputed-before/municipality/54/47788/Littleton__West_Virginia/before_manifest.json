@@ -1,0 +1,16 @@
+{
+  "article": "Littleton,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/47788/Littleton__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "939aaf1b93f4eece86ca1ce64c622ab4ac9c82427b30052229db175e44153d0b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "939aaf1b93f4eece86ca1ce64c622ab4ac9c82427b30052229db175e44153d0b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/47788/Littleton__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "47788",
+  "timestamp": "2026-05-25T00:21:15.050281Z",
+  "version": 1
+}

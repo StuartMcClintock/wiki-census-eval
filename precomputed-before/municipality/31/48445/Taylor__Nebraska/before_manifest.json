@@ -1,0 +1,16 @@
+{
+  "article": "Taylor,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/48445/Taylor__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2622406b916db22cabd0fb87e00270e2da847ae6ed16b1db51a500ad6b73ae1d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2622406b916db22cabd0fb87e00270e2da847ae6ed16b1db51a500ad6b73ae1d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/48445/Taylor__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "48445",
+  "timestamp": "2026-05-24T23:57:20.348616Z",
+  "version": 1
+}

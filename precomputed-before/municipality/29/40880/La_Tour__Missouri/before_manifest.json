@@ -1,0 +1,16 @@
+{
+  "article": "La_Tour,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/40880/La_Tour__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "09ea3775bfd05bf686b2c2b2c4bb2e727e72688c75f070a28e60019fa9919db9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "09ea3775bfd05bf686b2c2b2c4bb2e727e72688c75f070a28e60019fa9919db9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/40880/La_Tour__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "40880",
+  "timestamp": "2026-05-24T23:53:26.620620Z",
+  "version": 1
+}

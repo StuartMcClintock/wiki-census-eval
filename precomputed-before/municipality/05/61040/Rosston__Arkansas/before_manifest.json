@@ -1,0 +1,16 @@
+{
+  "article": "Rosston,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/61040/Rosston__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "230d850027a529b8dd5c13756cf940d98386e0a1e835b264be30dafe075c3d1e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "230d850027a529b8dd5c13756cf940d98386e0a1e835b264be30dafe075c3d1e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/61040/Rosston__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "61040",
+  "timestamp": "2026-05-24T23:34:06.673157Z",
+  "version": 1
+}

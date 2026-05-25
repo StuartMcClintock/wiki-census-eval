@@ -1,0 +1,16 @@
+{
+  "article": "Anatone,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/02025/Anatone__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f950588a49ddeeed4b98754d3e53a3b4ca3e50bc9d4d80d90abb72ab718f20e3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f950588a49ddeeed4b98754d3e53a3b4ca3e50bc9d4d80d90abb72ab718f20e3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/02025/Anatone__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "02025",
+  "timestamp": "2026-05-25T00:19:47.528331Z",
+  "version": 1
+}

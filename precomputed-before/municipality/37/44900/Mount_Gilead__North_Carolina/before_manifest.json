@@ -1,0 +1,16 @@
+{
+  "article": "Mount_Gilead,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/44900/Mount_Gilead__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5868218f3b5a37c8b487b7a89f0754c4f354b3ae5eb8f675b2547560a332f307",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5868218f3b5a37c8b487b7a89f0754c4f354b3ae5eb8f675b2547560a332f307",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/44900/Mount_Gilead__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "44900",
+  "timestamp": "2026-05-25T00:02:12.494204Z",
+  "version": 1
+}

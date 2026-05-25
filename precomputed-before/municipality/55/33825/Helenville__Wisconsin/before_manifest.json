@@ -1,0 +1,16 @@
+{
+  "article": "Helenville,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/33825/Helenville__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bb5a38cc84a36221e72125d90f0aad3dfef493156204c2f3d4902dd9ebaae481",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bb5a38cc84a36221e72125d90f0aad3dfef493156204c2f3d4902dd9ebaae481",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/33825/Helenville__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "33825",
+  "timestamp": "2026-05-25T00:22:11.951457Z",
+  "version": 1
+}

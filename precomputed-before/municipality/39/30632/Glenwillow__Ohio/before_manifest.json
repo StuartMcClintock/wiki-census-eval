@@ -1,0 +1,16 @@
+{
+  "article": "Glenwillow,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/30632/Glenwillow__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6211db8bd45e75cd7a6bcff63f7b3b2e37061db85642543e137190a9107bfea4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6211db8bd45e75cd7a6bcff63f7b3b2e37061db85642543e137190a9107bfea4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/30632/Glenwillow__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "30632",
+  "timestamp": "2026-05-25T00:04:12.605846Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Smithwick,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/59620/Smithwick__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cccb79d7a481ac3fa55c68f32f2abdeef39acdb62494b50d6ca6e6990cbc52f2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cccb79d7a481ac3fa55c68f32f2abdeef39acdb62494b50d6ca6e6990cbc52f2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/59620/Smithwick__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "59620",
+  "timestamp": "2026-05-25T00:12:47.613480Z",
+  "version": 1
+}

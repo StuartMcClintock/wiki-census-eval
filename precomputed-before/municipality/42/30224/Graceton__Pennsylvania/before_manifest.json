@@ -1,0 +1,16 @@
+{
+  "article": "Graceton,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/30224/Graceton__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e690b99a8f575ade7e99c24b1e9d88d9c8f7435196eb34f6e1e6cc68dfd725d9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e690b99a8f575ade7e99c24b1e9d88d9c8f7435196eb34f6e1e6cc68dfd725d9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/30224/Graceton__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "30224",
+  "timestamp": "2026-05-25T00:07:18.662769Z",
+  "version": 1
+}

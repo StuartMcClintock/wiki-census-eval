@@ -1,0 +1,16 @@
+{
+  "article": "Delta,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/20272/Delta__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c16e54b854c3a27a85b406c27de22ae5131915a7ac103300651f14631a7f883d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c16e54b854c3a27a85b406c27de22ae5131915a7ac103300651f14631a7f883d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/20272/Delta__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "20272",
+  "timestamp": "2026-05-24T23:31:53.276574Z",
+  "version": 1
+}

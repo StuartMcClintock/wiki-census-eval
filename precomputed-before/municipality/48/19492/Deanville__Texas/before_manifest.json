@@ -1,0 +1,16 @@
+{
+  "article": "Deanville,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/19492/Deanville__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2114d129513f83d5d5d3793cf276729dd09803219d88b0a7feb2009e2ceebaa5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2114d129513f83d5d5d3793cf276729dd09803219d88b0a7feb2009e2ceebaa5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/19492/Deanville__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "19492",
+  "timestamp": "2026-05-25T00:15:28.378596Z",
+  "version": 1
+}

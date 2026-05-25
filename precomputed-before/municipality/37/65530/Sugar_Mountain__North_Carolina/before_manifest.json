@@ -1,0 +1,16 @@
+{
+  "article": "Sugar_Mountain,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/65530/Sugar_Mountain__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5c8b7067336391f573d928f000af8d32e62b9ef4a642fc4e2a395c05e219a2c2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5c8b7067336391f573d928f000af8d32e62b9ef4a642fc4e2a395c05e219a2c2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/65530/Sugar_Mountain__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "65530",
+  "timestamp": "2026-05-25T00:02:25.701214Z",
+  "version": 1
+}

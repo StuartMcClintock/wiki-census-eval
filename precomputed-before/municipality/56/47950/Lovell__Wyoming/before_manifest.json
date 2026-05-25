@@ -1,0 +1,16 @@
+{
+  "article": "Lovell,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/47950/Lovell__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "83a7af8e94fa5c66cee17796bc9356d48bcac8549e2b32d8f2f96aaa321f092f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "83a7af8e94fa5c66cee17796bc9356d48bcac8549e2b32d8f2f96aaa321f092f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/47950/Lovell__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "47950",
+  "timestamp": "2026-05-25T00:23:18.094890Z",
+  "version": 1
+}

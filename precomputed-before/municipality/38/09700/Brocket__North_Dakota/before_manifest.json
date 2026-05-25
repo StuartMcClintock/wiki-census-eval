@@ -1,0 +1,16 @@
+{
+  "article": "Brocket,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/09700/Brocket__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5f09481d839aa71aa76fff15de3196cd5c2d9cbea5573028d800996d9ea97d69",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5f09481d839aa71aa76fff15de3196cd5c2d9cbea5573028d800996d9ea97d69",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/09700/Brocket__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "09700",
+  "timestamp": "2026-05-25T00:02:36.028608Z",
+  "version": 1
+}

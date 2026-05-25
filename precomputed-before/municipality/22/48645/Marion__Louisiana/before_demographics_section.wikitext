@@ -1,0 +1,47 @@
+==Demographics==
+{{US Census population
+|align=left
+|1910= 226
+|1920= 371
+|1930= 444
+|1940= 481
+|1950= 685
+|1960= 685
+|1970= 796
+|1980= 989
+|1990= 775
+|2000= 806
+|2010= 765
+|2020= 623
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|access-date=June 4, 2015}}</ref>
+}}
+
+{| class="wikitable" style="text-align:right"
+|+Marion racial composition as of 2020<ref>{{Cite web|title=Explore Census Data|url=https://data.census.gov/cedsci/table?g=1600000US2248645&tid=DECENNIALPL2020.P2|access-date=December 29, 2021|website=data.census.gov}}</ref>
+!scope="col"| Race
+!scope="col"| Number
+!scope="col"| Percentage
+|-
+!scope="row"| [[White (U.S. Census)|White]] (non-Hispanic)
+| 232
+| 37.24%
+|-
+!scope="row"| [[African American (U.S. Census)|Black or African American]] (non-Hispanic)
+| 361
+| 57.95%
+|-
+!scope="row"| [[Native American (U.S. Census)|Native American]]
+| 1
+| 0.16%
+|-
+!scope="row"| [[Race (United States Census)|Other/Mixed]]
+| 22
+| 3.53%
+|-
+!scope="row"| [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]]
+| 7
+| 1.12%
+|}
+As of the [[2020 United States census]], there were 623 people, 294 households, and 211 families residing in the town.
+
+{{clear left}}

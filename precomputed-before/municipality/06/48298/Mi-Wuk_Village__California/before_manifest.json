@@ -1,0 +1,16 @@
+{
+  "article": "Mi-Wuk_Village,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/48298/Mi-Wuk_Village__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "632abc683d4721b329a7372e207e91fc3fee2ab4a4bb07a77cd9b18091562a25",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "632abc683d4721b329a7372e207e91fc3fee2ab4a4bb07a77cd9b18091562a25",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/48298/Mi-Wuk_Village__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "48298",
+  "timestamp": "2026-05-24T23:34:39.778943Z",
+  "version": 1
+}

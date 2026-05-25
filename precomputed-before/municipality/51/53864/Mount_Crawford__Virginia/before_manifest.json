@@ -1,0 +1,16 @@
+{
+  "article": "Mount_Crawford,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/53864/Mount_Crawford__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ebb674e322af231d1579475902657b39ff91287f6ac56931e24ee81ec6d0064a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ebb674e322af231d1579475902657b39ff91287f6ac56931e24ee81ec6d0064a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/53864/Mount_Crawford__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "53864",
+  "timestamp": "2026-05-25T00:19:27.824999Z",
+  "version": 1
+}

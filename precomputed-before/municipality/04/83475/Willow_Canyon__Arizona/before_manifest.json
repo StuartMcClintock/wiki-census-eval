@@ -1,0 +1,16 @@
+{
+  "article": "Willow_Canyon,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/83475/Willow_Canyon__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0b7518d3afb127e475471e32d7bb64847ef594ed3f5bf2743c3dad2c7412287d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0b7518d3afb127e475471e32d7bb64847ef594ed3f5bf2743c3dad2c7412287d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/83475/Willow_Canyon__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "83475",
+  "timestamp": "2026-05-24T23:33:15.201572Z",
+  "version": 1
+}

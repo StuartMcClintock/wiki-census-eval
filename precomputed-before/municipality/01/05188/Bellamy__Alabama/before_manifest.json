@@ -1,0 +1,16 @@
+{
+  "article": "Bellamy,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/05188/Bellamy__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e38a4fa5170d221c02728b7db3f9944751675d97b9667d3131e8bb3a9d59dbdf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e38a4fa5170d221c02728b7db3f9944751675d97b9667d3131e8bb3a9d59dbdf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/05188/Bellamy__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "05188",
+  "timestamp": "2026-05-24T23:31:49.444477Z",
+  "version": 1
+}

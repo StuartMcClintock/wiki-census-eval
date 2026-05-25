@@ -1,0 +1,16 @@
+{
+  "article": "West_Scio,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/80750/West_Scio__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d2292d6125bc954495133ee786ff26c2bb6818d7a8628f51b786e371567286a8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d2292d6125bc954495133ee786ff26c2bb6818d7a8628f51b786e371567286a8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/80750/West_Scio__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "80750",
+  "timestamp": "2026-05-25T00:06:05.125831Z",
+  "version": 1
+}

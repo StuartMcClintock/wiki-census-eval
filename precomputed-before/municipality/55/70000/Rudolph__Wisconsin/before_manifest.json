@@ -1,0 +1,16 @@
+{
+  "article": "Rudolph,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/70000/Rudolph__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8e83aa8f2b81791e6393b3727e6062640b5e6878e91eb2f3e2fed28f4a63c555",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8e83aa8f2b81791e6393b3727e6062640b5e6878e91eb2f3e2fed28f4a63c555",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/70000/Rudolph__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "70000",
+  "timestamp": "2026-05-25T00:22:40.165355Z",
+  "version": 1
+}

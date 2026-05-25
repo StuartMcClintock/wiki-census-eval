@@ -1,0 +1,16 @@
+{
+  "article": "Ocracoke,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/48740/Ocracoke__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cab77b70a5e561a18f7a1b2f361e645e4fc44d30438f39d379b8d0bcdae3487e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cab77b70a5e561a18f7a1b2f361e645e4fc44d30438f39d379b8d0bcdae3487e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/48740/Ocracoke__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "48740",
+  "timestamp": "2026-05-25T00:02:14.525955Z",
+  "version": 1
+}

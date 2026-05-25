@@ -1,0 +1,16 @@
+{
+  "article": "Beaver_Creek,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/04492/Beaver_Creek__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9c6daaedfd905783c398df486f1db87f5933d0f8906665bd3630add03e914d6b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9c6daaedfd905783c398df486f1db87f5933d0f8906665bd3630add03e914d6b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/04492/Beaver_Creek__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "04492",
+  "timestamp": "2026-05-24T23:48:38.161367Z",
+  "version": 1
+}

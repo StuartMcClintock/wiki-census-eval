@@ -1,0 +1,16 @@
+{
+  "article": "Broadlands,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/08420/Broadlands__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0d85edfc032422c02cfe24ee758c2bbd85a9ce3b46013766ab97b6c690cf470b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0d85edfc032422c02cfe24ee758c2bbd85a9ce3b46013766ab97b6c690cf470b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/08420/Broadlands__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "08420",
+  "timestamp": "2026-05-24T23:37:51.243972Z",
+  "version": 1
+}

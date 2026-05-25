@@ -1,0 +1,16 @@
+{
+  "article": "Glennville,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/30126/Glennville__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cbc2a3de375a73fd6222f2c970efdcff01cbe5a933d8c8b09cf60d89899b8177",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cbc2a3de375a73fd6222f2c970efdcff01cbe5a933d8c8b09cf60d89899b8177",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/30126/Glennville__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "30126",
+  "timestamp": "2026-05-24T23:34:25.590791Z",
+  "version": 1
+}

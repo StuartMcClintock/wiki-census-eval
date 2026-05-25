@@ -1,0 +1,16 @@
+{
+  "article": "Ottosen,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/60420/Ottosen__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5fa1f2c0b464551251e0cd9c6fd9ad99e5fb4709c831c55925d48cd4f13c6d4c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5fa1f2c0b464551251e0cd9c6fd9ad99e5fb4709c831c55925d48cd4f13c6d4c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/60420/Ottosen__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "60420",
+  "timestamp": "2026-05-24T23:41:35.926243Z",
+  "version": 1
+}

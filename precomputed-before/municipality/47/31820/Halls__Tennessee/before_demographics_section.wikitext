@@ -1,0 +1,61 @@
+==Demographics==
+{{US Census population
+|1890= 441
+|1900= 395
+|1910= 882
+|1920= 1400
+|1930= 1474
+|1940= 1511
+|1950= 1808
+|1960= 1890
+|1970= 2323
+|1980= 2444
+|1990= 2431
+|2000= 2311
+|2010= 2255
+|2020= 2091
+|footnote=Sources:<ref name="GR9">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|publisher=[[United States Census Bureau]]|accessdate=March 4, 2012|title=Census of Population and Housing: Decennial Censuses}}</ref><ref name=CensusPopEst>{{cite web|title=Incorporated Places and Minor Civil Divisions Datasets: Subcounty Resident Population Estimates: April 1, 2010 to July 1, 2012|url=https://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|work=Population Estimates|publisher=U.S. Census Bureau|accessdate=December 11, 2013|archive-url=https://web.archive.org/web/20130611010502/http://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|archive-date=June 11, 2013|url-status=dead}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A47|title=Census Population API|publisher=United States Census Bureau|accessdate=October 15, 2022}}</ref>
+}}
+
+===2020 census===
+{| class="wikitable"
+|+Halls racial composition<ref>{{Cite web|title=Explore Census Data|url=https://data.census.gov/cedsci/table?g=1600000US4731820&tid=DECENNIALPL2020.P2|access-date=December 8, 2021|website=data.census.gov}}</ref>
+!Race
+!Num.
+!Perc.
+|-
+|[[White (U.S. Census)|White]] (non-Hispanic)
+|1,319
+|63.08%
+|-
+|[[African American (U.S. Census)|Black or African American]] (non-Hispanic)
+|557
+|26.64%
+|-
+|[[Native American (U.S. Census)|Native American]]
+|10
+|0.48%
+|-
+|[[Asian (U.S. Census)|Asian]]
+|3
+|0.14%
+|-
+|[[Race (United States Census)|Other/Mixed]]
+|136
+|6.5%
+|-
+|[[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]]
+|66
+|3.16%
+|}
+As of the [[2020 United States census]], there were 2,091 people, 887 households, and 557 families residing in the town.
+
+===2000 census===
+As of the [[census]]<ref name="GR2" /> of 2000, there were 2,311 people, 946 households, and 642 families residing in the town. The population density was {{convert|630.8|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 1,051 housing units at an average density of {{convert|286.9|/sqmi|/km2|sp=us|adj=off}}. The racial makeup of the town was 70.45% [[White (U.S. Census)|White]], 28.13% [[African American (U.S. Census)|African American]], 0.48% [[Native American (U.S. Census)|Native American]], 0.09% [[Asian (U.S. Census)|Asian]], 0.04% [[Pacific Islander (U.S. Census)|Pacific Islander]], 0.17% from [[Race (United States Census)|other races]], and 0.65% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 0.65% of the population.
+
+There were 946 households, out of which 29.7% had children under the age of 18 living with them, 45.3% were [[Marriage|married couples]] living together, 17.7% had a female householder with no husband present, and 32.1% were non-families. 30.0% of all households were made up of individuals, and 15.9% had someone living alone who was 65 years of age or older. The average household size was 2.44 and the average family size was 3.03.
+
+In the town, the population was spread out, with 26.7% under the age of 18, 7.7% from 18 to 24, 26.8% from 25 to 44, 22.3% from 45 to 64, and 16.4% who were 65 years of age or older. The median age was 37 years. For every 100 females, there were 87.1 males. For every 100 females age 18 and over, there were 81.8 males.
+
+The median income for a household in the town was $24,142, and the median income for a family was $29,063. Males had a median income of $26,528 versus $19,300 for females. The [[per capita income]] for the town was $15,011. About 21.8% of families and 23.3% of the population were below the [[poverty line]], including 29.2% of those under age 18 and 29.0% of those age 65 or over.
+

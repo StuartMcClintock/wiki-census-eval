@@ -1,0 +1,16 @@
+{
+  "article": "Viola,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/77400/Viola__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "70ff4275a6e8c411631c30d746270d1d335a5ca835cd25d81e6cb75246fffe9f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "70ff4275a6e8c411631c30d746270d1d335a5ca835cd25d81e6cb75246fffe9f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/77400/Viola__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "77400",
+  "timestamp": "2026-05-25T00:14:57.673536Z",
+  "version": 1
+}

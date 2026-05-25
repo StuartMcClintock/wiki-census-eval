@@ -1,0 +1,16 @@
+{
+  "article": "West_Jefferson,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/72540/West_Jefferson__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f8e703771a230e876eae68fa4b770af12c70346baa2ab959d2bc4fd30b879108",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f8e703771a230e876eae68fa4b770af12c70346baa2ab959d2bc4fd30b879108",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/72540/West_Jefferson__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "72540",
+  "timestamp": "2026-05-25T00:02:29.365875Z",
+  "version": 1
+}

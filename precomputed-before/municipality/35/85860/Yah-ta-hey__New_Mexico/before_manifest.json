@@ -1,0 +1,16 @@
+{
+  "article": "Yah-ta-hey,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/85860/Yah-ta-hey__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d832a650875f5b3f1d4a67d0588db5751e81c08343c31f2cc4c1125b1cc157bb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d832a650875f5b3f1d4a67d0588db5751e81c08343c31f2cc4c1125b1cc157bb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/85860/Yah-ta-hey__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "85860",
+  "timestamp": "2026-05-25T00:00:29.310371Z",
+  "version": 1
+}

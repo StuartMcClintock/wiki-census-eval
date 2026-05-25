@@ -1,0 +1,16 @@
+{
+  "article": "Maiden_Rock,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/48175/Maiden_Rock__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d71bdd0d14f2fa2619511cf3e5fcade2b75d892c0c22945cf8bf6eb67c124482",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d71bdd0d14f2fa2619511cf3e5fcade2b75d892c0c22945cf8bf6eb67c124482",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/48175/Maiden_Rock__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "48175",
+  "timestamp": "2026-05-25T00:22:22.734744Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Fruitland,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/29280/Fruitland__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dbf3e79f3f9cf76df7204a4f8e5a0da9583737183d4dee7520b763d85a8d8cd8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dbf3e79f3f9cf76df7204a4f8e5a0da9583737183d4dee7520b763d85a8d8cd8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/29280/Fruitland__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "29280",
+  "timestamp": "2026-05-24T23:41:03.589978Z",
+  "version": 1
+}

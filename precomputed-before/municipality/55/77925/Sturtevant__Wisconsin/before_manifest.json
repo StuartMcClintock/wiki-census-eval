@@ -1,0 +1,16 @@
+{
+  "article": "Sturtevant,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/77925/Sturtevant__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ace50d0038a9ce31bdd979545ca5485f0d2f2cc7b0bab15cf59027679fb63306",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ace50d0038a9ce31bdd979545ca5485f0d2f2cc7b0bab15cf59027679fb63306",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/77925/Sturtevant__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "77925",
+  "timestamp": "2026-05-25T00:22:45.867776Z",
+  "version": 1
+}

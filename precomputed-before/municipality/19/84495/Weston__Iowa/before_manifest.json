@@ -1,0 +1,16 @@
+{
+  "article": "Weston,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/84495/Weston__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b958f2431b0992233a671fd03bef37e535a0ce59178aff196cd01a6c3a642532",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b958f2431b0992233a671fd03bef37e535a0ce59178aff196cd01a6c3a642532",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/84495/Weston__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "84495",
+  "timestamp": "2026-05-24T23:42:11.551414Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Annapolis,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/01270/Annapolis__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4a0c8180ada13feeb6fec6e9a5adf191125ec1688e9e310dfd79554a74a5fb21",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4a0c8180ada13feeb6fec6e9a5adf191125ec1688e9e310dfd79554a74a5fb21",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/01270/Annapolis__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "01270",
+  "timestamp": "2026-05-24T23:50:31.659791Z",
+  "version": 1
+}

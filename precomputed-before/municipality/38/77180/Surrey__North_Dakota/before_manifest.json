@@ -1,0 +1,16 @@
+{
+  "article": "Surrey,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/77180/Surrey__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f60c0bdaa87b07af20431e8a6bdc6a42a3604e8c5c8782237e4381be769a51cd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f60c0bdaa87b07af20431e8a6bdc6a42a3604e8c5c8782237e4381be769a51cd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/77180/Surrey__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "77180",
+  "timestamp": "2026-05-25T00:03:23.709416Z",
+  "version": 1
+}

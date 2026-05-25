@@ -1,0 +1,16 @@
+{
+  "article": "Upland,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/49880/Upland__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6219c8fb5909858b3ea2379934b5eddb27d21b84bc6a835d9f64c7db9dd9d608",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6219c8fb5909858b3ea2379934b5eddb27d21b84bc6a835d9f64c7db9dd9d608",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/49880/Upland__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "49880",
+  "timestamp": "2026-05-24T23:57:22.077695Z",
+  "version": 1
+}

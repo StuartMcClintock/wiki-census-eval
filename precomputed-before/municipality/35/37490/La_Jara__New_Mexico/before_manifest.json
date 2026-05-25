@@ -1,0 +1,16 @@
+{
+  "article": "La_Jara,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/37490/La_Jara__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d982794130eb27c1d0b3504569dfa837c266aa3ac8767cc9ef7f81a727cdf731",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d982794130eb27c1d0b3504569dfa837c266aa3ac8767cc9ef7f81a727cdf731",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/37490/La_Jara__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "37490",
+  "timestamp": "2026-05-24T23:58:36.059429Z",
+  "version": 1
+}

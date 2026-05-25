@@ -1,0 +1,16 @@
+{
+  "article": "Poplar_Grove,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/56690/Poplar_Grove__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7bde4f49ec043ea48ddfcbbe35ccc7f3bff5cdc70aae3e49febddad10d7169c3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7bde4f49ec043ea48ddfcbbe35ccc7f3bff5cdc70aae3e49febddad10d7169c3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/56690/Poplar_Grove__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "56690",
+  "timestamp": "2026-05-24T23:34:04.435219Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Gadsden,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/28380/Gadsden__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b0b21c2ebb5394318923886ae3736c6fe8003dc83874cd65fb9fbfd335651b54",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b0b21c2ebb5394318923886ae3736c6fe8003dc83874cd65fb9fbfd335651b54",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/28380/Gadsden__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "28380",
+  "timestamp": "2026-05-25T00:14:39.773442Z",
+  "version": 1
+}

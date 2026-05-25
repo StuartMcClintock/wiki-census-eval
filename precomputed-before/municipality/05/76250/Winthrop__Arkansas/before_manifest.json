@@ -1,0 +1,16 @@
+{
+  "article": "Winthrop,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/76250/Winthrop__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9980ca40a8a0f63f97819aec0e11c89541fec5d9a7caffc8cf64567c4590b2b0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9980ca40a8a0f63f97819aec0e11c89541fec5d9a7caffc8cf64567c4590b2b0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/76250/Winthrop__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "76250",
+  "timestamp": "2026-05-24T23:34:15.598871Z",
+  "version": 1
+}

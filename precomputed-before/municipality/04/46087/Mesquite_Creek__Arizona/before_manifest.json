@@ -1,0 +1,16 @@
+{
+  "article": "Mesquite_Creek,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/46087/Mesquite_Creek__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0dfec786183877ce77b6003ed5369fa4ac2a1165fecf83f7c35ab1e173f8bf3d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0dfec786183877ce77b6003ed5369fa4ac2a1165fecf83f7c35ab1e173f8bf3d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/46087/Mesquite_Creek__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "46087",
+  "timestamp": "2026-05-24T23:33:04.114832Z",
+  "version": 1
+}

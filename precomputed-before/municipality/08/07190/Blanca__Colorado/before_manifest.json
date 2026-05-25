@@ -1,0 +1,16 @@
+{
+  "article": "Blanca,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/07190/Blanca__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cbe7e3b4e7a3de47391b5c55d67571a925216f4c46f6ac02c6c8d0c2ce1b8a74",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cbe7e3b4e7a3de47391b5c55d67571a925216f4c46f6ac02c6c8d0c2ce1b8a74",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/07190/Blanca__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "07190",
+  "timestamp": "2026-05-24T23:35:18.859957Z",
+  "version": 1
+}

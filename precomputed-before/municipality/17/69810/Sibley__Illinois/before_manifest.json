@@ -1,0 +1,16 @@
+{
+  "article": "Sibley,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/69810/Sibley__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2b3597d986efd5b50e1453b221a8e81b9e297d01ff7a4df2e107fd6b3a120bda",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2b3597d986efd5b50e1453b221a8e81b9e297d01ff7a4df2e107fd6b3a120bda",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/69810/Sibley__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "69810",
+  "timestamp": "2026-05-24T23:39:11.503054Z",
+  "version": 1
+}

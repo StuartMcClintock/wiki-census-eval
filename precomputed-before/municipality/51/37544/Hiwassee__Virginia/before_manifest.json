@@ -1,0 +1,16 @@
+{
+  "article": "Hiwassee,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/37544/Hiwassee__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1f8835cd4c58cf149767be55ef606e27bff846d0daf13b66b0a40cc8f466c4ad",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1f8835cd4c58cf149767be55ef606e27bff846d0daf13b66b0a40cc8f466c4ad",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/37544/Hiwassee__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "37544",
+  "timestamp": "2026-05-25T00:19:17.937177Z",
+  "version": 1
+}

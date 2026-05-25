@@ -1,0 +1,16 @@
+{
+  "article": "Custar,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/19750/Custar__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0360e311abd8eebf353768c05cab928d3e9b0810d7cfdcf19e0658d936d1e5ca",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0360e311abd8eebf353768c05cab928d3e9b0810d7cfdcf19e0658d936d1e5ca",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/19750/Custar__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "19750",
+  "timestamp": "2026-05-25T00:04:02.633871Z",
+  "version": 1
+}

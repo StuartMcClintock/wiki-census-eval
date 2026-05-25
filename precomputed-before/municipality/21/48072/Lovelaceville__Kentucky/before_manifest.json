@@ -1,0 +1,16 @@
+{
+  "article": "Lovelaceville,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/48072/Lovelaceville__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5a9235425a6f6b6c9d92f3cc3fd85ac80dfc322b86df99bee70ffca4c893f93f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5a9235425a6f6b6c9d92f3cc3fd85ac80dfc322b86df99bee70ffca4c893f93f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/48072/Lovelaceville__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "48072",
+  "timestamp": "2026-05-24T23:44:10.017912Z",
+  "version": 1
+}

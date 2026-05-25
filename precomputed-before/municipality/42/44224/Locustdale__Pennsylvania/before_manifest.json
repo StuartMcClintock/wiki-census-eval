@@ -1,0 +1,16 @@
+{
+  "article": "Locustdale,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/44224/Locustdale__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "09f33c2be3926ec6f740863c0c1ee0e24daafb6ead673348d46c87d5f4a47b9a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "09f33c2be3926ec6f740863c0c1ee0e24daafb6ead673348d46c87d5f4a47b9a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/44224/Locustdale__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "44224",
+  "timestamp": "2026-05-25T00:07:53.647382Z",
+  "version": 1
+}

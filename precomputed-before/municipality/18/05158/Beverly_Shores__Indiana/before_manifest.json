@@ -1,0 +1,16 @@
+{
+  "article": "Beverly_Shores,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/05158/Beverly_Shores__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1736083a1abc0218123a6ea57f355d0d7b366018295dddec9365d5bd32c0e295",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1736083a1abc0218123a6ea57f355d0d7b366018295dddec9365d5bd32c0e295",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/05158/Beverly_Shores__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "05158",
+  "timestamp": "2026-05-24T23:39:26.149215Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Reese,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/64000/Reese__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "780f26a849d0efd5ff1e48d24380129a5f7766230fbba74aca7b96e66bc466fc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "780f26a849d0efd5ff1e48d24380129a5f7766230fbba74aca7b96e66bc466fc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/64000/Reese__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "64000",
+  "timestamp": "2026-05-25T00:08:36.477769Z",
+  "version": 1
+}

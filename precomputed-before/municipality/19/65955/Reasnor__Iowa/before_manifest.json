@@ -1,0 +1,16 @@
+{
+  "article": "Reasnor,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/65955/Reasnor__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "45cc5fc9883979e50de34aea7f24dd071ec0c0724bd689024ab4e9b6d93731b1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "45cc5fc9883979e50de34aea7f24dd071ec0c0724bd689024ab4e9b6d93731b1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/65955/Reasnor__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "65955",
+  "timestamp": "2026-05-24T23:41:41.598997Z",
+  "version": 1
+}

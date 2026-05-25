@@ -1,0 +1,16 @@
+{
+  "article": "Crossville,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/17783/Crossville__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1c3f683efccb41a0b2da76a637deacf15c5897884af478c5d66579e5a24d5295",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1c3f683efccb41a0b2da76a637deacf15c5897884af478c5d66579e5a24d5295",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/17783/Crossville__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "17783",
+  "timestamp": "2026-05-24T23:38:04.138808Z",
+  "version": 1
+}

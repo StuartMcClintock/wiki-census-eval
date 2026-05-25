@@ -1,0 +1,16 @@
+{
+  "article": "Exeter,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/24699/Exeter__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9a6a08ff60e26fd5c57b9d629844d672e33ff0a2959a34ebc4020a27b3061286",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9a6a08ff60e26fd5c57b9d629844d672e33ff0a2959a34ebc4020a27b3061286",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/24699/Exeter__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "24699",
+  "timestamp": "2026-05-24T23:38:11.681077Z",
+  "version": 1
+}

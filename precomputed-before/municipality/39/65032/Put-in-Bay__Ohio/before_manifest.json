@@ -1,0 +1,16 @@
+{
+  "article": "Put-in-Bay,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/65032/Put-in-Bay__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dc73747e2dcc9e6efd31a7c11f3a10d402adef536cc0c1300c6ee2f6a8e83b0c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dc73747e2dcc9e6efd31a7c11f3a10d402adef536cc0c1300c6ee2f6a8e83b0c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/65032/Put-in-Bay__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "65032",
+  "timestamp": "2026-05-25T00:05:08.902349Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Callery,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/10800/Callery__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f028a2cc61086abb118281145aa7a6e0c70fa3df4b6fccd9a6be78a7fc820d7b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f028a2cc61086abb118281145aa7a6e0c70fa3df4b6fccd9a6be78a7fc820d7b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/10800/Callery__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "10800",
+  "timestamp": "2026-05-25T00:06:24.362758Z",
+  "version": 1
+}

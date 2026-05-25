@@ -1,0 +1,16 @@
+{
+  "article": "Almond,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/01400/Almond__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5cfb852131c53aaf456ae4e179ce3dc4097af7421a2f8222502ccb152c7bb7b7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5cfb852131c53aaf456ae4e179ce3dc4097af7421a2f8222502ccb152c7bb7b7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/01400/Almond__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "01400",
+  "timestamp": "2026-05-25T00:21:31.534470Z",
+  "version": 1
+}

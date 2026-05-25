@@ -1,0 +1,16 @@
+{
+  "article": "Swoyersville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/75832/Swoyersville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5735699036ac0b57351d475d85ea07ba5f0d4b3b582a003382e69c876848f228",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5735699036ac0b57351d475d85ea07ba5f0d4b3b582a003382e69c876848f228",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/75832/Swoyersville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "75832",
+  "timestamp": "2026-05-25T00:09:14.822815Z",
+  "version": 1
+}

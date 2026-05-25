@@ -1,0 +1,16 @@
+{
+  "article": "Miamitown,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/49462/Miamitown__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b7864eb21e154aa63692ce51597353d22079bf708d101d713dd6191192ca9701",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b7864eb21e154aa63692ce51597353d22079bf708d101d713dd6191192ca9701",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/49462/Miamitown__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "49462",
+  "timestamp": "2026-05-25T00:04:45.199388Z",
+  "version": 1
+}

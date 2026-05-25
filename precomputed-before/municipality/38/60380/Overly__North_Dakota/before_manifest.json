@@ -1,0 +1,16 @@
+{
+  "article": "Overly,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/60380/Overly__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0334994e148c711f9bf1abfa11c5bb76f4aceec67f6f45fbc766367af3598efe",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0334994e148c711f9bf1abfa11c5bb76f4aceec67f6f45fbc766367af3598efe",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/60380/Overly__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "60380",
+  "timestamp": "2026-05-25T00:03:15.794528Z",
+  "version": 1
+}

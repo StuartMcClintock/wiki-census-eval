@@ -1,0 +1,16 @@
+{
+  "article": "Preston-Potter_Hollow,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/59831/Preston-Potter_Hollow__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1aa3318969b0fca7a517ff1e80405202477c5bc15b5c7695d3f4616f2ca1a945",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1aa3318969b0fca7a517ff1e80405202477c5bc15b5c7695d3f4616f2ca1a945",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/59831/Preston-Potter_Hollow__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "59831",
+  "timestamp": "2026-05-25T00:01:06.220877Z",
+  "version": 1
+}

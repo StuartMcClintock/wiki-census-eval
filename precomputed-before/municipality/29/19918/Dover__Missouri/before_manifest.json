@@ -1,0 +1,16 @@
+{
+  "article": "Dover,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/19918/Dover__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1fd786bdbec0aa51615b801ac3a44033ef325b0a122b976c15cba9f0df2f05bb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1fd786bdbec0aa51615b801ac3a44033ef325b0a122b976c15cba9f0df2f05bb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/19918/Dover__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "19918",
+  "timestamp": "2026-05-24T23:51:04.140077Z",
+  "version": 1
+}

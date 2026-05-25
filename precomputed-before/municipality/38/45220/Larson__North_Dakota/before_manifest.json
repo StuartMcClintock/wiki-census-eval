@@ -1,0 +1,16 @@
+{
+  "article": "Larson,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/45220/Larson__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2b719fa78cff55b8e37bf3531ac5eec5b5e0bc1424222387b8f29aa95e454167",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2b719fa78cff55b8e37bf3531ac5eec5b5e0bc1424222387b8f29aa95e454167",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/45220/Larson__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "45220",
+  "timestamp": "2026-05-25T00:03:07.906197Z",
+  "version": 1
+}

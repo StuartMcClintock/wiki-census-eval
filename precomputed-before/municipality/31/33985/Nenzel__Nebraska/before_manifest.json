@@ -1,0 +1,16 @@
+{
+  "article": "Nenzel,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/33985/Nenzel__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2e46f61862c77b95693c55717fc5a4dd2031dd8cd4d9990d2149b8055b22e892",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2e46f61862c77b95693c55717fc5a4dd2031dd8cd4d9990d2149b8055b22e892",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/33985/Nenzel__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "33985",
+  "timestamp": "2026-05-24T23:55:55.357083Z",
+  "version": 1
+}

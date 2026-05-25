@@ -1,0 +1,16 @@
+{
+  "article": "Gerton,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/25900/Gerton__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "eb1232a56f8a92696f9364c555d10f22484b0b9bd5cc32efa066f145fca96598",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "eb1232a56f8a92696f9364c555d10f22484b0b9bd5cc32efa066f145fca96598",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/25900/Gerton__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "25900",
+  "timestamp": "2026-05-25T00:01:57.605955Z",
+  "version": 1
+}

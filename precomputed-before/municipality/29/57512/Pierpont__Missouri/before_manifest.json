@@ -1,0 +1,16 @@
+{
+  "article": "Pierpont,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/57512/Pierpont__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d9e685381b040afd959955f04aec6d4c915eb602612ef304a489ebe048bca184",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d9e685381b040afd959955f04aec6d4c915eb602612ef304a489ebe048bca184",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/57512/Pierpont__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "57512",
+  "timestamp": "2026-05-24T23:53:41.773542Z",
+  "version": 1
+}

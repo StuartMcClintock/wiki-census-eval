@@ -1,0 +1,16 @@
+{
+  "article": "Centreville,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/12740/Centreville__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b7199da6a85aa8190536bd12c8bcc84b39a76bdfba187dc2d8f6e114a15fe4aa",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b7199da6a85aa8190536bd12c8bcc84b39a76bdfba187dc2d8f6e114a15fe4aa",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/12740/Centreville__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "12740",
+  "timestamp": "2026-05-24T23:50:05.052559Z",
+  "version": 1
+}

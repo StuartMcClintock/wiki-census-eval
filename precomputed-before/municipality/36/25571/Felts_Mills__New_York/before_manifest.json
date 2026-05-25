@@ -1,0 +1,16 @@
+{
+  "article": "Felts_Mills,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/25571/Felts_Mills__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ac33c72fa578aa69465885c2f67b442db95a2c95c121d177d2890498652ad73a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ac33c72fa578aa69465885c2f67b442db95a2c95c121d177d2890498652ad73a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/25571/Felts_Mills__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "25571",
+  "timestamp": "2026-05-25T00:00:42.310688Z",
+  "version": 1
+}

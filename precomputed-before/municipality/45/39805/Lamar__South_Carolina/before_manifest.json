@@ -1,0 +1,16 @@
+{
+  "article": "Lamar,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/39805/Lamar__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c90feec3a42a2e6a1a1120e9d4f4a05972592c2a5d17f937f7d9eb8e9fe43c22",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c90feec3a42a2e6a1a1120e9d4f4a05972592c2a5d17f937f7d9eb8e9fe43c22",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/39805/Lamar__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "39805",
+  "timestamp": "2026-05-25T00:10:09.786599Z",
+  "version": 1
+}

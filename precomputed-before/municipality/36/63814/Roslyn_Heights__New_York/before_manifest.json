@@ -1,0 +1,16 @@
+{
+  "article": "Roslyn_Heights,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/63814/Roslyn_Heights__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b5a9e8a58224fd19a004a3478ebbc9d4d9fccc8c6a9426e9b456ec5d26cfb04e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b5a9e8a58224fd19a004a3478ebbc9d4d9fccc8c6a9426e9b456ec5d26cfb04e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/63814/Roslyn_Heights__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "63814",
+  "timestamp": "2026-05-25T00:01:09.114272Z",
+  "version": 1
+}

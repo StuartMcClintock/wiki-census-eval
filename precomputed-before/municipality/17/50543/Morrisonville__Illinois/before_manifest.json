@@ -1,0 +1,16 @@
+{
+  "article": "Morrisonville,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/50543/Morrisonville__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "556b038c4391e908aceea3380fea9a3130d44f84b54be03d8773c79a37f91736",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "556b038c4391e908aceea3380fea9a3130d44f84b54be03d8773c79a37f91736",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/50543/Morrisonville__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "50543",
+  "timestamp": "2026-05-24T23:38:36.862114Z",
+  "version": 1
+}

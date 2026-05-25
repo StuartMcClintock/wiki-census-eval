@@ -1,0 +1,16 @@
+{
+  "article": "Richfield,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/56340/Richfield__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "edadcd5a0ff20029b8d0f5ce160629cc106b95665f336bb677ee9a062391c3e6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "edadcd5a0ff20029b8d0f5ce160629cc106b95665f336bb677ee9a062391c3e6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/56340/Richfield__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "56340",
+  "timestamp": "2026-05-25T00:02:18.428903Z",
+  "version": 1
+}

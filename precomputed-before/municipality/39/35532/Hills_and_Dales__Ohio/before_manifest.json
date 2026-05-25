@@ -1,0 +1,16 @@
+{
+  "article": "Hills_and_Dales,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/35532/Hills_and_Dales__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "efbfd82a3df77b1f28e5d7da4db101eff2c1c144cc32600188aba4ce5a4e3b82",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "efbfd82a3df77b1f28e5d7da4db101eff2c1c144cc32600188aba4ce5a4e3b82",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/35532/Hills_and_Dales__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "35532",
+  "timestamp": "2026-05-25T00:04:18.182240Z",
+  "version": 1
+}

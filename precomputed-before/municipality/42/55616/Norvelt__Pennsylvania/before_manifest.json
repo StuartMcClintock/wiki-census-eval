@@ -1,0 +1,16 @@
+{
+  "article": "Norvelt,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/55616/Norvelt__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2d5eb3c0155b42270b4a4b3fe211b8f9e178d93a35911de73ca67e6d5e35491e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2d5eb3c0155b42270b4a4b3fe211b8f9e178d93a35911de73ca67e6d5e35491e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/55616/Norvelt__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "55616",
+  "timestamp": "2026-05-25T00:08:20.769458Z",
+  "version": 1
+}

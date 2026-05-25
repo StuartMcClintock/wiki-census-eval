@@ -1,0 +1,16 @@
+{
+  "article": "Brandonville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/08240/Brandonville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ce65fe9464359c73eebab5b6129d922daa94181e14a993922b74af5ef0885a13",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ce65fe9464359c73eebab5b6129d922daa94181e14a993922b74af5ef0885a13",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/08240/Brandonville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "08240",
+  "timestamp": "2026-05-25T00:06:20.603183Z",
+  "version": 1
+}

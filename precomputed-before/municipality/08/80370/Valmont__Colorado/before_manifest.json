@@ -1,0 +1,16 @@
+{
+  "article": "Valmont,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/80370/Valmont__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7423ee0ceb78ac1f0ff20d24e8bf7af522dca08dc0b2f11f87a31fcf7079c5be",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7423ee0ceb78ac1f0ff20d24e8bf7af522dca08dc0b2f11f87a31fcf7079c5be",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/80370/Valmont__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "80370",
+  "timestamp": "2026-05-24T23:35:54.406992Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "St._Donatus,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/69960/St._Donatus__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "59b69cc2cd08e7b636f5079bd0bbceb972f5641f4079f25354257a35229a894f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "59b69cc2cd08e7b636f5079bd0bbceb972f5641f4079f25354257a35229a894f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/69960/St._Donatus__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "69960",
+  "timestamp": "2026-05-24T23:41:46.142480Z",
+  "version": 1
+}

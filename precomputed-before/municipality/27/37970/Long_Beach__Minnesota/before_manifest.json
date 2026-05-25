@@ -1,0 +1,16 @@
+{
+  "article": "Long_Beach,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/37970/Long_Beach__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "76f1e9073d8f33d3e547d6d82de09588492e47edf40e20f7ab88726fb1ff208d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "76f1e9073d8f33d3e547d6d82de09588492e47edf40e20f7ab88726fb1ff208d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/37970/Long_Beach__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "37970",
+  "timestamp": "2026-05-24T23:49:16.542670Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Pine_Valley,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/58920/Pine_Valley__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3ccb550925da99a12cc59c16b2a980ec699b71cb57f38a1a7f91390b9f20d241",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3ccb550925da99a12cc59c16b2a980ec699b71cb57f38a1a7f91390b9f20d241",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/58920/Pine_Valley__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "58920",
+  "timestamp": "2026-05-24T23:57:58.220599Z",
+  "version": 1
+}

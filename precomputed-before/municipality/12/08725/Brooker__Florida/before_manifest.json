@@ -1,0 +1,16 @@
+{
+  "article": "Brooker,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/08725/Brooker__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "74e6d439e9a96828bcbaab39af4c87d6fd2adc602dc719326c83e46854a284e5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "74e6d439e9a96828bcbaab39af4c87d6fd2adc602dc719326c83e46854a284e5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/08725/Brooker__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "08725",
+  "timestamp": "2026-05-24T23:36:08.519871Z",
+  "version": 1
+}

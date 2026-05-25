@@ -1,0 +1,16 @@
+{
+  "article": "Creston,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/17232/Creston__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b3584ee0f716efa888ceab0bca7d356a77e6ee0a84254e578a36e09c62b2b5ac",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b3584ee0f716efa888ceab0bca7d356a77e6ee0a84254e578a36e09c62b2b5ac",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/17232/Creston__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "17232",
+  "timestamp": "2026-05-24T23:34:16.524087Z",
+  "version": 1
+}

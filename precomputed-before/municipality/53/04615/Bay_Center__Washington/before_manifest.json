@@ -1,0 +1,16 @@
+{
+  "article": "Bay_Center,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/04615/Bay_Center__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e22c7bc06724175bef510d8383e8b4a2bc87e804238ea0d6dd9f1cb1aa6b4c0d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e22c7bc06724175bef510d8383e8b4a2bc87e804238ea0d6dd9f1cb1aa6b4c0d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/04615/Bay_Center__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "04615",
+  "timestamp": "2026-05-25T00:20:01.699780Z",
+  "version": 1
+}

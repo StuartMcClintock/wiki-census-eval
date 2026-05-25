@@ -1,0 +1,16 @@
+{
+  "article": "Colonial_Pine_Hills,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/13355/Colonial_Pine_Hills__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "852b3b9193c936b5771644de344e05aa41d3a10b4f2cef423499540decee077f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "852b3b9193c936b5771644de344e05aa41d3a10b4f2cef423499540decee077f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/13355/Colonial_Pine_Hills__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "13355",
+  "timestamp": "2026-05-25T00:10:35.371741Z",
+  "version": 1
+}

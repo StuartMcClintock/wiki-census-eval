@@ -1,0 +1,16 @@
+{
+  "article": "Uniondale,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/77786/Uniondale__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f00d8b3c30071465d6d40c624a490d6da1b92cdcb49d8092ea50d7cd04152d35",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f00d8b3c30071465d6d40c624a490d6da1b92cdcb49d8092ea50d7cd04152d35",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/77786/Uniondale__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "77786",
+  "timestamp": "2026-05-24T23:40:16.655964Z",
+  "version": 1
+}

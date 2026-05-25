@@ -1,0 +1,16 @@
+{
+  "article": "Paoli,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/57816/Paoli__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "64cb339de31ab77086bc644bed9dab6ed9e7dfde2313ea8d3977aef0bbf827ed",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "64cb339de31ab77086bc644bed9dab6ed9e7dfde2313ea8d3977aef0bbf827ed",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/57816/Paoli__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "57816",
+  "timestamp": "2026-05-25T00:08:25.608947Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Orleans,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/59655/Orleans__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "aeb71992fbf02e86b0edb6c389280e29d9b07edcd7d7795bbf0755c1e7941c43",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "aeb71992fbf02e86b0edb6c389280e29d9b07edcd7d7795bbf0755c1e7941c43",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/59655/Orleans__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "59655",
+  "timestamp": "2026-05-24T23:41:35.277398Z",
+  "version": 1
+}

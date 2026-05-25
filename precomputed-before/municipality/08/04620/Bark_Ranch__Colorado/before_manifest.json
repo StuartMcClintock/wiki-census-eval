@@ -1,0 +1,16 @@
+{
+  "article": "Bark_Ranch,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/04620/Bark_Ranch__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bf9868953c9db79e2d492a9a6e1679b6d9c808c5010f61ee578abf90f696ae8f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bf9868953c9db79e2d492a9a6e1679b6d9c808c5010f61ee578abf90f696ae8f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/04620/Bark_Ranch__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "04620",
+  "timestamp": "2026-05-24T23:35:18.425240Z",
+  "version": 1
+}

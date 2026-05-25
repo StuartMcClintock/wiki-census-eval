@@ -1,0 +1,16 @@
+{
+  "article": "Nunn,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/55045/Nunn__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "35974663510e2cadc128aa39c17be4ba1f5179104841a73e0c369f5c656a3ce3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "35974663510e2cadc128aa39c17be4ba1f5179104841a73e0c369f5c656a3ce3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/55045/Nunn__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "55045",
+  "timestamp": "2026-05-24T23:35:35.304340Z",
+  "version": 1
+}

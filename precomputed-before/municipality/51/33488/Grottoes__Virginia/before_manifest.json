@@ -1,0 +1,16 @@
+{
+  "article": "Grottoes,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/33488/Grottoes__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "72b6d7f418a045ef45b5a2a28fcd182ee7a4806c9100f9493ae6405936be3441",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "72b6d7f418a045ef45b5a2a28fcd182ee7a4806c9100f9493ae6405936be3441",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/33488/Grottoes__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "33488",
+  "timestamp": "2026-05-25T00:19:16.288316Z",
+  "version": 1
+}

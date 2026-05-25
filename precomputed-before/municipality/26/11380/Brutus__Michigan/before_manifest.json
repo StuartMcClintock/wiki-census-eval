@@ -1,0 +1,16 @@
+{
+  "article": "Brutus,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/11380/Brutus__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cc2628f2c07536f394b90fb94f3be5130f7b9a10b334a663e92f340a6a9ad151",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cc2628f2c07536f394b90fb94f3be5130f7b9a10b334a663e92f340a6a9ad151",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/11380/Brutus__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "11380",
+  "timestamp": "2026-05-24T23:47:45.690755Z",
+  "version": 1
+}

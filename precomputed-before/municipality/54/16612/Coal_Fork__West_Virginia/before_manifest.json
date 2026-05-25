@@ -1,0 +1,16 @@
+{
+  "article": "Coal_Fork,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/16612/Coal_Fork__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "26c7e13a2341712cefa2b47b54209599bb49e48e8678f6209afccf994345c503",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "26c7e13a2341712cefa2b47b54209599bb49e48e8678f6209afccf994345c503",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/16612/Coal_Fork__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "16612",
+  "timestamp": "2026-05-25T00:21:01.759844Z",
+  "version": 1
+}

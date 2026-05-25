@@ -1,0 +1,16 @@
+{
+  "article": "Booker,_Texas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/48/09448/Booker__Texas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2aa672f773f2f71d40038ec9ef01abc906a885d0983d519abd8ad0e1b87b4e6f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2aa672f773f2f71d40038ec9ef01abc906a885d0983d519abd8ad0e1b87b4e6f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/48/09448/Booker__Texas/manifest.json",
+  "state_fips": "48",
+  "status": "match",
+  "target_fips": "09448",
+  "timestamp": "2026-05-25T00:15:07.669027Z",
+  "version": 1
+}

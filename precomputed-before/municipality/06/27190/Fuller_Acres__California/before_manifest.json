@@ -1,0 +1,16 @@
+{
+  "article": "Fuller_Acres,_California",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/06/27190/Fuller_Acres__California/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ab37d3b3a21522ca0d5e679a9139b9e19f1936736916532a174920ceea189570",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ab37d3b3a21522ca0d5e679a9139b9e19f1936736916532a174920ceea189570",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/06/27190/Fuller_Acres__California/manifest.json",
+  "state_fips": "06",
+  "status": "match",
+  "target_fips": "27190",
+  "timestamp": "2026-05-24T23:34:24.457967Z",
+  "version": 1
+}

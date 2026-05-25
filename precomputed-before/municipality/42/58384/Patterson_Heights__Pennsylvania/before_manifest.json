@@ -1,0 +1,16 @@
+{
+  "article": "Patterson_Heights,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/58384/Patterson_Heights__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d356323af34ad969fa4df6eaf569023175e819336da26b92ee75f144ae232f62",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d356323af34ad969fa4df6eaf569023175e819336da26b92ee75f144ae232f62",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/58384/Patterson_Heights__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "58384",
+  "timestamp": "2026-05-25T00:08:26.570368Z",
+  "version": 1
+}

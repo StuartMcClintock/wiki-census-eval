@@ -1,0 +1,16 @@
+{
+  "article": "Strasburg,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/76000/Strasburg__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dcf313ed5cc3ccfbacdf024ffc0eaebdb7a888241492c0d8e4c795ac382cc708",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dcf313ed5cc3ccfbacdf024ffc0eaebdb7a888241492c0d8e4c795ac382cc708",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/76000/Strasburg__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "76000",
+  "timestamp": "2026-05-25T00:19:40.423267Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Belvidere,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/04620/Belvidere__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ce7bb3ccf488b0dd2f9b92f950a008cffe89302d31b714fd62afd888aa3bf9cb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ce7bb3ccf488b0dd2f9b92f950a008cffe89302d31b714fd62afd888aa3bf9cb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/04620/Belvidere__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "04620",
+  "timestamp": "2026-05-25T00:10:31.362528Z",
+  "version": 1
+}

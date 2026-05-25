@@ -1,0 +1,16 @@
+{
+  "article": "Jamestown,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/37696/Jamestown__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fe2e852afdf4f4217b3f15a17a4a9cedcf87ff69e8181057d0b8a626cd2fdb9b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fe2e852afdf4f4217b3f15a17a4a9cedcf87ff69e8181057d0b8a626cd2fdb9b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/37696/Jamestown__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "37696",
+  "timestamp": "2026-05-25T00:07:42.267645Z",
+  "version": 1
+}

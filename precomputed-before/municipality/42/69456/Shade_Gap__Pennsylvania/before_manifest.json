@@ -1,0 +1,16 @@
+{
+  "article": "Shade_Gap,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/69456/Shade_Gap__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "77932f837f31998839504de8f30c4d9ac88d134512b94a2e76610908bb0a40a6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "77932f837f31998839504de8f30c4d9ac88d134512b94a2e76610908bb0a40a6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/69456/Shade_Gap__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "69456",
+  "timestamp": "2026-05-25T00:09:01.169374Z",
+  "version": 1
+}

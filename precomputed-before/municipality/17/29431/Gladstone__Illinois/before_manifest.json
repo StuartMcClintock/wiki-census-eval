@@ -1,0 +1,16 @@
+{
+  "article": "Gladstone,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/29431/Gladstone__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "adb23106ecc14e72697ab818f8ab45947447adc053c0f390e5ea9e37ba7e010e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "adb23106ecc14e72697ab818f8ab45947447adc053c0f390e5ea9e37ba7e010e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/29431/Gladstone__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "29431",
+  "timestamp": "2026-05-24T23:38:15.703140Z",
+  "version": 1
+}

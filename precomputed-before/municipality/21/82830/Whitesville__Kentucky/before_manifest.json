@@ -1,0 +1,16 @@
+{
+  "article": "Whitesville,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/82830/Whitesville__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d045e391a0d1b5e0d35520069a3df5a3c748e5f9d074b4d4ad40c6295a7cf884",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d045e391a0d1b5e0d35520069a3df5a3c748e5f9d074b4d4ad40c6295a7cf884",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/82830/Whitesville__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "82830",
+  "timestamp": "2026-05-24T23:44:25.978753Z",
+  "version": 1
+}

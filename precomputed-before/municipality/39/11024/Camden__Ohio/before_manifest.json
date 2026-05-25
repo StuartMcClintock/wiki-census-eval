@@ -1,0 +1,16 @@
+{
+  "article": "Camden,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/11024/Camden__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c946c1277263ad8a862c2d2987b8dfb0b25cb37ca1a14d6daca2fb4447f6b6fe",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c946c1277263ad8a862c2d2987b8dfb0b25cb37ca1a14d6daca2fb4447f6b6fe",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/11024/Camden__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "11024",
+  "timestamp": "2026-05-25T00:03:51.819947Z",
+  "version": 1
+}

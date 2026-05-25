@@ -1,0 +1,16 @@
+{
+  "article": "Fairwater,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/25075/Fairwater__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "19d2aba8a772b3b5ef58020911ce7b9369f9ecbacc7c0ff9c03fa81473e6f904",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "19d2aba8a772b3b5ef58020911ce7b9369f9ecbacc7c0ff9c03fa81473e6f904",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/25075/Fairwater__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "25075",
+  "timestamp": "2026-05-25T00:22:05.676876Z",
+  "version": 1
+}

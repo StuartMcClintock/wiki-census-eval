@@ -1,0 +1,16 @@
+{
+  "article": "Wilroads_Gardens,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/79625/Wilroads_Gardens__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9a7c2be1fa407d0c0928286ce29313ee35e63b128ad491aea2dede06f11ee7d4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9a7c2be1fa407d0c0928286ce29313ee35e63b128ad491aea2dede06f11ee7d4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/79625/Wilroads_Gardens__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "79625",
+  "timestamp": "2026-05-24T23:43:38.657687Z",
+  "version": 1
+}

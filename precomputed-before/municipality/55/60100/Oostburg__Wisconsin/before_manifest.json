@@ -1,0 +1,16 @@
+{
+  "article": "Oostburg,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/60100/Oostburg__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fc89f3b7dda02dfad8085e74fcf2cb5e4eee27fd44a393841fd155c9179b0921",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fc89f3b7dda02dfad8085e74fcf2cb5e4eee27fd44a393841fd155c9179b0921",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/60100/Oostburg__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "60100",
+  "timestamp": "2026-05-25T00:22:32.087117Z",
+  "version": 1
+}

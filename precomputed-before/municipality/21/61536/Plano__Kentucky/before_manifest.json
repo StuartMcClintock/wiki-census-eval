@@ -1,0 +1,16 @@
+{
+  "article": "Plano,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/61536/Plano__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dc3c16689a97f53c90c3f740e10c6e869d5f98526279566eea0d1c91bb70c61e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dc3c16689a97f53c90c3f740e10c6e869d5f98526279566eea0d1c91bb70c61e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/61536/Plano__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "61536",
+  "timestamp": "2026-05-24T23:44:16.239401Z",
+  "version": 1
+}

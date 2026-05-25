@@ -1,0 +1,16 @@
+{
+  "article": "Belleplain,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/04660/Belleplain__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8f9b85e59131a61228aa830fb9c3db4367139057aa92507d374a104260a8008b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8f9b85e59131a61228aa830fb9c3db4367139057aa92507d374a104260a8008b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/04660/Belleplain__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "04660",
+  "timestamp": "2026-05-24T23:57:40.567718Z",
+  "version": 1
+}

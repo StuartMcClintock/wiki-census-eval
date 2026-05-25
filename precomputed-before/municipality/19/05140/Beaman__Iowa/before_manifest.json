@@ -1,0 +1,16 @@
+{
+  "article": "Beaman,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/05140/Beaman__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fd36b25fa4c5162243beeee0139a662eecf95963d6038a6594060ae24a426a88",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fd36b25fa4c5162243beeee0139a662eecf95963d6038a6594060ae24a426a88",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/05140/Beaman__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "05140",
+  "timestamp": "2026-05-24T23:40:27.023792Z",
+  "version": 1
+}

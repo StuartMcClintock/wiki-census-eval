@@ -1,0 +1,16 @@
+{
+  "article": "Koppel,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/40400/Koppel__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "541558fd2b802177bad153aafcb0fec55d73cbaaac6aa8828c4e340a94dc8153",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "541558fd2b802177bad153aafcb0fec55d73cbaaac6aa8828c4e340a94dc8153",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/40400/Koppel__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "40400",
+  "timestamp": "2026-05-25T00:07:45.788911Z",
+  "version": 1
+}

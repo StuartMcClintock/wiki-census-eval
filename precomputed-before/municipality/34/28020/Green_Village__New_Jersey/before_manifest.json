@@ -1,0 +1,16 @@
+{
+  "article": "Green_Village,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/28020/Green_Village__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "26a89419d41b5a1bcbad723bb5f971d8129e69fc4a7b9d013828ea3e0ad09411",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "26a89419d41b5a1bcbad723bb5f971d8129e69fc4a7b9d013828ea3e0ad09411",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/28020/Green_Village__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "28020",
+  "timestamp": "2026-05-24T23:57:49.418267Z",
+  "version": 1
+}

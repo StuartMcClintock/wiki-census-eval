@@ -1,0 +1,16 @@
+{
+  "article": "Marion,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/48170/Marion__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2c8fe03b420d8a991865ba60473990043bbf1d7072f6405ec94756f778dbaef8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2c8fe03b420d8a991865ba60473990043bbf1d7072f6405ec94756f778dbaef8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/48170/Marion__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "48170",
+  "timestamp": "2026-05-25T00:17:05.309439Z",
+  "version": 1
+}

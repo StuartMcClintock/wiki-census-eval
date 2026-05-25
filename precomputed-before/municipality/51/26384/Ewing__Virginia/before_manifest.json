@@ -1,0 +1,16 @@
+{
+  "article": "Ewing,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/26384/Ewing__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fb845b0247481b58dfdb202359a6a2a97261a659dd70ab8f2086bb7282572b98",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fb845b0247481b58dfdb202359a6a2a97261a659dd70ab8f2086bb7282572b98",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/26384/Ewing__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "26384",
+  "timestamp": "2026-05-25T00:19:12.164437Z",
+  "version": 1
+}

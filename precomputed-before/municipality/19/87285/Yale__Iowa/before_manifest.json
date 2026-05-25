@@ -1,0 +1,16 @@
+{
+  "article": "Yale,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/87285/Yale__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ed15f62c06a8c2c8518d8ed630f1149543f8776fc313e3514011bee9dbfbb37c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ed15f62c06a8c2c8518d8ed630f1149543f8776fc313e3514011bee9dbfbb37c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/87285/Yale__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "87285",
+  "timestamp": "2026-05-24T23:42:13.879932Z",
+  "version": 1
+}

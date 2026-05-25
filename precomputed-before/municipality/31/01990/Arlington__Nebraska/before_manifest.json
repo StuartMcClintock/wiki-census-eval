@@ -1,0 +1,16 @@
+{
+  "article": "Arlington,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/01990/Arlington__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0451aa2e116d7f6fe989427b2712106f04f3c8adda7e4f718991d8e1fd35f33e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0451aa2e116d7f6fe989427b2712106f04f3c8adda7e4f718991d8e1fd35f33e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/01990/Arlington__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "01990",
+  "timestamp": "2026-05-24T23:55:08.607550Z",
+  "version": 1
+}

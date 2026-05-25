@@ -1,0 +1,16 @@
+{
+  "article": "Lance_Creek,_Wyoming",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/56/44615/Lance_Creek__Wyoming/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3be4c31812ef14d60b426395c8f9eb8dc2598894f5887f05fa87b12d9ab21109",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3be4c31812ef14d60b426395c8f9eb8dc2598894f5887f05fa87b12d9ab21109",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/56/44615/Lance_Creek__Wyoming/manifest.json",
+  "state_fips": "56",
+  "status": "match",
+  "target_fips": "44615",
+  "timestamp": "2026-05-25T00:23:17.478334Z",
+  "version": 1
+}

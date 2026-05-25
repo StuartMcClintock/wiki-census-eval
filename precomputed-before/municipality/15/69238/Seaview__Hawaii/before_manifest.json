@@ -1,0 +1,16 @@
+{
+  "article": "Seaview,_Hawaii",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/15/69238/Seaview__Hawaii/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cf9da5b35548af65f940658e9e19fe1460a38d2b18fd192913253f5ce9190fff",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cf9da5b35548af65f940658e9e19fe1460a38d2b18fd192913253f5ce9190fff",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/15/69238/Seaview__Hawaii/manifest.json",
+  "state_fips": "15",
+  "status": "match",
+  "target_fips": "69238",
+  "timestamp": "2026-05-24T23:37:14.673520Z",
+  "version": 1
+}

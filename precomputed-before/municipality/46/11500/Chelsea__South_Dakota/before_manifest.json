@@ -1,0 +1,16 @@
+{
+  "article": "Chelsea,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/11500/Chelsea__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "db0913805f377a645ded6d5a8b3227a8f4d82d6b56b59c28ebea1d734e297b5f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "db0913805f377a645ded6d5a8b3227a8f4d82d6b56b59c28ebea1d734e297b5f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/11500/Chelsea__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "11500",
+  "timestamp": "2026-05-25T00:10:34.274538Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Bauxite,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/04090/Bauxite__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5d7500e0bc33dd472728adbfa54cb604492ff9c48397889c4a08b2d96ab8f502",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5d7500e0bc33dd472728adbfa54cb604492ff9c48397889c4a08b2d96ab8f502",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/04090/Bauxite__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "04090",
+  "timestamp": "2026-05-24T23:33:19.567882Z",
+  "version": 1
+}

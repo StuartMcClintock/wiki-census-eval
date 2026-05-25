@@ -1,0 +1,16 @@
+{
+  "article": "Tuntutuliak,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/79120/Tuntutuliak__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6ca490881128cc39fbb41a5c026b69eb536d066fbeb700e320793a47196e44d2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6ca490881128cc39fbb41a5c026b69eb536d066fbeb700e320793a47196e44d2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/79120/Tuntutuliak__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "79120",
+  "timestamp": "2026-05-24T23:32:45.423114Z",
+  "version": 1
+}

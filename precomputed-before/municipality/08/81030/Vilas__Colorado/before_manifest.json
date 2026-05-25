@@ -1,0 +1,16 @@
+{
+  "article": "Vilas,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/81030/Vilas__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5f15c6b8c4c76b81ffe66ae9c7d49cf19db9dbf52cf9df727e8bdc06824b953c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5f15c6b8c4c76b81ffe66ae9c7d49cf19db9dbf52cf9df727e8bdc06824b953c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/81030/Vilas__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "81030",
+  "timestamp": "2026-05-24T23:35:54.766246Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Boon,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/09560/Boon__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f22121a9d77fa89d6509411eaf66a09d614700bfee8c8b57a44aaeef094154eb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f22121a9d77fa89d6509411eaf66a09d614700bfee8c8b57a44aaeef094154eb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/09560/Boon__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "09560",
+  "timestamp": "2026-05-24T23:47:44.342925Z",
+  "version": 1
+}

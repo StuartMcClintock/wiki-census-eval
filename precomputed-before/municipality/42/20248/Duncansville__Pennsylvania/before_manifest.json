@@ -1,0 +1,16 @@
+{
+  "article": "Duncansville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/20248/Duncansville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6dc1546d32d8d0c4c52d0d2264c171cd6a9e19db7d8c08a00dc3d64522d87c4b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6dc1546d32d8d0c4c52d0d2264c171cd6a9e19db7d8c08a00dc3d64522d87c4b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/20248/Duncansville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "20248",
+  "timestamp": "2026-05-25T00:06:54.000076Z",
+  "version": 1
+}

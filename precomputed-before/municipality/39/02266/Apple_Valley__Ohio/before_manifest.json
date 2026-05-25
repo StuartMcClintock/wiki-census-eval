@@ -1,0 +1,16 @@
+{
+  "article": "Apple_Valley,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/02266/Apple_Valley__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1bb429214d250106f95f6bd7dd88c057c5052c37b3c536f535e1f71d7c006288",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1bb429214d250106f95f6bd7dd88c057c5052c37b3c536f535e1f71d7c006288",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/02266/Apple_Valley__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "02266",
+  "timestamp": "2026-05-25T00:03:30.640164Z",
+  "version": 1
+}

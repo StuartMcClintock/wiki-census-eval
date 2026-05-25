@@ -1,0 +1,16 @@
+{
+  "article": "Panama,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/57498/Panama__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9104a14e3622e3456ece1299c69bf7939783ac80967b606b4ac5157f51b042b5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9104a14e3622e3456ece1299c69bf7939783ac80967b606b4ac5157f51b042b5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/57498/Panama__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "57498",
+  "timestamp": "2026-05-24T23:39:00.680915Z",
+  "version": 1
+}

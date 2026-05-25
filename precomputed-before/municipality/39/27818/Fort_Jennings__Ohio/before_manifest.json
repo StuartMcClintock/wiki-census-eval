@@ -1,0 +1,16 @@
+{
+  "article": "Fort_Jennings,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/27818/Fort_Jennings__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ac5db7280abb5c1562bd6514a167ee9763e9adcc0b8f7b680b632e69a36c63a6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ac5db7280abb5c1562bd6514a167ee9763e9adcc0b8f7b680b632e69a36c63a6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/27818/Fort_Jennings__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "27818",
+  "timestamp": "2026-05-25T00:04:09.219441Z",
+  "version": 1
+}

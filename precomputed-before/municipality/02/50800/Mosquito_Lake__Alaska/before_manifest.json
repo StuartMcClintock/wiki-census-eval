@@ -1,0 +1,16 @@
+{
+  "article": "Mosquito_Lake,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/50800/Mosquito_Lake__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "00d9036be93c57b26a73909a4f203cfc08231c166f24bc9ee65acbe3fa59c1af",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "00d9036be93c57b26a73909a4f203cfc08231c166f24bc9ee65acbe3fa59c1af",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/50800/Mosquito_Lake__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "50800",
+  "timestamp": "2026-05-24T23:32:27.844337Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Branchville,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/08245/Branchville__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0d5721a54a881b7a53a059ed8296bb1b564afdb9871658bc33ecccee2d3c460f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0d5721a54a881b7a53a059ed8296bb1b564afdb9871658bc33ecccee2d3c460f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/08245/Branchville__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "08245",
+  "timestamp": "2026-05-25T00:09:40.905146Z",
+  "version": 1
+}

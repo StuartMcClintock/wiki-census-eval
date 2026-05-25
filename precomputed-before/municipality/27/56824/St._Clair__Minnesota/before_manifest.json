@@ -1,0 +1,16 @@
+{
+  "article": "St._Clair,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/56824/St._Clair__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2dd6a72419edae0d00760b2d07eb10139f36b870f5837ae0d173e4cf44e11fb7",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2dd6a72419edae0d00760b2d07eb10139f36b870f5837ae0d173e4cf44e11fb7",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/56824/St._Clair__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "56824",
+  "timestamp": "2026-05-24T23:49:43.459817Z",
+  "version": 1
+}

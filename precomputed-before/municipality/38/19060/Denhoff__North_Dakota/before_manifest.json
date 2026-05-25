@@ -1,0 +1,16 @@
+{
+  "article": "Denhoff,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/19060/Denhoff__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "db84034c67988711176f9191b0b5d7070a6076e43a2e897b79c66b043dbdd201",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "db84034c67988711176f9191b0b5d7070a6076e43a2e897b79c66b043dbdd201",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/19060/Denhoff__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "19060",
+  "timestamp": "2026-05-25T00:02:40.262518Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Longview,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/44602/Longview__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "60c3657d40569ff0338143dac0b1f5594e9d9b3a8d81cb13ed76aae3604e3195",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "60c3657d40569ff0338143dac0b1f5594e9d9b3a8d81cb13ed76aae3604e3195",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/44602/Longview__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "44602",
+  "timestamp": "2026-05-24T23:38:30.509782Z",
+  "version": 1
+}

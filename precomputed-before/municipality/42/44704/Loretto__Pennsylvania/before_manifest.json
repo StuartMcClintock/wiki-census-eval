@@ -1,0 +1,16 @@
+{
+  "article": "Loretto,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/44704/Loretto__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a6112a283bc7e8eabeeeb8e1b8c4760177471159198aae9a1b251623ff79067e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a6112a283bc7e8eabeeeb8e1b8c4760177471159198aae9a1b251623ff79067e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/44704/Loretto__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "44704",
+  "timestamp": "2026-05-25T00:07:54.288174Z",
+  "version": 1
+}

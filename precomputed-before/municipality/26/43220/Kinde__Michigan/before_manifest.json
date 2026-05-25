@@ -1,0 +1,16 @@
+{
+  "article": "Kinde,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/43220/Kinde__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "242d6b0ee651be8fa751c4ca15d22e4a83efebe727a77b69269d46e8ecfca94b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "242d6b0ee651be8fa751c4ca15d22e4a83efebe727a77b69269d46e8ecfca94b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/43220/Kinde__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "43220",
+  "timestamp": "2026-05-24T23:48:00.521142Z",
+  "version": 1
+}

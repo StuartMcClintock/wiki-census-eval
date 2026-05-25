@@ -1,0 +1,16 @@
+{
+  "article": "Arnaudville,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/03110/Arnaudville__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3b89306d282750b8e8332c55b8bed1763b1a83b75105d034db7736856f1510b9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3b89306d282750b8e8332c55b8bed1763b1a83b75105d034db7736856f1510b9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/03110/Arnaudville__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "03110",
+  "timestamp": "2026-05-24T23:44:27.916641Z",
+  "version": 1
+}

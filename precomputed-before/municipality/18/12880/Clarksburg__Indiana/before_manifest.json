@@ -1,0 +1,16 @@
+{
+  "article": "Clarksburg,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/12880/Clarksburg__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6f08528c83b3bcbc0aebe8bfd989b86f5a39272fc06712204a61f86ff8704407",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6f08528c83b3bcbc0aebe8bfd989b86f5a39272fc06712204a61f86ff8704407",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/12880/Clarksburg__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "12880",
+  "timestamp": "2026-05-24T23:39:29.996809Z",
+  "version": 1
+}

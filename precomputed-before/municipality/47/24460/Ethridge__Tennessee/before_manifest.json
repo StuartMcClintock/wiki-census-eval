@@ -1,0 +1,16 @@
+{
+  "article": "Ethridge,_Tennessee",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/47/24460/Ethridge__Tennessee/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b320ccfb878faf3fbd033a53fe5b4a87678b27ea4540f0f9899c3c190319d01f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b320ccfb878faf3fbd033a53fe5b4a87678b27ea4540f0f9899c3c190319d01f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/47/24460/Ethridge__Tennessee/manifest.json",
+  "state_fips": "47",
+  "status": "match",
+  "target_fips": "24460",
+  "timestamp": "2026-05-25T00:14:38.299812Z",
+  "version": 1
+}

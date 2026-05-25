@@ -1,0 +1,16 @@
+{
+  "article": "Osaka,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/59752/Osaka__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "332132e41ede2ed3218af87f5286a3ecf0e1eb7d28bac3e6451f1acf9eab59b0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "332132e41ede2ed3218af87f5286a3ecf0e1eb7d28bac3e6451f1acf9eab59b0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/59752/Osaka__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "59752",
+  "timestamp": "2026-05-25T00:19:30.401281Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Trinway,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/77434/Trinway__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f07345a2f99af6d47e916054f22874352c1279413b2f75368f32ef67687fdb37",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f07345a2f99af6d47e916054f22874352c1279413b2f75368f32ef67687fdb37",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/77434/Trinway__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "77434",
+  "timestamp": "2026-05-25T00:05:32.852130Z",
+  "version": 1
+}

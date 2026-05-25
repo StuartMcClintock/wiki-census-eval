@@ -1,0 +1,16 @@
+{
+  "article": "Wood_River,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/53660/Wood_River__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ebe3f6c7c49b41ded5501cc7b53a8acd35e52b1bf8baa319b914928e7eb459c5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ebe3f6c7c49b41ded5501cc7b53a8acd35e52b1bf8baa319b914928e7eb459c5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/53660/Wood_River__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "53660",
+  "timestamp": "2026-05-24T23:57:26.524088Z",
+  "version": 1
+}

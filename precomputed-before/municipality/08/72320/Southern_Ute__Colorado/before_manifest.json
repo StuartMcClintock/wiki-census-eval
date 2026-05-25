@@ -1,0 +1,16 @@
+{
+  "article": "Southern_Ute,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/72320/Southern_Ute__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fcdaa3bb97a303005e2a37834d82301716276c80471e80b2b5992b6e6f29a883",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fcdaa3bb97a303005e2a37834d82301716276c80471e80b2b5992b6e6f29a883",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/72320/Southern_Ute__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "72320",
+  "timestamp": "2026-05-24T23:35:41.561220Z",
+  "version": 1
+}

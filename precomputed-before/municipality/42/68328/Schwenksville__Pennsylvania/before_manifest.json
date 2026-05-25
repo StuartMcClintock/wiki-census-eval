@@ -1,0 +1,16 @@
+{
+  "article": "Schwenksville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/68328/Schwenksville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c1b30a0b0969df5cf801cb891dde5597b82ef7406425ee0131fae97c459b6bc0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c1b30a0b0969df5cf801cb891dde5597b82ef7406425ee0131fae97c459b6bc0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/68328/Schwenksville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "68328",
+  "timestamp": "2026-05-25T00:08:58.607253Z",
+  "version": 1
+}

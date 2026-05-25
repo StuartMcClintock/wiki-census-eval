@@ -1,0 +1,60 @@
+==Demographics==
+{{US Census population
+|1880= 48
+|2010= 913
+|2020= 818
+|footnote=US Census<ref name="DecennialCensus2020">{{cite web|url=https://data.census.gov/table?g=1600000US0628154&y=2020.P1|title=Census of Population and Housing|publisher=Census.gov}}</ref> U.S. Census 1880-1980,<ref name="1860Census">{{cite web|url=https://dof.ca.gov/reports/demographic-reports/|title=Population Totals by Township and Place for California Counties: 1860 to 1950|publisher=dof.ca.gov}}</ref><br> 1860–1870<ref name=1870CensusCA1>{{Cite web|title= 1870 Census of Population - Population of Civil Divisions less than Counties - California - Almeda County to Sutter County |url=https://www2.census.gov/library/publications/decennial/1870/population/1870a-12.pdf|website=[[United States Census Bureau]]}}</ref><ref name=1870CensusCA2>{{Cite web|title= 1870 Census of Population - Population of Civil Divisions less than Counties - California - Tehama County to Yuba County  |url=https://www2.census.gov/library/publications/decennial/1870/population/1870a-13.pdf|website=[[United States Census Bureau]]}}</ref> 1880-1890<ref name=1890CensusCA>{{Cite web|title= 1890 Census of Population - Population of California by Minor Civil Divisions |url=https://www2.census.gov/library/publications/decennial/1890/bulletins/demographics/134-population-of-ca.pdf|website=[[United States Census Bureau]]}}</ref><br> 1900<ref name=1900CensusCA>{{Cite web|title= 1900 Census of Population - Population of California by Counties and Minor Civil Divisions |url=https://www2.census.gov/library/publications/decennial/1900/bulletins/demographic/10-population-ca.pdf|website=[[United States Census Bureau]]}}</ref> 1910<ref name=1910CensusCA>{{Cite web|title=1910 Census of Population - Supplement for California|url=https://www2.census.gov/library/publications/decennial/1910/abstract/supplement-ca.pdf|website=[[United States Census Bureau]]|access-date=June 8, 2025|archive-date=August 23, 2024|archive-url=https://web.archive.org/web/20240823050629/https://www2.census.gov/library/publications/decennial/1910/abstract/supplement-ca.pdf|url-status=dead}}</ref> 1920<ref name=1920CensusCA>{{Cite web|title= 1920 Census of Population - Number of Inhabitants - California |url=https://www2.census.gov/library/publications/decennial/1920/bulletins/demographics/population-ca-number-of-inhabitants.pdf|website=[[United States Census Bureau]]}}</ref><br> 1930<ref name=1930CensusCA>{{Cite web|title= 1930 Census of Population - Number and Distribution of Inhabitants - California |url=https://www2.census.gov/library/publications/decennial/1930/population-volume-1/03815512v1ch03.pdf|website=[[United States Census Bureau]]}}</ref> 1940<ref name=1940CensusCA>{{Cite web|title= 1940 Census of Population - Number of Inhabitants - California |url=https://www2.census.gov/library/publications/decennial/1940/population-volume-1/33973538v1ch03.pdf|website=[[United States Census Bureau]]}}</ref> 1950<ref name=1950CensusCA>{{Cite web|title= 1950 Census of Population - Number of Inhabitants - California |url=https://www2.census.gov/library/publications/decennial/1950/population-volume-1/vol-01-08.pdf|website=[[United States Census Bureau]]}}</ref><br> 1960<ref name=1960CensusCA>{{Cite web|title= 1960 Census of Population - General population Characteristics - California |url=https://www2.census.gov/library/publications/decennial/1960/population-volume-1/vol-01-06-d.pdf|website=[[United States Census Bureau]]}}</ref> 1970<ref name=1970CensusCA>{{Cite web|title= 1970 Census of Population - Number of Inhabitants - California |url=https://www2.census.gov/prod2/decennial/documents/1970a_ca1-01.pdf|website=[[United States Census Bureau]]}}</ref> 1980<ref name=1980CensusCA>{{Cite web|title= 1980 Census of Population - Number of Inhabitants - California |url=https://www2.census.gov/prod2/decennial/documents/1980a_caAB-01.pdf|website=[[United States Census Bureau]]}}</ref><br> 1990<ref name=1990CensusCA>{{Cite web|title= 1990 Census of Population - Population and Housing Unit Counts - California |url=https://www2.census.gov/prod2/cen1990/cph2/cph-2-6.pdf|website=[[United States Census Bureau]]}}</ref>
+2000<ref name=2000CensusCA>{{Cite web|title= 2000 Census of Population - Population and Housing Unit Counts - California |url=https://www2.census.gov/library/publications/2003/dec/phc-3-6.pdf|website=[[United States Census Bureau]]}}</ref> 2010<ref name=2010CensusCA>{{Cite web|title= 2010 Census of Population - Population and Housing Unit Counts - California |url=https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-6.pdf|website=[[United States Census Bureau]]}}</ref><br> 
+}}
+
+Garberville first appeared as a [[census designated place]] in the [[2010 U.S. census]].<ref name=2010CensusCA/>
+
+{| class="wikitable sortable collapsible" style="font-size: 90%;"
+|+ Race and Ethnicity
+! Racial and ethnic composition
+! 2010<ref name=datacensus2010p2>{{cite web|url=https://data.census.gov/table?g=1600000US0628154&y=2010&d=DEC+Redistricting+Data+(PL+94-171)&tid=DECENNIALPL2010.P2|publisher=US Census Bureau|title=2010: DEC Redistricting Data (PL 94-171)}}</ref>
+! 2020<ref name=datacensus2020p2>{{cite web|url=https://data.census.gov/table?g=1600000US0628154&y=2020&d=DEC+Redistricting+Data+(PL+94-171)&tid=DECENNIALPL2020.P2|publisher=US Census Bureau|title=2020: DEC Redistricting Data (PL 94-171)}}</ref>
+|-
+! [[Non-Hispanic whites|White (non-Hispanic)]]
+| 85.76%
+| 74.82%
+|-
+! [[Hispanic and Latino Americans|Hispanic or Latino (of any race)]]
+| 5.91%
+| 10.39%
+|-
+! [[Multiracial American|Two or more races (non-Hispanic)]]
+| 1.97%
+| 7.7%
+|-
+! [[Asian American|Asian (non-Hispanic)]]
+| 1.75%
+| 2.44%
+|-
+! [[Native Americans in the United States|Native American (non-Hispanic)]]
+| 3.18%
+| 2.08%
+|-
+! Other (non-Hispanic)
+| 0.11%
+| 2.08%
+|-
+! [[African American|Black or African American (non-Hispanic)]]
+| 1.31%
+| 0.24%
+|-
+! [[Pacific Islander Americans|Pacific Islander (non-Hispanic)]]
+| 0.0%
+| 0.24%
+|}
+
+The [[2020 United States census]] reported that Garberville had a population of 818. The population density was {{convert|305.2|PD/sqmi|PD/km2|sp=us|adj=off}}. The racial makeup of Garberville was 646 (79.0%) [[White Americans|White]], 2 (0.2%) [[African Americans|African American]], 21 (2.6%) [[Native Americans in the United States|Native American]], 22 (2.7%) [[Asian Americans|Asian]], 2 (0.2%) [[Pacific Islander Americans|Pacific Islander]], 33 (4.0%) from [[Race (United States Census)|other races]], and 92 (11.2%) from two or more races. [[Hispanic and Latino Americans|Hispanic or Latino]] of any race were 85 persons (10.4%).<ref name=DP1>{{cite web |title=Garberville CDP, California; DP1: Profile of General Population and Housing Characteristics - 2020 Census of Population and Housing |url=https://data.census.gov/table/DECENNIALDP2020.DP1?g=1600000US0628154 |website=US Census Bureau |access-date=May 21, 2025}}</ref>
+
+The census reported that 96.8% of the population lived in households, 2.3% lived in non-institutionalized group quarters, and 0.9% were institutionalized.<ref name=DP1/>
+
+There were 396 households, out of which 59 (14.9%) had children under the age of 18 living in them, 104 (26.3%) were married-couple households, 31 (7.8%) were [[cohabitation|cohabiting]] couple households, 131 (33.1%) had a female householder with no partner present, and 130 (32.8%) had a male householder with no partner present. 196 households (49.5%) were one person, and 81 (20.5%) were one person aged 65 or older. The average household size was 2.00.<ref name=DP1/> There were 165 [[family (U.S. Census)|families]] (41.7% of all households).<ref>{{cite web |title=Garberville CDP, California; P16: Household Type - 2020 Census of Population and Housing |url=https://data.census.gov/table/DECENNIALDHC2020.P16?g=1600000US0628154 |website=US Census Bureau |access-date=May 21, 2025}}</ref>
+
+The age distribution was 135 people (16.5%) under the age of 18, 47 people (5.7%) aged 18 to 24, 250 people (30.6%) aged 25 to 44, 205 people (25.1%) aged 45 to 64, and 181 people (22.1%) who were 65{{nbsp}}years of age or older. The median age was 43.4{{nbsp}}years. For every 100 females, there were 99.0 males.<ref name=DP1/>
+
+There were 456 housing units at an average density of {{convert|170.1|/mi2|/km2|disp=preunit|units&nbsp;|units|}}, of which 396 (86.8%) were occupied. Of these, 212 (53.5%) were owner-occupied, and 184 (46.5%) were occupied by renters.<ref name=DP1/>
+

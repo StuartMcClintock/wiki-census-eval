@@ -1,0 +1,16 @@
+{
+  "article": "McCune,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/43725/McCune__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "333471c058c11a8bd9958360fedda35bc05191057679096314e1caae57a25fe4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "333471c058c11a8bd9958360fedda35bc05191057679096314e1caae57a25fe4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/43725/McCune__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "43725",
+  "timestamp": "2026-05-24T23:43:06.398499Z",
+  "version": 1
+}

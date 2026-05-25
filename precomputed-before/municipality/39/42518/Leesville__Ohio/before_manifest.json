@@ -1,0 +1,16 @@
+{
+  "article": "Leesville,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/42518/Leesville__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4b1a0a1640072877b38859f08d75ca38bb8e746dbcd169fbcb12cd692d861c76",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4b1a0a1640072877b38859f08d75ca38bb8e746dbcd169fbcb12cd692d861c76",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/42518/Leesville__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "42518",
+  "timestamp": "2026-05-25T00:04:37.382543Z",
+  "version": 1
+}

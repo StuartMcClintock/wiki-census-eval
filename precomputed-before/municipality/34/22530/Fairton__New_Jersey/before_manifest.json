@@ -1,0 +1,16 @@
+{
+  "article": "Fairton,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/22530/Fairton__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "50c1f0c93233915ca90d401c18f96be9a554d1bb19fb6c2ea13b06ef6e8f52cb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "50c1f0c93233915ca90d401c18f96be9a554d1bb19fb6c2ea13b06ef6e8f52cb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/22530/Fairton__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "22530",
+  "timestamp": "2026-05-24T23:57:47.136320Z",
+  "version": 1
+}

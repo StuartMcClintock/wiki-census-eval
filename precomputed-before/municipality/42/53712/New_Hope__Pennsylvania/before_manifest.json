@@ -1,0 +1,16 @@
+{
+  "article": "New_Hope,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/53712/New_Hope__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4e699f5e9993791917ca7d0df8013d236c8ac6e7d2267122783400eaab28920c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4e699f5e9993791917ca7d0df8013d236c8ac6e7d2267122783400eaab28920c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/53712/New_Hope__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "53712",
+  "timestamp": "2026-05-25T00:08:16.405403Z",
+  "version": 1
+}

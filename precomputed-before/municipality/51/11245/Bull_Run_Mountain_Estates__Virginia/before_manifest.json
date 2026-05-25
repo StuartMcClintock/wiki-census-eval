@@ -1,0 +1,16 @@
+{
+  "article": "Bull_Run_Mountain_Estates,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/11245/Bull_Run_Mountain_Estates__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fe9a6519ad651bb97685ff2c9e9c68ae286c214bbd3bb2cb23256da7bd3d131d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fe9a6519ad651bb97685ff2c9e9c68ae286c214bbd3bb2cb23256da7bd3d131d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/11245/Bull_Run_Mountain_Estates__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "11245",
+  "timestamp": "2026-05-25T00:19:03.706468Z",
+  "version": 1
+}

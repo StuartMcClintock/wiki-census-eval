@@ -1,0 +1,16 @@
+{
+  "article": "Prospect,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/64780/Prospect__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "afc44e26430bf8e85867c4e58eef477086462de8152c55b1d1f65bad79d8f782",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "afc44e26430bf8e85867c4e58eef477086462de8152c55b1d1f65bad79d8f782",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/64780/Prospect__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "64780",
+  "timestamp": "2026-05-25T00:05:08.662188Z",
+  "version": 1
+}

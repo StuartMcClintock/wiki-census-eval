@@ -1,0 +1,16 @@
+{
+  "article": "St._Paul,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/70185/St._Paul__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d72d1c0a01ae7305cce7066ee298fc7b1a8e293cd821e2ba9510df06a9dc7c02",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d72d1c0a01ae7305cce7066ee298fc7b1a8e293cd821e2ba9510df06a9dc7c02",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/70185/St._Paul__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "70185",
+  "timestamp": "2026-05-24T23:41:46.670578Z",
+  "version": 1
+}

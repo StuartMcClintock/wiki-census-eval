@@ -1,0 +1,16 @@
+{
+  "article": "Bayou_Corne,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/05255/Bayou_Corne__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3fbdf21483da2a458fc7f84d74e542759663ab15564d7f9374ea9db739971a24",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3fbdf21483da2a458fc7f84d74e542759663ab15564d7f9374ea9db739971a24",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/05255/Bayou_Corne__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "05255",
+  "timestamp": "2026-05-24T23:44:28.697888Z",
+  "version": 1
+}

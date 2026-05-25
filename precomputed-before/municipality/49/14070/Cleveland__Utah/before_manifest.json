@@ -1,0 +1,16 @@
+{
+  "article": "Cleveland,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/14070/Cleveland__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a4edf27588384370bee29276b410fedda2b4af10c2877d279cd34313ba3d2efd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a4edf27588384370bee29276b410fedda2b4af10c2877d279cd34313ba3d2efd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/14070/Cleveland__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "14070",
+  "timestamp": "2026-05-25T00:16:56.105472Z",
+  "version": 1
+}

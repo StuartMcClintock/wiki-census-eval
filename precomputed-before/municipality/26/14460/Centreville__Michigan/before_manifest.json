@@ -1,0 +1,16 @@
+{
+  "article": "Centreville,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/14460/Centreville__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d7a69331c1525ed8ac0d043057c5c16823a0409bfc21114f49f47d128c352fe6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d7a69331c1525ed8ac0d043057c5c16823a0409bfc21114f49f47d128c352fe6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/14460/Centreville__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "14460",
+  "timestamp": "2026-05-24T23:47:48.156369Z",
+  "version": 1
+}

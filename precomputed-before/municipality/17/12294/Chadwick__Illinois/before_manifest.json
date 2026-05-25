@@ -1,0 +1,16 @@
+{
+  "article": "Chadwick,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/12294/Chadwick__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1098828e1b4e7672dc5b7ee9c78e7868cff57a058ff92206ee285f13707fbe5a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1098828e1b4e7672dc5b7ee9c78e7868cff57a058ff92206ee285f13707fbe5a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/12294/Chadwick__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "12294",
+  "timestamp": "2026-05-24T23:37:55.859563Z",
+  "version": 1
+}

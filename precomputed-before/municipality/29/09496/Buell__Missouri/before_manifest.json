@@ -1,0 +1,16 @@
+{
+  "article": "Buell,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/09496/Buell__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ff77ebfa9d291179d3f188ca5058d5002de6f619323bbc587172964a912bcd5b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ff77ebfa9d291179d3f188ca5058d5002de6f619323bbc587172964a912bcd5b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/09496/Buell__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "09496",
+  "timestamp": "2026-05-24T23:50:50.903574Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Metcalf,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/48632/Metcalf__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "35d81e8ed674981b9b9307de91e7330cf16ce8c76278ebbd60620ecc2277f6cb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "35d81e8ed674981b9b9307de91e7330cf16ce8c76278ebbd60620ecc2277f6cb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/48632/Metcalf__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "48632",
+  "timestamp": "2026-05-24T23:38:35.123811Z",
+  "version": 1
+}

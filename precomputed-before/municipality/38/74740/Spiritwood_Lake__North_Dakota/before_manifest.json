@@ -1,0 +1,16 @@
+{
+  "article": "Spiritwood_Lake,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/74740/Spiritwood_Lake__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3618a40d16eb5fded1d3f674ad6bf7d254db5ef4dad56f7b75ad71738c914bda",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3618a40d16eb5fded1d3f674ad6bf7d254db5ef4dad56f7b75ad71738c914bda",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/74740/Spiritwood_Lake__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "74740",
+  "timestamp": "2026-05-25T00:03:22.919294Z",
+  "version": 1
+}

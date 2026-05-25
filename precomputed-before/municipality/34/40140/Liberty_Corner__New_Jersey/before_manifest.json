@@ -1,0 +1,16 @@
+{
+  "article": "Liberty_Corner,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/40140/Liberty_Corner__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f8dde1e13d85a438d65d860f7a3964147291b79e923e1406778a6566ce2e1fb6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f8dde1e13d85a438d65d860f7a3964147291b79e923e1406778a6566ce2e1fb6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/40140/Liberty_Corner__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "40140",
+  "timestamp": "2026-05-24T23:57:53.612420Z",
+  "version": 1
+}

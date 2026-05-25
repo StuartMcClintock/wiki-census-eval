@@ -1,0 +1,16 @@
+{
+  "article": "Downingtown,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/19752/Downingtown__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cd0a0a2007d53bbe45108b3ba2c2ae86ce1805f8301ff162de247f7d09b37054",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cd0a0a2007d53bbe45108b3ba2c2ae86ce1805f8301ff162de247f7d09b37054",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/19752/Downingtown__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "19752",
+  "timestamp": "2026-05-25T00:06:52.612611Z",
+  "version": 1
+}

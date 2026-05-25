@@ -1,0 +1,16 @@
+{
+  "article": "Bunceton,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/09658/Bunceton__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bf8954b30bd62ee277fa55837c410567d619f163f724bc5b5914cad4a797e326",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bf8954b30bd62ee277fa55837c410567d619f163f724bc5b5914cad4a797e326",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/09658/Bunceton__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "09658",
+  "timestamp": "2026-05-24T23:50:51.116373Z",
+  "version": 1
+}

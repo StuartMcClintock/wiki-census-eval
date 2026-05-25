@@ -1,0 +1,16 @@
+{
+  "article": "Ball_Club,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/03376/Ball_Club__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d531bcf41f68cdb54d938bb20a10caa1a90c2cb128154cf95570bd85e9d9722d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d531bcf41f68cdb54d938bb20a10caa1a90c2cb128154cf95570bd85e9d9722d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/03376/Ball_Club__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "03376",
+  "timestamp": "2026-05-24T23:48:37.090848Z",
+  "version": 1
+}

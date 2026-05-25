@@ -1,0 +1,16 @@
+{
+  "article": "Railroad,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/63288/Railroad__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "730c93ce00e9378c49c852690eee229302f04bcbc9328771fee300f939b75464",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "730c93ce00e9378c49c852690eee229302f04bcbc9328771fee300f939b75464",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/63288/Railroad__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "63288",
+  "timestamp": "2026-05-25T00:08:34.953706Z",
+  "version": 1
+}

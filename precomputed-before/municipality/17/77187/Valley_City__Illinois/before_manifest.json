@@ -1,0 +1,16 @@
+{
+  "article": "Valley_City,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/77187/Valley_City__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "941a28fa57582a568897692ec53cc8475adf8e395f986454cab078e6d43176bd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "941a28fa57582a568897692ec53cc8475adf8e395f986454cab078e6d43176bd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/77187/Valley_City__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "77187",
+  "timestamp": "2026-05-24T23:39:18.654477Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Windmill,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/85485/Windmill__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8d9798bc32c6046eda33932228e162f47d9b2b6ef759670f9b9969f2f423656d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8d9798bc32c6046eda33932228e162f47d9b2b6ef759670f9b9969f2f423656d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/85485/Windmill__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "85485",
+  "timestamp": "2026-05-25T00:00:29.102614Z",
+  "version": 1
+}

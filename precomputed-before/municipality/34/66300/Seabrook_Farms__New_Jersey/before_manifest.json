@@ -1,0 +1,16 @@
+{
+  "article": "Seabrook_Farms,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/66300/Seabrook_Farms__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "537e2d3d818c0c458b6230c9d3543cda570e92ae231aabe09f5f838a2b99edf5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "537e2d3d818c0c458b6230c9d3543cda570e92ae231aabe09f5f838a2b99edf5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/66300/Seabrook_Farms__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "66300",
+  "timestamp": "2026-05-24T23:58:01.014172Z",
+  "version": 1
+}

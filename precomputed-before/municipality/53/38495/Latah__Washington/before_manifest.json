@@ -1,0 +1,16 @@
+{
+  "article": "Latah,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/38495/Latah__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4d7d26892320c5ea2f9049c114fae88d5225655411d110b0656498e5924c602c",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4d7d26892320c5ea2f9049c114fae88d5225655411d110b0656498e5924c602c",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/38495/Latah__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "38495",
+  "timestamp": "2026-05-25T00:20:19.492493Z",
+  "version": 1
+}

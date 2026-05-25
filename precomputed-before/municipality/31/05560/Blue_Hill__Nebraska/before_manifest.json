@@ -1,0 +1,16 @@
+{
+  "article": "Blue_Hill,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/05560/Blue_Hill__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e2fd4d3de0e7b78427ea0ed9e7dd2c3f4160c6fb439fa1f010d62729d279653b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e2fd4d3de0e7b78427ea0ed9e7dd2c3f4160c6fb439fa1f010d62729d279653b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/05560/Blue_Hill__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "05560",
+  "timestamp": "2026-05-24T23:55:12.953184Z",
+  "version": 1
+}

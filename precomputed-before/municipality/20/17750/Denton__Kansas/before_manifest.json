@@ -1,0 +1,16 @@
+{
+  "article": "Denton,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/17750/Denton__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dd718ab71a1c2e9ca2d1c324c29c85bda20c4e74f8922173d42e20ca818e1d61",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dd718ab71a1c2e9ca2d1c324c29c85bda20c4e74f8922173d42e20ca818e1d61",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/17750/Denton__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "17750",
+  "timestamp": "2026-05-24T23:42:32.484167Z",
+  "version": 1
+}

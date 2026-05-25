@@ -1,0 +1,16 @@
+{
+  "article": "North_Tunica,_Mississippi",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/28/52680/North_Tunica__Mississippi/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "36220bcfddfc3738a17f53a69a3aba15be73a4240fb01fc4369560f01f861bd6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "36220bcfddfc3738a17f53a69a3aba15be73a4240fb01fc4369560f01f861bd6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/28/52680/North_Tunica__Mississippi/manifest.json",
+  "state_fips": "28",
+  "status": "match",
+  "target_fips": "52680",
+  "timestamp": "2026-05-24T23:50:18.660593Z",
+  "version": 1
+}

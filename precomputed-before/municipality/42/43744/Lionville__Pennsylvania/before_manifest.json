@@ -1,0 +1,16 @@
+{
+  "article": "Lionville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/43744/Lionville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "934139d6ca2efcc3716c83515bbb806c31658751b5f3d3c3787665cd6cea3c6f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "934139d6ca2efcc3716c83515bbb806c31658751b5f3d3c3787665cd6cea3c6f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/43744/Lionville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "43744",
+  "timestamp": "2026-05-25T00:07:53.084877Z",
+  "version": 1
+}

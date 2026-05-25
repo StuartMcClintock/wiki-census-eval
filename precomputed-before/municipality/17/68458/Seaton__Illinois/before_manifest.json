@@ -1,0 +1,16 @@
+{
+  "article": "Seaton,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/68458/Seaton__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "10ab37078d78924e481f02430a0aa5ce8d68a21efc5842c637ace2b1b70f4a6b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "10ab37078d78924e481f02430a0aa5ce8d68a21efc5842c637ace2b1b70f4a6b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/68458/Seaton__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "68458",
+  "timestamp": "2026-05-24T23:39:10.247972Z",
+  "version": 1
+}

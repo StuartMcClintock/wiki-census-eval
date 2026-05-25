@@ -1,0 +1,16 @@
+{
+  "article": "Bonnetsville,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/06980/Bonnetsville__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4c4273d2ff8b5225ed3bd8ee400d5dbc633ec7dfb99c59fcda5137a6b74d9a7e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4c4273d2ff8b5225ed3bd8ee400d5dbc633ec7dfb99c59fcda5137a6b74d9a7e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/06980/Bonnetsville__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "06980",
+  "timestamp": "2026-05-25T00:01:46.075399Z",
+  "version": 1
+}

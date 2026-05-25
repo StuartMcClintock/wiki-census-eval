@@ -1,0 +1,16 @@
+{
+  "article": "Archer,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/02530/Archer__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2f5ea0b6d106886d5ead2a29ea61dc4b69b47f67b7909990b70dfd0000035093",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2f5ea0b6d106886d5ead2a29ea61dc4b69b47f67b7909990b70dfd0000035093",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/02530/Archer__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "02530",
+  "timestamp": "2026-05-24T23:40:23.240819Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Stormstown,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/74544/Stormstown__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "29df3222815b93bae44820c5fdca99c1d1baa02214dc3dab36a72cfedb24c070",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "29df3222815b93bae44820c5fdca99c1d1baa02214dc3dab36a72cfedb24c070",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/74544/Stormstown__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "74544",
+  "timestamp": "2026-05-25T00:09:12.126673Z",
+  "version": 1
+}

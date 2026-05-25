@@ -1,0 +1,16 @@
+{
+  "article": "Pilot_Mountain,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/51820/Pilot_Mountain__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ed57e7b2fae1db1313aa40ce6eb00438c34404341b859b8f6865da10d7451857",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ed57e7b2fae1db1313aa40ce6eb00438c34404341b859b8f6865da10d7451857",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/51820/Pilot_Mountain__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "51820",
+  "timestamp": "2026-05-25T00:02:15.872557Z",
+  "version": 1
+}

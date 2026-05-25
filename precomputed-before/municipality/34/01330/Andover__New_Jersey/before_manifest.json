@@ -1,0 +1,16 @@
+{
+  "article": "Andover,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/01330/Andover__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f7208258532ae3393c1229a5b33838431875f264b001715431f63f9f4c7a994d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f7208258532ae3393c1229a5b33838431875f264b001715431f63f9f4c7a994d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/01330/Andover__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "01330",
+  "timestamp": "2026-05-24T23:57:38.813296Z",
+  "version": 1
+}

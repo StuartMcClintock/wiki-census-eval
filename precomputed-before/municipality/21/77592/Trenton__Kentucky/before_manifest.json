@@ -1,0 +1,16 @@
+{
+  "article": "Trenton,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/77592/Trenton__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "69c0ead0d92132af63e924a4cba0726b0b573b8bb79fae190cdb194e7264712b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "69c0ead0d92132af63e924a4cba0726b0b573b8bb79fae190cdb194e7264712b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/77592/Trenton__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "77592",
+  "timestamp": "2026-05-24T23:44:23.619572Z",
+  "version": 1
+}

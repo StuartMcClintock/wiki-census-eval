@@ -1,0 +1,16 @@
+{
+  "article": "Homestead_Base,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/32325/Homestead_Base__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "998516f3b302bc6021c8b9ac121bd0f8aef39c46b17532745b1b4849a5f31bf6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "998516f3b302bc6021c8b9ac121bd0f8aef39c46b17532745b1b4849a5f31bf6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/32325/Homestead_Base__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "32325",
+  "timestamp": "2026-05-24T23:36:14.344921Z",
+  "version": 1
+}

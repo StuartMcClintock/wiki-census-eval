@@ -1,0 +1,16 @@
+{
+  "article": "Ailey,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/00828/Ailey__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "39f83a1547cd6bf57df36f2b621fc43347a9c3536ac7220b0c60fc6cfc393e81",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "39f83a1547cd6bf57df36f2b621fc43347a9c3536ac7220b0c60fc6cfc393e81",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/00828/Ailey__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "00828",
+  "timestamp": "2026-05-24T23:36:25.974814Z",
+  "version": 1
+}

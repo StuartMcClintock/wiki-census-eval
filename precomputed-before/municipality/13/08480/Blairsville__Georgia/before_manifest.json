@@ -1,0 +1,16 @@
+{
+  "article": "Blairsville,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/08480/Blairsville__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "51f56352e448db9fc5682e383c697e68edccff3201db059b2e06b46392996e67",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "51f56352e448db9fc5682e383c697e68edccff3201db059b2e06b46392996e67",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/08480/Blairsville__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "08480",
+  "timestamp": "2026-05-24T23:36:28.781478Z",
+  "version": 1
+}

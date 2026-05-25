@@ -1,0 +1,16 @@
+{
+  "article": "Adrian,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/00660/Adrian__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4c51269df6feef24cfc0f5df52f46035c94e4b41642d8bb8c9ff2ead7eb3b673",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4c51269df6feef24cfc0f5df52f46035c94e4b41642d8bb8c9ff2ead7eb3b673",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/00660/Adrian__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "00660",
+  "timestamp": "2026-05-24T23:36:25.888560Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Benton,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/06175/Benton__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9b06e365a16da30c5e88bd43e027d0dfb757fbb1548cd12bf0d08e1a05fe0132",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9b06e365a16da30c5e88bd43e027d0dfb757fbb1548cd12bf0d08e1a05fe0132",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/06175/Benton__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "06175",
+  "timestamp": "2026-05-24T23:42:21.288539Z",
+  "version": 1
+}

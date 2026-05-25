@@ -1,0 +1,16 @@
+{
+  "article": "Chisholm,_Maine",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/23/12770/Chisholm__Maine/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "18c31ab097499c14ede14a258c6c11698b89bd2acabc7727b7bd8dcf849892d5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "18c31ab097499c14ede14a258c6c11698b89bd2acabc7727b7bd8dcf849892d5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/23/12770/Chisholm__Maine/manifest.json",
+  "state_fips": "23",
+  "status": "match",
+  "target_fips": "12770",
+  "timestamp": "2026-05-24T23:45:12.830537Z",
+  "version": 1
+}

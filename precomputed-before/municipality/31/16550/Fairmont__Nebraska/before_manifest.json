@@ -1,0 +1,16 @@
+{
+  "article": "Fairmont,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/16550/Fairmont__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f3eb3a6ed9aad627604764a72f217f242d62e19d4fd7c26336fb3ea64404cc71",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f3eb3a6ed9aad627604764a72f217f242d62e19d4fd7c26336fb3ea64404cc71",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/16550/Fairmont__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "16550",
+  "timestamp": "2026-05-24T23:55:26.446732Z",
+  "version": 1
+}

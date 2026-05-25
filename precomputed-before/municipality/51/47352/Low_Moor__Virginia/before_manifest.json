@@ -1,0 +1,16 @@
+{
+  "article": "Low_Moor,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/47352/Low_Moor__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5567d69534b7e28083ed2a38823b0502c2ebef43009e1f2362d234364ece9ebb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5567d69534b7e28083ed2a38823b0502c2ebef43009e1f2362d234364ece9ebb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/47352/Low_Moor__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "47352",
+  "timestamp": "2026-05-25T00:19:22.871174Z",
+  "version": 1
+}

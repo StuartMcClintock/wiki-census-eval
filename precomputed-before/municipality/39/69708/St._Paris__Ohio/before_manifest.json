@@ -1,0 +1,16 @@
+{
+  "article": "St._Paris,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/69708/St._Paris__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d77a5b139088aae85868f670d7dd831d434a2b662645c2bf9fd5b8425bb69654",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d77a5b139088aae85868f670d7dd831d434a2b662645c2bf9fd5b8425bb69654",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/69708/St._Paris__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "69708",
+  "timestamp": "2026-05-25T00:05:14.336345Z",
+  "version": 1
+}

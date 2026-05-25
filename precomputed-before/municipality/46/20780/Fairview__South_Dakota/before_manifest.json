@@ -1,0 +1,16 @@
+{
+  "article": "Fairview,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/20780/Fairview__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9377849b1006edf170e90652b8c74b91229ee7d882be2b1f2527879e99fa31b1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9377849b1006edf170e90652b8c74b91229ee7d882be2b1f2527879e99fa31b1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/20780/Fairview__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "20780",
+  "timestamp": "2026-05-25T00:10:37.930981Z",
+  "version": 1
+}

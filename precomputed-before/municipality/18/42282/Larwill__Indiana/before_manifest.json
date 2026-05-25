@@ -1,0 +1,16 @@
+{
+  "article": "Larwill,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/42282/Larwill__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c58e688b86f7122e1fcc08bb54e998688b6d4dc4313a421fa778764b41f49e01",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c58e688b86f7122e1fcc08bb54e998688b6d4dc4313a421fa778764b41f49e01",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/42282/Larwill__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "42282",
+  "timestamp": "2026-05-24T23:39:53.844727Z",
+  "version": 1
+}

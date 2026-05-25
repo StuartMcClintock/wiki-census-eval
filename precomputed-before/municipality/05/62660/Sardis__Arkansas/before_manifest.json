@@ -1,0 +1,16 @@
+{
+  "article": "Sardis,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/62660/Sardis__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2e44b0e670cae39680900a57b368908fe885b72578589506fe1bc8ff908c0327",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2e44b0e670cae39680900a57b368908fe885b72578589506fe1bc8ff908c0327",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/62660/Sardis__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "62660",
+  "timestamp": "2026-05-24T23:34:08.010774Z",
+  "version": 1
+}

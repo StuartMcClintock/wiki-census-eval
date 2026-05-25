@@ -1,0 +1,16 @@
+{
+  "article": "Blandville,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/07390/Blandville__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "94e7837b93a72448909478c466d70bf2a8d2515d1c029f787f5449b68e88a56a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "94e7837b93a72448909478c466d70bf2a8d2515d1c029f787f5449b68e88a56a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/07390/Blandville__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "07390",
+  "timestamp": "2026-05-24T23:43:43.693113Z",
+  "version": 1
+}

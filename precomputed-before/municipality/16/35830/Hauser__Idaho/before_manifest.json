@@ -1,0 +1,16 @@
+{
+  "article": "Hauser,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/35830/Hauser__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d3dca4f7f2024f8ae124717d252476a568325993811fcf26662f2a40a6d09b36",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d3dca4f7f2024f8ae124717d252476a568325993811fcf26662f2a40a6d09b36",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/35830/Hauser__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "35830",
+  "timestamp": "2026-05-24T23:37:21.759845Z",
+  "version": 1
+}

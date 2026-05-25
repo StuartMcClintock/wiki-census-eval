@@ -1,0 +1,16 @@
+{
+  "article": "Garfield,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/26140/Garfield__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fe758f2550c3f73d8af6da03dbd88f9672577d36ee1baeb8ea9e5820c81d0e33",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fe758f2550c3f73d8af6da03dbd88f9672577d36ee1baeb8ea9e5820c81d0e33",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/26140/Garfield__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "26140",
+  "timestamp": "2026-05-25T00:20:13.338029Z",
+  "version": 1
+}

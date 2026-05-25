@@ -1,0 +1,16 @@
+{
+  "article": "Wayland,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/81012/Wayland__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "129c7711232009b2a5c711a54ecc536c40c5d0f902f798c7d9396b6fd45c8a89",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "129c7711232009b2a5c711a54ecc536c40c5d0f902f798c7d9396b6fd45c8a89",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/81012/Wayland__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "81012",
+  "timestamp": "2026-05-24T23:44:24.899179Z",
+  "version": 1
+}

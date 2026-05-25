@@ -1,0 +1,16 @@
+{
+  "article": "Salado,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/62120/Salado__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cfa848b2d30880509b425afddc68c90d102f7472dc3f4eee5b3403863754707e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cfa848b2d30880509b425afddc68c90d102f7472dc3f4eee5b3403863754707e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/62120/Salado__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "62120",
+  "timestamp": "2026-05-24T23:34:07.669991Z",
+  "version": 1
+}

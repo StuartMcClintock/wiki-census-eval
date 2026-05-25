@@ -1,0 +1,16 @@
+{
+  "article": "Big_Falls,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/05680/Big_Falls__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "19ea6c1f053b209f02df1513a67e5e7c78702fd1f386c74da6cbd2efe92c0063",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "19ea6c1f053b209f02df1513a67e5e7c78702fd1f386c74da6cbd2efe92c0063",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/05680/Big_Falls__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "05680",
+  "timestamp": "2026-05-24T23:48:39.414363Z",
+  "version": 1
+}

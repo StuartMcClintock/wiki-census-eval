@@ -1,0 +1,16 @@
+{
+  "article": "South_Boardman,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/74740/South_Boardman__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d375e1c092f05cf12a71d7783d2e69661c6c0f829ef8cb59eef9e23db2bcb163",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d375e1c092f05cf12a71d7783d2e69661c6c0f829ef8cb59eef9e23db2bcb163",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/74740/South_Boardman__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "74740",
+  "timestamp": "2026-05-24T23:48:28.429263Z",
+  "version": 1
+}

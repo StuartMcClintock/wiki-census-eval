@@ -1,0 +1,16 @@
+{
+  "article": "Hope,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/33290/Hope__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "04aa392be901a12ea48955cd1f137ac68f81a425a29644deaadf2fe9a3c85022",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "04aa392be901a12ea48955cd1f137ac68f81a425a29644deaadf2fe9a3c85022",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/33290/Hope__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "33290",
+  "timestamp": "2026-05-24T23:58:33.962657Z",
+  "version": 1
+}

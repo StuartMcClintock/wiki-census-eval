@@ -1,0 +1,16 @@
+{
+  "article": "Page,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/60500/Page__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "10ecb0ae679b7c6720524f37dc056cd22bda7689160f025cd7d331d48b2ca984",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "10ecb0ae679b7c6720524f37dc056cd22bda7689160f025cd7d331d48b2ca984",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/60500/Page__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "60500",
+  "timestamp": "2026-05-25T00:03:16.005274Z",
+  "version": 1
+}

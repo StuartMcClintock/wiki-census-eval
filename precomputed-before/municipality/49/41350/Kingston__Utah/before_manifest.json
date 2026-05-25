@@ -1,0 +1,16 @@
+{
+  "article": "Kingston,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/41350/Kingston__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1cede57c9bde082d845d0a448576fefea44076d7f519200022c9f3d6a3c55f13",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1cede57c9bde082d845d0a448576fefea44076d7f519200022c9f3d6a3c55f13",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/41350/Kingston__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "41350",
+  "timestamp": "2026-05-25T00:17:03.636784Z",
+  "version": 1
+}

@@ -1,0 +1,26 @@
+==Demographics==
+{{US Census population
+|align=left
+|1990= 95
+|2000= 168
+|2010= 201
+|2020= 230
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2015}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A46|title=Census Population API|publisher=United States Census Bureau|accessdate=October 15, 2022}}</ref>
+}}
+
+===2010 census===
+As of the [[census]]<ref name ="wwwcensusgov">{{cite web|title=U.S. Census website|url=https://www.census.gov|publisher=[[United States Census Bureau]]|accessdate=June 21, 2012}}</ref> of 2010, there were 201 people, 93 households, and 62 families residing in the town. The [[population density]] was {{convert|309.2|PD/sqmi|PD/km2|1}}. There were 114 housing units at an average density of {{convert|175.4|/sqmi|/km2|1}}. The racial makeup of the town was 82.6% [[White (U.S. Census)|White]], 10.4% [[Native American (U.S. Census)|Native American]], 0.5% [[Asian (U.S. Census)|Asian]], and 6.5% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 1.0% of the population.
+
+There were 93 households, of which 19.4% had children under the age of 18 living with them, 58.1% were [[Marriage|married couples]] living together, 4.3% had a female householder with no husband present, 4.3% had a male householder with no wife present, and 33.3% were non-families. 28.0% of all households were made up of individuals, and 11.8% had someone living alone who was 65 years of age or older. The average household size was 2.16 and the average family size was 2.58.
+
+The median age in the town was 51.2 years. 17.4% of residents were under the age of 18; 5.1% were between the ages of 18 and 24; 19% were from 25 to 44; 36.8% were from 45 to 64; and 21.9% were 65 years of age or older. The gender makeup of the town was 49.8% male and 50.2% female.
+
+===2000 census===
+As of the [[census]]<ref name="GR2" /> of 2000, there were 168 people, 76 households, and 49 families residing in the town. The population density was {{convert|260.7|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 88 housing units at an average density of {{convert|136.5|/sqmi|/km2|sp=us|adj=off}}. The racial makeup of the town was 85.12% [[White (U.S. Census)|White]], 11.31% [[Native American (U.S. Census)|Native American]], 0.60% [[Asian (U.S. Census)|Asian]], and 2.98% from two or more races.
+
+There were 76 households, out of which 22.4% had children under the age of 18 living with them, 57.9% were [[Marriage|married couples]] living together, 2.6% had a female householder with no husband present, and 35.5% were non-families. 26.3% of all households were made up of individuals, and 6.6% had someone living alone who was 65 years of age or older. The average household size was 2.21 and the average family size was 2.69.
+
+In the town, the population was spread out, with 19.6% under the age of 18, 3.6% from 18 to 24, 28.6% from 25 to 44, 28.0% from 45 to 64, and 20.2% who were 65 years of age or older. The median age was 44 years. For every 100 females, there were 124.0 males. For every 100 females age 18 and over, there were 121.3 males.
+
+The median income for a household in the town was $50,250, and the median income for a family was $55,250. Males had a median income of $39,375 versus $19,792 for females. The [[per capita income]] for the town was $20,755. None of the families and 1.1% of the population were living below the [[poverty line]], including no under eighteens and 6.3% of those over 64.
+

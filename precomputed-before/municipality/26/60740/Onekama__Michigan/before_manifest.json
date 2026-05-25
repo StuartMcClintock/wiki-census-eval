@@ -1,0 +1,16 @@
+{
+  "article": "Onekama,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/60740/Onekama__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e29e1f9233b4740e7a19e7c8fbd0f9b3d89e06f5f3cf5088fbabe1103016f254",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e29e1f9233b4740e7a19e7c8fbd0f9b3d89e06f5f3cf5088fbabe1103016f254",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/60740/Onekama__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "60740",
+  "timestamp": "2026-05-24T23:48:10.031409Z",
+  "version": 1
+}

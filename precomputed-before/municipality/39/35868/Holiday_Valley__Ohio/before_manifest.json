@@ -1,0 +1,16 @@
+{
+  "article": "Holiday_Valley,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/35868/Holiday_Valley__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4f9df2e80bfe756d7961ac23fa33c0fc6aecb112c7d7fb7a50c559a1809af269",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4f9df2e80bfe756d7961ac23fa33c0fc6aecb112c7d7fb7a50c559a1809af269",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/35868/Holiday_Valley__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "35868",
+  "timestamp": "2026-05-25T00:04:18.947800Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Farlington,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/23050/Farlington__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4d3defa165fbd063dd88e93b747572bbfc8fd541f4f6af4a1c169541a853a61f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4d3defa165fbd063dd88e93b747572bbfc8fd541f4f6af4a1c169541a853a61f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/23050/Farlington__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "23050",
+  "timestamp": "2026-05-24T23:42:37.790306Z",
+  "version": 1
+}

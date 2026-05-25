@@ -1,0 +1,16 @@
+{
+  "article": "Graniteville,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/30265/Graniteville__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ee23382c4ec3f31f06cbf960d8a17633c235c983a8b2b67dac3a8fab863992fc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ee23382c4ec3f31f06cbf960d8a17633c235c983a8b2b67dac3a8fab863992fc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/30265/Graniteville__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "30265",
+  "timestamp": "2026-05-25T00:10:05.035062Z",
+  "version": 1
+}

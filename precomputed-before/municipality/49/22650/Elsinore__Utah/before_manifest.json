@@ -1,0 +1,16 @@
+{
+  "article": "Elsinore,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/22650/Elsinore__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c0681b31be2c324d7250ad97485a6b2d2d2afba4d9122a3921ed8c7514569ce4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c0681b31be2c324d7250ad97485a6b2d2d2afba4d9122a3921ed8c7514569ce4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/22650/Elsinore__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "22650",
+  "timestamp": "2026-05-25T00:16:57.443320Z",
+  "version": 1
+}

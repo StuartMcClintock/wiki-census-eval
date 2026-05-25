@@ -1,0 +1,16 @@
+{
+  "article": "Milford,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/49400/Milford__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2e08c9b8ca2c222e9800ff9d09a843900e77042b6c83a575de60689600c97737",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2e08c9b8ca2c222e9800ff9d09a843900e77042b6c83a575de60689600c97737",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/49400/Milford__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "49400",
+  "timestamp": "2026-05-25T00:08:05.726876Z",
+  "version": 1
+}

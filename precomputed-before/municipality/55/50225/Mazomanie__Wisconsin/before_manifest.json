@@ -1,0 +1,16 @@
+{
+  "article": "Mazomanie,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/50225/Mazomanie__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2a48448b520d64b61bf1b83a8ecf06964ed08efa353e806171749c34e5b3aefd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2a48448b520d64b61bf1b83a8ecf06964ed08efa353e806171749c34e5b3aefd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/50225/Mazomanie__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "50225",
+  "timestamp": "2026-05-25T00:22:24.109513Z",
+  "version": 1
+}

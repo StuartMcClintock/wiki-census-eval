@@ -1,0 +1,16 @@
+{
+  "article": "Tonsina,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/78350/Tonsina__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "28b1d91fd477b1d9d8243e4e3595343e49b385b7af13e79f6a3ac591e7d0cd51",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "28b1d91fd477b1d9d8243e4e3595343e49b385b7af13e79f6a3ac591e7d0cd51",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/78350/Tonsina__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "78350",
+  "timestamp": "2026-05-24T23:32:45.111937Z",
+  "version": 1
+}

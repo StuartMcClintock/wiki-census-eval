@@ -1,0 +1,16 @@
+{
+  "article": "Lane,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/35780/Lane__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2c82ae087d7d3bb1ed8db87078ee676e96f45ac6c0b2d39a6fde9c171883a43b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2c82ae087d7d3bb1ed8db87078ee676e96f45ac6c0b2d39a6fde9c171883a43b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/35780/Lane__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "35780",
+  "timestamp": "2026-05-25T00:10:44.566429Z",
+  "version": 1
+}

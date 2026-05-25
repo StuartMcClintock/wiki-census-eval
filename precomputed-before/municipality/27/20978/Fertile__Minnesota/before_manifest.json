@@ -1,0 +1,16 @@
+{
+  "article": "Fertile,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/20978/Fertile__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "27b20c46bf0b8759125d806f99f5af05b4444f742c60a1cf4d6ecf9013a7e497",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "27b20c46bf0b8759125d806f99f5af05b4444f742c60a1cf4d6ecf9013a7e497",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/20978/Fertile__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "20978",
+  "timestamp": "2026-05-24T23:48:54.441938Z",
+  "version": 1
+}

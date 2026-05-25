@@ -1,0 +1,16 @@
+{
+  "article": "Morton,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/51176/Morton__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "dbd6b26433fec4553775c07ea9fc744f2b7d4510da933d39b9ae7c289c6f59e9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "dbd6b26433fec4553775c07ea9fc744f2b7d4510da933d39b9ae7c289c6f59e9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/51176/Morton__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "51176",
+  "timestamp": "2026-05-25T00:08:10.138782Z",
+  "version": 1
+}

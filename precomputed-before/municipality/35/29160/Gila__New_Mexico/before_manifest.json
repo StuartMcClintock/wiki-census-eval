@@ -1,0 +1,16 @@
+{
+  "article": "Gila,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/29160/Gila__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a8d0716f7b647f6df0b662e53150e9350aededd4af39baf6e03a0bc1d855eebd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a8d0716f7b647f6df0b662e53150e9350aededd4af39baf6e03a0bc1d855eebd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/29160/Gila__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "29160",
+  "timestamp": "2026-05-24T23:58:31.688297Z",
+  "version": 1
+}

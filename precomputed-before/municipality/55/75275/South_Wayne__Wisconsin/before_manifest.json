@@ -1,0 +1,16 @@
+{
+  "article": "South_Wayne,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/75275/South_Wayne__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "26c016c111e060169aaab76284bef8d2ae2788958c7617f9b72c767c0e4c0a11",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "26c016c111e060169aaab76284bef8d2ae2788958c7617f9b72c767c0e4c0a11",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/75275/South_Wayne__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "75275",
+  "timestamp": "2026-05-25T00:22:44.091869Z",
+  "version": 1
+}

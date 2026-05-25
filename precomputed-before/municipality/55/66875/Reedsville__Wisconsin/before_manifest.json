@@ -1,0 +1,16 @@
+{
+  "article": "Reedsville,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/66875/Reedsville__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "469f1fa55dbe48b7974bb611b68d8514052328f3ec2aac3d0e42bc27a2cb4dd5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "469f1fa55dbe48b7974bb611b68d8514052328f3ec2aac3d0e42bc27a2cb4dd5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/66875/Reedsville__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "66875",
+  "timestamp": "2026-05-25T00:22:37.751919Z",
+  "version": 1
+}

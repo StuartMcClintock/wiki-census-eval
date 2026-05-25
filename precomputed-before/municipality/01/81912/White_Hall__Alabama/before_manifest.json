@@ -1,0 +1,16 @@
+{
+  "article": "White_Hall,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/81912/White_Hall__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fd320f548420a0e30db399c8cda85982075a546f522fad6df70d5ade29f11c4f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fd320f548420a0e30db399c8cda85982075a546f522fad6df70d5ade29f11c4f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/81912/White_Hall__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "81912",
+  "timestamp": "2026-05-24T23:32:16.628661Z",
+  "version": 1
+}

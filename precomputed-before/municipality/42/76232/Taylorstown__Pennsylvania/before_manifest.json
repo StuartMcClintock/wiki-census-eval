@@ -1,0 +1,16 @@
+{
+  "article": "Taylorstown,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/76232/Taylorstown__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6cbd986501e572b99d6cbd19175ea8b7e128d169b6f7cdf80a04aa65abb49b03",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6cbd986501e572b99d6cbd19175ea8b7e128d169b6f7cdf80a04aa65abb49b03",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/76232/Taylorstown__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "76232",
+  "timestamp": "2026-05-25T00:09:15.640791Z",
+  "version": 1
+}

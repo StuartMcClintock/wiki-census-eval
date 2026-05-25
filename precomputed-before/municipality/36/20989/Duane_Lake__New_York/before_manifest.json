@@ -1,0 +1,16 @@
+{
+  "article": "Duane_Lake,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/20989/Duane_Lake__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4faadc0dbbb5f531982f40d9a9b0e81d012513d9e3659b0e8a83e31dcc9d263d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4faadc0dbbb5f531982f40d9a9b0e81d012513d9e3659b0e8a83e31dcc9d263d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/20989/Duane_Lake__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "20989",
+  "timestamp": "2026-05-25T00:00:40.271151Z",
+  "version": 1
+}

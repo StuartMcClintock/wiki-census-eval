@@ -1,0 +1,16 @@
+{
+  "article": "Independence,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/36800/Independence__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "50eb3d512ab5ff15ceb3f76b80ff28abace866089c7b4a6fe2d9518c14adac30",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "50eb3d512ab5ff15ceb3f76b80ff28abace866089c7b4a6fe2d9518c14adac30",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/36800/Independence__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "36800",
+  "timestamp": "2026-05-25T00:22:13.849171Z",
+  "version": 1
+}

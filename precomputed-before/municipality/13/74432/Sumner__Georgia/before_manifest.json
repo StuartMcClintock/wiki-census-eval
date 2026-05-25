@@ -1,0 +1,16 @@
+{
+  "article": "Sumner,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/74432/Sumner__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f084cf5cfedc782ff269e27de04922b8a1afe34bab6460aa1e722a97f0103f4d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f084cf5cfedc782ff269e27de04922b8a1afe34bab6460aa1e722a97f0103f4d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/74432/Sumner__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "74432",
+  "timestamp": "2026-05-24T23:37:08.661514Z",
+  "version": 1
+}

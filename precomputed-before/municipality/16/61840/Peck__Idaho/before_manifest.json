@@ -1,0 +1,16 @@
+{
+  "article": "Peck,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/61840/Peck__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ef98b0ceb8936f807a3f2563ea9f3e7d0d6080530e07cf2cdb714986ebb544a8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ef98b0ceb8936f807a3f2563ea9f3e7d0d6080530e07cf2cdb714986ebb544a8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/61840/Peck__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "61840",
+  "timestamp": "2026-05-24T23:37:26.993523Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Silver_Springs,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/67466/Silver_Springs__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "42ce98c18a9d98a8b94e84c42098ee2d9425212f5248676b15bbc574c2946f85",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "42ce98c18a9d98a8b94e84c42098ee2d9425212f5248676b15bbc574c2946f85",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/67466/Silver_Springs__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "67466",
+  "timestamp": "2026-05-25T00:01:14.432677Z",
+  "version": 1
+}

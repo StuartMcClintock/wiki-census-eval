@@ -1,0 +1,16 @@
+{
+  "article": "Antelope,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/01740/Antelope__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "02c9b1199c7e55414dee05d75d720554660c3e24376b1fe135d5e8ae8ea06961",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "02c9b1199c7e55414dee05d75d720554660c3e24376b1fe135d5e8ae8ea06961",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/01740/Antelope__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "01740",
+  "timestamp": "2026-05-25T00:10:29.961831Z",
+  "version": 1
+}

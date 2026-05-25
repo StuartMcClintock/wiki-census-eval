@@ -1,0 +1,16 @@
+{
+  "article": "Orange_Grove_Mobile_Manor,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/51465/Orange_Grove_Mobile_Manor__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8143d802d76a19a840c098c05464f1ef5aa1fbd9909e3bd18f33ee2c8e76ee95",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8143d802d76a19a840c098c05464f1ef5aa1fbd9909e3bd18f33ee2c8e76ee95",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/51465/Orange_Grove_Mobile_Manor__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "51465",
+  "timestamp": "2026-05-24T23:33:05.396773Z",
+  "version": 1
+}

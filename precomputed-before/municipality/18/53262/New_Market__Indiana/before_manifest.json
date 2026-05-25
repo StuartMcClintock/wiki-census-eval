@@ -1,0 +1,16 @@
+{
+  "article": "New_Market,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/53262/New_Market__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4d58ad0037738262a9a7dceb096d5e9bcbbe6a080004c0701d931f8aa28ccd28",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4d58ad0037738262a9a7dceb096d5e9bcbbe6a080004c0701d931f8aa28ccd28",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/53262/New_Market__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "53262",
+  "timestamp": "2026-05-24T23:40:05.012973Z",
+  "version": 1
+}

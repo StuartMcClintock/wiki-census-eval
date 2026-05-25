@@ -1,0 +1,16 @@
+{
+  "article": "Pine_Bend,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/51028/Pine_Bend__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0579e6406d3add5ad92e54aca2c6776247ffa344276d026101d781e57e7197f6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0579e6406d3add5ad92e54aca2c6776247ffa344276d026101d781e57e7197f6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/51028/Pine_Bend__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "51028",
+  "timestamp": "2026-05-24T23:49:27.832698Z",
+  "version": 1
+}

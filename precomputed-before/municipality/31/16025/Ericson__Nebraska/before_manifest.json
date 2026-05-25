@@ -1,0 +1,16 @@
+{
+  "article": "Ericson,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/16025/Ericson__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f93e472f79767c8636a8f7aa8e9768b858875b6eb415e7e4f3dcf0ff8825ba56",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f93e472f79767c8636a8f7aa8e9768b858875b6eb415e7e4f3dcf0ff8825ba56",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/16025/Ericson__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "16025",
+  "timestamp": "2026-05-24T23:55:25.788125Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Buffalo,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/09434/Buffalo__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f35c81f0d856ace178c1501232f6db636db944f50438b9353c65724f8c99c74a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f35c81f0d856ace178c1501232f6db636db944f50438b9353c65724f8c99c74a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/09434/Buffalo__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "09434",
+  "timestamp": "2026-05-24T23:37:52.850114Z",
+  "version": 1
+}

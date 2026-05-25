@@ -1,0 +1,16 @@
+{
+  "article": "Campbell,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/09496/Campbell__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f6e6a5caa7fa0d95bd1831b1a6adf217205ef6e4631108f2394138c22b1ae318",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f6e6a5caa7fa0d95bd1831b1a6adf217205ef6e4631108f2394138c22b1ae318",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/09496/Campbell__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "09496",
+  "timestamp": "2026-05-24T23:48:43.523455Z",
+  "version": 1
+}

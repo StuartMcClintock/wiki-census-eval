@@ -1,0 +1,16 @@
+{
+  "article": "Williamsburg,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/85300/Williamsburg__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9c21fa5d92836c4911a2d45f38c9e4f7133a775de8fd80978fa1b2bec6ca41bc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9c21fa5d92836c4911a2d45f38c9e4f7133a775de8fd80978fa1b2bec6ca41bc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/85300/Williamsburg__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "85300",
+  "timestamp": "2026-05-25T00:00:29.005716Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Camden,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/12760/Camden__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f92080a535ba131435006e971bc837be48c1957fdcb2d0467443d6bb8e0b9e49",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f92080a535ba131435006e971bc837be48c1957fdcb2d0467443d6bb8e0b9e49",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/12760/Camden__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "12760",
+  "timestamp": "2026-05-24T23:47:46.655210Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Bakersville,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/03100/Bakersville__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "76b676daa8ef0f8719e2ebb71aa1ebb10808cd40f71904a7c597dfefd161ff5d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "76b676daa8ef0f8719e2ebb71aa1ebb10808cd40f71904a7c597dfefd161ff5d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/03100/Bakersville__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "03100",
+  "timestamp": "2026-05-25T00:01:42.350084Z",
+  "version": 1
+}

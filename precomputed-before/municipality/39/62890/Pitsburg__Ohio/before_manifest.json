@@ -1,0 +1,16 @@
+{
+  "article": "Pitsburg,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/62890/Pitsburg__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5fd574d0909f868bb3d369286199e39f3ccbdced2e730c1e065cfc89b5948b30",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5fd574d0909f868bb3d369286199e39f3ccbdced2e730c1e065cfc89b5948b30",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/62890/Pitsburg__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "62890",
+  "timestamp": "2026-05-25T00:05:05.914593Z",
+  "version": 1
+}

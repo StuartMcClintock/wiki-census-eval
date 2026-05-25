@@ -1,0 +1,16 @@
+{
+  "article": "Coopers_Plains,_New_York",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/36/18036/Coopers_Plains__New_York/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "10fb7903f9663ec51219ff6f8a58cecf50549438ca06a1505819c59dd1915968",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "10fb7903f9663ec51219ff6f8a58cecf50549438ca06a1505819c59dd1915968",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/36/18036/Coopers_Plains__New_York/manifest.json",
+  "state_fips": "36",
+  "status": "match",
+  "target_fips": "18036",
+  "timestamp": "2026-05-25T00:00:37.147865Z",
+  "version": 1
+}

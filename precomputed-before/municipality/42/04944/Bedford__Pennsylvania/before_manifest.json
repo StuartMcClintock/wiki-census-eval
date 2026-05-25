@@ -1,0 +1,16 @@
+{
+  "article": "Bedford,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/04944/Bedford__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b992e358cb0693218fbde18181f948992899053dc7d49181f89f4c454e8485c4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b992e358cb0693218fbde18181f948992899053dc7d49181f89f4c454e8485c4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/04944/Bedford__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "04944",
+  "timestamp": "2026-05-25T00:06:14.518050Z",
+  "version": 1
+}

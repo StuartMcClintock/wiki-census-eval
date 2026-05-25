@@ -1,0 +1,16 @@
+{
+  "article": "Terramuggus,_Connecticut",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/09/75200/Terramuggus__Connecticut/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0d6b95f3f262ac42fb75c471a9e9b4c6667e62972f74ae13df30925f6da258c5",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0d6b95f3f262ac42fb75c471a9e9b4c6667e62972f74ae13df30925f6da258c5",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/09/75200/Terramuggus__Connecticut/manifest.json",
+  "state_fips": "09",
+  "status": "match",
+  "target_fips": "75200",
+  "timestamp": "2026-05-24T23:36:02.453488Z",
+  "version": 1
+}

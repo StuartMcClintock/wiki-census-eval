@@ -1,0 +1,16 @@
+{
+  "article": "Unionville,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/81420/Unionville__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9d35e1c83bd60ed51ac9740e2a39e89d2edbf4e5e53b64b229b6f34a9c55f66e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9d35e1c83bd60ed51ac9740e2a39e89d2edbf4e5e53b64b229b6f34a9c55f66e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/81420/Unionville__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "81420",
+  "timestamp": "2026-05-24T23:48:31.237140Z",
+  "version": 1
+}

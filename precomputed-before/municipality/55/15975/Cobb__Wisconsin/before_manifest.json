@@ -1,0 +1,16 @@
+{
+  "article": "Cobb,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/15975/Cobb__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "49eee7054b1c7e7d51b1e6ea430327456c0789aa94cabb165919566a214a0b1b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "49eee7054b1c7e7d51b1e6ea430327456c0789aa94cabb165919566a214a0b1b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/15975/Cobb__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "15975",
+  "timestamp": "2026-05-25T00:21:43.624640Z",
+  "version": 1
+}

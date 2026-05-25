@@ -1,0 +1,16 @@
+{
+  "article": "Elkview,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/24748/Elkview__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4da55ac0dec0e2f418449d57a785b0325fd8f95d9a87219c3470b25838c4a19e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4da55ac0dec0e2f418449d57a785b0325fd8f95d9a87219c3470b25838c4a19e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/24748/Elkview__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "24748",
+  "timestamp": "2026-05-25T00:21:05.320993Z",
+  "version": 1
+}

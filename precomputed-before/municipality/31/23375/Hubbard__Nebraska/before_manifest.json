@@ -1,0 +1,16 @@
+{
+  "article": "Hubbard,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/23375/Hubbard__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7f5dec834f0479f5e7c5a2853250410b4e20c0a855634e8dd2455bb7269f075a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7f5dec834f0479f5e7c5a2853250410b4e20c0a855634e8dd2455bb7269f075a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/23375/Hubbard__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "23375",
+  "timestamp": "2026-05-24T23:55:33.641212Z",
+  "version": 1
+}

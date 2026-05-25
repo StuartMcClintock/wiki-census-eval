@@ -1,0 +1,16 @@
+{
+  "article": "Pinch,_West_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/54/63772/Pinch__West_Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4aeeae1c9d511722b0d77953071074626138c40db4f59c56705bdf8453fb4964",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4aeeae1c9d511722b0d77953071074626138c40db4f59c56705bdf8453fb4964",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/54/63772/Pinch__West_Virginia/manifest.json",
+  "state_fips": "54",
+  "status": "match",
+  "target_fips": "63772",
+  "timestamp": "2026-05-25T00:21:21.039933Z",
+  "version": 1
+}

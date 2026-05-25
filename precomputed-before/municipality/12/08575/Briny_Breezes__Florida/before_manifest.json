@@ -1,0 +1,16 @@
+{
+  "article": "Briny_Breezes,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/08575/Briny_Breezes__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "afd3d10c61c81d6cbbb2314a7683c78dcde375a153f0786349a6cc6b29daa1d1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "afd3d10c61c81d6cbbb2314a7683c78dcde375a153f0786349a6cc6b29daa1d1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/08575/Briny_Breezes__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "08575",
+  "timestamp": "2026-05-24T23:36:08.243393Z",
+  "version": 1
+}

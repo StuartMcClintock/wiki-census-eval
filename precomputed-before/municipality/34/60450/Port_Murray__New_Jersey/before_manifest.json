@@ -1,0 +1,16 @@
+{
+  "article": "Port_Murray,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/60450/Port_Murray__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "fec64984a032803fb7303fef5f1c3ff7cbb771d97cdabdd52b8af0f299ef613d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "fec64984a032803fb7303fef5f1c3ff7cbb771d97cdabdd52b8af0f299ef613d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/60450/Port_Murray__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "60450",
+  "timestamp": "2026-05-24T23:57:58.871116Z",
+  "version": 1
+}

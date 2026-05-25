@@ -1,0 +1,16 @@
+{
+  "article": "Pine_Hollow,_Oregon",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/41/57875/Pine_Hollow__Oregon/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2273e52166a8a577cc2bf242aef5b4fb15ffb45f3be77b47350a415fb6b6d0a8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2273e52166a8a577cc2bf242aef5b4fb15ffb45f3be77b47350a415fb6b6d0a8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/41/57875/Pine_Hollow__Oregon/manifest.json",
+  "state_fips": "41",
+  "status": "match",
+  "target_fips": "57875",
+  "timestamp": "2026-05-25T00:05:53.967425Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Vernon,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/80200/Vernon__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e7005af815feb64a4d79328b0a8c66fd92758558e29f48b85427252a4ea03f31",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e7005af815feb64a4d79328b0a8c66fd92758558e29f48b85427252a4ea03f31",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/80200/Vernon__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "80200",
+  "timestamp": "2026-05-25T00:17:11.751682Z",
+  "version": 1
+}

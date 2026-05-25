@@ -1,0 +1,16 @@
+{
+  "article": "Flat_Rock,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/27356/Flat_Rock__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8b2c960835c9a1de48f15d85258c804d2a797ce2263fd7e4d7fbd6f28a9c5b78",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8b2c960835c9a1de48f15d85258c804d2a797ce2263fd7e4d7fbd6f28a9c5b78",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/27356/Flat_Rock__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "27356",
+  "timestamp": "2026-05-25T00:04:08.731211Z",
+  "version": 1
+}

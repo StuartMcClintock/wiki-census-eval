@@ -1,0 +1,16 @@
+{
+  "article": "Florence,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/21410/Florence__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d562b8217ea828bf69e1bbb03fedc0ac586bb9ee2e5e51eb879fd5e183417f88",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d562b8217ea828bf69e1bbb03fedc0ac586bb9ee2e5e51eb879fd5e183417f88",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/21410/Florence__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "21410",
+  "timestamp": "2026-05-24T23:48:55.684149Z",
+  "version": 1
+}

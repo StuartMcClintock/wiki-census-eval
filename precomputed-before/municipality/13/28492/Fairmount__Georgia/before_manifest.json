@@ -1,0 +1,16 @@
+{
+  "article": "Fairmount,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/28492/Fairmount__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4a61785914be61c3a93543745a3206d1f37f7d9d220a19799a0e7210b2353a82",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4a61785914be61c3a93543745a3206d1f37f7d9d220a19799a0e7210b2353a82",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/28492/Fairmount__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "28492",
+  "timestamp": "2026-05-24T23:36:36.526172Z",
+  "version": 1
+}

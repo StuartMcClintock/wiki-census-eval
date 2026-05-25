@@ -1,0 +1,16 @@
+{
+  "article": "Joplin,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/39775/Joplin__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "eae22dcda1aa587072059a1ba6b288f873c0a394140bc42760e4c4febc8793ac",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "eae22dcda1aa587072059a1ba6b288f873c0a394140bc42760e4c4febc8793ac",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/39775/Joplin__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "39775",
+  "timestamp": "2026-05-24T23:54:32.848443Z",
+  "version": 1
+}

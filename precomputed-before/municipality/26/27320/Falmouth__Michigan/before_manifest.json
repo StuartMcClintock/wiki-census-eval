@@ -1,0 +1,16 @@
+{
+  "article": "Falmouth,_Michigan",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/26/27320/Falmouth__Michigan/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "84b30936c486661a81623d0846122631a03f0154064ac3d4b3f8a6c46b1868db",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "84b30936c486661a81623d0846122631a03f0154064ac3d4b3f8a6c46b1868db",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/26/27320/Falmouth__Michigan/manifest.json",
+  "state_fips": "26",
+  "status": "match",
+  "target_fips": "27320",
+  "timestamp": "2026-05-24T23:47:54.651440Z",
+  "version": 1
+}

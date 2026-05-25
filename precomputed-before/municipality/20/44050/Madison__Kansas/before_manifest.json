@@ -1,0 +1,16 @@
+{
+  "article": "Madison,_Kansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/20/44050/Madison__Kansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ee3d3491bed996c41549e4eb408319d36d7b41530c40eb8f4071ff10168d5c66",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ee3d3491bed996c41549e4eb408319d36d7b41530c40eb8f4071ff10168d5c66",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/20/44050/Madison__Kansas/manifest.json",
+  "state_fips": "20",
+  "status": "match",
+  "target_fips": "44050",
+  "timestamp": "2026-05-24T23:43:07.050884Z",
+  "version": 1
+}

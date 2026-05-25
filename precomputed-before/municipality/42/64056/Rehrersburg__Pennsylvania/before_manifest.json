@@ -1,0 +1,16 @@
+{
+  "article": "Rehrersburg,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/64056/Rehrersburg__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a1fc17eed0133805d3584597596e896937ef6d1a8f3bc93cf40369b6b9afeb0d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a1fc17eed0133805d3584597596e896937ef6d1a8f3bc93cf40369b6b9afeb0d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/64056/Rehrersburg__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "64056",
+  "timestamp": "2026-05-25T00:08:36.695530Z",
+  "version": 1
+}

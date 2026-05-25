@@ -1,0 +1,16 @@
+{
+  "article": "Ventura,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/82800/Ventura__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3680c7d1def1ddb6a53f7f96751c20c215631e184d697fcd84e9a53a27dd1d8f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3680c7d1def1ddb6a53f7f96751c20c215631e184d697fcd84e9a53a27dd1d8f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/82800/Ventura__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "82800",
+  "timestamp": "2026-05-25T00:00:27.518656Z",
+  "version": 1
+}

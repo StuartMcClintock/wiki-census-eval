@@ -1,0 +1,16 @@
+{
+  "article": "Grimesland,_North_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/37/28240/Grimesland__North_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "584849b8e90e28bfe176fb5df31b26f68068f5cd3e27e35d7a2fd2cef28d4343",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "584849b8e90e28bfe176fb5df31b26f68068f5cd3e27e35d7a2fd2cef28d4343",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/37/28240/Grimesland__North_Carolina/manifest.json",
+  "state_fips": "37",
+  "status": "match",
+  "target_fips": "28240",
+  "timestamp": "2026-05-25T00:02:01.186979Z",
+  "version": 1
+}

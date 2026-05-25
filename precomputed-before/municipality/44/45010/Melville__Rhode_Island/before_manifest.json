@@ -1,0 +1,16 @@
+{
+  "article": "Melville,_Rhode_Island",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/44/45010/Melville__Rhode_Island/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b0c3843c942331e0a8851ac7ab72dfb547fe13ce932e8c18c7f5ca739a7bd0f2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b0c3843c942331e0a8851ac7ab72dfb547fe13ce932e8c18c7f5ca739a7bd0f2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/44/45010/Melville__Rhode_Island/manifest.json",
+  "state_fips": "44",
+  "status": "match",
+  "target_fips": "45010",
+  "timestamp": "2026-05-25T00:09:37.435850Z",
+  "version": 1
+}

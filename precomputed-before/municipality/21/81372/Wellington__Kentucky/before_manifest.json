@@ -1,0 +1,16 @@
+{
+  "article": "Wellington,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/81372/Wellington__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8684aabe42c735190ee6bc95daa037096d4c14f2a9a4643a65012f72673b6ba4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8684aabe42c735190ee6bc95daa037096d4c14f2a9a4643a65012f72673b6ba4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/81372/Wellington__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "81372",
+  "timestamp": "2026-05-24T23:44:25.023387Z",
+  "version": 1
+}

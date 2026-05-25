@@ -1,0 +1,16 @@
+{
+  "article": "Thawville,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/74847/Thawville__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "019792a1995b0f2be09bc1d244fb04c133bc1e7e66e4d398ee77156ee697bfeb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "019792a1995b0f2be09bc1d244fb04c133bc1e7e66e4d398ee77156ee697bfeb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/74847/Thawville__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "74847",
+  "timestamp": "2026-05-24T23:39:16.002262Z",
+  "version": 1
+}

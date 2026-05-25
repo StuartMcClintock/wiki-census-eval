@@ -1,0 +1,16 @@
+{
+  "article": "Koliganek,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/41500/Koliganek__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7d4251553cc69ec3f1729ab227fc83760010441de16dc73829f052946603af93",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7d4251553cc69ec3f1729ab227fc83760010441de16dc73829f052946603af93",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/41500/Koliganek__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "41500",
+  "timestamp": "2026-05-24T23:32:25.214658Z",
+  "version": 1
+}

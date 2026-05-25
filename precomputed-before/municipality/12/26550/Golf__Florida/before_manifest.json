@@ -1,0 +1,16 @@
+{
+  "article": "Golf,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/26550/Golf__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e092f75dddcb1db3787b73b9329981c6a7150f58e7cf59d5b95b6833f8c0d3cb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e092f75dddcb1db3787b73b9329981c6a7150f58e7cf59d5b95b6833f8c0d3cb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/26550/Golf__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "26550",
+  "timestamp": "2026-05-24T23:36:12.709681Z",
+  "version": 1
+}

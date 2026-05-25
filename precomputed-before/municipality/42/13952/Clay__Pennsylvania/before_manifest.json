@@ -1,0 +1,16 @@
+{
+  "article": "Clay,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/13952/Clay__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "4f20c352134332a120f9b35fdde2aa621343c5f1983251590d8061e66620b5de",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "4f20c352134332a120f9b35fdde2aa621343c5f1983251590d8061e66620b5de",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/13952/Clay__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "13952",
+  "timestamp": "2026-05-25T00:06:42.347641Z",
+  "version": 1
+}

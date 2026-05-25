@@ -1,0 +1,16 @@
+{
+  "article": "Colfax,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/14284/Colfax__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "22e120c24ad2d61c04b5f81920ec41f9171f50d0b4915f85ce2383e675b94c6a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "22e120c24ad2d61c04b5f81920ec41f9171f50d0b4915f85ce2383e675b94c6a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/14284/Colfax__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "14284",
+  "timestamp": "2026-05-24T23:39:31.061993Z",
+  "version": 1
+}

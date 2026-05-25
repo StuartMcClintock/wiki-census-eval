@@ -1,0 +1,16 @@
+{
+  "article": "Chemung,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/12879/Chemung__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e6bd5c455651456cd92eccdac981f02cb8b8d2ab301b96d1ff0d44709002acd4",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e6bd5c455651456cd92eccdac981f02cb8b8d2ab301b96d1ff0d44709002acd4",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/12879/Chemung__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "12879",
+  "timestamp": "2026-05-24T23:37:56.179569Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Bucklin,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/09388/Bucklin__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "de1db2395c4fc413738073d4b9ae3ffe92ef1f450c8a4400733d1807548231bf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "de1db2395c4fc413738073d4b9ae3ffe92ef1f450c8a4400733d1807548231bf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/09388/Bucklin__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "09388",
+  "timestamp": "2026-05-24T23:50:50.803529Z",
+  "version": 1
+}

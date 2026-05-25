@@ -1,0 +1,16 @@
+{
+  "article": "St._Elizabeth,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/64190/St._Elizabeth__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bf74feb42408746b0269a962505e1afe2e43011d534f858ea5bb1db84cb9b419",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bf74feb42408746b0269a962505e1afe2e43011d534f858ea5bb1db84cb9b419",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/64190/St._Elizabeth__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "64190",
+  "timestamp": "2026-05-24T23:53:47.905980Z",
+  "version": 1
+}

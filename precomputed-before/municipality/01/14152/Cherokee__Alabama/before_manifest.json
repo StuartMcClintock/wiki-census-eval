@@ -1,0 +1,16 @@
+{
+  "article": "Cherokee,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/14152/Cherokee__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "974ef2ddce94b8cff0050c3c5f03d8bf76515613b254fbe50b2a22c01d9d198f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "974ef2ddce94b8cff0050c3c5f03d8bf76515613b254fbe50b2a22c01d9d198f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/14152/Cherokee__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "14152",
+  "timestamp": "2026-05-24T23:31:51.581800Z",
+  "version": 1
+}

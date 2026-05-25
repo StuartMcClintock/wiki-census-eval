@@ -1,0 +1,16 @@
+{
+  "article": "Orient,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/58800/Orient__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ebe004b3e0e32ae6450e7105148c4cb07ed3ab753f4ea4b760dc739ba6da5fc2",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ebe004b3e0e32ae6450e7105148c4cb07ed3ab753f4ea4b760dc739ba6da5fc2",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/58800/Orient__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "58800",
+  "timestamp": "2026-05-25T00:05:03.050878Z",
+  "version": 1
+}

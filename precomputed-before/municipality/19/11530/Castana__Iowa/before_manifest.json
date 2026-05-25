@@ -1,0 +1,16 @@
+{
+  "article": "Castana,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/11530/Castana__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5f7bdc43b9dce83d906bcf8079163aeb5684375cd17a41f1dc34283d68fa6f6e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5f7bdc43b9dce83d906bcf8079163aeb5684375cd17a41f1dc34283d68fa6f6e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/11530/Castana__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "11530",
+  "timestamp": "2026-05-24T23:40:33.062797Z",
+  "version": 1
+}

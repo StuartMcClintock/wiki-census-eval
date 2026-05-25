@@ -1,0 +1,16 @@
+{
+  "article": "Illiopolis,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/37127/Illiopolis__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e588a5151627848e2286022ec6ff07bd8578e64e4a1af040f6bd0509c53c3dfb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e588a5151627848e2286022ec6ff07bd8578e64e4a1af040f6bd0509c53c3dfb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/37127/Illiopolis__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "37127",
+  "timestamp": "2026-05-24T23:38:22.189381Z",
+  "version": 1
+}

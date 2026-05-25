@@ -1,0 +1,16 @@
+{
+  "article": "Triumph,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/76440/Triumph__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1c5e2ab9fa0bf441fa19ed8b37e2b505157c8902a7909e9d7a60cf8a2bd5bbc1",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1c5e2ab9fa0bf441fa19ed8b37e2b505157c8902a7909e9d7a60cf8a2bd5bbc1",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/76440/Triumph__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "76440",
+  "timestamp": "2026-05-24T23:45:10.757255Z",
+  "version": 1
+}

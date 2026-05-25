@@ -1,0 +1,60 @@
+==Demographics==
+{{US Census population
+|1880= 251
+|1890= 1073
+|1900= 1884
+|1910= 2649
+|1920= 3094
+|1930= 3944
+|1940= 3953
+|1950= 4565
+|1960= 6765
+|1970= 7800
+|1980= 6628
+|1990= 6609
+|2000= 6426
+|2010= 6417
+|2020= 6807
+|footnote=Sources:<ref name="GR9">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|publisher=[[United States Census Bureau]]|access-date=2012-03-04|title=Census of Population and Housing: Decennial Censuses}}</ref><ref name=CensusPopEst>{{cite web|title=Incorporated Places and Minor Civil Divisions Datasets: Subcounty Resident Population Estimates: April 1, 2010 to July 1, 2012|url=https://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|work=Population Estimates|publisher=U.S. Census Bureau|access-date=11 December 2013|url-status=dead|archive-url=https://web.archive.org/web/20130611010502/http://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html|archive-date=11 June 2013}}</ref><ref>{{cite web|title=Census 2020|url=https://www.census.gov/quickfacts/fact/table/amblerboroughpennsylvania/PST045219}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N%2CNAME&for=place%3A%2A&in=state%3A42|title=Census Population API|publisher=United States Census Bureau|accessdate=Oct 12, 2022}}</ref>
+}}
+{| class="wikitable"  style="float:right; font-size:90%;"
+|+ '''Presidential elections results'''<ref>{{cite web|url=http://www.montcopa.org/Archive.aspx?AMID=132|title=Montgomery County Election Results|publisher=Montgomery County, Pennsylvania|access-date=January 16, 2017}}</ref>
+|- style="background:lightgrey;"
+! Year
+! [[Republican Party (United States)|Republican]]
+! [[Democratic Party (United States)|Democratic]]
+|-
+|  style="text-align:center; background:#f0f0ff;"|[[U.S. presidential election, 2020|2020]]
+|  style="text-align:center; background:#fff3f3;"|27.6% ''1,052''
+|  style="text-align:center; background:#f0f0ff;"|'''71.3%''' ''2,717''
+|-
+|  style="text-align:center; background:#f0f0ff;"|[[U.S. presidential election, 2016|2016]]
+|  style="text-align:center; background:#fff3f3;"|27.8% ''904''
+|  style="text-align:center; background:#f0f0ff;"|'''67.2%''' ''2,182''
+|-
+|  style="text-align:center; background:#f0f0ff;"|[[U.S. presidential election, 2012|2012]]
+|  style="text-align:center; background:#fff3f3;"|31.2% ''959''
+|  style="text-align:center; background:#f0f0ff;"|'''67.3%''' ''2,069''
+|-
+|  style="text-align:center; background:#f0f0ff;"|[[U.S. presidential election, 2008|2008]]
+|  style="text-align:center; background:#fff3f3;"|30.8% ''947''
+|  style="text-align:center; background:#f0f0ff;"|'''68.4%''' ''2,099''
+|-
+|  style="text-align:center; background:#f0f0ff;"|[[U.S. presidential election, 2004|2004]]
+|  style="text-align:center; background:#fff3f3;"|33.7% ''989''
+|  style="text-align:center; background:#f0f0ff;"|'''65.7%''' ''1,927''
+|-
+|  style="text-align:center; background:#f0f0ff;"|[[U.S. presidential election, 2000|2000]]
+|  style="text-align:center; background:#fff3f3;"|35.1% ''875''
+|  style="text-align:center; background:#f0f0ff;"|'''60.4%''' ''1,464''
+|}
+As of the 2010 census, the borough was 76.5% White, 12.8% Black or African American, 0.2% Native American, 3.8% Asian, 0.3% Native Hawaiian, and 3.4% were two or more races. 7.9% were of Hispanic or Latino ancestry, an almost four-fold increase since the 2000 census [https://www.usatoday.com/news/nation/census/profile/PA#locality-tab].
+
+As of the [[census]]<ref name="GR2">{{cite web|url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref> of 2000, there were 6,426 people, 2,510 households, and 1,598 families residing in the borough. The population density was {{convert|7,605.8|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 2,605 housing units at an average density of {{convert|3,083.3|/sqmi|/km2|sp=us|adj=off}}. The racial makeup of the borough was 83.29% [[White (U.S. Census)|White]], 12.03% [[African American (U.S. Census)|African American]], 0.25% [[Native American (U.S. Census)|Native American]], 2.47% [[Asian (U.S. Census)|Asian]], 0.06% [[Pacific Islander (U.S. Census)|Pacific Islander]], 0.50% from [[Race (United States Census)|other races]], and 1.40% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 2.13% of the population.
+
+There were 2,510 households, out of which 29.9% had children under the age of 18 living with them, 45.7% were [[Marriage|married couples]] living together, 13.9% had a female householder with no husband present, and 36.3% were non-families. 30.2% of all households were made up of individuals, and 11.2% had someone living alone who was 65 years of age or older. The average household size was 2.45 and the average family size was 3.08.
+
+In the borough the population was spread out, with 23.5% under the age of 18, 7.0% from 18 to 24, 32.5% from 25 to 44, 19.7% from 45 to 64, and 17.4% who were 65 years of age or older. The median age was 37 years. For every 100 females there were 86.5 males. For every 100 females age 18 and over, there were 81.8 males.
+
+The median income for a household in the borough was $47,014, and the median income for a family was $51,235. Males had a median income of $40,305 versus $30,735 for females. The [[per capita income]] for the borough was $21,688. About 2.4% of families and 5.5% of the population were below the [[poverty line]], including 6.8% of those under age 18 and 4.9% of those age 65 or over.
+

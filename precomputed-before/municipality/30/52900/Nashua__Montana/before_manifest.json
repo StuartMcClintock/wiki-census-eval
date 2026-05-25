@@ -1,0 +1,16 @@
+{
+  "article": "Nashua,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/52900/Nashua__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "52ff7eb66ff16ecd3d8fd0789901e5d75b8deca6cfc22677a786305c27f9b787",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "52ff7eb66ff16ecd3d8fd0789901e5d75b8deca6cfc22677a786305c27f9b787",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/52900/Nashua__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "52900",
+  "timestamp": "2026-05-24T23:54:39.441386Z",
+  "version": 1
+}

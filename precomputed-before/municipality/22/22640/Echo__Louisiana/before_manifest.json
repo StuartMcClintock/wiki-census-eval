@@ -1,0 +1,16 @@
+{
+  "article": "Echo,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/22640/Echo__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9b4951a73ff889334c5ea390fead2418a4583afb7c97384498095c8404ae0ac8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9b4951a73ff889334c5ea390fead2418a4583afb7c97384498095c8404ae0ac8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/22640/Echo__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "22640",
+  "timestamp": "2026-05-24T23:44:46.296522Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Flemington,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/30088/Flemington__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "668a22bc75abbe7c853c65d31e51a1eaf8442f72ddd5a2f437fe4ac6722f28be",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "668a22bc75abbe7c853c65d31e51a1eaf8442f72ddd5a2f437fe4ac6722f28be",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/30088/Flemington__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "30088",
+  "timestamp": "2026-05-24T23:36:36.769185Z",
+  "version": 1
+}

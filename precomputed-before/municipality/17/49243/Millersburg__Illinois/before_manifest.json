@@ -1,0 +1,16 @@
+{
+  "article": "Millersburg,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/49243/Millersburg__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "be88c28fb3e8f20ae2abdce4fccae134ce26cb6898d6f94b1a710c695e47aa8a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "be88c28fb3e8f20ae2abdce4fccae134ce26cb6898d6f94b1a710c695e47aa8a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/49243/Millersburg__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "49243",
+  "timestamp": "2026-05-24T23:38:35.809244Z",
+  "version": 1
+}

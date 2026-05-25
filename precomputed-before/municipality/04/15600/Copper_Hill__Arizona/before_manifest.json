@@ -1,0 +1,16 @@
+{
+  "article": "Copper_Hill,_Arizona",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/04/15600/Copper_Hill__Arizona/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "925261a1415c0cce66e9a73b0e9ad65b9368796c9e289707a9d502a2f926d292",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "925261a1415c0cce66e9a73b0e9ad65b9368796c9e289707a9d502a2f926d292",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/04/15600/Copper_Hill__Arizona/manifest.json",
+  "state_fips": "04",
+  "status": "match",
+  "target_fips": "15600",
+  "timestamp": "2026-05-24T23:32:51.436848Z",
+  "version": 1
+}

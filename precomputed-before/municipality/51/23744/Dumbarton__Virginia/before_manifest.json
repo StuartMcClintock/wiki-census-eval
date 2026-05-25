@@ -1,0 +1,16 @@
+{
+  "article": "Dumbarton,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/23744/Dumbarton__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e1a78a5c1d08cac51e732a817f7091ec7091ace66f036f7c045e9d847f1d9339",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e1a78a5c1d08cac51e732a817f7091ec7091ace66f036f7c045e9d847f1d9339",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/23744/Dumbarton__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "23744",
+  "timestamp": "2026-05-25T00:19:10.291109Z",
+  "version": 1
+}

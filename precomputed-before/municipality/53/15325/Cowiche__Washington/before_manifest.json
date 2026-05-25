@@ -1,0 +1,16 @@
+{
+  "article": "Cowiche,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/15325/Cowiche__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": false,
+  "current_hash": null,
+  "location_kind": "municipality",
+  "manifest_had_section": false,
+  "manifest_hash": null,
+  "reason": "no demographics section then or now",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/15325/Cowiche__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "15325",
+  "timestamp": "2026-05-25T00:20:08.328817Z",
+  "version": 1
+}

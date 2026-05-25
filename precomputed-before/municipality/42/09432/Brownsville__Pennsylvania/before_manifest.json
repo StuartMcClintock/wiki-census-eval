@@ -1,0 +1,16 @@
+{
+  "article": "Brownsville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/09432/Brownsville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "677bd1f040f066971524dfca9bdcff3d6f11a3d6f4c246f93e2bcaf4ea06cd6d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "677bd1f040f066971524dfca9bdcff3d6f11a3d6f4c246f93e2bcaf4ea06cd6d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/09432/Brownsville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "09432",
+  "timestamp": "2026-05-25T00:06:22.537425Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Nimrod,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/46294/Nimrod__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "8889a8b9e7ecf5af36a599e3808c18ce3de0e174f512223901173d953a62d776",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "8889a8b9e7ecf5af36a599e3808c18ce3de0e174f512223901173d953a62d776",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/46294/Nimrod__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "46294",
+  "timestamp": "2026-05-24T23:49:24.745178Z",
+  "version": 1
+}

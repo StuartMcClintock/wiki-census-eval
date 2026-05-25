@@ -1,0 +1,16 @@
+{
+  "article": "Avoca,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/02795/Avoca__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e7bc88e95bd9d46a3a00d4869eba3c34fe5311c3ae4bf5c2303c057b3b75dd02",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e7bc88e95bd9d46a3a00d4869eba3c34fe5311c3ae4bf5c2303c057b3b75dd02",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/02795/Avoca__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "02795",
+  "timestamp": "2026-05-24T23:55:09.491725Z",
+  "version": 1
+}

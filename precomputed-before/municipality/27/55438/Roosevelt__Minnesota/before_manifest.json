@@ -1,0 +1,16 @@
+{
+  "article": "Roosevelt,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/55438/Roosevelt__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "748e8ac4b86322547cc7986d590696cc2832c01c6f58f0e20a4f44432b2bad7a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "748e8ac4b86322547cc7986d590696cc2832c01c6f58f0e20a4f44432b2bad7a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/55438/Roosevelt__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "55438",
+  "timestamp": "2026-05-24T23:49:41.982892Z",
+  "version": 1
+}

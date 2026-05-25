@@ -1,0 +1,16 @@
+{
+  "article": "Shirley,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/69628/Shirley__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b75786be6a4842505a39938940e40fd6a2193ce572b1499121a9f5bce00e6732",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b75786be6a4842505a39938940e40fd6a2193ce572b1499121a9f5bce00e6732",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/69628/Shirley__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "69628",
+  "timestamp": "2026-05-24T23:39:11.302869Z",
+  "version": 1
+}

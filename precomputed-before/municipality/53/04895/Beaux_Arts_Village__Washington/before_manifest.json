@@ -1,0 +1,16 @@
+{
+  "article": "Beaux_Arts_Village,_Washington",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/53/04895/Beaux_Arts_Village__Washington/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f2fe2300864dc5bc4fc9f1ee6961720891b76cddcc2f270a607fb43910904071",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f2fe2300864dc5bc4fc9f1ee6961720891b76cddcc2f270a607fb43910904071",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/53/04895/Beaux_Arts_Village__Washington/manifest.json",
+  "state_fips": "53",
+  "status": "match",
+  "target_fips": "04895",
+  "timestamp": "2026-05-25T00:20:01.938490Z",
+  "version": 1
+}

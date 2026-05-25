@@ -1,0 +1,16 @@
+{
+  "article": "Keystone,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/41115/Keystone__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d13903d6af3ba9887b759739dee68b8d9cfeda89093ccaabc1bbecac67f91e61",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d13903d6af3ba9887b759739dee68b8d9cfeda89093ccaabc1bbecac67f91e61",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/41115/Keystone__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "41115",
+  "timestamp": "2026-05-24T23:41:15.907193Z",
+  "version": 1
+}

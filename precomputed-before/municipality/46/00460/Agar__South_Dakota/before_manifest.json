@@ -1,0 +1,16 @@
+{
+  "article": "Agar,_South_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/46/00460/Agar__South_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a019f8812e811465bb2406333ede94ed30d2623fb29675742ad3147e37f23e07",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a019f8812e811465bb2406333ede94ed30d2623fb29675742ad3147e37f23e07",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/46/00460/Agar__South_Dakota/manifest.json",
+  "state_fips": "46",
+  "status": "match",
+  "target_fips": "00460",
+  "timestamp": "2026-05-25T00:10:28.903048Z",
+  "version": 1
+}

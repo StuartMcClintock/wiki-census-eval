@@ -1,0 +1,16 @@
+{
+  "article": "Trivoli,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/76108/Trivoli__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "76ae5b23b31bb0bee3df8d5802b90b752513b4210de0342540c693c8a690fc89",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "76ae5b23b31bb0bee3df8d5802b90b752513b4210de0342540c693c8a690fc89",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/76108/Trivoli__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "76108",
+  "timestamp": "2026-05-24T23:39:17.667702Z",
+  "version": 1
+}

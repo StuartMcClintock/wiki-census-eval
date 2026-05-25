@@ -1,0 +1,16 @@
+{
+  "article": "Peetz,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/58235/Peetz__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "12c47a4cb2c582bceaea1f5051c4beaf0167080770831afed25f3102711144e9",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "12c47a4cb2c582bceaea1f5051c4beaf0167080770831afed25f3102711144e9",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/58235/Peetz__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "58235",
+  "timestamp": "2026-05-24T23:35:36.453666Z",
+  "version": 1
+}

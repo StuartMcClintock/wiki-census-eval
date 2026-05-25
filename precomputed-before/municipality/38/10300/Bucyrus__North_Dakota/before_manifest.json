@@ -1,0 +1,16 @@
+{
+  "article": "Bucyrus,_North_Dakota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/38/10300/Bucyrus__North_Dakota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c2ab6167606915d439aab1cc9bd2a466dff566c2ad0a9cc4a3b6a12f2dce0e6b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c2ab6167606915d439aab1cc9bd2a466dff566c2ad0a9cc4a3b6a12f2dce0e6b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/38/10300/Bucyrus__North_Dakota/manifest.json",
+  "state_fips": "38",
+  "status": "match",
+  "target_fips": "10300",
+  "timestamp": "2026-05-25T00:02:36.352541Z",
+  "version": 1
+}

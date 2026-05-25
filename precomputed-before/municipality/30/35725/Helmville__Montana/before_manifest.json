@@ -1,0 +1,16 @@
+{
+  "article": "Helmville,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/35725/Helmville__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "ba8c226a8777f8c137d5be02689b40651157b82390870a6f22e10e66f12e89e8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "ba8c226a8777f8c137d5be02689b40651157b82390870a6f22e10e66f12e89e8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/35725/Helmville__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "35725",
+  "timestamp": "2026-05-24T23:54:29.480598Z",
+  "version": 1
+}

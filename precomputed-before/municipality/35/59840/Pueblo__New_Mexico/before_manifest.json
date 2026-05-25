@@ -1,0 +1,16 @@
+{
+  "article": "Pueblo,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/59840/Pueblo__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c705f2da8d0b8d0cd5e5a887562b31c98241b4f1b06801eff22715774fa54f82",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c705f2da8d0b8d0cd5e5a887562b31c98241b4f1b06801eff22715774fa54f82",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/59840/Pueblo__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "59840",
+  "timestamp": "2026-05-24T23:58:48.656643Z",
+  "version": 1
+}

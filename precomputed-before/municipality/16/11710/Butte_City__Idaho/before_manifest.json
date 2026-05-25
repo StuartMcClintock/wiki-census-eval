@@ -1,0 +1,16 @@
+{
+  "article": "Butte_City,_Idaho",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/16/11710/Butte_City__Idaho/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "e8355c9f163e252a912bf932327af9e0dc0f716ba7814bb8278c3e24ae29d803",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "e8355c9f163e252a912bf932327af9e0dc0f716ba7814bb8278c3e24ae29d803",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/16/11710/Butte_City__Idaho/manifest.json",
+  "state_fips": "16",
+  "status": "match",
+  "target_fips": "11710",
+  "timestamp": "2026-05-24T23:37:16.977103Z",
+  "version": 1
+}

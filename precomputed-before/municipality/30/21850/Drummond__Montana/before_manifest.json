@@ -1,0 +1,16 @@
+{
+  "article": "Drummond,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/21850/Drummond__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2d6f9b6ea6de61d7d5db0d77c52c3f5c776e8afe59167b762ef1655967dbf828",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2d6f9b6ea6de61d7d5db0d77c52c3f5c776e8afe59167b762ef1655967dbf828",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/21850/Drummond__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "21850",
+  "timestamp": "2026-05-24T23:54:21.568979Z",
+  "version": 1
+}

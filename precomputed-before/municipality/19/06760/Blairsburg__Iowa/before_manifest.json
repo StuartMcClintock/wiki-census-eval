@@ -1,0 +1,16 @@
+{
+  "article": "Blairsburg,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/06760/Blairsburg__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a47d7cb9fdd9eef7d38f19b94b3808d8867d8cdbba503c4665ba6eb26a261c93",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a47d7cb9fdd9eef7d38f19b94b3808d8867d8cdbba503c4665ba6eb26a261c93",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/06760/Blairsburg__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "06760",
+  "timestamp": "2026-05-24T23:40:28.298814Z",
+  "version": 1
+}

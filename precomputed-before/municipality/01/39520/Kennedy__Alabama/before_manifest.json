@@ -1,0 +1,16 @@
+{
+  "article": "Kennedy,_Alabama",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/01/39520/Kennedy__Alabama/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "7b5703c145eb4b2418320016b97ea27eb98bd74490b2688ca4355120b0eeaaa6",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "7b5703c145eb4b2418320016b97ea27eb98bd74490b2688ca4355120b0eeaaa6",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/01/39520/Kennedy__Alabama/manifest.json",
+  "state_fips": "01",
+  "status": "match",
+  "target_fips": "39520",
+  "timestamp": "2026-05-24T23:32:01.318671Z",
+  "version": 1
+}

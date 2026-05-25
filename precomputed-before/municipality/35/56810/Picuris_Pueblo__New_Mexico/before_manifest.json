@@ -1,0 +1,16 @@
+{
+  "article": "Picuris_Pueblo,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/56810/Picuris_Pueblo__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "b47eef054df3aada87ea2ee3881d74e26698fcd8ac8614c4d314eee30c780443",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "b47eef054df3aada87ea2ee3881d74e26698fcd8ac8614c4d314eee30c780443",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/56810/Picuris_Pueblo__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "56810",
+  "timestamp": "2026-05-24T23:58:47.097846Z",
+  "version": 1
+}

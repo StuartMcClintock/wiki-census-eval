@@ -1,0 +1,16 @@
+{
+  "article": "Loretto,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/47710/Loretto__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "5e1d28243e84390a1b699da55552c6ee2b62f270e7c7b99b8573d615c5695e6d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "5e1d28243e84390a1b699da55552c6ee2b62f270e7c7b99b8573d615c5695e6d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/47710/Loretto__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "47710",
+  "timestamp": "2026-05-24T23:44:09.916724Z",
+  "version": 1
+}

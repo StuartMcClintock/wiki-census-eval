@@ -1,0 +1,16 @@
+{
+  "article": "Centenary,_South_Carolina",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/45/12925/Centenary__South_Carolina/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "93b632a9ae27477d43dc88908c80dbfc9a4aa6e6d0877d44299c2f522fc62158",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "93b632a9ae27477d43dc88908c80dbfc9a4aa6e6d0877d44299c2f522fc62158",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/45/12925/Centenary__South_Carolina/manifest.json",
+  "state_fips": "45",
+  "status": "match",
+  "target_fips": "12925",
+  "timestamp": "2026-05-25T00:09:53.852570Z",
+  "version": 1
+}

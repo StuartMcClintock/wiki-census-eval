@@ -1,0 +1,16 @@
+{
+  "article": "Morrisdale,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/51120/Morrisdale__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "9b5472111d03f6e0b35840efa2ee8acd404114ca530866c784c0d4158d7f286d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "9b5472111d03f6e0b35840efa2ee8acd404114ca530866c784c0d4158d7f286d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/51120/Morrisdale__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "51120",
+  "timestamp": "2026-05-25T00:08:10.001948Z",
+  "version": 1
+}

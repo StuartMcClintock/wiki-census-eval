@@ -1,0 +1,16 @@
+{
+  "article": "North_Buena_Vista,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/57135/North_Buena_Vista__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d5425a1a25aacdcbc238d92720c8d499e2beaf68cc78bc155ec5927b8d1a1b84",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d5425a1a25aacdcbc238d92720c8d499e2beaf68cc78bc155ec5927b8d1a1b84",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/57135/North_Buena_Vista__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "57135",
+  "timestamp": "2026-05-24T23:41:33.192025Z",
+  "version": 1
+}

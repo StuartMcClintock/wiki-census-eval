@@ -1,0 +1,16 @@
+{
+  "article": "Radisson,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/66050/Radisson__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "20e33ce464724c5c1aa387e1402d736913d2a72d8b7b67925f62c8f338142d42",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "20e33ce464724c5c1aa387e1402d736913d2a72d8b7b67925f62c8f338142d42",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/66050/Radisson__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "66050",
+  "timestamp": "2026-05-25T00:22:36.970981Z",
+  "version": 1
+}

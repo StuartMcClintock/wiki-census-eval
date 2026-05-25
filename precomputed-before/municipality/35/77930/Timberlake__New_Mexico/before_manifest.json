@@ -1,0 +1,16 @@
+{
+  "article": "Timberlake,_New_Mexico",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/35/77930/Timberlake__New_Mexico/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "50adf42dc73b88dc8c0dcad5dce234b8beb1ac20147fc45594bd34a50ee4f6fd",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "50adf42dc73b88dc8c0dcad5dce234b8beb1ac20147fc45594bd34a50ee4f6fd",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/35/77930/Timberlake__New_Mexico/manifest.json",
+  "state_fips": "35",
+  "status": "match",
+  "target_fips": "77930",
+  "timestamp": "2026-05-24T23:59:08.769556Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Brian_Head,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/08020/Brian_Head__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3c00dd2d2dcab87fa79c5ae13435682845685d103919f458068e71b4e58e2634",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3c00dd2d2dcab87fa79c5ae13435682845685d103919f458068e71b4e58e2634",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/08020/Brian_Head__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "08020",
+  "timestamp": "2026-05-25T00:16:54.426738Z",
+  "version": 1
+}

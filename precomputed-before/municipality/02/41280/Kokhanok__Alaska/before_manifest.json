@@ -1,0 +1,16 @@
+{
+  "article": "Kokhanok,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/41280/Kokhanok__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "27d6e7cdc107b9ae01ee60aaf89342699d9dd1afebee2a3016ade7eebad3809d",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "27d6e7cdc107b9ae01ee60aaf89342699d9dd1afebee2a3016ade7eebad3809d",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/41280/Kokhanok__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "41280",
+  "timestamp": "2026-05-24T23:32:25.108711Z",
+  "version": 1
+}

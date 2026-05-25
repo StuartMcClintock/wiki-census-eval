@@ -1,0 +1,16 @@
+{
+  "article": "Mexico,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/48636/Mexico__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a5bca620227280b4abf8f1545c5eb6892b05b34979bfc0386414d0d383bf9e5a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a5bca620227280b4abf8f1545c5eb6892b05b34979bfc0386414d0d383bf9e5a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/48636/Mexico__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "48636",
+  "timestamp": "2026-05-24T23:40:01.980051Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Shartlesville,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/69816/Shartlesville__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "71ab4d0365dc4f9b91a4ef29a94c9b4bf689df8f0a6da05e5801b6d3f03a1475",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "71ab4d0365dc4f9b91a4ef29a94c9b4bf689df8f0a6da05e5801b6d3f03a1475",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/69816/Shartlesville__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "69816",
+  "timestamp": "2026-05-25T00:09:01.768488Z",
+  "version": 1
+}

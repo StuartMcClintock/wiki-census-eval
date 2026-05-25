@@ -1,0 +1,16 @@
+{
+  "article": "Lecompte,_Louisiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/22/42800/Lecompte__Louisiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "76f59123bc491f60338bdb01ccd94625161ccbc7d318e5adc6f7bb7a3727a016",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "76f59123bc491f60338bdb01ccd94625161ccbc7d318e5adc6f7bb7a3727a016",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/22/42800/Lecompte__Louisiana/manifest.json",
+  "state_fips": "22",
+  "status": "match",
+  "target_fips": "42800",
+  "timestamp": "2026-05-24T23:44:53.611309Z",
+  "version": 1
+}

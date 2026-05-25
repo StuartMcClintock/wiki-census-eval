@@ -1,0 +1,16 @@
+{
+  "article": "One_Loudoun,_Virginia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/51/59364/One_Loudoun__Virginia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6455d0c4429883e2fed1ab806072e519d27a505fb42ed232005e4f7a09154510",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6455d0c4429883e2fed1ab806072e519d27a505fb42ed232005e4f7a09154510",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/51/59364/One_Loudoun__Virginia/manifest.json",
+  "state_fips": "51",
+  "status": "match",
+  "target_fips": "59364",
+  "timestamp": "2026-05-25T00:19:30.088891Z",
+  "version": 1
+}

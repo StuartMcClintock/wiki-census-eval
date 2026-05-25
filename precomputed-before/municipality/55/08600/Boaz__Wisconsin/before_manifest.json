@@ -1,0 +1,16 @@
+{
+  "article": "Boaz,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/08600/Boaz__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1d95ba0e9aaff969eee3d0ad9c95a05a52eb231a07c886f01690a67941d26a96",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1d95ba0e9aaff969eee3d0ad9c95a05a52eb231a07c886f01690a67941d26a96",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/08600/Boaz__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "08600",
+  "timestamp": "2026-05-25T00:21:37.973668Z",
+  "version": 1
+}

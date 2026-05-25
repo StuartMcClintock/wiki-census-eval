@@ -1,0 +1,16 @@
+{
+  "article": "Lamont,_Florida",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/12/39100/Lamont__Florida/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "55a224e4d76d54a34439863837f53b163cb92137426c026db76639af266ecf1e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "55a224e4d76d54a34439863837f53b163cb92137426c026db76639af266ecf1e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/12/39100/Lamont__Florida/manifest.json",
+  "state_fips": "12",
+  "status": "match",
+  "target_fips": "39100",
+  "timestamp": "2026-05-24T23:36:16.492506Z",
+  "version": 1
+}

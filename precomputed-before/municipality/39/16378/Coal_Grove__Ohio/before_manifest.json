@@ -1,0 +1,16 @@
+{
+  "article": "Coal_Grove,_Ohio",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/39/16378/Coal_Grove__Ohio/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "a82b637066a2428813720a522d0f8e0e911181b29b4b747e71504127c38ec840",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "a82b637066a2428813720a522d0f8e0e911181b29b4b747e71504127c38ec840",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/39/16378/Coal_Grove__Ohio/manifest.json",
+  "state_fips": "39",
+  "status": "match",
+  "target_fips": "16378",
+  "timestamp": "2026-05-25T00:03:55.848177Z",
+  "version": 1
+}

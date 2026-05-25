@@ -1,0 +1,16 @@
+{
+  "article": "Healy,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/32150/Healy__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "22c94d7b26a8b3dc1e9f90a881fa38355a0e05807bdd856b0f76735fabc26170",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "22c94d7b26a8b3dc1e9f90a881fa38355a0e05807bdd856b0f76735fabc26170",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/32150/Healy__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "32150",
+  "timestamp": "2026-05-24T23:32:23.114756Z",
+  "version": 1
+}

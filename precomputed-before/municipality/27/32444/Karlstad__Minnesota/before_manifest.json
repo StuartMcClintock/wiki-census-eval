@@ -1,0 +1,16 @@
+{
+  "article": "Karlstad,_Minnesota",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/27/32444/Karlstad__Minnesota/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bc0dc88c38ffedefa685a4d9a21c86fed0e59cf477adb2096f41bcd4731a0144",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bc0dc88c38ffedefa685a4d9a21c86fed0e59cf477adb2096f41bcd4731a0144",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/27/32444/Karlstad__Minnesota/manifest.json",
+  "state_fips": "27",
+  "status": "match",
+  "target_fips": "32444",
+  "timestamp": "2026-05-24T23:49:11.312690Z",
+  "version": 1
+}

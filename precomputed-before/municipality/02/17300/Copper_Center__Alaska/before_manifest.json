@@ -1,0 +1,16 @@
+{
+  "article": "Copper_Center,_Alaska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/02/17300/Copper_Center__Alaska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "88c0920276a111c4bf59d34931fef80bb29b3cff363dfd1589a2fb58234c32c0",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "88c0920276a111c4bf59d34931fef80bb29b3cff363dfd1589a2fb58234c32c0",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/02/17300/Copper_Center__Alaska/manifest.json",
+  "state_fips": "02",
+  "status": "match",
+  "target_fips": "17300",
+  "timestamp": "2026-05-24T23:32:20.354163Z",
+  "version": 1
+}

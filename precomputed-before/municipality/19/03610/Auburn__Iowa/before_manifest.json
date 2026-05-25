@@ -1,0 +1,16 @@
+{
+  "article": "Auburn,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/03610/Auburn__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "cc40d4e6b25db583c51b353afb60c874e35021b661e6aa10a5c2b144906743eb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "cc40d4e6b25db583c51b353afb60c874e35021b661e6aa10a5c2b144906743eb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/03610/Auburn__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "03610",
+  "timestamp": "2026-05-24T23:40:24.648770Z",
+  "version": 1
+}

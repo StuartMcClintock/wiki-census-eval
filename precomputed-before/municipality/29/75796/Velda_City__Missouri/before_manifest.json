@@ -1,0 +1,16 @@
+{
+  "article": "Velda_City,_Missouri",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/29/75796/Velda_City__Missouri/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c8c16212c820417c1e35757aee037c3c7395de106cd870513c62be3adf8b2d3a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c8c16212c820417c1e35757aee037c3c7395de106cd870513c62be3adf8b2d3a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/29/75796/Velda_City__Missouri/manifest.json",
+  "state_fips": "29",
+  "status": "match",
+  "target_fips": "75796",
+  "timestamp": "2026-05-24T23:53:55.484068Z",
+  "version": 1
+}

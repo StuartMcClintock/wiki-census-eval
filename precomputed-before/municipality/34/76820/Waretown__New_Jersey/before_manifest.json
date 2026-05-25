@@ -1,0 +1,16 @@
+{
+  "article": "Waretown,_New_Jersey",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/34/76820/Waretown__New_Jersey/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "2fdc32ebb345b991259e18e9994abf01502c185bf657368cd4d648ca759c2098",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "2fdc32ebb345b991259e18e9994abf01502c185bf657368cd4d648ca759c2098",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/34/76820/Waretown__New_Jersey/manifest.json",
+  "state_fips": "34",
+  "status": "match",
+  "target_fips": "76820",
+  "timestamp": "2026-05-24T23:58:05.697362Z",
+  "version": 1
+}

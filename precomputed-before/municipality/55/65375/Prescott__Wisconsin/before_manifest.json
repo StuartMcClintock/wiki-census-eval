@@ -1,0 +1,16 @@
+{
+  "article": "Prescott,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/65375/Prescott__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "1f2a69fa56366ee3218b86689560960d413414e3662eeb46c6b08bd91ad56c96",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "1f2a69fa56366ee3218b86689560960d413414e3662eeb46c6b08bd91ad56c96",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/65375/Prescott__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "65375",
+  "timestamp": "2026-05-25T00:22:36.513743Z",
+  "version": 1
+}

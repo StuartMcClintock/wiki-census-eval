@@ -1,0 +1,16 @@
+{
+  "article": "Canonsburg,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/11152/Canonsburg__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "03b6b264076e94e2a07bc39514c2b641637ca37566e9cbc8140fe5bdb7fc7368",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "03b6b264076e94e2a07bc39514c2b641637ca37566e9cbc8140fe5bdb7fc7368",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/11152/Canonsburg__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "11152",
+  "timestamp": "2026-05-25T00:06:25.473189Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Luthersville,_Georgia",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/13/48008/Luthersville__Georgia/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f388dda56109249810f0a0dafa809dae818f5e34b73c35f22f596347d21cced3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f388dda56109249810f0a0dafa809dae818f5e34b73c35f22f596347d21cced3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/13/48008/Luthersville__Georgia/manifest.json",
+  "state_fips": "13",
+  "status": "match",
+  "target_fips": "48008",
+  "timestamp": "2026-05-24T23:36:53.866738Z",
+  "version": 1
+}

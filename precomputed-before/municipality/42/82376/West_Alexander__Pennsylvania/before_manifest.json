@@ -1,0 +1,16 @@
+{
+  "article": "West_Alexander,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/82376/West_Alexander__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "38fe48e80096b1c5a4f3adb8247736cc2ed7fd692bf42c2c5c05ffef1720eb38",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "38fe48e80096b1c5a4f3adb8247736cc2ed7fd692bf42c2c5c05ffef1720eb38",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/82376/West_Alexander__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "82376",
+  "timestamp": "2026-05-25T00:09:26.392474Z",
+  "version": 1
+}

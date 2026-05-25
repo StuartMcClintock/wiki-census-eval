@@ -1,0 +1,16 @@
+{
+  "article": "New_Rockport_Colony,_Montana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/30/53500/New_Rockport_Colony__Montana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "52778050f64b32283d727bae60947b06f87aca0d581e0b83f0998ec7b9410a3e",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "52778050f64b32283d727bae60947b06f87aca0d581e0b83f0998ec7b9410a3e",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/30/53500/New_Rockport_Colony__Montana/manifest.json",
+  "state_fips": "30",
+  "status": "match",
+  "target_fips": "53500",
+  "timestamp": "2026-05-24T23:54:39.789626Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Hazard,_Nebraska",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/31/21765/Hazard__Nebraska/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f1b91a62fea164a0986547726fcf0b2312032e6241746c6665c7399ec3ab040a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f1b91a62fea164a0986547726fcf0b2312032e6241746c6665c7399ec3ab040a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/31/21765/Hazard__Nebraska/manifest.json",
+  "state_fips": "31",
+  "status": "match",
+  "target_fips": "21765",
+  "timestamp": "2026-05-24T23:55:31.518401Z",
+  "version": 1
+}

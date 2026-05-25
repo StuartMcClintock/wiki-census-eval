@@ -1,0 +1,16 @@
+{
+  "article": "Clayton,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/13366/Clayton__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "f025e55065f1a0cf38dd7a88c257be87c85aa5257d9fa68ba41baabf566b1978",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "f025e55065f1a0cf38dd7a88c257be87c85aa5257d9fa68ba41baabf566b1978",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/13366/Clayton__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "13366",
+  "timestamp": "2026-05-24T23:39:30.439152Z",
+  "version": 1
+}

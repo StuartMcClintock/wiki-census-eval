@@ -1,0 +1,16 @@
+{
+  "article": "Donegal,_Pennsylvania",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/42/19472/Donegal__Pennsylvania/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "70011c3d1ee5758cefff134e79b04a2933be94283d688c0011ac153ceee5d977",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "70011c3d1ee5758cefff134e79b04a2933be94283d688c0011ac153ceee5d977",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/42/19472/Donegal__Pennsylvania/manifest.json",
+  "state_fips": "42",
+  "status": "match",
+  "target_fips": "19472",
+  "timestamp": "2026-05-25T00:06:52.061327Z",
+  "version": 1
+}

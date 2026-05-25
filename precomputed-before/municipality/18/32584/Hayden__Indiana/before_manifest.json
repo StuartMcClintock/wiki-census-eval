@@ -1,0 +1,16 @@
+{
+  "article": "Hayden,_Indiana",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/18/32584/Hayden__Indiana/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "0d94356bbc56bdbcaf016fa5250143232ca66b03baf7b9cc0c6a32859cfb604f",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "0d94356bbc56bdbcaf016fa5250143232ca66b03baf7b9cc0c6a32859cfb604f",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/18/32584/Hayden__Indiana/manifest.json",
+  "state_fips": "18",
+  "status": "match",
+  "target_fips": "32584",
+  "timestamp": "2026-05-24T23:39:38.433264Z",
+  "version": 1
+}

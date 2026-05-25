@@ -1,0 +1,16 @@
+{
+  "article": "Allison,_Iowa",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/19/01315/Allison__Iowa/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "d0db7d2b35c9b99f42dbe5492389920ec8ee546bc17202abf2f9e9fd93460b53",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "d0db7d2b35c9b99f42dbe5492389920ec8ee546bc17202abf2f9e9fd93460b53",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/19/01315/Allison__Iowa/manifest.json",
+  "state_fips": "19",
+  "status": "match",
+  "target_fips": "01315",
+  "timestamp": "2026-05-24T23:40:22.174230Z",
+  "version": 1
+}

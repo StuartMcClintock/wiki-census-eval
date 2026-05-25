@@ -1,0 +1,16 @@
+{
+  "article": "Fall_River,_Wisconsin",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/55/25150/Fall_River__Wisconsin/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "61799a3f39ceebd2602f4a8476ab86fef89bf1009868b80862bb7a2c5e150bdc",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "61799a3f39ceebd2602f4a8476ab86fef89bf1009868b80862bb7a2c5e150bdc",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/55/25150/Fall_River__Wisconsin/manifest.json",
+  "state_fips": "55",
+  "status": "match",
+  "target_fips": "25150",
+  "timestamp": "2026-05-25T00:22:05.893683Z",
+  "version": 1
+}

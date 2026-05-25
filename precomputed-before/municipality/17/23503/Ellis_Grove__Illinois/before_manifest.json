@@ -1,0 +1,16 @@
+{
+  "article": "Ellis_Grove,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/23503/Ellis_Grove__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "c8fa7ff2ce17ec1696ca6cff64f8929219d152541485a05f6f83b62363f97c57",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "c8fa7ff2ce17ec1696ca6cff64f8929219d152541485a05f6f83b62363f97c57",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/23503/Ellis_Grove__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "23503",
+  "timestamp": "2026-05-24T23:38:10.191583Z",
+  "version": 1
+}

@@ -1,0 +1,80 @@
+==Demographics==
+{{US Census population
+|2010= 122
+|2020= 260
+|footnote=U.S. Decennial Census<ref name=DecennialCensus>[http://www.census.gov/prod/www/decennial.html Census of Population and Housing], [[United States Census Bureau]]. Accessed June 1, 2023.</ref><br>2010<ref name=Census2010>[http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/1600000US3460210 DP-1 - Profile of General Population and Housing Characteristics: 2010 Demographic Profile Data for Port Colden CDP, New Jersey] {{Webarchive|url=https://archive.today/20200212135846/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/1600000US3460210 |date=2020-02-12 }}, [[United States Census Bureau]]. Accessed September 27, 2012.</ref> 2020<ref name=Census2020/>
+}}
+
+Port Colden first appeared as a [[census designated place]] in the [[2010 U.S. census]].<ref>{{Cite web|title= 2010 Census of Population - Population and Housing Unit Counts - New Jersey |url=https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-32.pdf|website=[[United States Census Bureau]]|archive-url=https://web.archive.org/web/20251111220031/https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-32.pdf| archive-date=November 11, 2025}}</ref>
+
+===2020 census===
+{| class="wikitable sortable" style="text-align:center;"
+|+'''Port Colden CDP, New Jersey – Racial and ethnic composition'''<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity <small>(''NH = Non-Hispanic'')</small>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Port Colden CDP, New Jersey|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US3460210&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!style="background-color: #ffffb3;" |Pop 2020<ref name=2020CensusP2>{{Cite web|title=P2: Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Port Colden CDP, New Jersey|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US3460210&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]] |access-date= }}</ref>
+!% 2010
+!style="background-color: #ffffb3;" |% 2020
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|115
+|style='background: #ffffe6; |185
+|94.26%
+|style='background: #ffffe6; |71.15%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|0
+|style='background: #ffffe6; |9
+|0.00%
+|style='background: #ffffe6; |3.46%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|2
+|style='background: #ffffe6; |1
+|1.64%
+|style='background: #ffffe6; |0.38%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|1
+|style='background: #ffffe6; |7
+|0.82%
+|style='background: #ffffe6; |2.69%
+|-
+|[[Native Hawaiian]] or [[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Race and ethnicity in the United States census|Other race]] alone (NH)
+|0
+|style='background: #ffffe6; |0
+|0.00%
+|style='background: #ffffe6; |0.00%
+|-
+|[[Multiracial Americans|Mixed race or Multiracial]] (NH)
+|3
+|style='background: #ffffe6; |22
+|2.46%
+|style='background: #ffffe6; |8.46%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|1
+|style='background: #ffffe6; |36
+|0.82%
+|style='background: #ffffe6; |13.85%
+|-
+|'''Total'''
+|'''122'''
+|style='background: #ffffe6; |'''260 '''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+===2010 census===
+The [[2010 United States census]] counted 122 people, 55 households, and 34 families in the CDP. The [[population density]] was {{convert|620.4|/sqmi}}. There were 59 housing units at an average density of {{convert|300.0|/sqmi}}. The racial makeup was 95.08% (116) [[White (U.S. census)|White]], 0.00% (0) [[Black (U.S. census)|Black or African American]], 1.64% (2) [[Native American (U.S. census)|Native American]], 0.82% (1) [[Asian (U.S. census)|Asian]], 0.00% (0) [[Pacific Islander (U.S. census)|Pacific Islander]], 0.00% (0) from [[Race and ethnicity in the United States census|other races]], and 2.46% (3) from two or more races. [[Hispanic (U.S. census)|Hispanic or Latino]] of any race were 0.82% (1) of the population.<ref name=Census2010/>
+
+Of the 55 households, 20.0% had children under the age of 18; 47.3% were married couples living together; 10.9% had a female householder with no husband present and 38.2% were non-families. Of all households, 29.1% were made up of individuals and 10.9% had someone living alone who was 65 years of age or older. The average household size was 2.22 and the average family size was 2.76.<ref name=Census2010/>
+
+16.4% of the population were under the age of 18, 8.2% from 18 to 24, 30.3% from 25 to 44, 32.8% from 45 to 64, and 12.3% who were 65 years of age or older. The median age was 43.5 years. For every 100 females, the population had 76.8 males. For every 100 females ages 18 and older there were 82.1 males.<ref name=Census2010/>
+

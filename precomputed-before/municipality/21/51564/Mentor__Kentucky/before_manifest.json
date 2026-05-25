@@ -1,0 +1,16 @@
+{
+  "article": "Mentor,_Kentucky",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/21/51564/Mentor__Kentucky/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "6f785c5053f5fb29c7b9676cff576f6f4a5a5037eb1b66b3a23ea95285c09b6b",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "6f785c5053f5fb29c7b9676cff576f6f4a5a5037eb1b66b3a23ea95285c09b6b",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/21/51564/Mentor__Kentucky/manifest.json",
+  "state_fips": "21",
+  "status": "match",
+  "target_fips": "51564",
+  "timestamp": "2026-05-24T23:44:12.556234Z",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "article": "Hillsdale,_Illinois",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/17/35073/Hillsdale__Illinois/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "bf1a1ccb88a681e14a752e986f8b6d8ccb4a8a8babe71f1d58491a8a561ebbdf",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "bf1a1ccb88a681e14a752e986f8b6d8ccb4a8a8babe71f1d58491a8a561ebbdf",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/17/35073/Hillsdale__Illinois/manifest.json",
+  "state_fips": "17",
+  "status": "match",
+  "target_fips": "35073",
+  "timestamp": "2026-05-24T23:38:20.124630Z",
+  "version": 1
+}

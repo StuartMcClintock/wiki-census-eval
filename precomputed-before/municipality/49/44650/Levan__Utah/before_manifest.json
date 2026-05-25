@@ -1,0 +1,16 @@
+{
+  "article": "Levan,_Utah",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/49/44650/Levan__Utah/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "102bf4c1a264670d25c74a07c6c2ce4f36ef1eaa105058927cc004e1d2317ca8",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "102bf4c1a264670d25c74a07c6c2ce4f36ef1eaa105058927cc004e1d2317ca8",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/49/44650/Levan__Utah/manifest.json",
+  "state_fips": "49",
+  "status": "match",
+  "target_fips": "44650",
+  "timestamp": "2026-05-25T00:17:04.621960Z",
+  "version": 1
+}

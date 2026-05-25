@@ -1,0 +1,16 @@
+{
+  "article": "Morrisville,_Vermont",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/50/46825/Morrisville__Vermont/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "486e01b407a5a43695badbb6483d091116bb254e73d8aad0d09d14207aac69eb",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "486e01b407a5a43695badbb6483d091116bb254e73d8aad0d09d14207aac69eb",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/50/46825/Morrisville__Vermont/manifest.json",
+  "state_fips": "50",
+  "status": "match",
+  "target_fips": "46825",
+  "timestamp": "2026-05-25T00:17:16.446745Z",
+  "version": 1
+}

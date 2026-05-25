@@ -1,0 +1,16 @@
+{
+  "article": "San_Luis,_Colorado",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/08/68105/San_Luis__Colorado/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "224cec0ac58f4e43b3bed48fda8e106c2d2023a3f7ea17c4b63472e60d524fc3",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "224cec0ac58f4e43b3bed48fda8e106c2d2023a3f7ea17c4b63472e60d524fc3",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/08/68105/San_Luis__Colorado/manifest.json",
+  "state_fips": "08",
+  "status": "match",
+  "target_fips": "68105",
+  "timestamp": "2026-05-24T23:35:39.804040Z",
+  "version": 1
+}

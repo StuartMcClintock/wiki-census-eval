@@ -1,0 +1,16 @@
+{
+  "article": "Floyd,_Arkansas",
+  "before_section_path": "/Users/stuartmcclintock/Desktop/wiki-census-eval/precomputed-before/municipality/05/24130/Floyd__Arkansas/before_demographics_section.wikitext",
+  "current_has_demographics_section": true,
+  "current_hash": "3a1ae2edbf4feb15d459a1216af8e53a576e68d0653327d7d4589e4bc221073a",
+  "location_kind": "municipality",
+  "manifest_had_section": true,
+  "manifest_hash": "3a1ae2edbf4feb15d459a1216af8e53a576e68d0653327d7d4589e4bc221073a",
+  "reason": "demographics section unchanged since precompute",
+  "source_precomputed_manifest_path": "/Users/stuartmcclintock/Desktop/wikipedia-census-cyrus/.poster-runs/precomputed/municipality/05/24130/Floyd__Arkansas/manifest.json",
+  "state_fips": "05",
+  "status": "match",
+  "target_fips": "24130",
+  "timestamp": "2026-05-24T23:33:41.188957Z",
+  "version": 1
+}
