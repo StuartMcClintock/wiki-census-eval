@@ -5,7 +5,12 @@ import subprocess
 
 import pytest
 
-from wiki_census_eval.clients import AnthropicCliJudgeClient, CodexJudgeClient
+from wiki_census_eval import clients as clients_module
+from wiki_census_eval.clients import (
+    AnthropicCliJudgeClient,
+    AnthropicJudgeClient,
+    CodexJudgeClient,
+)
 from wiki_census_eval.clients import JudgeClientError, JudgeRequest
 from wiki_census_eval.schema import strict_judge_result_json_schema
 
@@ -167,6 +172,144 @@ def test_codex_judge_client_reports_usage_limit_after_retries(
     assert "failed with exit code 1" in str(exc_info.value)
     assert len(calls) == 2
     assert sleeps == [0]
+
+
+def test_anthropic_judge_client_uses_messages_tool(monkeypatch):
+    init_calls = []
+    create_calls = []
+
+    class FakeMessages:
+        def create(self, **kwargs):
+            create_calls.append(kwargs)
+            return SimpleNamespace(
+                id="msg-1",
+                content=[
+                    SimpleNamespace(
+                        type="tool_use",
+                        name="submit_judge_result",
+                        input={
+                            "article": "Sample,_Alabama",
+                            "verdict": "pass",
+                            "summary": "**Sample,_Alabama** looks safe.",
+                            "issues": [],
+                            "confidence": 0.9,
+                        },
+                    )
+                ],
+                model_dump_json=lambda: '{"id":"msg-1"}',
+            )
+
+    class FakeAnthropic:
+        def __init__(self, api_key=None, timeout=None):
+            init_calls.append({"api_key": api_key, "timeout": timeout})
+            self.messages = FakeMessages()
+
+    monkeypatch.setattr(clients_module, "Anthropic", FakeAnthropic)
+    client = AnthropicJudgeClient(
+        model="claude-test",
+        api_key="test-key",
+        max_output_tokens=321,
+        timeout=12,
+    )
+
+    response = client.judge(
+        JudgeRequest(
+            case_id="case",
+            article="Sample,_Alabama",
+            prompt="Evaluate this.",
+        )
+    )
+
+    assert init_calls == [{"api_key": "test-key", "timeout": 12}]
+    assert response.provider == "anthropic"
+    assert response.model == "claude-test"
+    assert response.response_id == "msg-1"
+    assert response.result.verdict == "pass"
+    request = create_calls[0]
+    assert request["model"] == "claude-test"
+    assert request["max_tokens"] == 321
+    assert request["messages"][0]["role"] == "user"
+    assert "Evaluate this." in request["messages"][0]["content"]
+    assert request["tool_choice"] == {
+        "type": "tool",
+        "name": "submit_judge_result",
+    }
+    assert request["tools"][0]["name"] == "submit_judge_result"
+    assert request["tools"][0]["input_schema"]["additionalProperties"] is False
+
+
+def test_anthropic_judge_client_reports_missing_tool(monkeypatch):
+    class FakeMessages:
+        def create(self, **kwargs):
+            return SimpleNamespace(
+                id="msg-1",
+                content=[SimpleNamespace(type="text", text="not a tool call")],
+                model_dump_json=lambda: '{"id":"msg-1"}',
+            )
+
+    class FakeAnthropic:
+        def __init__(self, api_key=None, timeout=None):
+            self.messages = FakeMessages()
+
+    monkeypatch.setattr(clients_module, "Anthropic", FakeAnthropic)
+    client = AnthropicJudgeClient(model="claude-test")
+
+    with pytest.raises(JudgeClientError) as exc_info:
+        client.judge(
+            JudgeRequest(
+                case_id="case",
+                article="Sample,_Alabama",
+                prompt="Evaluate this.",
+            )
+        )
+
+    assert "expected tool result" in str(exc_info.value)
+    assert exc_info.value.provider == "anthropic"
+    assert exc_info.value.response_id == "msg-1"
+    assert exc_info.value.expected_schema is not None
+
+
+def test_anthropic_judge_client_reports_schema_failures(monkeypatch):
+    class FakeMessages:
+        def create(self, **kwargs):
+            return SimpleNamespace(
+                id="msg-1",
+                content=[
+                    {
+                        "type": "tool_use",
+                        "name": "submit_judge_result",
+                        "input": {
+                            "article": "Sample,_Alabama",
+                            "verdict": "pass",
+                            "summary": "**Sample,_Alabama** looks safe.",
+                            "issues": [],
+                            "confidence": 2.0,
+                        },
+                    }
+                ],
+                model_dump_json=lambda: '{"id":"msg-1"}',
+            )
+
+    class FakeAnthropic:
+        def __init__(self, api_key=None, timeout=None):
+            self.messages = FakeMessages()
+
+    monkeypatch.setattr(clients_module, "Anthropic", FakeAnthropic)
+    client = AnthropicJudgeClient(model="claude-test")
+
+    with pytest.raises(JudgeClientError) as exc_info:
+        client.judge(
+            JudgeRequest(
+                case_id="case",
+                article="Sample,_Alabama",
+                prompt="Evaluate this.",
+            )
+        )
+
+    assert "did not match JudgeResult schema" in str(exc_info.value)
+    assert exc_info.value.provider == "anthropic"
+    assert exc_info.value.raw_output_text == '{"id":"msg-1"}'
+    assert exc_info.value.expected_schema is not None
 
 
 def test_anthropic_cli_judge_client_parses_json_output(tmp_path: Path, monkeypatch):

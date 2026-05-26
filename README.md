@@ -35,6 +35,18 @@ If Codex reports a usage or rate limit, the provider waits one hour and retries
 the same case, up to 5 times by default. Use `--codex-limit-retries 0` to disable
 this, or `--codex-limit-retry-delay <seconds>` to change the wait.
 
+To run through the Anthropic API SDK:
+
+```bash
+python3 -m wiki_census_eval evaluate \
+  --provider anthropic \
+  --model claude-sonnet-4-20250514 \
+  --limit 20
+```
+
+The Anthropic API provider uses the Messages API with a forced tool call, then
+validates the tool input against the same `JudgeResult` schema.
+
 To run through Claude Code / Anthropic CLI instead of the Anthropic API SDK:
 
 ```bash
@@ -110,6 +122,7 @@ regardless of verdict or whether the generated text changed. Use
 article title, even if it appears under a different case id.
 
 Set `OPENAI_API_KEY` in the environment before running live evaluations.
+Set `ANTHROPIC_API_KEY` before using `--provider anthropic`.
 The Codex provider uses your local Codex CLI authentication instead.
 The Anthropic CLI provider uses your local Claude Code authentication instead.
 

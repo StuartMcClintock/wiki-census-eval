@@ -23,6 +23,11 @@ try:
 except ImportError:  # pragma: no cover - optional Python < 3.9 helper
     pytz = None
 
+try:
+    from anthropic import Anthropic
+except ImportError:  # pragma: no cover - dependency may be absent in old envs
+    Anthropic = None
+
 from openai import OpenAI
 
 from .prompts import SYSTEM_PROMPT
@@ -104,6 +109,83 @@ class OpenAIJudgeClient:
             model=self.model,
             response_id=getattr(response, "id", None),
             raw_output_text=getattr(response, "output_text", None),
+        )
+
+
+class AnthropicJudgeClient:
+    provider = "anthropic"
+    _tool_name = "submit_judge_result"
+
+    def __init__(
+        self,
+        *,
+        model: str,
+        api_key: Optional[str] = None,
+        max_output_tokens: int = 1200,
+        timeout: Optional[float] = None,
+    ):
+        if Anthropic is None:
+            raise RuntimeError(
+                "The anthropic package is required for --provider anthropic. "
+                "Install this project with its current dependencies."
+            )
+        self.model = model
+        self.max_output_tokens = max_output_tokens
+        self._client = Anthropic(api_key=api_key, timeout=timeout)
+
+    def judge(self, request: JudgeRequest) -> JudgeResponse:
+        expected_schema = strict_judge_result_json_schema()
+        response = self._client.messages.create(
+            model=self.model,
+            max_tokens=self.max_output_tokens,
+            system=SYSTEM_PROMPT,
+            messages=[
+                {
+                    "role": "user",
+                    "content": (
+                        request.prompt
+                        + "\n\nReturn the judgment by calling the "
+                        + f"{self._tool_name} tool."
+                    ),
+                }
+            ],
+            tools=[
+                {
+                    "name": self._tool_name,
+                    "description": "Submit the final Wikipedia census edit judgment.",
+                    "input_schema": expected_schema,
+                }
+            ],
+            tool_choice={"type": "tool", "name": self._tool_name},
+        )
+        raw_output_text = _serialize_model_response(response)
+        tool_input = _extract_tool_input(response, self._tool_name)
+        if tool_input is None:
+            raise JudgeClientError(
+                "Anthropic response did not include the expected tool result",
+                provider=self.provider,
+                model=self.model,
+                response_id=getattr(response, "id", None),
+                raw_output_text=raw_output_text,
+                expected_schema=expected_schema,
+            )
+        try:
+            parsed = JudgeResult.model_validate(tool_input)
+        except Exception as exc:
+            raise JudgeClientError(
+                "Anthropic output did not match JudgeResult schema",
+                provider=self.provider,
+                model=self.model,
+                response_id=getattr(response, "id", None),
+                raw_output_text=raw_output_text,
+                expected_schema=expected_schema,
+            ) from exc
+        return JudgeResponse(
+            result=parsed,
+            provider=self.provider,
+            model=self.model,
+            response_id=getattr(response, "id", None),
+            raw_output_text=raw_output_text,
         )
 
 
@@ -371,6 +453,39 @@ def _join_process_output(stdout, stderr) -> str:
         if value:
             parts.append(str(value))
     return "\n".join(parts)
+
+
+def _serialize_model_response(response) -> str:
+    model_dump_json = getattr(response, "model_dump_json", None)
+    if callable(model_dump_json):
+        return model_dump_json()
+    model_dump = getattr(response, "model_dump", None)
+    if callable(model_dump):
+        return json.dumps(model_dump(), default=str)
+    if isinstance(response, (dict, list)):
+        return json.dumps(response, default=str)
+    return repr(response)
+
+
+def _extract_tool_input(response, tool_name: str) -> Optional[dict]:
+    content = _get_value(response, "content")
+    if not isinstance(content, list):
+        return None
+    for block in content:
+        if (
+            _get_value(block, "type") == "tool_use"
+            and _get_value(block, "name") == tool_name
+        ):
+            tool_input = _get_value(block, "input")
+            if isinstance(tool_input, dict):
+                return tool_input
+    return None
+
+
+def _get_value(value, key: str):
+    if isinstance(value, dict):
+        return value.get(key)
+    return getattr(value, key, None)
 
 
 def _is_codex_usage_limit_error(raw_output_text: Optional[str]) -> bool:
