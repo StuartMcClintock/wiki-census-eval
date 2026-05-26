@@ -2,6 +2,7 @@ from pathlib import Path
 import json
 import sqlite3
 
+from wiki_census_eval.case_lists import write_case_list_from_evaluations
 from wiki_census_eval.clients import JudgeRequest
 from wiki_census_eval.clients import JudgeClientError
 from wiki_census_eval.pipeline import EvaluationConfig, run_evaluation
@@ -67,6 +68,11 @@ class WarningJudgeClient:
                 confidence=0.7,
             ),
         )
+
+
+class OtherModelJudgeClient(FakeJudgeClient):
+    provider = "other-provider"
+    model = "other-model"
 
 
 def test_run_evaluation_writes_jsonl_and_summary(tmp_path: Path):
@@ -148,6 +154,66 @@ def test_run_evaluation_filters_by_state(tmp_path: Path):
     assert rows == [{"article": "Sample,_Georgia", "state_fips": "13"}]
 
 
+def test_run_evaluation_filters_by_case_list(tmp_path: Path):
+    _write_fixture(
+        tmp_path,
+        state_fips="01",
+        target_fips="00100",
+        slug="Alabama",
+        article="Sample,_Alabama",
+    )
+    before_root = _write_fixture(
+        tmp_path,
+        state_fips="13",
+        target_fips="00100",
+        slug="Georgia",
+        article="Sample,_Georgia",
+    )
+    selected_manifest = (
+        before_root
+        / "municipality"
+        / "13"
+        / "00100"
+        / "Georgia"
+        / "before_manifest.json"
+    )
+    case_list = tmp_path / "refresh-handoff.json"
+    case_list.write_text(
+        json.dumps(
+            {
+                "refreshed": [
+                    {
+                        "article": "Sample,_Georgia",
+                        "case_id": "municipality/13/00100/Georgia",
+                        "before_manifest_path": str(selected_manifest),
+                    }
+                ]
+            }
+        )
+        + "\n",
+        encoding="utf-8",
+    )
+    results_dir = tmp_path / "results"
+
+    summary = run_evaluation(
+        EvaluationConfig(
+            before_root=before_root,
+            results_dir=results_dir,
+            case_list_path=case_list,
+        ),
+        client=FakeJudgeClient(),
+    )
+
+    rows = _fetch_all(
+        results_dir / "evaluations.sqlite",
+        "SELECT article, state_fips FROM evaluations",
+    )
+    assert summary["attempted"] == 1
+    assert summary["processed"] == 1
+    assert summary["case_list_path"] == str(case_list)
+    assert rows == [{"article": "Sample,_Georgia", "state_fips": "13"}]
+
+
 def test_run_evaluation_records_judge_client_diagnostics(tmp_path: Path):
     before_root = _write_fixture(tmp_path)
     results_dir = tmp_path / "results"
@@ -170,6 +236,59 @@ def test_run_evaluation_records_judge_client_diagnostics(tmp_path: Path):
     assert record["response_id"] == "bad-response"
     assert record["raw_output_text"] == "not json"
     assert json.loads(record["expected_schema_json"]) == {"type": "object"}
+
+
+def test_case_list_from_evaluations_uses_latest_per_case_by_default(tmp_path: Path):
+    _write_fixture(
+        tmp_path,
+        state_fips="01",
+        target_fips="00100",
+        slug="Alabama",
+        article="Sample,_Alabama",
+    )
+    before_root = _write_fixture(
+        tmp_path,
+        state_fips="13",
+        target_fips="00100",
+        slug="Georgia",
+        article="Sample,_Georgia",
+    )
+    results_dir = tmp_path / "results"
+
+    run_evaluation(
+        EvaluationConfig(
+            before_root=before_root,
+            results_dir=results_dir,
+            requested_model="fake-model",
+        ),
+        client=WarningJudgeClient(),
+    )
+    run_evaluation(
+        EvaluationConfig(
+            before_root=before_root,
+            results_dir=results_dir,
+            case_id="municipality/01/00100/Alabama",
+            requested_model="fake-model",
+        ),
+        client=FakeJudgeClient(),
+    )
+
+    output_path = tmp_path / "nonpass-case-list.json"
+    payload = write_case_list_from_evaluations(
+        db_path=results_dir / "evaluations.sqlite",
+        output_path=output_path,
+        provider="fake",
+        model="fake-model",
+        exclude_verdicts=["pass"],
+    )
+
+    cases = payload["refreshed"]
+    assert output_path.exists()
+    assert [case["case_id"] for case in cases] == [
+        "municipality/13/00100/Georgia"
+    ]
+    assert cases[0]["verdict"] == "warning"
+    assert Path(cases[0]["before_manifest_path"]).exists()
 
 
 def test_skip_passed_reuses_equal_or_stronger_model_for_same_after_hash(tmp_path: Path):
@@ -198,6 +317,112 @@ def test_skip_passed_reuses_equal_or_stronger_model_for_same_after_hash(tmp_path
 
     assert first["counts"]["pass"] == 1
     assert second["counts"]["skipped_passed"] == 1
+    rows = _fetch_all(results_dir / "evaluations.sqlite", "SELECT id FROM evaluations")
+    assert len(rows) == 1
+
+
+def test_skip_evaluated_articles_reuses_article_across_case_ids(tmp_path: Path):
+    _write_fixture(
+        tmp_path,
+        state_fips="01",
+        target_fips="00100",
+        slug="First__Alabama",
+        article="Shared,_Alabama",
+    )
+    before_root = _write_fixture(
+        tmp_path,
+        state_fips="01",
+        target_fips="00200",
+        slug="Second__Alabama",
+        article="Shared,_Alabama",
+    )
+    results_dir = tmp_path / "results"
+
+    first = run_evaluation(
+        EvaluationConfig(
+            before_root=before_root,
+            results_dir=results_dir,
+            case_id="municipality/01/00100/First__Alabama",
+        ),
+        client=FakeJudgeClient(),
+    )
+    second = run_evaluation(
+        EvaluationConfig(
+            before_root=before_root,
+            results_dir=results_dir,
+            skip_evaluated_articles=True,
+        ),
+        client=FakeJudgeClient(),
+    )
+
+    assert first["counts"]["pass"] == 1
+    assert second["processed"] == 0
+    assert second["counts"]["skipped_evaluated_articles"] == 2
+    rows = _fetch_all(
+        results_dir / "evaluations.sqlite",
+        "SELECT case_id FROM evaluations",
+    )
+    assert rows == [{"case_id": "municipality/01/00100/First__Alabama"}]
+
+
+def test_skip_evaluated_by_model_only_skips_matching_provider_model(tmp_path: Path):
+    before_root = _write_fixture(tmp_path)
+    results_dir = tmp_path / "results"
+
+    run_evaluation(
+        EvaluationConfig(
+            before_root=before_root,
+            results_dir=results_dir,
+        ),
+        client=OtherModelJudgeClient(),
+    )
+    second = run_evaluation(
+        EvaluationConfig(
+            before_root=before_root,
+            results_dir=results_dir,
+            skip_evaluated_by_model=True,
+            requested_model="fake-model",
+        ),
+        client=FakeJudgeClient(),
+    )
+
+    assert second["counts"]["pass"] == 1
+    assert second["skip_evaluated_by_provider"] == "fake"
+    assert second["skip_evaluated_by_model_name"] == "fake-model"
+    rows = _fetch_all(
+        results_dir / "evaluations.sqlite",
+        "SELECT provider, model FROM evaluations",
+    )
+    assert rows == [
+        {"provider": "other-provider", "model": "other-model"},
+        {"provider": "fake", "model": "fake-model"},
+    ]
+
+
+def test_skip_evaluated_by_model_skips_matching_provider_model(tmp_path: Path):
+    before_root = _write_fixture(tmp_path)
+    results_dir = tmp_path / "results"
+
+    run_evaluation(
+        EvaluationConfig(
+            before_root=before_root,
+            results_dir=results_dir,
+            requested_model="fake-model",
+        ),
+        client=FakeJudgeClient(),
+    )
+    second = run_evaluation(
+        EvaluationConfig(
+            before_root=before_root,
+            results_dir=results_dir,
+            skip_evaluated_by_model=True,
+            requested_model="fake-model",
+        ),
+        client=FakeJudgeClient(),
+    )
+
+    assert second["processed"] == 0
+    assert second["counts"]["skipped_evaluated_by_model"] == 1
     rows = _fetch_all(results_dir / "evaluations.sqlite", "SELECT id FROM evaluations")
     assert len(rows) == 1
 

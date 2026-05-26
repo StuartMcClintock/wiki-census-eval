@@ -32,8 +32,8 @@ structured response through `--output-last-message`, then validates it against
 the same `JudgeResult` schema used by the SDK provider.
 
 If Codex reports a usage or rate limit, the provider waits one hour and retries
-the same case once by default. Use `--codex-limit-retries 0` to disable this, or
-`--codex-limit-retry-delay <seconds>` to change the wait.
+the same case, up to 5 times by default. Use `--codex-limit-retries 0` to disable
+this, or `--codex-limit-retry-delay <seconds>` to change the wait.
 
 To run through Claude Code / Anthropic CLI instead of the Anthropic API SDK:
 
@@ -63,6 +63,36 @@ python3 -m wiki_census_eval evaluate \
   --skip-passed
 ```
 
+To evaluate only articles refreshed by a specific
+`wikipedia-census-cyrus --refresh-stale-cache` run, use that run's handoff file:
+
+```bash
+python3 -m wiki_census_eval evaluate \
+  --case-list ../wikipedia-census-cyrus/.poster-runs/refresh-stale-cache/latest.json \
+  --skip-evaluated-articles
+```
+
+To re-evaluate cases that a prior model marked non-pass, first build a case list
+from SQLite history. By default this considers only the latest evaluation per
+case id for the selected provider/model:
+
+```bash
+python3 -m wiki_census_eval case-list from-evaluations \
+  --provider codex \
+  --model gpt-5.5 \
+  --exclude-verdict pass \
+  --output results/gpt-5.5-codex-nonpass-case-list.json
+```
+
+Then pass that file to another evaluator:
+
+```bash
+python3 -m wiki_census_eval evaluate \
+  --provider anthropic-cli \
+  --model sonnet \
+  --case-list results/gpt-5.5-codex-nonpass-case-list.json
+```
+
 `--states` restricts the artifact scan to one or more states. It accepts postal
 abbreviations or FIPS codes, comma-separated or repeated:
 
@@ -75,7 +105,9 @@ python3 -m wiki_census_eval evaluate --states 01 --states 13
 article only when the current generated after-section hash already passed and
 the prior pass was produced by a model with equal-or-greater configured strength.
 Use `--skip-existing` only when you want to skip any previously evaluated case id
-regardless of verdict or whether the generated text changed.
+regardless of verdict or whether the generated text changed. Use
+`--skip-evaluated-articles` when you want to skip any previously evaluated
+article title, even if it appears under a different case id.
 
 Set `OPENAI_API_KEY` in the environment before running live evaluations.
 The Codex provider uses your local Codex CLI authentication instead.

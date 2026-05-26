@@ -56,6 +56,46 @@ def discover_before_manifests(
                 yield from sorted(state_dir.rglob("before_manifest.json"))
 
 
+def load_case_list_manifests(case_list_path: Path, before_root: Path) -> List[Path]:
+    """
+    Load an explicit evaluator handoff file.
+
+    The primary producer is wikipedia-census-cyrus --refresh-stale-cache, whose
+    run artifact contains a "refreshed" list of objects with
+    before_manifest_path and case_id fields. For convenience in tests and ad hoc
+    use, this also accepts a top-level list of those objects or case-id strings.
+    """
+    case_list_path = case_list_path.expanduser().resolve()
+    try:
+        data = json.loads(case_list_path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as exc:
+        raise ArtifactError(f"cannot read case list: {exc}") from exc
+
+    if isinstance(data, dict):
+        raw_cases = data.get("refreshed")
+    else:
+        raw_cases = data
+    if not isinstance(raw_cases, list):
+        raise ArtifactError("case list must contain a refreshed list")
+
+    manifests: List[Path] = []
+    seen: Set[Path] = set()
+    for index, raw_case in enumerate(raw_cases, start=1):
+        manifest_path = _case_list_manifest_path(
+            raw_case,
+            before_root=before_root,
+            case_list_path=case_list_path,
+            index=index,
+        )
+        if manifest_path in seen:
+            continue
+        if not manifest_path.exists():
+            raise ArtifactError(f"case list manifest does not exist: {manifest_path}")
+        seen.add(manifest_path)
+        manifests.append(manifest_path)
+    return manifests
+
+
 def load_case(before_manifest_path: Path) -> EvaluationCase:
     before_manifest_path = before_manifest_path.resolve()
     try:
@@ -144,6 +184,55 @@ def _resolve_existing_path(raw_path, fallback: Optional[Path], *, label: str) ->
             return candidate.resolve()
     attempted = ", ".join(str(path) for path in candidates) or "<none>"
     raise ArtifactError(f"missing {label}; tried {attempted}")
+
+
+def _case_list_manifest_path(
+    raw_case,
+    *,
+    before_root: Path,
+    case_list_path: Path,
+    index: int,
+) -> Path:
+    if isinstance(raw_case, str):
+        return _manifest_path_from_string(
+            raw_case,
+            before_root=before_root,
+            case_list_path=case_list_path,
+        )
+    if not isinstance(raw_case, dict):
+        raise ArtifactError(f"case list entry {index} must be an object or string")
+
+    raw_path = raw_case.get("before_manifest_path")
+    if isinstance(raw_path, str) and raw_path.strip():
+        path = Path(raw_path).expanduser()
+        if not path.is_absolute():
+            path = case_list_path.parent / path
+        return path.resolve()
+
+    case_id = raw_case.get("case_id")
+    if isinstance(case_id, str) and case_id.strip():
+        return (before_root / case_id / "before_manifest.json").resolve()
+
+    raise ArtifactError(
+        f"case list entry {index} is missing before_manifest_path or case_id"
+    )
+
+
+def _manifest_path_from_string(
+    value: str,
+    *,
+    before_root: Path,
+    case_list_path: Path,
+) -> Path:
+    raw = value.strip()
+    if not raw:
+        raise ArtifactError("case list entry cannot be empty")
+    path = Path(raw).expanduser()
+    if path.name == "before_manifest.json":
+        if not path.is_absolute():
+            path = case_list_path.parent / path
+        return path.resolve()
+    return (before_root / raw / "before_manifest.json").resolve()
 
 
 def _before_root(before_manifest_path: Path) -> Path:

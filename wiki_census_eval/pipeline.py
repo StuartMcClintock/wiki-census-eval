@@ -7,7 +7,12 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional, Set
 
-from .artifacts import ArtifactError, discover_before_manifests, load_case
+from .artifacts import (
+    ArtifactError,
+    discover_before_manifests,
+    load_case,
+    load_case_list_manifests,
+)
 from .clients import JudgeClient, JudgeClientError, JudgeRequest
 from .history import model_strength
 from .prompts import build_prompt
@@ -20,10 +25,15 @@ class EvaluationConfig:
     before_root: Path
     results_dir: Path
     db_path: Optional[Path] = None
+    case_list_path: Optional[Path] = None
     state_fips_filter: Optional[Set[str]] = None
     limit: Optional[int] = None
     case_id: Optional[str] = None
     skip_existing: bool = False
+    skip_evaluated_articles: bool = False
+    skip_evaluated_by_model: bool = False
+    skip_evaluated_by_provider: Optional[str] = None
+    skip_evaluated_by_model_name: Optional[str] = None
     skip_passed: bool = False
     requested_model: Optional[str] = None
     min_model_strength: Optional[int] = None
@@ -49,6 +59,8 @@ def run_evaluation(config: EvaluationConfig, client: Optional[JudgeClient] = Non
         else model_strength(requested_model)
     )
     provider = client.provider if client is not None else "dry-run"
+    skip_provider = config.skip_evaluated_by_provider or provider
+    skip_model = config.skip_evaluated_by_model_name or requested_model
     store = EvaluationStore(db_path)
     run_id = store.start_run(
         before_root=config.before_root,
@@ -65,10 +77,7 @@ def run_evaluation(config: EvaluationConfig, client: Optional[JudgeClient] = Non
     attempted = 0
 
     try:
-        for manifest_path in discover_before_manifests(
-            config.before_root,
-            state_fips_filter=config.state_fips_filter,
-        ):
+        for manifest_path in _iter_manifest_paths(config):
             if config.limit is not None and attempted >= config.limit:
                 break
             attempted += 1
@@ -76,12 +85,33 @@ def run_evaluation(config: EvaluationConfig, client: Optional[JudgeClient] = Non
 
             try:
                 case = load_case(manifest_path)
+                if (
+                    config.state_fips_filter is not None
+                    and case.metadata.state_fips not in config.state_fips_filter
+                ):
+                    continue
                 if config.case_id is not None and case.metadata.case_id != config.case_id:
                     continue
                 if config.skip_existing and store.has_evaluation_for_case(
                     case.metadata.case_id
                 ):
                     counts["skipped_existing"] += 1
+                    continue
+                if (
+                    config.skip_evaluated_articles
+                    and store.has_evaluation_for_article(case.metadata.article)
+                ):
+                    counts["skipped_evaluated_articles"] += 1
+                    continue
+                if (
+                    config.skip_evaluated_by_model
+                    and store.has_evaluation_for_article_by_model(
+                        article=case.metadata.article,
+                        provider=skip_provider,
+                        model=skip_model,
+                    )
+                ):
+                    counts["skipped_evaluated_by_model"] += 1
                     continue
                 if config.skip_passed:
                     history_match = store.find_passing_match(
@@ -186,12 +216,23 @@ def run_evaluation(config: EvaluationConfig, client: Optional[JudgeClient] = Non
     summary = {
         "completed_at": datetime.now(timezone.utc).isoformat(),
         "before_root": str(config.before_root),
+        "case_list_path": (
+            str(config.case_list_path) if config.case_list_path is not None else None
+        ),
         "db_path": str(db_path),
         "run_id": run_id,
         "attempted": attempted,
         "processed": processed,
         "counts": dict(counts),
         "issue_counts": dict(issue_counts),
+        "skip_evaluated_articles": config.skip_evaluated_articles,
+        "skip_evaluated_by_model": config.skip_evaluated_by_model,
+        "skip_evaluated_by_provider": (
+            skip_provider if config.skip_evaluated_by_model else None
+        ),
+        "skip_evaluated_by_model_name": (
+            skip_model if config.skip_evaluated_by_model else None
+        ),
         "skip_passed": config.skip_passed,
         "requested_model": requested_model,
         "requested_model_strength": requested_model_strength,
@@ -207,6 +248,16 @@ def _write_prompt(prompt_dir: Path, case_id: str, prompt: str) -> None:
 
 def _safe_filename(value: str) -> str:
     return value.replace("/", "__").replace(" ", "_")
+
+
+def _iter_manifest_paths(config: EvaluationConfig):
+    if config.case_list_path is not None:
+        yield from load_case_list_manifests(config.case_list_path, config.before_root)
+        return
+    yield from discover_before_manifests(
+        config.before_root,
+        state_fips_filter=config.state_fips_filter,
+    )
 
 
 def _requested_model(config: EvaluationConfig, client: Optional[JudgeClient]) -> str:
