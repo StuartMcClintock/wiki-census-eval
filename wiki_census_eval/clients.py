@@ -1,12 +1,27 @@
 from __future__ import annotations
 
 import json
+import re
 import subprocess
 import tempfile
 import time
 from dataclasses import dataclass
+from datetime import datetime, timedelta, timezone as datetime_timezone
 from pathlib import Path
 from typing import Callable, Optional, Protocol
+
+try:
+    from zoneinfo import ZoneInfo, ZoneInfoNotFoundError
+except ImportError:  # pragma: no cover - Python < 3.9 fallback
+    ZoneInfo = None
+
+    class ZoneInfoNotFoundError(Exception):
+        pass
+
+try:
+    import pytz
+except ImportError:  # pragma: no cover - optional Python < 3.9 helper
+    pytz = None
 
 from openai import OpenAI
 
@@ -102,7 +117,7 @@ class CodexJudgeClient:
         codex_bin: str = "codex",
         timeout: Optional[float] = None,
         cwd: Optional[Path] = None,
-        limit_retry_attempts: int = 1,
+        limit_retry_attempts: int = 5,
         limit_retry_delay_seconds: float = 3600.0,
         sleeper: Callable[[float], None] = time.sleep,
     ):
@@ -244,11 +259,19 @@ class AnthropicCliJudgeClient:
         claude_bin: str = "claude",
         timeout: Optional[float] = None,
         cwd: Optional[Path] = None,
+        wait_for_limit_reset: bool = False,
+        limit_retry_delay_seconds: float = 3600.0,
+        sleeper: Callable[[float], None] = time.sleep,
+        now: Callable[[object], datetime] = datetime.now,
     ):
         self.model = model
         self.claude_bin = claude_bin
         self.timeout = timeout
         self.cwd = Path(cwd).resolve() if cwd is not None else Path.cwd()
+        self.wait_for_limit_reset = wait_for_limit_reset
+        self.limit_retry_delay_seconds = limit_retry_delay_seconds
+        self._sleeper = sleeper
+        self._now = now
 
     def judge(self, request: JudgeRequest) -> JudgeResponse:
         expected_schema = strict_judge_result_json_schema()
@@ -273,25 +296,42 @@ class AnthropicCliJudgeClient:
             schema_text,
             prompt,
         ]
-        try:
-            completed = subprocess.run(
-                cmd,
-                text=True,
-                capture_output=True,
-                cwd=str(self.cwd),
-                timeout=self.timeout,
-                check=False,
-            )
-        except subprocess.TimeoutExpired as exc:
-            raise JudgeClientError(
-                "Anthropic CLI evaluation timed out",
-                provider=self.provider,
-                model=self.model,
-                raw_output_text=_join_process_output(exc.stdout, exc.stderr),
-                expected_schema=expected_schema,
-            ) from exc
+        while True:
+            try:
+                completed = subprocess.run(
+                    cmd,
+                    text=True,
+                    capture_output=True,
+                    cwd=str(self.cwd),
+                    timeout=self.timeout,
+                    check=False,
+                )
+            except subprocess.TimeoutExpired as exc:
+                raise JudgeClientError(
+                    "Anthropic CLI evaluation timed out",
+                    provider=self.provider,
+                    model=self.model,
+                    raw_output_text=_join_process_output(exc.stdout, exc.stderr),
+                    expected_schema=expected_schema,
+                ) from exc
 
-        raw_output_text = _join_process_output(completed.stdout, completed.stderr)
+            raw_output_text = _join_process_output(completed.stdout, completed.stderr)
+            if completed.returncode != 0 and self.wait_for_limit_reset:
+                retry_plan = _anthropic_limit_retry_plan(
+                    raw_output_text,
+                    fallback_seconds=self.limit_retry_delay_seconds,
+                    now=self._now,
+                )
+                if retry_plan is not None:
+                    print(
+                        "Anthropic CLI usage limit appears to be reached for "
+                        f"{request.case_id}; retrying at "
+                        f"{_format_retry_at(retry_plan.retry_at)}."
+                    )
+                    self._sleeper(retry_plan.wait_seconds)
+                    continue
+            break
+
         if completed.returncode != 0:
             raise JudgeClientError(
                 f"Anthropic CLI evaluation failed with exit code {completed.returncode}",
@@ -350,6 +390,139 @@ def _is_codex_usage_limit_error(raw_output_text: Optional[str]) -> bool:
     )
 
 
+_ANTHROPIC_USAGE_LIMIT_MARKERS = (
+    "you've hit your limit",
+    "you've hit your session limit",
+    "you’ve hit your limit",
+    "you’ve hit your session limit",
+    "usage limit reached",
+    "rate limit exceeded",
+    "you have exceeded",
+)
+_ANTHROPIC_LIMIT_RESET_PATTERN = re.compile(
+    r"you['’]?ve hit your (?:session\s+)?limit.*?resets\s+"
+    r"(\d{1,2}(?::\d{2})?\s*[ap]m)\s*\(([^)]+)\)",
+    re.IGNORECASE | re.DOTALL,
+)
+
+
+@dataclass(frozen=True)
+class _RetryPlan:
+    wait_seconds: float
+    retry_at: datetime
+
+
+def _anthropic_limit_wait_seconds(
+    raw_output_text: Optional[str],
+    *,
+    fallback_seconds: float,
+    now: Callable[[object], datetime] = datetime.now,
+) -> Optional[float]:
+    retry_plan = _anthropic_limit_retry_plan(
+        raw_output_text,
+        fallback_seconds=fallback_seconds,
+        now=now,
+    )
+    if retry_plan is None:
+        return None
+    return retry_plan.wait_seconds
+
+
+def _anthropic_limit_retry_plan(
+    raw_output_text: Optional[str],
+    *,
+    fallback_seconds: float,
+    now: Callable[[object], datetime] = datetime.now,
+) -> Optional[_RetryPlan]:
+    if not raw_output_text:
+        return None
+    lowered = raw_output_text.lower()
+    if not any(marker in lowered for marker in _ANTHROPIC_USAGE_LIMIT_MARKERS):
+        return None
+    retry_at = _extract_anthropic_limit_reset_time(raw_output_text, now=now)
+    if retry_at is None:
+        wait_seconds = max(0.0, fallback_seconds)
+        current = now(None)
+        return _RetryPlan(
+            wait_seconds=wait_seconds,
+            retry_at=current + timedelta(seconds=wait_seconds),
+        )
+    current = _now_in_timezone(retry_at.tzinfo, now)
+    wait_seconds = max(0.0, (retry_at - current).total_seconds())
+    return _RetryPlan(wait_seconds=wait_seconds, retry_at=retry_at)
+
+
+def _extract_anthropic_limit_reset_time(
+    raw_output_text: str,
+    *,
+    now: Callable[[object], datetime] = datetime.now,
+) -> Optional[datetime]:
+    match = _ANTHROPIC_LIMIT_RESET_PATTERN.search(raw_output_text)
+    if match is None:
+        return None
+    time_text, timezone_name = match.groups()
+    timezone = _get_timezone(timezone_name.strip())
+    if timezone is None:
+        return None
+
+    normalized = re.sub(r"\s+", "", time_text).upper()
+    fmt = "%I:%M%p" if ":" in normalized else "%I%p"
+    try:
+        reset_time = datetime.strptime(normalized, fmt).time()
+    except ValueError:
+        return None
+
+    current = _now_in_timezone(timezone, now)
+    retry_at = current.replace(
+        hour=reset_time.hour,
+        minute=reset_time.minute,
+        second=0,
+        microsecond=0,
+    )
+    if retry_at <= current:
+        retry_at += timedelta(days=1)
+    return retry_at + timedelta(minutes=1)
+
+
+def _now_in_timezone(
+    tzinfo,
+    now: Callable[[object], datetime] = datetime.now,
+) -> datetime:
+    current = now(tzinfo)
+    if current.tzinfo is None:
+        return _localize_datetime(tzinfo, current)
+    return current.astimezone(tzinfo)
+
+
+def _format_retry_at(value: datetime) -> str:
+    if value.tzinfo is None or value.utcoffset() is None:
+        return value.strftime("%Y-%m-%d %H:%M:%S")
+    return value.strftime("%Y-%m-%d %H:%M:%S %Z").strip()
+
+
+def _get_timezone(timezone_name: str):
+    if timezone_name.upper() in {"UTC", "GMT", "Z"}:
+        return datetime_timezone.utc
+    if ZoneInfo is not None:
+        try:
+            return ZoneInfo(timezone_name)
+        except ZoneInfoNotFoundError:
+            pass
+    if pytz is not None:
+        try:
+            return pytz.timezone(timezone_name)
+        except pytz.UnknownTimeZoneError:
+            return None
+    return None
+
+
+def _localize_datetime(tzinfo, value: datetime) -> datetime:
+    localize = getattr(tzinfo, "localize", None)
+    if callable(localize):
+        return localize(value)
+    return value.replace(tzinfo=tzinfo)
+
+
 def _extract_claude_result_text(stdout: str) -> str:
     raw = stdout.strip()
     if not raw:
@@ -361,6 +534,11 @@ def _extract_claude_result_text(stdout: str) -> str:
     if isinstance(data, dict):
         if _looks_like_judge_result(data):
             return json.dumps(data)
+        structured_output = data.get("structured_output")
+        if isinstance(structured_output, dict) and _looks_like_judge_result(
+            structured_output
+        ):
+            return json.dumps(structured_output)
         for key in ("result", "response", "text", "content"):
             value = data.get(key)
             if isinstance(value, str) and value.strip():

@@ -88,6 +88,32 @@ class EvaluationStore:
         ).fetchone()
         return row is not None
 
+    def has_evaluation_for_article(self, article: str) -> bool:
+        row = self._connection.execute(
+            "SELECT 1 FROM evaluations WHERE article = ? LIMIT 1",
+            (article,),
+        ).fetchone()
+        return row is not None
+
+    def has_evaluation_for_article_by_model(
+        self,
+        *,
+        article: str,
+        provider: str,
+        model: str,
+    ) -> bool:
+        row = self._connection.execute(
+            """
+            SELECT 1 FROM evaluations
+            WHERE article = ?
+              AND provider = ?
+              AND model = ?
+            LIMIT 1
+            """,
+            (article, provider, model),
+        ).fetchone()
+        return row is not None
+
     def find_passing_match(
         self,
         *,
