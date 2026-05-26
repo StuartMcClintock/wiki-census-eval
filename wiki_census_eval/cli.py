@@ -7,7 +7,12 @@ from pathlib import Path
 from typing import List, Optional
 
 from .case_lists import write_case_list_from_evaluations
-from .clients import AnthropicCliJudgeClient, CodexJudgeClient, OpenAIJudgeClient
+from .clients import (
+    AnthropicCliJudgeClient,
+    AnthropicJudgeClient,
+    CodexJudgeClient,
+    OpenAIJudgeClient,
+)
 from .pipeline import EvaluationConfig, run_evaluation
 from .states import parse_state_filters
 
@@ -29,7 +34,7 @@ def main(argv: Optional[List[str]] = None) -> None:
     )
     evaluate.add_argument(
         "--provider",
-        choices=("openai", "codex", "anthropic-cli"),
+        choices=("openai", "anthropic", "codex", "anthropic-cli"),
         default="openai",
         help="Model runner to use for judging.",
     )
@@ -206,7 +211,13 @@ def main(argv: Optional[List[str]] = None) -> None:
         )
         client = None
         if not args.dry_run:
-            if args.provider == "anthropic-cli":
+            if args.provider == "anthropic":
+                client = AnthropicJudgeClient(
+                    model=model,
+                    max_output_tokens=args.max_output_tokens,
+                    timeout=args.timeout,
+                )
+            elif args.provider == "anthropic-cli":
                 client = AnthropicCliJudgeClient(
                     model=model,
                     claude_bin=args.claude_bin,
@@ -263,11 +274,11 @@ def main(argv: Optional[List[str]] = None) -> None:
 
 
 def _default_model_for_provider(provider: str) -> str:
-    if provider == "anthropic-cli":
+    if provider in {"anthropic", "anthropic-cli"}:
         return (
             os.getenv("ANTHROPIC_EVAL_MODEL")
             or os.getenv("CLAUDE_EVAL_MODEL")
-            or "sonnet"
+            or ("claude-sonnet-4-20250514" if provider == "anthropic" else "sonnet")
         )
     return os.getenv("OPENAI_EVAL_MODEL", "gpt-4.1-mini")
 
