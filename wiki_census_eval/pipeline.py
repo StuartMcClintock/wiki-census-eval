@@ -5,7 +5,7 @@ from collections import Counter
 from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Optional, Set
+from typing import Optional, Sequence, Set, Tuple
 
 from .artifacts import (
     ArtifactError,
@@ -34,6 +34,7 @@ class EvaluationConfig:
     skip_evaluated_by_model: bool = False
     skip_evaluated_by_provider: Optional[str] = None
     skip_evaluated_by_model_name: Optional[str] = None
+    skip_evaluated_by_provider_models: Optional[Tuple[Tuple[str, str], ...]] = None
     skip_passed: bool = False
     requested_model: Optional[str] = None
     min_model_strength: Optional[int] = None
@@ -59,8 +60,11 @@ def run_evaluation(config: EvaluationConfig, client: Optional[JudgeClient] = Non
         else model_strength(requested_model)
     )
     provider = client.provider if client is not None else "dry-run"
-    skip_provider = config.skip_evaluated_by_provider or provider
-    skip_model = config.skip_evaluated_by_model_name or requested_model
+    skip_provider_model_pairs = _skip_provider_model_pairs(
+        config,
+        provider=provider,
+        requested_model=requested_model,
+    )
     store = EvaluationStore(db_path)
     run_id = store.start_run(
         before_root=config.before_root,
@@ -104,11 +108,11 @@ def run_evaluation(config: EvaluationConfig, client: Optional[JudgeClient] = Non
                     counts["skipped_evaluated_articles"] += 1
                     continue
                 if (
-                    config.skip_evaluated_by_model
-                    and store.has_evaluation_for_article_by_model(
+                    skip_provider_model_pairs
+                    and _has_evaluation_for_any_provider_model(
+                        store,
                         article=case.metadata.article,
-                        provider=skip_provider,
-                        model=skip_model,
+                        provider_model_pairs=skip_provider_model_pairs,
                     )
                 ):
                     counts["skipped_evaluated_by_model"] += 1
@@ -226,19 +230,60 @@ def run_evaluation(config: EvaluationConfig, client: Optional[JudgeClient] = Non
         "counts": dict(counts),
         "issue_counts": dict(issue_counts),
         "skip_evaluated_articles": config.skip_evaluated_articles,
-        "skip_evaluated_by_model": config.skip_evaluated_by_model,
+        "skip_evaluated_by_model": bool(skip_provider_model_pairs),
         "skip_evaluated_by_provider": (
-            skip_provider if config.skip_evaluated_by_model else None
+            skip_provider_model_pairs[0][0]
+            if len(skip_provider_model_pairs) == 1
+            else None
         ),
         "skip_evaluated_by_model_name": (
-            skip_model if config.skip_evaluated_by_model else None
+            skip_provider_model_pairs[0][1]
+            if len(skip_provider_model_pairs) == 1
+            else None
         ),
+        "skip_evaluated_by_provider_models": [
+            {"provider": pair[0], "model": pair[1]}
+            for pair in skip_provider_model_pairs
+        ],
         "skip_passed": config.skip_passed,
         "requested_model": requested_model,
         "requested_model_strength": requested_model_strength,
         "dry_run": config.dry_run,
     }
     return summary
+
+
+def _skip_provider_model_pairs(
+    config: EvaluationConfig,
+    *,
+    provider: str,
+    requested_model: str,
+) -> Tuple[Tuple[str, str], ...]:
+    pairs = list(config.skip_evaluated_by_provider_models or ())
+    if config.skip_evaluated_by_model:
+        pairs.append(
+            (
+                config.skip_evaluated_by_provider or provider,
+                config.skip_evaluated_by_model_name or requested_model,
+            )
+        )
+    return tuple(dict.fromkeys(pairs))
+
+
+def _has_evaluation_for_any_provider_model(
+    store: EvaluationStore,
+    *,
+    article: str,
+    provider_model_pairs: Sequence[Tuple[str, str]],
+) -> bool:
+    return any(
+        store.has_evaluation_for_article_by_model(
+            article=article,
+            provider=provider,
+            model=model,
+        )
+        for provider, model in provider_model_pairs
+    )
 
 
 def _write_prompt(prompt_dir: Path, case_id: str, prompt: str) -> None:

@@ -40,12 +40,14 @@ To run through the Anthropic API SDK:
 ```bash
 python3 -m wiki_census_eval evaluate \
   --provider anthropic \
-  --model claude-sonnet-4-20250514 \
+  --model sonnet \
   --limit 20
 ```
 
 The Anthropic API provider uses the Messages API with a forced tool call, then
-validates the tool input against the same `JudgeResult` schema.
+validates the tool input against the same `JudgeResult` schema. For the
+Anthropic API provider, `--model sonnet` resolves to
+`claude-sonnet-4-20250514` before the request and database write.
 
 To run through Claude Code / Anthropic CLI instead of the Anthropic API SDK:
 
@@ -103,6 +105,18 @@ python3 -m wiki_census_eval evaluate \
   --provider anthropic-cli \
   --model sonnet \
   --case-list results/gpt-5.5-codex-nonpass-case-list.json
+```
+
+To skip articles already evaluated by either Claude Code Sonnet or Anthropic API
+Sonnet, repeat `--skip-evaluated-by-provider-model`:
+
+```bash
+python3 -m wiki_census_eval evaluate \
+  --provider anthropic \
+  --model sonnet \
+  --case-list results/gpt-5.5-codex-nonpass-case-list.json \
+  --skip-evaluated-by-provider-model anthropic-cli:sonnet \
+  --skip-evaluated-by-provider-model anthropic:sonnet
 ```
 
 `--states` restricts the artifact scan to one or more states. It accepts postal
