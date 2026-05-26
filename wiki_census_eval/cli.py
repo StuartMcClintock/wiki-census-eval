@@ -4,7 +4,7 @@ import argparse
 import json
 import os
 from pathlib import Path
-from typing import List, Optional
+from typing import List, Optional, Tuple
 
 from .case_lists import write_case_list_from_evaluations
 from .clients import (
@@ -15,6 +15,14 @@ from .clients import (
 )
 from .pipeline import EvaluationConfig, run_evaluation
 from .states import parse_state_filters
+
+
+ANTHROPIC_API_DEFAULT_MODEL = "claude-sonnet-4-20250514"
+_MODEL_ALIASES_BY_PROVIDER = {
+    "anthropic": {
+        "sonnet": ANTHROPIC_API_DEFAULT_MODEL,
+    },
+}
 
 
 def main(argv: Optional[List[str]] = None) -> None:
@@ -85,6 +93,14 @@ def main(argv: Optional[List[str]] = None) -> None:
     evaluate.add_argument(
         "--skip-evaluated-by-model-name",
         help="Model name to use with --skip-evaluated-by-model.",
+    )
+    evaluate.add_argument(
+        "--skip-evaluated-by-provider-model",
+        action="append",
+        help=(
+            "Skip articles already evaluated by a provider/model pair, formatted "
+            "as provider:model. Can be repeated and implies --skip-evaluated-by-model."
+        ),
     )
     evaluate.add_argument(
         "--skip-passed",
@@ -184,9 +200,15 @@ def main(argv: Optional[List[str]] = None) -> None:
 
     args = parser.parse_args(argv)
     if args.command == "evaluate":
-        model = args.model or _default_model_for_provider(args.provider)
+        model = _resolve_model_alias(
+            args.provider,
+            args.model or _default_model_for_provider(args.provider),
+        )
         try:
             state_fips_filter = parse_state_filters(args.states)
+            skip_provider_model_pairs = _parse_provider_model_pairs(
+                args.skip_evaluated_by_provider_model
+            )
         except ValueError as exc:
             parser.error(str(exc))
         config = EvaluationConfig(
@@ -201,7 +223,11 @@ def main(argv: Optional[List[str]] = None) -> None:
             skip_evaluated_articles=args.skip_evaluated_articles,
             skip_evaluated_by_model=args.skip_evaluated_by_model,
             skip_evaluated_by_provider=args.skip_evaluated_by_provider,
-            skip_evaluated_by_model_name=args.skip_evaluated_by_model_name,
+            skip_evaluated_by_model_name=_resolve_model_alias(
+                args.skip_evaluated_by_provider or args.provider,
+                args.skip_evaluated_by_model_name,
+            ),
+            skip_evaluated_by_provider_models=skip_provider_model_pairs or None,
             skip_passed=args.skip_passed,
             requested_model=model,
             min_model_strength=args.min_model_strength,
@@ -253,7 +279,7 @@ def main(argv: Optional[List[str]] = None) -> None:
                     db_path=db_path,
                     output_path=args.output,
                     provider=args.provider,
-                    model=args.model,
+                    model=_resolve_model_alias(args.provider, args.model),
                     verdicts=_split_repeated_csv(args.verdict),
                     exclude_verdicts=_split_repeated_csv(args.exclude_verdict),
                     include_historical=args.include_historical,
@@ -275,12 +301,22 @@ def main(argv: Optional[List[str]] = None) -> None:
 
 def _default_model_for_provider(provider: str) -> str:
     if provider in {"anthropic", "anthropic-cli"}:
-        return (
+        model = (
             os.getenv("ANTHROPIC_EVAL_MODEL")
             or os.getenv("CLAUDE_EVAL_MODEL")
-            or ("claude-sonnet-4-20250514" if provider == "anthropic" else "sonnet")
+            or ("sonnet" if provider == "anthropic" else "sonnet")
         )
+        return _resolve_model_alias(provider, model) or model
     return os.getenv("OPENAI_EVAL_MODEL", "gpt-4.1-mini")
+
+
+def _resolve_model_alias(provider: Optional[str], model: Optional[str]) -> Optional[str]:
+    if provider is None or model is None:
+        return model
+    aliases = _MODEL_ALIASES_BY_PROVIDER.get(provider)
+    if not aliases:
+        return model
+    return aliases.get(model.strip().lower(), model)
 
 
 def _split_repeated_csv(values: Optional[List[str]]) -> List[str]:
@@ -290,6 +326,23 @@ def _split_repeated_csv(values: Optional[List[str]]) -> List[str]:
     for value in values:
         parsed.extend(part.strip() for part in value.split(",") if part.strip())
     return parsed
+
+
+def _parse_provider_model_pairs(
+    values: Optional[List[str]],
+) -> List[Tuple[str, str]]:
+    pairs = []
+    for value in values or []:
+        provider, separator, model = value.partition(":")
+        if not separator or not provider.strip() or not model.strip():
+            raise ValueError(
+                "--skip-evaluated-by-provider-model must be formatted as "
+                "provider:model"
+            )
+        provider = provider.strip()
+        model = model.strip()
+        pairs.append((provider, _resolve_model_alias(provider, model) or model))
+    return pairs
 
 
 if __name__ == "__main__":

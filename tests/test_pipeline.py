@@ -75,6 +75,16 @@ class OtherModelJudgeClient(FakeJudgeClient):
     model = "other-model"
 
 
+class AnthropicCliSonnetJudgeClient(FakeJudgeClient):
+    provider = "anthropic-cli"
+    model = "sonnet"
+
+
+class AnthropicApiSonnetJudgeClient(FakeJudgeClient):
+    provider = "anthropic"
+    model = "claude-sonnet-4-20250514"
+
+
 def test_run_evaluation_writes_jsonl_and_summary(tmp_path: Path):
     before_root = _write_fixture(tmp_path)
     results_dir = tmp_path / "results"
@@ -425,6 +435,66 @@ def test_skip_evaluated_by_model_skips_matching_provider_model(tmp_path: Path):
     assert second["counts"]["skipped_evaluated_by_model"] == 1
     rows = _fetch_all(results_dir / "evaluations.sqlite", "SELECT id FROM evaluations")
     assert len(rows) == 1
+
+
+def test_skip_evaluated_by_model_skips_any_matching_provider_model_pair(
+    tmp_path: Path,
+):
+    _write_fixture(
+        tmp_path,
+        state_fips="01",
+        target_fips="00100",
+        slug="Alabama",
+        article="Sample,_Alabama",
+    )
+    before_root = _write_fixture(
+        tmp_path,
+        state_fips="13",
+        target_fips="00100",
+        slug="Georgia",
+        article="Sample,_Georgia",
+    )
+    results_dir = tmp_path / "results"
+
+    run_evaluation(
+        EvaluationConfig(
+            before_root=before_root,
+            results_dir=results_dir,
+            case_id="municipality/01/00100/Alabama",
+        ),
+        client=AnthropicCliSonnetJudgeClient(),
+    )
+    run_evaluation(
+        EvaluationConfig(
+            before_root=before_root,
+            results_dir=results_dir,
+            case_id="municipality/13/00100/Georgia",
+        ),
+        client=AnthropicApiSonnetJudgeClient(),
+    )
+    third = run_evaluation(
+        EvaluationConfig(
+            before_root=before_root,
+            results_dir=results_dir,
+            skip_evaluated_by_provider_models=(
+                ("anthropic-cli", "sonnet"),
+                ("anthropic", "claude-sonnet-4-20250514"),
+            ),
+        ),
+        client=FakeJudgeClient(),
+    )
+
+    assert third["processed"] == 0
+    assert third["counts"]["skipped_evaluated_by_model"] == 2
+    assert third["skip_evaluated_by_model"] is True
+    assert third["skip_evaluated_by_provider"] is None
+    assert third["skip_evaluated_by_model_name"] is None
+    assert third["skip_evaluated_by_provider_models"] == [
+        {"provider": "anthropic-cli", "model": "sonnet"},
+        {"provider": "anthropic", "model": "claude-sonnet-4-20250514"},
+    ]
+    rows = _fetch_all(results_dir / "evaluations.sqlite", "SELECT id FROM evaluations")
+    assert len(rows) == 2
 
 
 def test_skip_passed_does_not_reuse_when_after_hash_changes(tmp_path: Path):
